@@ -1,5 +1,5 @@
-Stufen: Heiler -, Zauberer 3, Schwarzmagier 1<br>
-Kosten: 10 <br>
+Stufen:Heiler -, Zauberer 3, Schwarzmagier 1<br>
+Kosten:10 <br>
 Zauberbonus: -(GEI+VE)/2 des Ziels<br>
 Dauer: Probenergebnis in KR<br>
 Reichweite: VE x 2 Meter<br>
