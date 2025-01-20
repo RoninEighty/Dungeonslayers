@@ -1,7 +1,4 @@
 #### Index
-
-[Ablenken]
-
-[Aderplatzer]
+[Ablenken](Ablenken)<br>
 
 Hier wird **kursiv** geschrieben.
