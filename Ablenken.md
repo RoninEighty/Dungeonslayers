@@ -8,6 +8,8 @@ Art: G[!]<br>
 
 Beschreibung: Das Ziel erhält -1 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.<br>Ebenso wirkt Ablenken nicht mit Wolke der Ablenkung, Verbessertes Ablenken, Mächtiges Ablenken und Großes Ablenken - der höhere Abzug zählt.<br>
 
-Quelle: Grimmoire 1<br>
-Text: Bruder Grimm<br>
-CC BY-NC-SA 3.0 DE
+
+
+
+Quelle: Grimmoire 1 von Bruder Grimm<br>
+Fanaddition for Dungeonslayers (C) Christian Kennig | License: CC-BY-CA-SA 4.0
