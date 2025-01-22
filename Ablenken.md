@@ -13,7 +13,7 @@ Beschreibung: Das Ziel erhält -1 auf Zaubern und Zielzauber. Weitere Anwendunge
 
 
 
-Dies ist ein Fanwerk für DUNGEONSLAYERS (C) von Christian Kennig
+Dies ist ein Fanwerk für DUNGEONSLAYERS (C) von Christian Kennig<br>
 Quelle: [Grimmoire 1 von Bruder Grimm](https://www.f-space.de/ds4/downloads.html)
 License: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtlinien/)
