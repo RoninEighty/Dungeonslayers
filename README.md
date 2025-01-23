@@ -1,1 +1,2 @@
 # Dungeonslayers
+Dungeonslayers ist ein freies Pen & Paper Rollenspiel, entwickelt von Christian Kennig. Es ist lizensiert unter der Lizenz [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/deed.de). In diesem Repository sollen die unterschiedlichen Regeln aus dem offiziellen Regelwerk, sowie aus unterschiedlichen Fanwerken gesammelt werden. Es handelt sich dabei um ein Fanprojekt. Die offizielle Dungeonslayers-Webpage ist unter dem Link https://dungeonslayers.net/ zu finden.
