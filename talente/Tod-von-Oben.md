@@ -1,0 +1,28 @@
+<!---
+Dies ist ein Fanwerk für DUNGEONSLAYERS (C) von Christian Kennig
+
+Quellen:      [Bruder Grimms Talentpaket 2](https://www.f-space.de/ds4/downloads.html)
+              [Talentbeschreibungen](https://www.f-space.de/ds4/tools-talentcards.html)
+License:      [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtlinien/)
+Autor:        Zauberlehrling
+-->
+
+  
+# Tod von Oben  
+- Kategorie: #Talent  
+- Quelle: Bruder Grimms Talentpaket 2  
+- Zugangsstufen:  
+  - KRI 8 [5]  
+  - SPÄ 4 [5]  
+  - DRU 12 [3]  
+  - ELE 12 [3]  
+  - KMÖ 10 [3]  
+  - KRZ 10 [3]  
+
+## Beschreibung  
+Der Charakter erhält den Talentrang auf den Probenwert aller Angriffe, die aus erhöhter oder fliegender Position erfolgen.
+
+
+___  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
