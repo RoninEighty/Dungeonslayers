@@ -4,6 +4,7 @@
 
 - [Attribute & Eigenschaften](grw/charaktere-attribute-eigenschaften.md)
 - [Charaktererschaffung](grw/charaktere-charaktererschaffung.md)
+- [Erfahrung](grw/Erfahrung.md)
 
 ## Fanwerke
 
