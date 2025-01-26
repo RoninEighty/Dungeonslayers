@@ -2,8 +2,8 @@
 
 ## Grundregelwerk
 
-- [Attribute & Eigenschaften](grw/charaktere-attribute-eigenschaften.html)
+- [Attribute & Eigenschaften](grw/charaktere-attribute-eigenschaften.md)
 
 ## Fanwerke
 
-- [Schiff Ahoi!](schiff-ahoi/schiff-ahoi.html)
+- [Schiff Ahoi!](schiff-ahoi/schiff-ahoi.md)
