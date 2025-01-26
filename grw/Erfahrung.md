@@ -46,6 +46,7 @@ Es kann vorkommen, dass man erst eine Stufe lang sparen muss, um sich eine besti
 | Krieger   | 2   | 2   | 3   | 3   | 3   | 3   | 1   | 3   |
 | Späher    | 3   | 3   | 2   | 2   | 3   | 3   | 1   | 3   |
 | Zauberw.  | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 3   |
+
 Pro LP-Zahlung +1 auf jeweilige Eigenschaft, LK oder TP
 
 **Beispiel:**
