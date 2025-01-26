@@ -1,4 +1,9 @@
-#### Index
-[Ablenken](Ablenken)<br>
+# DS4 SRD+
 
-Hier wird **kursiv** geschrieben.
+## Grundregelwerk
+
+- [Attribute & Eigenschaften](grw/charaktere-attribute-eigenschaften.md)
+
+## Fanwerke
+
+- [Schiff Ahoi!](schiff-ahoi/schiff-ahoi.md)
