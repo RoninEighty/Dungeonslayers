@@ -3,6 +3,7 @@
 ## Grundregelwerk
 
 - [Attribute & Eigenschaften](grw/charaktere-attribute-eigenschaften.md)
+- [Charaktererschaffung](grw/charaktere-charaktererschaffung.md)
 
 ## Fanwerke
 
