@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # F체rsorger  
 - Kategorie: #Talent  
-- Quelle: Dungeonslayers Grundregelwerk  
 - Zugangsstufen:  
   - Hei 1 [3]  
   - PAL 10 [3]  
@@ -21,4 +20,4 @@ Der Charakter ist ge체bt im Umgang mit heilender und sch체tzender Magie. Er erh�
 
 
 ___  
-*Fanwerk f체r [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk f체r [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Dungeonslayers Grundregelwerk | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Aus den Beinen!  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 3  
 - Zugangsstufen:  
   - ZAW 4 [3]  
   - BÜR 4 [1]  
@@ -22,4 +21,4 @@ Du magst stark sein oder nicht, auf jeden Fall weißt du deine Kraft durch Einsa
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

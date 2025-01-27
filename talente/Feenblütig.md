@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Feenblütig  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 3  
 - Zugangsstufen:  
   - KRI 1 [3]  
   - SPÄ 1 [3]  
@@ -25,4 +24,4 @@ Das Erbe von Feen zeigt sich in deiner grazilen Gestalt und deinen gewandten Bew
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Aberglaube  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 3  
 - Zugangsstufen:  
   - KRI 1 [3]  
   - BÜR 1 [3]  
@@ -22,4 +21,4 @@ So wie du feindliche Magie fürchtest, so sehr fühlst du dich von Zauberwirkern
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

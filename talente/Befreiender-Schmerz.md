@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Befreiender Schmerz  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 3  
 - Zugangsstufen:  
   - BER 12 [3]  
   - BLU 10 [5]  
@@ -21,4 +20,4 @@ Schmerz befreit den Geist. Einmal pro Kampf pro Talentrang darfst du einen geist
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

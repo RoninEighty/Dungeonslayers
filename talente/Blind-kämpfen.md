@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Blind kämpfen  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 2  
 - Zugangsstufen:  
   - KRI 4 [6]  
   - SPÄ 4 [3]  
@@ -24,4 +23,4 @@ Alle Abzüge, die der Charakter im Nahkampf erhält aufgrund mangelnder Sicht (z
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
