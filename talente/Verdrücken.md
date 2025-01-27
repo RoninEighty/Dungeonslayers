@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Verdrücken  
 - Kategorie: #Talent  
-- Quelle: Dungeonslayers Grundregelwerk  
 - Zugangsstufen:  
   - ATT 14 [3]  
   - KMÖ 12 [3]  
@@ -22,4 +21,4 @@ Der Charakter kann sich bei den Aktionen Aufstehen und Rennen zusätzlich um ein
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Dungeonslayers Grundregelwerk | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

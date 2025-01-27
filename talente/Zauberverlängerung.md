@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Zauberverlängerung  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 2  
 - Zugangsstufen:  
   - ZAW 4 [3]  
   - Hei 10 [5]  
@@ -23,4 +22,4 @@ Pro Talentrang kann der Zauberwirker einmal  24 Stunden die Dauer eines Zaubers 
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

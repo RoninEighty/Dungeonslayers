@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Verspotten  
 - Kategorie: #Talent  
-- Quelle: Slay 02 Urbane Heldenklassen  
 - Zugangsstufen:  
   - BAR 10 [5]  
 
@@ -20,4 +19,4 @@ Einmal pro Kampf pro Talentrang kann der Charakter ein Ziel (das ihn verstehen k
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Slay 02 Urbane Heldenklassen | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

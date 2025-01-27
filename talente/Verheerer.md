@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Verheerer  
 - Kategorie: #Talent  
-- Quelle: Dungeonslayers Grundregelwerk  
 - Zugangsstufen:  
   - ZAW 8 [3]  
   - ELE 12 [5]  
@@ -24,4 +23,4 @@ Der Charakter versteht es, seine Magie verheerend einzusetzen: Die Abwehr des Ge
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Dungeonslayers Grundregelwerk | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Zehrender Spurt  
 - Kategorie: #Talent  
-- Quelle: Dungeonslayers Grundregelwerk  
 - Zugangsstufen:  
   - BLU 10 [3]  
 
@@ -20,4 +19,4 @@ Der Blutmagier kann für das Opfern von 1LK (zählt als freie Aktion) seinen Wer
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Dungeonslayers Grundregelwerk | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

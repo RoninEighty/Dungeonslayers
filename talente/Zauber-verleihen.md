@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Zauber verleihen  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 1  
 - Zugangsstufen:  
   - ZAW 8 [1]  
   - HEI 8 [3]  
@@ -22,4 +21,4 @@ Pro Talentrang kann der Zauberwirker alle 24 h einmal einen der ihm bekannten Za
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 1 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

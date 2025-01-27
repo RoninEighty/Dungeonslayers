@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Waffenkenner  
 - Kategorie: #Talent  
-- Quelle: Dungeonslayers Grundregelwerk  
 - Zugangsstufen:  
   - KRI 8 [3]  
   - SPÄ 12 [3]  
@@ -23,4 +22,4 @@ Pro Talentrang kann der Charakter besondere Kenntnisse im Umgang mit einer besti
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Dungeonslayers Grundregelwerk | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

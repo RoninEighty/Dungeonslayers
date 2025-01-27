@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Verdunklungshammer  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 2  
 - Zugangsstufen:  
   - KRI 12 [3]  
   - SPÄ 8 [3]  
@@ -24,4 +23,4 @@ Einmal pro Kampf kann der Charakter einen Gegner versuchen, mit einem Nahkampfan
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
