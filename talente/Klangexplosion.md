@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Klangexplosion  
 - Kategorie: #Talent  
-- Quelle: Slay 02 Urbane Heldenklassen  
 - Zugangsstufen:  
   - BAR 14 [3]  
 
@@ -20,4 +19,4 @@ Einmal pro Kampf kann der Charakter als Aktion eine ohrenbetäubende Symphonie d
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Slay 02 Urbane Heldenklassen | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
