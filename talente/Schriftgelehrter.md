@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Schriftgelehrter  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 1  
 - Zugangsstufen:  
   - ZAW 8 [3]  
   - ERZ 10 [5]  
@@ -21,4 +20,4 @@ Für jeden Talentrang kann der Zauberwirker einmal alle 24 h einen Zauber von ei
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 1 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

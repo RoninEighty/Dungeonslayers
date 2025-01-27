@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Umgebung spüren  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 1  
 - Zugangsstufen:  
   - DRU 12 [5]  
   - WDL 12 [3]  
@@ -22,4 +21,4 @@ Einmal alle 24 Stunden kann sich der Charakter mit seiner Umgebung in Einklang b
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 1 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

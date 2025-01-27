@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Schildwall  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 2  
 - Zugangsstufen:  
   - KRI 1 [3]  
   - Hei 4 [3]  
@@ -25,4 +24,4 @@ Sofern mindestens ein Verbündeter mit Schild und mindestens ebenfalls einem Ran
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

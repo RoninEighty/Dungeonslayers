@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Stärkung  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 2  
 - Zugangsstufen:  
   - Zau 12 [3]  
   - Hei 8 [5]  
@@ -22,4 +21,4 @@ Pro Talentrang kann der Charakter einmal alle 24 Stunden einen stärkenden Segen
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

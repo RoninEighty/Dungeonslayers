@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Seelenbindung  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 2  
 - Zugangsstufen:  
   - NEK 16 [5]  
 
@@ -20,4 +19,4 @@ Der Nekromant bindet seine Seele an einen bestimmten unbelebten Gegenstand mit e
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

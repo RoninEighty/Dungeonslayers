@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Samtpfote  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 1  
 - Zugangsstufen:  
   - ATT 12 [3]  
   - MDB 12 [3]  
@@ -23,4 +22,4 @@ Der Charakter erhält auf alle Schleichen-Proben einen Bonus von 2 pro Talentran
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 1 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

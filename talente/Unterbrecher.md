@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Unterbrecher  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 1  
 - Zugangsstufen:  
   - KRI 8 [5]  
   - SPÄ 8 [5]  
@@ -21,4 +20,4 @@ Der Charakter versteht es, allein durch Einsatz seiner Waffen Zauberkundige in i
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 1 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Spiegeltrick  
 - Kategorie: #Talent  
-- Quelle: Slay 02 Urbane Heldenklassen  
 - Zugangsstufen:  
   - ILL 10 [3]  
 
@@ -20,4 +19,4 @@ Einmal pro Kampf pro Talentrang kann der Zauberer einem gegen ihn gerichteten sc
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Slay 02 Urbane Heldenklassen | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  

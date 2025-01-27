@@ -11,7 +11,6 @@ Autor:        Zauberlehrling
   
 # Riesenblütig  
 - Kategorie: #Talent  
-- Quelle: Bruder Grimms Talentpaket 3  
 - Zugangsstufen:  
   - KRI 1 [3]  
   - SPÄ 1 [3]  
@@ -25,4 +24,4 @@ Das Erbe von Riesen zeigt sich in deiner massigen Statur, deinem hohen Wuchs, ab
 
 
 ___  
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle:Bruder Grimms Talentpaket 3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*  
