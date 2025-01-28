@@ -6,6 +6,8 @@
 - [Charaktererschaffung](grw/charaktere-charaktererschaffung.md)
 - [Erfahrung](grw/Erfahrung.md)
 
+  [Wolke der Ablenkung](Wolke der Ablenkung.md)
+
 ## Fanwerke
 
 - [Schiff Ahoi!](schiff-ahoi/schiff-ahoi.md)
