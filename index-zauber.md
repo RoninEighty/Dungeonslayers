@@ -1,4 +1,4 @@
-# Übersicht Zauber
+# Übersicht Zauber<br>
 [Ablenken](<zauber/Ablenken.md>)<br>
 [Aderplatzer](<zauber/Aderplatzer.md>)<br>
 [Alle Zauber aufheben](<zauber/Alle Zauber aufheben.md>)<br>
