@@ -1,4 +1,4 @@
-#Sinne schärfen  
+# Sinne schärfen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

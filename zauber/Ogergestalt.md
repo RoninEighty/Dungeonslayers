@@ -1,4 +1,4 @@
-#Ogergestalt  
+# Ogergestalt  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Vergrössern  
+# Vergrössern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Versetzte Stimme  
+# Versetzte Stimme  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

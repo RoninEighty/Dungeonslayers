@@ -1,4 +1,4 @@
-#Arkane Faust  
+# Arkane Faust  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

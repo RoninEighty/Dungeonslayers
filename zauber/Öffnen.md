@@ -1,4 +1,4 @@
-#Öffnen  
+# Öffnen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

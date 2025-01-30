@@ -1,4 +1,4 @@
-#Eigenschaft stärken  
+# Eigenschaft stärken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 9  

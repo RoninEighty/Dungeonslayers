@@ -1,4 +1,4 @@
-#Steinwaffe  
+# Steinwaffe  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

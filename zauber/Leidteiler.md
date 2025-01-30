@@ -1,4 +1,4 @@
-#Leidteiler  
+# Leidteiler  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

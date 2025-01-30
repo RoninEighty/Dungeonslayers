@@ -1,4 +1,4 @@
-#Heilungsraub  
+# Heilungsraub  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

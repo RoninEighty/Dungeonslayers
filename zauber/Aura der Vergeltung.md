@@ -1,4 +1,4 @@
-#Aura der Vergeltung  
+# Aura der Vergeltung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

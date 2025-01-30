@@ -1,4 +1,4 @@
-#Schwerkraft umkehren  
+# Schwerkraft umkehren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

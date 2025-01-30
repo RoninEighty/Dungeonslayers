@@ -1,4 +1,4 @@
-#Heilende Hand  
+# Heilende Hand  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

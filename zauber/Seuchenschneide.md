@@ -1,4 +1,4 @@
-#Seuchenschneide  
+# Seuchenschneide  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

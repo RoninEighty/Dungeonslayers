@@ -1,4 +1,4 @@
-#Schreckensklinge  
+# Schreckensklinge  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

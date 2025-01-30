@@ -1,4 +1,4 @@
-#Minderer Schutz  
+# Minderer Schutz  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

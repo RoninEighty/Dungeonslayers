@@ -1,4 +1,4 @@
-#Heilendes Licht  
+# Heilendes Licht  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

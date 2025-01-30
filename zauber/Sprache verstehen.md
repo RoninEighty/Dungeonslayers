@@ -1,4 +1,4 @@
-#Sprache verstehen  
+# Sprache verstehen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

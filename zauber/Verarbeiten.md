@@ -1,4 +1,4 @@
-#Verarbeiten  
+# Verarbeiten  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Schwebende Schutzsphäre  
+# Schwebende Schutzsphäre  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 20  

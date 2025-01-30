@@ -1,4 +1,4 @@
-#Waffe beleben  
+# Waffe beleben  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

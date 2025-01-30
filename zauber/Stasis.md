@@ -1,4 +1,4 @@
-#Stasis  
+# Stasis  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 19  

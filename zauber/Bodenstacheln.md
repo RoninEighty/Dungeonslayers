@@ -1,4 +1,4 @@
-#Bodenstacheln  
+# Bodenstacheln  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

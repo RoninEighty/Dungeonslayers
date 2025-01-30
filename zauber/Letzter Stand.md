@@ -1,4 +1,4 @@
-#Letzter Stand  
+# Letzter Stand  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

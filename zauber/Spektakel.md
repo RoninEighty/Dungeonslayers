@@ -1,4 +1,4 @@
-#Spektakel  
+# Spektakel  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

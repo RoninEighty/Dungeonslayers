@@ -1,4 +1,4 @@
-#Magische Barriere  
+# Magische Barriere  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 14  

@@ -1,4 +1,4 @@
-#Verlangsamen  
+# Verlangsamen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

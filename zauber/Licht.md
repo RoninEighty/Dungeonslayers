@@ -1,4 +1,4 @@
-#Licht  
+# Licht  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

@@ -1,4 +1,4 @@
-#Wasser teilen  
+# Wasser teilen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

@@ -1,4 +1,4 @@
-#Verbergende Aura  
+# Verbergende Aura  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

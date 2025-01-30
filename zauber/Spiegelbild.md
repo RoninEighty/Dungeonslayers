@@ -1,4 +1,4 @@
-#Spiegelbild  
+# Spiegelbild  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

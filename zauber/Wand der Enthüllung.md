@@ -1,4 +1,4 @@
-#Wand der Enthüllung  
+# Wand der Enthüllung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 16  

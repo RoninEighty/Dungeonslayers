@@ -1,4 +1,4 @@
-#Prophezeihung  
+# Prophezeihung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

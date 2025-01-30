@@ -1,4 +1,4 @@
-#Glühender Glaube  
+# Glühender Glaube  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

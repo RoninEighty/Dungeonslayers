@@ -1,4 +1,4 @@
-#Wandöffnung  
+# Wandöffnung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

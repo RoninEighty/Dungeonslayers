@@ -1,4 +1,4 @@
-#Licht spüren  
+# Licht spüren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

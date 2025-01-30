@@ -1,4 +1,4 @@
-#Trollgestalt  
+# Trollgestalt  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

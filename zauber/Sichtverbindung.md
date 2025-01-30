@@ -1,4 +1,4 @@
-#Sichtverbindung  
+# Sichtverbindung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

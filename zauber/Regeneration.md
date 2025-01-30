@@ -1,4 +1,4 @@
-#Regeneration  
+# Regeneration  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 15  

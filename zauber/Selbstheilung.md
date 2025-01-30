@@ -1,4 +1,4 @@
-#Selbstheilung  
+# Selbstheilung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

@@ -1,4 +1,4 @@
-#Schattenexplosion  
+# Schattenexplosion  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

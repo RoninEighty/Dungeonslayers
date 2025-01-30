@@ -1,4 +1,4 @@
-#Zauberverbot  
+# Zauberverbot  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

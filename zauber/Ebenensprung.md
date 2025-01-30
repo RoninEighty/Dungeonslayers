@@ -1,4 +1,4 @@
-#Ebenensprung  
+# Ebenensprung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 18  

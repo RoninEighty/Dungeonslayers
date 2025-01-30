@@ -1,4 +1,4 @@
-#Gegner fernhalten  
+# Gegner fernhalten  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

@@ -1,4 +1,4 @@
-#Gedächtnislöschung  
+# Gedächtnislöschung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

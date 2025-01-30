@@ -1,4 +1,4 @@
-#Schutzschild stärken  
+# Schutzschild stärken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

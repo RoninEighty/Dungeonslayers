@@ -1,4 +1,4 @@
-#Giftlanze  
+# Giftlanze  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

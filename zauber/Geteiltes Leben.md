@@ -1,4 +1,4 @@
-#Geteiltes Leben  
+# Geteiltes Leben  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

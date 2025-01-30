@@ -1,4 +1,4 @@
-#Magischer Blick  
+# Magischer Blick  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 11  

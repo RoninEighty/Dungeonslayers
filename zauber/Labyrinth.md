@@ -1,4 +1,4 @@
-#Labyrinth  
+# Labyrinth  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

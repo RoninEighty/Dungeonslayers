@@ -1,4 +1,4 @@
-#Verbessertes Ablenken  
+# Verbessertes Ablenken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

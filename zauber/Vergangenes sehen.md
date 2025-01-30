@@ -1,4 +1,4 @@
-#Vergangenes sehen  
+# Vergangenes sehen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

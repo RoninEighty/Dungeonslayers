@@ -1,4 +1,4 @@
-#Niesanfall  
+# Niesanfall  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

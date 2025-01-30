@@ -1,4 +1,4 @@
-#Vor Konstrukten verstecken  
+# Vor Konstrukten verstecken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

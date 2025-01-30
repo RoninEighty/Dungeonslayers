@@ -1,4 +1,4 @@
-#Wind kontrollieren  
+# Wind kontrollieren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Verbessertes Schwächen  
+# Verbessertes Schwächen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

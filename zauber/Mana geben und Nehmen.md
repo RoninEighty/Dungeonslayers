@@ -1,4 +1,4 @@
-#Mana geben und Nehmen  
+# Mana geben und Nehmen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

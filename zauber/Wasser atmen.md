@@ -1,4 +1,4 @@
-#Wasser atmen  
+# Wasser atmen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

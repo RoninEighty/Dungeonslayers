@@ -1,4 +1,4 @@
-#Lichtexplosion  
+# Lichtexplosion  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 15  

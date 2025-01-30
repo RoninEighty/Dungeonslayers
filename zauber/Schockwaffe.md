@@ -1,4 +1,4 @@
-#Schockwaffe  
+# Schockwaffe  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

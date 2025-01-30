@@ -1,4 +1,4 @@
-#Gegenstand entdecken  
+# Gegenstand entdecken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

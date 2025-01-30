@@ -1,4 +1,4 @@
-#Anpassung  
+# Anpassung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

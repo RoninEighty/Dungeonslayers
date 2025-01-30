@@ -1,4 +1,4 @@
-#Balancieren  
+# Balancieren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

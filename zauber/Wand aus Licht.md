@@ -1,4 +1,4 @@
-#Wand aus Licht  
+# Wand aus Licht  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

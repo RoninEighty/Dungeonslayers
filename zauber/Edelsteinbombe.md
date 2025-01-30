@@ -1,4 +1,4 @@
-#Edelsteinbombe  
+# Edelsteinbombe  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 16  

@@ -1,4 +1,4 @@
-#Lichtpfeil  
+# Lichtpfeil  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

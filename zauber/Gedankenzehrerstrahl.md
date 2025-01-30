@@ -1,4 +1,4 @@
-#Gedankenzehrerstrahl  
+# Gedankenzehrerstrahl  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

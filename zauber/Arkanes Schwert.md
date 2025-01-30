@@ -1,4 +1,4 @@
-#Arkanes Schwert  
+# Arkanes Schwert  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

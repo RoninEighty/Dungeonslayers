@@ -1,4 +1,4 @@
-#Geisterpfeil  
+# Geisterpfeil  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Amok  
+# Amok  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

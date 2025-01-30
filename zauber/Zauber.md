@@ -1,4 +1,4 @@
-#Zauber  
+# Zauber  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: Zugang Hei  

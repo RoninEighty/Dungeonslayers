@@ -1,4 +1,4 @@
-#Dunkle Segnung  
+# Dunkle Segnung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Kugelblitz  
+# Kugelblitz  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 19  

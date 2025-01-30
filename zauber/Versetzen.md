@@ -1,4 +1,4 @@
-#Versetzen  
+# Versetzen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

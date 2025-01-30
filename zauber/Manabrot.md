@@ -1,4 +1,4 @@
-#Manabrot  
+# Manabrot  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

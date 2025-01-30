@@ -1,4 +1,4 @@
-#Schleimwand  
+# Schleimwand  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

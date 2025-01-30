@@ -1,4 +1,4 @@
-#Rune des Lebens  
+# Rune des Lebens  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

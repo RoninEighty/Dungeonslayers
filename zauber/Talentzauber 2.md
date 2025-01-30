@@ -1,4 +1,4 @@
-#Talentzauber 2  
+# Talentzauber 2  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 9  

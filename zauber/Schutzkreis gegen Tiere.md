@@ -1,4 +1,4 @@
-#Schutzkreis gegen Tiere  
+# Schutzkreis gegen Tiere  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

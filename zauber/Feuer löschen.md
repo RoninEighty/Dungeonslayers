@@ -1,4 +1,4 @@
-#Feuer löschen  
+# Feuer löschen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 9  

@@ -1,4 +1,4 @@
-#Eigenschaft verbessern  
+# Eigenschaft verbessern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

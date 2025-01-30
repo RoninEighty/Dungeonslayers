@@ -1,4 +1,4 @@
-#Gift verstärken  
+# Gift verstärken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

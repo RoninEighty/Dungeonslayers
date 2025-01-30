@@ -1,4 +1,4 @@
-#Zweites Leben  
+# Zweites Leben  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 14  

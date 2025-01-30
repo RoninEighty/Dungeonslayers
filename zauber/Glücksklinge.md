@@ -1,4 +1,4 @@
-#Glücksklinge  
+# Glücksklinge  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

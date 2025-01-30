@@ -1,4 +1,4 @@
-#Geistige Verbindung  
+# Geistige Verbindung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Geheimtür  
+# Geheimtür  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

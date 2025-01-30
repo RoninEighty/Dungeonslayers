@@ -1,4 +1,4 @@
-#Heilende Sphäre  
+# Heilende Sphäre  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

@@ -1,4 +1,4 @@
-#Kleiner Terror  
+# Kleiner Terror  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

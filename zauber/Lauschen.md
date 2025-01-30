@@ -1,4 +1,4 @@
-#Lauschen  
+# Lauschen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

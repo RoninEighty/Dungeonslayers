@@ -1,4 +1,4 @@
-#Edelsteinfalle  
+# Edelsteinfalle  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 17  

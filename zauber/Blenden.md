@@ -1,4 +1,4 @@
-#Blenden  
+# Blenden  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

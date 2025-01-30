@@ -1,4 +1,4 @@
-#Eigenschaft erhöhen  
+# Eigenschaft erhöhen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

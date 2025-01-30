@@ -1,4 +1,4 @@
-#Hast  
+# Hast  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

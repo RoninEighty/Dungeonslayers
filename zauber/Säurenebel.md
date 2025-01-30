@@ -1,4 +1,4 @@
-#Säurenebel  
+# Säurenebel  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

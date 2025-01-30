@@ -1,4 +1,4 @@
-#Verbesserte Magische Faust  
+# Verbesserte Magische Faust  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

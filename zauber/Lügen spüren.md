@@ -1,4 +1,4 @@
-#Lügen spüren  
+# Lügen spüren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

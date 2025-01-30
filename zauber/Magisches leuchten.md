@@ -1,4 +1,4 @@
-#Magisches leuchten  
+# Magisches leuchten  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

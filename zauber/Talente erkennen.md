@@ -1,4 +1,4 @@
-#Talente erkennen  
+# Talente erkennen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

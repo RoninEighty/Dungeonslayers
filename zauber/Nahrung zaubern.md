@@ -1,4 +1,4 @@
-#Nahrung zaubern  
+# Nahrung zaubern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

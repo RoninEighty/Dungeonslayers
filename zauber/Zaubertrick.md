@@ -1,4 +1,4 @@
-#Zaubertrick  
+# Zaubertrick  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

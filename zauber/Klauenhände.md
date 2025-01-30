@@ -1,4 +1,4 @@
-#Klauenhände  
+# Klauenhände  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

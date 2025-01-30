@@ -1,4 +1,4 @@
-#Gerinnsel  
+# Gerinnsel  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

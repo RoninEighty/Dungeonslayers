@@ -1,4 +1,4 @@
-#Heiliger Hammer  
+# Heiliger Hammer  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

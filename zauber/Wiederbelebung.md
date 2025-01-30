@@ -1,4 +1,4 @@
-#Wiederbelebung  
+# Wiederbelebung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

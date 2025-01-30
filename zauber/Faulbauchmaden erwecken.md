@@ -1,4 +1,4 @@
-#Faulbauchmaden erwecken  
+# Faulbauchmaden erwecken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

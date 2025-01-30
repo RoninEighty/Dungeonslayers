@@ -1,4 +1,4 @@
-#Lavaspalt  
+# Lavaspalt  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 20  

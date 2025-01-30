@@ -1,4 +1,4 @@
-#Zauberspiegel  
+# Zauberspiegel  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 14  

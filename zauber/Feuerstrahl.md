@@ -1,4 +1,4 @@
-#Feuerstrahl  
+# Feuerstrahl  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

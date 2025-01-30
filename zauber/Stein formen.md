@@ -1,4 +1,4 @@
-#Stein formen  
+# Stein formen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 9  

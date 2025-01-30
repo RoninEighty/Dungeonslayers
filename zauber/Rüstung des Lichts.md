@@ -1,4 +1,4 @@
-#Rüstung des Lichts  
+# Rüstung des Lichts  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 9  

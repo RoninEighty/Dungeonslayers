@@ -1,4 +1,4 @@
-#Geist leeren  
+# Geist leeren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

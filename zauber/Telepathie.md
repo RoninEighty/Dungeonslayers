@@ -1,4 +1,4 @@
-#Telepathie  
+# Telepathie  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Ruf des Lichts  
+# Ruf des Lichts  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 13  

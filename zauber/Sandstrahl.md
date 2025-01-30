@@ -1,4 +1,4 @@
-#Sandstrahl  
+# Sandstrahl  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

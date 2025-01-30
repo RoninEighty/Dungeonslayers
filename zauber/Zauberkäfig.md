@@ -1,4 +1,4 @@
-#Zauberkäfig  
+# Zauberkäfig  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

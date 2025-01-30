@@ -1,4 +1,4 @@
-#Lichtsäule  
+# Lichtsäule  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 16  

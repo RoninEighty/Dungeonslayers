@@ -1,4 +1,4 @@
-#Durchlässig  
+# Durchlässig  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Erzwungenes Versetzen  
+# Erzwungenes Versetzen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 14  

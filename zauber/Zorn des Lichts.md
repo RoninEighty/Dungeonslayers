@@ -1,4 +1,4 @@
-#Zorn des Lichts  
+# Zorn des Lichts  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

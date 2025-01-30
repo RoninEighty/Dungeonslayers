@@ -1,4 +1,4 @@
-#Erzwungenes Verkleinern  
+# Erzwungenes Verkleinern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

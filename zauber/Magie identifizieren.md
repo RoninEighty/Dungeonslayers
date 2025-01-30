@@ -1,4 +1,4 @@
-#Magie identifizieren  
+# Magie identifizieren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

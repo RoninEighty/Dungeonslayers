@@ -1,4 +1,4 @@
-#Auferstehung  
+# Auferstehung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 20  

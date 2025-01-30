@@ -1,4 +1,4 @@
-#Gestalt verändern  
+# Gestalt verändern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

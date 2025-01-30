@@ -1,4 +1,4 @@
-#Entzaubern  
+# Entzaubern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 20  

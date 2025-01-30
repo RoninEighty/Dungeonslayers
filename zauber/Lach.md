@@ -1,4 +1,4 @@
-#Lach  
+# Lach  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

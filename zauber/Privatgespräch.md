@@ -1,4 +1,4 @@
-#Privatgespräch  
+# Privatgespräch  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

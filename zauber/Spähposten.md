@@ -1,4 +1,4 @@
-#Spähposten  
+# Spähposten  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

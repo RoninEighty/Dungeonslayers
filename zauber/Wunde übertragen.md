@@ -1,4 +1,4 @@
-#Wunde übertragen  
+# Wunde übertragen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

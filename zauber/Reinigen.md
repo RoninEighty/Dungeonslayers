@@ -1,4 +1,4 @@
-#Reinigen  
+# Reinigen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

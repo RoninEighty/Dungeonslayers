@@ -1,4 +1,4 @@
-#Giftstrahl  
+# Giftstrahl  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

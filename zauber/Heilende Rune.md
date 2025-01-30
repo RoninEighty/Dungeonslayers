@@ -1,4 +1,4 @@
-#Heilende Rune  
+# Heilende Rune  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

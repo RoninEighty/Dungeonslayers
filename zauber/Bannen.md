@@ -1,4 +1,4 @@
-#Bannen  
+# Bannen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

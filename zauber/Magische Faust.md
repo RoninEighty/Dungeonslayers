@@ -1,4 +1,4 @@
-#Magische Faust  
+# Magische Faust  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

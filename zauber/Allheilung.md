@@ -1,4 +1,4 @@
-#Allheilung  
+# Allheilung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

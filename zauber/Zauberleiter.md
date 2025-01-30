@@ -1,4 +1,4 @@
-#Zauberleiter  
+# Zauberleiter  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

@@ -1,4 +1,4 @@
-#Wand aus Dunkelheit  
+# Wand aus Dunkelheit  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

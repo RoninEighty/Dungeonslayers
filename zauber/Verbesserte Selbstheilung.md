@@ -1,4 +1,4 @@
-#Verbesserte Selbstheilung  
+# Verbesserte Selbstheilung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

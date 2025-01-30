@@ -1,4 +1,4 @@
-#Segen  
+# Segen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

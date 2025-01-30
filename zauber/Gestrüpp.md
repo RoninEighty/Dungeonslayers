@@ -1,4 +1,4 @@
-#Gestrüpp  
+# Gestrüpp  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

@@ -1,4 +1,4 @@
-#Flammensphären  
+# Flammensphären  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

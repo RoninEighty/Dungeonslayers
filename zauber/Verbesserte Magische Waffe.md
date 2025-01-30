@@ -1,4 +1,4 @@
-#Verbesserte Magische Waffe  
+# Verbesserte Magische Waffe  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

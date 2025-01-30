@@ -1,4 +1,4 @@
-#Magische Lafette  
+# Magische Lafette  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

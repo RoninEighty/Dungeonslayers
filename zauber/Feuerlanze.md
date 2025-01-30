@@ -1,4 +1,4 @@
-#Feuerlanze  
+# Feuerlanze  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

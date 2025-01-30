@@ -1,4 +1,4 @@
-#Duftnote  
+# Duftnote  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

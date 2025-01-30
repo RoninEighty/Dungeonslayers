@@ -1,4 +1,4 @@
-#Arkane Aufladung  
+# Arkane Aufladung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

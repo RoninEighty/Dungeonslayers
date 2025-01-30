@@ -1,4 +1,4 @@
-#Furcht bannen  
+# Furcht bannen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

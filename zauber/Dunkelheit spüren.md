@@ -1,4 +1,4 @@
-#Dunkelheit spüren  
+# Dunkelheit spüren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

@@ -1,4 +1,4 @@
-#Waffe herbeirufen  
+# Waffe herbeirufen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Freund  
+# Freund  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

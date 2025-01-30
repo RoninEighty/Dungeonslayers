@@ -1,4 +1,4 @@
-#Teleport  
+# Teleport  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 20  

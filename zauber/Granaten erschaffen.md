@@ -1,4 +1,4 @@
-#Granaten erschaffen  
+# Granaten erschaffen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

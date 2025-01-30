@@ -1,4 +1,4 @@
-#Körperexplosion  
+# Körperexplosion  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

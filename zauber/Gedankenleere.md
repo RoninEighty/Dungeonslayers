@@ -1,4 +1,4 @@
-#Gedankenleere  
+# Gedankenleere  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 11  

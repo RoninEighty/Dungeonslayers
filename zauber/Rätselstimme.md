@@ -1,4 +1,4 @@
-#Rätselstimme  
+# Rätselstimme  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

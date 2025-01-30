@@ -1,4 +1,4 @@
-#Zauberzeichen  
+# Zauberzeichen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

@@ -1,4 +1,4 @@
-#Lichtlanze  
+# Lichtlanze  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

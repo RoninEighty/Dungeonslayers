@@ -1,4 +1,4 @@
-#Heilung stoppen  
+# Heilung stoppen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Verkrüppeln 2  
+# Verkrüppeln 2  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

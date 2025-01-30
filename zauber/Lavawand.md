@@ -1,4 +1,4 @@
-#Lavawand  
+# Lavawand  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

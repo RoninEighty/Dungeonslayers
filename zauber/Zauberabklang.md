@@ -1,4 +1,4 @@
-#Zauberabklang  
+# Zauberabklang  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

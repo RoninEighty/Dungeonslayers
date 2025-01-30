@@ -1,4 +1,4 @@
-#Lokalisieren  
+# Lokalisieren  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 17  

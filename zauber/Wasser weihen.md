@@ -1,4 +1,4 @@
-#Wasser weihen  
+# Wasser weihen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

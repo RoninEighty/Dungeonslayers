@@ -1,4 +1,4 @@
-#Steingestalt  
+# Steingestalt  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

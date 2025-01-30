@@ -1,4 +1,4 @@
-#Geben und Nehmen  
+# Geben und Nehmen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

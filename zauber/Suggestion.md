@@ -1,4 +1,4 @@
-#Suggestion  
+# Suggestion  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

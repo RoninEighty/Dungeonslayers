@@ -1,4 +1,4 @@
-#Geisterlanze  
+# Geisterlanze  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

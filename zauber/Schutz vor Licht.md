@@ -1,4 +1,4 @@
-#Schutz vor Licht  
+# Schutz vor Licht  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

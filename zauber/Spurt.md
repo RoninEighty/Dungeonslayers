@@ -1,4 +1,4 @@
-#Spurt  
+# Spurt  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

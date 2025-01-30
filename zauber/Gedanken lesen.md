@@ -1,4 +1,4 @@
-#Gedanken lesen  
+# Gedanken lesen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

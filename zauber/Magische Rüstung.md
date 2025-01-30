@@ -1,4 +1,4 @@
-#Magische Rüstung  
+# Magische Rüstung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

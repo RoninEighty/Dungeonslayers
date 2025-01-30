@@ -1,4 +1,4 @@
-#Stinkbombe  
+# Stinkbombe  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

@@ -1,4 +1,4 @@
-#Mächtiges Schwächen  
+# Mächtiges Schwächen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

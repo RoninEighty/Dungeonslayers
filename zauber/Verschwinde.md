@@ -1,4 +1,4 @@
-#Verschwinde  
+# Verschwinde  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

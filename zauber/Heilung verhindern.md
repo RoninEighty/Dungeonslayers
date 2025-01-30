@@ -1,4 +1,4 @@
-#Heilung verhindern  
+# Heilung verhindern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

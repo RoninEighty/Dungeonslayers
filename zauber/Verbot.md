@@ -1,4 +1,4 @@
-#Verbot  
+# Verbot  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

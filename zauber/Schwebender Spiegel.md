@@ -1,4 +1,4 @@
-#Schwebender Spiegel  
+# Schwebender Spiegel  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

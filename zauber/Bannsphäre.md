@@ -1,4 +1,4 @@
-#Bannsphäre  
+# Bannsphäre  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 13  

@@ -1,4 +1,4 @@
-#Magie entdecken  
+# Magie entdecken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

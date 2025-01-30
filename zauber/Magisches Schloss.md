@@ -1,4 +1,4 @@
-#Magisches Schloss  
+# Magisches Schloss  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

@@ -1,4 +1,4 @@
-#Würgegriff  
+# Würgegriff  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

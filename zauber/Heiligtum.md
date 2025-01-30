@@ -1,4 +1,4 @@
-#Heiligtum  
+# Heiligtum  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

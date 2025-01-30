@@ -1,4 +1,4 @@
-#Verstärkter Schutz  
+# Verstärkter Schutz  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

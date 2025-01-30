@@ -1,4 +1,4 @@
-#Magie bannen  
+# Magie bannen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

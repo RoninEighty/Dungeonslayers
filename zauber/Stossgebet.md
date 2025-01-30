@@ -1,4 +1,4 @@
-#Stossgebet  
+# Stossgebet  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

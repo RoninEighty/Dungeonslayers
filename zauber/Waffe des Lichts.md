@@ -1,4 +1,4 @@
-#Waffe des Lichts  
+# Waffe des Lichts  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

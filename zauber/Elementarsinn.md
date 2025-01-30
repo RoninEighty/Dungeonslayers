@@ -1,4 +1,4 @@
-#Elementarsinn  
+# Elementarsinn  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

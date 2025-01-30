@@ -1,4 +1,4 @@
-#Rüstung verzaubern  
+# Rüstung verzaubern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

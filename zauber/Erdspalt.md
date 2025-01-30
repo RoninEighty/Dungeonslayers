@@ -1,4 +1,4 @@
-#Erdspalt  
+# Erdspalt  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

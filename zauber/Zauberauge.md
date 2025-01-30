@@ -1,4 +1,4 @@
-#Zauberauge  
+# Zauberauge  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

@@ -1,4 +1,4 @@
-#Heilende Aura  
+# Heilende Aura  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

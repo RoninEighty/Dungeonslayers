@@ -1,4 +1,4 @@
-#Zauber aufheben  
+# Zauber aufheben  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 11  

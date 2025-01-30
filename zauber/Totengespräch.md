@@ -1,4 +1,4 @@
-#Totengespräch  
+# Totengespräch  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

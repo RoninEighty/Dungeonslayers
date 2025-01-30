@@ -1,4 +1,4 @@
-#Beulenpest  
+# Beulenpest  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

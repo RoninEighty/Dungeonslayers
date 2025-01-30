@@ -1,4 +1,4 @@
-#Entweihen  
+# Entweihen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

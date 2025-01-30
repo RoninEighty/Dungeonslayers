@@ -1,4 +1,4 @@
-#Steinverschmelzung  
+# Steinverschmelzung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

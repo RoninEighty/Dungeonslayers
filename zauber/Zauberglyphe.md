@@ -1,4 +1,4 @@
-#Zauberglyphe  
+# Zauberglyphe  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

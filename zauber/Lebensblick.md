@@ -1,4 +1,4 @@
-#Lebensblick  
+# Lebensblick  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

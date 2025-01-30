@@ -1,4 +1,4 @@
-#Zauber einfangen  
+# Zauber einfangen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 18  

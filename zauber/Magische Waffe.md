@@ -1,4 +1,4 @@
-#Magische Waffe  
+# Magische Waffe  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

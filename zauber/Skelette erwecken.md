@@ -1,4 +1,4 @@
-#Skelette erwecken  
+# Skelette erwecken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

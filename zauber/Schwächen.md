@@ -1,4 +1,4 @@
-#Schwächen  
+# Schwächen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Tentakelranken  
+# Tentakelranken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 13  

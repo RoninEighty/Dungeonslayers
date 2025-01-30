@@ -1,4 +1,4 @@
-#Spur verwischen  
+# Spur verwischen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

@@ -1,4 +1,4 @@
-#Verzweiflung  
+# Verzweiflung  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

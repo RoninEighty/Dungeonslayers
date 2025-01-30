@@ -1,4 +1,4 @@
-#Tiere besänftigen  
+# Tiere besänftigen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 1  

@@ -1,4 +1,4 @@
-#Lebensfeuer  
+# Lebensfeuer  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

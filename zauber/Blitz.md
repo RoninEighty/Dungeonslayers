@@ -1,4 +1,4 @@
-#Blitz  
+# Blitz  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  

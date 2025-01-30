@@ -1,4 +1,4 @@
-#Verjüngen  
+# Verjüngen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 15  

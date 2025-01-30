@@ -1,4 +1,4 @@
-#Objekt lesen  
+# Objekt lesen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

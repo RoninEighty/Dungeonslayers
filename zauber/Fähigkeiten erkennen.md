@@ -1,4 +1,4 @@
-#Fähigkeiten erkennen  
+# Fähigkeiten erkennen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 3  

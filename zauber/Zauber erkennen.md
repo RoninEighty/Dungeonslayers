@@ -1,4 +1,4 @@
-#Zauber erkennen  
+# Zauber erkennen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

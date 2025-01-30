@@ -1,4 +1,4 @@
-#Enthüllende Aura  
+# Enthüllende Aura  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 13  

@@ -1,4 +1,4 @@
-#Entsteinern  
+# Entsteinern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

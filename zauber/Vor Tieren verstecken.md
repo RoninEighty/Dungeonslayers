@@ -1,4 +1,4 @@
-#Vor Tieren verstecken  
+# Vor Tieren verstecken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 6  

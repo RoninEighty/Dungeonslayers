@@ -1,4 +1,4 @@
-#Magieresistenz  
+# Magieresistenz  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

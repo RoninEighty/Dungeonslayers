@@ -1,4 +1,4 @@
-#Wissen der Welt  
+# Wissen der Welt  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

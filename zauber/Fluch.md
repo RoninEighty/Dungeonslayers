@@ -1,4 +1,4 @@
-#Fluch  
+# Fluch  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

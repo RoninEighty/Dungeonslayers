@@ -1,4 +1,4 @@
-#Schmierfleck  
+# Schmierfleck  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 7  

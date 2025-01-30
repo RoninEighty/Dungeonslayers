@@ -1,4 +1,4 @@
-#Grosses Schwächen  
+# Grosses Schwächen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Verborgenes sehen  
+# Verborgenes sehen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

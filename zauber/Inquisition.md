@@ -1,4 +1,4 @@
-#Inquisition  
+# Inquisition  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 9  

@@ -1,4 +1,4 @@
-#Totemtier  
+# Totemtier  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

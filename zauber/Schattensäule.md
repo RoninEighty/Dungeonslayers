@@ -1,4 +1,4 @@
-#Schattensäule  
+# Schattensäule  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

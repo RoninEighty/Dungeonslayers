@@ -1,4 +1,4 @@
-#Magische Wand  
+# Magische Wand  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 14  

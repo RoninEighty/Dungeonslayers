@@ -1,4 +1,4 @@
-#Freizauber  
+# Freizauber  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 19  

@@ -1,4 +1,4 @@
-#Zone des Friedens  
+# Zone des Friedens  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

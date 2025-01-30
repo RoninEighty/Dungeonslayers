@@ -1,4 +1,4 @@
-#Geisterklinge  
+# Geisterklinge  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

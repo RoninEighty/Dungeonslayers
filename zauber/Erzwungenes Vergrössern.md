@@ -1,4 +1,4 @@
-#Erzwungenes Vergrössern  
+# Erzwungenes Vergrössern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

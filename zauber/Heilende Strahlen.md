@@ -1,4 +1,4 @@
-#Heilende Strahlen  
+# Heilende Strahlen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 12  

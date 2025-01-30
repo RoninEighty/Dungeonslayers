@@ -1,4 +1,4 @@
-#Klingenwand  
+# Klingenwand  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 11  

@@ -1,4 +1,4 @@
-#Explosiver Teleport  
+# Explosiver Teleport  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

@@ -1,4 +1,4 @@
-#Manaentzug  
+# Manaentzug  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

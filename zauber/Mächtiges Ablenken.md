@@ -1,4 +1,4 @@
-#Mächtiges Ablenken  
+# Mächtiges Ablenken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

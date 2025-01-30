@@ -1,4 +1,4 @@
-#Schutz vor Dunkelheit  
+# Schutz vor Dunkelheit  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 2  

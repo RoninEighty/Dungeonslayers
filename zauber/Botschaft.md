@@ -1,4 +1,4 @@
-#Botschaft  
+# Botschaft  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 8  

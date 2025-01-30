@@ -1,4 +1,4 @@
-#Grube  
+# Grube  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

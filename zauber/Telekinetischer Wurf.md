@@ -1,4 +1,4 @@
-#Telekinetischer Wurf  
+# Telekinetischer Wurf  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

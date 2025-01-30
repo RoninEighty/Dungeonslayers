@@ -1,4 +1,4 @@
-#Manakratzer  
+# Manakratzer  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 4  

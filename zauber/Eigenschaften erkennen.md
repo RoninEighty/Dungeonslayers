@@ -1,4 +1,4 @@
-#Eigenschaften erkennen  
+# Eigenschaften erkennen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 5  

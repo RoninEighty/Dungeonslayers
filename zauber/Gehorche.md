@@ -1,4 +1,4 @@
-#Gehorche  
+# Gehorche  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

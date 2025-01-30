@@ -1,4 +1,4 @@
-#Versteinern  
+# Versteinern  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  

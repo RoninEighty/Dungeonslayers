@@ -1,4 +1,4 @@
-#Trägheit  
+# Trägheit  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: 10  
