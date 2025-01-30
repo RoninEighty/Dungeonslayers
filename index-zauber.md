@@ -1,6 +1,6 @@
 # Übersicht Zauber<br>
 [Ablenken](zauber/Ablenken.md)<br>
-[Aderplatzer](<zauber/Aderplatzer.md>)<br>
+[Aderplatzer](<zauber/Aderplatzer>.md)<br>
 [Alle Zauber aufheben](<zauber/Alle Zauber aufheben.md>)<br>
 [Allheilung](<zauber/Allheilung.md>)<br>
 [Altern](<zauber/Altern.md>)<br>
