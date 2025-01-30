@@ -7,7 +7,7 @@
 [Anlocken](zauber/<Anlocken.md>)<br>
 [Anpassung](zauber/<Anpassung.md>)<br>
 [Antimagie](zauber/<Antimagie.md>)<br>
-[Arkane Aufladung](zauber/<Arkane Aufladung.md>)<br>
+[Arkane Aufladung](<zauber/Arkane Aufladung.md>)<br>
 [Arkane Faust](zauber/<Arkane Faust.md>)<br>
 [Arkane Klaue](zauber/<Arkane Klaue.md>)<br>
 [Arkaner Stiefel](zauber/<Arkaner Stiefel.md>)<br>
