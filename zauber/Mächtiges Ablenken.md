@@ -1,18 +1,18 @@
-#Ablenken  
+#Mächtiges Ablenken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  
-  - Zauberer: 3  
-  - Schwarzmagier: 1  
-- Kosten: 10  
+  - Zauberer: 11  
+  - Schwarzmagier: 9  
+- Kosten: 510  
 - Zauberbonus: -(GEI+VE)/2 des Ziels  
 - Dauer: Probenergebnis in KR  
-- Reichweite: VE x 2 Meter  
+- Reichweite: VE x 5 Meter  
 - Abklingzeit: 1 KR  
 - Art: geistesbeeinflussende Zauber     
 
 ## Beschreibung:
-Das Ziel erhält -1 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.<br>Ebenso wirkt Ablenken nicht mit Wolke der Ablenkung, Verbessertes Ablenken, Mächtiges Ablenken und Großes Ablenken - der höhere Abzug zählt.
+Das Ziel erhält -3 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.<br>Ebenso wirkt Mächtiges Ablenken nicht mit Ablenken, Wolke der Ablenkung, Verbessertes Ablenken und Großes Ablenken - der höhere Abzug zählt.
 
 
 ___

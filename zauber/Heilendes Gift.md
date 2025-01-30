@@ -1,0 +1,19 @@
+#Heilendes Gift  
+- Kategorie: #Zauber  
+- Zugangsstufen:  
+  - Heiler: 8  
+  - Zauberer: -  
+  - Schwarzmagier: 9  
+- Kosten: 255  
+- Zauberbonus: 0  
+- Dauer: Permanent  
+- Reichweite: Berühren  
+- Abklingzeit: 100 KR  
+- Art: Zaubern     
+
+## Beschreibung:
+Der Zauber verwandelt eine Dosis Gift in eine heilsame Substanz (es genügt, das Gefäß zu berühren, das es enthält), die bei Einnahme in genau der gleichen Weise und Menge heilt, wie das Gift Schaden gemacht hätte (wobei eventuelle Abwehrwürfe natürlich unnötig sind).<br>Handelt es sich bei dem Gift um ein Lähmungsgift, wirkt es nach Behandlung mit dem Zauber für die Wirkungsdauer des Giftes wie ein Schnelligkeitstrank (GRW, S. 91). Ein Schlafgift wirkt statt dessen wie ein Wachsamkeitstrank (GRW, S. 91).<br>Der Zauber wirkt nicht auf Gifte, die sich in einer Kreatur befinden - auch nicht in deren Giftdrüsen.
+
+
+___
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Bruder Grimms Grimmoire 6 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*

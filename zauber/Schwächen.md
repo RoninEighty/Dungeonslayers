@@ -1,18 +1,18 @@
-#Ablenken  
+#Schwächen  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  
   - Zauberer: 3  
   - Schwarzmagier: 1  
 - Kosten: 10  
-- Zauberbonus: -(GEI+VE)/2 des Ziels  
+- Zauberbonus: -(KÖR+AU)/2 des Ziels  
 - Dauer: Probenergebnis in KR  
 - Reichweite: VE x 2 Meter  
 - Abklingzeit: 1 KR  
-- Art: geistesbeeinflussende Zauber     
+- Art: Zaubern     
 
 ## Beschreibung:
-Das Ziel erhält -1 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.<br>Ebenso wirkt Ablenken nicht mit Wolke der Ablenkung, Verbessertes Ablenken, Mächtiges Ablenken und Großes Ablenken - der höhere Abzug zählt.
+Das Ziel erhält -1 auf Schlagen und Schießen. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.<br>Ebenso wirkt Schwächen nicht mit Wolke der Schwäche, Verbessertes Schwächen, Mächtiges Schwächen und Großes Schwächen - der höhere Abzug zählt.
 
 
 ___

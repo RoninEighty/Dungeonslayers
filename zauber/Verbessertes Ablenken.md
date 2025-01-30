@@ -1,10 +1,10 @@
-#Ablenken  
+#Verbessertes Ablenken  
 - Kategorie: #Zauber  
 - Zugangsstufen:  
   - Heiler: -  
-  - Zauberer: 3  
-  - Schwarzmagier: 1  
-- Kosten: 10  
+  - Zauberer: 7  
+  - Schwarzmagier: 4  
+- Kosten: 205  
 - Zauberbonus: -(GEI+VE)/2 des Ziels  
 - Dauer: Probenergebnis in KR  
 - Reichweite: VE x 2 Meter  
@@ -12,7 +12,7 @@
 - Art: geistesbeeinflussende Zauber     
 
 ## Beschreibung:
-Das Ziel erhält -1 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.<br>Ebenso wirkt Ablenken nicht mit Wolke der Ablenkung, Verbessertes Ablenken, Mächtiges Ablenken und Großes Ablenken - der höhere Abzug zählt.
+Das Ziel erhält -2 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.<br>Ebenso wirkt Verbessertes Ablenken nicht mit Ablenken, Wolke der Ablenkung, Mächtiges Ablenken und Großes Ablenken - der höhere Abzug zählt.
 
 
 ___
