@@ -6,6 +6,7 @@
 - [Charaktererschaffung](grw/charaktere-charaktererschaffung.md)
 - [Erfahrung](grw/Erfahrung.md)
 - [Übersicht Talente](index-talente.md)
+- [Übersicht Zauber](index-zauber.md)
 
 ## Fanwerke
 
