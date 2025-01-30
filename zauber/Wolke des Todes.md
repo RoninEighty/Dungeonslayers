@@ -1,0 +1,19 @@
+# Wolke des Todes  
+- Kategorie: #Zauber  
+- Zugangsstufen:  
+  - Heiler: -  
+  - Zauberer: -  
+  - Schwarzmagier: 13  
+- Kosten: 790  
+- Zauberbonus: -4  
+- Dauer: Probenergebnis x 2 KR  
+- Reichweite: VE x 5 Meter  
+- Abklingzeit: 100 KR  
+- Art: Zaubern     
+
+## Beschreibung:
+Eine schwarze, qualmende Wolke des Todes mit einem Radius von maximal VE in Metern entsteht.<br>Zwar ist die Wolke nicht undurchsichtig, dennoch werden Angriffe gegen Ziele darin um 2 erschwert, gleichsam erhalten alle innerhalb der Wolke -2 auf alle Proben, bei denen man besser sehen können sollte.<br>Jeder Charakter innerhalb der Wolke erleidet pro Runde automatisch einen nicht abwehrbaren Punkt Schaden.<br>Sollte der Schwarzmagier über das Talent Diener der Dunkelheit verfügen, wird sein Talentrang auf den nicht abwehrbaren Schaden, den jedes Opfer pro Kampfrunde erleidet, addiert.<br>Eine Wolke kann durch Wind bewegt oder gar auseinander geweht werden.
+
+
+___
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
