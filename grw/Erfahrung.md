@@ -87,4 +87,4 @@ Ein Zauberwirker kann pro Stufe eine Anzahl neuer Zaubersprüche erlernen, deren
 Der Schwarzmagier Miroslav erreicht die 4. Stufe. Er kann nun 4 Zaubersprüche der 1. Stufe, 2 Zaubersprüche der 2. Stufe, 1 Zauberspruch der ersten und einen der dritten Stufe oder einen einzelnen Zauberspruch der vierten Stufe erlernen.
 
 ---
-Grundregelwerk S. 8 ff. | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) | [Dungeonslayers 4.0](https://www.dungeonslayers.net) © Christian Kennig
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 8 ff. | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)*
