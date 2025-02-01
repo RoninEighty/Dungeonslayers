@@ -233,4 +233,4 @@ Woran glaubt er und was hat er für Ideale? Ist er ein verlässlicher Gefolgsman
 So oder so ist der Charakter nun bereit für sein erstes Abenteuer.
 
 ---
-Grundregelwerk S. 3 ff. | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) | [Dungeonslayers 4.0](https://www.dungeonslayers.net) © Christian Kennig
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 3 ff.| Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)*

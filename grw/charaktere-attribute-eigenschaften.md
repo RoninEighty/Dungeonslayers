@@ -119,4 +119,4 @@ Hiermit lösen Zauberwirker ihre Zauber (außer Zielzauber) aus. Der Zauberbonus
 Mit diesem Kampfwert feuern Zauberwirker ihre Zielzauber auf Gegner. Der Zauberbonus (ZB) des aktiven Zauberspruchs wird addiert, PA abgezogen.
 
 ---
-Grundregelwerk S. 1 ff. | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) | [Dungeonslayers 4.0](https://www.dungeonslayers.net) © Christian Kennig
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 1 ff. | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)*
