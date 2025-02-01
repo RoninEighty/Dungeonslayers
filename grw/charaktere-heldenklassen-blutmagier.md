@@ -19,7 +19,6 @@ Schwarzmagier der Stufe 10+
 | Schmerzhafter Wechsel 12 (III) |
 | Zauberqual 10 (III)            |
 | Zehrender Spurt 10 (III)       |
-| DIE WELT CAERA                 |
 
 ---
 
