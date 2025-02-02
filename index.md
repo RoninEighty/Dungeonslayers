@@ -1,6 +1,25 @@
 # DS4 SRD+
 
+DS4 SRD+ bietet die Regelreferenz und Zusatzinhalte zum Rollenspiel [Dungeonslayers](https://www.dungeonslayers.net) © Christian Kennig an.
+
 ## Grundregelwerk
+
+Hier findet ihr die Inhalte der [PDF-Fassung](https://www.dungeonslayers.net/produkte/dungeonslayers-grundregelwerk/) von Dungeonslayers.
+
+Dessen Texte und Regelmechaniken stehen unter der Lizenz [CC BY-NC-SA 3.0 DE](http://creativecommons.org/licenses/by-nc-sa/3.0/de/)
+
+    Namensnennung-Keine kommerzielle Nutzung-Weitergabe unter gleichen
+                        Bedingungen 3.0 Deutschland
+
+zur Verfügung.
+
+### Die DS-Lizenz
+
+- [DS-Lizenz](grw/ds-lizenz.md)
+
+### Rollenspiel?
+
+- [Rollenspiel?](grw/rollenspiel.md)
 
 ### Charaktere
 
@@ -42,5 +61,9 @@
 - [Schätze](grw/spielleitung-schaetze.md)
 
 ## Fanwerke
+
+Hier findet ihr Fanwerke und Zusatzinhalte für Dungeonslayers. Die Fanwerke werden von Euch und der Community erstellt. 
+
+Für die Veröffentlichung von Fanwerken gibt es die [Fanwerk-Richtlinien](https://www.dungeonslayers.net/fanwerk-richtlinien/).
 
 - [Schiff Ahoi!](schiff-ahoi/schiff-ahoi.md)
