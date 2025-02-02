@@ -2,7 +2,7 @@
 
 Bevor man einen Charakter erstellt, sollte geklärt sein, welchem Volk und welcher Klasse er (oder sie) angehören soll.
 
-**Beispiel**: *Als Beispielcharakter dient uns ein elfischer Zauberer, da diese Kombination aus Volk und Klasse alle Bereiche der Charaktererschaffung abdeckt.*
+**Beispiel**: _Als Beispielcharakter dient uns ein elfischer Zauberer, da diese Kombination aus Volk und Klasse alle Bereiche der Charaktererschaffung abdeckt._
 
 ### 1. VOLK WÄHLEN
 
@@ -35,12 +35,12 @@ Die zähen, oftmals grummeligen Bartträger bevorzugen ein Kriegerleben, eignen 
 Elfen und Zwerge notieren ihre jeweiligen Volksfähigkeiten, Menschen erhalten stattdessen ihren ersten Talentpunkt (siehe Seite 9). Der Volksbonus wird für die spätere Attributsverteilung benötigt.
 
 | VOLK   | VOLKSFÄHIGKEITEN                     |
-|--------|--------------------------------------|
+| ------ | ------------------------------------ |
 | Elf    | Leichtfüßig, Nachtsicht, Unsterblich |
 | Mensch | 1 Talentpunkt                        |
 | Zwerg  | Dunkelsicht, Langlebig, Zäh          |
 
-**Beispiel**: *Auf dem Charakterbogen notieren wir unter Volk “Elf” und vermerken die Volksfähigkeiten Leichtfüßig, Nachtsicht und Unsterblich*
+**Beispiel**: _Auf dem Charakterbogen notieren wir unter Volk “Elf” und vermerken die Volksfähigkeiten Leichtfüßig, Nachtsicht und Unsterblich_
 
 ### 2. KLASSE WÄHLEN
 
@@ -79,8 +79,7 @@ Geist ordnen wir Wert 8 zu. Dann verteilen wir auf Körper und auf Agilität jew
 
 Nun werden 8 Punkte beliebig auf die sechs Eigenschaften verteilt. Werte von Null sind möglich, aber kein Eigenschaftswert darf zu diesem Zeitpunkt über einen Wert von 4 gesteigert werden.
 
-**Beispiel**:
-Von den 8 Punkten verteilen wir 2 auf die Eigenschaft Härte und Aura, 3 auf Geschick und 1 auf Verstand:
+**Beispiel**: _Von den 8 Punkten verteilen wir 2 auf die Eigenschaft Härte und Aura, 3 auf Geschick und 1 auf Verstand:_
 
     Körper: 6   Agilität: 6     Geist: 8
     Stärke: 0   Bewegung: 0     Verstand: 1
@@ -91,19 +90,18 @@ Von den 8 Punkten verteilen wir 2 auf die Eigenschaft Härte und Aura, 3 auf Ges
 Jeder Charakter erhält, abhängig von Volk und Klasse, zwei Gratispunkte auf seine Eigenschaften, wodurch nun auch Werte über 4 möglich sind:
 
 | VOLK   | VOLKSBONUS                      |
-|--------|---------------------------------|
+| ------ | ------------------------------- |
 | Elf    | Bewegung, Geschick oder Aura +1 |
 | Mensch | Eine beliebige Eigenschaft +1   |
 | Zwerg  | Stärke, Härte oder Geschick +1  |
 
 | KLASSE   | KLASSENBONUS              |
-|----------|---------------------------|
+| -------- | ------------------------- |
 | Krieger  | Stärke oder Härte +1      |
 | Späher   | Bewegung oder Geschick +1 |
 | Zauberw. | Verstand oder Aura +1     |
 
-**Beispiel**:
-Als elfischer Zauberwirker steigern wir Geschick und Aura um jeweils +1 und verändern entsprechend die beiden Werte:
+**Beispiel**: _Als elfischer Zauberwirker steigern wir Geschick und Aura um jeweils +1 und verändern entsprechend die beiden Werte:_
 
     Körper: 6   Agilität: 6     Geist: 8
     Stärke: 0   Bewegung: 0     Verstand: 1
@@ -125,14 +123,13 @@ Duftnote, Feuerstrahl, Licht, Magie entdecken/identifizieren, Magische Waffe, Ma
 
 Feuerstrahl, Magie entdecken/identifizieren, Magische Waffe, Magisches Schloss, Öffnen, Zaubertrick
 
-**Beispiel**: Unser Elfenzauberer erlernt den Zauberspruch Feuerstrahl, der für Zauberer ab der ersten Stufe zugänglich ist.
+**Beispiel**: _Unser Elfenzauberer erlernt den Zauberspruch Feuerstrahl, der für Zauberer ab der ersten Stufe zugänglich ist._
 
 ### 7. AUSRÜSTUNG
 
 Jeder Charakter verfügt zu Beginn neben einfacher Kleidung, Feuerstein & Zunder, einem Wasserschlauch, zweimal Heilkraut, einer Decke und einem Rucksack oder einer Tragetasche auch über 10 Goldmünzen (GM), für die er nun mit weiterer Ausrüstung ausgestattet werden kann. Listen mit Waren und ihren Preisen beginnen ab Seite 78.
 
-**Beispiel**:
-Wir notieren auf der zweiten Seite des Charakterbogens die Grundausrüstung (einfache Kleidung, Feuerstein & Zunder, einen Wasserschlauch, eine Decke und eine Tragetasche) und kaufen für 8 Goldmünzen eine runenbestickte Robe (PA +0, Aura +1) und für 5 Silbermünzen noch einen Kampfstab (WB+1, Zielzauber +1).
+**Beispiel**: _Wir notieren auf der zweiten Seite des Charakterbogens die Grundausrüstung (einfache Kleidung, Feuerstein & Zunder, einen Wasserschlauch, eine Decke und eine Tragetasche) und kaufen für 8 Goldmünzen eine runenbestickte Robe (PA +0, Aura +1) und für 5 Silbermünzen noch einen Kampfstab (WB+1, Zielzauber +1)._
 
 Die restlichen Münzen sparen wir, schließlich kann etwas Kleingeld immer nützlich sein.
 
@@ -151,12 +148,11 @@ Die Formeln, aus denen sich die Kampfwerte errechnen, beziehen sich immer auf di
     Zaubern = GEI + AU + ZB - PA
     Zielzauber = GEI + GE + ZB – PA
 
-**Beispiel**:
-Nun werden die fünf Kampfwerte ermittelt, in die auch der ZB des Zauberspruchs (Feuerstrahl: Zielzauber +1) und die erworbene Ausrüstung mit ihren Boni (AU 1, WB+1, Zielzauber +1) einfließen. Nachdem wir alle Werte errechnet haben, erhalten wir folgende Kampfwerte:
+**Beispiel**: _Nun werden die fünf Kampfwerte ermittelt, in die auch der ZB des Zauberspruchs (Feuerstrahl: Zielzauber +1) und die erworbene Ausrüstung mit ihren Boni (AU 1, WB+1, Zielzauber +1) einfließen. Nachdem wir alle Werte errechnet haben, erhalten wir folgende Kampfwerte:_
 
-Lebenskraft 18, Abwehr 8, Initiative 6, Laufen 4m, Schlagen 7, Schießen 10, Zaubern 12 und Zielzauber 14.
+    Lebenskraft 18, Abwehr 8, Initiative 6, Laufen 4m, Schlagen 7, Schießen 10, Zaubern 12 und Zielzauber 14.
 
-Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du auf Seite 7.
+_Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du auf Seite 7._
 
 ### TALENTE IN DER ERSTEN STUFE
 
@@ -233,4 +229,5 @@ Woran glaubt er und was hat er für Ideale? Ist er ein verlässlicher Gefolgsman
 So oder so ist der Charakter nun bereit für sein erstes Abenteuer.
 
 ---
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 3 ff.| Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)*
+
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 3 ff.| Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_

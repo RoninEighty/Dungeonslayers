@@ -84,7 +84,7 @@ Die Eigenschaft Aura spiegelt das Auftreten und die Ausstrahlung des Charakters 
 
 Die Kampfwerte errechnen sich immer aus den aktuellen Kernwerten (also den Attributen und Eigenschaften) sowie der Ausrüstung - vornehmlich durch den Waffenbonus (WB) und die Panzerung (PA). Ändert sich einer dieser Werte, so verändern sich auch die entsprechenden Kampfwerte.
 
-**Beispiel**: *Der Krieger Kalthor (KÖR 8, ST 4) ist mit einem Langschwert (WB+2) bewaffnet, sein Wert in Schlagen beträgt also 14 (=8+4+2). Wenig später “findet” Kalthor einen Bihänder (WB+3) und beschließt, von nun an mit dieser Waffe zu kämpfen, wodurch sein Wert in Schlagen nun 15 (=8+4+3) beträgt.*
+**Beispiel**: _Der Krieger Kalthor (KÖR 8, ST 4) ist mit einem Langschwert (WB+2) bewaffnet, sein Wert in Schlagen beträgt also 14 (=8+4+2). Wenig später “findet” Kalthor einen Bihänder (WB+3) und beschließt, von nun an mit dieser Waffe zu kämpfen, wodurch sein Wert in Schlagen nun 15 (=8+4+3) beträgt._
 
 #### LEBENSKRAFT (KÖR+HÄ+10)
 
@@ -119,4 +119,5 @@ Hiermit lösen Zauberwirker ihre Zauber (außer Zielzauber) aus. Der Zauberbonus
 Mit diesem Kampfwert feuern Zauberwirker ihre Zielzauber auf Gegner. Der Zauberbonus (ZB) des aktiven Zauberspruchs wird addiert, PA abgezogen.
 
 ---
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 1 ff. | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)*
+
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 1 ff. | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_

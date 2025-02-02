@@ -3,18 +3,19 @@
 Charaktere erhalten durch das Bezwingen von Gegnern, Lösen von Aufgaben und Bestehen vonAbenteuern Erfahrungspunkte, abgekürzt mit EP.
 
 ### DIE STUFENLEITER
+
 Erreichen die EP einen bestimmten Wert, steigt man in die nächste Stufe auf, von denen es insgesamt 20 gibt.
 
-**Beispiel:**
-*Der elfische Späher Jherrant (Stufe 3 mit 589 Erfahrungspunkten) erhält für sein letztes Abenteuer 118 Erfahrungspunkte. Die neue Summe beträgt 707EP und Jherrant hat die vierte Stufe erreicht.*
+**Beispiel:** _Der elfische Späher Jherrant (Stufe 3 mit 589 Erfahrungspunkten) erhält für sein letztes Abenteuer 118 Erfahrungspunkte. Die neue Summe beträgt 707EP und Jherrant hat die vierte Stufe erreicht._
 
 Beim Aufstieg in eine neue Stufe erhält ein Charakter jedesmal **zwei Lernpunkte (LP)** und **1 Talentpunkt (TP)**.
 Zauberwirker können außerdem nach Erreichen einer neuen Stufe weitere **Zaubersprüche** erlernen.
 Ab der 10. Stufe kann ein Charakter schließlich in eine **Heldenklasse** (siehe Seite 10) wechseln, benötigt dann zukünftig allerdings mehr EP, um in den Stufen aufzusteigen.
 
 ### LERNPUNKTE
-Für **Lernpunkte (LP)**, von denen man jede neue Stufe 2 erhält, kann man **Eigenschaften**, die **Lebenskraft** oder **TP** steigern. Die jeweiligen Kosten richten sich nach der Klasse des Charakters. 
-Alternativ kann 1 Lernpunkt auch ausgegeben werden, um weitere **Sprachen** oder neue **Schriftzeichen** zu erlernen (siehe [Charactererschaffung](grw/charaktere-charaktererschaffung)). 
+
+Für **Lernpunkte (LP)**, von denen man jede neue Stufe 2 erhält, kann man **Eigenschaften**, die **Lebenskraft** oder **TP** steigern. Die jeweiligen Kosten richten sich nach der Klasse des Charakters.
+Alternativ kann 1 Lernpunkt auch ausgegeben werden, um weitere **Sprachen** oder neue **Schriftzeichen** zu erlernen (siehe [Charactererschaffung](grw/charaktere-charaktererschaffung)).
 
 Es kann vorkommen, dass man erst eine Stufe lang sparen muss, um sich eine bestimmte Steigerung leisten zu können.
 
@@ -49,42 +50,50 @@ Es kann vorkommen, dass man erst eine Stufe lang sparen muss, um sich eine besti
 
 Pro LP-Zahlung +1 auf jeweilige Eigenschaft, LK oder TP
 
-**Beispiel:**
-*Mit Erreichen der vierten Stufe hat Jherrant 2 weitereLernpunkte erhalten, für die er Bewegung oder Geschick um +1 steigern könnte, doch seine Härte (und somit indirekt auch Lebenskraft und Abwehr) soll gesteigert werden, was ihn als Späher allerdings 3 Lernpunkte kostet. Erst mit Erreichen der 5. Stufe wird Jherrant die erforderlichen drei LP beisammen haben.*
+**Beispiel:** _Mit Erreichen der vierten Stufe hat Jherrant 2 weitereLernpunkte erhalten, für die er Bewegung oder Geschick um +1 steigern könnte, doch seine Härte (und somit indirekt auch Lebenskraft und Abwehr) soll gesteigert werden, was ihn als Späher allerdings 3 Lernpunkte kostet. Erst mit Erreichen der 5. Stufe wird Jherrant die erforderlichen drei LP beisammen haben._
 
 ### EIGENSCHAFTSHÖCHSTWERTE
+
 Der maximal erreichbare Grundwert in jeder Eigenschaft beträgt 12, wird aber abhängig vom Volk und der Klasse des Charakters noch modifiziert:
 
-| **VOLK**   | **BONUS AUF GRUNDWERT 12**                                      |
-| ---------- | --------------------------------------------------------------- |
-| Elf        | Bewegung, Geschick und Aura +1                                  |
-| Mensch     | 2 beliebige Eigenschaften +1 oder<br>1 beliebige Eigenschaft +2 |
-| Zwerg      | Stärke, Härte und Geschick +1                                   |
-| **KLASSE** | **BONUS AUF GRUNDWERT 12**                                      |
-| Krieger    | Stärke und Härte +1                                             |
-| Späher     | Bewegung und Geschick +1                                        |
-| Zauberw.   | Verstand und Aura +1                                            |
+| VOLK   | BONUS AUF GRUNDWERT 12                                          |
+| ------ | --------------------------------------------------------------- |
+| Elf    | Bewegung, Geschick und Aura +1                                  |
+| Mensch | 2 beliebige Eigenschaften +1 oder<br>1 beliebige Eigenschaft +2 |
+| Zwerg  | Stärke, Härte und Geschick +1                                   |
+
+| KLASSE   | BONUS AUF GRUNDWERT 12   |
+| -------- | ------------------------ |
+| Krieger  | Stärke und Härte +1      |
+| Späher   | Bewegung und Geschick +1 |
+| Zauberw. | Verstand und Aura +1     |
 
 ### TALENTPUNKTE
+
 Jeder Charakter erhält bei Erreichen einer neuen Stufe einen **Talentpunkt (TP)**. Zu Beginn verfügt jeder Charakter über 1TP (Menschen sogar über 2TP), mit dem er ein Talent (siehe Seite 17) erlernen oder ausbauen kann.
 
 ### TALENTVORAUSSETZUNGEN
+
 Zu beachten ist, dass Talente - nach Klassen sortierte - Voraussetzungen an die Stufe des Charakters haben (beispielsweise Krieger 6). Nicht aufgelistete Klassen können das jeweilige Talent überhaupt nicht lernen.
 
 ### TALENTRÄNGE
+
 Alle Talente sind mit Rängen von I-X gekennzeichnet, die verraten, wie oft man sie erlernen kann. So bedeutet beispielsweise bei einem Talent Krieger 4 (III), dass Krieger ab Stufe 4 es bis zu 3x erlernen können. Die Effekte eines jeden Talents summieren sich dabei. Jedes Talent kostet 1TP pro Rang. Wurden mehrere TP gespart, kann ein Talent auch gleich mehrmals erworben werden.
 
-**Beispiel:**
-*Jherrant erlernt in der 5. Stufe für seinen Talentpunkt das Talent Schütze II (was er erstmalig bereits in der 3. Stufe erwarb). Der Bonus von Schütze auf Jherrant’s Wert in Schießen erhöht sich damit von +1 auf +2.*
+**Beispiel:** _Jherrant erlernt in der 5. Stufe für seinen Talentpunkt das Talent Schütze II (was er erstmalig bereits in der 3. Stufe erwarb). Der Bonus von Schütze auf Jherrant’s Wert in Schießen erhöht sich damit von +1 auf +2._
 
 ### NEUE ZAUBER LERNEN
-Erreicht ein Zauberwirker eine neue Stufe, kann er neue Zauber erlernen, was weder Lernpunkte noch Talentpunkte kostet. 
+
+Erreicht ein Zauberwirker eine neue Stufe, kann er neue Zauber erlernen, was weder Lernpunkte noch Talentpunkte kostet.
+
 Voraussetzung ist lediglich, dass die Zaubersprüche sich im Besitz des Charakters befinden (ansonsten muss er neue Zaubersprüche erst finden oder in einer Bibliothek u.ä. erwerben).
-Zaubersprüche verschwinden von Spruchlisten oder aus Zauberbüchern, wenn der Zauberwirker sie erlernt, können also danach nicht an andere Zauberwirker weitergegeben werden. 
+
+Zaubersprüche verschwinden von Spruchlisten oder aus Zauberbüchern, wenn der Zauberwirker sie erlernt, können also danach nicht an andere Zauberwirker weitergegeben werden.
+
 Ein Zauberwirker kann pro Stufe eine Anzahl neuer Zaubersprüche erlernen, deren Stufensumme seiner neuen Stufe entspricht. Der Lernprozess dauert 1h pro Stufe des Spruchs.
 
-**Beispiel:**
-Der Schwarzmagier Miroslav erreicht die 4. Stufe. Er kann nun 4 Zaubersprüche der 1. Stufe, 2 Zaubersprüche der 2. Stufe, 1 Zauberspruch der ersten und einen der dritten Stufe oder einen einzelnen Zauberspruch der vierten Stufe erlernen.
+**Beispiel:** _Der Schwarzmagier Miroslav erreicht die 4. Stufe. Er kann nun 4 Zaubersprüche der 1. Stufe, 2 Zaubersprüche der 2. Stufe, 1 Zauberspruch der ersten und einen der dritten Stufe oder einen einzelnen Zauberspruch der vierten Stufe erlernen._
 
 ---
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 8 ff. | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)*
+
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 8 ff. | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_
