@@ -9,8 +9,7 @@ Mehrere Sprachen verwenden oftmals die selben Schriftzeichen. Jeder Charakter be
 Für 1 Lernpunkt kann man eine neue Sprache oder neue Schriftzeichen erlernen
 (siehe Seite 8), ausreichend Zeit und Lernmöglichkeiten vorausgesetzt.
 
-**Settingoption**:
-_Elfische Lettern und zwergische Runen werden in vielen Settings wohl gehütet und Vertretern anderer Völker nicht einfach beigebracht._
+**Settingoption**: Elfische Lettern und zwergische Runen werden in vielen Settings wohl gehütet und Vertretern anderer Völker nicht einfach beigebracht.
 
 ## WAREN HERSTELLEN
 

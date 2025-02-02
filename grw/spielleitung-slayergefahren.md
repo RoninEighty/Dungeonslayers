@@ -16,7 +16,7 @@ Verursachen Sturzschaden (siehe Seite 85) und können zusätzlich noch mit Speer
 
 #### Giftnadel (TW: 4-8)
 
-Diese Fallen sichern oftmals Truhen u.ä. und greifen mit Gift (siehe Seite 85) an. 
+Diese Fallen sichern oftmals Truhen u.ä. und greifen mit Gift (siehe Seite 85) an.
 
 #### Herabstürzende Steine (TW: 0-8)
 
@@ -34,17 +34,17 @@ Bei einem Immersieg mit einem Säureangriff wird ein zufällig zu ermittelndes,
 nichtmagisches Rüstungsteil des Ziels zerstört.
 
 | GRÖSSE DES FEUERS       |    SCHADEN/RD    |
-|-------------------------|:----------------:|
+| ----------------------- | :--------------: |
 | Fackel (wie Keule)      | Angriffsergebnis |
-| brennende Kleidung*     |       W20        |
+| brennende Kleidung\*    |       W20        |
 | Lagerfeuer              |       W20        |
 | Durch brennendes Haus   |       2W20       |
 | Inferno (keine Abwehr!) |       2W20       |
 | Nasse Kleidung          |       -W20       |
-| Schützende Stoffdecke*  |       -W20       |
+| Schützende Stoffdecke\* |       -W20       |
 
 | SÄUREMENGE                  |    SCHADEN/RD    |
-|-----------------------------|:----------------:|
+| --------------------------- | :--------------: |
 | Säurestrahl                 | Angriffsergebnis |
 | Eimerladung                 |       W20        |
 | Ganzer Körper               |       2W20       |
@@ -72,13 +72,12 @@ Gegen Erschöpfungsschaden kann man keine Abwehr würfeln und er kann nicht mit 
 Nur die nötigen Gegenmaßnahmen (Kühlen bzw. Wärmen, Nahrungsaufnahme usw.) verschaffen Abhilfe.
 
 | URSACHE             | ERSCHÖPFUNG |
-|---------------------|:-----------:|
+| ------------------- | :---------: |
 | Extreme Hitze/Kälte |  1 pro Tag  |
 | Keine Nahrung       |  2 pro Tag  |
 | Kein Wasser         |  5 pro Tag  |
 
-
-### STURZSCHADEN 
+### STURZSCHADEN
 
 Dungeonslayer neigen dazu, hin und wieder tief zu stürzen. Der Sturzschaden entspricht der Sturztiefe x 3 (also beispielsweise Schaden 12 bei 4m), gegen den Abwehr gewürfelt wird.
 
@@ -109,18 +108,18 @@ Gifte, die Schaden verursachen, würfeln einen Angriff bzw. verursachen feststeh
 Der Vergiftete würfelt KÖR+HÄ+Einstecker, sonst wird der Charakter durch solch ein Gift außer Gefecht gesetzt. Jede zusätzliche Dosis senkt den PW des Vergifteten um 1, ebenso aber auch den TW des Giftes (was zu einem Bonus zum Bemerken des Giftes führen kann).
 
 | SCHADENSGIFTE |       PREIS        |
-|---------------|:------------------:|
+| ------------- | :----------------: |
 | Würfelschaden | 4GM/Angriffs-PW +1 |
 | Festschaden   |   25GM/1 Schaden   |
 | Keine Abwehr  |     Kosten x 4     |
 
 | ANDERE GIFTE   |        PREIS         |
-|----------------|:--------------------:|
+| -------------- | :------------------: |
 | Betäubungsgift | 100GM/W20 Min. - KÖR |
 | Lähmung        |  60GM/W20 Rd. - KÖR  |
 
 | ALLE GIFTE |      PREIS       |
-|------------|:----------------:|
+| ---------- | :--------------: |
 | Tarnwert   | Kosten/10 pro +1 |
 
 ---

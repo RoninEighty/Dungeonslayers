@@ -6,7 +6,7 @@ Ob nun spaßige Dungeonschlachten und knackige Kämpfe im Vordergrund stehen, od
 
 ## DUNGEONS
 
-Ein Dungeon ist ein verliesartiges Gewölbe, vollgestopft mit Fallen, Geheimgängen, Monstern und jeder Menge Schätze. 
+Ein Dungeon ist ein verliesartiges Gewölbe, vollgestopft mit Fallen, Geheimgängen, Monstern und jeder Menge Schätze.
 
 Einem ungeschriebenen Gesetz zur Folge werden die Herausforderungen eines Dungeons umso höher, je weiter man sich vom Eingang entfernt.
 
@@ -48,7 +48,7 @@ die in einer nahen Ruine ihr Lager haben.
 Schlechte Beleuchtung, dichter Nebel oder heftiger Regen können die Sicht erschweren. Alle Proben, bei denen Sehen erforderlich ist, werden dadurch um 2 erschwert. Charaktere in völliger Dunkelheit (oder betroffen durch Zauber wie Blenden) erhalten -8 auf alle Proben, bei denen Sehen erforderlich ist. Die folgende Tabelle zeigt, wie groß der Bereich ist, den eine Lichtquelle effektiv erhellt:
 
 | LICHTQUELLE    | LICHTRADIUS |
-|----------------|:-----------:|
+| -------------- | :---------: |
 | Kerze          |     5m      |
 | Fackel/Laterne |     10m     |
 | Lagerfeuer     |     15m     |
@@ -57,30 +57,30 @@ Schlechte Beleuchtung, dichter Nebel oder heftiger Regen können die Sicht ersch
 
 Zwerge können durch die ihnen angeborene Dunkelsicht selbst in völliger Finsternis noch sehen, während die Nachtsicht der Elfen ein gewisses Mindestmaß an Licht erfordert (beispielsweise ein sternenklarer Himmel).
 
-|SICHTWEITEN| KAUM LICHT| STOCKFINSTER|
-|---|:-:|:-:|
-|Elfen|wie am Tag| 0m
-|Menschen| 10m| 0m
-|Zwerge| wie am Tag |50m
+| SICHTWEITEN | KAUM LICHT | STOCKFINSTER |
+| ----------- | :--------: | :----------: |
+| Elfen       | wie am Tag |      0m      |
+| Menschen    |    10m     |      0m      |
+| Zwerge      | wie am Tag |     50m      |
 
 ### TÜREN & WÄNDE
 
 Dungeonslayer können Türen eintreten und mit den richtigen Waffen auch Löcher und Öffnungen in Wände schlagen.
 
-| TÜREN     | EINTRETEN | SW |
-|-----------|:---------:|:--:|
-| Normal    |    +0     | 0  |
-| Verstärkt |    -4     | 4  |
+| TÜREN     | EINTRETEN | SW  |
+| --------- | :-------: | :-: |
+| Normal    |    +0     |  0  |
+| Verstärkt |    -4     |  4  |
 
-| WÄNDE     | ABWEHR | LK |
-|-----------|:------:|:--:|
-| Lehmwand  |   15   | 10 |
-| Fachwerk  |   20   | 15 |
-| Holzwand  |   25   | 15 |
-| Steinwand |   40   | 25 |
-| Tor       |   30   | 20 |
+| WÄNDE     | ABWEHR | LK  |
+| --------- | :----: | :-: |
+| Lehmwand  |   15   | 10  |
+| Fachwerk  |   20   | 15  |
+| Holzwand  |   25   | 15  |
+| Steinwand |   40   | 25  |
+| Tor       |   30   | 20  |
 
-#### ZERSTÖRBARE DUNGEONS 
+#### ZERSTÖRBARE DUNGEONS
 
 Einbrechende Tunneldecken oder umstürzende Mauern, die noch dazu auf Gegner fallen, bringen noch mehr Action und Spaß in einen Kampf, doch sollten diese Mittel nur hin und wieder eingesetzt werden (1 bis 2 Bereiche alle paar Dungeons reichen völlig aus), sonst nutzen sie sich zu schnell ab.
 

@@ -6,13 +6,11 @@ Ohne ordentliche Schätze macht auch der einfallsreichste Dungeon nicht sonderli
 
 Um die Zusammenstellung gefundener Beute und Schätze schnell und einfach zu ermitteln, verwendet Dungeonslayers sogenannte Beutetabellen (siehe Seite 148): Feinde und Schätze haben immer einen **Beutewert (BW)**, der dem PW entspricht, mit dem man auf der Beutetabelle würfelt.
 
-**Beispiel**:
-_Die Angabe **BW 2C:10** bedeutet, dass **zweimal** auf **Beutetabelle C** (zivilisierte Humanoide in der Wildnis) eine Probe mit **Probenwert 10** gewürfelt wird (Immersiege gelten hier nicht). Bei einem Erfolg entspricht das Probenergebnis der Beutenummer auf der jeweiligen Tabelle._
+**Beispiel**: _Die Angabe **BW 2C:10** bedeutet, dass **zweimal** auf **Beutetabelle C** (zivilisierte Humanoide in der Wildnis) eine Probe mit **Probenwert 10** gewürfelt wird (Immersiege gelten hier nicht). Bei einem Erfolg entspricht das Probenergebnis der Beutenummer auf der jeweiligen Tabelle._
 
 Desweiteren kommt es hin und wieder - bei besonders mächtigen und/oder beutereichen Schätzen - vor, dass eine Beutenummer nicht als Probe ausgewürfelt wird.
 
-**Beispiel**:
-_Der finstere Magier Beldrak hat als Beutewert die Angabe BW 4D: W20+10. Dies bedeutet, dass auf Beutetabelle D viermal Schätze probenlos mit jeweils W20+10 ermittelt werden._
+**Beispiel**: _Der finstere Magier Beldrak hat als Beutewert die Angabe BW 4D: W20+10. Dies bedeutet, dass auf Beutetabelle D viermal Schätze probenlos mit jeweils W20+10 ermittelt werden._
 
 Es ist sinnvoll, eigene Beutetabellen zu erstellen, die direkt auf ein Abenteuer oder bestimmte Gegnertypen zugeschnitten sind.
 

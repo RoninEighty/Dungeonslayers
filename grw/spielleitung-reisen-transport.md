@@ -3,7 +3,7 @@
 Die folgende Tabelle listet auf, wie weit eine Reisegruppe durchschnittlich in 12 Stunden (Pausen einkalkuliert) voran kommt, abhängig von ihrer durchschnittlichen Transportgeschwindigkeit, dem Gelände und anderen Umständen:
 
 | AN LAND/12H      |  EBENE  | UNWEGSAM |
-|------------------|:-------:|:--------:|
+| ---------------- | :-----: | :------: |
 | Zu Fuß/Karren    |  40km   |   25km   |
 | Ochsenwagen      |  30km   |    -     |
 | Pferd (Schritt)  |  55km   |   35km   |
@@ -14,14 +14,14 @@ Die folgende Tabelle listet auf, wie weit eine Reisegruppe durchschnittlich in 1
 \*: Dauert (15-AGI)h, nach (KÖR/2)h aber KÖR+HÄ alle 15 Minuten (im Trab alle 30), sonst totgeritten.
 
 | AUF DEM FLUSS/12H | STROMAUF | STROMAB |
-|-------------------|:--------:|:-------:|
+| ----------------- | :------: | :-----: |
 | Floß              |   15km   |  50km   |
 | Paddelboot        |   25km   |  80km   |
 | Fischerboot       |   40km   |  130km  |
 | Ruderboot         |   80km   |  180km  |
 
 | AUF DEM MEER | 12H |     WETTER     |
-|--------------|:---:|:--------------:|
+| ------------ | :-: | :------------: |
 | Floß         | 25  | (W20-10) x 10% |
 | Ruderboot    | 90  | (W20-5) x 10%  |
 | Segelboot    | 100 | (W20-10) x 15% |
@@ -64,7 +64,7 @@ Als Grundlage dient dabei immer der Laufen-Wert des langsamsten Mitglieds in der
 Berittene Charaktere verwenden immer den Laufen-Wert ihres Reittieres.
 
 | LAUFEN |   EBENE    | UNWEGSAM  | SCHWIERIG |
-|:------:|:----------:|:---------:|:---------:|
+| :----: | :--------: | :-------: | :-------: |
 |  1,5m  | 1,6km / h  | 1,1km / h | 0,5km / h |
 |   2m   | 2,2km / h  | 1,4km / h | 0,7km / h |
 |  2,5m  | 2,7km / h  | 1,8km / h | 0,9km / h |
