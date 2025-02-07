@@ -20,4 +20,13 @@ Upgrade
 | Kämpfen | Schießen | Zaubern    | Zielzauber |
 | 24      | -        | -          | -          |
 
+- Gruppe: Tiere  
+| KÖR | AGI | GEI |  
+| --- | --- | --- |  
+|3|8|1|  
+| ST | BE | VE |  
+|1|3|0|  
+| HÄ | GE | AU |  
+|0|1|1|  
+
 Quelle: Dungeonslayers Basisbox
