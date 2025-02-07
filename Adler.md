@@ -1,7 +1,7 @@
 ### Aensteiner Soldat
 - Gruppe: Mensch  
 - Volk: Mensch  
-- Klasse: KRI  
+- Klasse: Krieger  
 - Stufe: 1  
 - Fähigkeiten: Talentiert  
 
@@ -28,9 +28,9 @@ Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
 **Talente:**
 [Fieser Schuss I](talente\Fieser-Schuss.md), [Kämpfer I](Kämpfer.md), [Parade](Parade) I, [Schütze I](Schütze), [Wahrnehmung I](Wahrnehmung)
 
-Gegnerhärte: 2
-Größe: no
-Erfahrungspunkte:55
+Gegnerhärte: 2  
+Größe: no  
+Erfahrungspunkte:55  
 
 ___
 *Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slayerforum | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
