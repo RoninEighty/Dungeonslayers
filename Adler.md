@@ -1,32 +1,36 @@
-### Adler
-Gruppe:
-Volk:
-Klasse:
-Stufe:
-Fähigkeiten:
-Upgrade
+### Aensteiner Soldat
+- Gruppe: Mensch  
+- Volk: Mensch  
+- Klasse: KRI  
+- Stufe: 1  
+- Fähigkeiten: Talentiert  
 
 | KÖR | AGI | GEI |
 | --- | --- | --- |
-| 16  | 6   | 0   |
+| 8   | 8   | 4   |
 | ST  | BE  | VE  |
-| 6   | 0   | 0   |
+| 2   | 2   | 0   |
 | HÄ  | GE  | AU  |
-| 5   | 0   | 0   |
+| 2   | 4   | 0   |
 
-| Leben   | Abwehr   | Initiative | Laufen     |
-| ------- | -------- | ---------- | ---------- |
-| 62      | 23       | 6          | 4,5        |
-| Kämpfen | Schießen | Zaubern    | Zielzauber |
-| 24      | -        | -          | -          |
+| Leben    | Abwehr   | Initiative | Laufen     |
+| -------- | -------- | ---------- | ---------- |
+| 20       | 14       | 11         | 5          |
+| Schlagen | Schießen | Zaubern    | Zielzauber |
+| 12       | 14       | -          | -          |
 
-- Gruppe: Tiere  
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-|3|8|1|  
-| ST | BE | VE |  
-|1|3|0|  
-| HÄ | GE | AU |  
-|0|1|1|  
+**Bewaffnung:**
+Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1)
 
-Quelle: Dungeonslayers Basisbox
+**Panzerung:**
+Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
+
+**Talente:**
+[Fieser Schuss I](talente\Fieser-Schuss.md), [Kämpfer I](Kämpfer.md), [Parade](Parade) I, [Schütze I](Schütze), [Wahrnehmung I](Wahrnehmung)
+
+Gegnerhärte: 2
+Größe: no
+Erfahrungspunkte:55
+
+___
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slayerforum | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
