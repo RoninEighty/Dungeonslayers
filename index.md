@@ -35,7 +35,6 @@ zur Verfügung.
 
 ### Regeln
 
-- [Regeln](grw/regeln-proben.md)
 - [Proben](grw/regeln-proben.md)
 - [Kampf](grw/regeln-kampf.md)
 - [Schaden und Heilung](grw/regeln-schaden-heilung.md)
@@ -56,6 +55,7 @@ zur Verfügung.
 - [Slayergefahren](grw/spielleitung-slayergefahren.md)
 - [Reisen & Transport](grw/spielleitung-reisen-transport.md)
 - [Sprachen & Schriftzeichen](grw/spielleitung-sprachen-ep-vergabe.md)
+- [Waren herstellen](grw/spielleitung-waren-herstellen.md)
 - [EP-Vergabe](grw/spielleitung-sprachen-ep-vergabe.md#EP-VERGABE)
 - [Erweiterte Proben](grw/spielleitung-erweiterte-proben.md)
 - [Schätze](grw/spielleitung-schaetze.md)
