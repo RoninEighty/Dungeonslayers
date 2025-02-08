@@ -26,12 +26,13 @@ zur Verfügung.
 - [Attribute & Eigenschaften](grw/charaktere-attribute-eigenschaften.md)
 - [Die Kampfwerte](grw/charaktere-attribute-eigenschaften.md#DIE%20KAMPFWERTE)
 - [Charaktererschaffung](grw/charaktere-charaktererschaffung.md)
-- [Erfahrung](grw/Erfahrung.md)
+- [Erfahrung](grw/charaktere-erfahrung.md)
 - [Heldenklassen](grw/charaktere-heldenklassen.md)
 
 ### Talente
 
-- [Übersicht Talente](index-talente.md)
+- [Talente](grw/talente.md)
+- [Übersicht aller Talente](index-talente.md)
 
 ### Regeln
 
@@ -43,6 +44,7 @@ zur Verfügung.
 
 ### Zaubersprüche
 
+- [Zaubersprüche](grw/zaubersprueche.md)
 - [Liste der Zaubersprüche](index-zauber.md)
 
 ### Ausrüstung
@@ -59,6 +61,14 @@ zur Verfügung.
 - [EP-Vergabe](grw/spielleitung-sprachen-ep-vergabe.md#EP-VERGABE)
 - [Erweiterte Proben](grw/spielleitung-erweiterte-proben.md)
 - [Schätze](grw/spielleitung-schaetze.md)
+
+### Völkerbaukasten
+
+- [Völkerbaukasten](grw/voelkerbaukasten.md)
+
+### Feuerwaffen
+
+- [Feuerwaffen](grw/feuerwaffen.md)
 
 ## Fanwerke
 
