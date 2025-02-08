@@ -36,23 +36,23 @@ Neben den Klassenvoraussetzungen werden bei jeder Heldenklasse ihre Talente samt
 
 #### KLASSEN UND IHRE HELDENKLASSEN
 
-- Krieger:
+- [Krieger](charaktere-klasse-krieger.md):
   - [Berserker](charaktere-heldenklassen-berserker.md)
   - [Paladin](charaktere-heldenklassen-paladin.md)
   - [Waffenmeister](charaktere-heldenklassen-waffenmeister.md)
-- Späher:
+- [Späher](charaktere-klasse-spaeher.md):
   - [Attentäter](charaktere-heldenklassen-attentaeter.md)
   - [Meisterdieb](charaktere-heldenklassen-meisterdieb.md)
   - [Waldläufer](charaktere-heldenklassen-waldlaeufer.md)
-- Heiler:
+- [Heiler](charaktere-klasse-heiler.md):
   - [Druide](charaktere-heldenklassen-druide.md)
   - [Kampfmönch](charaktere-heldenklassen-kampfmoench.md)
   - [Kleriker](charaktere-heldenklassen-kleriker.md)
-- Zauberer:
+- [Zauberer](charaktere-klasse-zauberer.md):
   - [Elementarist](charaktere-heldenklassen-elementarist.md)
   - [Erzmagier](charaktere-heldenklassen-erzmagier.md)
   - [Kriegszauberer](charaktere-heldenklassen-kriegszauberer.md)
-- Schwarzmagier:
+- [Schwarzmagier](charaktere-klasse-schwarzmagier.md):
   - [Blutmagier](charaktere-heldenklassen-blutmagier.md)
   - [Dämonologe](charaktere-heldenklassen-daemonologe.md)
   - [Nekromant](charaktere-heldenklassen-nekromant.md)

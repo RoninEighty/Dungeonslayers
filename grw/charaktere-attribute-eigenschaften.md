@@ -51,8 +51,7 @@ Diese Eigenschaft verrät, wie kräftig ein Charakter ist, und ob er ordentlich 
 
 #### HÄRTE (HÄ)
 
-Ist der Charakter ein robuster Brocken, den nichts so leicht umwirft, weder Schaden, Krankheit oder Gift?
-Härte kommt vor allem ins Spiel, wenn es darum geht, Schaden abzuwehren.
+Ist der Charakter ein robuster Brocken, den nichts so leicht umwirft, weder Schaden, Krankheit oder Gift? Härte kommt vor allem ins Spiel, wenn es darum geht, Schaden abzuwehren.
 
 **Attribut**: Körper
 

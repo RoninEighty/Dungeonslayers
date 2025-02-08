@@ -44,7 +44,7 @@ Elfen und Zwerge notieren ihre jeweiligen Volksfähigkeiten, Menschen erhalten s
 
 ### 2. KLASSE WÄHLEN
 
-Nun ist eine der drei Klassen Krieger, Späher oder Zauberwirker zu wählen. Spieler von Zauberwirkern müssen zudem festlegen, ob sie einen Heiler, Zauberer oder Schwarzmagier spielen möchten, wovon abhängt, welche Arten von Zaubersprüchen der Charakter benutzt.
+Nun ist eine der drei Klassen [Krieger](charaktere-klasse-krieger.md), [Späher](charaktere-klasse-spaeher.md) oder Zauberwirker zu wählen. Spieler von Zauberwirkern müssen zudem festlegen, ob sie einen [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) oder [Schwarzmagier](charaktere-klasse-schwarzmagier.md) spielen möchten, wovon abhängt, welche Arten von Zaubersprüchen der Charakter benutzt.
 
 #### KRIEGER
 
