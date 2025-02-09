@@ -1,0 +1,165 @@
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: "Woodstamp";
+    src: url("https://www.f-space.de/fonts/woodstamp-webfont.ttf")
+      format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Georgia";
+    src: url("https://www.f-space.de/fonts/Georgia.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Georgia";
+    src: url("https://www.f-space.de/fonts/Georgia_Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Georgia";
+    src: url("https://www.f-space.de/fonts/Georgia_Bold_Italic.ttf")
+      format("truetype");
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "Georgia";
+    src: url("https://www.f-space.de/fonts/Georgia_Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  :root {
+    font-family: "Georgia";
+    width: 1200px;
+    margin: auto;
+  }
+  
+  body {
+    
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: black;
+  }
+  
+  nav {
+    position: fixed;
+    top: 2rem;
+    left: calc(((100% - 1200px) / 2) - 300px);
+    min-width: 300px;
+    max-width: 300px;
+    height: calc(100% - 2rem);
+    overflow-x: hidden;
+    overflow-y: auto;
+    white-space: nowrap;
+  }
+  
+  nav > ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  
+  nav li {
+    margin-left: -1rem;
+    padding-left: 0;
+  }
+  
+  nav > ul > li {
+    margin-left: 0;
+  }
+  
+  nav a {
+    font-family: "Woodstamp";
+    font-size: 1.5rem;
+  }
+  
+  h1 {
+    font-family: "Woodstamp";
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: normal;
+    color: white;
+    text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+    margin-bottom: 0;
+  }
+  
+  h2 {
+    font-family: "Woodstamp";
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: normal;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  h3 {
+    font-family: "Woodstamp";
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: normal;
+    font-size: 2rem;
+    margin-bottom: 0;
+  }
+  
+  h4 {
+    font-family: "Woodstamp";
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+  }
+  
+  h5 {
+    font-size: 1rem;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+  
+  h5 + p {
+    margin-top: 3px;
+  }
+  
+  pre {
+  
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: auto;
+  }
+  
+  th {
+    border: 1.5px solid black;
+    font-family: "Woodstamp";
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 1.5rem;
+    background-color: #ddd;
+    padding: 0.2rem;
+  }
+  
+  td {
+    border: 1.5px solid black;
+    padding: 0.2rem;
+  }
