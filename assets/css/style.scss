@@ -38,54 +38,24 @@
     font-style: italic;
   }
 
+// Unset predefined styles
+.markdown-body {
+
+  h1, h2, h3, h4, h5 {
+    padding-bottom: unset;
+    border-bottom: unset;
+    margin-top: unset;
+    margin-bottom: unset;
+    font-weight: unset;
+    font-size: unset;
+  }
+}
+
+// Apply own styles
 .markdown-body {
 
   body {
     font-family: "Georgia";
-  }
-  
-  a {
-    color: black;
-  }
-  
-  a:visited {
-    color: black;
-  }
-  
-  a:hover {
-    color: black;
-  }
-  
-  nav {
-    position: fixed;
-    top: 2rem;
-    left: calc(((100% - 1200px) / 2) - 300px);
-    min-width: 300px;
-    max-width: 300px;
-    height: calc(100% - 2rem);
-    overflow-x: hidden;
-    overflow-y: auto;
-    white-space: nowrap;
-  }
-  
-  nav > ul {
-    list-style: none;
-    margin-left: 0;
-    padding-left: 0;
-  }
-  
-  nav li {
-    margin-left: -1rem;
-    padding-left: 0;
-  }
-  
-  nav > ul > li {
-    margin-left: 0;
-  }
-  
-  nav a {
-    font-family: "Woodstamp";
-    font-size: 1.5rem;
   }
   
   h1 {
@@ -103,7 +73,7 @@
     font-family: "Woodstamp";
     text-transform: uppercase;
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: normal;
     background-color: black;
     color: white;
