@@ -15,52 +15,52 @@ Dessen Texte und Regelmechaniken stehen unter der Lizenz [CC BY-NC-SA 3.0 DE](ht
 
 ## Die DS-Lizenz
 
-- [DS-Lizenz](grw/ds-lizenz.md)
+- [DS-Lizenz](ds-lizenz.md)
 
 ## Rollenspiel?
 
-- [Rollenspiel?](grw/rollenspiel.md)
+- [Rollenspiel?](rollenspiel.md)
 
 ## Charaktere
 
-- [Attribute & Eigenschaften](grw/charaktere-attribute-eigenschaften.md)
-- [Die Kampfwerte](grw/charaktere-attribute-eigenschaften.md#DIE%20KAMPFWERTE)
-- [Charaktererschaffung](grw/charaktere-charaktererschaffung.md)
-- [Erfahrung](grw/charaktere-erfahrung.md)
-- [Heldenklassen](grw/charaktere-heldenklassen.md)
+- [Attribute & Eigenschaften](charaktere-attribute-eigenschaften.md)
+- [Die Kampfwerte](charaktere-attribute-eigenschaften.md#die-kampfwerte)
+- [Charaktererschaffung](charaktere-charaktererschaffung.md)
+- [Erfahrung](charaktere-erfahrung.md)
+- [Heldenklassen](charaktere-heldenklassen.md)
 
 ## Talente
 
-- [Talente](grw/talente.md)
+- [Talente](talente.md)
 
 ## Regeln
 
-- [Proben](grw/regeln-proben.md)
-- [Kampf](grw/regeln-kampf.md)
-- [Schaden und Heilung](grw/regeln-schaden-heilung.md)
-- [Kampfdetails](grw/regeln-kampfdetails.md)
-- [Optionale Kampfregeln](grw/regeln-kampfdetails.md#optionale-kampfregeln)
-- [Magie](grw/regeln-magie.md)
+- [Proben](regeln-proben.md)
+- [Kampf](regeln-kampf.md)
+- [Schaden und Heilung](regeln-schaden-heilung.md)
+- [Kampfdetails](regeln-kampfdetails.md)
+- [Optionale Kampfregeln](regeln-kampfdetails.md#optionale-kampfregeln)
+- [Magie](regeln-magie.md)
 
 ## Zaubersprüche
 
-- [Zaubersprüche](grw/zaubersprueche.md)
+- [Zaubersprüche](zaubersprueche.md)
 - TODO Liste der Zaubersprüche
 
 ## Ausrüstung
 
-- [Ausrüstung](grw/ausruestung.md)
+- [Ausrüstung](ausruestung.md)
 
 ## Spielleitung
 
-- [Dungeons](grw/spielleitung-dungeons.md)
-- [Slayergefahren](grw/spielleitung-slayergefahren.md)
-- [Reisen & Transport](grw/spielleitung-reisen-transport.md)
-- [Sprachen & Schriftzeichen](grw/spielleitung-sprachen-ep-vergabe.md)
-- [Waren herstellen](grw/spielleitung-waren-herstellen.md)
-- [EP-Vergabe](grw/spielleitung-sprachen-ep-vergabe.md#EP-VERGABE)
-- [Erweiterte Proben](grw/spielleitung-erweiterte-proben.md)
-- [Schätze](grw/spielleitung-schaetze.md)
+- [Dungeons](spielleitung-dungeons.md)
+- [Slayergefahren](spielleitung-slayergefahren.md)
+- [Reisen & Transport](spielleitung-reisen-transport.md)
+- [Sprachen & Schriftzeichen](spielleitung-sprachen-ep-vergabe.md)
+- [Waren herstellen](spielleitung-waren-herstellen.md)
+- [EP-Vergabe](spielleitung-sprachen-ep-vergabe.md#ep-vergabe)
+- [Erweiterte Proben](spielleitung-erweiterte-proben.md)
+- [Schätze](spielleitung-schaetze.md)
 - TODO Bestiarium
 
 ## Abenteuer
@@ -82,5 +82,5 @@ Dessen Texte und Regelmechaniken stehen unter der Lizenz [CC BY-NC-SA 3.0 DE](ht
 
 - TODO Beutetabellen 148
 - TODO Miniaturen & Bodenpläne 153
-- [Völkerbaukasten](grw/voelkerbaukasten.md)
-- [Feuerwaffen](grw/feuerwaffen.md)
+- [Völkerbaukasten](voelkerbaukasten.md)
+- [Feuerwaffen](feuerwaffen.md)
