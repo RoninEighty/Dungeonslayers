@@ -693,12 +693,6 @@ Tabellen EZ, ET1
 |    40 | Kristallkugel                      |
 
 
-
-
-
-[[[[[[[[[[[[[[[[[[[todo - Seite 152 ]]]]]]]]]]]]]]]]]]]]]]]]
-
-
 ### Beutetabelle G
 
 | 3W20 | MAG. GEGENSTÄNDE        |
