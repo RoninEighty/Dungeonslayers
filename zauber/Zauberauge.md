@@ -1,0 +1,19 @@
+# Zauberauge  
+- Kategorie: #Zauber  
+- Zugangsstufen:  
+  - Heiler: 12  
+  - Zauberer: 10  
+  - Schwarzmagier: 11  
+- Kosten: 790  
+- Zauberbonus: sh. unten  
+- Dauer: Probeergebnis/2 in KR  
+- Reichweite: VE x 100 Meter  
+- Abklingzeit: 24 Stunden  
+- Art: Zaubern     
+
+## Beschreibung:
+Der ZAW erschafft ein Auge aus magischer Substanz, ein Konstrukt der Größenkategorie Winzig mit einer LK entsprechend seine halben Stufe + 5 und fliegt mit einem Laufen-Wert von VE x 2. Weitere Kampfwerte hat das Auge nicht.<br>Sinkt die LK des Auges unter 0, ist es zerstört, und der Zauber endet.<br>Der ZAW kann durch das Auge sehen, ohne sich darauf konzentrieren zu müssen, allerdings nichts hören.<br>Bei der Erschaffung kann der Wirker das Auge an jedem Ort innerhalb der Wirkungsdistanz entstehen lassen.<br>Entsteht es dabei jedoch versehentlich in einem festen Gegenstand, wird es sofort zerstört, und der Zauber endet.<br><br><b>Zauberbonus:</b> -1 pro Meter anfängliche Entfernung zum ZAW (x2, wenn an Ort, den der ZAW nicht sehen kann) 
+
+
+___
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Bruder Grimms Grimmoire 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
