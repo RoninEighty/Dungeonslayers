@@ -72,15 +72,15 @@ Dessen Texte und Regelmechaniken stehen unter der Lizenz [CC BY-NC-SA 3.0 DE](ht
 
 ## Die Welt Caera
 
-- Setting-Regeln 143
-- Über Caera 143
-- Die Freien Lande 144
-- Der Almanach 144
-- Karte der Freien Lande 146
+- TODO Setting-Regeln 143
+- TODO Über Caera 143
+- TODO Die Freien Lande 144
+- TODO Der Almanach 144
+- TODO Karte der Freien Lande 146
 
 ## Anhänge
 
-- TODO Beutetabellen 148
-- TODO Miniaturen & Bodenpläne 153
-- [Völkerbaukasten](voelkerbaukasten.md)
-- [Feuerwaffen](feuerwaffen.md)
+- [Beutetabellen](anhang-beutetabellen.md)
+- [Miniaturen & Bodenpläne](anhang-miniaturen-bodenplaene.md) 
+- [Völkerbaukasten](anhang-voelkerbaukasten.md)
+- [Feuerwaffen](anhang-feuerwaffen.md)
