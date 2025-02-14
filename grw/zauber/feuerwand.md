@@ -16,7 +16,6 @@
 
 Der ZAW lässt eine Feuerwand erscheinen, die Ausmaße von maximal 1m x VE m x VE m annehmen kann. Wesen, die an der Stelle stehen, wo die Feuerwand erscheint, oder durch sie hindurch springen, erhalten 2W20 abwehrbaren Schaden.
 
-Die elementare Ausprägung des Zaubers kann an die Vorlieben des ZAW angepasst werden, muss aber beim Erwerb des Zaubers einmalig festgelegt werden (z.B. Feuerwand, Kältefront, Statisches Feld, Felsklingen, Lavastrom, Dornengestrüpp, Dampfmauer, Sturmwand, Manasturm, Knochenwall, Lichtschranke, Lauerende Dunkelheit vgl. Dzaarions Zauber)
 
 ---
 
