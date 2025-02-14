@@ -1,305 +1,306 @@
-# Übersicht Talente<br>
-[Aberglaube](talente/Aberglaube.md)<br>
-[Abklingen](talente/Abklingen.md)<br>
-[Abklingendes Blut](talente/Abklingendes-Blut.md)<br>
-[Ablenkender Schuss](talente/Ablenkender-Schuss.md)<br>
-[Achtloser Vorstoss](talente/Achtloser-Vorstoss.md)<br>
-[Aderschlitzer](talente/Aderschlitzer.md)<br>
-[Adlergestalt](talente/Adlergestalt.md)<br>
-[Akrobat](talente/Akrobat.md)<br>
-[Alchemie](talente/Alchemie.md)<br>
-[Allerweltsgesicht](talente/Allerweltsgesicht.md)<br>
-[Anknurren](talente/Anknurren.md)<br>
-[Archivar](talente/Archivar.md)<br>
-[Arkane Explosion](talente/Arkane-Explosion.md)<br>
-[Auf Ex!](talente/Auf-Ex!.md)<br>
-[Aura des Mutes](talente/Aura-des-Mutes.md)<br>
-[Aus dem Ärmel](talente/Aus-dem-Ärmel.md)<br>
-[Aus den Beinen!](talente/Aus-den-Beinen!.md)<br>
-[Ausbrennen](talente/Ausbrennen.md)<br>
-[Ausweichen](talente/Ausweichen.md)<br>
-[Autorität](talente/Autorität.md)<br>
-[Bardenlieder](talente/Bardenlieder.md)<br>
-[Befreiender Schmerz](talente/Befreiender-Schmerz.md)<br>
-[Beinfeger](talente/Beinfeger.md)<br>
-[Belebtes Trugbild](talente/Belebtes-Trugbild.md)<br>
-[Beschwörer](talente/Beschwörer.md)<br>
-[Beschwörer peinigen](talente/Beschwörer-peinigen.md)<br>
-[Beute schätzen](talente/Beute-schätzen.md)<br>
-[Bildung](talente/Bildung.md)<br>
-[Blind kämpfen](talente/Blind-kämpfen.md)<br>
-[Blitzmacher](talente/Blitzmacher.md)<br>
-[Blocker](talente/Blocker.md)<br>
-[Blut-Zaubertrank](talente/Blut-Zaubertrank.md)<br>
-[Blutband](talente/Blutband.md)<br>
-[Blutige Heilung](talente/Blutige-Heilung.md)<br>
-[Blutige Vergeltung](talente/Blutige-Vergeltung.md)<br>
-[Blutmaske](talente/Blutmaske.md)<br>
-[Blutrache](talente/Blutrache.md)<br>
-[Blutschild](talente/Blutschild.md)<br>
-[Blutschmied](talente/Blutschmied.md)<br>
-[Bodenkampf](talente/Bodenkampf.md)<br>
-[Brutaler Hieb](talente/Brutaler-Hieb.md)<br>
-[Brutbauch](talente/Brutbauch.md)<br>
-[Bändiger](talente/Bändiger.md)<br>
-[Bärengestalt](talente/Bärengestalt.md)<br>
-[Charmant](talente/Charmant.md)<br>
-[Chi-Blockade](talente/Chi-Blockade.md)<br>
-[Diebeskunst](talente/Diebeskunst.md)<br>
-[Diener der Dunkelheit](talente/Diener-der-Dunkelheit.md)<br>
-[Diener des Lichts](talente/Diener-des-Lichts.md)<br>
-[Dimensionssprung](talente/Dimensionssprung.md)<br>
-[Doppelschlag](talente/Doppelschlag.md)<br>
-[Drachentöter](talente/Drachentöter.md)<br>
-[Druckverband](talente/Druckverband.md)<br>
-[Druckwelle](talente/Druckwelle.md)<br>
-[Durchschuss](talente/Durchschuss.md)<br>
-[Dämonen zerschmettern](talente/Dämonen-zerschmettern.md)<br>
-[Dämonenbrut](talente/Dämonenbrut.md)<br>
-[Dämonengestalt](talente/Dämonengestalt.md)<br>
-[Dämonenschwingen](talente/Dämonenschwingen.md)<br>
-[Dämonenzauber](talente/Dämonenzauber.md)<br>
-[Ehrenduell](talente/Ehrenduell.md)<br>
-[Eifriger Slayer](talente/Eifriger-Slayer.md)<br>
-[Einbetten](talente/Einbetten.md)<br>
-[Einstecker](talente/Einstecker.md)<br>
-[Eleganter Stich](talente/Eleganter-Stich.md)<br>
-[Elementare Bündeln](talente/Elementare-Bündeln.md)<br>
-[Elementare Energie](talente/Elementare-Energie.md)<br>
-[Elementare Explosion](talente/Elementare-Explosion.md)<br>
-[Elementarer Waffenmeister](talente/Elementarer-Waffenmeister.md)<br>
-[Elementargestalt](talente/Elementargestalt.md)<br>
-[Elementen Trotzen](talente/Elementen-Trotzen.md)<br>
-[Engelsschwingen](talente/Engelsschwingen.md)<br>
-[Entwaffnen](talente/Entwaffnen.md)<br>
-[Erschütternder Schlag](talente/Erschütternder-Schlag.md)<br>
-[Erzfeind](talente/Erzfeind.md)<br>
-[Explosionskontrolle](talente/Explosionskontrolle.md)<br>
-[Faustkämpfer](talente/Faustkämpfer.md)<br>
-[Feenblütig](talente/Feenblütig.md)<br>
-[Feiner Geruchssinn](talente/Feiner-Geruchssinn.md)<br>
-[Fesselnde Persönlichkeit](talente/Fesselnde-Persönlichkeit.md)<br>
-[Feuermagier](talente/Feuermagier.md)<br>
-[Fieser Schuss](talente/Fieser-Schuss.md)<br>
-[Flankierer](talente/Flankierer.md)<br>
-[Flink](talente/Flink.md)<br>
-[Fresssack](talente/Fresssack.md)<br>
-[Friedvoller Hieb](talente/Friedvoller-Hieb.md)<br>
-[Fronarbeit](talente/Fronarbeit.md)<br>
-[Frontheiler](talente/Frontheiler.md)<br>
-[Früheres Leben](talente/Früheres-Leben.md)<br>
-[Fürsorger](talente/Fürsorger.md)<br>
-[Geborenes Genie](talente/Geborenes-Genie.md)<br>
-[Gegenhalten](talente/Gegenhalten.md)<br>
-[Gegenstand benutzen](talente/Gegenstand-benutzen.md)<br>
-[Geist verleihen](talente/Geist-verleihen.md)<br>
-[Geistergestalt](talente/Geistergestalt.md)<br>
-[Geistheiler](talente/Geistheiler.md)<br>
-[Genesung](talente/Genesung.md)<br>
-[Gerüstet](talente/Gerüstet.md)<br>
-[Geschosse abwehren](talente/Geschosse-abwehren.md)<br>
-[Gezieltes Gift](talente/Gezieltes-Gift.md)<br>
-[Giftexplosion](talente/Giftexplosion.md)<br>
-[Giftiges Blut](talente/Giftiges-Blut.md)<br>
-[Glänzendes Vorbild](talente/Glänzendes-Vorbild.md)<br>
-[Glückspilz](talente/Glückspilz.md)<br>
-[Gnädiger Zauberer](talente/Gnädiger-Zauberer.md)<br>
-[Golem zerschmettern](talente/Golem-zerschmettern.md)<br>
-[Golemarmee](talente/Golemarmee.md)<br>
-[Halluzination](talente/Halluzination.md)<br>
-[Handwerk](talente/Handwerk.md)<br>
-[Hau Ruck!](talente/Hau-Ruck!.md)<br>
-[Heftiger Ansturm](talente/Heftiger-Ansturm.md)<br>
-[Heimlichkeit](talente/Heimlichkeit.md)<br>
-[Heldenglück](talente/Heldenglück.md)<br>
-[Herausforderer der Elemente](talente/Herausforderer-der-Elemente.md)<br>
-[Herr der Elemente](talente/Herr-der-Elemente.md)<br>
-[Herr des Waldes](talente/Herr-des-Waldes.md)<br>
-[Himmelswächter](talente/Himmelswächter.md)<br>
-[Hinterhältiger Angriff](talente/Hinterhältiger-Angriff.md)<br>
-[Homunkulus](talente/Homunkulus.md)<br>
-[Ich muss weg!](talente/Ich-muss-weg!.md)<br>
-[Identifizierer](talente/Identifizierer.md)<br>
-[In Deckung](talente/In-Deckung.md)<br>
-[In die Kerbe!](talente/In-die-Kerbe!.md)<br>
-[Infernale Bindung](talente/Infernale-Bindung.md)<br>
-[Inneres Chi](talente/Inneres-Chi.md)<br>
-[Insektentöter](talente/Insektentöter.md)<br>
-[Instrument](talente/Instrument.md)<br>
-[Instrumentbindung](talente/Instrumentbindung.md)<br>
-[Jäger](talente/Jäger.md)<br>
-[Kampfgefährte](talente/Kampfgefährte.md)<br>
-[Kann ich mal vorbei?](talente/Kann-ich-mal-vorbei?.md)<br>
-[Ki-Schlag](talente/Ki-Schlag.md)<br>
-[Kiai](talente/Kiai.md)<br>
-[Klangexplosion](talente/Klangexplosion.md)<br>
-[Klauen der Verdammnis](talente/Klauen-der-Verdammnis.md)<br>
-[Kletterass](talente/Kletterass.md)<br>
-[Knechtschaft](talente/Knechtschaft.md)<br>
-[Knochenbrecher](talente/Knochenbrecher.md)<br>
-[Koordination](talente/Koordination.md)<br>
-[Kraft der Bestie](talente/Kraft-der-Bestie.md)<br>
-[Krallenfinger](talente/Krallenfinger.md)<br>
-[Kreiszeichner](talente/Kreiszeichner.md)<br>
-[Kriegskonstrukt](talente/Kriegskonstrukt.md)<br>
-[Kroppzeuch!](talente/Kroppzeuch!.md)<br>
-[Kräuterexperte](talente/Kräuterexperte.md)<br>
-[Kräuterkundiger](talente/Kräuterkundiger.md)<br>
-[Kämpfer](talente/Kämpfer.md)<br>
-[Langfinger](talente/Langfinger.md)<br>
-[Leibwächter](talente/Leibwächter.md)<br>
-[Lieblingszauber](talente/Lieblingszauber.md)<br>
-[Macht des Blutes](talente/Macht-des-Blutes.md)<br>
-[Magieresistent](talente/Magieresistent.md)<br>
-[Magiertöter](talente/Magiertöter.md)<br>
-[Magisches Erbe](talente/Magisches-Erbe.md)<br>
-[Manipulator](talente/Manipulator.md)<br>
-[Materielle Bindung](talente/Materielle-Bindung.md)<br>
-[Meister aller Klassen](talente/Meister-aller-Klassen.md)<br>
-[Meister seiner Klasse](talente/Meister-seiner-Klasse.md)<br>
-[Meucheln](talente/Meucheln.md)<br>
-[Mit Anlauf!](talente/Mit-Anlauf!.md)<br>
-[Monstertöter](talente/Monstertöter.md)<br>
-[Mächtige Beschwörung](talente/Mächtige-Beschwörung.md)<br>
-[Mächtige Erweckung](talente/Mächtige-Erweckung.md)<br>
-[Mächtige Herbeirufung](talente/Mächtige-Herbeirufung.md)<br>
-[Mächtige Tränke](talente/Mächtige-Tränke.md)<br>
-[Nachglühen](talente/Nachglühen.md)<br>
-[Nachtschwärmer](talente/Nachtschwärmer.md)<br>
-[Natürliche Auslese](talente/Natürliche-Auslese.md)<br>
-[Nekromantie](talente/Nekromantie.md)<br>
-[Niedermähen](talente/Niedermähen.md)<br>
-[Notfall](talente/Notfall.md)<br>
-[Optimierte Verwertung](talente/Optimierte-Verwertung.md)<br>
-[Panzerung zerschmettern](talente/Panzerung-zerschmettern.md)<br>
-[Parade](talente/Parade.md)<br>
-[Pass auf!](talente/Pass-auf!.md)<br>
-[Perfektion](talente/Perfektion.md)<br>
-[Präziser Schuss](talente/Präziser-Schuss.md)<br>
-[Prügler](talente/Prügler.md)<br>
-[Puppenspieler](talente/Puppenspieler.md)<br>
-[Rache der Elemente](talente/Rache-der-Elemente.md)<br>
-[Raserei](talente/Raserei.md)<br>
-[Raubtierpranken](talente/Raubtierpranken.md)<br>
-[Reanimation](talente/Reanimation.md)<br>
-[Reiten](talente/Reiten.md)<br>
-[Resistent](talente/Resistent.md)<br>
-[Riesenblütig](talente/Riesenblütig.md)<br>
-[Riesentöter](talente/Riesentöter.md)<br>
-[Ritual der Narben](talente/Ritual-der-Narben.md)<br>
-[Rohe Magie](talente/Rohe-Magie.md)<br>
-[Rudelführer](talente/Rudelführer.md)<br>
-[Ruf der Wildnis](talente/Ruf-der-Wildnis.md)<br>
-[Rundumschlag](talente/Rundumschlag.md)<br>
-[Runenkunde](talente/Runenkunde.md)<br>
-[Rüstträger](talente/Rüstträger.md)<br>
-[Rüstzauberer](talente/Rüstzauberer.md)<br>
-[Salve](talente/Salve.md)<br>
-[Samtpfote](talente/Samtpfote.md)<br>
-[Sattelschütze](talente/Sattelschütze.md)<br>
-[Schadenfreude](talente/Schadenfreude.md)<br>
-[Scharfschütze](talente/Scharfschütze.md)<br>
-[Schattenstärke](talente/Schattenstärke.md)<br>
-[Schilddeckung](talente/Schilddeckung.md)<br>
-[Schildkonter](talente/Schildkonter.md)<br>
-[Schildvorstoß](talente/Schildvorstoß.md)<br>
-[Schildwacht](talente/Schildwacht.md)<br>
-[Schildwall](talente/Schildwall.md)<br>
-[Schildwehr](talente/Schildwehr.md)<br>
-[Schlachtreihe](talente/Schlachtreihe.md)<br>
-[Schlachtruf](talente/Schlachtruf.md)<br>
-[Schlagkraft](talente/Schlagkraft.md)<br>
-[Schlitzohr](talente/Schlitzohr.md)<br>
-[Schlossknacker](talente/Schlossknacker.md)<br>
-[Schmerzhafter Schuss](talente/Schmerzhafter-Schuss.md)<br>
-[Schmerzhafter Wechsel](talente/Schmerzhafter-Wechsel.md)<br>
-[Schnelle Heilung](talente/Schnelle-Heilung.md)<br>
-[Schnelle Reflexe](talente/Schnelle-Reflexe.md)<br>
-[Schnelles Brauen](talente/Schnelles-Brauen.md)<br>
-[Schnellzaubern](talente/Schnellzaubern.md)<br>
-[Schnellziehen](talente/Schnellziehen.md)<br>
-[Schriftgelehrter](talente/Schriftgelehrter.md)<br>
-[Schutz vor Elementen](talente/Schutz-vor-Elementen.md)<br>
-[Schwimmen](talente/Schwimmen.md)<br>
-[Schwächender Zauber](talente/Schwächender-Zauber.md)<br>
-[Schütze](talente/Schütze.md)<br>
-[Seelenbindung](talente/Seelenbindung.md)<br>
-[Seelenräuber](talente/Seelenräuber.md)<br>
-[Sehnenschneider](talente/Sehnenschneider.md)<br>
-[Selbstzerstörung](talente/Selbstzerstörung.md)<br>
-[Sensenspötter](talente/Sensenspötter.md)<br>
-[Sinnestäuscher](talente/Sinnestäuscher.md)<br>
-[Sonnenkraft](talente/Sonnenkraft.md)<br>
-[Spiegeltrick](talente/Spiegeltrick.md)<br>
-[Sprachgenie](talente/Sprachgenie.md)<br>
-[Sprengmeister](talente/Sprengmeister.md)<br>
-[Sprint](talente/Sprint.md)<br>
-[Spruchmeister](talente/Spruchmeister.md)<br>
-[Sprungangriff](talente/Sprungangriff.md)<br>
-[Stabbindung](talente/Stabbindung.md)<br>
-[Standhaft](talente/Standhaft.md)<br>
-[Steingespür](talente/Steingespür.md)<br>
-[Stirb](talente/Stirb.md)<br>
-[Stärkung](talente/Stärkung.md)<br>
-[Substanz](talente/Substanz.md)<br>
-[Taktiker](talente/Taktiker.md)<br>
-[Techniker](talente/Techniker.md)<br>
-[Teufelchen](talente/Teufelchen.md)<br>
-[Tiefe Wunde](talente/Tiefe-Wunde.md)<br>
-[Tiergestalt](talente/Tiergestalt.md)<br>
-[Tiermeister](talente/Tiermeister.md)<br>
-[Tod entrinnen](talente/Tod-entrinnen.md)<br>
-[Tod von Oben](talente/Tod-von-Oben.md)<br>
-[Todeskraft](talente/Todeskraft.md)<br>
-[Todesschatten](talente/Todesschatten.md)<br>
-[Tote Verbindung](talente/Tote-Verbindung.md)<br>
-[Totengeläut](talente/Totengeläut.md)<br>
-[Totenrufer](talente/Totenrufer.md)<br>
-[Trank-Kombination](talente/Trank-Kombination.md)<br>
-[Triumphgeheul](talente/Triumphgeheul.md)<br>
-[Umdenken](talente/Umdenken.md)<br>
-[Umgebung spüren](talente/Umgebung-spüren.md)<br>
-[Umwerfender Wurf](talente/Umwerfender-Wurf.md)<br>
-[Unbeugsame Abwehr](talente/Unbeugsame-Abwehr.md)<br>
-[Unersättliches Beschwören](talente/Unersättliches-Beschwören.md)<br>
-[Unterbrecher](talente/Unterbrecher.md)<br>
-[Untote Horden](talente/Untote-Horden.md)<br>
-[Untote Klauen](talente/Untote-Klauen.md)<br>
-[Untote zerschmettern](talente/Untote-zerschmettern.md)<br>
-[Untrügliche Sinne](talente/Untrügliche-Sinne.md)<br>
-[Verdammnis](talente/Verdammnis.md)<br>
-[Verdrücken](talente/Verdrücken.md)<br>
-[Verdunklungshammer](talente/Verdunklungshammer.md)<br>
-[Vergebung](talente/Vergebung.md)<br>
-[Vergeltung](talente/Vergeltung.md)<br>
-[Verheerer](talente/Verheerer.md)<br>
-[Verletzen](talente/Verletzen.md)<br>
-[Vernichtender Schlag](talente/Vernichtender-Schlag.md)<br>
-[Verspotten](talente/Verspotten.md)<br>
-[Verteidiger](talente/Verteidiger.md)<br>
-[Vertrautenband](talente/Vertrautenband.md)<br>
-[Vertrautenzauber](talente/Vertrautenzauber.md)<br>
-[Vertrauter](talente/Vertrauter.md)<br>
-[Waffenkenner](talente/Waffenkenner.md)<br>
-[Waffenloser Meister](talente/Waffenloser-Meister.md)<br>
-[Wahrnehmung](talente/Wahrnehmung.md)<br>
-[Wechsler](talente/Wechsler.md)<br>
-[Wissensgebiet](talente/Wissensgebiet.md)<br>
-[Zauber auslösen](talente/Zauber-auslösen.md)<br>
-[Zauber der Wildnis](talente/Zauber-der-Wildnis.md)<br>
-[Zauber stören](talente/Zauber-stören.md)<br>
-[Zauber verleihen](talente/Zauber-verleihen.md)<br>
-[Zauberbeschleunigung](talente/Zauberbeschleunigung.md)<br>
-[Zauberdehnung](talente/Zauberdehnung.md)<br>
-[Zauberecho](talente/Zauberecho.md)<br>
-[Zaubermacht](talente/Zaubermacht.md)<br>
-[Zauberqual](talente/Zauberqual.md)<br>
-[Zauberquerschläger](talente/Zauberquerschläger.md)<br>
-[Zauberroutine](talente/Zauberroutine.md)<br>
-[Zauberverlängerung](talente/Zauberverlängerung.md)<br>
-[Zauberwaffe](talente/Zauberwaffe.md)<br>
-[Zauberwasser](talente/Zauberwasser.md)<br>
-[Zauberwelle](talente/Zauberwelle.md)<br>
-[Zehrender Spurt](talente/Zehrender-Spurt.md)<br>
-[Zen-Schütze](talente/Zen-Schütze.md)<br>
-[Zwei Waffen](talente/Zwei-Waffen.md)<br>
+# Übersicht Talente
+
+- [Aberglaube](talente/Aberglaube.md)
+- [Abklingen](talente/Abklingen.md)
+- [Abklingendes Blut](talente/Abklingendes-Blut.md)
+- [Ablenkender Schuss](talente/Ablenkender-Schuss.md)
+- [Achtloser Vorstoss](talente/Achtloser-Vorstoss.md)
+- [Aderschlitzer](talente/Aderschlitzer.md)
+- [Adlergestalt](talente/Adlergestalt.md)
+- [Akrobat](talente/Akrobat.md)
+- [Alchemie](talente/Alchemie.md)
+- [Allerweltsgesicht](talente/Allerweltsgesicht.md)
+- [Anknurren](talente/Anknurren.md)
+- [Archivar](talente/Archivar.md)
+- [Arkane Explosion](talente/Arkane-Explosion.md)
+- [Auf Ex!](talente/Auf-Ex!.md)
+- [Aura des Mutes](talente/Aura-des-Mutes.md)
+- [Aus dem Ärmel](talente/Aus-dem-Ärmel.md)
+- [Aus den Beinen!](talente/Aus-den-Beinen!.md)
+- [Ausbrennen](talente/Ausbrennen.md)
+- [Ausweichen](talente/Ausweichen.md)
+- [Autorität](talente/Autorität.md)
+- [Bardenlieder](talente/Bardenlieder.md)
+- [Befreiender Schmerz](talente/Befreiender-Schmerz.md)
+- [Beinfeger](talente/Beinfeger.md)
+- [Belebtes Trugbild](talente/Belebtes-Trugbild.md)
+- [Beschwörer](talente/Beschwörer.md)
+- [Beschwörer peinigen](talente/Beschwörer-peinigen.md)
+- [Beute schätzen](talente/Beute-schätzen.md)
+- [Bildung](talente/Bildung.md)
+- [Blind kämpfen](talente/Blind-kämpfen.md)
+- [Blitzmacher](talente/Blitzmacher.md)
+- [Blocker](talente/Blocker.md)
+- [Blut-Zaubertrank](talente/Blut-Zaubertrank.md)
+- [Blutband](talente/Blutband.md)
+- [Blutige Heilung](talente/Blutige-Heilung.md)
+- [Blutige Vergeltung](talente/Blutige-Vergeltung.md)
+- [Blutmaske](talente/Blutmaske.md)
+- [Blutrache](talente/Blutrache.md)
+- [Blutschild](talente/Blutschild.md)
+- [Blutschmied](talente/Blutschmied.md)
+- [Bodenkampf](talente/Bodenkampf.md)
+- [Brutaler Hieb](talente/Brutaler-Hieb.md)
+- [Brutbauch](talente/Brutbauch.md)
+- [Bändiger](talente/Bändiger.md)
+- [Bärengestalt](talente/Bärengestalt.md)
+- [Charmant](talente/Charmant.md)
+- [Chi-Blockade](talente/Chi-Blockade.md)
+- [Diebeskunst](talente/Diebeskunst.md)
+- [Diener der Dunkelheit](talente/Diener-der-Dunkelheit.md)
+- [Diener des Lichts](talente/Diener-des-Lichts.md)
+- [Dimensionssprung](talente/Dimensionssprung.md)
+- [Doppelschlag](talente/Doppelschlag.md)
+- [Drachentöter](talente/Drachentöter.md)
+- [Druckverband](talente/Druckverband.md)
+- [Druckwelle](talente/Druckwelle.md)
+- [Durchschuss](talente/Durchschuss.md)
+- [Dämonen zerschmettern](talente/Dämonen-zerschmettern.md)
+- [Dämonenbrut](talente/Dämonenbrut.md)
+- [Dämonengestalt](talente/Dämonengestalt.md)
+- [Dämonenschwingen](talente/Dämonenschwingen.md)
+- [Dämonenzauber](talente/Dämonenzauber.md)
+- [Ehrenduell](talente/Ehrenduell.md)
+- [Eifriger Slayer](talente/Eifriger-Slayer.md)
+- [Einbetten](talente/Einbetten.md)
+- [Einstecker](talente/Einstecker.md)
+- [Eleganter Stich](talente/Eleganter-Stich.md)
+- [Elementare Bündeln](talente/Elementare-Bündeln.md)
+- [Elementare Energie](talente/Elementare-Energie.md)
+- [Elementare Explosion](talente/Elementare-Explosion.md)
+- [Elementarer Waffenmeister](talente/Elementarer-Waffenmeister.md)
+- [Elementargestalt](talente/Elementargestalt.md)
+- [Elementen Trotzen](talente/Elementen-Trotzen.md)
+- [Engelsschwingen](talente/Engelsschwingen.md)
+- [Entwaffnen](talente/Entwaffnen.md)
+- [Erschütternder Schlag](talente/Erschütternder-Schlag.md)
+- [Erzfeind](talente/Erzfeind.md)
+- [Explosionskontrolle](talente/Explosionskontrolle.md)
+- [Faustkämpfer](talente/Faustkämpfer.md)
+- [Feenblütig](talente/Feenblütig.md)
+- [Feiner Geruchssinn](talente/Feiner-Geruchssinn.md)
+- [Fesselnde Persönlichkeit](talente/Fesselnde-Persönlichkeit.md)
+- [Feuermagier](talente/Feuermagier.md)
+- [Fieser Schuss](talente/Fieser-Schuss.md)
+- [Flankierer](talente/Flankierer.md)
+- [Flink](talente/Flink.md)
+- [Fresssack](talente/Fresssack.md)
+- [Friedvoller Hieb](talente/Friedvoller-Hieb.md)
+- [Fronarbeit](talente/Fronarbeit.md)
+- [Frontheiler](talente/Frontheiler.md)
+- [Früheres Leben](talente/Früheres-Leben.md)
+- [Fürsorger](talente/Fürsorger.md)
+- [Geborenes Genie](talente/Geborenes-Genie.md)
+- [Gegenhalten](talente/Gegenhalten.md)
+- [Gegenstand benutzen](talente/Gegenstand-benutzen.md)
+- [Geist verleihen](talente/Geist-verleihen.md)
+- [Geistergestalt](talente/Geistergestalt.md)
+- [Geistheiler](talente/Geistheiler.md)
+- [Genesung](talente/Genesung.md)
+- [Gerüstet](talente/Gerüstet.md)
+- [Geschosse abwehren](talente/Geschosse-abwehren.md)
+- [Gezieltes Gift](talente/Gezieltes-Gift.md)
+- [Giftexplosion](talente/Giftexplosion.md)
+- [Giftiges Blut](talente/Giftiges-Blut.md)
+- [Glänzendes Vorbild](talente/Glänzendes-Vorbild.md)
+- [Glückspilz](talente/Glückspilz.md)
+- [Gnädiger Zauberer](talente/Gnädiger-Zauberer.md)
+- [Golem zerschmettern](talente/Golem-zerschmettern.md)
+- [Golemarmee](talente/Golemarmee.md)
+- [Halluzination](talente/Halluzination.md)
+- [Handwerk](talente/Handwerk.md)
+- [Hau Ruck!](talente/Hau-Ruck!.md)
+- [Heftiger Ansturm](talente/Heftiger-Ansturm.md)
+- [Heimlichkeit](talente/Heimlichkeit.md)
+- [Heldenglück](talente/Heldenglück.md)
+- [Herausforderer der Elemente](talente/Herausforderer-der-Elemente.md)
+- [Herr der Elemente](talente/Herr-der-Elemente.md)
+- [Herr des Waldes](talente/Herr-des-Waldes.md)
+- [Himmelswächter](talente/Himmelswächter.md)
+- [Hinterhältiger Angriff](talente/Hinterhältiger-Angriff.md)
+- [Homunkulus](talente/Homunkulus.md)
+- [Ich muss weg!](talente/Ich-muss-weg!.md)
+- [Identifizierer](talente/Identifizierer.md)
+- [In Deckung](talente/In-Deckung.md)
+- [In die Kerbe!](talente/In-die-Kerbe!.md)
+- [Infernale Bindung](talente/Infernale-Bindung.md)
+- [Inneres Chi](talente/Inneres-Chi.md)
+- [Insektentöter](talente/Insektentöter.md)
+- [Instrument](talente/Instrument.md)
+- [Instrumentbindung](talente/Instrumentbindung.md)
+- [Jäger](talente/Jäger.md)
+- [Kampfgefährte](talente/Kampfgefährte.md)
+- [Kann ich mal vorbei?](talente/Kann-ich-mal-vorbei?.md)
+- [Ki-Schlag](talente/Ki-Schlag.md)
+- [Kiai](talente/Kiai.md)
+- [Klangexplosion](talente/Klangexplosion.md)
+- [Klauen der Verdammnis](talente/Klauen-der-Verdammnis.md)
+- [Kletterass](talente/Kletterass.md)
+- [Knechtschaft](talente/Knechtschaft.md)
+- [Knochenbrecher](talente/Knochenbrecher.md)
+- [Koordination](talente/Koordination.md)
+- [Kraft der Bestie](talente/Kraft-der-Bestie.md)
+- [Krallenfinger](talente/Krallenfinger.md)
+- [Kreiszeichner](talente/Kreiszeichner.md)
+- [Kriegskonstrukt](talente/Kriegskonstrukt.md)
+- [Kroppzeuch!](talente/Kroppzeuch!.md)
+- [Kräuterexperte](talente/Kräuterexperte.md)
+- [Kräuterkundiger](talente/Kräuterkundiger.md)
+- [Kämpfer](talente/Kämpfer.md)
+- [Langfinger](talente/Langfinger.md)
+- [Leibwächter](talente/Leibwächter.md)
+- [Lieblingszauber](talente/Lieblingszauber.md)
+- [Macht des Blutes](talente/Macht-des-Blutes.md)
+- [Magieresistent](talente/Magieresistent.md)
+- [Magiertöter](talente/Magiertöter.md)
+- [Magisches Erbe](talente/Magisches-Erbe.md)
+- [Manipulator](talente/Manipulator.md)
+- [Materielle Bindung](talente/Materielle-Bindung.md)
+- [Meister aller Klassen](talente/Meister-aller-Klassen.md)
+- [Meister seiner Klasse](talente/Meister-seiner-Klasse.md)
+- [Meucheln](talente/Meucheln.md)
+- [Mit Anlauf!](talente/Mit-Anlauf!.md)
+- [Monstertöter](talente/Monstertöter.md)
+- [Mächtige Beschwörung](talente/Mächtige-Beschwörung.md)
+- [Mächtige Erweckung](talente/Mächtige-Erweckung.md)
+- [Mächtige Herbeirufung](talente/Mächtige-Herbeirufung.md)
+- [Mächtige Tränke](talente/Mächtige-Tränke.md)
+- [Nachglühen](talente/Nachglühen.md)
+- [Nachtschwärmer](talente/Nachtschwärmer.md)
+- [Natürliche Auslese](talente/Natürliche-Auslese.md)
+- [Nekromantie](talente/Nekromantie.md)
+- [Niedermähen](talente/Niedermähen.md)
+- [Notfall](talente/Notfall.md)
+- [Optimierte Verwertung](talente/Optimierte-Verwertung.md)
+- [Panzerung zerschmettern](talente/Panzerung-zerschmettern.md)
+- [Parade](talente/Parade.md)
+- [Pass auf!](talente/Pass-auf!.md)
+- [Perfektion](talente/Perfektion.md)
+- [Präziser Schuss](talente/Präziser-Schuss.md)
+- [Prügler](talente/Prügler.md)
+- [Puppenspieler](talente/Puppenspieler.md)
+- [Rache der Elemente](talente/Rache-der-Elemente.md)
+- [Raserei](talente/Raserei.md)
+- [Raubtierpranken](talente/Raubtierpranken.md)
+- [Reanimation](talente/Reanimation.md)
+- [Reiten](talente/Reiten.md)
+- [Resistent](talente/Resistent.md)
+- [Riesenblütig](talente/Riesenblütig.md)
+- [Riesentöter](talente/Riesentöter.md)
+- [Ritual der Narben](talente/Ritual-der-Narben.md)
+- [Rohe Magie](talente/Rohe-Magie.md)
+- [Rudelführer](talente/Rudelführer.md)
+- [Ruf der Wildnis](talente/Ruf-der-Wildnis.md)
+- [Rundumschlag](talente/Rundumschlag.md)
+- [Runenkunde](talente/Runenkunde.md)
+- [Rüstträger](talente/Rüstträger.md)
+- [Rüstzauberer](talente/Rüstzauberer.md)
+- [Salve](talente/Salve.md)
+- [Samtpfote](talente/Samtpfote.md)
+- [Sattelschütze](talente/Sattelschütze.md)
+- [Schadenfreude](talente/Schadenfreude.md)
+- [Scharfschütze](talente/Scharfschütze.md)
+- [Schattenstärke](talente/Schattenstärke.md)
+- [Schilddeckung](talente/Schilddeckung.md)
+- [Schildkonter](talente/Schildkonter.md)
+- [Schildvorstoß](talente/Schildvorstoß.md)
+- [Schildwacht](talente/Schildwacht.md)
+- [Schildwall](talente/Schildwall.md)
+- [Schildwehr](talente/Schildwehr.md)
+- [Schlachtreihe](talente/Schlachtreihe.md)
+- [Schlachtruf](talente/Schlachtruf.md)
+- [Schlagkraft](talente/Schlagkraft.md)
+- [Schlitzohr](talente/Schlitzohr.md)
+- [Schlossknacker](talente/Schlossknacker.md)
+- [Schmerzhafter Schuss](talente/Schmerzhafter-Schuss.md)
+- [Schmerzhafter Wechsel](talente/Schmerzhafter-Wechsel.md)
+- [Schnelle Heilung](talente/Schnelle-Heilung.md)
+- [Schnelle Reflexe](talente/Schnelle-Reflexe.md)
+- [Schnelles Brauen](talente/Schnelles-Brauen.md)
+- [Schnellzaubern](talente/Schnellzaubern.md)
+- [Schnellziehen](talente/Schnellziehen.md)
+- [Schriftgelehrter](talente/Schriftgelehrter.md)
+- [Schutz vor Elementen](talente/Schutz-vor-Elementen.md)
+- [Schwimmen](talente/Schwimmen.md)
+- [Schwächender Zauber](talente/Schwächender-Zauber.md)
+- [Schütze](talente/Schütze.md)
+- [Seelenbindung](talente/Seelenbindung.md)
+- [Seelenräuber](talente/Seelenräuber.md)
+- [Sehnenschneider](talente/Sehnenschneider.md)
+- [Selbstzerstörung](talente/Selbstzerstörung.md)
+- [Sensenspötter](talente/Sensenspötter.md)
+- [Sinnestäuscher](talente/Sinnestäuscher.md)
+- [Sonnenkraft](talente/Sonnenkraft.md)
+- [Spiegeltrick](talente/Spiegeltrick.md)
+- [Sprachgenie](talente/Sprachgenie.md)
+- [Sprengmeister](talente/Sprengmeister.md)
+- [Sprint](talente/Sprint.md)
+- [Spruchmeister](talente/Spruchmeister.md)
+- [Sprungangriff](talente/Sprungangriff.md)
+- [Stabbindung](talente/Stabbindung.md)
+- [Standhaft](talente/Standhaft.md)
+- [Steingespür](talente/Steingespür.md)
+- [Stirb](talente/Stirb.md)
+- [Stärkung](talente/Stärkung.md)
+- [Substanz](talente/Substanz.md)
+- [Taktiker](talente/Taktiker.md)
+- [Techniker](talente/Techniker.md)
+- [Teufelchen](talente/Teufelchen.md)
+- [Tiefe Wunde](talente/Tiefe-Wunde.md)
+- [Tiergestalt](talente/Tiergestalt.md)
+- [Tiermeister](talente/Tiermeister.md)
+- [Tod entrinnen](talente/Tod-entrinnen.md)
+- [Tod von Oben](talente/Tod-von-Oben.md)
+- [Todeskraft](talente/Todeskraft.md)
+- [Todesschatten](talente/Todesschatten.md)
+- [Tote Verbindung](talente/Tote-Verbindung.md)
+- [Totengeläut](talente/Totengeläut.md)
+- [Totenrufer](talente/Totenrufer.md)
+- [Trank-Kombination](talente/Trank-Kombination.md)
+- [Triumphgeheul](talente/Triumphgeheul.md)
+- [Umdenken](talente/Umdenken.md)
+- [Umgebung spüren](talente/Umgebung-spüren.md)
+- [Umwerfender Wurf](talente/Umwerfender-Wurf.md)
+- [Unbeugsame Abwehr](talente/Unbeugsame-Abwehr.md)
+- [Unersättliches Beschwören](talente/Unersättliches-Beschwören.md)
+- [Unterbrecher](talente/Unterbrecher.md)
+- [Untote Horden](talente/Untote-Horden.md)
+- [Untote Klauen](talente/Untote-Klauen.md)
+- [Untote zerschmettern](talente/Untote-zerschmettern.md)
+- [Untrügliche Sinne](talente/Untrügliche-Sinne.md)
+- [Verdammnis](talente/Verdammnis.md)
+- [Verdrücken](talente/Verdrücken.md)
+- [Verdunklungshammer](talente/Verdunklungshammer.md)
+- [Vergebung](talente/Vergebung.md)
+- [Vergeltung](talente/Vergeltung.md)
+- [Verheerer](talente/Verheerer.md)
+- [Verletzen](talente/Verletzen.md)
+- [Vernichtender Schlag](talente/Vernichtender-Schlag.md)
+- [Verspotten](talente/Verspotten.md)
+- [Verteidiger](talente/Verteidiger.md)
+- [Vertrautenband](talente/Vertrautenband.md)
+- [Vertrautenzauber](talente/Vertrautenzauber.md)
+- [Vertrauter](talente/Vertrauter.md)
+- [Waffenkenner](talente/Waffenkenner.md)
+- [Waffenloser Meister](talente/Waffenloser-Meister.md)
+- [Wahrnehmung](talente/Wahrnehmung.md)
+- [Wechsler](talente/Wechsler.md)
+- [Wissensgebiet](talente/Wissensgebiet.md)
+- [Zauber auslösen](talente/Zauber-auslösen.md)
+- [Zauber der Wildnis](talente/Zauber-der-Wildnis.md)
+- [Zauber stören](talente/Zauber-stören.md)
+- [Zauber verleihen](talente/Zauber-verleihen.md)
+- [Zauberbeschleunigung](talente/Zauberbeschleunigung.md)
+- [Zauberdehnung](talente/Zauberdehnung.md)
+- [Zauberecho](talente/Zauberecho.md)
+- [Zaubermacht](talente/Zaubermacht.md)
+- [Zauberqual](talente/Zauberqual.md)
+- [Zauberquerschläger](talente/Zauberquerschläger.md)
+- [Zauberroutine](talente/Zauberroutine.md)
+- [Zauberverlängerung](talente/Zauberverlängerung.md)
+- [Zauberwaffe](talente/Zauberwaffe.md)
+- [Zauberwasser](talente/Zauberwasser.md)
+- [Zauberwelle](talente/Zauberwelle.md)
+- [Zehrender Spurt](talente/Zehrender-Spurt.md)
+- [Zen-Schütze](talente/Zen-Schütze.md)
+- [Zwei Waffen](talente/Zwei-Waffen.md)
