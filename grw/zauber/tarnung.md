@@ -1,0 +1,19 @@
+# Tarnung  
+- Kategorie: #Zauber  
+- Zugangsstufen:  
+  - Heiler: 4  
+  - Zauberer: 2  
+  - Schwarzmagier: 2  
+- Kosten: 60  
+- Zauberbonus: -2  
+- Dauer: Probenergebnis in Minuten  
+- Reichweite: Berühren  
+- Abklingzeit: 100 KR  
+- Art: Zaubern     
+
+## Beschreibung:
+Die Farbe des Ziels und seiner Ausrüstung passt sich konstant der Umgebung an, wodurch es schwerer zu entdecken wird. Wenn das Ziel aktiv versucht, sich zu verstecken, erhalten alle Proben, es zu entdecken, einen Abzug entsprechend dem halben GEI-Wert des ZAW. Dies ist keine Unsichtbarkeit, wird also nicht beendet, wenn das Ziel des Zaubers eine Aktion ausführt, die Unsichtbarkeit beenden würde. Allerdings bekommen Gegner dann das Recht auf einen Entdecken-Wurf.<br>Befindet sich das Ziel im Nahkampf, gelingen alle Entdecken-Würfe gegen es automatisch.<br>Wird dieser Zauber von einem Druiden gewirkt, entspricht der Abzug auf Entdecken-Würfe dem vollen GEI-Wert des Druiden, wenn sich das Ziel des Zaubers in natürlicher Umgebung befindet.
+
+
+___
+*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Bruder Grimms Grimmoire 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
