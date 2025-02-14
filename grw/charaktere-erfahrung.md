@@ -59,7 +59,9 @@ Der maximal erreichbare Grundwert in jeder Eigenschaft beträgt 12, wird aber ab
 | VOLK   | BONUS AUF GRUNDWERT 12                                          |
 | ------ | --------------------------------------------------------------- |
 | Elf    | Bewegung, Geschick und Aura +1                                  |
-| Mensch | 2 beliebige Eigenschaften +1 oder<br>1 beliebige Eigenschaft +2 |
+| Mensch | 2 beliebige Eigenschaften +1 oder
+
+1 beliebige Eigenschaft +2 |
 | Zwerg  | Stärke, Härte und Geschick +1                                   |
 
 | KLASSE   | BONUS AUF GRUNDWERT 12   |

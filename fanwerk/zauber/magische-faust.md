@@ -1,19 +1,25 @@
-# Magische Faust  
-- Kategorie: #Zauber  
-- Zugangsstufen:  
-  - Heiler: 1  
-  - Zauberer: -  
-  - Schwarzmagier: -  
-- Kosten: 10  
-- Zauberbonus: 0  
-- Dauer: Probenergebnis x 2 KR  
-- Reichweite: Selbst  
-- Abklingzeit: 1 KR  
-- Art: Zaubern     
+# Magische Faust
+
+- Kategorie: #Zauber
+- Zugangsstufen:
+  - Heiler: 1
+  - Zauberer: -
+  - Schwarzmagier: -
+- Kosten: 10
+- Zauberbonus: 0
+- Dauer: Probenergebnis x 2 KR
+- Reichweite: Selbst
+- Abklingzeit: 1 KR
+- Art: Zaubern
 
 ## Beschreibung:
-Der ZAW erhält +1 WB, wenn er waffenlos angreift. Der Abwehrbonus für Gegner auf waffenlose Angriffe entfällt.<br>Der verursachte Schaden gilt als magisch und verletzt auch körperlose Wesen wie z.B. Geister.<br>Magische Faust ist nicht kumulativ mit Verbesserte Magische Faust.
 
+Der ZAW erhält +1 WB, wenn er waffenlos angreift. Der Abwehrbonus für Gegner auf waffenlose Angriffe entfällt.
 
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Bruder Grimms Grimmoire 1 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+Der verursachte Schaden gilt als magisch und verletzt auch körperlose Wesen wie z.B. Geister.
+
+Magische Faust ist nicht kumulativ mit Verbesserte Magische Faust.
+
+---
+
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Bruder Grimms Grimmoire 1 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

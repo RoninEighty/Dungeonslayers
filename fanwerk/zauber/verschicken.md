@@ -1,19 +1,23 @@
-# Verschicken  
-- Kategorie: #Zauber  
-- Zugangsstufen:  
-  - Heiler: -  
-  - Zauberer: 9  
-  - Schwarzmagier: 11  
-- Kosten: 410  
-- Zauberbonus: -1 pro (Stufe x Kilogramm)  
-- Dauer: Augenblicklich  
-- Reichweite: Berühren  
-- Abklingzeit: 100 KR  
-- Art: Zaubern     
+# Verschicken
+
+- Kategorie: #Zauber
+- Zugangsstufen:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 11
+- Kosten: 410
+- Zauberbonus: -1 pro (Stufe x Kilogramm)
+- Dauer: Augenblicklich
+- Reichweite: Berühren
+- Abklingzeit: 100 KR
+- Art: Zaubern
 
 ## Beschreibung:
-Dieser Zauber funktioniert wie Teleport, wirkt jedoch nur auf das berührte unbelebte Objekt. Genau wie bei Teleport wird der PW bei einem nur flüchtig bekannten Ziel halbiert.<br>Bei einem Patzer erleidet ein verschicktes Objekt zwar meist keinen Schaden (es sei denn, es ist besonders empfindlich oder zerbrechlich), steckt dann aber möglicherweise in einer Wand oder im Boden fest.
 
+Dieser Zauber funktioniert wie Teleport, wirkt jedoch nur auf das berührte unbelebte Objekt. Genau wie bei Teleport wird der PW bei einem nur flüchtig bekannten Ziel halbiert.
 
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Bruder Grimms Grimmoire 5 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+Bei einem Patzer erleidet ein verschicktes Objekt zwar meist keinen Schaden (es sei denn, es ist besonders empfindlich oder zerbrechlich), steckt dann aber möglicherweise in einer Wand oder im Boden fest.
+
+---
+
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Bruder Grimms Grimmoire 5 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
