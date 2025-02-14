@@ -28,9 +28,33 @@ timezone: Europe/Berlin
 encoding: utf-8
 title: DS4 SRD+
 description: Regelreferenz und Fanwerke für <a href="https://www.dungeonslayers.net/">Dungeonslayers 4.0</a> © Christian Kennig<br/><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
-#remote_theme: zendesk/jekyll-theme-zendesk-garden@v0.7.3
 #remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: vaibhavvikasjekyll-theme-minimalistic@main
 remote_theme: fongandrew/hydeout@v4.2.0
 plugins:
 - jekyll-remote-theme
 # show_downloads: false
+
+navigation:
+  - name: Grundregelwerk
+    link: ./grw/index.html
+    sublist:
+      - name: Attribute & Eigenschaften
+        link: ./grw/charaktere-attribute-eigenschaften.html
+      - name: Die Kampfwerte
+        link: ./grw/attribute-eigenschaften.html#die-kampfwerte
+      - name: Charaktererschaffung
+        link: ./grw/charaktere-charaktererschaffung.html
+      - name: Erfahrung
+        link: ./grw/charaktere-erfahrung.html
+      - name: Heldenklassen
+        link: ./grw/charaktere-heldenklassen.html
+        sublist:
+        - name: Heiler
+          link: ./grw/charaktere-klasse-heiler.html
+  - name: Fanwerke
+    link: ./fanwerk/index.html
+    sublist:
+      - name: Schiff AHOI!
+        link: ./fanwerk/schiff-ahoi/schiff-ahoi.html
+  - ...
