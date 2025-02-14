@@ -16,7 +16,6 @@
 
 Der ZAW schießt einen Feuerstrahl auf einen Feind, dessen Schaden dem Probenergebnis entspricht.
 
-Die elementare Ausprägung des Zaubers kann an die Vorlieben des ZAW angepasst werden, muss aber beim Erwerb des Zaubers einmalig festgelegt werden (z.B. Feuerstrahl, Froststrahl, Knistern, Steinschuss, Magmakugel, Nesseln, Lichtschein, Dunkelheit/Schatten, vgl. Dzaarions Zauber)
 
 ---
 
