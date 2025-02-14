@@ -4,16 +4,17 @@ encoding: utf-8
 
 title: DS4 SRD+
 description: Regelreferenz und Fanwerke für <a href="https://www.dungeonslayers.net/">Dungeonslayers 4.0</a> © Christian Kennig<br/><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
-#remote_theme: pages-themes/minimal@v0.2.0
-# https://github.com/vaibhavvikas/jekyll-theme-minimalistic
 
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic@main
-#remote_theme: fongandrew/hydeout@v4.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+
+# https://github.com/vaibhavvikas/jekyll-theme-minimalistic
+#remote_theme: vaibhavvikas/jekyll-theme-minimalistic@main
+remote_theme: fongandrew/hydeout@v4.2.0
 plugins:
 - jekyll-remote-theme
-hide_project_footer: true
 
-## Navigation for jekyll-theme-minimalistic
+## Config for jekyll-theme-minimalistic
+hide_project_footer: true
 navigation:
   - name: Grundregelwerk
     link: /grw/index.html
@@ -36,4 +37,3 @@ navigation:
     sublist:
       - name: Schiff AHOI!
         link: /fanwerk/schiff-ahoi/schiff-ahoi.html
-  - ...
