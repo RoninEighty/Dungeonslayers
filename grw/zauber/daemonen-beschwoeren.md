@@ -1,0 +1,27 @@
+# Dämonen beschwören
+
+- Kategorie: #Zauber
+- Zugangsstufen:
+  - Heiler: -
+  - Zauberer: 17
+  - Schwarzmagier: 10
+- Kosten: 1190
+- Zauberbonus: -(KÖR+AU) des Dämonen und +BB
+- Dauer: VE x 2 Stunden
+- Reichweite: Radius von VE m
+- Abklingzeit: 24 Stunden
+- Art: Zaubern
+
+## Beschreibung:
+
+Mit diesem Zauber beschwört der ZAW einen Dämon aus einer anderen Existenzebene.
+
+Der Charakter kann dabei frei wählen, was für eine Dämonenart (sh. GRW S. 107-108) er beschwören will und ob die Kreatur fliegen können soll (was ihre Beschwörung aber auch erschwert).
+
+
+
+Details sh. GRW S. 51/52
+
+---
+
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_
