@@ -29,12 +29,13 @@ encoding: utf-8
 title: DS4 SRD+
 description: Regelreferenz und Fanwerke für <a href="https://www.dungeonslayers.net/">Dungeonslayers 4.0</a> © Christian Kennig<br/><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 #remote_theme: pages-themes/minimal@v0.2.0
-#remote_theme: vaibhavvikasjekyll-theme-minimalistic@main
+#remote_theme: vaibhavvikas/jekyll-theme-minimalistic@main
 remote_theme: fongandrew/hydeout@v4.2.0
 plugins:
 - jekyll-remote-theme
 # show_downloads: false
 
+## Navigation for jekyll-theme-minimalistic
 navigation:
   - name: Grundregelwerk
     link: ./grw/index.html
