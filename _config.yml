@@ -1,3 +1,31 @@
+# source:
+# destination:
+# disable_disk_cache:
+# ignore_theme_config:
+# exclude: 
+# include:
+# keep_files:
+# plugins_dir:
+# layouts_dir:
+# show_drafts:
+# future:
+# lsi:
+# limit_posts
+# url:
+# force_polling:
+# verbose:
+# quiet:
+# incremental:
+# profile:
+# strict_front_matter:
+# baseurl:
+# port:
+# host:
+# livereload:
+# livereload_ignore:
+
+timezone: Europe/Berlin
+encoding: utf-8
 title: DS4 SRD+
 description: Regelreferenz und Fanwerke für <a href="https://www.dungeonslayers.net/">Dungeonslayers 4.0</a> © Christian Kennig<br/><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
