@@ -16,7 +16,6 @@
 
 Der ZAW schießt einen flammenden Ball auf seine Gegner, der in einer feurigen Explosion - ihr Radius entspricht der VE des ZAW in Metern - endet, welche nicht abwehrbaren Schaden in Höhe des Probenergebnisses verursacht.
 
-Die elementare Ausprägung des Zaubers kann an die Vorlieben des ZAW angepasst werden, muss aber beim Erwerb des Zaubers einmalig festgelegt werden (z.B. Feuerball, Gletscherbrocken, Blitznova, Felsbrocken, Magmaball, Wildwucher, Fontäne, Tornado, Magieexplosion, Fleischfressende Bakterien, Lichtnova, Schattenranken, vgl. Dzaarions Zauber)
 
 ---
 

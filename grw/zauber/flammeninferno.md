@@ -16,7 +16,6 @@
 
 Eine kreisrunde Fläche mit einem Radius von VE in Metern geht in Flammen auf. Jeder in dem Inferno erhält pro KR nicht abwehrbaren Schaden in Höhe des Probenergebnisses.
 
-Die elementare Ausprägung des Zaubers kann an die Vorlieben des ZAW angepasst werden, muss aber beim Erwerb des Zaubers einmalig festgelegt werden (z.B. Flammeninferno, Blizzard, Gewitter, Erdbeben, Kataklysmus, Lebender Wald, Austrocknen, Orkan, Wort der Macht, Sonnenstrahl, Schwarzes Loch, vgl. Dzaarions Zauber)
 
 ---
 

@@ -22,7 +22,7 @@ Getroffene Gegner in Metallrüstung dürfen keine Abwehr gegen einen Kettenblitz
 
 
 
-Es bietet sich an diesen Zauber an die elementare Vorlieben des ZAW anzupassen (Namen und Zusatzeffekt). Ideen und Anregungen finden sich in Dzaarions Zaubern
+
 
 ---
 

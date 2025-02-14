@@ -16,7 +16,7 @@
 
 Aus dem Mund des ZAW schießt eine lodernde Säule, die alle hintereinander stehenden Gegner in einer 1m breiten, geraden Schneise in Flammen hüllt. Der feurige Atem verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses.
 
-Die elementare Ausprägung des Zaubers kann an die Vorlieben des ZAW angepasst werden, muss aber beim Erwerb des Zaubers einmalig festgelegt werden (z.B. Feueratem, Eishauch, Donnergrollen, Sandruf, Pyroklastischer Brodem, Blütenduft, Wasser speien, Orkanschrei, Brüllen der Magie, Fauliger Odem, Sonnenhauch, Nachtatem, vgl. Dzaarions Zauber)
+
 
 ---
 
