@@ -1,0 +1,35 @@
+name: Transform MD into HTML
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+  push:
+    branches:
+      - main  # Set a branch name to trigger deployment
+  pull_request:
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Install pandoc
+        uses: pandoc/actions/setup@v1
+        with:
+          version: 2.19
+      - uses: actions/checkout@v4
+      - name: Transform HTML
+        run: >- # allows you to break string into multiple lines
+          pandoc
+          --standalone
+          --output=index.html
+          index.md
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        # If you're changing the branch from main,
+        # also change the `main` in `refs/heads/main`
+        # below accordingly.
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
