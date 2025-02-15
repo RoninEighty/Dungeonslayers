@@ -35,3 +35,11 @@ jobs:
           git add .
           git commit -m "Updated HTML pages."
           git push
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
