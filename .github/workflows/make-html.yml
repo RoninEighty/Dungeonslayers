@@ -28,9 +28,6 @@ jobs:
           --output=index.html
           index.md
       - name: Commit repository
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref }}
         run: |
           # Note: the following account information will not work on GHES
           git config user.name "github-actions[bot]"
