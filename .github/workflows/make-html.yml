@@ -19,19 +19,21 @@ jobs:
         uses: pandoc/actions/setup@v1
         with:
           version: 2.19
-      - uses: actions/checkout@v4
-      - name: Transform HTML
-        run: >- # allows you to break string into multiple lines
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Make HTML pages
+        run: |
           pandoc
           --standalone
           --output=index.html
           index.md
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        # If you're changing the branch from main,
-        # also change the `main` in `refs/heads/main`
-        # below accordingly.
-        if: github.ref == 'refs/heads/main'
+      - name: Commit repository
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          ref: ${{ github.head_ref }}
+        run: |
+          # Note: the following account information will not work on GHES
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Updated HTML pages."
+          git push
