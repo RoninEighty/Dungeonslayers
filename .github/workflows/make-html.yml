@@ -22,7 +22,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Make HTML pages
-        run: |
+        run: >- # Single string split on multiple lines.
           pandoc
           --standalone
           --output=index.html
