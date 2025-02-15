@@ -2,10 +2,10 @@ name: Transform MD into HTML
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 
 on:
-  push:
-    branches:
-      - main  # Set a branch name to trigger deployment
-  pull_request:
+  #push:
+    #branches:
+    #  - main  # Set a branch name to trigger deployment
+  #pull_request:
 
 jobs:
   convert_via_pandoc:
