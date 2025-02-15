@@ -28,6 +28,7 @@ jobs:
           --output=index.html
           index.md
       - name: Commit repository
+        uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
         run: |
