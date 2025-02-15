@@ -43,8 +43,8 @@ jobs:
           mkdir .site ;
           pandoc
           --standalone
-          --output=index.html
-          .site/index.md
+          --output=.site/index.html
+          index.md
       # Prepare Environment for GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
