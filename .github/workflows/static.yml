@@ -37,22 +37,18 @@ jobs:
       # Checkout main branch
       - name: Checkout
         uses: actions/checkout@v4
-      # Transform markdown into html to output folder ".site"
+      # Transform markdown into html to output folder "_site"
       - name: Build
         run: >- # Single string split on multiple lines.
-          mkdir .site ;
-          pandoc
-          --standalone
-          --output=.site/index.html
-          index.md
+          sh scripts/make-html.sh
       # Prepare Environment for GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      # Upload .site to articat storage
+      # Upload _site to articat storage
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.site'
+          path: '_site'
       # Deploy artifacts to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
