@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Build and deploy GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -29,25 +29,31 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      # Install pandoc for command line usage
       - name: Install pandoc
         uses: pandoc/actions/setup@v1
         with:
           version: 3.6.3
+      # Checkout main branch
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Make HTML pages
+      # Transform markdown into html to output folder ".site"
+      - name: Build
         run: >- # Single string split on multiple lines.
+          mkdir .site ;
           pandoc
           --standalone
           --output=index.html
-          index.md
+          .site/index.md
+      # Prepare Environment for GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      # Upload .site to articat storage
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          path: '.site'
+      # Deploy artifacts to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
