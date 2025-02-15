@@ -15,6 +15,7 @@ cd _site
 BASE_URL=https://fschne.github.io/Dungeonslayers/
 
 # --include-before ../templates/sidebar.html \
+# --metadata title:"DS4 SRD+" \
 # Transform all markdown files into .md.html files
 find . -name "*.md" -exec \
                     pandoc \
@@ -25,7 +26,6 @@ find . -name "*.md" -exec \
                     --verbose \
                     --data-dir ../templates/ \
                     --template ../templates/default.html \
-                    --metadata title:"DS4 SRD+" \
                     --metadata lang:de-DE \
                     --variable base-url:"${BASE_URL}" \
                     --css ${BASE_URL}/styles/style.css \
