@@ -7,3 +7,11 @@ In diesem Repository sollen die unterschiedlichen Regeln aus dem Grundregelwerk,
 Es handelt sich dabei um ein Fanprojekt. Die offizielle Dungeonslayers-Webpage ist unter dem Link [https://dungeonslayers.net/](https://dungeonslayers.net/) zu finden.
 
 Die Markdown-Dateien bilden die Grundlage für das [DS4 SRD+](https://ronineighty.github.io/Dungeonslayers/).
+
+## HTML-Seiten generieren
+
+Unter ```_assembly``` finden sich die Vorlagen, Stile und Scripte um die Markdown Inhalte in eine HTML Struktur zu transformieren.
+    
+Der Prozess kann lokal auf einer Linux Shell ausgeführt werden.
+
+    sh _assembly/scripts/make-html.sh
