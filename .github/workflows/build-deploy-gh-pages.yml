@@ -40,7 +40,7 @@ jobs:
       # Transform markdown into html to output folder "_site"
       - name: Build
         run: >- # Single string split on multiple lines.
-          sh scripts/make-html.sh
+          sh _assembly/scripts/make-html.sh
       # Prepare Environment for GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
