@@ -1,5 +1,5 @@
 <!---
-Dies ist ein Fanwerk für DUNGEONSLAYERS (C) von Christian Kennig
+Dies ist ein Fanwerk für DUNGEONSLAYERS © von Christian Kennig
 
 Quellen:      [Dungeonslayers Grundregelwerk](https://dungeonslayers.net/download/Dungeonslayers4.pdf)
 License:      [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
@@ -25,4 +25,4 @@ Stoßwaffen können gegen Ziele eingesetzt werden, vor denen jemand steht.
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 153 ff. | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: GRW S. 153 ff. | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

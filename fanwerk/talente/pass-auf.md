@@ -1,5 +1,5 @@
 <!---
-Dies ist ein Fanwerk für DUNGEONSLAYERS (C) von Christian Kennig
+Dies ist ein Fanwerk für DUNGEONSLAYERS © von Christian Kennig
 
 Quellen:      [Slay 02 Urbane Heldenklassen](https://www.f-space.de/ds4/downloads.html)
               [Talentbeschreibungen](https://www.f-space.de/ds4/tools-talentcards.html)
@@ -18,4 +18,4 @@ Einmal pro Talentrang pro Kampf kann der Charakter innerhalb von GEI/2 Metern ak
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay 02 Urbane Heldenklassen | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Slay 02 Urbane Heldenklassen | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

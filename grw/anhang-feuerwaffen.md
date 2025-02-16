@@ -41,4 +41,4 @@ Mehrläufige Feuerwaffen, Repetierer oder Revolver können mehr als einmal abgef
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW S. 156 | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: GRW S. 156 | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_

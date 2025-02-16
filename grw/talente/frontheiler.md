@@ -1,5 +1,5 @@
 <!---
-Dies ist ein Fanwerk für DUNGEONSLAYERS (C) von Christian Kennig
+Dies ist ein Fanwerk für DUNGEONSLAYERS © von Christian Kennig
 
 Quellen:      [Dungeonslayers Grundregelwerk](https://dungeonslayers.net/download/Dungeonslayers4.pdf)
               [Talentbeschreibungen](https://www.f-space.de/ds4/tools-talentcards.html)
@@ -18,4 +18,4 @@ Pro Talentrang kann der Heiler einmal alle 24 Stunden die Abklingzeit eines Heil
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: GRW | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_
