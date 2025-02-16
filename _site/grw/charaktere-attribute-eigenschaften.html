@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE" xml:lang="de-DE">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>charaktere-attribute-eigenschaften</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/style.css" />
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/layout.css" />
+</head>
+<body>
+  <div id="sidebar">
+    <header>
+      <h1 class="site-title">
+        <a href="http://localhost/f-space/ds4srd/"> DS4 SRD+ </a>
+      </h1>
+      <p class="lead"></p>
+    </header>
+    <nav id="sidebar-nav-links">
+      <ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/index.html">Grundregelwerk</a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html"
+            >Attribute &amp; Eigenschaften</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html#die-kampfwerte"
+            >Die Kampfwerte</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-charaktererschaffung.html"
+            >Charaktererschaffung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-erfahrung.html"
+            >Erfahrung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen.html"
+            >Heldenklassen</a
+          >
+        </li>
+        <ul>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-berserker.html"
+              >Berserker</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-paladin.html"
+              >Paladin</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-waffenmeister.html"
+              >Waffenmeister</a
+            >
+          </li>
+        </ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/talente.html"
+            >Talente</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-beutetabellen.html"
+            >Beutetabellen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-voelkerbaukasten.html"
+            >Völkerbaukasten</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-feuerwaffen.html"
+            >Feuerwaffen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/fanwerke/index.html">Fanwerke</a>
+        </li>
+      </ul>
+    </nav>
+
+    <footer>
+      <nav id="sidebar-project-links">
+        <a
+          class="link"
+          title="Github Project"
+          aria-label="Github Project"
+          href="https://github.com/RoninEighty/Dungeonslayers"
+        >
+          GitHub
+        </a>
+        <a
+          class="link"
+          title="Download"
+          aria-label="Download"
+          href="https://github.com/RoninEighty/Dungeonslayers/archive/refs/heads/main.zip"
+        >
+          ZIP
+        </a>
+      </nav>
+      <div>
+        DS4 SRD+ © 2025
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+          >CC BY-NC-SA 4.0</a
+        >
+      </div>
+      <div>
+        Regelreferenz und Fanwerke für
+        <a href="https://www.dungeonslayers.net" target="_blank"
+          >Dungeonslayers</a
+        >
+        &copy; Christian Kennig.
+      </div>
+    </footer>
+  </div><div class="container">
+<div class="content">
+<h1 id="charaktere">Charaktere</h1>
+<p>Bei Dungeonslayers schlüpft jeder Spieler in die Rolle eines
+Charakters, der im Laufe seines Abenteuererlebens bis in die 20. Stufe
+aufsteigen kann, und dabei sein Können und seine Fähigkeiten
+verbessert.</p>
+<p>Ab der 10. Stufe kann ein Charakter außerdem eine sogenannte
+Heldenklasse wählen, wodurch er Zugang zu individuelleren Fähigkeiten
+erhält und sich spezialisiert.</p>
+<h2 id="attribute-eigenschaften">ATTRIBUTE &amp; EIGENSCHAFTEN</h2>
+<p>Jeder Dungeonslayer setzt sich aus neun Kernwerten (3 Attribute und 6
+Eigenschaften) zusammen. Je höher ein Wert ist, desto besser.</p>
+<h3 id="die-3-attribute">DIE 3 ATTRIBUTE</h3>
+<p>Jeder Charakter verfügt über die drei Attribute
+<strong>Körper</strong>, <strong>Agilität</strong> und
+<strong>Geist</strong>, welche zu Beginn Werte von 4 bis 8 erhalten, die
+man im weiteren Spielverlauf nur noch selten steigern kann.</p>
+<h4 id="körper-kör">KÖRPER (KÖR)</h4>
+<p>Dieses Attribut steht dafür, wie fit ein Charakter und wie kräftig
+seine Statur ist. Ein hoher Wert in KÖR macht einen Charakter vor allem
+ausdauernder und widerstandsfähiger gegen Schaden.</p>
+<p><strong>Eigenschaften</strong>: Stärke &amp; Härte</p>
+<h4 id="agilität-agi">AGILITÄT (AGI)</h4>
+<p>Wie athletisch ein Charakter ist, wird durch seinen Wert in Agilität
+bestimmt. Das Attribut AGI ist vor allem entscheidend, wenn es um
+Schnelligkeit geht.</p>
+<p><strong>Eigenschaften</strong>: Bewegung &amp; Geschick</p>
+<h4 id="geist-gei">GEIST (GEI)</h4>
+<p>Der Wert in Geist gibt Auskunft darüber, wie intelligent ein
+Charakter ist, und wie gut er andere beeinflussen kann. GEI ist
+vornehmlich für Wissensfragen, die Wahrnehmung und den Einsatz magischer
+Kräfte zuständig.</p>
+<p><strong>Eigenschaften</strong>: Verstand &amp; Aura</p>
+<h3 id="die-6-eigenschaften">DIE 6 EIGENSCHAFTEN</h3>
+<p>Es existieren sechs Eigenschaften, die paarweise den drei Attributen
+Körper, Agilität und Geist zugeordnet sind:</p>
+<p><strong>Körper</strong>: Stärke &amp; Härte</p>
+<p><strong>Agilität</strong>: Bewegung &amp; Geschick</p>
+<p><strong>Geist</strong>: Verstand &amp; Aura</p>
+<p>Während die Attribute nach der Charaktererschaffung kaum noch zu
+ändern sind, können die Eigenschaften im Spielverlauf noch gesteigert
+werden.</p>
+<h4 id="stärke-st">STÄRKE (ST)</h4>
+<p>Diese Eigenschaft verrät, wie kräftig ein Charakter ist, und ob er
+ordentlich zuschlagen kann. ST ist nötig, wenn man im Nahkampf möglichst
+viel Schaden austeilen will.</p>
+<p><strong>Attribut</strong>: Körper</p>
+<h4 id="härte-hä">HÄRTE (HÄ)</h4>
+<p>Ist der Charakter ein robuster Brocken, den nichts so leicht umwirft,
+weder Schaden, Krankheit oder Gift? Härte kommt vor allem ins Spiel,
+wenn es darum geht, Schaden abzuwehren.</p>
+<p><strong>Attribut</strong>: Körper</p>
+<h4 id="bewegung-be">BEWEGUNG (BE)</h4>
+<p>Hat der Charakter schnelle Reflexe oder ist er gar ein guter Athlet?
+Die Eigenschaft BE sorgt dafür, dass ein Charakter nicht stolpernd
+hinterher hinkt.</p>
+<p><strong>Attribut</strong>: Agilität</p>
+<h4 id="geschick-ge">GESCHICK (GE)</h4>
+<p>Das Geschick steht für die Genauigkeit und Präzision eines Charakters
+und dafür, wie geübt er mit den Fingern ist. Für zielsicheres Treffen im
+Fernkampf ist diese Eigenschaft besonders entscheidend.</p>
+<p><strong>Attribut</strong>: Agilität</p>
+<h4 id="verstand-ve">VERSTAND (VE)</h4>
+<p>Verstand verrät, wie schlau und aufmerksam ein Charakter ist, ob er
+gut kombinieren kann und wie mächtig - sofern er ein Zauberwirker ist -
+sich seine Zaubersprüche entfalten.</p>
+<p><strong>Attribut</strong>: Geist</p>
+<h4 id="aura-au">AURA (AU)</h4>
+<p>Die Eigenschaft Aura spiegelt das Auftreten und die Ausstrahlung des
+Charakters wider. Für das Wirken der meisten Zaubersprüche ist ein hoher
+Wert hier ebenfalls wichtig.</p>
+<p><strong>Attribut</strong>: Geist</p>
+<h2 id="die-kampfwerte">DIE KAMPFWERTE</h2>
+<p>Die Kampfwerte errechnen sich immer aus den aktuellen Kernwerten
+(also den Attributen und Eigenschaften) sowie der Ausrüstung -
+vornehmlich durch den Waffenbonus (WB) und die Panzerung (PA). Ändert
+sich einer dieser Werte, so verändern sich auch die entsprechenden
+Kampfwerte.</p>
+<p><strong>Beispiel</strong>: <em>Der Krieger Kalthor (KÖR 8, ST 4) ist
+mit einem Langschwert (WB+2) bewaffnet, sein Wert in Schlagen beträgt
+also 14 (=8+4+2). Wenig später “findet” Kalthor einen Bihänder (WB+3)
+und beschließt, von nun an mit dieser Waffe zu kämpfen, wodurch sein
+Wert in Schlagen nun 15 (=8+4+3) beträgt.</em></p>
+<h4 id="lebenskraft-körhä10">LEBENSKRAFT (KÖR+HÄ+10)</h4>
+<p>Abgekürzt mit LK, spiegelt dieser Kampfwert den Schaden wider, den
+ein Charakter einstecken kann, bevor er bewusstlos wird oder stirbt.</p>
+<h4 id="abwehr-körhäpa">ABWEHR (KÖR+HÄ+PA)</h4>
+<p>Mit der Abwehr wird erlittener Schaden gesenkt. Rüstungen erhöhen die
+Abwehr durch ihren Panzerungswert (PA).</p>
+<h4 id="initiative-agi-be">INITIATIVE (AGI + BE)</h4>
+<p>Die Initiative bestimmt, wie schnell man im Kampf an der Reihe ist.
+Manche Waffen und Rüstungen mindern den Wert.</p>
+<h4 id="laufen-agi21">LAUFEN (AGI/2+1)</h4>
+<p>Laufen steht für die Meter, die man sich in einer Kampfrunde bewegen
+kann.</p>
+<h4 id="schlagen-körstwb">SCHLAGEN (KÖR+ST+WB)</h4>
+<p>Mit Schlagen greift man Gegner im Nahkampf an. Der Waffenbonus (WB)
+der eigenen Nahkampfwaffe wird dazu addiert.</p>
+<h4 id="schiessen-agigewb">SCHIESSEN (AGI+GE+WB)</h4>
+<p>Dieser Kampfwert wird für Angriffe mit Distanzwaffen benutzt. Der
+Waffenbonus (WB) der Fernkampfwaffe wird dazu addiert.</p>
+<h4 id="zaubern-geiau-pa">ZAUBERN (GEI+AU-PA)</h4>
+<p>Hiermit lösen Zauberwirker ihre Zauber (außer Zielzauber) aus. Der
+Zauberbonus (ZB) des jeweiligen Zaubers wird dazu gezählt, allerdings
+senkt Rüstung (außer aus Stoff) den Wert (wie auch den von Zielzauber)
+um den Panzerungswert (PA).</p>
+<h4 id="zielzauber-geige-pa">ZIELZAUBER (GEI+GE-PA)</h4>
+<p>Mit diesem Kampfwert feuern Zauberwirker ihre Zielzauber auf Gegner.
+Der Zauberbonus (ZB) des aktiven Zauberspruchs wird addiert, PA
+abgezogen.</p>
+<hr />
+<p><em>Fanwerk für <a
+href="https://www.dungeonslayers.net/">Dungeonslayers</a> (C) Christian
+Kennig | Quelle: GRW S. 1 ff. | Lizenz: <a
+href="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">CC BY-NC-SA
+3.0 DE</a></em></p>
+</div>
+</div>
+<script>
+    // If base href is set, inline anchors (#) will resolve 
+    // to the main page. To prevent this, the link is rewritten
+    // to the local page.
+    document.addEventListener('DOMContentLoaded', function(){
+      var es = document.getElementsByTagName('a')
+      for(var i=0; i<es.length; i++){
+        var link = es[i].getAttribute('href')
+        if (link && link.startsWith('#')) {
+          es[i].addEventListener('click', function(e) {
+          e.preventDefault()
+          document.location.hash = e.target.getAttribute('href')
+        })
+        }
+      }
+    })
+  </script>
+</body>
+</html>

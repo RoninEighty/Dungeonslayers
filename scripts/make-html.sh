@@ -12,8 +12,11 @@ cp -r styles _site/
 # _site will be our working directory
 cd _site
 
+# Create an index file that contains links to all pages
+find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p -e "s/(.*)/[\1]/" | echo "- $(cat -)($1)" >> alle-seiten.md' sh {} \;
+
 BASE_URL=https://fschne.github.io/Dungeonslayers
-# BASE_URL=http://localhost/f-space/ds4srd
+#BASE_URL=http://localhost/f-space/ds4srd
 
 # --include-before ../templates/sidebar.html \
 # --metadata title:"DS4 SRD+" \

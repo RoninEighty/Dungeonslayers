@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE" xml:lang="de-DE">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>spielleitung-schaetze</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/style.css" />
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/layout.css" />
+</head>
+<body>
+  <div id="sidebar">
+    <header>
+      <h1 class="site-title">
+        <a href="http://localhost/f-space/ds4srd/"> DS4 SRD+ </a>
+      </h1>
+      <p class="lead"></p>
+    </header>
+    <nav id="sidebar-nav-links">
+      <ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/index.html">Grundregelwerk</a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html"
+            >Attribute &amp; Eigenschaften</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html#die-kampfwerte"
+            >Die Kampfwerte</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-charaktererschaffung.html"
+            >Charaktererschaffung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-erfahrung.html"
+            >Erfahrung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen.html"
+            >Heldenklassen</a
+          >
+        </li>
+        <ul>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-berserker.html"
+              >Berserker</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-paladin.html"
+              >Paladin</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-waffenmeister.html"
+              >Waffenmeister</a
+            >
+          </li>
+        </ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/talente.html"
+            >Talente</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-beutetabellen.html"
+            >Beutetabellen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-voelkerbaukasten.html"
+            >Völkerbaukasten</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-feuerwaffen.html"
+            >Feuerwaffen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/fanwerke/index.html">Fanwerke</a>
+        </li>
+      </ul>
+    </nav>
+
+    <footer>
+      <nav id="sidebar-project-links">
+        <a
+          class="link"
+          title="Github Project"
+          aria-label="Github Project"
+          href="https://github.com/RoninEighty/Dungeonslayers"
+        >
+          GitHub
+        </a>
+        <a
+          class="link"
+          title="Download"
+          aria-label="Download"
+          href="https://github.com/RoninEighty/Dungeonslayers/archive/refs/heads/main.zip"
+        >
+          ZIP
+        </a>
+      </nav>
+      <div>
+        DS4 SRD+ © 2025
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+          >CC BY-NC-SA 4.0</a
+        >
+      </div>
+      <div>
+        Regelreferenz und Fanwerke für
+        <a href="https://www.dungeonslayers.net" target="_blank"
+          >Dungeonslayers</a
+        >
+        &copy; Christian Kennig.
+      </div>
+    </footer>
+  </div><div class="container">
+<div class="content">
+<h2 id="schätze">SCHÄTZE</h2>
+<p>Ohne ordentliche Schätze macht auch der einfallsreichste Dungeon
+nicht sonderlich viel Spaß. Von einfachen Heilmitteln (mit denen man
+gerade Dungeons für neue Charaktere gut bestücken sollte) oder Gold und
+Schmuck über hochwertige oder magische Gegenstände, die Attribute,
+Eigenschaften, Waffen oder Rüstungen mit Boni versehen, bis hin zu
+exotischen Artefakten, die mit wundersamen Effekten versehen sind,
+reicht die Palette an Möglichkeiten.</p>
+<h3 id="beutetabellen">BEUTETABELLEN</h3>
+<p>Um die Zusammenstellung gefundener Beute und Schätze schnell und
+einfach zu ermitteln, verwendet Dungeonslayers sogenannte Beutetabellen
+(siehe Seite 148): Feinde und Schätze haben immer einen
+<strong>Beutewert (BW)</strong>, der dem PW entspricht, mit dem man auf
+der Beutetabelle würfelt.</p>
+<p><strong>Beispiel</strong>: <em>Die Angabe <strong>BW 2C:10</strong>
+bedeutet, dass <strong>zweimal</strong> auf <strong>Beutetabelle
+C</strong> (zivilisierte Humanoide in der Wildnis) eine Probe mit
+<strong>Probenwert 10</strong> gewürfelt wird (Immersiege gelten hier
+nicht). Bei einem Erfolg entspricht das Probenergebnis der Beutenummer
+auf der jeweiligen Tabelle.</em></p>
+<p>Desweiteren kommt es hin und wieder - bei besonders mächtigen
+und/oder beutereichen Schätzen - vor, dass eine Beutenummer nicht als
+Probe ausgewürfelt wird.</p>
+<p><strong>Beispiel</strong>: <em>Der finstere Magier Beldrak hat als
+Beutewert die Angabe BW 4D: W20+10. Dies bedeutet, dass auf Beutetabelle
+D viermal Schätze probenlos mit jeweils W20+10 ermittelt
+werden.</em></p>
+<p>Es ist sinnvoll, eigene Beutetabellen zu erstellen, die direkt auf
+ein Abenteuer oder bestimmte Gegnertypen zugeschnitten sind.</p>
+<p>Bei zu vielen Gegnern wird empfohlen, die Spieler ihre Beute selbst
+auswürfeln zu lassen oder die Funde mit einzelnen Würfen für mehrere
+Gegner zu vereinheitlichen.</p>
+<h3 id="magische-gegenstände">MAGISCHE GEGENSTÄNDE</h3>
+<p>Abgesehen von permanenten Boni und Wirkungen benötigt ein Charakter
+immer eine ganze Aktion (sofern nicht anders erwähnt), um einen Effekt
+eines magischen Gegenstands auszulösen.</p>
+<h4 id="boni-von-gegenständen">BONI VON GEGENSTÄNDEN:</h4>
+<p>Die verschiedensten magischen Gegenstände gewähren ihrem Träger
+magische Boni auf bestimmte Proben oder Werte.</p>
+<p>Die Summe aller kombinierten Boni durch getragene, magische
+Ausrüstung auf einen einzelnen Wert kann nie mehr als +5 betragen.</p>
+<p><strong>Beispiel</strong>: <em>Ein Charakter mit einer magischen
+Rüstung +3, einem magischen Helm +1 und einem Schutzring +2 würde also
+nur einen magischen Bonus von +5 auf seine Abwehr erhalten, nicht
++6.</em></p>
+<h4 id="talente-durch-gegenstände">TALENTE DURCH GEGENSTÄNDE:</h4>
+<p>Gewährt ein Gegenstand die Wirkung eines Talents, wird es behandelt,
+als ob der Träger des Gegenstandes das Talent selbst beherrscht -
+unabhängig von den Voraussetzungen des Talents oder ob es von dem
+Charakter vielleicht schon bis zum Maximalrang erlernt wurde (der durch
+den Gegenstand angehoben werden würde).</p>
+<h4 id="zauber-in-gegenständen">ZAUBER IN GEGENSTÄNDEN:</h4>
+<p>Diese können unabhängig von Klasse und Stufe ausgelöst werden, was
+immer eine ganze Aktion in Anspruch nimmt.</p>
+<p>Dafür würfelt der Charakter - entsprechend dem zu Grunde liegenden
+Zauber - eine Probe, als würde er den Zauberspruch selber auslösen (auch
+Krieger und Späher).</p>
+<p>Hat der Charakter einen unmodifizierten Grundwert in
+Zaubern/Zielzauber von unter 10, so hebt der Gegenstand ihn für die
+Probe auf 10 an.</p>
+<p>Basiert die Dauer, die Distanz oder der Effekt des Zaubers auf VE,
+wird ein Grundwert von 4 angenommen, sollte der Charakter einen
+niedrigeren Wert in dieser Eigenschaft haben. Selbiges gilt bei
+magischen Tränken.</p>
+<p>Auch bei Zaubersprüchen aus Gegenständen muss - sofern nicht anders
+vermerkt - die Abklingzeit abgewartet werden, bevor sie wieder vom
+Gegenstand ausgelöst werden können.</p>
+<h3 id="schriftrollen">SCHRIFTROLLEN</h3>
+<p>Zaubersprüche findet oder erwirbt man auf Schriftrollen, in
+Zauberbüchern usw. Jeder Zauberwirker kann diese Zauber problemlos
+“lesen” (selbst ohne eine einzige Art von Schriftzeichen zu
+beherrschen), sofern sie von seiner Zauberwirkerklasse erlernt werden
+können.</p>
+<p>Lernt man einen Zauber, verblasst seine Schrift auf dem Papier und er
+verschwindet, kann also nicht mehr an andere Zauberwirker weitergegeben
+werden. Gleiches geschieht, wenn ein Zauberwirker einen Zauberspruch
+einfach laut von einer Schriftrolle abliest, wodurch er augenblicklich
+ausgelöst wird (der Charakter würfelt ganz normal eine entsprechende
+Probe, als wäre es sein eigener Zauberspruch).</p>
+<p>Zum Ablesen muss der Zauberwirker nicht die Spruchzugangsstufe des
+Zaubers erreicht haben, der Spruch muss lediglich seiner
+Zauberwirkerklasse zugänglich sein.</p>
+<p>So kann beispielsweise nur ein Heiler den Zauberspruch Allheilung von
+einer Schriftrolle ablesen - dies allerdings schon ab der 1. Stufe.</p>
+<h3 id="tränke">TRÄNKE</h3>
+<p>Man kann immer nur von der Wirkung eines Trankes vom selben Typ
+gleichzeitig profitieren (zwei hintereinander getrunkene Abklingtränke
+wirken also nur wie ein einzelner Abklingtrank, ein Schutztrank und ein
+großer Schutztrank addieren sich hingegen).</p>
+<h4 id="liste-magischer-tränke">LISTE MAGISCHER TRÄNKE</h4>
+<h5 id="abklingtrank-50gm">Abklingtrank (50GM)</h5>
+<p>Diese meist hellblauen Tränke halbieren (abrunden) die Abklingzeit
+aller Zauber für die Dauer eines Kampfes.</p>
+<h5 id="allheilungstrank-1.000gm">Allheilungstrank (1.000GM)</h5>
+<p>Von milchiger Färbung, wirkt dieser Trank den Zauber Allheilung auf
+den Trinkenden (keine Probe nötig).</p>
+<h5 id="allsichttrank-200gm">Allsichttrank (200GM)</h5>
+<p>Für W20 Minuten kann der Trinker Magie, Unsichtbares und Verborgenes
+(Fallen, Geheimtüren usw.) automatisch erkennen.</p>
+<h5 id="alterungstrank-500gm">Alterungstrank (500GM)</h5>
+<p>Der Trinkende wird augenblicklich W20 Jahre älter, Haare und Nägel
+wachsen entsprechend.</p>
+<h5 id="atemfreitrank-200gm">Atemfreitrank (200GM)</h5>
+<p>Der Trinker dieses sprudelnden Trankes braucht für KÖR in Stunden
+nicht zu atmen.</p>
+<h5 id="berserkertrank-100gm">Berserkertrank (100GM)</h5>
+<p>Dieses von verrückten Orkschamanen entwickelte, dampfende Getränk
+heilt drei Kampfrunden jeweils W20 Lebenskraft. In der vierten Runde
+explodiert der Trinker und verursacht in 2m Radius Schaden in Höhe der
+erwürfelten Heilung (Abwehr gilt).</p>
+<h5 id="fliegentrank-200gm">Fliegentrank (200GM)</h5>
+<p>Dieser oft gelbe Trank wirkt auf den Trinker den Zauber Fliegen
+(Probenwert 20; Patzer ausgeschlossen).</p>
+<h5 id="giftbanntrank-150gm">Giftbanntrank (150GM)</h5>
+<p>Wirkt den Zauber Giftbann auf den Trinkenden (keine Probe nötig).</p>
+<h5 id="glückstrank-200gm">Glückstrank (200GM)</h5>
+<p>Der Trinkende kann für W20 Stunden alle Patzer ignorieren.</p>
+<h5 id="heiltrank-10gm">Heiltrank (10GM)</h5>
+<p>Dieses oftmals rote Getränk heilt W20 Lebenskraft.</p>
+<h5 id="heiltrank-großer-25gm">Heiltrank, großer (25GM)</h5>
+<p>Diese meist weinroten Tränke heilen 2W20 Lebenskraft.</p>
+<h5 id="heiltrank-andauernder-20gm">Heiltrank, andauernder (20GM)</h5>
+<p>Dieses oft purpurne Getränk heilt 2W20 Runden lang 1
+Lebenskraft/Runde.</p>
+<h5 id="kampftrank-25gm">Kampftrank (25GM)</h5>
+<p>Meist von oranger Farbe erhöht solch ein Trank Schlagen und Abwehr
+für die Dauer eines Kampfes um +1.</p>
+<h5 id="klettertrank-50gm">Klettertrank (50GM)</h5>
+<p>Der Charakter kann für W20 Runden mit seinem normalen Laufen-Wert wie
+eine Spinne klettern, selbst kopfüber an der Decke.</p>
+<h5 id="konzentrationstrank-200gm">Konzentrationstrank (200GM)</h5>
+<p>Dieser oft graue Trank verdoppelt GEI für GEI in Runden.</p>
+<h5 id="schnelligkeitstrank-200gm">Schnelligkeitstrank (200GM)</h5>
+<p>Für W20 Runden erhöht sich der LaufenWert des Trinkenden um 100%.</p>
+<h5 id="schutztrank-50gm">Schutztrank (50GM)</h5>
+<p>Erhöht für W20 Runden die Abwehr um +2.</p>
+<h5 id="schutztrank-großer-100gm">Schutztrank, großer (100GM)</h5>
+<p>Erhöht für W20 Runden die Abwehr um +3.</p>
+<h5 id="schwebentrank-25gm">Schwebentrank (25GM)</h5>
+<p>Dieses meist grünliche Getränk wirkt den Zauber Schweben (Probenwert
+20; Patzer ausgeschlossen).</p>
+<h5 id="stärketrank-150gm">Stärketrank (150GM)</h5>
+<p>Dieser nach Schweiß riechende Trank verdoppelt ST für ST in
+Runden.</p>
+<h5 id="talenttrank-100gm">Talenttrank (100GM)</h5>
+<p>Metallisch riechend, erhöht dieser Trank für W20 Runden ein vom
+Trinkenden bereits beherrschtes Talent um +I.</p>
+<h5 id="teleporttrank-1.000gm">Teleporttrank (1.000GM)</h5>
+<p>Dieser rauchige, wirbelnde Trank wirkt den Zauber Teleport auf den
+Trinker (keine Probe notwendig), nicht jedoch auf weitere
+Charaktere.</p>
+<h5 id="trank-der-gasgestalt-500gm">Trank der Gasgestalt (500GM)</h5>
+<p>Dieser meist rauchige Trank wirkt auf den Trinker den Zauber
+Gasgestalt (Probenwert 20; Patzer ausgeschlossen).</p>
+<h5 id="trank-der-lebenskraft-500gm">Trank der Lebenskraft (500GM)</h5>
+<p>Diese meist blutroten Tränke erhöhen die Lebenskraft um W20 für W20
+Stunden.</p>
+<h5 id="trank-der-zwergensicht-15gm">Trank der Zwergensicht (15GM)</h5>
+<p>Dieses meist schwarze Getränk gewährt für W20 Stunden dem Trinker die
+zwergische Volksfähigkeit Dunkelsicht (siehe Seite 83).</p>
+<h5 id="unsichtbarkeitstrank-500gm">Unsichtbarkeitstrank (500GM)</h5>
+<p>Dieser oft klare, farblose Trank wirkt auf den Trinker den Zauber
+Unsichtbarkeit (Probenwert 20; Patzer ausgeschlossen).</p>
+<h5 id="unverwundbartrank-1.000gm">Unverwundbartrank (1.000GM)</h5>
+<p>Der Charakter erhält für W20 Runden +20 auf seine Abwehr durch diesen
+meist roten, flockigen Trank. Dieser Bonus gilt auch bei Schaden, gegen
+den normalerweise keine Abwehr zulässig ist.</p>
+<h5 id="vergrößerungstrank-1.000gm">Vergrößerungstrank (1.000GM)</h5>
+<p>Vergrößert den Trinkenden auf das Doppelte seiner normalen Größe für
+W20/2 Minuten. KÖR, ST und HÄ werden verdoppelt und die Kampfwerte
+entsprechend angepasst.</p>
+<h5 id="verjüngungstrank-5.000gm">Verjüngungstrank (5.000GM)</h5>
+<p>Der Trinkende wird augenblicklich W20 Jahre jünger.</p>
+<h5 id="verkleinerungstrank-100gm">Verkleinerungstrank (100GM)</h5>
+<p>Verkleinert den Trinkenden auf ein Zehntel seiner normalen Größe für
+W20 Minuten. KÖR, ST und HÄ werden solange halbiert und die Kampfwerte
+entsprechend angepasst.</p>
+<h5 id="wachsamkeitstrank-15gm">Wachsamkeitstrank (15GM)</h5>
+<p>Dieses meist klare Getränk gewährt für W20 Stunden auf alle
+Bemerken-Proben einen Bonus von +5.</p>
+<h5 id="waffenweih-25gm">Waffenweih (25GM)</h5>
+<p>Über eine Waffe geschüttet, verleiht dieser meist silberne Trank
+dieser für die Dauer eines Kampfes den Effekt des Zaubers Magische
+Waffe.</p>
+<h5 id="wasserwandeltrank-100gm">Wasserwandeltrank (100GM)</h5>
+<p>Dieser oft braune Trank wirkt auf den Trinker den Zauber
+Wasserwandeln (Probenwert 20; Patzer ausgeschlossen).</p>
+<h5 id="zaubertrank-25gm">Zaubertrank (25GM)</h5>
+<p>Erhöht die Werte von Zaubern und Zielzauber für die Dauer eines
+Kampfes um +1.</p>
+<h5 id="zauberwechseltrank-10gm">Zauberwechseltrank (10GM)</h5>
+<p>Diese meist blauen Tränke gewähren für die Dauer eines Kampfes +10
+auf Zauber wechseln.</p>
+<h5 id="zieltrank-25gm">Zieltrank (25GM)</h5>
+<p>Erhöht die Werte von Schießen und Zielzauber für die Dauer eines
+Kampfes um +1.</p>
+<h3 id="magische-waffen-rüstungen">MAGISCHE WAFFEN &amp; RÜSTUNGEN</h3>
+<p>Magische Boni und Effekte von Waffen wirken nur, wenn man sie dabei
+in der Hand hält, Rüstungen müssen angelegt sein.</p>
+<p>Der Schaden einer verzauberten Waffe gilt als magisch, man kann mit
+ihr also auch körperlose Wesen verletzen, beispielsweise Geister.</p>
+<p>Wurde bei der Herstellung einer Waffe ihr ein Name gegeben und ist
+dieser bekannt, kann man einmal pro Kampf diesen laut ausrufen, um für
+eine Kampfrunde ihren Angriffswert um +1 zu erhöhen.</p>
+<p>Neben eingebetten Talenten und Zaubersprüchen haben die meisten
+verzauberten Waffen und Rüstungen einen magischen Bonus von +1 bis
++3:</p>
+<p><strong>Waffenbonus</strong>: Dieser Bonus wird auf den WB und die
+Initiative addiert und bei Treffern von der Abwehr des Gegners als Malus
+abgezogen.</p>
+<p><strong>Beispiel</strong>: <em>Die Werte eines magischen Bihänders +2
+betragen in ihren Summen: WB +5, Initiative +0, Abwehr des Gegners
+-6.</em></p>
+<p><strong>Rüstungsbonus</strong>: Der Bonus wird als magischer Bonus
+auf die PA addiert (ohne als Malus auf Zaubern/Zielzauber zu wirken),
+während die normalen Initiativebzw. Laufenmali pro Bonus um 1 bzw. 0.5m
+gemindert werden (wodurch sie aber nicht über 0 ansteigen können.</p>
+<h4 id="beispiele-magischer-waffen">BEISPIELE MAGISCHER WAFFEN</h4>
+<h5 id="aderschlitz">Aderschlitz</h5>
+<p>Ein mag. Dolch +2 mit Aderschlitzer +III.</p>
+<h5 id="feindfeger">Feindfeger</h5>
+<p>Unscheinbar aussehender Bihänder +2 mit Rundumschlag II.</p>
+<h5 id="grausame-axt">Grausame Axt</h5>
+<p>Antike Axt +1 mit Verletzen +III.</p>
+<h5 id="immertreff">Immertreff</h5>
+<p>Ein tödlicher Langbogen +2 mit Fieser Schuß +II und Scharfschütze
++II.</p>
+<h5 id="königsblut">Königsblut</h5>
+<p>Durch diesen magischen Dolch +3 mit Schattenklinge und
+Unsichtbarkeit(Abklingszeit 1x/täglich ignorierbar) sollen angeblich
+schon Könige gestorben sein.</p>
+<h5 id="orkspalter">Orkspalter</h5>
+<p>Eine alte, legendäre Zwergenaxt +1 mit Brutaler Hieb +II.</p>
+<h5 id="skrupelloser-bogen">Skrupelloser Bogen</h5>
+<p>Ein Kurzbogen +1 mit Kleiner Terror, der Feinde angeblich immer in
+den Rücken trifft.</p>
+<h5 id="stab-des-magus">Stab des Magus</h5>
+<p>Ein Kampfstab +1 mit Zielzauber +3 (insgesamt also mit dem normalen
+Bonus Zielzauber +4).</p>
+<h5 id="stahlflamme">Stahlflamme</h5>
+<p>Dieses Langschwert +1 mit Flammenklinge kam schon in vielen Kriegen
+zum Einsatz.</p>
+<h5 id="zornhammer">Zornhammer</h5>
+<p>Ein schwerer, schlichter Streithammer +3, der einst einem
+Zwergenhelden gehörte.</p>
+<h4 id="beispiele-magischer-rüstungen">BEISPIELE MAGISCHER
+RÜSTUNGEN</h4>
+<h5 id="bärenpanzer">Bärenpanzer</h5>
+<p>Diese mit Bärenfellen und -klauen verzierte Plattenrüstung +2 gewährt
+ihrem Träger Raserei +I sowie +1 auf Stärke.</p>
+<h5 id="blutrüstung">Blutrüstung</h5>
+<p>In diese rotgefärbte Plattenrüstung +1 ist das Talent Verletzen +I
+eingebettet.</p>
+<h5 id="fellmantel-des-heilers">Fellmantel des Heilers</h5>
+<p>Diese aus weissem Fell geschneiderte Lederrüstung gewährt +2 auf
+Heilzauber.</p>
+<h5 id="gewänder-des-adlers">Gewänder des Adlers</h5>
+<p>Diese hellbeige, mit Adlerfedern verzierte Lederrüstung +1 gewährt +1
+auf Geist.</p>
+<h5 id="kluft-des-jägers">Kluft des Jägers</h5>
+<p>Diese braun-grüne Lederrüstung gewährt neben Jäger +I ihrem Träger +1
+auf Bewegung.</p>
+<h5 id="kundschafterpanzer">Kundschafterpanzer</h5>
+<p>Diese mit braunen Fellschulterpolstern verzierte Kettenrüstung
+gewährt ihrem Träger +1 auf Bewegung.</p>
+<h5 id="robe-des-denkers">Robe des Denkers</h5>
+<p>Diese graue Robe +2 verleiht +1 auf Verstand.</p>
+<h5 id="robe-des-heilers">Robe des Heilers</h5>
+<p>Eine weisse Robe, die ihrem Träger +1 auf Heilzauber gewährt.</p>
+<h5 id="robe-der-macht">Robe der Macht</h5>
+<p>Diese violette Robe +3 verleiht ihrem Träger +1 auf Geist.</p>
+<h5 id="runenbestickte-feuerrobe">Runenbestickte Feuerrobe</h5>
+<p>Eine feuerrote Robe +3 mit aufgestickten Flammenrunen und Feuermagier
++V.</p>
+<h5 id="rüstung-des-kriegers">Rüstung des Kriegers</h5>
+<p>Diese protzig verzierte Plattenrüstung +2 gewährt ihrem Träger +1 auf
+Körper.</p>
+<h5 id="rüstung-des-löwen">Rüstung des Löwen</h5>
+<p>Eine Plattenrüstung +2 mit verzierten Löwenköpfen, die auf Laufen
++1,5m gewährt.</p>
+<h5 id="rüstung-des-schützen">Rüstung des Schützen</h5>
+<p>Diese mit dunkelgrünen Stoffrändern gesäumte Kettenrüstung +1 gewährt
+ihrem Träger +3 auf Schießen.</p>
+<h5 id="rüstung-des-spähers">Rüstung des Spähers</h5>
+<p>Diese mit braunen Lederpolstern verstärkte Kettenrüstung +1 gewährt
+ihrem Träger +1 auf Agilität.</p>
+<h5 id="söldnertreu">Söldnertreu</h5>
+<p>Diese mit blauen Stoffrändern gesäumte Kettenrüstung +1 gewährt ihrem
+Träger +1 auf Schlagen.</p>
+<h5 id="sturmrobe">Sturmrobe</h5>
+<p>Diese blaugraue Robe +1 mit aufgestickten Sturm- &amp; Gewitterwolken
+gewährt +1 auf jeden Blitzzauber. Selbst bei Windstille wogt sie in
+einer leichten Brise.</p>
+<h5 id="wehrpanzer">Wehrpanzer</h5>
+<p>Diese massive, mit Metallverzierungen verstärkte Plattenrüstung +3
+verfügt sogar über einen Halspanzer und gewährt ihrem Träger zusätzlich
+noch +2 auf Abwehr.</p>
+<h5 id="wildhüterharnisch">Wildhüterharnisch</h5>
+<p>In diese aus Fellen zusammengenähte Lederrüstung +1 wurde der Zauber
+Tierbeherrschung eingebettet.</p>
+<h5 id="wolfsmantel">Wolfsmantel</h5>
+<p>Diese Lederrüstung aus Wolfspelz verleiht ihrem Träger +3 auf
+sämtliche BemerkenProben. Ein ausgenommener Wolfskopf bildet die
+Kapuze.</p>
+<h4 id="set-gegenstände">SET-GEGENSTÄNDE</h4>
+<p>Manche Gegenstände bilden zusammen ein sogenanntes Set. Bei solchen
+Set-Gegenständen werden zusätzliche Effekte freigeschaltet, je mehr
+Teile des entsprechenden Sets man trägt.</p>
+<h5 id="selcors-robe">SELCOR’S ROBE</h5>
+<p>Beispiel für einen Set-Gegenstand</p>
+<p><strong>Mag. Robe +3</strong> Eine blutrote Robe.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Herzmeister-Set</th>
+<th>Setboni (kumulativ)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Selcor’s Kette</td>
+<td>2 Teile: Abklingen +I</td>
+</tr>
+<tr class="even">
+<td>Selcor’s Robe</td>
+<td>3 Teile: Abklingen +I</td>
+</tr>
+<tr class="odd">
+<td>Selcor’s Stirnreif</td>
+<td>4 Teile: Zaubern +1</td>
+</tr>
+<tr class="even">
+<td>Selcor’s Zauberstab</td>
+<td>5 Teile: Zielzauber +1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="diverse-magische-gegenstände">DIVERSE MAGISCHE GEGENSTÄNDE</h3>
+<p>Neben Waffen und Rüstungen gibt es eine Vielzahl anderer magischer
+Gegenstände - die Möglichkeiten sind quasi endlos, weshalb hier nur eine
+begrenzte Auswahl vorgestellt werden kann.</p>
+<h5 id="abklingring">Abklingring</h5>
+<p>Dieser einfache Abklingring senkt die Abklingzeiten sämtlicher Zauber
+seines Trägers um 1.</p>
+<h5 id="armreif-des-bogners">Armreif des Bogners</h5>
+<p>Verleiht auf Schießen-Proben mit Bögen einen Bonus von +2.</p>
+<h5 id="fäustlinge-der-verstümmelung">Fäustlinge der Verstümmelung</h5>
+<p>Diese blutverschmutzten Wildlederhandschuhe gewähren ihrem Träger
+Brutaler Hieb +I und Verletzen +I.</p>
+<h5 id="gürtel-der-trollstärke">Gürtel der Trollstärke</h5>
+<p>Dieser mit kleinen Eisenplatten beschlagene Gürtel erhöht die Stärke
+seines Trägers um 3.</p>
+<h5 id="elfenstiefel">Elfenstiefel</h5>
+<p>Diese bequemen Stiefel erhöhen den LaufenWert um 1.</p>
+<h5 id="elfischer-sattel">Elfischer Sattel</h5>
+<p>In dieses äußerst feingearbeiteten Sattel ist Reiten +I
+eingebettet.</p>
+<h5 id="elfischer-tarnumhang">Elfischer Tarnumhang</h5>
+<p>Dieser Umhang, in den Feengarn eingewebt wurde, verleiht zusätzlich
+zu seiner eingebetteten Heimlichkeit +III auf Verbergen-Proben +3.</p>
+<h5 id="feuerballzepter">Feuerballzepter</h5>
+<p>Ein Zepter, in das der Zauber Feuerball eingebettet wurde, dessen
+Aklingzeit man 2x/Tag ignorieren kann.</p>
+<h5 id="fliegender-teppich">Fliegender Teppich</h5>
+<p>Ein legendärer Gegenstand aus den heißen Wüstenlanden, in den die
+Zauber Fliegen und Spurt eingebettet sind. Die Zauber wirken permanent
+auf denjenigen, der in der Mitte des Teppichs sitzt. Proben auf Zaubern
+sind nicht erforderlich.</p>
+<h5 id="geisterbote">Geisterbote</h5>
+<p>Jeder dieser mit Rauch gefüllten Behälter enthält eine Ladung des
+Zaubers Botschaft.</p>
+<h5 id="karten-des-schummlers">Karten des Schummlers</h5>
+<p>In dieses wunderschöne Spielkarten-Set ist der Zauber Zeitstop
+eingebettet.</p>
+<h5 id="kette-der-regeneration">Kette der Regeneration</h5>
+<p>Diese schlichte Silberkette heilt in jeder Kamfprunde 1 LK.</p>
+<h5 id="kriegshorn">Kriegshorn</h5>
+<p>Der Klang des Horns feuert die Kampfgefährten mit seinem
+eingebetteten Schlachtruf +I an.</p>
+<h5 id="kristallkugel">Kristallkugel</h5>
+<p>Der Zauber Spionage ist in diese äußerst zerbrechliche Kugel
+eingebettet.</p>
+<h5 id="mantel-der-augen">Mantel der Augen</h5>
+<p>Dieser mit Augenmustern bestickte Mantel gewährt seinem Träger
+Wahrnehmung +III.</p>
+<h5 id="schlafstaub">Schlafstaub</h5>
+<p>Wirkt auf ein beworfenes Ziel den Zauber Einschläfern.</p>
+<h5 id="schutzring-1-bis-3">Schutzring +1 bis +3</h5>
+<p>Erhöht die Abwehr, ohne dabei Panzerungsmalus zu verursachen.</p>
+<h5 id="schwebenamulett">Schwebenamulett</h5>
+<p>Der Zauber Schweben wurde in dieses Amulett gebettet.</p>
+<h5 id="smaragd-schlüssel">Smaragd-Schlüssel</h5>
+<p>Einmal alle 24h kann man damit den Zauber Öffnen auf ein Schloss
+wirken.</p>
+<h5 id="spruchspeicherring">Spruchspeicherring</h5>
+<p>Einmal pro Tag kann der Träger des Ringes zu einem vorher
+festgelegten Zauber aktionsfrei wechseln, ohne dafür würfeln zu müssen,
+da in den Ring Wechselzauber eingebettet wurde.</p>
+<h5 id="unsichtbarkeitsring">Unsichtbarkeitsring</h5>
+<p>Böse Zungen behaupten, dass dieser Ring, in den Unsichtbarkeit
+eingebettet ist, seinen Träger zu seinem abhängigen Sklaven macht.</p>
+<h5 id="wechselring">Wechselring</h5>
+<p>Mittels Wechsler +V verleiht dieser Ring +10 auf Proben, um die
+eigenen Zauber zu wechseln.</p>
+<h5 id="zauberköcher">Zauberköcher</h5>
+<p>Jeder Pfeil, der aus diesem Köcher gezogen wird, hat für die Dauer
+einer Kampfrunde einen magischen Waffenbonus von +1.</p>
+<h2 id="herstellung-magischer-gegenstände">HERSTELLUNG MAGISCHER
+GEGENSTÄNDE</h2>
+<p>Zauberwirker mit den Talenten <strong>Alchemie</strong>,
+<strong>Einbetten</strong> oder <strong>Runenkunde</strong> sind in der
+Lage, magische Gegenstände herzustellen.</p>
+<p>Die Kosten zur Herstellung der magischen Gegenstände betragen immer
+genau die Hälfte von dem, was sie im Handel kosten, sofern sie überhaupt
+käuflich zu erwerben sind.</p>
+<p>Auch misslungene Herstellungsprozesse verbrauchen die Zutaten.</p>
+<h3 id="schriftrollen-fertigen">SCHRIFTROLLEN FERTIGEN</h3>
+<p>Um Schriftrollen herzustellen, benötigt ein Zauberwirker zunächst das
+Talent <strong>Runenkunde</strong>. Außerdem muss er den Zauberspruch,
+den er zu Pergament bringen will, auch selbst beherrschen.</p>
+<p>Als Letztes benötigt der Zauberwirker noch die nötigen Zutaten
+(exotische Tinten, besonderes Pergament), welche die Hälfte des Zaubers
+kosten, der später auf der Schriftrolle stehen soll.</p>
+<p>Schließlich kann die Herstellung beginnen, die akribische
+Genauigkeit, mehrmaliges Überzeichnen und diverse Trocknungszeiten
+erfordert. Während dieser Zeit muss der Zauberwirker jeden Tag 1-2
+Stunden ungestört an der Schriftrolle arbeiten, insgesamt an</p>
+<pre><code>Goldpreis des Zaubers
+---------------------------------- Tagen.
+1 + Rang in Runenkunde + Einbetten</code></pre>
+<p>Wird nach Abarbeitung der Zeit erfolgreich GEI+GE+Runenkunde
+gewürfelt, gelingt die Herstellung.</p>
+<h3 id="tränke-brauen">TRÄNKE BRAUEN</h3>
+<p>Zum Brauen magischer Tränke (außer Weihwasser, für dessen Herstellung
+ein Zauber existiert) benötigt ein Zauberwirker zunächst das Talent
+<strong>Alchemie</strong>.</p>
+<p>Desweiteren benötigt der Zauberwirker die nötigen Zutaten, welche die
+Hälfte des Tranks kosten (siehe Seite 96), der aus ihnen gebraut werden
+soll. Schließlich kann der Brauvorgang beginnen, der diverse
+Arbeitsschritte und Gärprozesse erfordert, die insgesamt</p>
+<pre><code>Goldpreis des Tranks
+-------------------------------- Tage
+1 + Rang in Alchemie + Einbetten</code></pre>
+<p>andauern. Der Charakter benötigt für die gesamte Zeit Zugang zu einem
+Labor (eine reine Laborausstattung kostet 250GM).</p>
+<p>Wird nach Ablauf der Zeit erfolgreich GEI+VE+Alchemie gewürfelt,
+gelingt der Brauvorgang.</p>
+<h3 id="gegenstände-herstellen">GEGENSTÄNDE HERSTELLEN</h3>
+<p>Um magische Gegenstände wie flammende Schwerter, verzauberte
+Rüstungen oder Fliegenringe herzustellen, benötigt ein Zauberwirker
+zunächst das Talent <strong>Einbetten</strong>.</p>
+<p>Außerdem wird auch immer das Talent <strong>Handwerk</strong>
+(beispielsweise Bogenbauer, Schmuck- oder Rüstungsschmied o.ä.)
+benötigt, welches sich nach dem Gegenstand richtet, der hergestellt
+weren soll.</p>
+<p>Das Talent Handwerk kann auch von einem anderen Charakter eingebracht
+werden, der dem Zauberwirker bei der Herstellung des Gegenstandes die
+gesamte Zeit behilflich ist.</p>
+<p>Die folgenden Seiten behandeln Schritt für Schritt die Herstellung
+magischer Gegenstände.</p>
+<h4 id="grundkosten-ermitteln">1. GRUNDKOSTEN ERMITTELN</h4>
+<p>Neben den Materialkosten des Gegenstandes (entsprechen seinem halben
+Neupreis) werden noch diverse Zutaten wie erlesene Kristalle, seltene
+Pflanzen oder gar das Blut gefährlicher Monster benötigt, um Magie
+dauerhaft in ihn zu betten. Die Kosten für diese Zutaten und die
+Materialkosten ergeben zusammen die <strong>Grundkosten</strong>:</p>
+<pre><code>  Materialkosten (halber Neupreis)
+- 125 GM
+= Grundkosten (in GM)</code></pre>
+<h4 id="zusatzkosten-ermitteln">2. ZUSATZKOSTEN ERMITTELN</h4>
+<p>Auf die Grundkosten werden nun <strong>Zusatzkosten</strong> addiert
+werden, je nachdem, was der Gegenstand alles können soll. Die Summe
+entspricht den endgültigen <strong>Herstellungskosten</strong>:</p>
+<pre><code>  Grundkosten
+- sämtliche Zusatzkosten
+= Herstellungskosten (in GM)</code></pre>
+<p>Es folgt eine Auflistung der möglichen Zusatzkosten:</p>
+<h4 id="a.-aktionen-einbetten">A. AKTIONEN EINBETTEN</h4>
+<p>Gegenstände können es ermöglichen, dass bestimmte Handlungen
+(beispielsweise das Ziehen eines magischen Schwertes) keine Aktion
+kosten. Die Kosten richten sich nach Art und Dauer der
+Aktionsfreiheit:</p>
+<table>
+<thead>
+<tr class="header">
+<th>AKTIONSFREI</th>
+<th>KOSTEN</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1x im Kampf aufstehen</td>
+<td>250GM</td>
+</tr>
+<tr class="even">
+<td>1x im Kampf Waffe ziehen</td>
+<td>500GM</td>
+</tr>
+<tr class="odd">
+<td>W20* Runden konzentrieren</td>
+<td>750GM</td>
+</tr>
+<tr class="even">
+<td>1x im Kampf Zauber wechseln</td>
+<td>1.000GM</td>
+</tr>
+</tbody>
+</table>
+<p>*: Wird einmalig bei der Herstellung ermittelt.</p>
+<h4 id="b.-boni-einbetten">B. BONI EINBETTEN</h4>
+<p>Die Kosten für permanente Boni (von +1 bis +3) auf bestimmte Proben
+(dazu zählen auch Proben auf einzelne Zauber), Kampfwerte (oder auch
+Gruppen von Zaubern), Eigenschaften oder Attribute sind folgender
+Tabelle zu entnehmen:</p>
+<table>
+<thead>
+<tr class="header">
+<th>BONUS AUF</th>
+<th style="text-align: center;">+1 BONUS</th>
+<th style="text-align: center;">+2 BONUS</th>
+<th style="text-align: center;">+3 BONUS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>einzelne Probe</td>
+<td style="text-align: center;">125GM</td>
+<td style="text-align: center;">250GM</td>
+<td style="text-align: center;">500GM</td>
+</tr>
+<tr class="even">
+<td>Waffenbonus</td>
+<td style="text-align: center;">(WB + mag. Bonus) x 250</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td>Rüstungsbonus</td>
+<td style="text-align: center;">(PA + mag. Bonus) x 500</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td>Kampfwert*</td>
+<td style="text-align: center;">250GM</td>
+<td style="text-align: center;">500GM</td>
+<td style="text-align: center;">750GM</td>
+</tr>
+<tr class="odd">
+<td>Eigenschaft</td>
+<td style="text-align: center;">500GM</td>
+<td style="text-align: center;">1.000GM</td>
+<td style="text-align: center;">1.500GM</td>
+</tr>
+<tr class="even">
+<td>Attribut</td>
+<td style="text-align: center;">1.000GM</td>
+<td style="text-align: center;">2.000GM</td>
+<td style="text-align: center;">4.000GM</td>
+</tr>
+</tbody>
+</table>
+<p>*: Bei Laufen erhält man pro +1 einen Bonus von 0,5.</p>
+<p><strong>Waffenbonus</strong>: Der Preis ergibt sich aus dem normalen
+WB der herzustellenden Waffe und dem Bonus (+1 bis +3 möglich), den sie
+erhalten soll, multipliziert mit 250.</p>
+<p>Dieser Bonus wird auf den WB und die Initiative addiert und bei
+Treffern von der Abwehr des Gegners als Malus abgezogen.</p>
+<p><strong>Rüstungsbonus</strong>: Die normale PA der Rüstung plus der
+angestrebte magische Bonus (von +1 bis +3) mal 500 ergeben die
+zusätzlichen Kosten für die Rüstung.</p>
+<p>Der Bonus wird als magischer Bonus auf die PA addiert (ohne als Malus
+auf Zaubern/ Zielzauber zu wirken), während die normalen Initiative-
+bzw. Laufenmali pro Bonus um 1 bzw. 0.5m gemindert werden (wodurch sie
+aber nicht über 0 ansteigen können).</p>
+<h4 id="c.-talente-einbetten">C. TALENTE EINBETTEN</h4>
+<p>Talente können rangweise in Gegenstände eingebettet werden. Das
+Talent Einbetten kann man allerdings nicht einbetten.</p>
+<p>Dafür muss ein Charakter, der das Talent auf entsprechendem Rang
+beherrscht, bei der Herstellung des Gegenstandes die ganze Zeit anwesend
+sein.</p>
+<p>Die Kosten pro Talentrang richten sich nach der Stufe, ab der der
+Talentbeherrscher das Talent erstmalig erwerben konnte:</p>
+<table>
+<thead>
+<tr class="header">
+<th>KOSTEN PRO TALENTRANG</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>(Talent-Zugangsstufe x 125) GM</td>
+</tr>
+</tbody>
+</table>
+<p>Wird mehr als ein Talent eingebettet, erhöht sich der Faktor von 125
+bei jedem Talent um jeweils 50 pro weiteres Talent, das eingebettet
+werden soll.</p>
+<p>Beispielsweise würde bei vier Talenten jeder Rang jeweils die
+Talent-Zugangsstufe mal 275 (= 125 + 50 + 50 + 50) kosten.</p>
+<h4 id="d.-zauber-einbetten">D. ZAUBER EINBETTEN</h4>
+<p>Bei der Herstellung eines magischen Gegenstandes kann der
+Zauberwirker diesen mit Zaubersprüchen versehen, sofern er diese
+beherrscht.</p>
+<p>Die Zusatzkosten von Zaubern in magischen Gegenständen basieren immer
+auf dem Goldpreis, den ein Zauber normalerweise kostet (Zaubersprüche
+unter 125GM werden behandelt, als würden sie 125GM kosten).</p>
+<h4 id="d1.-zauber-einbetten">D1. ZAUBER EINBETTEN</h4>
+<p>Ein Zauberspruch kann in einen Gegenstand gebettet und nach den
+Regeln für Zauber in magischen Gegenständen ausgelöst werden.</p>
+<table>
+<thead>
+<tr class="header">
+<th>KOSTEN PRO ZAUBER</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>(Preis* des Zaubers x 3) GM</td>
+</tr>
+</tbody>
+</table>
+<p>*: Mindestens 125GM</p>
+<h4 id="d2.-zauberladungen-einbetten">D2. ZAUBERLADUNGEN EINBETTEN</h4>
+<p>Einzelne Ladungen von Zaubersprüchen (beispielsweise ein Ring, in dem
+10x Feuerball eingebettet ist) brauchen sich nach Gebrauch zwar auf,
+sind dafür aber in der Herstellung weitaus günstiger:</p>
+<table>
+<thead>
+<tr class="header">
+<th>KOSTEN PRO LADUNG</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>(Preis* des Zaubers/5) GM</td>
+</tr>
+</tbody>
+</table>
+<p>*: Mindestens 125GM</p>
+<p><strong>Aufladen</strong>: Verbrauchte Ladungen können wieder
+aufgefrischt werden, indem ein Zauberwirker, der den Zauberspruch
+beherrscht, diesen wieder in den Gegenstand zaubert (1 Ladung pro
+gewirkten Zauber).</p>
+<p>Die Anzahl der maximalen Ladungen des Gegenstandes kann dadurch nicht
+erhöht werden.</p>
+<h4 id="d3.-zauberstäbe-fertigen">D3. ZAUBERSTÄBE FERTIGEN</h4>
+<p>Die Kosten für Zauberstäbe (siehe Seite 47) errechnen sich wie
+folgt:</p>
+<table>
+<thead>
+<tr class="header">
+<th>ZAUBERSTABKOSTEN</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>(Preis* des Zaubers x 2) GM</td>
+</tr>
+</tbody>
+</table>
+<p>*: Mindestens 125GM</p>
+<h4 id="d4.-abklingzeiten-verkürzen">D4. ABKLINGZEITEN VERKÜRZEN</h4>
+<p>Die Abklingzeiten bestimmter Zaubereffekte eines Gegenstandes oder
+auch die eigenen Zaubersprüche desjenigen, der ihn bei sich trägt,
+können um bis zu VE/2 (des Zauberwirkers) Runden verkürzt werden:</p>
+<table>
+<thead>
+<tr class="header">
+<th>VERKÜRZTE ABKLINGZEIT</th>
+<th style="text-align: center;">-1 RUNDE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Bestimmter Zauber des Ggst.</td>
+<td style="text-align: center;">250GM</td>
+</tr>
+<tr class="even">
+<td>Bestimmter Zauber seines Trägers</td>
+<td style="text-align: center;">125GM</td>
+</tr>
+<tr class="odd">
+<td>Alle Zauber seines Trägers</td>
+<td style="text-align: center;">2.500GM</td>
+</tr>
+</tbody>
+</table>
+<h4 id="d5.-abklingzeiten-ignorieren">D5. ABKLINGZEITEN IGNORIEREN</h4>
+<p>Abklingzeiten einzelner Zauber in Gegenständen können komplett
+ignoriert werden (beispielsweise für ein Teleportamulett, das jede Runde
+einsetzbar ist).</p>
+<table>
+<thead>
+<tr class="header">
+<th>ABKLINGZEIT IGNORIEREN</th>
+<th style="text-align: center;">KOSTEN</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1x täglich</td>
+<td style="text-align: center;">Preis* des Zaubers* x 3</td>
+</tr>
+<tr class="even">
+<td>2x täglich</td>
+<td style="text-align: center;">Preis* des Zaubers x 5</td>
+</tr>
+<tr class="odd">
+<td>3x täglich</td>
+<td style="text-align: center;">Preis* des Zaubers x 12</td>
+</tr>
+<tr class="even">
+<td>Permanent**</td>
+<td style="text-align: center;">Preis* des Zaubers x 25</td>
+</tr>
+</tbody>
+</table>
+<p>*: Mindestens 125GM</p>
+<p>**: Zusätzlich verliert der Zauberwirker permanent einen Punkt
+GEI.</p>
+<h4 id="gegenstand-herstellen">3. GEGENSTAND HERSTELLEN</h4>
+<p>Während der Herstellung des Gegenstandes arbeiten Zauberwirker und
+Handwerker in einer entsprechenden Werkstatt gemeinsam (Pausen
+einkalkuliert) für</p>
+<pre><code>Herstellungskosten in Gold/20
+----------------------------- Stunden.
+Rang in Einbetten + Handwerk</code></pre>
+<p>Würfelt nach Ablauf der Zeit der Zauberwirker erfolgreich
+GEI+VE+Einbetten und der Handwerker (bei dem es sich auch um den
+Zauberwirker selbst handeln kann) erfolgreich GEI+GE+Handwerk, ist die
+Herstellung geglückt.</p>
+<h3 id="juwelen-edelsteine">JUWELEN &amp; EDELSTEINE</h3>
+<p>Kostbare Edelsteine und Juwelen können bei der Herstellung magischer
+Gegenstände (nicht bei Schriftrollen und Tränken) in diese eingearbeitet
+werden, was die Herstellung vereinfacht:</p>
+<p>Pro Juwelen im Wert eines Viertels der Herstellungskosten erhält man
+einen Bonus von +1 auf <strong>Einbetten</strong> und
+<strong>Handwerk</strong>.</p>
+<hr />
+<p><em>Fanwerk für <a
+href="https://www.dungeonslayers.net/">Dungeonslayers</a> (C) Christian
+Kennig | Quelle: GRW S. 95 ff. | Lizenz: <a
+href="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">CC BY-NC-SA
+3.0 DE</a></em></p>
+</div>
+</div>
+<script>
+    // If base href is set, inline anchors (#) will resolve 
+    // to the main page. To prevent this, the link is rewritten
+    // to the local page.
+    document.addEventListener('DOMContentLoaded', function(){
+      var es = document.getElementsByTagName('a')
+      for(var i=0; i<es.length; i++){
+        var link = es[i].getAttribute('href')
+        if (link && link.startsWith('#')) {
+          es[i].addEventListener('click', function(e) {
+          e.preventDefault()
+          document.location.hash = e.target.getAttribute('href')
+        })
+        }
+      }
+    })
+  </script>
+</body>
+</html>

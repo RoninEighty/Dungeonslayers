@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE" xml:lang="de-DE">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>regeln-kampf</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/style.css" />
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/layout.css" />
+</head>
+<body>
+  <div id="sidebar">
+    <header>
+      <h1 class="site-title">
+        <a href="http://localhost/f-space/ds4srd/"> DS4 SRD+ </a>
+      </h1>
+      <p class="lead"></p>
+    </header>
+    <nav id="sidebar-nav-links">
+      <ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/index.html">Grundregelwerk</a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html"
+            >Attribute &amp; Eigenschaften</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html#die-kampfwerte"
+            >Die Kampfwerte</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-charaktererschaffung.html"
+            >Charaktererschaffung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-erfahrung.html"
+            >Erfahrung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen.html"
+            >Heldenklassen</a
+          >
+        </li>
+        <ul>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-berserker.html"
+              >Berserker</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-paladin.html"
+              >Paladin</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-waffenmeister.html"
+              >Waffenmeister</a
+            >
+          </li>
+        </ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/talente.html"
+            >Talente</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-beutetabellen.html"
+            >Beutetabellen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-voelkerbaukasten.html"
+            >Völkerbaukasten</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-feuerwaffen.html"
+            >Feuerwaffen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/fanwerke/index.html">Fanwerke</a>
+        </li>
+      </ul>
+    </nav>
+
+    <footer>
+      <nav id="sidebar-project-links">
+        <a
+          class="link"
+          title="Github Project"
+          aria-label="Github Project"
+          href="https://github.com/RoninEighty/Dungeonslayers"
+        >
+          GitHub
+        </a>
+        <a
+          class="link"
+          title="Download"
+          aria-label="Download"
+          href="https://github.com/RoninEighty/Dungeonslayers/archive/refs/heads/main.zip"
+        >
+          ZIP
+        </a>
+      </nav>
+      <div>
+        DS4 SRD+ © 2025
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+          >CC BY-NC-SA 4.0</a
+        >
+      </div>
+      <div>
+        Regelreferenz und Fanwerke für
+        <a href="https://www.dungeonslayers.net" target="_blank"
+          >Dungeonslayers</a
+        >
+        &copy; Christian Kennig.
+      </div>
+    </footer>
+  </div><div class="container">
+<div class="content">
+<h2 id="kampf">KAMPF</h2>
+<p>Kommt es zu einem Kampf, wird in <strong>Kampfrunden</strong>
+weitergespielt, die jeweils 5 Sekunden dauern.</p>
+<p>In einer Kampfrunde agieren alle am Kampf beteiligten Charaktere in
+Reihenfolge ihrer <strong>Initiative</strong>. Wer an die Reihe kommt,
+kann eine <strong>Aktion</strong> machen und sich
+<strong>bewegen</strong>.</p>
+<p>Haben alle Beteiligten gehandelt, beginnt die nächste Kampfrunde.</p>
+<h4 id="initiative">1. INITIATIVE</h4>
+<p>Alle Beteiligten kommen in Reihenfolge ihrer Initiative zum Zuge. Bei
+einem Gleichstand wird mit W20 einmalig pro Kampf ein Stechen gewürfelt,
+der höhere Wurf siegt.</p>
+<p>Gelingt es einer Partei, die andere zu überraschen, erhalten ihre
+Mitglieder in der ersten Kampfrunde +10 auf ihre Initiative.</p>
+<h4 id="laufen">2. LAUFEN</h4>
+<p>Ist ein Charakter an der Reihe, kann er sich seinen Laufen-Wert in
+Metern maximal bewegen.</p>
+<p>Diese Bewegung kann er nur vor oder nach seiner Aktion machen, aber
+nicht aufsplitten, um beispielsweise erst ein Stück zu laufen, dann
+einen Gegner zu schlagen und sich dann wieder von ihm fortzubewegen.</p>
+<p>Hindernisse am Boden wie Trümmer oder dichtes Unterholz können den
+Laufen-Wert mindern, halbieren oder gar vierteln.</p>
+<h4 id="aktion">3. AKTION</h4>
+<p>Vor oder nach dem Laufen kann jeder Charakter eine einzelne Aktion
+(beispielsweise mit Schlagen, Schießen, Zaubern oder Zielzauber
+angreifen) durchführen.</p>
+<p>Eine Aktion kann nicht gespart werden, sondern verfällt am Ende ihrer
+Kampfrunde.</p>
+<h3 id="beispiele-für-aktionen">BEISPIELE FÜR AKTIONEN</h3>
+<ul>
+<li>Abwartehandlung</li>
+<li>Aufstehen*</li>
+<li>Aufstehen und Waffe aufheben/ziehen</li>
+<li>Bewusstlosen wecken</li>
+<li>Heilkraut einnehmen</li>
+<li>Konzentrieren (bei einigen Zaubern)</li>
+<li>Rennen (erneut Laufen)</li>
+<li>Schießen</li>
+<li>Schlagen</li>
+<li>Schloss knacken</li>
+<li>Sturmangriff**</li>
+<li>Trank trinken</li>
+<li>Tür eintreten/öffnen/schließen</li>
+<li>Waffe aufheben/wechseln/ziehen</li>
+<li>Zaubern</li>
+<li>Zauber wechseln</li>
+<li>Zielen</li>
+<li>Zielzauber</li>
+</ul>
+<p>*: Zählt nur im Nahkampf als Aktion</p>
+<p>**: Wenn ein Nahkampfziel sich in gerader, ungehinderter
+Rennenreichweite (Laufen - Laufen x2) befindet, kann man zu ihm rennen
+und es noch schlagen.</p>
+<h3 id="angriff-und-abwehr">ANGRIFF UND ABWEHR</h3>
+<p>Das Ergebnis eines erfolgreichen <strong>Angriffs</strong> (mittels
+Schlagen, Schießen oder Zielzauber) ist zugleich der Schaden, der von
+der Lebenskraft des Ziels abgezogen wird.</p>
+<p>Immer wenn ein Ziel Schaden erleidet, würfelt es automatisch eine
+<strong>Abwehr</strong>-Probe (dies zählt nicht als Aktion), wodurch bei
+einer erfolgreichen Probe der Schaden um das Ergebnis reduziert
+wird.</p>
+<p><strong>Beispiel</strong>: <em>Der Zwergenkrieger Gruffneck (Schlagen
+12) trifft einen Orkkrieger (Abwehr 15) erfolgreich mit einer 9. Der Ork
+würfelt augenblicklich eine Abwehr-Probe, die ihm mit 4 gelingt. Somit
+erhält der Orkkrieger lediglich 5 (= 9 - 4) Punkte Schaden, statt
+9.</em></p>
+<h3 id="waffen-und-rüstungen">WAFFEN UND RÜSTUNGEN</h3>
+<p>Waffen und Rüstungen geben durch ihren <strong>Waffenbonus
+(WB)</strong> bzw. ihre <strong>Panzerung (PA)</strong> Boni auf die
+Kampfwerte.</p>
+<p>Bei einigen Waffen wird zudem die <strong>Gegnerabwehr (GA)</strong>
+gesenkt, wenn dieser ihren Schaden abwehren will.</p>
+<p>Für <strong>Zwerge</strong> sind Bihänder, Schlachtbeile und Lang-
+oder Elfenbögen auf Grund ihrer Größe zu unhandlich und können nicht von
+ihnen benutzt werden.</p>
+<p>Jeder Charakter kann immer nur einen <strong>Helm</strong>, einen
+<strong>Panzer</strong> und eine Art von <strong>Arm- und
+Beinschienen</strong> tragen. Viele der Rüstungen senken den
+<strong>Initiative</strong>- und/oder <strong>Laufen</strong>-Wert durch
+ihr Gewicht. <strong>Krieger</strong> können alle Rüstungen tragen,
+<strong>Späher</strong> dagegen keine Plattenpanzer.
+<strong>Heiler</strong> dürfen noch Lederpanzer tragen,
+<strong>Zauberer</strong> und <strong>Schwarzmagier</strong> können
+dagegen nur auf Stoffrüstungen wie Roben zurückgreifen. Der Einsatz von
+<strong>Schilden</strong> ist dagegen jedem Charakter möglich, sofern er
+keine Zweihandwaffe (2h) gerade trägt.</p>
+<p>Die Rüstungsbeschränkungen der drei Grundklassen gelten auch für ihre
+jeweiligen Heldenklassen, wobei einige das Talente
+<strong>Gerüstet</strong> erwerben können, mit dem man weitere
+Rüstungsarten tragen kann.</p>
+<h3 id="klassenfremde-rüstung-tragen">KLASSENFREMDE RÜSTUNG TRAGEN</h3>
+<p>Trägt ein Charakter eine Rüstung, die ihm von seiner Klasse her nicht
+gestattet ist, wird ihr PA-Malus auf Zaubern und Zielzauber vervierfacht
+und die Agilität um den PA-Wert gesenkt (dies gilt nicht für Rüstungen,
+die der Charakter durch das Talent <strong>Gerüstet</strong> tragen
+darf).</p>
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 12%" />
+<col style="width: 10%" />
+<col style="width: 16%" />
+<col style="width: 14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>RÜSTUNGEN</th>
+<th style="text-align: center;">STOFF</th>
+<th style="text-align: center;">LEDER</th>
+<th style="text-align: center;">KETTE</th>
+<th style="text-align: center;">PLATTE</th>
+<th style="text-align: center;">HELME</th>
+<th style="text-align: center;">SCHIENEN</th>
+<th style="text-align: center;">SCHILDE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Krieger</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Alle</td>
+<td style="text-align: center;">Alle</td>
+</tr>
+<tr class="even">
+<td>Späher</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Alle</td>
+<td style="text-align: center;">Alle</td>
+</tr>
+<tr class="odd">
+<td>Heiler</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Leder</td>
+<td style="text-align: center;">Alle</td>
+</tr>
+<tr class="even">
+<td>Zauberer</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Alle</td>
+</tr>
+<tr class="odd">
+<td>Schwarzm.</td>
+<td style="text-align: center;">Ja</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Nein</td>
+<td style="text-align: center;">Alle</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><em>Fanwerk für <a
+href="https://www.dungeonslayers.net/">Dungeonslayers</a> (C) Christian
+Kennig | Quelle: GRW S. 40 ff. | Lizenz: <a
+href="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">CC BY-NC-SA
+3.0 DE</a></em></p>
+</div>
+</div>
+<script>
+    // If base href is set, inline anchors (#) will resolve 
+    // to the main page. To prevent this, the link is rewritten
+    // to the local page.
+    document.addEventListener('DOMContentLoaded', function(){
+      var es = document.getElementsByTagName('a')
+      for(var i=0; i<es.length; i++){
+        var link = es[i].getAttribute('href')
+        if (link && link.startsWith('#')) {
+          es[i].addEventListener('click', function(e) {
+          e.preventDefault()
+          document.location.hash = e.target.getAttribute('href')
+        })
+        }
+      }
+    })
+  </script>
+</body>
+</html>

@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE" xml:lang="de-DE">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>charaktere-charaktererschaffung</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/style.css" />
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/layout.css" />
+</head>
+<body>
+  <div id="sidebar">
+    <header>
+      <h1 class="site-title">
+        <a href="http://localhost/f-space/ds4srd/"> DS4 SRD+ </a>
+      </h1>
+      <p class="lead"></p>
+    </header>
+    <nav id="sidebar-nav-links">
+      <ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/index.html">Grundregelwerk</a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html"
+            >Attribute &amp; Eigenschaften</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html#die-kampfwerte"
+            >Die Kampfwerte</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-charaktererschaffung.html"
+            >Charaktererschaffung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-erfahrung.html"
+            >Erfahrung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen.html"
+            >Heldenklassen</a
+          >
+        </li>
+        <ul>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-berserker.html"
+              >Berserker</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-paladin.html"
+              >Paladin</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-waffenmeister.html"
+              >Waffenmeister</a
+            >
+          </li>
+        </ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/talente.html"
+            >Talente</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-beutetabellen.html"
+            >Beutetabellen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-voelkerbaukasten.html"
+            >Völkerbaukasten</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-feuerwaffen.html"
+            >Feuerwaffen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/fanwerke/index.html">Fanwerke</a>
+        </li>
+      </ul>
+    </nav>
+
+    <footer>
+      <nav id="sidebar-project-links">
+        <a
+          class="link"
+          title="Github Project"
+          aria-label="Github Project"
+          href="https://github.com/RoninEighty/Dungeonslayers"
+        >
+          GitHub
+        </a>
+        <a
+          class="link"
+          title="Download"
+          aria-label="Download"
+          href="https://github.com/RoninEighty/Dungeonslayers/archive/refs/heads/main.zip"
+        >
+          ZIP
+        </a>
+      </nav>
+      <div>
+        DS4 SRD+ © 2025
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+          >CC BY-NC-SA 4.0</a
+        >
+      </div>
+      <div>
+        Regelreferenz und Fanwerke für
+        <a href="https://www.dungeonslayers.net" target="_blank"
+          >Dungeonslayers</a
+        >
+        &copy; Christian Kennig.
+      </div>
+    </footer>
+  </div><div class="container">
+<div class="content">
+<h2 id="charaktererschaffung">CHARAKTERERSCHAFFUNG</h2>
+<p>Bevor man einen Charakter erstellt, sollte geklärt sein, welchem Volk
+und welcher Klasse er (oder sie) angehören soll.</p>
+<p><strong>Beispiel</strong>: <em>Als Beispielcharakter dient uns ein
+elfischer Zauberer, da diese Kombination aus Volk und Klasse alle
+Bereiche der Charaktererschaffung abdeckt.</em></p>
+<h3 id="volk-wählen">1. VOLK WÄHLEN</h3>
+<p>Jeder Charakter gehört standardmäßig einem der drei Völker der Elfen,
+Menschen oder Zwerge an. Letztendlich bestimmt aber immer das gespielte
+Setting die Auswahl der spielbaren Völker.</p>
+<h4 id="elfen">ELFEN</h4>
+<p>Die spitzohrigen, schlanken Elfen geben sowohl starke Krieger,
+geschickte Späher als auch talentierte Zauberwirker ab.</p>
+<p><strong>Volksbonus</strong>: BE, GE oder AU</p>
+<p><strong>Volksfähigkeiten</strong>: Leichtfüßig (Schleichen +2),
+Nachtsicht, Unsterblich (Altern kaum, sobald erwachsen; Tod nur durch
+Gewalt)</p>
+<h4 id="menschen">MENSCHEN</h4>
+<p>Die anpassungsfähigen Menschen bringen eine Vielzahl
+unterschiedlichster Kulturen hervor und eignen sich gleichermaßen als
+Krieger, Späher oder Zauberwirker.</p>
+<p><strong>Volksbonus</strong>: Eine beliebige Eigenschaft</p>
+<p><strong>Volksfähigkeiten</strong>: 1 Talentpunkt gratis</p>
+<h4 id="zwerge">ZWERGE</h4>
+<p>Die zähen, oftmals grummeligen Bartträger bevorzugen ein
+Kriegerleben, eignen sich aber auch hervorragend für andere Klassen.</p>
+<p><strong>Volksbonus</strong>: ST, HÄ oder GE</p>
+<p><strong>Volksfähigkeiten</strong>: Dunkelsicht, Langlebig
+(verlangsamtes Altern, sobald erwachsen), Zäh (Abwehr +1)</p>
+<p>Elfen und Zwerge notieren ihre jeweiligen Volksfähigkeiten, Menschen
+erhalten stattdessen ihren ersten Talentpunkt (siehe Seite 9). Der
+Volksbonus wird für die spätere Attributsverteilung benötigt.</p>
+<table>
+<thead>
+<tr class="header">
+<th>VOLK</th>
+<th>VOLKSFÄHIGKEITEN</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Elf</td>
+<td>Leichtfüßig, Nachtsicht, Unsterblich</td>
+</tr>
+<tr class="even">
+<td>Mensch</td>
+<td>1 Talentpunkt</td>
+</tr>
+<tr class="odd">
+<td>Zwerg</td>
+<td>Dunkelsicht, Langlebig, Zäh</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Beispiel</strong>: <em>Auf dem Charakterbogen notieren wir
+unter Volk “Elf” und vermerken die Volksfähigkeiten Leichtfüßig,
+Nachtsicht und Unsterblich</em></p>
+<h3 id="klasse-wählen">2. KLASSE WÄHLEN</h3>
+<p>Nun ist eine der drei Klassen <a
+href="charaktere-klasse-krieger.html">Krieger</a>, <a
+href="charaktere-klasse-spaeher.html">Späher</a> oder Zauberwirker zu
+wählen. Spieler von Zauberwirkern müssen zudem festlegen, ob sie einen
+<a href="charaktere-klasse-heiler.html">Heiler</a>, <a
+href="charaktere-klasse-zauberer.html">Zauberer</a> oder <a
+href="charaktere-klasse-schwarzmagier.html">Schwarzmagier</a> spielen
+möchten, wovon abhängt, welche Arten von Zaubersprüchen der Charakter
+benutzt.</p>
+<h4 id="krieger">KRIEGER</h4>
+<p>Dies sind die Charaktere fürs Grobe. Im Nahkampf meist ganz vorne zu
+finden und gut am schweren Rüstzeug und der Anzahl an brutalen Waffen zu
+erkennen.</p>
+<p><strong>Klassenbonus</strong>: ST oder HÄ</p>
+<h4 id="späher">SPÄHER</h4>
+<p>Schnelligkeit und Heimlichkeit sind die Gebiete des Spähers.
+Bevorzugt wird der Kampf aus der Entfernung und Bogen oder Armbrust sind
+unentbehrliche Begleiter.</p>
+<p><strong>Klassenbonus</strong>: BE oder GE</p>
+<h4 id="zauberwirker">ZAUBERWIRKER</h4>
+<p>Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im
+Schlachtgetümmel aber besser hinten aufhalten.</p>
+<p><strong>Klassenbonus</strong>: VE oder AU</p>
+<ul>
+<li>Heiler - überwiegend defensive Zauber</li>
+<li>Zauberer - offensive und defensive Zauber</li>
+<li>Schwarzmagier - überwiegend offensive Zauber</li>
+</ul>
+<h3 id="attribute-festlegen">3. ATTRIBUTE FESTLEGEN</h3>
+<p>Auf die Attribute Körper, Agilität und Geist werden nun 20 Punkte
+verteilt, wobei kein Wert über 8 sein darf.</p>
+<p><strong>Beispiel</strong>: Geist ordnen wir Wert 8 zu. Dann verteilen
+wir auf Körper und auf Agilität jeweils 6 Punkte.</p>
+<h3 id="eigenschaften-festlegen">4. EIGENSCHAFTEN FESTLEGEN</h3>
+<p>Nun werden 8 Punkte beliebig auf die sechs Eigenschaften verteilt.
+Werte von Null sind möglich, aber kein Eigenschaftswert darf zu diesem
+Zeitpunkt über einen Wert von 4 gesteigert werden.</p>
+<p><strong>Beispiel</strong>: <em>Von den 8 Punkten verteilen wir 2 auf
+die Eigenschaft Härte und Aura, 3 auf Geschick und 1 auf
+Verstand:</em></p>
+<pre><code>Körper: 6   Agilität: 6     Geist: 8
+Stärke: 0   Bewegung: 0     Verstand: 1
+Härte: 2    Geschick: 3     Aura: 2</code></pre>
+<h3 id="volks--klassenbonus">5. VOLKS- &amp; KLASSENBONUS</h3>
+<p>Jeder Charakter erhält, abhängig von Volk und Klasse, zwei
+Gratispunkte auf seine Eigenschaften, wodurch nun auch Werte über 4
+möglich sind:</p>
+<table>
+<thead>
+<tr class="header">
+<th>VOLK</th>
+<th>VOLKSBONUS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Elf</td>
+<td>Bewegung, Geschick oder Aura +1</td>
+</tr>
+<tr class="even">
+<td>Mensch</td>
+<td>Eine beliebige Eigenschaft +1</td>
+</tr>
+<tr class="odd">
+<td>Zwerg</td>
+<td>Stärke, Härte oder Geschick +1</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th>KLASSE</th>
+<th>KLASSENBONUS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Krieger</td>
+<td>Stärke oder Härte +1</td>
+</tr>
+<tr class="even">
+<td>Späher</td>
+<td>Bewegung oder Geschick +1</td>
+</tr>
+<tr class="odd">
+<td>Zauberw.</td>
+<td>Verstand oder Aura +1</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Beispiel</strong>: <em>Als elfischer Zauberwirker steigern
+wir Geschick und Aura um jeweils +1 und verändern entsprechend die
+beiden Werte:</em></p>
+<pre><code>Körper: 6   Agilität: 6     Geist: 8
+Stärke: 0   Bewegung: 0     Verstand: 1
+Härte: 2    Geschick: 4     Aura: 3</code></pre>
+<h3 id="der-erste-zauberspruch">6. DER ERSTE ZAUBERSPRUCH</h3>
+<p>Zauberwirker erlernen nun Zauberspruch der ersten Stufe. einen Die
+möglichen Zaubersprüche, aus denen man wählen kann, hängen davon ab, ob
+der Charakter ein Heiler, Zauberer oder Schwarzmagier ist:</p>
+<h4 id="heilersprüche-der-1.-stufe">HEILERSPRÜCHE DER 1. STUFE</h4>
+<p>Blenden, Giftschutz, Heilbeeren, Heilende Aura, Heilende Hand, Licht,
+Magie entdecken, Magische Waffe, Niesanfall, Tiere besänftigen,
+Verteidigung, Vertreiben, Wasser weihen</p>
+<h4 id="zauberersprüche-der-1.-stufe">ZAUBERERSPRÜCHE DER 1. STUFE</h4>
+<p>Duftnote, Feuerstrahl, Licht, Magie entdecken/identifizieren,
+Magische Waffe, Magisches Schloss, Öffnen, Zaubertrick</p>
+<h4 id="schwarzmagiersprüche-der-1.-stufe">SCHWARZMAGIERSPRÜCHE DER 1.
+STUFE</h4>
+<p>Feuerstrahl, Magie entdecken/identifizieren, Magische Waffe,
+Magisches Schloss, Öffnen, Zaubertrick</p>
+<p><strong>Beispiel</strong>: <em>Unser Elfenzauberer erlernt den
+Zauberspruch Feuerstrahl, der für Zauberer ab der ersten Stufe
+zugänglich ist.</em></p>
+<h3 id="ausrüstung">7. AUSRÜSTUNG</h3>
+<p>Jeder Charakter verfügt zu Beginn neben einfacher Kleidung,
+Feuerstein &amp; Zunder, einem Wasserschlauch, zweimal Heilkraut, einer
+Decke und einem Rucksack oder einer Tragetasche auch über 10 Goldmünzen
+(GM), für die er nun mit weiterer Ausrüstung ausgestattet werden kann.
+Listen mit Waren und ihren Preisen beginnen ab Seite 78.</p>
+<p><strong>Beispiel</strong>: <em>Wir notieren auf der zweiten Seite des
+Charakterbogens die Grundausrüstung (einfache Kleidung, Feuerstein &amp;
+Zunder, einen Wasserschlauch, eine Decke und eine Tragetasche) und
+kaufen für 8 Goldmünzen eine runenbestickte Robe (PA +0, Aura +1) und
+für 5 Silbermünzen noch einen Kampfstab (WB+1, Zielzauber +1).</em></p>
+<p>Die restlichen Münzen sparen wir, schließlich kann etwas Kleingeld
+immer nützlich sein.</p>
+<h3 id="kampfwerte">8. KAMPFWERTE</h3>
+<p>Die Formeln, aus denen sich die Kampfwerte errechnen, beziehen sich
+immer auf die aktuellen Werte des Charakters und müssen bei Änderungen
+ebenfalls sofort angepasst werden:</p>
+<h4 id="kampfwerte-1">KAMPFWERTE</h4>
+<pre><code>Lebenskraft = KÖR + HÄ + 10
+Abwehr = KÖR + HÄ + PA
+Initiative = AGI + BE
+Laufen = AGI/2 + 1
+Schlagen = KÖR + ST + WB
+Schießen = AGI + GE + WB
+Zaubern = GEI + AU + ZB - PA
+Zielzauber = GEI + GE + ZB – PA</code></pre>
+<p><strong>Beispiel</strong>: <em>Nun werden die fünf Kampfwerte
+ermittelt, in die auch der ZB des Zauberspruchs (Feuerstrahl: Zielzauber
++1) und die erworbene Ausrüstung mit ihren Boni (AU 1, WB+1, Zielzauber
++1) einfließen. Nachdem wir alle Werte errechnet haben, erhalten wir
+folgende Kampfwerte:</em></p>
+<pre><code>Lebenskraft 18, Abwehr 8, Initiative 6, Laufen 4m, Schlagen 7, Schießen 10, Zaubern 12 und Zielzauber 14.</code></pre>
+<p><em>Eine detaillierte Aufschlüsselung der Werte des
+Beispielcharakters findest Du auf Seite 7.</em></p>
+<h3 id="talente-in-der-ersten-stufe">TALENTE IN DER ERSTEN STUFE</h3>
+<h4 id="für-alle-klassen">FÜR ALLE KLASSEN</h4>
+<ul>
+<li>Ausweichen</li>
+<li>Bildung</li>
+<li>Charmant</li>
+<li>Diener der Dunkelheit</li>
+<li>Diener des Lichts</li>
+<li>Einstecker</li>
+<li>Genesung</li>
+<li>Glückspilz</li>
+<li>Handwerk</li>
+<li>Instrument</li>
+<li>Magieresistent</li>
+<li>Reiten</li>
+<li>Schlitzohr</li>
+<li>Schnelle Reflexe</li>
+<li>Schwimmen</li>
+<li>Wahrnehmung</li>
+<li>Wissensgebiet</li>
+</ul>
+<h4 id="für-krieger">FÜR KRIEGER</h4>
+<ul>
+<li>Blocker</li>
+<li>Kämpfer</li>
+<li>Parade</li>
+<li>Standhaft</li>
+<li>Zwei Waffen</li>
+<li>FÜR SPÄHER:</li>
+<li>Akrobat</li>
+<li>Diebeskunst</li>
+<li>Flink</li>
+<li>Heimlichkeit</li>
+<li>Jäger</li>
+<li>Schütze</li>
+</ul>
+<h4 id="für-alle-zauberwirker">FÜR ALLE ZAUBERWIRKER</h4>
+<ul>
+<li>Alchemie</li>
+<li>Runenkunde</li>
+<li>Umdenken</li>
+<li>Wechsler</li>
+</ul>
+<h4 id="für-heiler">FÜR HEILER</h4>
+<ul>
+<li>Fürsorger</li>
+<li>Manipulator</li>
+<li>Rüstzauberer</li>
+</ul>
+<h4 id="für-schwarzmagier">FÜR SCHWARZMAGIER</h4>
+<ul>
+<li>Feuermagie</li>
+</ul>
+<h3 id="talent-wählen">9. TALENT WÄHLEN</h3>
+<p>Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen
+verfügen somit also schon über 2TP. TP werden gespart oder in Talente
+(siehe Seite 17) investiert, sofern der Charaktere die jeweiligen
+Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt.
+Jedes der Talente kostet 1TP.</p>
+<p><strong>Beispiel</strong>: Für einen Talentpunkt erwirbt unser
+Elfenzauberer das Talent Bildung, das jeder Charakter ab der 1. Stufe
+erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig,
+was noch fehlt, ist etwas Persönlichkeit.</p>
+<h3 id="letzte-schliffe">10. LETZTE SCHLIFFE</h3>
+<p>Zu guter Letzt muss das Geschlecht bestimmt und ein Name für den
+Charakter gefunden werden.</p>
+<p>Jeder Charakter beherrscht seine Muttersprache und erhält einen
+weiteren Punkt für eine Sprache oder Schriftzeichen, wobei man die
+Gemeinsprache des Settings nicht vergessen sollte.Charaktere mit GEI 6+
+beherrschen automatisch die Schriftzeichen aller Sprachen, die sie zu
+Beginn sprechen können (siehe Seite 88).</p>
+<p>Abschließend wird notiert, dass der Charakter in der ersten Stufe
+ist, über Null Erfahrungspunkte (EP) und Lernpunkte (LP) verfügt und
+wieviel Talentpunkte (TP) er derzeit noch besitzt.</p>
+<p>Überdies kann man in Absprache mit dem Spielleiter überlegen, wo der
+Charakter herkommt, wie er aufgewachsen ist und warum er auf Abenteuer
+auszog.</p>
+<p>Woran glaubt er und was hat er für Ideale? Ist er ein verlässlicher
+Gefolgsmann oder entscheidet er je nach Situation, wem er die Treue
+hält? Speziell die letzten Fragen können sich auch erst mit der Zeit im
+Spielverlauf klären oder sogar ändern.</p>
+<p>So oder so ist der Charakter nun bereit für sein erstes
+Abenteuer.</p>
+<hr />
+<p><em>Fanwerk für <a
+href="https://www.dungeonslayers.net/">Dungeonslayers</a> (C) Christian
+Kennig | Quelle: GRW S. 3 ff.| Lizenz: <a
+href="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">CC BY-NC-SA
+3.0 DE</a></em></p>
+</div>
+</div>
+<script>
+    // If base href is set, inline anchors (#) will resolve 
+    // to the main page. To prevent this, the link is rewritten
+    // to the local page.
+    document.addEventListener('DOMContentLoaded', function(){
+      var es = document.getElementsByTagName('a')
+      for(var i=0; i<es.length; i++){
+        var link = es[i].getAttribute('href')
+        if (link && link.startsWith('#')) {
+          es[i].addEventListener('click', function(e) {
+          e.preventDefault()
+          document.location.hash = e.target.getAttribute('href')
+        })
+        }
+      }
+    })
+  </script>
+</body>
+</html>

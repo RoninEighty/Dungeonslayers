@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE" xml:lang="de-DE">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>spielleitung-reisen-transport</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/style.css" />
+  <link rel="stylesheet" href="http://localhost/f-space/ds4srd/styles/layout.css" />
+</head>
+<body>
+  <div id="sidebar">
+    <header>
+      <h1 class="site-title">
+        <a href="http://localhost/f-space/ds4srd/"> DS4 SRD+ </a>
+      </h1>
+      <p class="lead"></p>
+    </header>
+    <nav id="sidebar-nav-links">
+      <ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/index.html">Grundregelwerk</a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html"
+            >Attribute &amp; Eigenschaften</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-attribute-eigenschaften.html#die-kampfwerte"
+            >Die Kampfwerte</a
+          >
+        </li>
+        <li>
+          <a
+            class="link"
+            href="http://localhost/f-space/ds4srd/grw/charaktere-charaktererschaffung.html"
+            >Charaktererschaffung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-erfahrung.html"
+            >Erfahrung</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen.html"
+            >Heldenklassen</a
+          >
+        </li>
+        <ul>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-berserker.html"
+              >Berserker</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-paladin.html"
+              >Paladin</a
+            >
+          </li>
+          <li>
+            <a
+              class="link"
+              href="http://localhost/f-space/ds4srd/grw/charaktere-heldenklassen-waffenmeister.html"
+              >Waffenmeister</a
+            >
+          </li>
+        </ul>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/talente.html"
+            >Talente</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-beutetabellen.html"
+            >Beutetabellen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-voelkerbaukasten.html"
+            >Völkerbaukasten</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/grw/anhang-feuerwaffen.html"
+            >Feuerwaffen</a
+          >
+        </li>
+        <li>
+          <a class="link" href="http://localhost/f-space/ds4srd/fanwerke/index.html">Fanwerke</a>
+        </li>
+      </ul>
+    </nav>
+
+    <footer>
+      <nav id="sidebar-project-links">
+        <a
+          class="link"
+          title="Github Project"
+          aria-label="Github Project"
+          href="https://github.com/RoninEighty/Dungeonslayers"
+        >
+          GitHub
+        </a>
+        <a
+          class="link"
+          title="Download"
+          aria-label="Download"
+          href="https://github.com/RoninEighty/Dungeonslayers/archive/refs/heads/main.zip"
+        >
+          ZIP
+        </a>
+      </nav>
+      <div>
+        DS4 SRD+ © 2025
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+          >CC BY-NC-SA 4.0</a
+        >
+      </div>
+      <div>
+        Regelreferenz und Fanwerke für
+        <a href="https://www.dungeonslayers.net" target="_blank"
+          >Dungeonslayers</a
+        >
+        &copy; Christian Kennig.
+      </div>
+    </footer>
+  </div><div class="container">
+<div class="content">
+<h2 id="reisen-transport">REISEN &amp; TRANSPORT</h2>
+<p>Die folgende Tabelle listet auf, wie weit eine Reisegruppe
+durchschnittlich in 12 Stunden (Pausen einkalkuliert) voran kommt,
+abhängig von ihrer durchschnittlichen Transportgeschwindigkeit, dem
+Gelände und anderen Umständen:</p>
+<table>
+<thead>
+<tr class="header">
+<th>AN LAND/12H</th>
+<th style="text-align: center;">EBENE</th>
+<th style="text-align: center;">UNWEGSAM</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Zu Fuß/Karren</td>
+<td style="text-align: center;">40km</td>
+<td style="text-align: center;">25km</td>
+</tr>
+<tr class="even">
+<td>Ochsenwagen</td>
+<td style="text-align: center;">30km</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="odd">
+<td>Pferd (Schritt)</td>
+<td style="text-align: center;">55km</td>
+<td style="text-align: center;">35km</td>
+</tr>
+<tr class="even">
+<td>Pferd (Halbtrab)</td>
+<td style="text-align: center;">80km</td>
+<td style="text-align: center;">55km</td>
+</tr>
+<tr class="odd">
+<td>Pferd (Galopp)</td>
+<td style="text-align: center;">100km*</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="even">
+<td>Kutsche</td>
+<td style="text-align: center;">85km</td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+<p>*: Dauert (15-AGI)h, nach (KÖR/2)h aber KÖR+HÄ alle 15 Minuten (im
+Trab alle 30), sonst totgeritten.</p>
+<table>
+<thead>
+<tr class="header">
+<th>AUF DEM FLUSS/12H</th>
+<th style="text-align: center;">STROMAUF</th>
+<th style="text-align: center;">STROMAB</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Floß</td>
+<td style="text-align: center;">15km</td>
+<td style="text-align: center;">50km</td>
+</tr>
+<tr class="even">
+<td>Paddelboot</td>
+<td style="text-align: center;">25km</td>
+<td style="text-align: center;">80km</td>
+</tr>
+<tr class="odd">
+<td>Fischerboot</td>
+<td style="text-align: center;">40km</td>
+<td style="text-align: center;">130km</td>
+</tr>
+<tr class="even">
+<td>Ruderboot</td>
+<td style="text-align: center;">80km</td>
+<td style="text-align: center;">180km</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th>AUF DEM MEER</th>
+<th style="text-align: center;">12H</th>
+<th style="text-align: center;">WETTER</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Floß</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">(W20-10) x 10%</td>
+</tr>
+<tr class="even">
+<td>Ruderboot</td>
+<td style="text-align: center;">90</td>
+<td style="text-align: center;">(W20-5) x 10%</td>
+</tr>
+<tr class="odd">
+<td>Segelboot</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">(W20-10) x 15%</td>
+</tr>
+<tr class="even">
+<td>Kriegsschiff</td>
+<td style="text-align: center;">130</td>
+<td style="text-align: center;">(W20-5) x 15%</td>
+</tr>
+</tbody>
+</table>
+<h3 id="transport">TRANSPORT</h3>
+<p>Fahrzeuge und Schiffe haben eigenständige Geschwindigkeiten. Karren,
+Wagen, Kutschen und andere Landfahrzeuge bewegen sich auf offener Ebene
+ohne Straße nur mit halbierter Geschwindigkeit voran, auf unwegsamerem
+Gelände können sie (bis auf Karren) überhaupt nicht fahren. Auf offener
+See beeinträchtigt das Wetter mit Flauten und Winden die
+Geschwindigkeit.</p>
+<h3 id="reisen-zu-pferd">REISEN ZU PFERD</h3>
+<p>Charaktere, die das Talent <strong>Reiten</strong> nicht beherrschen,
+können sich nur in der Geschwindigkeit <strong>Schritt</strong> (=
+Laufen x 1) ohne Probleme fortbewegen. Während dauerhaftes Galopp ihnen
+überhaupt nicht möglich ist, können sie mit einer ReitenProbe pro Stunde
+versuchen zu traben.</p>
+<p>Hat ein Charakter das Talent <strong>Reiten</strong> erlernt, kann er
+mit seinem Pferd problemlos im <strong>Trab</strong> (=Laufen x 1,5)
+reiten und sogar für eine Anzahl von Stunden gleich dem halbierten
+KÖR-Wert des Reittieres <strong>galoppieren</strong> (Laufen x 2). Auf
+unwegsamem Gelände wird diese Zeit halbiert, während in schwierigen
+Gelände ein Galopp überhaupt nicht möglich ist. Wird ein Reittier über
+die erlaubte Zeit hinaus zum Galopp angetrieben, würfelt es pro
+Viertelstunde KÖR+HÄ, um nicht vor Erschöpfung zu verenden.</p>
+<h3 id="reisetempo-optional">REISETEMPO (OPTIONAL)</h3>
+<p>Wer es genauer mag oder bei Verfolgung oder unter Zeitdruck die
+Reisegeschwindigkeit ganz genau wissen muss, verwendet die folgenden,
+detaillierteren Regeln:</p>
+<h3 id="gelände">GELÄNDE</h3>
+<p>Wer nicht auf <strong>offener Ebene oder einer Straße</strong> reist,
+sondern bewaldetes oder hügeliges Gebiet durchquert, befindet sich auf
+<strong>unwegsamen Gelände</strong>.</p>
+<p>Bei <strong>schwierigem Gelände</strong> handelt es sich dagegen um
+bewaldete Hügel, tückische Sümpfe oder schroffe Gebirgslandschaften.</p>
+<h3 id="schwer-beladene-charaktere">SCHWER BELADENE CHARAKTERE</h3>
+<p>Während man im Kampf Ranzen und Gepäck schnell fallen lassen kann,
+wirkt sich die Traglast auf die Reisegeschwindigkeit aus.</p>
+<p>Bei Charakteren, die schwer beladen sind (sei es, weil sie mit
+Schatztruhen, gestohlenen Statuen oder auch verletzten Kameraden durch
+die Gegend laufen), wird die <strong>Reisegeschwindigkeit
+halbiert</strong>.</p>
+<p>Reittiere mit mehr als einem (ausgerüsteten) Reiter gelten ebenfalls
+als schwer beladen</p>
+<h3 id="tatsächliches-reisetempo">TATSÄCHLICHES REISETEMPO</h3>
+<p>Die folgende Tabelle verrät, wieviel <strong>Kilometer in einer
+Stunde</strong>, abhängig vom Gelände, zurückgelegt werden.</p>
+<p>Als Grundlage dient dabei immer der Laufen-Wert des langsamsten
+Mitglieds in der Reisegesellschaft.</p>
+<p>Berittene Charaktere verwenden immer den Laufen-Wert ihres
+Reittieres.</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">LAUFEN</th>
+<th style="text-align: center;">EBENE</th>
+<th style="text-align: center;">UNWEGSAM</th>
+<th style="text-align: center;">SCHWIERIG</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1,5m</td>
+<td style="text-align: center;">1,6km / h</td>
+<td style="text-align: center;">1,1km / h</td>
+<td style="text-align: center;">0,5km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2m</td>
+<td style="text-align: center;">2,2km / h</td>
+<td style="text-align: center;">1,4km / h</td>
+<td style="text-align: center;">0,7km / h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">2,5m</td>
+<td style="text-align: center;">2,7km / h</td>
+<td style="text-align: center;">1,8km / h</td>
+<td style="text-align: center;">0,9km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">3m</td>
+<td style="text-align: center;">3,2km / h</td>
+<td style="text-align: center;">2,2km / h</td>
+<td style="text-align: center;">1,1km / h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3,5m</td>
+<td style="text-align: center;">3,8km / h</td>
+<td style="text-align: center;">2,5km / h</td>
+<td style="text-align: center;">1,3km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">4m</td>
+<td style="text-align: center;">4,3km / h</td>
+<td style="text-align: center;">2,9km / h</td>
+<td style="text-align: center;">1,4km / h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">4,5m</td>
+<td style="text-align: center;">4,9km / h</td>
+<td style="text-align: center;">3,2km / h</td>
+<td style="text-align: center;">1,6km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">5m</td>
+<td style="text-align: center;">5,4km / h</td>
+<td style="text-align: center;">3,6km / h</td>
+<td style="text-align: center;">1,8km / h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">5,5m</td>
+<td style="text-align: center;">5,9km / h</td>
+<td style="text-align: center;">4,0km / h</td>
+<td style="text-align: center;">2,0km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">6m</td>
+<td style="text-align: center;">6,5km / h</td>
+<td style="text-align: center;">4,3km / h</td>
+<td style="text-align: center;">2,2km / h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">6,5m</td>
+<td style="text-align: center;">7,0km / h</td>
+<td style="text-align: center;">4,7km / h</td>
+<td style="text-align: center;">2,3km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">7m</td>
+<td style="text-align: center;">7,6km / h</td>
+<td style="text-align: center;">5,0km / h</td>
+<td style="text-align: center;">2,5km / h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">7,5m</td>
+<td style="text-align: center;">8,1km / h</td>
+<td style="text-align: center;">5,4km / h</td>
+<td style="text-align: center;">2,7km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">8m</td>
+<td style="text-align: center;">8,6km / h</td>
+<td style="text-align: center;">5,8km / h</td>
+<td style="text-align: center;">2,9km / h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">8,5m</td>
+<td style="text-align: center;">9,2km / h</td>
+<td style="text-align: center;">6,1km / h</td>
+<td style="text-align: center;">3,1km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">9m</td>
+<td style="text-align: center;">9,7km / h</td>
+<td style="text-align: center;">6,5km / h</td>
+<td style="text-align: center;">3,2km / h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">9,5m</td>
+<td style="text-align: center;">10,3km / h</td>
+<td style="text-align: center;">6,8km / h</td>
+<td style="text-align: center;">3,4km / h</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10m</td>
+<td style="text-align: center;">10,8km / h</td>
+<td style="text-align: center;">7,2km / h</td>
+<td style="text-align: center;">3,6km / h</td>
+</tr>
+</tbody>
+</table>
+<h3 id="eilmärsche">EILMÄRSCHE</h3>
+<p>Wer es besonders eilig hat, versucht sich so oft wie möglich im
+Dauerlauf fortzubewegen.</p>
+<p>Dadurch kann man täglich für maximal eine Anzahl von Stunden gleich
+dem halbierten KÖR-Wert die <strong>Reisegeschwindigkeit um 50%
+erhöhen</strong>.</p>
+<p>Allerdings wird anschliessend für jede Stunde, die man geeilt ist,
+die sonstige Reisegeschwindigkeit für eine halbe Stunde halbiert.</p>
+<h3 id="gewaltmärsche">GEWALTMÄRSCHE</h3>
+<p>Eine typische Reisegruppe reist im Durchschnitt 12 Stunden pro Tag,
+in denen insgesamt 2 Stunden gerastet wird (also 10 Stunden reine
+Reisezeit täglich).</p>
+<p>Charaktere und Reittiere, die mehr als 10 Stunden an einem Tag
+reisen, würfeln pro zusätzliche Stunde KÖR+HÄ, sonst erhalten sie
+jeweils einen Punkt Erschöpfungsschaden, der nur durch natürlichen
+Schlaf auskuriert werden kann.</p>
+<hr />
+<p><em>Fanwerk für <a
+href="https://www.dungeonslayers.net/">Dungeonslayers</a> (C) Christian
+Kennig | Quelle: GRW S. 86 ff. | Lizenz: <a
+href="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">CC BY-NC-SA
+3.0 DE</a></em></p>
+</div>
+</div>
+<script>
+    // If base href is set, inline anchors (#) will resolve 
+    // to the main page. To prevent this, the link is rewritten
+    // to the local page.
+    document.addEventListener('DOMContentLoaded', function(){
+      var es = document.getElementsByTagName('a')
+      for(var i=0; i<es.length; i++){
+        var link = es[i].getAttribute('href')
+        if (link && link.startsWith('#')) {
+          es[i].addEventListener('click', function(e) {
+          e.preventDefault()
+          document.location.hash = e.target.getAttribute('href')
+        })
+        }
+      }
+    })
+  </script>
+</body>
+</html>
