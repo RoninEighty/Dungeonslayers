@@ -1,3 +1,13 @@
+:root {
+  --bg-color: white;
+  --text-color: black;
+  --sidebar-bg-color: black;
+  --sidebar-text-color: white;
+  /*
+   --text-color: #515151;
+   */
+}
+
 @font-face {
   font-family: "Woodstamp";
   src: url("https://www.f-space.de/fonts/woodstamp-webfont.ttf")
@@ -43,14 +53,52 @@ html {
   line-height: 1.5;
 }
 
-@media (min-width: 49rem) {
-  html {
-    font-size: 1.25rem;
-  }
-}
-
 body {
   text-size-adjust: 100%;
+  background-color: var(--sidebar-bg-color);
+  color: var(--sidebar-text-color);
+  /*background-color: #202020;*/
+  /*background-image: linear-gradient(to bottom, #323232, #0e0e0e);*/
+}
+
+.content {
+  background: var(--bg-color);
+  color: var(--text-color);
+}
+
+#sidebar a {
+  color: var(--sidebar-text-color);
+  text-decoration: none;
+}
+
+#sidebar a:hover,
+#sidebar a:focus {
+  text-decoration: none;
+  border-bottom: 1px dashed var(--sidebar-text-color);
+}
+
+#sidebar a:hover.icon,
+#sidebar a:focus.icon {
+  text-decoration: none;
+}
+
+#sidebar a.active {
+  font-weight: bold;
+}
+
+#sidebar .site-title {
+  color: var(--sidebar-text-color);
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+#sidebar .site-title a {
+  text-decoration: none;
+  font-size: inherit;
+}
+
+#sidebar footer {
+  /**/
 }
 
 h1 {
@@ -127,4 +175,28 @@ th {
 td {
   border: 1.5px solid black;
   padding: 0.2rem;
+}
+
+/* Desktop and Tablets */
+@media (min-width: 49rem) {
+  html {
+    /*font-size: 1.25rem;*/
+  }
+
+  #sidebar .site-title {
+    font-size: 4rem;
+  }
+
+  #sidebar .site-title a {
+    font-size: inherit;
+  }
+
+  .container {
+    background: #fff;
+    color: #515151;
+  }
+
+  .container > header {
+    color: #313131;
+  }
 }
