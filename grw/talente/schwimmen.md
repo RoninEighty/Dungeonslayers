@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 1 [3]
-  - ZAW 1 [3]
+  - KRI 1 (III)
+  - SPÄ 1 (III)
+  - ZAW 1 (III)
 
 Der Charakter kann schwimmen (siehe Seite 93) und erhält pro Talentrang auf alle diesbezüglichen Proben +3.
 

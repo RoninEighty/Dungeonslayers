@@ -12,8 +12,8 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - Hei 1 [3]
-  - PAL 10 [3]
+  - Hei 1 (III)
+  - PAL 10 (III)
 
 Der Charakter ist geübt im Umgang mit heilender und schützender Magie. Er erhält auf alle Heil-und Schutzzauber +1 pro Talentrang.
 

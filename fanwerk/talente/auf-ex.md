@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 4 [3]
-  - SPÄ 4 [3]
-  - ZAW 4 [3]
+  - KRI 4 (III)
+  - SPÄ 4 (III)
+  - ZAW 4 (III)
 
 Einmal pro Kampf pro Talentrang kann der Charakter einen Trank aktionsfrei trinken. Dafür gilt in dieser Runde sein Laufen-Wert als 0.
 

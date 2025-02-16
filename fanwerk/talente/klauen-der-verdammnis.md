@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - DÄM 16 [3]
+  - DÄM 16 (III)
 
 Vom Charakter beschworene Dämonen haben besonders grausame Klauen. Gegnerische Abwehr gegen ihre natürlichen Angriffe wird um zusätzlich -1 pro Talentrang gesenkt.
 

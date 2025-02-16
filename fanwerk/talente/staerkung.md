@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - Zau 12 [3]
-  - Hei 8 [5]
-  - ERZ 16 [5]
+  - Zau 12 (III)
+  - Hei 8 (V)
+  - ERZ 16 (V)
 
 Pro Talentrang kann der Charakter einmal alle 24 Stunden einen stärkenden Segen in einen Zauber einweben, der allen Zielen, an denen er Wirkung zeigt, einen Bonus von 1 auf alle Würfe gewährt für eine Anzahl von Runden gleich dem Talentrang. Der Einsatz des Talents muss vor dem Zaubern-Wurf angesagt werden. Die Anwendung dieses Talents muss vor der Zauberprobe angekündigt werden und ist bei einem Misserfolg verbraucht.
 

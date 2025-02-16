@@ -12,12 +12,12 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [5]
-  - SPÄ 1 [5]
-  - ZAW 1 [5]
-  - ATT 10 [10]
-  - MDB 10 [10]
-  - WDL 10 [10]
+  - KRI 1 (V)
+  - SPÄ 1 (V)
+  - ZAW 1 (V)
+  - ATT 10 (X)
+  - MDB 10 (X)
+  - WDL 10 (X)
 
 Der Charakter ist ein aufmerksamer Beobachter. Auf alle Bemerken-Proben erhält er +2 pro Talentrang.
 

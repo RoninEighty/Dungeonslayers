@@ -12,14 +12,14 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 1 [3]
-  - ZAW 4 [3]
-  - ATT 12 [5]
-  - BLU 12 [5]
-  - DRU 10 [5]
-  - KMÖ 14 [5]
-  - PAL 10 [5]
+  - KRI 1 (III)
+  - SPÄ 1 (III)
+  - ZAW 4 (III)
+  - ATT 12 (V)
+  - BLU 12 (V)
+  - DRU 10 (V)
+  - KMÖ 14 (V)
+  - PAL 10 (V)
 
 Der Charakter ist besonders widerstandsfähig gegen Gift und Krankheiten und erhält 2 pro Talentrang auf alle Gift/Krankheit trotzen Würfe.
 

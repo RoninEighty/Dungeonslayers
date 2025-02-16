@@ -12,11 +12,11 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 8 [3]
-  - ZAW 12 [3]
-  - WAM 10 [5]
-  - KRZ 10 [5]
+  - KRI 1 (III)
+  - SPÄ 8 (III)
+  - ZAW 12 (III)
+  - WAM 10 (V)
+  - KRZ 10 (V)
 
 Der Charakter hat gelernt, die Nahkampfangriffe seiner Gegner zu parieren. Sofern er eine Nahkampfwaffe gezogen hat, erhält der Charakter pro Talentrang +1 auf seine Abwehr gegen jeden Nahkampfangriff, dessen er sich bewusst ist und der nicht von hinten erfolgt.
 

@@ -12,12 +12,12 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 4 [3]
-  - Hei 8 [3]
-  - KLE 10 [5]
-  - KRZ 10 [5]
-  - PAL 10 [5]
+  - KRI 1 (III)
+  - SPÄ 4 (III)
+  - Hei 8 (III)
+  - KLE 10 (V)
+  - KRZ 10 (V)
+  - PAL 10 (V)
 
 Der Charakter versteht es, im Kampf seinen Schild geschickt einzusetzen. In jeder Kampfrunde, in der er keine offensive Handlung unternimmt, dabei einen Schild führt und sich nicht einen Schritt bewegt, erhält er pro Talentrang +2 auf seine Abwehr gegen alle Angriffe, derer er sich bewusst ist und die nicht von hinten erfolgen. Zusätzlich kann er mit demselben Bonus KÖR+HÄ aktionsfrei würfeln, um im Kampf nicht zurückgedrängt zu werden (siehe Seite 44). Einmal pro Kampf kann ein Blocker pro Talentrang einen Patzer bei der Abwehr wiederholen, auch wenn er gerade eine offensiv Handlung unternimmt.
 

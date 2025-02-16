@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - BLU 10 [3]
-  - DÄM 12 [3]
-  - NEK 14 [3]
+  - BLU 10 (III)
+  - DÄM 12 (III)
+  - NEK 14 (III)
 
 Pro Talentrang erhält der Charakter permanent einen magischen Bonus von +2 auf seine Abwehr. Die gesamte Haut des Charakters ist nach diesem Ritual durch vernarbte Runen entstellt, was ihm bei Proben auf soziale Interaktion einen Malus von -1 pro Talentrang einbringt. Außerdem hat das Ritual seinen Preis: Der Charakter verliert pro Talentrang permanent 1 Punkt Lebenskraft (LK).
 

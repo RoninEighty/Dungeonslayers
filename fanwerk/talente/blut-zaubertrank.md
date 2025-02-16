@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - BLU 12 [5]
+  - BLU 12 (V)
 
 Du kannst einer anderen Kreatur von deinem eigenen Blut im Wert von bis zu Talentrang in LK zu Trinken geben. Dadurch kannst du Punkte im Wert von bis zu 2x der eingesetzten LK auf die Kampfwerte der Zielkreatur verteilen. Die Wirkung hält bis zum Ende des nächsten Kampfes. Eine Kreatur kann nur von einem Blut-Zaubertrank gleichzeitig profitieren.
 

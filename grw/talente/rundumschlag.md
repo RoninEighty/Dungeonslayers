@@ -12,8 +12,8 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - BER 14 [3]
-  - KMÖ 16 [3]
+  - BER 14 (III)
+  - KMÖ 16 (III)
 
 Der Charakter kann mit einer Zweihandwaffe per Rundumschlag pro Talentrang einen weiteren, angrenzende Gegner mit seinem Schlag treffen. Für jeden weiteren Feind, den er per Rundumschlag treffen will, wird der Schlagen-Wert (es wird nur eine einzige Probe für den ganzen Rundumschlag gewürfelt) um 1 und die Abwehr um 2 gesenkt, bis der Charakter wieder an der Reihe ist. Kampfmönche können dieses Talent nur waffenlos in Verbindung mit dem Talent Waffenloser Meister benutzen. Dabei kann der Talentrang von Rundumschlag nie höher sein als der von Waffenloser Meister.
 

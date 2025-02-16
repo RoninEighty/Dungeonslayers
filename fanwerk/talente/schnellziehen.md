@@ -12,11 +12,11 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 4 [3]
-  - SPÄ 1 [3]
-  - ATT 10 [5]
-  - KRZ 12 [3]
-  - WAM 10 [5]
+  - KRI 4 (III)
+  - SPÄ 1 (III)
+  - ATT 10 (V)
+  - KRZ 12 (III)
+  - WAM 10 (V)
 
 Sei schnell oder sei tot! Pro Talentrang kannst du einmal alle 24 Stunden aktionsfrei eine Waffe ziehen oder wechseln.
 

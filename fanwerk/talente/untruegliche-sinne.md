@@ -12,12 +12,12 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 1 [3]
-  - ZAW 1 [3]
-  - BÜR 4 [3]
-  - MDB 10 [5]
-  - WDL 10 [5]
+  - KRI 1 (III)
+  - SPÄ 1 (III)
+  - ZAW 1 (III)
+  - BÜR 4 (III)
+  - MDB 10 (V)
+  - WDL 10 (V)
 
 Einmal pro Tag pro Talentrang kannst du deinen GEI-Wert auf einen Wahrnehmungswurf hinzuzählen, vorausgesetzt, du suchst, lauschst, witterst, spähst etc. aktiv nach irgendetwas. Du kannst mehrere Talentränge in einem Wurf vereinen.
 

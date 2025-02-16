@@ -12,10 +12,10 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 8 [3]
-  - KLE 12 [3]
-  - KRZ 10 [3]
-  - PAL 12 [5]
+  - KRI 8 (III)
+  - KLE 12 (III)
+  - KRZ 10 (III)
+  - PAL 12 (V)
 
 Sofern der Charakter einen Schild bereit hat, wird der Schaden von nicht abwehrbaren Flächeneffekten für ihn um den PA-Bonus seines Schildes den Talentrang reduziert.
 

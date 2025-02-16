@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KMÖ 14 [3]
-  - KLE 10 [3]
-  - PAL 12 [3]
+  - KMÖ 14 (III)
+  - KLE 10 (III)
+  - PAL 12 (III)
 
 Pro Talentrang kann der Charakter einmal alle 24 Stunden einen Nahkampfangriff gegen einen Untoten führen, der nicht abgewehrt werden kann. Vor dem Angriffswurf muss angesagt werden, dass das Talent zum Einsatz kommen soll, welches mit Talenten wie Brutaler Hieb und/oder Vergeltung kombiniert werden kann.
 

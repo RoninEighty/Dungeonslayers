@@ -12,11 +12,11 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - ZAW 4 [3]
-  - HEI 10 [5]
-  - ERZ 10 [5]
-  - NEK 10 [5]
-  - PAL 10 [1]
+  - ZAW 4 (III)
+  - HEI 10 (V)
+  - ERZ 10 (V)
+  - NEK 10 (V)
+  - PAL 10 (I)
 
 Alle 24 h kann der Charakter einmal pro Talentrang die Kreaturenfähigkeit „Geistesimmun“ ignorieren.
 

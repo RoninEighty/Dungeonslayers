@@ -12,11 +12,11 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 4 [3]
-  - BER 12 [5]
-  - KMÖ 14 [3]
-  - KRZ 14 [3]
-  - PAL 10 [5]
+  - KRI 4 (III)
+  - BER 12 (V)
+  - KMÖ 14 (III)
+  - KRZ 14 (III)
+  - PAL 10 (V)
 
 Einmal alle 24 h pro Talentrang kann der Charakter,wenn er einen Sturmangriff ausführt (s. Seite 41), den dabei zurückgelegten Weg in Metern auf seinen Schlagen-Wert hinzurechnen. Das Talent Heftiger Ansturm ist auch bei einem berittenen Sturmangriff einsetzbar, dabei sind jedoch die Regeln für berittenen Kampf zu beachten (Seite 92).
 

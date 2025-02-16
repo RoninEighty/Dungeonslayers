@@ -12,13 +12,13 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [5]
-  - SPÄ 1 [5]
-  - ZAW1 [5]
-  - BÜR 1 [3]
-  - GEL 10 [5]
-  - HWK 10 [5]
-  - MDB 10 [10]
+  - KRI 1 (V)
+  - SPÄ 1 (V)
+  - ZAW1 (V)
+  - BÜR 1 (III)
+  - GEL 10 (V)
+  - HWK 10 (V)
+  - MDB 10 (X)
 
 Du bist technikbegeistert und kennst dich gut mit Mechanik aus. Pro Talentstufe erhältst du +2 auf Bauen, Verstehen, Anwenden und Manipulieren von Mechanismen, darunter auch Fallen oder Schlösser.
 

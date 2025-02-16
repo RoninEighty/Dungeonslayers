@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - NEK 10 [5]
+  - NEK 10 (V)
 
 Von dir erweckte Untote haben eine stärkere Bindung an diese Welt. Alle Würfe, um sie zu bannen, zu vertreiben oder mit einem Effekt zu zerstören, der keinen definierten Schaden verursacht, sind um -1 pro Talentrang erschwert.
 

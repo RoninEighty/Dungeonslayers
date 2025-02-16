@@ -12,8 +12,8 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - SPÄ 4 [3]
-  - WDL 10 [5]
+  - SPÄ 4 (III)
+  - WDL 10 (V)
 
 Du bist ein wachsamer Verteidiger gegen Angriffe aus der Luft. Pro Talentrang erhältst du +1 auf Schießen-Angriffe gegen fliegende Gegner.
 

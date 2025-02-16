@@ -12,11 +12,11 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 4 [3]
-  - SPÄ 8 [3]
-  - BER 10 [5]
-  - KRZ 12 [3]
-  - WDL 12 [5]
+  - KRI 4 (III)
+  - SPÄ 8 (III)
+  - BER 10 (V)
+  - KRZ 12 (III)
+  - WDL 12 (V)
 
 Der Charakter erhält den Talentrang auf alle Angriffe und auf Abwehr gegen Kreaturen, die mindestens eine Größenkategorie größer sind als er selbst.
 

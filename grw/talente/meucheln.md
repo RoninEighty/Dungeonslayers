@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - ATT 14 [3]
+  - ATT 14 (III)
 
 Senkt die Abwehr des Gegners gegen Schaden durch das Talent Hinterhältiger Angriff um 5 pro Talentrang. Gegen Ziele, die 2+ Größenkategorien (siehe Seite 104) größer sind, ist das Talent wirkungslos.
 

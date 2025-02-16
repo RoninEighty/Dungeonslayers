@@ -12,12 +12,12 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 8 [3]
-  - SPÄ 8 [3]
-  - ZAW 8 [3]
-  - ATT 10 [5]
-  - KMÖ 10 [5]
-  - MDB 10 [5]
+  - KRI 8 (III)
+  - SPÄ 8 (III)
+  - ZAW 8 (III)
+  - ATT 10 (V)
+  - KMÖ 10 (V)
+  - MDB 10 (V)
 
 Der Charakter versteht es, im Kampf geschickt in die Defensive zu gehen. Pro Talentrang werden in jeder Kampfrunde, in der er keine offensive Handlung unternimmt, alle Angriffe gegen ihn um 2 gesenkt, sofern er sich ihrer bewusst ist.
 

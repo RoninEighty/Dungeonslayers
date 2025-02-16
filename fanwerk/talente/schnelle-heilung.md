@@ -12,13 +12,13 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [5]
-  - SPÄ 1 [5]
-  - ZAW 1 [5]
-  - BER 10 [10]
-  - WDL 10 [8]
-  - KMÖ 10 [8]
-  - BLU 10 [10]
+  - KRI 1 (V)
+  - SPÄ 1 (V)
+  - ZAW 1 (V)
+  - BER 10 (X)
+  - WDL 10 (VIII)
+  - KMÖ 10 (VIII)
+  - BLU 10 (X)
 
 Der Charakter erhält 1 pro Talentrang auf das Ergebnis aller Würfe für natürliche Heilung und kann einen zusätzlichen LK pro Talentrang durch Verschnaufen zurückgewinnen (was natürlich immer noch 1 Minute pro Talentrang dauert).
 

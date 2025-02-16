@@ -12,10 +12,10 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 1 [3]
-  - ZAW 1 [5]
-  - MDB 10 [5]
+  - KRI 1 (III)
+  - SPÄ 1 (III)
+  - ZAW 1 (V)
+  - MDB 10 (V)
 
 Pro Talentrang lernt der Charakter drei zusätzliche Sprachen oder Schriftzeichen.
 

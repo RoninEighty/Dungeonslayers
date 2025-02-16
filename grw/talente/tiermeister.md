@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - DRU 10 [3]
-  - WDL 12 [3]
-  - KMÖ 14 [3]
+  - DRU 10 (III)
+  - WDL 12 (III)
+  - KMÖ 14 (III)
 
 Der Charakter hat ein Gespür für Tiere und erhält auf alle Proben im Umgang mit ihnen +3 (dieser Bonus zählt auch auf Reiten-Proben, um die Reitgeschwindigkeit oder die Richtung zu ändern). Einmal alle 24 Stunden pro Talentrang kann er außerdem eine beliebige Anzahl wilder, aggressiver oder selbst ausgehungerter Tiere dazu bringen, ihn und zwei Begleiter pro Talentrang zu verschonen (es sei denn, sie greifen ihrerseits die Tiere an). Dies ist auch bei tollwütigen oder kontrollierten Tieren möglich, sofern hier dem Charakter eine Probe gegen GEI+AU+Talentrang gelingt (zählt als ganze Aktion, ein Versuch pro Talentrang).
 

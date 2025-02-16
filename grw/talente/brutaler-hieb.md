@@ -12,12 +12,12 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 4 [3]
-  - SPÄ 8 [3]
-  - BER 10 [5]
-  - KMÖ 14 [3]
-  - KLE 14 [3]
-  - KRZ 16 [3]
+  - KRI 4 (III)
+  - SPÄ 8 (III)
+  - BER 10 (V)
+  - KMÖ 14 (III)
+  - KLE 14 (III)
+  - KRZ 16 (III)
 
 Pro Talentrang kann der Charakter einmal pro Kampf seinen Wert in Schlagen für einen Angriff um den Wert von KÖR erhöhen. Es ist möglich, mehrere Talentränge in einem einzigen Schlag zu vereinen.
 

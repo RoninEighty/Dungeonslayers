@@ -12,13 +12,13 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 4 [3]
-  - SPÄ 8 [3]
-  - ZAW 12 [3]
-  - ATT 12 [5]
-  - BER 14 [5]
-  - KRZ 16 [5]
-  - WAM 14 [5]
+  - KRI 4 (III)
+  - SPÄ 8 (III)
+  - ZAW 12 (III)
+  - ATT 12 (V)
+  - BER 14 (V)
+  - KRZ 16 (V)
+  - WAM 14 (V)
 
 Im Nahkampf zielt der Charakter auf die verletzlichen Körperpartien seines Gegenübers: Die Abwehr des Gegners wird gegen die Nahkampfangriffe des Charakters mittels Schlagen um 1 pro Talentrang gesenkt.
 

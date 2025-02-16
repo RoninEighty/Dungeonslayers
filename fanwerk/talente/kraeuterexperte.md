@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - APO 10 [3]
+  - APO 10 (III)
 
 Der Charakter erhält einen Bonus von +1 pro Talentrang auf seine Proben zum Finden von Kräutern. Nach dem Kräuter-suchen darf er zudem einmal pro Talen-trang und Tag einen Würfelwurf wieder-holen, um vielleicht doch andere Kräuter zu finden. Er kann sich aussuchen, ob er das neue oder das alte Ergebnis wählt.
 

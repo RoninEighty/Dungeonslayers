@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - DRU 14 [5]
+  - DRU 14 (V)
 
 Pro Talentrang kann der Druide mit Tier/Pflanze herbeirufen (s. Das Grimmoire, Bd. 2) eine weitere Kreatur der gleichen Spezies herbeirufen.
 

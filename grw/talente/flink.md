@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 8 [3]
-  - SPÄ 1 [3]
-  - ZAW 4 [3]
+  - KRI 8 (III)
+  - SPÄ 1 (III)
+  - ZAW 4 (III)
 
 Der Charakter ist schnell und gut zu Fuß. Der Wert für Laufen wird pro Erwerb des Talents um 1m erhöht.
 

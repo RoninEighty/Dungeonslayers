@@ -12,10 +12,10 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 1 [3]
-  - ZAW 1 [3]
-  - MDB 10 [5]
+  - KRI 1 (III)
+  - SPÄ 1 (III)
+  - ZAW 1 (III)
+  - MDB 10 (V)
 
 Auf alle Proben sozialer Interaktion, bei denen geblufft, gefeilscht oder verhandelt wird, erhält der Charakter einen Bonus von +3 pro Talentrang.
 

@@ -12,8 +12,8 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - DÄM 10 [3]
-  - ERZ 12 [3]
+  - DÄM 10 (III)
+  - ERZ 12 (III)
 
 Der Beschwörer erhält pro Talentrang ein kleines, fliegendes Teufelchen als Begleiter, das ihn im Kampf unterstützt. Teufelchen können nur Knurrlaute von sich geben, verstehen aber simple Worte und einsilbige Befehle ihres Beschwörers. Sobald der Charakter es befiehlt oder das Teufelchen über weniger als 1LK verfügt, kehrt es zurück auf seine Existenzebene, von wo es erst nach frühestens W20 Stunden wiederkehren kann, sofern der Charakter dies wünscht. Es ist nicht möglich, die Talente Vertrauter oder Vertrautenband auf ein Teufelchen anzuwenden.
 

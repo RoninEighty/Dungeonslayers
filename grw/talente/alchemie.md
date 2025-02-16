@@ -12,8 +12,8 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - ZAW 1 [5]
-  - ERZ 10 [10]
+  - ZAW 1 (V)
+  - ERZ 10 (X)
 
 Dieses Talent wird benötigt, um magische Tränke zu brauen (siehe Seite 101). Jeder Talentrang reduziert die Zubereitungsdauer von Tränken und gibt +1 auf Proben, um diese herzustellen oder zu identifizieren (siehe Seite 47).
 

@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - ILL 10 [5]
+  - ILL 10 (V)
 
 Pro Talentrang kann der Charakter einmal pro Tag die Abklingzeit eines der folgenden Zauber ignorieren: Duftnote, Trugbild, Versetzte Stimme, Verwandlung, Unsichtbarkeit. Zusätzlich erhält er +1 pro Talentrang auf alle oben genannten Zauber.
 

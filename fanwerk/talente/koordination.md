@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - HAU 16 [3]
+  - HAU 16 (III)
 
 Einmal pro Kampf pro Talentrang kann der Charakter seine Aktion an einen Verbündeten weitergeben, sofern dieser den Charakter sehen und verstehen kann.
 

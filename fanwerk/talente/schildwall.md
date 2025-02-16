@@ -12,12 +12,12 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - Hei 4 [3]
-  - KLE 12 [5]
-  - KRZ 12 [5]
-  - PAL 10 [5]
-  - WAM 10 [5]
+  - KRI 1 (III)
+  - Hei 4 (III)
+  - KLE 12 (V)
+  - KRZ 12 (V)
+  - PAL 10 (V)
+  - WAM 10 (V)
 
 Sofern mindestens ein Verbündeter mit Schild und mindestens ebenfalls einem Rang in diesem Talent direkt neben dem Charakter steht, erhält der Charakter seinen Talentrang auf seine Abwehr hinzu.
 

@@ -12,12 +12,12 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 1 [3]
-  - ZAW 1 [3]
-  - DRU 10 [5]
-  - PAL 10 [5]
-  - WDL 10 [5]
+  - KRI 1 (III)
+  - SPÄ 1 (III)
+  - ZAW 1 (III)
+  - DRU 10 (V)
+  - PAL 10 (V)
+  - WDL 10 (V)
 
 Charaktere mit diesem Talent haben reiten gelernt, können also problemlos die Richtung oder Geschwindigkeit ihres Reittieres um einen Schritt ändern und vom Pferderücken aus angreifen (siehe Seite 92). Pro Talentrang erhalten sie bei Sprüngen oder Proben, um die Reitrichtung oder die Geschwindigkeit um mehr als einen Schritt zu wechseln, einen Bonus von +2. Im berittenen Kampf erhalten sie pro Talentrang +1 auf Schlagen-Proben gegen unberittene Gegner.
 

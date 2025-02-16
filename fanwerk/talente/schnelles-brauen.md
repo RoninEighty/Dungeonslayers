@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - APO 12 [3]
+  - APO 12 (III)
 
 Der Charakter kann einmal pro Tag pro Talentrang die Brauzeit eines beliebigen Trankes statt Tagen in Stunden berechnen.
 

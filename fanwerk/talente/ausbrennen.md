@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - ELE 10 [5]
+  - ELE 10 (V)
 
 Einmal alle 24 Stunden pro Talentrang kann der Elementarist einen Feuerzauber so modifizieren, dass er keinen Schaden verursacht, sondern stattdessen an allen betroffenen Zielen die Hälfte dessen heilt, was er an Schaden verursachen würde. Die Anwendung dieses Talents muss vor der Zauberprobe angekündigt werden und ist bei einem Misserfolg verbraucht.
 

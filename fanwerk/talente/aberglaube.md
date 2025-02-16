@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - BÜR 1 [3]
-  - BER 10 [5]
+  - KRI 1 (III)
+  - BÜR 1 (III)
+  - BER 10 (V)
 
 So wie du feindliche Magie fürchtest, so sehr fühlst du dich von Zauberwirkern auf deiner Seite bestärkt. Alle Zauber außer Zielzauber, die direkt auf dich gewirkt werden, erhalten +1 pro Talentrang auf ihren Probenwert. Das betrifft feindliche Zauber genauso wie hilfreiche.
 

@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - NEK 16 [5]
+  - NEK 16 (V)
 
 Vom Charakter erweckte Untote haben besonders schartige Knochenpranken oder Geisterklauen. Gegnerische Abwehr gegen ihre natürlichen Angriffe wird um zusätzlich -1 pro Talentrang gesenkt
 

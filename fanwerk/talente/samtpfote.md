@@ -12,10 +12,10 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - ATT 12 [3]
-  - MDB 12 [3]
-  - WDL 14 [3]
-  - KMÖ 14 [3]
+  - ATT 12 (III)
+  - MDB 12 (III)
+  - WDL 14 (III)
+  - KMÖ 14 (III)
 
 Der Charakter erhält auf alle Schleichen-Proben einen Bonus von 2 pro Talentrang, und die normale Schleichgeschwindigkeit von Laufen/2 wird um 1 Meter pro Talentrang erhöht.
 

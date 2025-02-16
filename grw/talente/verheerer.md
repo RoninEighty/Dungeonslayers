@@ -12,11 +12,11 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - ZAW 8 [3]
-  - ELE 12 [5]
-  - KLE 16 [5]
-  - KRZ 10 [5]
-  - PAL 14 [3]
+  - ZAW 8 (III)
+  - ELE 12 (V)
+  - KLE 16 (V)
+  - KRZ 10 (V)
+  - PAL 14 (III)
 
 Der Charakter versteht es, seine Magie verheerend einzusetzen: Die Abwehr des Gegners wird gegen Schaden durch die Zauberangriffe des Charakters (mittels Zaubern oder Zielzaubern) um 1 pro Talentrang gesenkt.
 

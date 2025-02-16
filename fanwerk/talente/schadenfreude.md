@@ -12,10 +12,10 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 8 [3]
-  - SPÄ 4 [3]
-  - ATT 10 [5]
-  - MDB 12 [5]
+  - KRI 8 (III)
+  - SPÄ 4 (III)
+  - ATT 10 (V)
+  - MDB 12 (V)
 
 Pro Talentrang kann der Charakter einmal alle 24 Stunden unmittelbar einen aktionsfreien Nahkampfangriff auf einen Gegner ausführen, der bei seiner letzten Aktion gepatzt hat.
 

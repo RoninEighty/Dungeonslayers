@@ -12,15 +12,15 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 8 [3]
-  - SPÄ 1 [3]
-  - ZAW 8 [3]
-  - ATT 10 [5]
-  - ELE 16 [5]
-  - KRZ 10 [5]
-  - MDB 14 [5]
-  - WAM 12 [5]
-  - WDL 10 [5]
+  - KRI 8 (III)
+  - SPÄ 1 (III)
+  - ZAW 8 (III)
+  - ATT 10 (V)
+  - ELE 16 (V)
+  - KRZ 10 (V)
+  - MDB 14 (V)
+  - WAM 12 (V)
+  - WDL 10 (V)
 
 Der Charakter ist ein geübter Fernkämpfer: Er erhält auf Schießen und Zielzauber einen Bonus von +1 pro Talentrang.
 

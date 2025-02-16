@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 20 [1]
-  - SPÄ 20 [1]
-  - ZAW 20 [1]
+  - KRI 20 (I)
+  - SPÄ 20 (I)
+  - ZAW 20 (I)
 
 Der Charakter kann eines seiner drei Attribute ( KÖR, AGI oder GEI) um +1 steigern.
 

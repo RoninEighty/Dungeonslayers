@@ -12,8 +12,8 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KLE 16 [3]
-  - ERZ 16 [5]
+  - KLE 16 (III)
+  - ERZ 16 (V)
 
 Vom Charakter mit Golem erwecken (s. Das Grimmoire, Bd. 2) erweckte Konstrukte sind speziell für den Kampf bewaffnet. Gegnerische Abwehr gegen ihre natürlichen Angriffe wird um zusätzlich -1 pro Talentrang gesenkt.
 

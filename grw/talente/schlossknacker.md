@@ -12,8 +12,8 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - ATT 14 [3]
-  - MDB 10 [5]
+  - ATT 14 (III)
+  - MDB 10 (V)
 
 Pro Talentrang erhält der Charakter einen Bonus von +2 auf sämtliche Proben, um Schlösser zu öffnen. Außerdem kann pro Talentrang ein weiteres Mal versucht werden, ein und das selbe Schloss zu öffnen, ohne bereits einen Malus zu erhalten (siehe Seite 93). Schlossknacker ist mit dem Talent Diebeskunst kombinierbar.
 

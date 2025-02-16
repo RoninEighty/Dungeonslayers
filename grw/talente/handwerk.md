@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 1 [3]
-  - SPÄ 1 [3]
-  - ZAW 1 [3]
+  - KRI 1 (III)
+  - SPÄ 1 (III)
+  - ZAW 1 (III)
 
 Dieses Talent wird für jede Handwerksart (Bogenbauer, Schreiner, Steinmetz, Waffenschmied usw.) individuell erlernt, kann also mehrmals bis Höchstrang III erworben werden. Man beherrscht das jeweilige Handwerk und erhält auf alle diesbezüglichen Proben, sei es um Gegenstände herzustellen oder beschädigte Ausrüstung zu reparieren (siehe Seite 88), einen Bonus von +3 pro Talentrang, den man für dieses Handwerk erworben hat.
 

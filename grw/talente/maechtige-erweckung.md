@@ -12,7 +12,7 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - NEK 16 [3]
+  - NEK 16 (III)
 
 Pro Talentrang kann der Nekromant Punkte in Höhe von GEI/2 auf die Kampfwerte eines jeden von ihm erweckten Untoten beliebig verteilen.
 

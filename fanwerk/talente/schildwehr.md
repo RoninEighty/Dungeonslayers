@@ -12,9 +12,9 @@ Autor:        Zauberlehrling
 
 - Kategorie: #Talent
 - Zugangsstufen:
-  - KRI 8 [5]
-  - KLE 12 [3]
-  - KRZ 12 [3]
+  - KRI 8 (V)
+  - KLE 12 (III)
+  - KRZ 12 (III)
 
 Sofern der Charakter einen Schild parat hat, kann er pro Talentrang alle 24 Stunden einmal volle Abwehr würfeln gegen einen Angriff der normalerweise nicht abwehrbar wäre, oder den GA-Abzug eines gegen ihn gerichteten Angriffs ignorieren. Das Talent kann nicht gegen innerlich wirkenden Schaden (z.B. Gift, Erschöpfung, Blut kochen) eingesetzt werden, sowie gegen Angriffe, deren sich der Charakter nicht bewusst ist.
 
