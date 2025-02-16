@@ -15,3 +15,5 @@ Unter ```_assembly``` finden sich die Vorlagen, Stile und Scripte um die Markdow
 Der Prozess kann lokal auf einer Linux Shell ausgeführt werden.
 
     sh _assembly/scripts/make-html.sh
+
+Die generierten HTML-Seiten finden sich anschliessend unter ```_site```.
