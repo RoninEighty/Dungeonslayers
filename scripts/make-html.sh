@@ -12,7 +12,7 @@ cp -r styles _site/
 # _site will be our working directory
 cd _site
 
-BASE_URL=https://fschne.github.io/Dungeonslayers/
+BASE_URL=https://fschne.github.io/Dungeonslayers
 # BASE_URL=http://localhost/f-space/ds4srd
 
 # --include-before ../templates/sidebar.html \
