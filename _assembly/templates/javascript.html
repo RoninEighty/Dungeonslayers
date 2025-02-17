@@ -1,0 +1,25 @@
+<script>
+    function setActiveNavigation() {
+      const path = window.location.pathname;
+      const entries = document.getElementById('sidebar-nav-links').querySelectorAll('li');
+      for (var i=0; i<entries.length; i++) {
+        const li = entries.item(i);
+        const a = li.querySelector('a');
+        if (a && window.location.href == a.href) {
+          li.classList.add('nav-active');
+          li.classList.add('nav-opened');
+          var parent = li.parentNode;
+            while (parent && 'sidebar-nav-links' != parent.id) {
+              if ('LI' == parent.nodeName) {
+                parent.classList.add('nav-opened');
+              }
+              parent = parent.parentNode;
+            }
+        }
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', function(){
+      setActiveNavigation();
+    });
+</script>

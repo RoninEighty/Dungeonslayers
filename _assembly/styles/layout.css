@@ -68,6 +68,7 @@ body {
 #sidebar-nav-links {
   flex-flow: column nowrap;
   overflow-y: auto;
+  max-height: 85vh !important;
 }
 
 #sidebar-project-links {
@@ -81,6 +82,18 @@ body {
 #sidebar nav > * {
   display: block;
   line-height: 1.75;
+}
+
+#footer {
+  width: 100%;
+  padding: 1rem 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+table {
+  min-width: 30rem;
 }
 
 @media print {
@@ -106,22 +119,6 @@ body {
   html {
     font-size: normal;
   }
-}
-
-.back-link {
-  font-size: 80%;
-}
-
-.back-link a {
-  color: currentColor;
-}
-
-.back-link a svg {
-  fill: currentColor;
-}
-
-table {
-  min-width: 30rem;
 }
 
 @media (min-width: 49rem) {
