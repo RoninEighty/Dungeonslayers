@@ -3,6 +3,8 @@
   --text-color: black;
   --sidebar-bg-color: black;
   --sidebar-text-color: white;
+  --footer-text-color:  black;
+  --footer-bg-color: whitesmoke;
   /*
    --text-color: #515151;
    */
@@ -76,7 +78,7 @@ body {
   display: none;
 }
 
-#sidebar li.nav-opened ul {
+#sidebar li.nav-opened > ul {
   display: block;
 }
 
@@ -108,6 +110,22 @@ body {
 
 #sidebar footer {
   /**/
+}
+
+#footer {
+  color: var(--footer-text-color);
+  background-color: var(--footer-bg-color);
+}
+
+#footer a {
+  color: var(--footer-text-color);
+  text-decoration: none;
+}
+
+#footer a:hover,
+#footer a:focus {
+  text-decoration: none;
+  border-bottom: 1px dashed var(--footer-text-color);
 }
 
 h1 {

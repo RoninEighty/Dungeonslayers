@@ -17,10 +17,10 @@ cd _site
 # TODO nice format etc..
 find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p -e "s/(.*)/[\1]/" | echo "- $(cat -)($1)" >> alle-seiten.md' sh {} \;
 
-#BASE_URL=https://ronineighty.github.io/Dungeonslayers
-BASE_URL=http://localhost/f-space/ds4srd
+BASE_URL=https://ronineighty.github.io/Dungeonslayers
+#BASE_URL=http://localhost/f-space/ds4srd
 
-# --metadata title:"DS4 SRD+" \
+# --table-of-contents \
 # Transform all markdown files into .md.html files
 find . -name "*.md" -exec \
                     pandoc \
@@ -28,9 +28,9 @@ find . -name "*.md" -exec \
                     --from=markdown \
                     --to=html5 \
                     --strip-comments \
-                    --verbose \
                     --data-dir ../_assembly/templates/ \
                     --template ../_assembly/templates/default.html \
+                    --metadata title="DS4 SRD+" \
                     --metadata lang:de-DE \
                     --variable base-url:"${BASE_URL}" \
                     --css ${BASE_URL}/styles/style.css \
@@ -41,7 +41,7 @@ find . -name "*.md" -exec \
 
 # Pandoc leaves links as is, so change all inline links to .md files to the expected .html
 find . -name "*.md.html" -exec perl -i -p -e 's/.md">/.html">/ig' "{}" \;
-find . -name "*.md.html" -exec perl -i -p -e 's/.md#">/.html#">/ig' "{}" \;
+find . -name "*.md.html" -exec perl -i -p -e 's/.md#(.*?)">/.html#$1">/ig' "{}" \;
 
 # Rename all .md.html to .html, strip .md infix in filename
 find . -name "*.md.html" > mv.sh
