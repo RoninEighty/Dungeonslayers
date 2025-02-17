@@ -66,6 +66,24 @@ body {
   color: var(--text-color);
 }
 
+#sidebar li {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: -1rem;
+}
+
+#sidebar li ul {
+  display: none;
+}
+
+#sidebar li.nav-opened ul {
+  display: block;
+}
+
+#sidebar li.nav-active > a {
+  font-weight: bold;
+}
+
 #sidebar a {
   color: var(--sidebar-text-color);
   text-decoration: none;
@@ -75,15 +93,6 @@ body {
 #sidebar a:focus {
   text-decoration: none;
   border-bottom: 1px dashed var(--sidebar-text-color);
-}
-
-#sidebar a:hover.icon,
-#sidebar a:focus.icon {
-  text-decoration: none;
-}
-
-#sidebar a.active {
-  font-weight: bold;
 }
 
 #sidebar .site-title {

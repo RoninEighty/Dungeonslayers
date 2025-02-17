@@ -17,8 +17,8 @@ cd _site
 # TODO nice format etc..
 find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p -e "s/(.*)/[\1]/" | echo "- $(cat -)($1)" >> alle-seiten.md' sh {} \;
 
-BASE_URL=https://ronineighty.github.io/Dungeonslayers
-#BASE_URL=http://localhost/f-space/ds4srd
+#BASE_URL=https://ronineighty.github.io/Dungeonslayers
+BASE_URL=http://localhost/f-space/ds4srd
 
 # --metadata title:"DS4 SRD+" \
 # Transform all markdown files into .md.html files
@@ -35,7 +35,7 @@ find . -name "*.md" -exec \
                     --variable base-url:"${BASE_URL}" \
                     --css ${BASE_URL}/styles/style.css \
                     --css ${BASE_URL}/styles/layout.css \
-                    --include-after ../_assembly/templates/base-url-anchor-script.html \
+                    --include-in-header ../_assembly/templates/javascript.html \
                     -o "{}.html" \
                     "{}" \;
 
