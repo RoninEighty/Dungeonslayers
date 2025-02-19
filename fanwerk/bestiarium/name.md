@@ -19,7 +19,6 @@
 | -------- | -------- | ---------- | ---------- |
 | Lebenskraft| Abwehr   | Initiative | Laufen     |
 | Schlagen | Schießen | Zaubern    | Zielzauber |
-| -------- | -------- | ---------- | ---------- |
 | Schlagen | Schiessen| Zauber     | Zielzauber |
 
 **Bewaffnung:**  
