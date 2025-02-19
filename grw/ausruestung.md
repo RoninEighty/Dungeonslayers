@@ -1,13 +1,13 @@
 # AUSRÜSTUNG
 
-Alle gelisteten Preise sollten (da "gebraucht") halbiert werden, wenn sie von den Charakteren an Händler u.ä. verkauft werden. Zur groben Orientierung gibt es die Angabe (Ort), ob man eine Ware in (D)örfern oder Handelsposten, erst in (K)leinstädten oder vermutlich nur in (G)roßstädten erwerben kann. Anderes gibt es nur in (E)lfen- oder (Z)wergensiedlungen. 
+Alle gelisteten Preise sollten (da "gebraucht") halbiert werden, wenn sie von den Charakteren an Händler u.ä. verkauft werden. Zur groben Orientierung gibt es die Angabe (Ort), ob man eine Ware in (D)örfern oder Handelsposten, erst in (K)leinstädten oder vermutlich nur in (G)roßstädten erwerben kann. Anderes gibt es nur in (E)lfen- oder (Z)wergensiedlungen.
 
-Schlechte Warenqualität  halbiert den Preis, während besonders gute Qualität ihn verdoppelt.
+Schlechte Warenqualität halbiert den Preis, während besonders gute Qualität ihn verdoppelt.
 
 **1 GOLD = 10 SILBER = 100 KUPFER**
 
 | AUF REISEN                  | ORT | PREIS |
-|-----------------------------|:---:|:-----:|
+| --------------------------- | :-: | :---: |
 | Angelhaken und Schnur       |  D  |  2SM  |
 | Bärenfalle (Schlagen 30)    |  K  | 10GM  |
 | Decke, dicke Reise-         |  D  |  5SM  |
@@ -19,42 +19,41 @@ Schlechte Warenqualität  halbiert den Preis, während besonders gute Qualität 
 | Schiffspassage (pro Tag)    |  K  |  1SM  |
 | Seil (10m)                  |  D  |  1GM  |
 | Rucksack                    |  D  |  2GM  |
-| Tagesration (3 Mahlzeiten*) |  D  |  5SM  |
+| Tagesration (3 Mahlzeiten¹) |  D  |  5SM  |
 | Umhängetasche               |  D  |  5SM  |
 | Wagen (4 Räder)             |  D  | 35GM  |
 | Wasserschlauch (5 Liter)    |  D  |  5SM  |
 | Zelt (2 Mann)               |  K  |  4GM  |
 
-\*: Erwachsener benötigt 3 pro Tag
+¹: Erwachsener benötigt 3 pro Tag
 
 | IM GASTHAUS              | ORT |   PREIS   |
-|--------------------------|:---:|:---------:|
+| ------------------------ | :-: | :-------: |
 | Festmahl für eine Person |  D  |    5GM    |
 | “Gesellschaft”           |  K  |   5+ SM   |
 | Kelch Wein               |  D  |    2KM    |
 | Krug Bier                |  D  |    1KM    |
-| Mahlzeit* im Gasthaus    |  D  | 5KM - 5SM |
+| Mahlzeit¹ im Gasthaus    |  D  | 5KM - 5SM |
 
-\*: Erwachsener benötigt 3 pro Tag
+¹: Erwachsener benötigt 3 pro Tag
 
 | UNTERBRINGUNG       |   PREIS   |
-|---------------------|:---------:|
+| ------------------- | :-------: |
 | Stallplatz          |    5KM    |
 | Gemeinschaftsraum   |    2KM    |
 | Zimmer (pro Person) | 2SM - 2GM |
 
-
 | BEIM HÄNDLER                 | ORT | PREIS |
-|------------------------------|:---:|:-----:|
+| ---------------------------- | :-: | :---: |
 | Besteck, Holz-               |  D  |  2SM  |
 | Besteck, Metall-             |  D  |  4GM  |
 | Decke                        |  D  |  1SM  |
 | Federkiel                    |  D  |  1SM  |
-| Heilkraut*                   |  D  | 25SM  |
+| Heilkraut¹                   |  D  | 25SM  |
 | Holzbecher                   |  D  |  2SM  |
 | Lederbecher                  |  D  |  1SM  |
 | Metallkrug                   |  D  |  1GM  |
-| Parfüm** (50x benutzbar)     |  K  |  5GM  |
+| Parfüm² (50x benutzbar)      |  K  |  5GM  |
 | Pergamentblatt               |  D  |  5SM  |
 | Pfeife                       |  D  |  5SM  |
 | Rauchkraut (5 Pfeifenköpfe)  |  D  |  1SM  |
@@ -64,16 +63,16 @@ Schlechte Warenqualität  halbiert den Preis, während besonders gute Qualität 
 | Tinte (reicht für 50 Seiten) |  D  |  2GM  |
 | Tee (10 Tassen)              |  D  |  5KM  |
 | Topf/Pfanne                  |  D  |  1GM  |
-| Waffenpaste***               |  K  |  5SM  |
+| Waffenpaste³                 |  K  |  5SM  |
 
-\*: Probenwert 10: 1-10 heilt LK in Ergebnishöhe, 11+ kein Heileffekt
+¹: Probenwert 10: 1-10 heilt LK in Ergebnishöhe, 11+ kein Heileffekt
 
-\*\*: Gibt 4 Stunden lang +1 auf Proben sozialer Interaktion mit anderem Geschlecht
+²: Gibt 4 Stunden lang +1 auf Proben sozialer Interaktion mit anderem Geschlecht
 
-\*\*\*: Macht WB+1; hält W20 Nahkampfangriffe bzw. reicht für W20 Fernkampfgeschosse
+³: Macht WB+1; hält W20 Nahkampfangriffe bzw. reicht für W20 Fernkampfgeschosse
 
 | BELEUCHTUNG                | ORT | PREIS |
-|----------------------------|:---:|:-----:|
+| -------------------------- | :-: | :---: |
 | Brennholz (Bündel)         |  D  |  1KM  |
 | Blendlaterne               |  D  |  8GM  |
 | Fackel (brennt 2h; WB+1)   |  D  |  1KM  |
@@ -84,61 +83,61 @@ Schlechte Warenqualität  halbiert den Preis, während besonders gute Qualität 
 | Laternenöl (brennt 4h)     |  D  |  5KM  |
 
 | IM TEMPEL                     | PREIS  |
-|-------------------------------|:------:|
-| Allheilung (Zauberspruch)     | 100GM* |
+| ----------------------------- | :----: |
+| Allheilung (Zauberspruch)     | 100GM¹ |
 | Anhänger mit heiligem Symbol  |  1GM   |
 | Heiltrank (heilt W20 LK)      |  10GM  |
-| Heilzauber (Preis pro 1LK)    |  1SM*  |
-| Verbandszeug**                |  1SM   |
+| Heilzauber (Preis pro 1LK)    |  1SM¹  |
+| Verbandszeug²                 |  1SM   |
 | Weihwasser (1/2 Liter)        |  1SM   |
-| Wiederbelebung (Zauberspruch) | 500GM* |
+| Wiederbelebung (Zauberspruch) | 500GM¹ |
 
-\*: Als Spende nötig, wenn SC unbekannt/unbeliebt
+¹: Als Spende nötig, wenn SC unbekannt/unbeliebt
 
-\*\*: Verschnaufen +1 oder natürl. Heilergebnis +1
+²: Verschnaufen +1 oder natürl. Heilergebnis +1
 
 | REITTIERE                 | ORT | PREIS  |
-|---------------------------|:---:|:------:|
+| ------------------------- | :-: | :----: |
 | Kamel (in Wüstenregionen) |  K  | 175GM  |
 | Pony                      |  D  |  30GM  |
 | Reitpferd                 |  D  |  75GM  |
-| Reitkeiler*               |  Z  | 500GM  |
+| Reitkeiler¹               |  Z  | 500GM  |
 | Sattel/Satteltasche       |  D  | 5+/4GM |
-|Schimmerross** E 1000GM|
-|Schlachtross|K|400GM|
+| Schimmerross²             |  E  | 1000GM |
+| Schlachtross              |  K  | 400GM  |
 
-\*: Settingoption: Zwergische Alternative statt Ponys
+¹: Settingoption: Zwergische Alternative statt Ponys
 
-\*\*: Settingoption: Edel, lässt nur Elfen auf sich reiten
+²: Settingoption: Edel, lässt nur Elfen auf sich reiten
 
-| SCHLÖSSER              | ORT | PREIS |
-|------------------------|:---:|:-----:|
-| Einfach (SW: 0)        |  D  |  1GM  |
-| Gut (SW: 2)            |  D  |  5GM  |
-| Solide (SW: 4)         |  K  | 10GM  |
-| Meisterarbeit (SW: 8)  |  K  | 50GM  |
-| Zwergenarbeit (SW: 12) |  G  | 250GM |
-|SW = Schloss-Wert (siehe Seite 93)|
+| SCHLÖSSER                          | ORT | PREIS |
+| ---------------------------------- | :-: | :---: |
+| Einfach (SW: 0)                    |  D  |  1GM  |
+| Gut (SW: 2)                        |  D  |  5GM  |
+| Solide (SW: 4)                     |  K  | 10GM  |
+| Meisterarbeit (SW: 8)              |  K  | 50GM  |
+| Zwergenarbeit (SW: 12)             |  G  | 250GM |
+| SW = Schloss-Wert (siehe Seite 93) |     |       |
 
 | MAGISCHE DIENSTE             |     PREIS      |
-|------------------------------|:--------------:|
+| ---------------------------- | :------------: |
 | Mag. Ggst. identifizieren    |      5GM       |
 | Mag. Trank identifizieren    |      5SM       |
 | Zauberdienst (z.B. Teleport) | Spruchkosten/2 |
 
 | DIVERSES                 | ORT | PREIS |
-|--------------------------|:---:|:-----:|
+| ------------------------ | :-: | :---: |
 | Brechstange (WB +1)      |  D  | 15SM  |
 | Dietrich                 |  K  |  1GM  |
-| Handschellen*            |  K  |  8GM  |
+| Handschellen¹            |  K  |  8GM  |
 | Holzwürfel (sechsseitig) |  D  |  2KM  |
 | Kartenspiel              |  K  |  1GM  |
 | Werkzeugset              |  K  |  5GM  |
 
-\*: Preis für beide Schlösser extra ermitteln
+¹: Preis für beide Schlösser extra ermitteln
 
 | TIERE                 | ORT | PREIS |
-|-----------------------|:---:|:-----:|
+| --------------------- | :-: | :---: |
 | Esel                  |  D  |  8GM  |
 | Huhn                  |  D  |  2KM  |
 | Hund                  |  D  |  1GM  |
@@ -151,7 +150,7 @@ Schlechte Warenqualität  halbiert den Preis, während besonders gute Qualität 
 | Singvogel (mit Käfig) |  K  |  5GM  |
 
 | UNTERKUNFT ERRICHTEN       |  PREIS   |
-|----------------------------|:--------:|
+| -------------------------- | :------: |
 | 1m Holzpalisade (3m hoch)  |   5GM    |
 | 1m Holzzaun (1m hoch)      |   2GM    |
 | 1m Steinmauer (3m hoch)    |   15GM   |
@@ -165,49 +164,49 @@ Schlechte Warenqualität  halbiert den Preis, während besonders gute Qualität 
 | Tür, einfach               |   5GM    |
 | Tür, verstärkt             |   20GM   |
 
-| RÜSTUNGEN            | PA |  BESONDERES   | ORT | PREIS |
-|----------------------|:--:|:-------------:|:---:|:-----:|
-| Kettenpanzer         | +2 | Laufen -0,5m  |  K  | 10GM  |
-| Lederschienen*       | +1 | an Arm & Bein |  D  |  4GM  |
-| Lederpanzer**        | +1 |               |  D  |  4GM  |
-| Metallhelm           | +1 | Initiative -1 |  D  |  6GM  |
-| Plattenarmschienen   | +1 | Laufen -0,5m  |  K  |  7GM  |
-| Plattenbeinschienen  | +1 | Laufen -0,5m  |  K  |  8GM  |
-| Plattenpanzer**      | +3 |  Laufen -1m   |  K  | 50GM  |
-| Robe                 | +0 |               |  D  |  1GM  |
-| Robe (runenbestickt) | +0 |    Aura +1    |  K  |  8GM  |
-| Schild, Holz-***     | +1 |               |  D  |  1GM  |
-| Schild, Metall-      | +1 | Laufen -0,5m  |  D  |  8GM  |
-| Schild, Turm-        | +2 |  Laufen -1m   |  K  | 15GM  |
+| RÜSTUNGEN            | PA  |  BESONDERES   | ORT | PREIS |
+| -------------------- | :-: | :-----------: | :-: | :---: |
+| Kettenpanzer         | +2  | Laufen -0,5m  |  K  | 10GM  |
+| Lederschienen¹       | +1  | an Arm & Bein |  D  |  4GM  |
+| Lederpanzer²         | +1  |               |  D  |  4GM  |
+| Metallhelm           | +1  | Initiative -1 |  D  |  6GM  |
+| Plattenarmschienen   | +1  | Laufen -0,5m  |  K  |  7GM  |
+| Plattenbeinschienen  | +1  | Laufen -0,5m  |  K  |  8GM  |
+| Plattenpanzer²       | +3  |  Laufen -1m   |  K  | 50GM  |
+| Robe                 | +0  |               |  D  |  1GM  |
+| Robe (runenbestickt) | +0  |    Aura +1    |  K  |  8GM  |
+| Schild, Holz-³       | +1  |               |  D  |  1GM  |
+| Schild, Metall-      | +1  | Laufen -0,5m  |  D  |  8GM  |
+| Schild, Turm-        | +2  |  Laufen -1m   |  K  | 15GM  |
 
-\* : hierbei handelt es sich um Arm- **und** Beinschienen
+¹ : hierbei handelt es sich um Arm- \*\*und²Beinschienen
 
-\*\*: Für Reittier Preis x 3 ***: zerbricht bei einem Abwehr-Patzer
+²: Für Reittier Preis x 3 ³: zerbricht bei einem Abwehr-Patzer
 
 | WAFFEN                   |  WB   |                   BESONDERES                   | ORT | PREIS |
-|--------------------------|:-----:|:----------------------------------------------:|:---:|:-----:|
+| ------------------------ | :---: | :--------------------------------------------: | :-: | :---: |
 | Axt                      |  +1   |                                                |  D  |  6GM  |
 | Armbrust, leicht (2h)    |  +2   |                 Initiative -2                  |  D  |  8GM  |
 | Armbrust, schwer (2h)    |  +3   |         Initiative -4, Gegnerabwehr -2         |  K  | 15GM  |
-| Bihänder (2h)*           |  +3   |         Initiative -2, Gegnerabwehr -4         |  D  | 10GM  |
-| Bogen, Elfen- (2h)*      |  +3   |                 Initiative +1                  |  E  | 75GM  |
+| Bihänder (2h)¹           |  +3   |         Initiative -2, Gegnerabwehr -4         |  D  | 10GM  |
+| Bogen, Elfen- (2h)¹      |  +3   |                 Initiative +1                  |  E  | 75GM  |
 | Bogen, Kurz- (2h)        |  +1   |                 Initiative +1                  |  D  |  6GM  |
-| Bogen, Lang- (2h)*       |  +2   |                 Initiative +1                  |  K  | 10GM  |
+| Bogen, Lang- (2h)¹       |  +2   |                 Initiative +1                  |  K  | 10GM  |
 | Dolch                    |  +0   |                 Initiative +1                  |  D  |  2GM  |
 | Flegel                   |  +2   |                 Initiative -2                  |  D  |  8GM  |
 | Hammer                   |  +1   |                Gegnerabwehr -1                 |  D  |  7GM  |
-| Hellebarde (2h)**        |  +2   |    Initiative -2; typische Stadtwachenwaffe    |  K  |  4GM  |
-| Kampfstab (2h)**         |  +1   |                 Zielzauber +1                  |  D  |  5SM  |
-| Keule**                  |  +1   |                                                |  D  |  2SM  |
-| Lanze**                  | +1/+4 |     Nur im Trab (WB+1) oder Galopp (WB+4)      |  K  |  2GM  |
-| Schlachtbeil (2h)*       |  +4   |         Initiative -6, Gegnerabwehr -4         |  G  | 20GM  |
-| Schlachtgeißel***        |  +3   |         Initiative -4, Gegnerabwehr -4         |  K  | 16GM  |
+| Hellebarde (2h)²         |  +2   |    Initiative -2; typische Stadtwachenwaffe    |  K  |  4GM  |
+| Kampfstab (2h)²          |  +1   |                 Zielzauber +1                  |  D  |  5SM  |
+| Keule²                   |  +1   |                                                |  D  |  2SM  |
+| Lanze²                   | +1/+4 |     Nur im Trab (WB+1) oder Galopp (WB+4)      |  K  |  2GM  |
+| Schlachtbeil (2h)¹       |  +4   |         Initiative -6, Gegnerabwehr -4         |  G  | 20GM  |
+| Schlachtgeißel³          |  +3   |         Initiative -4, Gegnerabwehr -4         |  K  | 16GM  |
 | Schlagring               |  +0   |  wie waffenlos, Gegner aber kein Abwehr-Bonus  |  K  |  1GM  |
 | Schleuder                |  +0   |             Distanzmalus -1 pro 2m             |  D  |  1SM  |
 | Schwert, Breit-          |  +1   |                Gegnerabwehr -2                 |  D  |  8GM  |
 | Schwert, Kurz-           |  +1   |        Werte gelten auch für Krummsäbel        |  D  |  6GM  |
 | Schwert, Lang-           |  +2   |      Werte gelten auch für Krummschwerter      |  D  |  7GM  |
-| Speer****                |  +1   |       sowohl für Nah- als auch Fernkampf       |  D  |  1GM  |
+| Speer⁴                   |  +1   |       sowohl für Nah- als auch Fernkampf       |  D  |  1GM  |
 | Streitaxt (2h)           |  +3   |                 Initiative -2                  |  D  |  7GM  |
 | Streithammer (2h)        |  +3   |                 Initiative -4                  |  D  |  6GM  |
 | Streitkolben/Morgenstern |  +1   |                Gegnerabwehr -1                 |  D  |  7GM  |
@@ -215,13 +214,13 @@ Schlechte Warenqualität  halbiert den Preis, während besonders gute Qualität 
 | Wurfmesser               |  +0   | Distanzmalus -1 pro 2m; auch Nahkampf geeignet |  D  |  2GM  |
 | Zwergenaxt (2h)          |  +3   |         Initiative -1, Gegnerabwehr -2         |  Z  | 60GM  |
 
-\*: Für Zwerge auf Grund der Größe zu unhandlich
+¹: Für Zwerge auf Grund der Größe zu unhandlich
 
-\*\*: zerbricht bei Schlagen-Patzer
+²: zerbricht bei Schlagen-Patzer
 
-\*\*\*: Bei Schlagen-Patzer trifft Angreifer sich selbst (Patzer ausgeschlossen) 
+³: Bei Schlagen-Patzer trifft Angreifer sich selbst (Patzer ausgeschlossen)
 
-\*\*\*\*: zerbricht bei Schießen-Patzer
+⁴: zerbricht bei Schießen-Patzer
 
 ---
 

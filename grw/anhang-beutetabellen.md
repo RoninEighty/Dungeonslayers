@@ -74,7 +74,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 7   | Lederschnur oder _1d20_ KM             |
 | 8   | Topf oder Pfanne                       |
 | 9   | Feuerholz oder 1d20 SM                 |
-| 10  | Proviant ( 1d20 Tagesrationen)         |
+| 10  | Proviant (1d20 Tagesrationen)          |
 | 11  | Nadel & Faden oder Bierfässchen        |
 | 12  | 1d20/2 Meter Seil oder 1d20 GM         |
 | 13  | 1 Heilkraut oder Pfeife mit Rauchkraut |
@@ -202,6 +202,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 20    | Wurfmesser           |
 
 ¹: nach 1. Treffer erlischt die Magie
+
 ²: zerbricht nicht bei einem Patzer
 
 #### Beutetabelle WN
@@ -301,6 +302,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 | 20    | Zielzauber¹      |
 
 ¹: Nur 1x/Kampf
+
 ²: Nur W20Rd./Kampf
 
 ##### Beutetabelle ET: TALENT

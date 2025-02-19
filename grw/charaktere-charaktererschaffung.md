@@ -140,13 +140,13 @@ Die Formeln, aus denen sich die Kampfwerte errechnen, beziehen sich immer auf di
 #### KAMPFWERTE
 
     Lebenskraft = KÖR + HÄ + 10
-    Abwehr = KÖR + HÄ + PA
-    Initiative = AGI + BE
-    Laufen = AGI/2 + 1
-    Schlagen = KÖR + ST + WB
-    Schießen = AGI + GE + WB
-    Zaubern = GEI + AU + ZB - PA
-    Zielzauber = GEI + GE + ZB – PA
+    Abwehr      = KÖR + HÄ + PA
+    Initiative  = AGI + BE
+    Laufen      = AGI/2 + 1
+    Schlagen    = KÖR + ST + WB
+    Schießen    = AGI + GE + WB
+    Zaubern     = GEI + AU + ZB - PA
+    Zielzauber  = GEI + GE + ZB – PA
 
 **Beispiel**: _Nun werden die fünf Kampfwerte ermittelt, in die auch der ZB des Zauberspruchs (Feuerstrahl: Zielzauber +1) und die erworbene Ausrüstung mit ihren Boni (AU 1, WB+1, Zielzauber +1) einfließen. Nachdem wir alle Werte errechnet haben, erhalten wir folgende Kampfwerte:_
 

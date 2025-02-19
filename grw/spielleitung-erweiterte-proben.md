@@ -166,10 +166,10 @@ Wollen Charaktere ohne das Talent Reiten vom Pferderücken aus einen Angriff mac
 
 | GESCHWINDIGK. | SCHLAGEN | ANDERE ANGRIFFE |
 | ------------- | :------: | :-------------: |
-| Trab          | +KÖR/2\* |       -5        |
-| Galopp        |  +KÖR\*  |       -10       |
+| Trab          | +KÖR/2¹  |       -5        |
+| Galopp        |  +KÖR¹   |       -10       |
 
-\*: KÖR des Reittieres
+¹: KÖR des Reittieres
 
 Wer von seinem Pferd einen unberittenen Gegner schlägt, erhält einen Bonus von +1 auf Schlagen durch die erhöhte Position. Mit zweihändigen Waffen kann man beritten überhaupt nicht angreifen. Einzig und allein Charaktere, die das Talent **Sattelschütze** (siehe Seite 30) beherrschen, können Fernkampfwaffen einsetzen, die man beidhändig (beispielsweise Bögen) benutzt.
 
@@ -281,7 +281,7 @@ Der Spieler wählt, ob er beispielsweise nur für einen Schrank, ein breites St�
 | Geheimfach/Geheimtür                  | -4 bis -8 |
 | Typisches Versteck                    |    -2     |
 | Schlechtes Licht (nur Menschen)       |    -2     |
-| Tarnwert einer Falle -                |    TW     |
+| Tarnwert einer Falle                  |    -TW    |
 
 ### TASCHENDIEBSTAHL (AGI+GE)
 

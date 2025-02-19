@@ -184,9 +184,19 @@ h5 + p {
 pre {
 }
 
+/* pandoc generates colgroups with fixed sizes. This is not nice. Let's ignore pandoc's algorithm */
+col {
+  width: auto !important;
+}
+
 table {
   border-collapse: collapse;
   margin: auto;
+}
+
+/* Space between direct tables */
+table ~ table {
+  margin-top: 0.5rem;
 }
 
 th {
