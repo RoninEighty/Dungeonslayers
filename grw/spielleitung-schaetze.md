@@ -528,10 +528,10 @@ Gegenstände können es ermöglichen, dass bestimmte Handlungen (beispielsweise 
 | --------------------------- | ------- |
 | 1x im Kampf aufstehen       | 250GM   |
 | 1x im Kampf Waffe ziehen    | 500GM   |
-| W20\* Runden konzentrieren  | 750GM   |
+| W20¹ Runden konzentrieren   | 750GM   |
 | 1x im Kampf Zauber wechseln | 1.000GM |
 
-\*: Wird einmalig bei der Herstellung ermittelt.
+¹: Wird einmalig bei der Herstellung ermittelt.
 
 #### B. BONI EINBETTEN
 
@@ -542,11 +542,11 @@ Die Kosten für permanente Boni (von +1 bis +3) auf bestimmte Proben (dazu zähl
 | einzelne Probe |          125GM          |  250GM   |  500GM   |
 | Waffenbonus    | (WB + mag. Bonus) x 250 |          |          |
 | Rüstungsbonus  | (PA + mag. Bonus) x 500 |          |          |
-| Kampfwert\*    |          250GM          |  500GM   |  750GM   |
+| Kampfwert¹     |          250GM          |  500GM   |  750GM   |
 | Eigenschaft    |          500GM          | 1.000GM  | 1.500GM  |
 | Attribut       |         1.000GM         | 2.000GM  | 4.000GM  |
 
-\*: Bei Laufen erhält man pro +1 einen Bonus von 0,5.
+¹: Bei Laufen erhält man pro +1 einen Bonus von 0,5.
 
 **Waffenbonus**: Der Preis ergibt sich aus dem normalen WB der herzustellenden Waffe und dem Bonus (+1 bis +3 möglich),
 den sie erhalten soll, multipliziert mit 250.
@@ -583,21 +583,21 @@ Die Zusatzkosten von Zaubern in magischen Gegenständen basieren immer auf dem G
 
 Ein Zauberspruch kann in einen Gegenstand gebettet und nach den Regeln für Zauber in magischen Gegenständen ausgelöst werden.
 
-| KOSTEN PRO ZAUBER            |
-| ---------------------------- |
-| (Preis\* des Zaubers x 3) GM |
+| KOSTEN PRO ZAUBER           |
+| --------------------------- |
+| (Preis¹ des Zaubers x 3) GM |
 
-\*: Mindestens 125GM
+¹: Mindestens 125GM
 
 #### D2. ZAUBERLADUNGEN EINBETTEN
 
 Einzelne Ladungen von Zaubersprüchen (beispielsweise ein Ring, in dem 10x Feuerball eingebettet ist) brauchen sich nach Gebrauch zwar auf, sind dafür aber in der Herstellung weitaus günstiger:
 
-| KOSTEN PRO LADUNG          |
-| -------------------------- |
-| (Preis\* des Zaubers/5) GM |
+| KOSTEN PRO LADUNG         |
+| ------------------------- |
+| (Preis¹ des Zaubers/5) GM |
 
-\*: Mindestens 125GM
+¹: Mindestens 125GM
 
 **Aufladen**: Verbrauchte Ladungen können wieder aufgefrischt werden, indem ein Zauberwirker, der den Zauberspruch beherrscht, diesen wieder in den Gegenstand zaubert (1 Ladung pro gewirkten Zauber).
 
@@ -607,11 +607,11 @@ Die Anzahl der maximalen Ladungen des Gegenstandes kann dadurch nicht erhöht we
 
 Die Kosten für Zauberstäbe (siehe Seite 47) errechnen sich wie folgt:
 
-| ZAUBERSTABKOSTEN             |
-| ---------------------------- |
-| (Preis\* des Zaubers x 2) GM |
+| ZAUBERSTABKOSTEN            |
+| --------------------------- |
+| (Preis¹ des Zaubers x 2) GM |
 
-\*: Mindestens 125GM
+¹: Mindestens 125GM
 
 #### D4. ABKLINGZEITEN VERKÜRZEN
 
@@ -627,16 +627,16 @@ Die Abklingzeiten bestimmter Zaubereffekte eines Gegenstandes oder auch die eige
 
 Abklingzeiten einzelner Zauber in Gegenständen können komplett ignoriert werden (beispielsweise für ein Teleportamulett, das jede Runde einsetzbar ist).
 
-| ABKLINGZEIT IGNORIEREN |          KOSTEN          |
-| ---------------------- | :----------------------: |
-| 1x täglich             | Preis* des Zaubers* x 3  |
-| 2x täglich             | Preis\* des Zaubers x 5  |
-| 3x täglich             | Preis\* des Zaubers x 12 |
-| Permanent\*\*          | Preis\* des Zaubers x 25 |
+| ABKLINGZEIT IGNORIEREN |         KOSTEN          |
+| ---------------------- | :---------------------: |
+| 1x täglich             | Preis¹ des Zaubers x 3  |
+| 2x täglich             | Preis¹ des Zaubers x 5  |
+| 3x täglich             | Preis¹ des Zaubers x 12 |
+| Permanent²             | Preis¹ des Zaubers x 25 |
 
-\*: Mindestens 125GM
+¹: Mindestens 125GM
 
-\*\*: Zusätzlich verliert der Zauberwirker permanent einen Punkt GEI.
+²: Zusätzlich verliert der Zauberwirker permanent einen Punkt GEI.
 
 #### 3. GEGENSTAND HERSTELLEN
 

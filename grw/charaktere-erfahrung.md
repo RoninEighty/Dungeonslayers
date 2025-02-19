@@ -15,38 +15,38 @@ Ab der 10. Stufe kann ein Charakter schließlich in eine **Heldenklasse** (siehe
 ### LERNPUNKTE
 
 Für **Lernpunkte (LP)**, von denen man jede neue Stufe 2 erhält, kann man **Eigenschaften**, die **Lebenskraft** oder **TP** steigern. Die jeweiligen Kosten richten sich nach der Klasse des Charakters.
-Alternativ kann 1 Lernpunkt auch ausgegeben werden, um weitere **Sprachen** oder neue **Schriftzeichen** zu erlernen (siehe [Charactererschaffung](grw/charaktere-charaktererschaffung)).
+Alternativ kann 1 Lernpunkt auch ausgegeben werden, um weitere **Sprachen** oder neue **Schriftzeichen** zu erlernen (siehe [Charaktererschaffung](charaktere-charaktererschaffung.md)).
 
 Es kann vorkommen, dass man erst eine Stufe lang sparen muss, um sich eine bestimmte Steigerung leisten zu können.
 
 | Stufe | Erfahrung | Heldenklasse | LP  | TP  |
-| ----- | --------- | ------------ | --- | --- |
-| 1     | 0         | -            | 0   | 1-2 |
-| 2     | 100       | -            | +2  | +1  |
-| 3     | 300       | -            | +2  | +1  |
-| 4     | 600       | -            | +2  | +1  |
-| 5     | 1.000     | -            | +2  | +1  |
-| 6     | 1.500     | -            | +2  | +1  |
-| 7     | 2.100     | -            | +2  | +1  |
-| 8     | 2.800     | -            | +2  | +1  |
-| 9     | 3.600     | -            | +2  | +1  |
-| 10    | 4.500     | -            | +2  | +1  |
-| 11    | 5.500     | 6.000        | +2  | +1  |
-| 12    | 6.600     | 7.600        | +2  | +1  |
-| 13    | 7.800     | 9.300        | +2  | +1  |
-| 14    | 9.100     | 11.100       | +2  | +1  |
-| 15    | 10.500    | 13.000       | +2  | +1  |
-| 16    | 12.000    | 15.000       | +2  | +1  |
-| 17    | 13.700    | 17.200       | +2  | +1  |
-| 18    | 15.600    | 19.600       | +2  | +1  |
-| 19    | 17.700    | 22.200       | +2  | +1  |
-| 20    | 20.000    | 25.000       | +2  | +1  |
+| ----- | :-------: | :----------: | :-: | :-: |
+| 1     |     0     |      -       |  0  | 1-2 |
+| 2     |    100    |      -       | +2  | +1  |
+| 3     |    300    |      -       | +2  | +1  |
+| 4     |    600    |      -       | +2  | +1  |
+| 5     |   1.000   |      -       | +2  | +1  |
+| 6     |   1.500   |      -       | +2  | +1  |
+| 7     |   2.100   |      -       | +2  | +1  |
+| 8     |   2.800   |      -       | +2  | +1  |
+| 9     |   3.600   |      -       | +2  | +1  |
+| 10    |   4.500   |      -       | +2  | +1  |
+| 11    |   5.500   |    6.000     | +2  | +1  |
+| 12    |   6.600   |    7.600     | +2  | +1  |
+| 13    |   7.800   |    9.300     | +2  | +1  |
+| 14    |   9.100   |    11.100    | +2  | +1  |
+| 15    |  10.500   |    13.000    | +2  | +1  |
+| 16    |  12.000   |    15.000    | +2  | +1  |
+| 17    |  13.700   |    17.200    | +2  | +1  |
+| 18    |  15.600   |    19.600    | +2  | +1  |
+| 19    |  17.700   |    22.200    | +2  | +1  |
+| 20    |  20.000   |    25.000    | +2  | +1  |
 
 | LP-KOSTEN | ST  | HÄ  | BE  | GE  | VE  | AU  | LK  | TP  |
-| --------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Krieger   | 2   | 2   | 3   | 3   | 3   | 3   | 1   | 3   |
-| Späher    | 3   | 3   | 2   | 2   | 3   | 3   | 1   | 3   |
-| Zauberw.  | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 3   |
+| --------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Krieger   |  2  |  2  |  3  |  3  |  3  |  3  |  1  |  3  |
+| Späher    |  3  |  3  |  2  |  2  |  3  |  3  |  1  |  3  |
+| Zauberw.  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  3  |
 
 Pro LP-Zahlung +1 auf jeweilige Eigenschaft, LK oder TP
 
@@ -56,13 +56,11 @@ Pro LP-Zahlung +1 auf jeweilige Eigenschaft, LK oder TP
 
 Der maximal erreichbare Grundwert in jeder Eigenschaft beträgt 12, wird aber abhängig vom Volk und der Klasse des Charakters noch modifiziert:
 
-| VOLK   | BONUS AUF GRUNDWERT 12                                          |
-| ------ | --------------------------------------------------------------- |
-| Elf    | Bewegung, Geschick und Aura +1                                  |
-| Mensch | 2 beliebige Eigenschaften +1 oder
-
-1 beliebige Eigenschaft +2 |
-| Zwerg  | Stärke, Härte und Geschick +1                                   |
+| VOLK   | BONUS AUF GRUNDWERT 12                                       |
+| ------ | ------------------------------------------------------------ |
+| Elf    | Bewegung, Geschick und Aura +1                               |
+| Mensch | 2 beliebige Eigenschaften +1 oder 1 beliebige Eigenschaft +2 |
+| Zwerg  | Stärke, Härte und Geschick +1                                |
 
 | KLASSE   | BONUS AUF GRUNDWERT 12   |
 | -------- | ------------------------ |

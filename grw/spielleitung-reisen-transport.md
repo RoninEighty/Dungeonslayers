@@ -8,10 +8,10 @@ Die folgende Tabelle listet auf, wie weit eine Reisegruppe durchschnittlich in 1
 | Ochsenwagen      |  30km   |    -     |
 | Pferd (Schritt)  |  55km   |   35km   |
 | Pferd (Halbtrab) |  80km   |   55km   |
-| Pferd (Galopp)   | 100km\* |    -     |
+| Pferd (Galopp)   | 100km¹ |    -     |
 | Kutsche          |  85km   |    -     |
 
-\*: Dauert (15-AGI)h, nach (KÖR/2)h aber KÖR+HÄ alle 15 Minuten (im Trab alle 30), sonst totgeritten.
+¹: Dauert (15-AGI)h, nach (KÖR/2)h aber KÖR+HÄ alle 15 Minuten (im Trab alle 30), sonst totgeritten.
 
 | AUF DEM FLUSS/12H | STROMAUF | STROMAB |
 | ----------------- | :------: | :-----: |

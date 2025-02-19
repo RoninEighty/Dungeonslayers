@@ -24,15 +24,17 @@ Als Faustregel wird empfohlen, dass ein gewürfelter Patzer im Kampf einen Chara
 
 | GEPATZTE PROBE | RESULTAT                               |
 | -------------- | -------------------------------------- |
-| Abwehr         | Sturz zu Boden\*                       |
-| Schlagen       | Waffen fallen gelassen\*\*             |
-| SchießenWaffen | fallen gelassen\*\*\*                  |
+| Abwehr         | Sturz zu Boden¹                        |
+| Schlagen       | Waffen fallen gelassen²                |
+| SchießenWaffen | fallen gelassen³                       |
 | Zaubern        | Zauber “springt raus”, kein mehr aktiv |
 | Zauber         | Zauber “springt raus”, kein mehr aktiv |
 
-\*: Nichtmag. Holzschild zerbricht dabei
-\*\*: Nichtmag. Holzwaffe zerbricht
-\*\*\*: Nichtmag. Holzwurfwaffe zerbricht
+²: Nichtmag. Holzschild zerbricht dabei
+
+²: Nichtmag. Holzwaffe zerbricht
+
+³: Nichtmag. Holzwurfwaffe zerbricht
 
 ### MEHRERE GEGNER
 
@@ -109,34 +111,37 @@ Heiler, die Kameraden heilen, welche in diesem Kampf verletzt wurden, erhalten a
 
 Mit Slayerpunkten kann man jederzeit aktionsfreie Handlungen unternehmen oder Boni aktivieren (diese wirken, bis man in der nächsten Runde wieder an der Reihe ist). Boni können nicht eingesetzt werden, um den PW einer bereits gewürfelten Probe zu ändern. Die jeweiligen SP-Kosten sind folgender Tabelle zu entnehmen:
 
-| SP  | FREIE AKTION / BONUS                     |
-| --- | ---------------------------------------- |
-| 1   | 2 Schadenspunkte ignorieren              |
-| 1   | Abklingzeit -1 Runde                     |
-| 1   | Abwehr +3                                |
-| 1   | Gegnerabwehr -1                          |
-| 1   | Im Nahkampf aufstehen                    |
-| 1   | Laufen +1m                               |
-| 1   | Waffe aufheben/wechseln/ziehen           |
-| 2   | 1x Ausweichen\*\*                        |
-| 2   | 6 Schadenspunkte ignorieren              |
-| 2   | Abklingzeit -3 Runden                    |
-| 2   | Abwehr +8                                |
-| 2   | Angriffsprobe +2                         |
-| 2   | Gegnerabwehr -2                          |
-| 2   | Laufen +2m                               |
-| 2   | Misslungenen Angriff wiederholen\*       |
-| 2   | Zauber wechseln (Probe)                  |
-| 3   | 2. Angriff in einer Runde                |
-| 3   | 9 Schadenspunkte ignorieren              |
-| 3   | Abklingzeit -10 Runden                   |
-| 3   | Abwehr +12                               |
-| 3   | Gegner bei Schaden zu Fall bringen\*\*\* |
-| 3   | Gegnerabwehr -4                          |
-| 3   | Laufen +3m                               |
+| SP  | FREIE AKTION / BONUS                |
+| --- | ----------------------------------- |
+| 1   | 2 Schadenspunkte ignorieren         |
+| 1   | Abklingzeit -1 Runde                |
+| 1   | Abwehr +3                           |
+| 1   | Gegnerabwehr -1                     |
+| 1   | Im Nahkampf aufstehen               |
+| 1   | Laufen +1m                          |
+| 1   | Waffe aufheben/wechseln/ziehen      |
+| 2   | 1x Ausweichen²                      |
+| 2   | 6 Schadenspunkte ignorieren         |
+| 2   | Abklingzeit -3 Runden               |
+| 2   | Abwehr +8                           |
+| 2   | Angriffsprobe +2                    |
+| 2   | Gegnerabwehr -2                     |
+| 2   | Laufen +2m                          |
+| 2   | Misslungenen Angriff wiederholen¹   |
+| 2   | Zauber wechseln (Probe)             |
+| 3   | 2. Angriff in einer Runde           |
+| 3   | 9 Schadenspunkte ignorieren         |
+| 3   | Abklingzeit -10 Runden              |
+| 3   | Abwehr +12                          |
+| 3   | Gegner bei Schaden zu Fall bringen³ |
+| 3   | Gegnerabwehr -4                     |
+| 3   | Laufen +3m                          |
 
-\*: Gilt nicht bei Patzern
-**: Wie mit dem gleichnamigen Talent \***: Nicht bei Gegnern die 2+ GK größer
+¹: Gilt nicht bei Patzern
+
+²: Wie mit dem gleichnamigen Talent
+
+³: Nicht bei Gegnern die 2+ GK größer
 
 ---
 
