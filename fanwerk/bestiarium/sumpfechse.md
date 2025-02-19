@@ -22,14 +22,8 @@ Biss (WB+2, GA-2)
 **Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Natürliche Waffen, Schleudern, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 9  
 Größe: Groß  

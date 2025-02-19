@@ -27,14 +27,8 @@ Schleuder
 **Panzerung:**  
 Lumpen
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Heimlichkeit III, Schütze III
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

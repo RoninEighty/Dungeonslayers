@@ -22,14 +22,8 @@ Werkzeug (WB+4)
 **Panzerung:**  
 Steinwesen (PA+5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+3), Dunkelsicht, Geistesimmun, Mehrere Angriffsglieder (+3), Schleudern, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 26  
 Größe: Groß  

@@ -22,14 +22,8 @@ Knochenpranke (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+3), Dunkelsicht, Geistesimmun, Mehrere Angriffsglieder, Schleudern, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 12  
 Größe: Groß  

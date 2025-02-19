@@ -27,9 +27,6 @@ Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fürsorger II, Ausweichen I, Alchemie I, Rüstzauberer I, Zaubermacht I
 

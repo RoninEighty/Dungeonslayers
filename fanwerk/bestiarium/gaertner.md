@@ -27,14 +27,8 @@ Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Jäger I, Schütze I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

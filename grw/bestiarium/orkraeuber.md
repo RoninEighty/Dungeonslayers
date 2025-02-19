@@ -22,14 +22,8 @@ Krummschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 5  
 Größe: Normal  

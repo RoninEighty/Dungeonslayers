@@ -33,9 +33,6 @@ Kette (Abwehr +1)
 **Talente:**  
 Kämpfer III, Schnelle Reflexe II, Zwei Waffen II, Brutaler Hieb I, Ausweichen I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 13  
 Größe: Normal  
 Erfahrungspunkte: 110  

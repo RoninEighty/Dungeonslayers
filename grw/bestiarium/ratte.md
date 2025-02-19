@@ -22,14 +22,8 @@ Spitze Zähne (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Natürliche Waffen, Schwimmen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Winzig  

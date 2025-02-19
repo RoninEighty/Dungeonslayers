@@ -27,13 +27,7 @@ Werkzeug (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
-
-
-**Zaubersprüche:**  
 
 
 Gegnerhärte: 2  

@@ -22,13 +22,7 @@ Spitze Zähne (WB+4)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
-
-
-**Zaubersprüche:**  
 
 
 Gegnerhärte: 7  

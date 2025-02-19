@@ -23,14 +23,8 @@ Steinpranke (WB+4, GA-4), Felsen (WB+2, GA-2)
 **Panzerung:**  
 Steinwesen (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Geistesimmun, Schleudern, Sturmangriff, Verschlingen, Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 261  
 Größe: ge  

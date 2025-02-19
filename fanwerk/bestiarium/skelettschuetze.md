@@ -22,14 +22,8 @@ Knochenbogen (WB+4, INI+3, GA-2), Kochenklauen (WB+2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Resistenz, Wesen der Dunkelheit (Settingoption), Zielen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 7  
 Größe: Normal  

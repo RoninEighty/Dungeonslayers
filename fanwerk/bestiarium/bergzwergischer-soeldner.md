@@ -27,14 +27,8 @@ Streithammer (2h) (WB+3, INI-4)
 **Panzerung:**  
 Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker I, Kämpfer I, Schlachtruf I, Waffenkenner I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 5  
 Größe: Normal  

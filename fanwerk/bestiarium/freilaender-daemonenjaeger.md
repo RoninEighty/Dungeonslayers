@@ -27,9 +27,6 @@ Armbrust, leicht (2h) (WB+2, INI-2), Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diener des Lichts I, Fieser Schuss I, Schnelle Reflexe I, Schütze I, Wahrnehmung I
 

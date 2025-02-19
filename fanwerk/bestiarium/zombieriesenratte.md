@@ -22,14 +22,8 @@ Spitze Zähne (WB+2)
 **Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Natürliche Waffen, Schwimmen, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Klein  

@@ -22,14 +22,8 @@ Kräftiger Biss (WB+2, GA-1)
 **Panzerung:**  
 Wolfspelz (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Geistesimmun, Nachtsicht, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 7  
 Größe: Normal  

@@ -22,14 +22,8 @@ Langschwert (WB+2)
 **Panzerung:**  
 Metallwesen (PA+5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fliegen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Klein  

@@ -22,14 +22,8 @@ Lehmpranke (WB+3)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Groß  

@@ -27,14 +27,8 @@ Kurzschwert (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Parade III, Kämpfer II, Wissensgebiet II
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

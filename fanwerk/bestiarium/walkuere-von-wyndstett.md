@@ -27,14 +27,8 @@ Speer (WB+1), Breitschwert (WB+1, GA-2)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kämpfer I, Parade I, Schlachtruf I, Schnelle Reflexe I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

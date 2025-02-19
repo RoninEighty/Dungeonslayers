@@ -23,9 +23,6 @@ Schattenklinge (WB+3, GA-4), Feuerlanze (WB+2)
 **Panzerung:**  
 Schattenrüstung (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 

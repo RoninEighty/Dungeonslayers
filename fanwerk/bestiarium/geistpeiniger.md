@@ -22,9 +22,6 @@ Gedankensturm (WB+7), Tentakel (WB+2)
 **Panzerung:**  
 Lederhaut (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+3), Gedankensturm, Antimagie, Natürliche Waffen, Werteverlust
 

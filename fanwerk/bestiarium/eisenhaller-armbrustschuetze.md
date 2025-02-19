@@ -27,14 +27,8 @@ Armbrust, leicht (2h) (WB+2, INI-2), Dolch (INI+1)
 **Panzerung:**  
 Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker I, Schlachtruf I, Schütze I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

@@ -27,14 +27,8 @@ mag. Langschwert +1 (WB+3, INI+1, GA-1, Dämonen zerschmettern +II)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), mag. Metallhelm +2 (PA+3, Zauber: Giftschutz eingebettet), mag. Metallschild +1 (PA+2, Standhaft +II)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kämpfer III, Parade III, Brutaler Hieb II, Diener des Lichts II, Einstecker I, Panzerung zerschmettern I, Rüstträger I, Verletzen I, Waffenkenner I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 12  
 Größe: Normal  

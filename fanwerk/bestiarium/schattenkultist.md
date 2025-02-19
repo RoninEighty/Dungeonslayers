@@ -27,13 +27,7 @@ Kurzschwert (WB+1)
 **Panzerung:**  
 Robe
 
-**Ausrüstung:**  
-
-
 **Talente:**  
-
-
-**Zaubersprüche:**  
 
 
 Gegnerhärte: 1  

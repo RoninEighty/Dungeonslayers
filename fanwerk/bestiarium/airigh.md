@@ -27,9 +27,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1, Zauber: Teleport eingebettet)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Magieresistent III, Feuermagier II, Bildung II, Wechsler II, Zaubermacht II, Runenkunde I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 

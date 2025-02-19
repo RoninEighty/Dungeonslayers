@@ -22,14 +22,8 @@ Kochenklauen (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 7  
 Größe: Groß  

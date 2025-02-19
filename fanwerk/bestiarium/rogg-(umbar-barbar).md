@@ -33,9 +33,6 @@ Ring (Abwehr +1)
 **Talente:**  
 Brutaler Hieb III, Einstecker III, Magieresistent II, Kämpfer I, Schnelle Reflexe I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 10  
 Größe: Normal  
 Erfahrungspunkte: 114  

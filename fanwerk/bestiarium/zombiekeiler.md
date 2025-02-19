@@ -22,14 +22,8 @@ Hauer (WB+2, GA-1)
 **Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Geistesimmun, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 10  
 Größe: Normal  

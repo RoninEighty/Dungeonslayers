@@ -27,9 +27,6 @@ mag. Langschwert +1 (WB+3, INI+1, GA-1)
 **Panzerung:**  
 mag. Robe +2 (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 
 

@@ -27,14 +27,8 @@ Langbogen (2h) (WB+2, INI+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fieser Schuss I, Heimlichkeit I, Jäger I, Wahrnehmung I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

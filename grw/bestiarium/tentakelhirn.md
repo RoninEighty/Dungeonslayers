@@ -22,9 +22,6 @@
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Schweben, Werteverlust
 

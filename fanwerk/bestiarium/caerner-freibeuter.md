@@ -27,14 +27,8 @@ Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Akrobat I, Einstecker I, Flink I, Kämpfer I, Schwimmen I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

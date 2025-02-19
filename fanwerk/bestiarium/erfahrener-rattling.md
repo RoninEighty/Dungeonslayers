@@ -27,14 +27,8 @@ Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1)
 **Panzerung:**  
 Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Schütze II, Einstecker I, Fieser Schuss I, Flink I, Ausweichen I, Schwimmen I, Heimlichkeit I, Wahrnehmung I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

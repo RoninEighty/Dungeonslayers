@@ -27,14 +27,8 @@ mag. Breitschwert +2 (WB+3, INI+2, GA-4)
 **Panzerung:**  
 mag. Plattenpanzer +1 (PA+4, LA-0.5, Parade +I), mag. Plattenbeinschienen +1 (PA+2, Flink +I), mag. Plattenarmschienen +1 (PA+2, Kämpfer +I), mag. Metallhelm +1 (PA+2, Schnelle Reflexe +I)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Ausweichen III, Brutaler Hieb III, Kämpfer III, Verletzen III, Sensenspötter II, Magieresistent I, Waffenkenner I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 15  
 Größe: Normal  

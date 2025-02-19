@@ -23,9 +23,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
 

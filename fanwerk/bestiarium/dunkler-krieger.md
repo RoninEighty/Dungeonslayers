@@ -26,14 +26,8 @@ Langschwert (WB+2)
 **Panzerung:**  
 Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diener der Dunkelheit II, Einstecker I, Kämpfer I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 5  
 Größe: Normal  

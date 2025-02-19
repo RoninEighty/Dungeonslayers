@@ -27,14 +27,8 @@ Langschwert (WB+2), Lanze (WB+1)
 **Panzerung:**  
 Plattenpanzer (PA+3, LA-1), Metallschild (PA+1, LA-0.5), Metallhelm (PA+1, INI-1), Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kämpfer III, Einstecker II, Parade I, Reiten I, Schnelle Reflexe I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 10  
 Größe: Normal  

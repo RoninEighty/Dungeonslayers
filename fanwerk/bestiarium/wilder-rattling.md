@@ -22,14 +22,8 @@ Krallen (WB+2), Biss (WB+2)
 **Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Gift, Dunkelsicht, Kletterläufer, Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

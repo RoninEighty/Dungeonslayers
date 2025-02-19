@@ -22,14 +22,8 @@ Spitze Zähne (WB+2)
 **Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+9), Bezaubern, Dunkelsicht, Natürliche Waffen, Regeneration, Schwimmen, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 25  
 Größe: Groß  

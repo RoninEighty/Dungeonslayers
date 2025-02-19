@@ -22,14 +22,8 @@ Langschwert (WB+2)
 **Panzerung:**  
 Metallwesen (PA+5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Normal  

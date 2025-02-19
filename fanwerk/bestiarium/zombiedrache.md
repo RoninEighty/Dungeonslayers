@@ -22,14 +22,8 @@ Biss, Klaue, Odem oder Schwanzhieb (WB+4, GA-2)
 **Panzerung:**  
 Verrottender Körper (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Mehrere Angriffe (+1), Geistesimmun, Dunkelsicht, Natürliche Waffen, Odem, Regeneration, Totenkraft, Verdorrende Aura, Verschlingen, Wesen der Dunkelheit (Settingoption), Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 64  
 Größe: ge  

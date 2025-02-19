@@ -22,14 +22,8 @@ Eisstrahl (WB+4)
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Körperlos
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 15  
 Größe: Groß  

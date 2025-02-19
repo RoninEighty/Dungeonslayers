@@ -22,13 +22,7 @@ Fäulnispranke (WB+2)
 **Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
-
-
-**Zaubersprüche:**  
 
 
 Gegnerhärte: 8  

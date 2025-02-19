@@ -27,14 +27,8 @@ Dolch (INI+1), Wurfmesser
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Charmant I, Glückspilz I, Schlitzohr I, Schnelle Reflexe I, Wahrnehmung I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

@@ -22,14 +22,8 @@ Speer (WB+1)
 **Panzerung:**  
 Schuppenpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Schleudern
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Normal  

@@ -22,14 +22,8 @@ Großer Biss (WB+2, GA-2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Natürliche Waffen, Schwimmen, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 9  
 Größe: Normal  

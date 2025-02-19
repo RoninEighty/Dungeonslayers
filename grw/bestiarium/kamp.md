@@ -27,13 +27,7 @@ Langschwert (WB+2), Armbrust, leicht (2h) (WB+2, INI-2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
-
-
-**Zaubersprüche:**  
 
 
 Gegnerhärte: 2  

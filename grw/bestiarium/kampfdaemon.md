@@ -22,14 +22,8 @@ Pranke (WB+3, GA-3)
 **Panzerung:**  
 Dämonenhaut (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Groß  

@@ -22,14 +22,8 @@ Biss (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Natürliche Waffen, Schwimmen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Klein  

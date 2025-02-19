@@ -22,9 +22,6 @@ Lähmende Berührung (WB+5)
 **Panzerung:**  
 mag. Robe +2 (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Lähmungseffekt, Magische Aufladung, Wesen der Dunkelheit (Settingoption)
 

@@ -27,14 +27,8 @@ Dolch (INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bildung I, Charmant I, Schlitzohr I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

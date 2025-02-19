@@ -27,14 +27,8 @@ Axt (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Prügler I, Raserei I, Schlachtruf I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Normal  

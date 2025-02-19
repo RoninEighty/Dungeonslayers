@@ -27,14 +27,8 @@ Bihänder (2h) (WB+3, INI-2, GA-4)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kämpfer III, Einstecker II, Brutaler Hieb II, Vernichtender Schlag I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 11  
 Größe: Normal  

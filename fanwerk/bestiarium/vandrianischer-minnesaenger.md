@@ -27,14 +27,8 @@ Langschwert (WB+2), Lanze (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Charmant I, Instrument I, Kämpfer I, Parade I, Reiten I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Normal  

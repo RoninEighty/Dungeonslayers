@@ -22,14 +22,8 @@ Zahnschlund (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

@@ -27,14 +27,8 @@ Hammer (WB+1, GA-1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Handwerk I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

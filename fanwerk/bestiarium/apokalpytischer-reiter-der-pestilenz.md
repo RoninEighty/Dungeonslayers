@@ -23,14 +23,8 @@ Peitsche (WB+4, GA-4)
 **Panzerung:**  
 Umhang (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 17  
 Größe: Groß  

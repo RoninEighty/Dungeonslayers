@@ -22,14 +22,8 @@ Hammer (WB+1, GA-1)
 **Panzerung:**  
 Fellschurz
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Klein  

@@ -26,9 +26,6 @@
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diener der Dunkelheit V, Beschwörer III, Zaubermacht III, Verheerer II, Einstecker I, Bändiger I, Meister seiner Klasse I, Feuermagier I
 

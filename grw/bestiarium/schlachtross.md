@@ -22,14 +22,8 @@ Huf/Rammen (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Natürliche Waffen, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 9  
 Größe: Groß  

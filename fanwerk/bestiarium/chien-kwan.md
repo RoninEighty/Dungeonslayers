@@ -27,9 +27,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker III, Zaubermacht III
 

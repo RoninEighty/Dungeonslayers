@@ -27,14 +27,8 @@ Kurzbogen (2h) (WB+1, INI+1), Dolch (INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Jäger I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I, Zauber auslösen I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

@@ -22,14 +22,8 @@ Geisterklaue (WB+2, GA-2)
 **Panzerung:**  
 Körperlos (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Fliegen, Geistesimmun, Natürliche Waffen, Nur durch Magie verletzbar, Umschlingen, Werteverlust, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 11  
 Größe: Winzig  

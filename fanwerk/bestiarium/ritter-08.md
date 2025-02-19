@@ -33,9 +33,6 @@ Stiefel (Flink +III)
 **Talente:**  
 Kämpfer III, Parade III, Reiten II, Charmant I, Brutaler Hieb I, Schnelle Reflexe I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 13  
 Größe: Normal  
 Erfahrungspunkte: 83  

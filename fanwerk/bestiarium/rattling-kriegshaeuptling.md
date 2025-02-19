@@ -27,14 +27,8 @@ Kurzbogen (2h) (WB+1, INI+1), mag. Krummsäbel +1 (WB+2, INI+1, GA-1)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker III, Kämpfer III, Ausweichen II, Flink II, Brutaler Hieb II, Parade II, Wissensgebiet II, Heimlichkeit I, Hinterhältiger Angriff I, Schwimmen I, Wahrnehmung I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 5  
 Größe: Klein  

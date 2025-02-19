@@ -22,9 +22,6 @@ Fäulnispranke (WB+1)
 **Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Geistesimmun, Natürliche Waffen, Wesen der Dunkelheit (Settingoption)
 

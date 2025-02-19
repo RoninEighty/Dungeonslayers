@@ -27,14 +27,8 @@ Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Ausweichen I, Flink I, Parade I, Schnelle Reflexe I, Schütze I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

@@ -27,14 +27,8 @@ Hellebarde (2h) (WB+2, INI-2)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker I, Kämpfer I, Verletzen I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

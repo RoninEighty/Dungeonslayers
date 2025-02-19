@@ -22,14 +22,8 @@ Wurzelhiebe (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Geistesimmun, Lähmungseffekt, Natürliche Waffen, Umschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Groß  

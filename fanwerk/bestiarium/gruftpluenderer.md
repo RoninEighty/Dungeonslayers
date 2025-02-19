@@ -22,14 +22,8 @@ Kurzschwert (WB+1), Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diebeskunst, Dunkelsicht, Geistesimmun, Kletterläufer, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

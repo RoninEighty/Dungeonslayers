@@ -22,9 +22,6 @@ Krallenklaue (WB+2)
 **Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bezaubern, Fliegen, Nachtsicht, Natürliche Waffen, Sturzangriff
 

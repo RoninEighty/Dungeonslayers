@@ -23,14 +23,8 @@ mag. Langschwert +1 (WB+3, INI+1, GA-1)
 **Panzerung:**  
 mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Alterung, Geistesimmun, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 22  
 Größe: Normal  

@@ -22,14 +22,8 @@ Dolch
 **Panzerung:**  
 Dunkler Lumpenumhang
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Gift, Mehrere Angriffe (+1), Nachtsicht, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Klein  

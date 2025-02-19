@@ -23,14 +23,8 @@ Klauen/Zunge (WB+2)
 **Panzerung:**  
 Warzenhaut
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+3), Dunkelsicht, Kletterläufer, Natürliche Waffen, Schwimmen, Verschlingen, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 14  
 Größe: Normal  

@@ -27,14 +27,8 @@ Streitaxt (2h) (WB+3, INI-2), Armbrust, leicht (2h) (WB+2, INI-2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Normal  

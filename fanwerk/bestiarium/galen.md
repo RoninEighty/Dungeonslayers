@@ -27,9 +27,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bildung I, Charmant I, Diebeskunst I, Heimlichkeit I, Schlitzohr I, Schnelle Reflexe I, Wissensgebiet I
 

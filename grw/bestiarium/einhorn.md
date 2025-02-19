@@ -22,9 +22,6 @@ Horn oder Hufe (WB+1, GA-2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Mehrere Angriffe (+1), Geistesimmun, Nachtsicht, Schleudern, Sturmangriff, Wesen des Lichts (Settingoption)
 

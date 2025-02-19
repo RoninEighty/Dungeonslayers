@@ -27,14 +27,8 @@ Bihänder (2h) (WB+3, INI-2, GA-4)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Brutaler Hieb I, Kämpfer I, Parade I, Prügler I, Standhaft I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

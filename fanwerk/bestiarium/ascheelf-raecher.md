@@ -27,9 +27,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1), Dolch (INI+1)
 **Panzerung:**  
 Robe
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diener der Dunkelheit II, Wissensgebiet II, Manipulator I, Zaubermacht I
 

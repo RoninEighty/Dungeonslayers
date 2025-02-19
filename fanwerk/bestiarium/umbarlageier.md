@@ -22,9 +22,6 @@ Schnabel (WB+2, GA-1)
 **Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fliegen, Natürliche Waffen, Sturzangriff
 

@@ -27,14 +27,8 @@ Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Glückspilz I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

@@ -27,9 +27,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Alchemie II, Feuermagier II, Ausweichen I, Einstecker I, Heimlichkeit I, Schwimmen I, Wahrnehmung I, Zaubermacht I
 

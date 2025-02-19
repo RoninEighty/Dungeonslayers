@@ -27,14 +27,8 @@ Axt (WB+1), Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kämpfer II, Wahrnehmung II, Jäger I, Ausweichen I, Raserei I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

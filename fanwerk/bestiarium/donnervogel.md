@@ -22,14 +22,8 @@ Großer Schnabel (WB+2)
 **Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Natürliche Waffen, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Groß  

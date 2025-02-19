@@ -22,14 +22,8 @@ Kochenklauen (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bodenkampf, Geistesimmun, Kletterläufer, Sonar, Umklammern, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Winzig  

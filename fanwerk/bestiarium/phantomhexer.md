@@ -22,9 +22,6 @@ Geisterklaue (WB+2, GA-2)
 **Panzerung:**  
 Körperlos (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Alterung, Dunkelsicht, Fliegen, Geistesimmun, Wesen der Dunkelheit (Settingoption)
 

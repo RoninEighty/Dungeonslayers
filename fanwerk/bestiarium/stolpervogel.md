@@ -22,9 +22,6 @@ Schnabel (WB+1)
 **Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 
 

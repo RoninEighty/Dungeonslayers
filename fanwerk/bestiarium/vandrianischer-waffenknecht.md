@@ -27,14 +27,8 @@ Armbrust, schwer (2h) (WB+3, INI-4, GA-2), Dolch (INI+1)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Schütze II, Einstecker I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

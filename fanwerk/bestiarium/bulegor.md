@@ -27,14 +27,8 @@ mag. Hammer +1 (WB+2, INI+1, GA-2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), mag. Metallschild +1 (PA+2), mag. Metallhelm +1 (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Ausweichen III, Blocker III, Parade III, Wissensgebiet III, Handwerk II, Kämpfer II, Wissensgebiet II
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 10  
 Größe: Normal  

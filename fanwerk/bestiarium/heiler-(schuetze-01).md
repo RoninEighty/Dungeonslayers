@@ -27,9 +27,6 @@ Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1), Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fürsorger III, Rüstzauberer I
 

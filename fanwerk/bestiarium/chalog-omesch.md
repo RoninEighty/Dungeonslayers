@@ -33,9 +33,6 @@ Kompass (Zauber: Magie entdecken eingebettet, Zauber: Verborgenes sehen eingebet
 **Talente:**  
 Wahrnehmung V, Heimlichkeit III, Jäger III, Bildung III, Diebeskunst II, Fieser Schuss II, Schütze II, Schnelle Reflexe II, Runenkunde I, In Deckung I, Diener des Lichts I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 1  
 Größe: Normal  
 Erfahrungspunkte: 61  

@@ -22,14 +22,8 @@ Biss (WB+3)
 **Panzerung:**  
 Wolfspelz (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+2), Gift, Angst, Dunkelsicht, Natürliche Waffen, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 19  
 Größe: Groß  

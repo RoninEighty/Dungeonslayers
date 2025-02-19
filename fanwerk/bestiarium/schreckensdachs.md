@@ -22,14 +22,8 @@ Pranke (WB+2, GA-2)
 **Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 10  
 Größe: Normal  

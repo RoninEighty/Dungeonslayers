@@ -22,14 +22,8 @@ Langschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Holzschild (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

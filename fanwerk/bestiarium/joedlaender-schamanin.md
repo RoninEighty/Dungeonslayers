@@ -27,9 +27,6 @@ Speer (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fürsorger I, Jäger I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 

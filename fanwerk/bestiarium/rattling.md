@@ -27,14 +27,8 @@ Schleuder, Dolch (INI+1)
 **Panzerung:**  
 Lumpen (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fieser Schuss I, Flink I, Heimlichkeit I, Schwimmen I, Wahrnehmung I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

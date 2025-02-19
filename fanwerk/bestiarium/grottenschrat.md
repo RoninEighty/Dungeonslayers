@@ -22,14 +22,8 @@ Biss (WB+4)
 **Panzerung:**  
 Dicke Haut (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Normal  

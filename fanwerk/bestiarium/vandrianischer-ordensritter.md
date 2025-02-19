@@ -27,14 +27,8 @@ Langschwert (WB+2), Streitkolben (WB+1, GA-1)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Brutaler Hieb I, Diener des Lichts I, Flink I, Parade I, Waffenkenner I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

@@ -27,9 +27,6 @@ mag. Breitschwert +2 (WB+3, INI+2, GA-4, Zauber: Feuerball eingebettet)
 **Panzerung:**  
 Lederpanzer (PA+1, Ausweichen +III), Lederschienen (Arm & Bein) (PA+1, Kämpfer +III)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Feuermagier III, Wissensgebiet III, Ausweichen II, Einbetten II, Wechsler II, Kämpfer I, Gerüstet I, Arkane Explosion I, Standhaft I, Rüstzauberer I, Wissensgebiet I, Zaubermacht I, Zauberwaffe I
 

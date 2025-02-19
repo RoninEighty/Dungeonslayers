@@ -27,14 +27,8 @@ Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fieser Schuss I, Kämpfer I, Parade I, Schütze I, Wahrnehmung I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

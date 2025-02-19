@@ -23,14 +23,8 @@ Kurzschwert (WB+1)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Nachtsicht, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Klein  

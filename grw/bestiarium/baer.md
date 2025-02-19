@@ -22,14 +22,8 @@ Pranke (WB+2, GA-2)
 **Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Natürliche Waffen, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 9  
 Größe: Groß  

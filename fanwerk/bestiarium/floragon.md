@@ -27,14 +27,8 @@ Kurzbogen (2h) (WB+1, INI+1), Dolch (INI+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Jäger I, Schütze I, Wissensgebiet I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

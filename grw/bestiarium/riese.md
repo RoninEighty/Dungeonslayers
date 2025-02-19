@@ -22,14 +22,8 @@ Baumstamm (WB+4, GA-4), Geworf. Fels (WB+4, GA-4)
 **Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Umschlingen, Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 29  
 Größe: Riesig  

@@ -22,14 +22,8 @@ Schattenklinge (WB+5, GA-5)
 **Panzerung:**  
 Umhang (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fliegen, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 33  
 Größe: Riesig  

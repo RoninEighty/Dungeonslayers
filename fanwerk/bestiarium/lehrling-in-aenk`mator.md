@@ -27,9 +27,6 @@
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bildung II, Alchemie I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 

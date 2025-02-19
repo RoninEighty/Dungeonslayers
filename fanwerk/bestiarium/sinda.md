@@ -27,14 +27,8 @@ Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Ausweichen I, Einstecker I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

@@ -27,14 +27,8 @@ Krummschwert (WB+2), Krummschwert (WB+2)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Zwei Waffen III, Parade I, Wahrnehmung I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

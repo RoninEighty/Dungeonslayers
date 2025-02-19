@@ -27,9 +27,6 @@ Hammer (WB+1, GA-1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Handwerk II, Diebeskunst I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
 

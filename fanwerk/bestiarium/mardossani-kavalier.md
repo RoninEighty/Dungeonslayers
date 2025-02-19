@@ -33,9 +33,6 @@ Maske (Glückspilz +I)
 **Talente:**  
 Charmant I, Kämpfer I, Parade I, Schlitzohr I, Waffenkenner I, Wissensgebiet I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 1  
 Größe: Normal  
 Erfahrungspunkte: 51  

@@ -22,14 +22,8 @@ Netzflüssigkeit (WB+2), Spinnenbiss (WB+1)
 **Panzerung:**  
 Chitinpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kletterläufer, Lähmungseffekt, Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Klein  

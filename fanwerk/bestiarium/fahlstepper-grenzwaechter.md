@@ -27,14 +27,8 @@ Speer (WB+1), Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker I, Jäger I, Schlachtruf I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

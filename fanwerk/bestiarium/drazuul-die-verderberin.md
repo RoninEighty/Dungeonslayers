@@ -23,14 +23,8 @@ Schattenklaue (WB+3)
 **Panzerung:**  
 Schattenkörper (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Dunkelsicht, Geistesimmun, Bezaubern, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 27  
 Größe: Normal  

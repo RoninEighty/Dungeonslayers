@@ -27,14 +27,8 @@ Armbrust, leicht (2h) (WB+2, INI-2)
 **Panzerung:**  
 mag. Lederpanzer +1 (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Ausweichen III, Heimlichkeit III, Schlitzohr III, Wissensgebiet II, Handwerk I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

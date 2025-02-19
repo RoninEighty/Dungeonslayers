@@ -22,14 +22,8 @@ Biss (WB+2, GA-2)
 **Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Gift, Lähmungseffekt, Natürliche Waffen, Umschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 20  
 Größe: Riesig  

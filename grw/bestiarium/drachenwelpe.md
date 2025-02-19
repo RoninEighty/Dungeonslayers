@@ -22,14 +22,8 @@ Biss, Klaue, Odem oder Schwanzhieb (WB+3, GA-2)
 **Panzerung:**  
 Drachenschuppen (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Mehrere Angriffe (+1), Dunkelsicht, Fliegen, Natürliche Waffen, Odem, Schleudern, Sturzangriff, Verschlingen, Wesen der Dunkelheit / Wesen des Lichts (Settingoption), Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 20  
 Größe: Groß  

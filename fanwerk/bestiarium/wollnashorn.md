@@ -22,14 +22,8 @@ Horn oder Hufe (WB+2, GA-1)
 **Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Sturmangriff, Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 12  
 Größe: Groß  

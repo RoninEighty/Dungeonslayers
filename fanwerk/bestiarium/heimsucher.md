@@ -22,14 +22,8 @@ Schattenpfeil (WB+1, GA-2)
 **Panzerung:**  
 Körperlos (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Dunkelsicht, Fliegen, Geistesimmun, Totenkraft, Werteverlust, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 14  
 Größe: Normal  

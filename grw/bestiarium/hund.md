@@ -22,14 +22,8 @@ Biss (WB+1)
 **Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

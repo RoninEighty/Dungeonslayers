@@ -27,9 +27,6 @@ Dolch (INI+1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bildung I, Fürsorger I, Instrument I, Wissensgebiet I, Wissensgebiet I
 

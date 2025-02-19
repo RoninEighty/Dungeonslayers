@@ -27,14 +27,8 @@ Breitschwert (WB+1, GA-2)
 **Panzerung:**  
 Holzschild (PA+1), Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kämpfer II, Brutaler Hieb I, Parade I, Wahrnehmung I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 5  
 Größe: Normal  

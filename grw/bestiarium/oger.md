@@ -22,14 +22,8 @@ Massive Keule (WB+2, GA-2)
 **Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Umschlingen, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 9  
 Größe: Groß  

@@ -33,9 +33,6 @@ Stirnreif (Aura +2, Charmant +I, Schlitzohr +I)
 **Talente:**  
 Parade III, Ausweichen I, Schlachtruf I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 3  
 Größe: Normal  
 Erfahrungspunkte: 59  

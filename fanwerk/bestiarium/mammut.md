@@ -22,14 +22,8 @@ Stoßzähne (WB+3, GA-1)
 **Panzerung:**  
 Fell (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Natürliche Waffen, Sturmangriff, Umschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 19  
 Größe: Groß  

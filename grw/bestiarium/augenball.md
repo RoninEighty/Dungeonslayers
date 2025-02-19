@@ -22,9 +22,6 @@
 **Panzerung:**  
 Warzenhaut (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+4), Antimagie, Dunkelsicht, Mehrere Angriffsglieder, Schweben, Wesen der Dunkelheit (Settingoption)
 

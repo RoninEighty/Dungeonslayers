@@ -27,9 +27,6 @@ mag. Dolch +3 (WB+3, INI+4, GA-3)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diener der Dunkelheit V, Beschwörer II, Genesung II, Feuermagier I
 

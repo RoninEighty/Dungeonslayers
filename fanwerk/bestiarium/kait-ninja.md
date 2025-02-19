@@ -27,14 +27,8 @@ Langschwert (WB+2), Dolch (INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Akrobat I, Ausweichen I, Flink I, Heimlichkeit I, Parade I, Schnelle Reflexe I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

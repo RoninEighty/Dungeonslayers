@@ -27,9 +27,6 @@
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker III, Schnelle Reflexe I
 

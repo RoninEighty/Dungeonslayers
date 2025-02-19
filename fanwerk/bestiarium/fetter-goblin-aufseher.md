@@ -22,14 +22,8 @@ Peitsche (WB-1, INI+1, GA-2)
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Parade II, Kämpfer I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

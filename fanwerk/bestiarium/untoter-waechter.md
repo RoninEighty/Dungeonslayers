@@ -22,14 +22,8 @@ Streitaxt (2h) (WB+3, INI-2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Geistesimmun, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 13  
 Größe: Normal  

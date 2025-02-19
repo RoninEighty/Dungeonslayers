@@ -22,14 +22,8 @@ Rammen
 **Panzerung:**  
 Metallwesen (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Schleudern, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 16  
 Größe: Groß  

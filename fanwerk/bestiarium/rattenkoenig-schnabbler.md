@@ -33,9 +33,6 @@ Gürtel (Stärke +3)
 **Talente:**  
 Kämpfer III, Brutaler Hieb II, Einstecker II, Raserei I, Reiten I, Schwimmen I, Wissensgebiet I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 9  
 Größe: Normal  
 Erfahrungspunkte: 92  

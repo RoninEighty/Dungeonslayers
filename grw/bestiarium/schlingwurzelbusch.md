@@ -22,14 +22,8 @@ Wurzelhiebe (WB+2)
 **Panzerung:**  
 Gehölz (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+4), Geistesimmun, Natürliche Waffen, Umschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Normal  

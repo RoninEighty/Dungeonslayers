@@ -22,14 +22,8 @@ Tentakelfühler (WB+1)
 **Panzerung:**  
 Chitinpanzer (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+3), Dunkelsicht, Mehrere Angriffsglieder, Natürliche Waffen, Rost
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Normal  

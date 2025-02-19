@@ -27,14 +27,8 @@ Krummsäbel (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Reiten II, Parade I, Kämpfer I, Waffenkenner I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Klein  

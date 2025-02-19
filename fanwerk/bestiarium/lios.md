@@ -27,9 +27,6 @@ Langschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Ausweichen I
 

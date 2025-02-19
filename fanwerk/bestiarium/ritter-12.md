@@ -33,9 +33,6 @@ Diadem (Aura +3), Stiefel (Flink +III)
 **Talente:**  
 Brutaler Hieb III, Kämpfer III, Parade III, Reiten III, Charmant II, Schnelle Reflexe I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 16  
 Größe: Normal  
 Erfahrungspunkte: 92  

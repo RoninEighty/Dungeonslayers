@@ -27,9 +27,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fürsorger III, Manipulator III, Zaubermacht III, Bildung I, Wissensgebiet I
 

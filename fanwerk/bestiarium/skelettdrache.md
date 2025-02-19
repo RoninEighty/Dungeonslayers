@@ -22,14 +22,8 @@ Biss, Klaue oder Schwanzhieb (WB+3, GA-2)
 **Panzerung:**  
 Skelettpanzer (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Mehrere Angriffe (+1), Dunkelsicht, Fliegen, Geistesimmun, Natürliche Waffen, Schleudern, Sturzangriff, Totenkraft, Wesen der Dunkelheit (Settingoption), Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 46  
 Größe: ge  

@@ -27,14 +27,8 @@ Schlagring, Wurfmesser
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Brutaler Hieb I, Fieser Schuss I, Parade I, Prügler I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

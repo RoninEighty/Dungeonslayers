@@ -22,14 +22,8 @@ Großer Biss (WB+2, GA-2)
 **Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Blickangriff, Nachtsicht, Natürliche Waffen, Versteinern
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 18  
 Größe: Groß  

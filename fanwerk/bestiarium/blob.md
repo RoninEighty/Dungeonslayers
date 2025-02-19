@@ -22,14 +22,8 @@ Säurestrahl (WB+4), Säurestoß (WB+2, GA-2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Gift, Anfällig, Kletterläufer, Regeneration
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 7  
 Größe: Normal  

@@ -27,14 +27,8 @@ Langschwert (WB+2), Dolch (INI+1)
 **Panzerung:**  
 Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diener der Dunkelheit II, Wissensgebiet II, Kämpfer I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

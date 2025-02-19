@@ -27,14 +27,8 @@ Langschwert (WB+2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kämpfer I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

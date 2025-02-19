@@ -22,14 +22,8 @@ Steinpranke (WB+4)
 **Panzerung:**  
 Steinwesen (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff, Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 23  
 Größe: Groß  

@@ -27,9 +27,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1), Kurzschwert (WB+1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bildung I, Diener der Dunkelheit I, Kämpfer I, Wahrnehmung I, Wissensgebiet I
 

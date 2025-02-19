@@ -27,9 +27,6 @@ Wurfmesser
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Akrobat I, Charmant I, Flink I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
 

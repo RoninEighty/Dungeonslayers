@@ -27,9 +27,6 @@ Langschwert (WB+2)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Blocker II, Fürsorger I, Parade I, Rüstzauberer I
 

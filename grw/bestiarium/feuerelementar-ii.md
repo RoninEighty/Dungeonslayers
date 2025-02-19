@@ -22,14 +22,8 @@ Flammenhieb (WB+3)
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Fliegen, Körperlos
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 15  
 Größe: Normal  

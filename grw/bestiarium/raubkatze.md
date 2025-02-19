@@ -22,14 +22,8 @@ Pranke/Biss (WB+2, GA-1)
 **Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Nachtsicht, Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Normal  

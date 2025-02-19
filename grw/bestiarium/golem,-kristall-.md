@@ -22,9 +22,6 @@ Kristallpranke (WB+2)
 **Panzerung:**  
 Kristallwesen (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff
 

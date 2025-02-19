@@ -22,14 +22,8 @@ Luftstoß (WB+1)
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Fliegen, Körperlos
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Klein  

@@ -22,14 +22,8 @@ Knochenpranke (WB+2)
 **Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 17  
 Größe: Groß  

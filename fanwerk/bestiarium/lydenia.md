@@ -27,9 +27,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Blitzmacher I, Wissensgebiet I, Wissensgebiet I, Zaubermacht I
 

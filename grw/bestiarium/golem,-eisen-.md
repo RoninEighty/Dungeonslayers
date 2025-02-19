@@ -22,14 +22,8 @@ Eisenpranke (WB+6)
 **Panzerung:**  
 Metallwesen (PA+5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff, Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 27  
 Größe: Groß  

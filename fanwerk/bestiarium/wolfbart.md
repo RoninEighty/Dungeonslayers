@@ -34,9 +34,6 @@ Fluch des Berserkers (Brutaler Hieb +II, Diener der Dunkelheit +II, Raserei +II,
 **Talente:**  
 Brutaler Hieb V, Raserei III, Ausweichen II, Schnelle Reflexe II, Rundumschlag I
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 26  
 Größe: Normal  
 Erfahrungspunkte: 460  

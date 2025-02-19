@@ -22,14 +22,8 @@ Huf (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Groß  

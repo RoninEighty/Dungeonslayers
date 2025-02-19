@@ -22,14 +22,8 @@ Krallen (WB+2, GA-2), Spitze Zähne (WB+2, GA-2)
 **Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Dunkelsicht, Natürliche Waffen, Schwimmen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 11  
 Größe: Groß  

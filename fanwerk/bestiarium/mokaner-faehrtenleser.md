@@ -27,14 +27,8 @@ Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Heimlichkeit I, Jäger I, Sattelschütze I, Schütze I, Wahrnehmung I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

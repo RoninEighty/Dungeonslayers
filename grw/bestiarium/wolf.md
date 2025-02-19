@@ -22,14 +22,8 @@ Großer Biss (WB+2, GA-1)
 **Panzerung:**  
 Wolfspelz (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Natürliche Waffen, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

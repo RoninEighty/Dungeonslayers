@@ -27,14 +27,8 @@ Dolch (INI+1), Schleuder
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Akrobat I, Heimlichkeit I, Schütze I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

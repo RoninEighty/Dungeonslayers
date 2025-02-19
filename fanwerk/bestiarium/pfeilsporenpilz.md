@@ -22,14 +22,8 @@ Pfeilsporen (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Gift, Sonar
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Winzig  

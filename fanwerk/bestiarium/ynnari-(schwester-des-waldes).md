@@ -27,9 +27,6 @@ Speer (WB+1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Instrument I, Jäger I, Wahrnehmung I, Wissensgebiet I
 

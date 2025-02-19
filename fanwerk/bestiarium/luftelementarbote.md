@@ -22,14 +22,8 @@ Luftstoß
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Fliegen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Winzig  

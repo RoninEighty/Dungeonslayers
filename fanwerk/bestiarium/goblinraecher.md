@@ -22,14 +22,8 @@ Axt (WB+1)
 **Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diener der Dunkelheit V, Vergeltung I, Vernichtender Schlag I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

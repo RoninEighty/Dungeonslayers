@@ -22,14 +22,8 @@ Pranke (WB+2)
 **Panzerung:**  
 Dickhäuter (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kletterläufer
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 8  
 Größe: Groß  

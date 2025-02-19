@@ -23,14 +23,8 @@ Fäulnispranke (WB+6, GA-6), Sandstrahlodem (WB+5)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Anfällig, Geistesimmun, Odem, Totenkraft, Werteverlust
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 33  
 Größe: Normal  

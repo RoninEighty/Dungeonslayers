@@ -22,14 +22,8 @@ Werkzeug (WB+2)
 **Panzerung:**  
 Metallwesen (PA+5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fliegen, Umschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 9  
 Größe: Klein  

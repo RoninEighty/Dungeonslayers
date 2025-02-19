@@ -22,14 +22,8 @@ Wasserstrahl (WB+3)
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Körperlos, Schwimmen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 9  
 Größe: Normal  

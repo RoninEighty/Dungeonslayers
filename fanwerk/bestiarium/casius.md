@@ -27,9 +27,6 @@ Streitkolben (WB+1, GA-1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Ausweichen I, Bildung I
 

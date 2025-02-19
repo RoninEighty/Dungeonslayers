@@ -22,14 +22,8 @@ Steinpranke (WB+2)
 **Panzerung:**  
 Steinwesen (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Dunkelsicht, Fliegen, Geistesimmun, Kletterläufer, Natürliche Waffen, Sturzangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 6  
 Größe: Klein  

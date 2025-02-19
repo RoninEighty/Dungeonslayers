@@ -22,14 +22,8 @@ Biss (WB+2, GA-2)
 **Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Sonar, Verschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 11  
 Größe: Groß  

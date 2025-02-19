@@ -22,9 +22,6 @@ Sense (WB+7, INI-1, GA-7)
 **Panzerung:**  
 Körperlos (PA+8)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Alterung, Dunkelsicht, Fliegen, Geistesimmun, Nur durch Magie verletzbar, Resistenz, Totenkraft, Vernichtender Schlag, Wesen der Dunkelheit (Settingoption)
 

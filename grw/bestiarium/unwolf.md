@@ -22,14 +22,8 @@ Feuerodem (WB+2), Biss (WB+1)
 **Panzerung:**  
 Brennendes Fell (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Natürliche Waffen, Odem, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 7  
 Größe: Normal  

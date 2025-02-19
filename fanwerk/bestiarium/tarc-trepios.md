@@ -22,9 +22,6 @@ Hörner (WB+2, GA-2), Klauen (WB+1, GA-1)
 **Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Geistesimmun, Natürliche Waffen, Sturmangriff
 

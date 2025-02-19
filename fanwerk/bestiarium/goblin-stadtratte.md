@@ -22,14 +22,8 @@ Dolch (WB+1, INI+1)
 **Panzerung:**  
 Lumpen
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

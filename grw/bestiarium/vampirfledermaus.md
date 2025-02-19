@@ -22,14 +22,8 @@ Krallen (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fliegen, Natürliche Waffen, Sonar, Sturzangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Winzig  

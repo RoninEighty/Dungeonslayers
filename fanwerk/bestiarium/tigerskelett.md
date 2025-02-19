@@ -22,14 +22,8 @@ Pranke/Biss (WB+2, GA-1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Geistesimmun, Nachtsicht, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 6  
 Größe: Normal  

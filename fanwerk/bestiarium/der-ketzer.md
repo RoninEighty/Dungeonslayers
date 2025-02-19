@@ -22,9 +22,6 @@ Klauen/Schlangen
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Geistesimmun, Natürliche Waffen, Totenkraft, Wesen der Dunkelheit (Settingoption)
 

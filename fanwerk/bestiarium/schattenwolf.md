@@ -22,14 +22,8 @@ Kräftiger Biss (WB+2, GA-1)
 **Panzerung:**  
 Schattenpelz (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 5  
 Größe: Normal  

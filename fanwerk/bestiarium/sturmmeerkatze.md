@@ -22,14 +22,8 @@ Biss (WB+1), Stein (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kletterläufer, Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

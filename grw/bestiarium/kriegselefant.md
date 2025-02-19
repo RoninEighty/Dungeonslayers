@@ -22,14 +22,8 @@ Rammen (WB+2)
 **Panzerung:**  
 Dickhäuter (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Natürliche Waffen, Sturmangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 16  
 Größe: Groß  

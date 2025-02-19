@@ -22,9 +22,6 @@ Biss (WB+1)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Fliegen, Geistesimmun, Werteverlust, Wesen der Dunkelheit (Settingoption)
 

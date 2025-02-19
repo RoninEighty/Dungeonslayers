@@ -27,14 +27,8 @@ Streitaxt (2h) (WB+3, INI-2)
 **Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Brutaler Hieb I, Einstecker I, Kämpfer I, Rundumschlag I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 4  
 Größe: Normal  

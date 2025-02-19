@@ -22,14 +22,8 @@ Geworf. Fels (WB+4, GA-4), Massive Keule (WB+2, GA-2)
 **Panzerung:**  
 Warzenhaut (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Dunkelsicht, Regeneration, Umschlingen, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 14  
 Größe: Groß  

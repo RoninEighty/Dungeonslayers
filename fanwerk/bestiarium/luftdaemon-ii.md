@@ -22,14 +22,8 @@ Klauen (WB+3, GA-2), Luftstoß (WB+2)
 **Panzerung:**  
 Keine feste Gestalt (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig, Dunkelsicht, Fliegen, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 12  
 Größe: Groß  

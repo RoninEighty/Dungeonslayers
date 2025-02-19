@@ -22,14 +22,8 @@ Fäulnispranke (WB+1)
 **Panzerung:**  
 Bandagen (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Anfällig, Dunkelsicht, Geistesimmun, Natürliche Waffen, Totenkraft, Werteverlust, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 18  
 Größe: Normal  

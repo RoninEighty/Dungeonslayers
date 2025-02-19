@@ -27,14 +27,8 @@ Streitaxt (2h) (WB+3, INI-2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 3  
 Größe: Normal  

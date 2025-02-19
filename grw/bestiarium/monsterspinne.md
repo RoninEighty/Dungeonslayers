@@ -22,14 +22,8 @@ Spinnenbiss (WB+2, GA-2), Netzflüssigkeit (WB+2)
 **Panzerung:**  
 Dicke Spinnenhaut (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kletterläufer, Lähmungseffekt, Natürliche Waffen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 11  
 Größe: Groß  

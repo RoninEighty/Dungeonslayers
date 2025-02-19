@@ -27,14 +27,8 @@ Langbogen (2h) (WB+2, INI+1), Dolch (INI+1)
 **Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diener der Dunkelheit II, Wissensgebiet II, Akrobat I, Heimlichkeit I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Normal  

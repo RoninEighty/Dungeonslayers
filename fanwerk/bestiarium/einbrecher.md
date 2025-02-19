@@ -27,14 +27,8 @@ Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Akrobat I, Diebeskunst I, Flink I, Heimlichkeit I, Schütze I, Wahrnehmung I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

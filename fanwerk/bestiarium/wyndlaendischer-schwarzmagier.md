@@ -27,9 +27,6 @@ Dolch (INI+1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Feuermagier II, Heimlichkeit I, Tiergestalt I, Wahrnehmung I
 

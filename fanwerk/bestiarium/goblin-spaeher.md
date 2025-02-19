@@ -22,14 +22,8 @@ Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

@@ -22,9 +22,6 @@ Spitze Zähne (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geladen, Kletterläufer, Natürliche Waffen
 

@@ -22,14 +22,8 @@ Klauen/Schlangen (WB+2)
 **Panzerung:**  
 Schuppen (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+5), Blickangriff, Schleudern, Versteinern
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 18  
 Größe: Normal  

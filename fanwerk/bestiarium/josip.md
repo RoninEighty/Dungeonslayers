@@ -34,9 +34,6 @@ Des Schnitzers Gewandt (Set) (KÖR +1, AGI +1, GEI +1), Handschuhe (Schnelle Ref
 **Talente:**  
 Ausweichen V, Heimlichkeit V, Schnelle Reflexe V, Verletzen V, Wahrnehmung V, Handwerk III, Diener der Dunkelheit III, Meucheln III, Hinterhältiger Angriff III
 
-**Zaubersprüche:**  
-
-
 Gegnerhärte: 10  
 Größe: Klein  
 Erfahrungspunkte: 234  

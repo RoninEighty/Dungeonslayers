@@ -22,14 +22,8 @@ Fangarme (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+5), Mehrere Angriffsglieder, Natürliche Waffen, Schwimmen, Umschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 35  
 Größe: Riesig  

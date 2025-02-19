@@ -27,13 +27,7 @@ Werkzeug (WB+1, INI-3)
 **Panzerung:**  
 Lumpen
 
-**Ausrüstung:**  
-
-
 **Talente:**  
-
-
-**Zaubersprüche:**  
 
 
 Gegnerhärte: 1  

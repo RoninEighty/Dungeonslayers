@@ -27,14 +27,8 @@ Langschwert (WB+2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Einstecker II, Kämpfer II
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 5  
 Größe: Normal  

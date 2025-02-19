@@ -22,9 +22,6 @@
 **Panzerung:**  
 mag. Robe +3 (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Dunkelsicht, Geistesimmun, Totenkraft, Wesen der Dunkelheit (Settingoption)
 

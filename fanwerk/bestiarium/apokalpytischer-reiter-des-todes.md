@@ -23,14 +23,8 @@ Sense (WB+5, GA-3)
 **Panzerung:**  
 Dicke Haut (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 18  
 Größe: Groß  

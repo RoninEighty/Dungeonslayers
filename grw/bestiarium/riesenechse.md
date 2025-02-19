@@ -22,14 +22,8 @@ Grausamer Biss (WB+4)
 **Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Kletterläufer, Nachtsicht, Natürliche Waffen, Sturmangriff, Verschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 25  
 Größe: Riesig  

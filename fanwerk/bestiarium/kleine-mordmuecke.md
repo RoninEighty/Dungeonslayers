@@ -22,14 +22,8 @@ Blutsaug. Stachel (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fliegen, Nachtsicht, Natürliche Waffen, Sturzangriff, Werteverlust
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 5  
 Größe: Klein  

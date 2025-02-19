@@ -27,14 +27,8 @@ Schlachtbeil (2h) (WB+4, INI-6, GA-4, Raserei +I, Schlachtruf +I, Rundumschlag +
 **Panzerung:**  
 mag. Kettenpanzer +1 (PA+3)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Brutaler Hieb III, Einstecker III, Kämpfer III, Jäger I, Prügler I, Standhaft I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 11  
 Größe: Normal  

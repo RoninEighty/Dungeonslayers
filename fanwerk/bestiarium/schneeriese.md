@@ -22,14 +22,8 @@ Axt (WB+3, GA-2), Geworf. Fels (WB+3, GA-2)
 **Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Umschlingen, Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 20  
 Größe: Riesig  

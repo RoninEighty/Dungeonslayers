@@ -23,14 +23,8 @@ Fäulnispranke (WB+1)
 **Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+3), Geistesimmun, Mehrere Angriffsglieder (+3), Wesen der Dunkelheit (Settingoption), Zerstampfen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 34  
 Größe: Groß  

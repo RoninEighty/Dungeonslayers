@@ -27,9 +27,6 @@ Langbogen (2h) (WB+2, INI+1)
 **Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fürsorger III, Einstecker II, Abklingen I, Rüstzauberer I
 

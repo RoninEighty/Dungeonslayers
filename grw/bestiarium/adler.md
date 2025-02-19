@@ -22,14 +22,8 @@ Krallen (WB+1)
 **Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Fliegen, Natürliche Waffen, Sturzangriff
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 1  
 Größe: Klein  

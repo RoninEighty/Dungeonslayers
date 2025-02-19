@@ -27,9 +27,6 @@
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bildung II, Wissensgebiet II, Diener des Lichts I, Wissensgebiet I
 

@@ -22,14 +22,8 @@ Steinpranke (WB+4)
 **Panzerung:**  
 Steinwesen (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Anfällig
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 15  
 Größe: Normal  

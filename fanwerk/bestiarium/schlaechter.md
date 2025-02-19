@@ -22,14 +22,8 @@ Machete (WB+2), Langbogen (2h) (WB+2, INI+1)
 **Panzerung:**  
 Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Auferstehung, Dunkelsicht, Geistesimmun, Regeneration, Resistenz, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 11  
 Größe: Normal  

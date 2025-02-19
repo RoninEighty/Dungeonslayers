@@ -22,9 +22,6 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Dunkelsicht, Geistesimmun, Resistenz, Wesen der Dunkelheit (Settingoption)
 

@@ -22,14 +22,8 @@ Asthiebe (WB+2)
 **Panzerung:**  
 Dicke Rinde (PA+4)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+1), Anfällig, Geistesimmun
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 9  
 Größe: Groß  

@@ -27,9 +27,6 @@ Langschwert (WB+2), Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Bildung I, Flink I, Kämpfer I, Parade I, Schnelle Reflexe I, Wahrnehmung I
 

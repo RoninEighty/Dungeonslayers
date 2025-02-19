@@ -22,14 +22,8 @@ Grausamer Schnabel (WB+4)
 **Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Anfällig, Fliegen, Natürliche Waffen, Sturzangriff, Verschlingen
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 22  
 Größe: Riesig  

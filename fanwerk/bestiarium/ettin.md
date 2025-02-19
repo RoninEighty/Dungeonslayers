@@ -22,14 +22,8 @@ Steinkeule (WB+3, GA+3)
 **Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Gift, Mehrere Angriffe (+1), Nachtsicht, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 22  
 Größe: Groß  

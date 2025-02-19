@@ -27,14 +27,8 @@ Speer (WB+1), Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Diebeskunst I, Kämpfer I, Parade I, Schlitzohr I, Wissensgebiet I, Wissensgebiet I
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 2  
 Größe: Normal  

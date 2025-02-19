@@ -22,14 +22,8 @@ Fangarme (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Mehrere Angriffe (+5)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 12  
 Größe: Groß  

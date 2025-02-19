@@ -22,14 +22,8 @@ Huf (WB+2)
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-
-
 **Talente:**  
 Angst, Fliegen, Geistesimmun, Wesen der Dunkelheit (Settingoption)
-
-**Zaubersprüche:**  
-
 
 Gegnerhärte: 13  
 Größe: Groß  
