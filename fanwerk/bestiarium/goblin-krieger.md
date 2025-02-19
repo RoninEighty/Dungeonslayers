@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 10       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Keule (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 45
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 45  
 
 
 

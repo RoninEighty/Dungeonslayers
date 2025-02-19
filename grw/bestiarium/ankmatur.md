@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 10       | 13         | 10         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Langschwert +1 (WB+3, INI+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Robe +2 (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerball (+3), Kontrollieren (-(GEI+AU)/2), Schattenpfeil (+2), Skelette erwecken (0), Terror (-(GEI+VE)/2), Totengespräch (0), Verwirren (-(GEI+AU)/2), Zombies erwecken (0), Öffnen (-SW)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 83
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 83  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 17       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzbogen (2h) (WB+1, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bildung I, Glückspilz I, Schütze I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 50
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 50  
 
 
 

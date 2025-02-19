@@ -21,24 +21,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 6        | 16         | 9          |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diener der Dunkelheit V, Beschwörer III, Zaubermacht III, Verheerer II, Einstecker I, Bändiger I, Meister seiner Klasse I, Feuermagier I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Blut kochen (-(KÖR+AU)/2), Dämonen beschwören (-(KÖR+AU)+BB), Ebenentor (-8), Erdspalt (-4), Feuerstrahl (+2), Flammeninferno (+6), Halt (-(KÖR+AU)/2), Kontrollieren (-(GEI+AU)/2), Schattenlanze (+5), Schattenpfeil (+2), Trugbild (-2), Versetzte Stimme (-1/10m), Wächter (0), Zaubertrick (0), Zombies erwecken (0)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 100
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 100  
 
 
 

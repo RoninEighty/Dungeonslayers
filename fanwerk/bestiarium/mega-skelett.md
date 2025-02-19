@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Fäulnispranke (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+3), Geistesimmun, Mehrere Angriffsglieder (+3), Wesen der Dunkelheit (Settingoption), Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 34
-Größe: Groß
-Erfahrungspunkte: 1088
+Gegnerhärte: 34  
+Größe: Groß  
+Erfahrungspunkte: 1088  
 
 
 

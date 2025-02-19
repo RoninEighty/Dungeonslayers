@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Knochenpranke (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+3), Dunkelsicht, Geistesimmun, Mehrere Angriffsglieder, Schleudern, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 12
-Größe: Groß
-Erfahrungspunkte: 148
+Gegnerhärte: 12  
+Größe: Groß  
+Erfahrungspunkte: 148  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Langschwert +1 (WB+3, INI+1, GA-1), Knochenbogen (WB+2, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Dunkelsicht, Geistesimmun, Bezaubern, Resistenz, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Normal
-Erfahrungspunkte: 115
+Gegnerhärte: 9  
+Größe: Normal  
+Erfahrungspunkte: 115  
 
 
 

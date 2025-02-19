@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 8        | 14         | 12         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Kampfstab (2h) +2 (WB+3, INI+2, GA-2, Zielzauber +1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Amulett (Wahrnehmung +II)
 
-**Talente:**
+**Talente:**  
 Bildung III, Runenkunde II, Wissensgebiet II, Heimlichkeit I, Wahrnehmung I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Blenden (-(AGI+AU)/2), Flackern (-2), Lauschen (-1/10m), Magie entdecken (0), Magie identifizieren (0), Magisches Schloss (0), Öffnen (-SW)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 55
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 55  
 
 
 

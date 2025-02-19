@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 11       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppenpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Schleudern
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 69
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 69  
 
 
 

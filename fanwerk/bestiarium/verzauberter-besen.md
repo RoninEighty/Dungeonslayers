@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 5        | 1          | 2          |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Besenstiel (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Schweben
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Niesanfall (-(KÖR+AU)/2), Reinigen (0), Stolpern (-(AGI+AU)/2), Wolke der Reue (-2)
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 53
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 53  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Großer Biss (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Gift, Natürliche Waffen, Umschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Groß
-Erfahrungspunkte: 143
+Gegnerhärte: 8  
+Größe: Groß  
+Erfahrungspunkte: 143  
 
 
 

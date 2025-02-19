@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 35       | 30       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schattenklinge (WB+5, GA-5)
 
-**Panzerung:**
+**Panzerung:**  
 Umhang (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fliegen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 33
-Größe: Riesig
-Erfahrungspunkte: 377
+Gegnerhärte: 33  
+Größe: Riesig  
+Erfahrungspunkte: 377  
 
 
 

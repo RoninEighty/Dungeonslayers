@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krummschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 70
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 70  
 
 
 

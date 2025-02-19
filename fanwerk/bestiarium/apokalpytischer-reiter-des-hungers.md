@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 28       | 15       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Flegel (WB+4, GA-3)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Haut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 22
-Größe: Groß
-Erfahrungspunkte: 476
+Gegnerhärte: 22  
+Größe: Groß  
+Erfahrungspunkte: 476  
 
 
 

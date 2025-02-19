@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schlagring, Wurfmesser
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Brutaler Hieb I, Fieser Schuss I, Parade I, Prügler I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 50
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 50  
 
 
 

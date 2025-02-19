@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Natürliche Waffen, Schleudern, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Groß
-Erfahrungspunkte: 156
+Gegnerhärte: 9  
+Größe: Groß  
+Erfahrungspunkte: 156  
 
 
 

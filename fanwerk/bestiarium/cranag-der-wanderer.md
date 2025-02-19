@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 27       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Bihänder (2h) +2 (WB+5, GA-6, Panzerung zerschmettern +II, Verletzen +II)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Lederschienen (Arm & Bein) +2 (PA+3), mag. Lederpanzer +2 (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker III, Kämpfer III, Jäger I, Brutaler Hieb I, Perfektion I, Prügler I, Sensenspötter I, Standhaft I, Tod entrinnen I, Waffenkenner I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 14
-Größe: Normal
-Erfahrungspunkte: 126
+Gegnerhärte: 14  
+Größe: Normal  
+Erfahrungspunkte: 126  
 
 
 

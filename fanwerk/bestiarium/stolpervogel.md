@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 12       |            | 9          |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schnabel (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Stolpern (-(AGI+AU)/2)
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 44
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 44  
 
 
 

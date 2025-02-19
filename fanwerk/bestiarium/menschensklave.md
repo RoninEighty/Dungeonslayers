@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 10       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Werkzeug (WB+1, INI-3)
 
-**Panzerung:**
+**Panzerung:**  
 Lumpen
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 50
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 50  
 
 
 

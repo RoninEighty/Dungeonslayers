@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krallen (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fliegen, Natürliche Waffen, Sturzangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 52
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 52  
 
 
 

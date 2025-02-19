@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 15       |            | 12         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kristallpranke (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Kristallwesen (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Blitz (+3)
 
-Gegnerhärte: 7
-Größe: Groß
-Erfahrungspunkte: 134
+Gegnerhärte: 7  
+Größe: Groß  
+Erfahrungspunkte: 134  
 
 
 

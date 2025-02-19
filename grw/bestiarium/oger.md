@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 4        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Massive Keule (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Umschlingen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Groß
-Erfahrungspunkte: 120
+Gegnerhärte: 9  
+Größe: Groß  
+Erfahrungspunkte: 120  
 
 
 

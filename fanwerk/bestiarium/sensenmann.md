@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 37       | 12       | 14         | 13         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Sense (WB+7, INI-1, GA-7)
 
-**Panzerung:**
+**Panzerung:**  
 Körperlos (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Alterung, Dunkelsicht, Fliegen, Geistesimmun, Nur durch Magie verletzbar, Resistenz, Totenkraft, Vernichtender Schlag, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Ebenentor (-8), Geben und Nehmen (0), Halt (-(KÖR+AU)/2), Kontrollieren (-(GEI+AU)/2), Schatten erwecken (0), Skelette erwecken (0), Teleport (-1/Begleiter), Totengespräch (0), Unsichtbares sehen (0), Unsichtbarkeit (0), Verborgenes sehen (0), Verlangsamen (-(KÖR+AU)/2), Versetzen (0), Wiederbelebung (0), Zombies erwecken (0)
 
-Gegnerhärte: 36
-Größe: Normal
-Erfahrungspunkte: 430
+Gegnerhärte: 36  
+Größe: Normal  
+Erfahrungspunkte: 430  
 
 
 

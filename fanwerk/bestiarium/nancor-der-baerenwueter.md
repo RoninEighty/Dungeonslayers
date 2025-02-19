@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schlachtbeil (2h) (WB+4, INI-6, GA-4, Raserei +I, Schlachtruf +I, Rundumschlag +I)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Kettenpanzer +1 (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Brutaler Hieb III, Einstecker III, Kämpfer III, Jäger I, Prügler I, Standhaft I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 11
-Größe: Normal
-Erfahrungspunkte: 119
+Gegnerhärte: 11  
+Größe: Normal  
+Erfahrungspunkte: 119  
 
 
 

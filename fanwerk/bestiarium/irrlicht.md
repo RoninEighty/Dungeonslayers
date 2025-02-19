@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 4        | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Blitzstrahl (WB+1, GA-5)
 
-**Panzerung:**
+**Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Antimagie, Körperlos, Schweben, Sonar
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Klein
-Erfahrungspunkte: 185
+Gegnerhärte: 9  
+Größe: Klein  
+Erfahrungspunkte: 185  
 
 
 

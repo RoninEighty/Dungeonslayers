@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 12       | 18       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Knochenbogen (WB+4, INI+3, GA-2), Kochenklauen (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Resistenz, Wesen der Dunkelheit (Settingoption), Zielen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 7
-Größe: Normal
-Erfahrungspunkte: 103
+Gegnerhärte: 7  
+Größe: Normal  
+Erfahrungspunkte: 103  
 
 
 

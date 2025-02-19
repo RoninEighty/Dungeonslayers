@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 24       | 17       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Eisstrahl (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Körperlos
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 15
-Größe: Groß
-Erfahrungspunkte: 128
+Gegnerhärte: 15  
+Größe: Groß  
+Erfahrungspunkte: 128  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 21       | 19       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Grausamer Schnabel (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Anfällig, Fliegen, Natürliche Waffen, Sturzangriff, Verschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 22
-Größe: Riesig
-Erfahrungspunkte: 264
+Gegnerhärte: 22  
+Größe: Riesig  
+Erfahrungspunkte: 264  
 
 
 

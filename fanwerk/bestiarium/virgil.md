@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 16       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schleuder
 
-**Panzerung:**
+**Panzerung:**  
 Lumpen
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Heimlichkeit III, Schütze III
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 53
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 53  
 
 
 

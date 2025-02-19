@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzschwert (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Akrobat I, Einstecker I, Flink I, Kämpfer I, Schwimmen I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 57
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 57  
 
 
 

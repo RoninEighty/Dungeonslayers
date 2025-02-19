@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Huf (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Groß
-Erfahrungspunkte: 92
+Gegnerhärte: 3  
+Größe: Groß  
+Erfahrungspunkte: 92  
 
 
 

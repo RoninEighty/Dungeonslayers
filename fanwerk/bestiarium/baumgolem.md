@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 4        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Asthiebe (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Rinde (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Anfällig, Geistesimmun
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Groß
-Erfahrungspunkte: 98
+Gegnerhärte: 9  
+Größe: Groß  
+Erfahrungspunkte: 98  
 
 
 

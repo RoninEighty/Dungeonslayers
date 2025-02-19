@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke (WB+3)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 10
-Größe: Normal
-Erfahrungspunkte: 100
+Gegnerhärte: 10  
+Größe: Normal  
+Erfahrungspunkte: 100  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2), Armbrust, leicht (2h) (WB+2, INI-2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 61
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 61  
 
 
 

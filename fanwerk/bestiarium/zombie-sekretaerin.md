@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 3        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Fäulnispranke (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Normal
-Erfahrungspunkte: 56
+Gegnerhärte: 8  
+Größe: Normal  
+Erfahrungspunkte: 56  
 
 
 

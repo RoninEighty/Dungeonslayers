@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krummschwert (WB+2, Sehnenschneider +I, Verletzen +I)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Holzschild +1 (PA+2, Zauber: Flackern eingebettet)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Stirnreif (Aura +2, Charmant +I, Schlitzohr +I)
 
-**Talente:**
+**Talente:**  
 Parade III, Ausweichen I, Schlachtruf I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 59
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 59  
 
 
 

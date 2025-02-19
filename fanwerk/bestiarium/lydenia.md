@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 10       |            | 14         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Blitzmacher I, Wissensgebiet I, Wissensgebiet I, Zaubermacht I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Schock (+1)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 52
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 52  
 
 
 

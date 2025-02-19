@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 14       | 9          | 13         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Niesanfall (-(KÖR+AU)/2), Schatten (-(AGI+AU)/2), Schattenpfeil (+2), Skelette erwecken (0), Verwirren (-(GEI+AU)/2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 62
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 62  
 
 
 

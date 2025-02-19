@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 9        |            | 13         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bildung I, Einstecker I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerstrahl (+1)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 56
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 56  
 
 
 

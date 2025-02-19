@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 52       | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Steinpranke (WB+4, GA-4), Felsen (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Steinwesen (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Geistesimmun, Schleudern, Sturmangriff, Verschlingen, Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 261
-Größe: ge
-Erfahrungspunkte: 10812
+Gegnerhärte: 261  
+Größe: ge  
+Erfahrungspunkte: 10812  
 
 
 

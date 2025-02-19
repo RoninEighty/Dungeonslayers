@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 26       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Bihänder (2h) +2 (WB+5, GA-6, Kämpfer +II), mag. Kurzschwert +1 (WB+2, INI+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Plattenpanzer +1 (PA+4, LA-0.5), mag. Metallhelm +1 (PA+2), mag. Lederschienen (Arm & Bein) +1 (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Kette (Abwehr +1)
 
-**Talente:**
+**Talente:**  
 Kämpfer III, Schnelle Reflexe II, Zwei Waffen II, Brutaler Hieb I, Ausweichen I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 13
-Größe: Normal
-Erfahrungspunkte: 110
+Gegnerhärte: 13  
+Größe: Normal  
+Erfahrungspunkte: 110  
 
 
 

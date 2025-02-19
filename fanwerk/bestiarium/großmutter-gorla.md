@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 9        | 18         | 15         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (Geschick +3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Amulett (Abwehr +3), Kapuzenumhang (Magieresistent +III)
 
-**Talente:**
+**Talente:**  
 Wissensgebiet III, Fürsorger II, Manipulator II, Heimlichkeit I, Alchemie I, Bildung I, Wahrnehmung I, Wechsler I, Zaubermacht I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Einschläfern (-(KÖR+VE)/2+2), Flackern (0), Freund (-(GEI+VE)/2+2), Giftbann (0), Halt (-(KÖR+AU)/2), Heilbeeren (+2), Heilende Aura (+2), Heilende Hand (+3), Licht (+5), Schutzschild (+2), Schweben (0), Segen (0), Wächter (0)
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 75
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 75  
 
 
 

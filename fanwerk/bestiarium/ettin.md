@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 26       | 4        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Steinkeule (WB+3, GA+3)
 
-**Panzerung:**
+**Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Gift, Mehrere Angriffe (+1), Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 22
-Größe: Groß
-Erfahrungspunkte: 168
+Gegnerhärte: 22  
+Größe: Groß  
+Erfahrungspunkte: 168  
 
 
 

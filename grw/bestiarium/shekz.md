@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 3        | 7        | 11         | 9          |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Wurfmesser
 
-**Panzerung:**
+**Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Einschläfern (-(KÖR+VE)/2), Feuerstrahl (+1)
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 49
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 49  
 
 
 

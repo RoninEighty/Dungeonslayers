@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Hammer (WB+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Handwerk I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 61
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 61  
 
 
 

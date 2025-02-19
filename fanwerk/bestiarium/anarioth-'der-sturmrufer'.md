@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 13       |            | 16         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Blitzmacher I, Freie Talentpunkte I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Schock (+1)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 50
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 50  
 
 
 

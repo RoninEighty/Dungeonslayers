@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 4        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2), Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bildung I, Einstecker I, Flink I, Parade I, Schnelle Reflexe I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 55
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 55  
 
 
 

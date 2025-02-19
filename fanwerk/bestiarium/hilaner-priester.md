@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 6        | 13         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bildung II, Wissensgebiet II, Diener des Lichts I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Heilende Hand (+1)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 50
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 50  
 
 
 

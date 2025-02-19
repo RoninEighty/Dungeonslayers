@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 21       | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Rammen
 
-**Panzerung:**
+**Panzerung:**  
 Metallwesen (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Schleudern, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 16
-Größe: Groß
-Erfahrungspunkte: 159
+Gegnerhärte: 16  
+Größe: Groß  
+Erfahrungspunkte: 159  
 
 
 

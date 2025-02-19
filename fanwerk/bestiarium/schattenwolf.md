@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kräftiger Biss (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Schattenpelz (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 88
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 88  
 
 
 

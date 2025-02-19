@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 9        | 10         | 11         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Blenden (-(AGI+AU)/2), Heilende Hand (+1), Niesanfall (-(KÖR+AU)/2), Verteidigung (0)
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 112
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 112  
 
 
 

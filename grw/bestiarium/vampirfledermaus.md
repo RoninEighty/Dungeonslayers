@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 4        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krallen (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fliegen, Natürliche Waffen, Sonar, Sturzangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Winzig
-Erfahrungspunkte: 55
+Gegnerhärte: 2  
+Größe: Winzig  
+Erfahrungspunkte: 55  
 
 
 

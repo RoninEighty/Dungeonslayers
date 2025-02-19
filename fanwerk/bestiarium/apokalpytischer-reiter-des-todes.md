@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 25       | 18       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Sense (WB+5, GA-3)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Haut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 18
-Größe: Groß
-Erfahrungspunkte: 452
+Gegnerhärte: 18  
+Größe: Groß  
+Erfahrungspunkte: 452  
 
 
 

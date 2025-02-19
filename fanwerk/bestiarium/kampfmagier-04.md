@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 12       | 11         | 16         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Ring (Schütze +III), Stiefel (Flink +III)
 
-**Talente:**
+**Talente:**  
 Einstecker III, Zaubermacht III, Schnelle Reflexe I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerstrahl (+1), Flackern (-2), Schattenpfeil (+2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 71
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 71  
 
 
 

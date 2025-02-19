@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 21       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Armbrust, leicht (2h) +2 (WB+4, GA-2, Verletzen +II)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Lederpanzer +2 (PA+3, Zauber: Balancieren eingebettet)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Kompass (Zauber: Magie entdecken eingebettet, Zauber: Verborgenes sehen eingebettet)
 
-**Talente:**
+**Talente:**  
 Wahrnehmung V, Heimlichkeit III, Jäger III, Bildung III, Diebeskunst II, Fieser Schuss II, Schütze II, Schnelle Reflexe II, Runenkunde I, In Deckung I, Diener des Lichts I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 61
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 61  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2), Lanze (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Charmant I, Instrument I, Kämpfer I, Parade I, Reiten I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 54
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 54  
 
 
 

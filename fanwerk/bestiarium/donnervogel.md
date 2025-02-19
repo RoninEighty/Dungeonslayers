@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 11       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Großer Schnabel (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Groß
-Erfahrungspunkte: 82
+Gegnerhärte: 4  
+Größe: Groß  
+Erfahrungspunkte: 82  
 
 
 

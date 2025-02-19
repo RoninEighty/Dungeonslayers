@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Fangarme (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+5)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 12
-Größe: Groß
-Erfahrungspunkte: 139
+Gegnerhärte: 12  
+Größe: Groß  
+Erfahrungspunkte: 139  
 
 
 

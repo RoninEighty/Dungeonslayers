@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 12       | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krallen (WB+2), Biss (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Gift, Dunkelsicht, Kletterläufer, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 86
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 86  
 
 
 

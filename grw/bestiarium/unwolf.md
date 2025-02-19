@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Feuerodem (WB+2), Biss (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Brennendes Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Natürliche Waffen, Odem, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 7
-Größe: Normal
-Erfahrungspunkte: 104
+Gegnerhärte: 7  
+Größe: Normal  
+Erfahrungspunkte: 104  
 
 
 

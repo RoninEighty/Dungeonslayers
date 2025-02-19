@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 3        | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+1), Stein (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kletterläufer, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 43
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 43  
 
 
 

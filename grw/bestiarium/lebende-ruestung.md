@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Metallwesen (PA+5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Normal
-Erfahrungspunkte: 72
+Gegnerhärte: 8  
+Größe: Normal  
+Erfahrungspunkte: 72  
 
 
 

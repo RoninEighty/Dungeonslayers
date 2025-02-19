@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 22       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Klauen (WB+4, GA-3), Luftstoß (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 Keine feste Gestalt (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Dunkelsicht, Fliegen, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 22
-Größe: Riesig
-Erfahrungspunkte: 272
+Gegnerhärte: 22  
+Größe: Riesig  
+Erfahrungspunkte: 272  
 
 
 

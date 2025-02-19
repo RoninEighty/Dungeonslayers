@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Dolch (WB+1, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lumpen
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 43
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 43  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 14       | 9          |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Armbrust, leicht (2h) (WB+2, INI-2), Kurzschwert (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diener des Lichts I, Fieser Schuss I, Schnelle Reflexe I, Schütze I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Wasser weihen (0)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 54
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 54  
 
 
 

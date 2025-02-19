@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 2        | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Luftstoß
 
-**Panzerung:**
+**Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Fliegen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Winzig
-Erfahrungspunkte: 41
+Gegnerhärte: 1  
+Größe: Winzig  
+Erfahrungspunkte: 41  
 
 
 

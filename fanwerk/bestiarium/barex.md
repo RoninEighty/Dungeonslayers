@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Streitaxt (2h) (WB+3, INI-2), Armbrust, leicht (2h) (WB+2, INI-2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 64
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 64  
 
 
 

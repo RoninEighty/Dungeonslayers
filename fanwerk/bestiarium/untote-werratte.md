@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 11       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krallen (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 73
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 73  
 
 
 

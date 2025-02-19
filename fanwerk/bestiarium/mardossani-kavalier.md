@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Degen (WB+1, INI+2)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Maske (Glückspilz +I)
 
-**Talente:**
+**Talente:**  
 Charmant I, Kämpfer I, Parade I, Schlitzohr I, Waffenkenner I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 51
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 51  
 
 
 

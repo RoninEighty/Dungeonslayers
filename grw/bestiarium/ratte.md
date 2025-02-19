@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 4        | 4        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Spitze Zähne (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Natürliche Waffen, Schwimmen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Winzig
-Erfahrungspunkte: 26
+Gegnerhärte: 1  
+Größe: Winzig  
+Erfahrungspunkte: 26  
 
 
 

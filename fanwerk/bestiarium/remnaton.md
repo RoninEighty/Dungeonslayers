@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 25       | 20       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Fäulnispranke (WB+6, GA-6), Sandstrahlodem (WB+5)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Anfällig, Geistesimmun, Odem, Totenkraft, Werteverlust
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 33
-Größe: Normal
-Erfahrungspunkte: 852
+Gegnerhärte: 33  
+Größe: Normal  
+Erfahrungspunkte: 852  
 
 
 

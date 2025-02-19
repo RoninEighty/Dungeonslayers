@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 25       | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schattenklaue (WB+3)
 
-**Panzerung:**
+**Panzerung:**  
 Schattenkörper (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Dunkelsicht, Geistesimmun, Bezaubern, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 27
-Größe: Normal
-Erfahrungspunkte: 588
+Gegnerhärte: 27  
+Größe: Normal  
+Erfahrungspunkte: 588  
 
 
 

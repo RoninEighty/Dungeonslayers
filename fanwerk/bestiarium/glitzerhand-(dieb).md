@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 18       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langbogen (2h) (WB+2, INI+1), mag. Dolch +1 (WB+1, INI+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diebeskunst III, Wahrnehmung III, Genesung I, Fieser Schuss I, Jäger I, Schütze I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 58
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 58  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 10       | 12         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Hammer (WB+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Handwerk II, Diebeskunst I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Magisches Schloss (0)
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 60
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 60  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Streithammer (2h) (WB+3, INI-4)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker I, Kämpfer I, Schlachtruf I, Waffenkenner I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 61
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 61  
 
 
 

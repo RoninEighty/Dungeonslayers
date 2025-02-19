@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 27       | 9        | 19         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Geisterklaue (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Körperlos (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Alterung, Dunkelsicht, Fliegen, Geistesimmun, Körperlos, Nur durch Magie verletzbar, Totenkraft, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Wehklagen (ZB: -(KÖR+AU)/2 des Ziels; Abklingzeit: 10 Kampfrunden; Jeder in Umkreis von 9m um die Todesfee erleidet nicht abwehrbaren Schaden in Höhe des Probenergebnisses) (undefined)
 
-Gegnerhärte: 31
-Größe: Normal
-Erfahrungspunkte: 287
+Gegnerhärte: 31  
+Größe: Normal  
+Erfahrungspunkte: 287  
 
 
 

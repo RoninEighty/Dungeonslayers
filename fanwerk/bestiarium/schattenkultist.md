@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 11       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzschwert (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 48
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 48  
 
 
 

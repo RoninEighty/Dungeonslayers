@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Lehmpranke (WB+3)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Groß
-Erfahrungspunkte: 114
+Gegnerhärte: 8  
+Größe: Groß  
+Erfahrungspunkte: 114  
 
 
 

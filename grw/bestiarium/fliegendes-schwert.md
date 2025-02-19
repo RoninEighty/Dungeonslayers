@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 5        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Metallwesen (PA+5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fliegen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Klein
-Erfahrungspunkte: 57
+Gegnerhärte: 8  
+Größe: Klein  
+Erfahrungspunkte: 57  
 
 
 

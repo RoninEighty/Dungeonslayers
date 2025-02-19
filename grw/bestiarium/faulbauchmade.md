@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 10       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Zahnschlund (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 47
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 47  
 
 
 

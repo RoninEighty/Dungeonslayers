@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Mudaks Schlitzer (INI+1, Glückspilz +I)
 
-**Panzerung:**
+**Panzerung:**  
 Mudaks Schuppen (PA+1, Schnelle Reflexe +I), Mudaks Schädel (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Ausweichen I, Kämpfer I, Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 45
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 45  
 
 
 

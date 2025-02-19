@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 12       | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fieser Schuss I, Kämpfer I, Parade I, Schütze I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 55
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 55  
 
 
 

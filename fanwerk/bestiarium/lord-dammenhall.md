@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 38       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Bihänder (2h) +3 (WB+6, INI+1, GA-7)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Plattenpanzer +3 (PA+6), mag. Metallhelm +1 (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Alterung, Geistesimmun, Totenkraft, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 51
-Größe: Normal
-Erfahrungspunkte: 1130
+Gegnerhärte: 51  
+Größe: Normal  
+Erfahrungspunkte: 1130  
 
 
 

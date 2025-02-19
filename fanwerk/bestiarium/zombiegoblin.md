@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 11       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Knochenpranke (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Geistesimmun, Natürliche Waffen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 46
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 46  
 
 
 

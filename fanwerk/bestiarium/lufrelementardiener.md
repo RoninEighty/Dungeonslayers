@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Luftstoß (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Fliegen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 53
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 53  
 
 
 

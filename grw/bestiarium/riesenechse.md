@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 24       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Grausamer Biss (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kletterläufer, Nachtsicht, Natürliche Waffen, Sturmangriff, Verschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 25
-Größe: Riesig
-Erfahrungspunkte: 316
+Gegnerhärte: 25  
+Größe: Riesig  
+Erfahrungspunkte: 316  
 
 
 

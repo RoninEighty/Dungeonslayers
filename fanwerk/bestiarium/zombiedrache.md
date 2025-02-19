@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 32       | 17       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss, Klaue, Odem oder Schwanzhieb (WB+4, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Verrottender Körper (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Mehrere Angriffe (+1), Geistesimmun, Dunkelsicht, Natürliche Waffen, Odem, Regeneration, Totenkraft, Verdorrende Aura, Verschlingen, Wesen der Dunkelheit (Settingoption), Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 64
-Größe: ge
-Erfahrungspunkte: 907
+Gegnerhärte: 64  
+Größe: ge  
+Erfahrungspunkte: 907  
 
 
 

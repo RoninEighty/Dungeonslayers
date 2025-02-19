@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 9        | 15         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Ausweichen I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Heilende Hand (+1)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 54
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 54  
 
 
 

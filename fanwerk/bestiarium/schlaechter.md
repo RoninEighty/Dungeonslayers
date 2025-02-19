@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 20       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Machete (WB+2), Langbogen (2h) (WB+2, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Auferstehung, Dunkelsicht, Geistesimmun, Regeneration, Resistenz, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 11
-Größe: Normal
-Erfahrungspunkte: 124
+Gegnerhärte: 11  
+Größe: Normal  
+Erfahrungspunkte: 124  
 
 
 

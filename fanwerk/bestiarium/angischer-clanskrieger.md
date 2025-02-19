@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Bihänder (2h) (WB+3, INI-2, GA-4)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Brutaler Hieb I, Kämpfer I, Parade I, Prügler I, Standhaft I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 94
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 94  
 
 
 

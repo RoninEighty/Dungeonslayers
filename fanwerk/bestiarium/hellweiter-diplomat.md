@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bildung I, Charmant I, Schlitzohr I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 47
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 47  
 
 
 

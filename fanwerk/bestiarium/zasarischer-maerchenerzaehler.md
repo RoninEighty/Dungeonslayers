@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 6        | 15         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Charmant I, Einstecker I, Instrument I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Zaubertrick (0)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 55
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 55  
 
 
 

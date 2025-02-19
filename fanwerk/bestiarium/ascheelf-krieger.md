@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2), Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diener der Dunkelheit II, Wissensgebiet II, Kämpfer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 54
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 54  
 
 
 

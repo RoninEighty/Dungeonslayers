@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 6        | 16         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bildung I, Fürsorger I, Instrument I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Heilende Hand (+2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 52
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 52  
 
 
 

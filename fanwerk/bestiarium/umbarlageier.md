@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 12       | 12       |            | 9          |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schnabel (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fliegen, Natürliche Waffen, Sturzangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Kettenblitz (+3)
 
-Gegnerhärte: 3
-Größe: Groß
-Erfahrungspunkte: 131
+Gegnerhärte: 3  
+Größe: Groß  
+Erfahrungspunkte: 131  
 
 
 

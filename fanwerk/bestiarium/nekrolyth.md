@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 11       | 14         | 16         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Flackern (-2), Fluch (-(GEI+AU)/2), Kleiner Terror (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken (0), Magische Waffe (0), Schatten (-(AGI+AU)/2), Schattenpfeil (+2), Schweben (0), Skelette erwecken (0), Spionage (0), Volksgestalt (-4), Öffnen (-SW)
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 94
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 94  
 
 
 

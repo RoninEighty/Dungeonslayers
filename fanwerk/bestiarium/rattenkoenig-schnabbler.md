@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Breitschwert (WB+1, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Gürtel (Stärke +3)
 
-**Talente:**
+**Talente:**  
 Kämpfer III, Brutaler Hieb II, Einstecker II, Raserei I, Reiten I, Schwimmen I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Normal
-Erfahrungspunkte: 92
+Gegnerhärte: 9  
+Größe: Normal  
+Erfahrungspunkte: 92  
 
 
 

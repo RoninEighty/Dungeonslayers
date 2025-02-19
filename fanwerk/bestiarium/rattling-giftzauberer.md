@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 13       | 13         | 15         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Alchemie II, Feuermagier II, Ausweichen I, Einstecker I, Heimlichkeit I, Schwimmen I, Wahrnehmung I, Zaubermacht I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerstrahl (+3), Kontrollieren (-(GEI+AU)/2), Schatten (-(AGI+AU)/2), Skelette erwecken (0), Tarnender Nebel (-2), Verwirren (-(GEI+AU)/2)
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 71
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 71  
 
 
 

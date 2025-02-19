@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 7        | 14         | 8          |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fürsorger II, Ausweichen I, Alchemie I, Rüstzauberer I, Zaubermacht I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Federgleich (0), Giftbann (0), Heilbeeren (+2), Heilende Aura (+2), Heilende Hand (+3), Lichtpfeil (+2), Magische Waffe (0), Schutzschild (+2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 71
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 71  
 
 
 

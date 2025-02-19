@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 4        | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Dolch (INI+1), Schleuder
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Akrobat I, Heimlichkeit I, Schütze I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 47
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 47  
 
 
 

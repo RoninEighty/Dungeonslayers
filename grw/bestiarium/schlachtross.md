@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Huf/Rammen (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Groß
-Erfahrungspunkte: 121
+Gegnerhärte: 9  
+Größe: Groß  
+Erfahrungspunkte: 121  
 
 
 

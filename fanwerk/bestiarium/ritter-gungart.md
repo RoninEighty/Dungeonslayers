@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 24       | 10       | 17         | 20         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 mag. Robe +3 (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Geistesimmun, Totenkraft, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Arkanes Schwert (0), Ebenentor (-8), Einschläfern (-(KÖR+VE)/2), Flammeninferno (+5), Frostschock (+3), Gasgestalt (0), Gehorche (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magisches Schloss (0), Netz (-(AGI+ST)/2), Schatten (-(AGI+AU)/2), Schatten erwecken (0), Schattenlanze (+5), Skelette erwecken (0), Springen (0), Stolpern (-(AGI+AU)/2), Trugbild (-2), Unsichtbarkeit (0), Verwirren (-(GEI+AU)/2), Wandöffnung (0), Wolke des Todes (-4), Zeitstop (-5)
 
-Gegnerhärte: 23
-Größe: Normal
-Erfahrungspunkte: 690
+Gegnerhärte: 23  
+Größe: Normal  
+Erfahrungspunkte: 690  
 
 
 

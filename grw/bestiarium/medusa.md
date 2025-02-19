@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Klauen/Schlangen (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppen (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+5), Blickangriff, Schleudern, Versteinern
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 18
-Größe: Normal
-Erfahrungspunkte: 205
+Gegnerhärte: 18  
+Größe: Normal  
+Erfahrungspunkte: 205  
 
 
 

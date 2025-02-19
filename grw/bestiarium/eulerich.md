@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 20       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 11
-Größe: Groß
-Erfahrungspunkte: 115
+Gegnerhärte: 11  
+Größe: Groß  
+Erfahrungspunkte: 115  
 
 
 

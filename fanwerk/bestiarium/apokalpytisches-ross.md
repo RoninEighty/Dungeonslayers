@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Huf (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Fliegen, Geistesimmun, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 13
-Größe: Groß
-Erfahrungspunkte: 162
+Gegnerhärte: 13  
+Größe: Groß  
+Erfahrungspunkte: 162  
 
 
 

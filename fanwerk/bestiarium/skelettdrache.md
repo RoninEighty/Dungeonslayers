@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 26       | 19       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss, Klaue oder Schwanzhieb (WB+3, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Skelettpanzer (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Mehrere Angriffe (+1), Dunkelsicht, Fliegen, Geistesimmun, Natürliche Waffen, Schleudern, Sturzangriff, Totenkraft, Wesen der Dunkelheit (Settingoption), Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 46
-Größe: ge
-Erfahrungspunkte: 685
+Gegnerhärte: 46  
+Größe: ge  
+Erfahrungspunkte: 685  
 
 
 

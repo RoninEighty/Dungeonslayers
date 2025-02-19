@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 17       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss, Klaue, Odem oder Schwanzhieb (WB+3, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Drachenschuppen (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Mehrere Angriffe (+1), Dunkelsicht, Fliegen, Natürliche Waffen, Odem, Schleudern, Sturzangriff, Verschlingen, Wesen der Dunkelheit / Wesen des Lichts (Settingoption), Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 20
-Größe: Groß
-Erfahrungspunkte: 270
+Gegnerhärte: 20  
+Größe: Groß  
+Erfahrungspunkte: 270  
 
 
 

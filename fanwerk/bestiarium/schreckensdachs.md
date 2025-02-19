@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 20       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 10
-Größe: Normal
-Erfahrungspunkte: 100
+Gegnerhärte: 10  
+Größe: Normal  
+Erfahrungspunkte: 100  
 
 
 

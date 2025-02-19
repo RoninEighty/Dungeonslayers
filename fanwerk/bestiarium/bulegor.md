@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Hammer +1 (WB+2, INI+1, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), mag. Metallschild +1 (PA+2), mag. Metallhelm +1 (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Ausweichen III, Blocker III, Parade III, Wissensgebiet III, Handwerk II, Kämpfer II, Wissensgebiet II
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 10
-Größe: Normal
-Erfahrungspunkte: 79
+Gegnerhärte: 10  
+Größe: Normal  
+Erfahrungspunkte: 79  
 
 
 

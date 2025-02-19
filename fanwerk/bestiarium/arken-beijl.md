@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 10       | 16         | 14         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Kampfstab (2h) +1 (WB+2, INI+1, GA-1, Zielzauber +1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Robe (runenbestickt) +2 (PA+2, Verstand +1, Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Ring (Zauber: Versetzen eingebettet, Abklingzeit 3x täglich ignorieren), Stab (Zauber: Feuerball als Zauberstab)
 
-**Talente:**
+**Talente:**  
 Einstecker III, Zaubermacht III, Verheerer II, Abklingen I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerball (+3), Feuerlanze (+2), Flammeninferno (+5), Fliegen (0), Glühender Glaube (-2), Niesanfall (-(KÖR+AU)/2), Schutzschild (0), Terror (-(GEI+VE)/2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 108
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 108  
 
 
 

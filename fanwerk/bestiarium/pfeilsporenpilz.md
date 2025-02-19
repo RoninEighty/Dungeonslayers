@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 2        | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pfeilsporen (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Gift, Sonar
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Winzig
-Erfahrungspunkte: 38
+Gegnerhärte: 1  
+Größe: Winzig  
+Erfahrungspunkte: 38  
 
 
 

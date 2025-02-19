@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 21       | 5        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Streitaxt (2h) (WB+3, INI-2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Geistesimmun, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 13
-Größe: Normal
-Erfahrungspunkte: 79
+Gegnerhärte: 13  
+Größe: Normal  
+Erfahrungspunkte: 79  
 
 
 

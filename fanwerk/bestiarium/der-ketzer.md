@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 11       | 13         | 17         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Klauen/Schlangen
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Geistesimmun, Natürliche Waffen, Totenkraft, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerball (+3), Feuerlanze (+2), Flackern (-2), Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken (0), Schatten (-(AGI+AU)/2), Skelette erwecken (0), Terror (-(GEI+VE)/2), Versetzen (0), Zombies erwecken (0)
 
-Gegnerhärte: 9
-Größe: Normal
-Erfahrungspunkte: 141
+Gegnerhärte: 9  
+Größe: Normal  
+Erfahrungspunkte: 141  
 
 
 

@@ -23,24 +23,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 19       | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Dolch +3 (WB+3, INI+4, GA-3, Aderschlitzer +V)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Robe +3 (PA+3, Ausweichen +IV)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Des Schnitzers Gewandt (Set) (KÖR +1, AGI +1, GEI +1), Handschuhe (Schnelle Reflexe +II), Maske (Wahrnehmung +IV), Stiefel (Schnelle Reflexe +II), Umhang (Heimlichkeit +IV)
 
-**Talente:**
+**Talente:**  
 Ausweichen V, Heimlichkeit V, Schnelle Reflexe V, Verletzen V, Wahrnehmung V, Handwerk III, Diener der Dunkelheit III, Meucheln III, Hinterhältiger Angriff III
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 10
-Größe: Klein
-Erfahrungspunkte: 234
+Gegnerhärte: 10  
+Größe: Klein  
+Erfahrungspunkte: 234  
 
 
 

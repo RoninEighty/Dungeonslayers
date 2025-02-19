@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 13       | 13         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzbogen (2h) (WB+1, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1), Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fürsorger III, Rüstzauberer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Heilende Hand (+4)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 58
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 58  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Geisterklaue (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Körperlos (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Alterung, Dunkelsicht, Fliegen, Geistesimmun, Körperlos, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 15
-Größe: Normal
-Erfahrungspunkte: 136
+Gegnerhärte: 15  
+Größe: Normal  
+Erfahrungspunkte: 136  
 
 
 

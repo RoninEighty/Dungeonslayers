@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Tentakelfühler (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Chitinpanzer (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+3), Dunkelsicht, Mehrere Angriffsglieder, Natürliche Waffen, Rost
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Normal
-Erfahrungspunkte: 111
+Gegnerhärte: 8  
+Größe: Normal  
+Erfahrungspunkte: 111  
 
 
 

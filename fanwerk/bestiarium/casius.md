@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 6        | 14         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Streitkolben (WB+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Ausweichen I, Bildung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Heilende Hand (+1)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 63
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 63  
 
 
 

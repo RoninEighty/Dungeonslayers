@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 12       | 13       | 0          |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Horn oder Hufe (WB+1, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Mehrere Angriffe (+1), Geistesimmun, Nachtsicht, Schleudern, Sturmangriff, Wesen des Lichts (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Spurt (-2)
 
-Gegnerhärte: 5
-Größe: Groß
-Erfahrungspunkte: 194
+Gegnerhärte: 5  
+Größe: Groß  
+Erfahrungspunkte: 194  
 
 
 

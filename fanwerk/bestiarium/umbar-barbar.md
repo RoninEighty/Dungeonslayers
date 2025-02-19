@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Streitaxt (2h) (WB+3, INI-2)
 
-**Panzerung:**
+**Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Brutaler Hieb I, Einstecker I, Kämpfer I, Rundumschlag I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 58
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 58  
 
 
 

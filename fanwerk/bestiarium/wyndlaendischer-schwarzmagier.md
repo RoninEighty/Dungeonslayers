@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 10       |            | 16         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Feuermagier II, Heimlichkeit I, Tiergestalt I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerstrahl (+3)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 54
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 54  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Spinnenbiss (WB+1, GA-1), Netzflüssigkeit (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Spinnenhaut (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kletterläufer, Lähmungseffekt, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 97
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 97  
 
 
 

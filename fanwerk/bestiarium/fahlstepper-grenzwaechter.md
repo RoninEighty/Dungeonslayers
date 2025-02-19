@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1), Kurzbogen (2h) (WB+1, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker I, Jäger I, Schlachtruf I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 57
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 57  
 
 
 

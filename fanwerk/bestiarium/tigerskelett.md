@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke/Biss (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Geistesimmun, Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 6
-Größe: Normal
-Erfahrungspunkte: 100
+Gegnerhärte: 6  
+Größe: Normal  
+Erfahrungspunkte: 100  
 
 
 

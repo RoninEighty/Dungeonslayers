@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Klauen/Zunge (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Warzenhaut
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+3), Dunkelsicht, Kletterläufer, Natürliche Waffen, Schwimmen, Verschlingen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 14
-Größe: Normal
-Erfahrungspunkte: 356
+Gegnerhärte: 14  
+Größe: Normal  
+Erfahrungspunkte: 356  
 
 
 

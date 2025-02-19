@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 15       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langbogen (2h) (WB+2, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fieser Schuss I, Heimlichkeit I, Jäger I, Wahrnehmung I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 49
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 49  
 
 
 

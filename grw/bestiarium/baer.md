@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Groß
-Erfahrungspunkte: 139
+Gegnerhärte: 9  
+Größe: Groß  
+Erfahrungspunkte: 139  
 
 
 

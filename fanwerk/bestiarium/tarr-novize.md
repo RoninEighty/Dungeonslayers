@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 20       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schlachtgeißel (WB+3, INI-4, GA-4)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Brutaler Hieb II, Einstecker II, Kämpfer II, Schlachtruf I, Wahrnehmung I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Normal
-Erfahrungspunkte: 111
+Gegnerhärte: 9  
+Größe: Normal  
+Erfahrungspunkte: 111  
 
 
 

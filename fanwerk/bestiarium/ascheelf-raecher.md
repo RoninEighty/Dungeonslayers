@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 8        |            | 12         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1), Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diener der Dunkelheit II, Wissensgebiet II, Manipulator I, Zaubermacht I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerstrahl (+1)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 53
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 53  
 
 
 

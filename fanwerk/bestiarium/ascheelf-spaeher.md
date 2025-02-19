@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langbogen (2h) (WB+2, INI+1), Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diener der Dunkelheit II, Wissensgebiet II, Akrobat I, Heimlichkeit I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 51
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 51  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Keule (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 25
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 25  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 31       | 2        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Steinpranke (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 Steinwesen (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 23
-Größe: Groß
-Erfahrungspunkte: 124
+Gegnerhärte: 23  
+Größe: Groß  
+Erfahrungspunkte: 124  
 
 
 

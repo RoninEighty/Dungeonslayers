@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Dolch (INI+1), Wurfmesser
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Charmant I, Glückspilz I, Schlitzohr I, Schnelle Reflexe I, Wahrnehmung I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 48
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 48  
 
 
 

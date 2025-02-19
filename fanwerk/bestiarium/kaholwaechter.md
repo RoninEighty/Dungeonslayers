@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker II, Kämpfer II
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 66
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 66  
 
 
 

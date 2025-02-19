@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 19       | 18       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Spitze Zähne (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 7
-Größe: Groß
-Erfahrungspunkte: 102
+Gegnerhärte: 7  
+Größe: Groß  
+Erfahrungspunkte: 102  
 
 
 

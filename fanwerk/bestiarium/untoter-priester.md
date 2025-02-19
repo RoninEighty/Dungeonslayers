@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 12       | 12         | 12         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Fäulnispranke (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Geistesimmun, Natürliche Waffen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Kettenblitz (+3), Kleiner Terror (-(GEI+VE)/2), Schattenpfeil (+2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 89
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 89  
 
 
 

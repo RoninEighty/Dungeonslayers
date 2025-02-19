@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 12       | 14         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fürsorger I, Jäger I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Heilende Hand (+2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 53
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 53  
 
 
 

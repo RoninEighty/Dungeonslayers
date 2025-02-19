@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Wasserstrahl (WB+3)
 
-**Panzerung:**
+**Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Körperlos, Schwimmen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Normal
-Erfahrungspunkte: 83
+Gegnerhärte: 9  
+Größe: Normal  
+Erfahrungspunkte: 83  
 
 
 

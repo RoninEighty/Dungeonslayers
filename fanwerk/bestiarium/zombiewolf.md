@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kräftiger Biss (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Wolfspelz (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Geistesimmun, Nachtsicht, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 7
-Größe: Normal
-Erfahrungspunkte: 99
+Gegnerhärte: 7  
+Größe: Normal  
+Erfahrungspunkte: 99  
 
 
 

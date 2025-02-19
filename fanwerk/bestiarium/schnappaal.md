@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Natürliche Waffen, Schwimmen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Klein
-Erfahrungspunkte: 52
+Gegnerhärte: 3  
+Größe: Klein  
+Erfahrungspunkte: 52  
 
 
 

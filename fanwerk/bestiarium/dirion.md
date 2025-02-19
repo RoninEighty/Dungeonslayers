@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Blocker I, Jäger I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 56
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 56  
 
 
 

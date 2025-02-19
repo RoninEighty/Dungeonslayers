@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 8        | 12         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Fliegen, Geistesimmun, Werteverlust, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Totenlachen (-GEI+AU auf VE Ziele im Umkreis von VEx2 Metern, sofern diese das Lachen hören können; Erfolg führt zu Werteverlust.) (undefined)
 
-Gegnerhärte: 4
-Größe: Winzig
-Erfahrungspunkte: 93
+Gegnerhärte: 4  
+Größe: Winzig  
+Erfahrungspunkte: 93  
 
 
 

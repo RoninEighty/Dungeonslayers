@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 4        | 10       | 12         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Wurfmesser
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Akrobat I, Charmant I, Flink I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Zaubertrick (0)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 46
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 46  
 
 
 

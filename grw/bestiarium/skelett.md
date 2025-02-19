@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kochenklauen (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 72
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 72  
 
 
 

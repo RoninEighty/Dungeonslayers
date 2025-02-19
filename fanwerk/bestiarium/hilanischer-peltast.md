@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 16       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Ausweichen I, Flink I, Parade I, Schnelle Reflexe I, Schütze I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 53
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 53  
 
 
 

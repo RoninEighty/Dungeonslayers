@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Wurzelhiebe (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Geistesimmun, Lähmungseffekt, Natürliche Waffen, Umschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Groß
-Erfahrungspunkte: 114
+Gegnerhärte: 8  
+Größe: Groß  
+Erfahrungspunkte: 114  
 
 
 

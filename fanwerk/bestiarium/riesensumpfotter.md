@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 20       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Gift, Lähmungseffekt, Natürliche Waffen, Umschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 20
-Größe: Riesig
-Erfahrungspunkte: 291
+Gegnerhärte: 20  
+Größe: Riesig  
+Erfahrungspunkte: 291  
 
 
 

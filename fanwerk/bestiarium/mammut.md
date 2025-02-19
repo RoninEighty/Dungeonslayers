@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 26       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Stoßzähne (WB+3, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen, Sturmangriff, Umschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 19
-Größe: Groß
-Erfahrungspunkte: 168
+Gegnerhärte: 19  
+Größe: Groß  
+Erfahrungspunkte: 168  
 
 
 

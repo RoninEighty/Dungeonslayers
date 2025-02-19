@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 17       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Armbrust, leicht (2h) (WB+2, INI-2), Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker I, Schlachtruf I, Schütze I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 59
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 59  
 
 
 

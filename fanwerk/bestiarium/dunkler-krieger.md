@@ -21,24 +21,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diener der Dunkelheit II, Einstecker I, Kämpfer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 64
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 64  
 
 
 

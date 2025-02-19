@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krallen (WB+2, GA-2), Spitze Zähne (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Dunkelsicht, Natürliche Waffen, Schwimmen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 11
-Größe: Groß
-Erfahrungspunkte: 142
+Gegnerhärte: 11  
+Größe: Groß  
+Erfahrungspunkte: 142  
 
 
 

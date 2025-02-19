@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 11       | 8        | 17         | 11         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Dolch +3 (WB+3, INI+4, GA-3)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diener der Dunkelheit V, Beschwörer II, Genesung II, Feuermagier I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerball (+4), Flammenklinge (+1), Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Netz (-(AGI+ST)/2), Schattenpfeil (+2), Skelette erwecken (0), Tarnender Nebel (-2), Terror (-(GEI+VE)/2), Totengespräch (0), Verteidigung (0), Verwirren (-(GEI+AU)/2), Öffnen (-SW)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 84
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 84  
 
 
 

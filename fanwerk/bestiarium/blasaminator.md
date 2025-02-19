@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 26       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Werkzeug (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 Steinwesen (PA+5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+3), Dunkelsicht, Geistesimmun, Mehrere Angriffsglieder (+3), Schleudern, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 26
-Größe: Groß
-Erfahrungspunkte: 191
+Gegnerhärte: 26  
+Größe: Groß  
+Erfahrungspunkte: 191  
 
 
 

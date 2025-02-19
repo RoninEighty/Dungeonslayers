@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2), Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Akrobat I, Ausweichen I, Flink I, Heimlichkeit I, Parade I, Schnelle Reflexe I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 52
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 52  
 
 
 

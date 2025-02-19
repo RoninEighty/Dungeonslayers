@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Hellebarde (2h) (WB+2, INI-2)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker I, Kämpfer I, Verletzen I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 59
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 59  
 
 
 

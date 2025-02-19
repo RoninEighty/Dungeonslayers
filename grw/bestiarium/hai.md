@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 19       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Großer Biss (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen, Schwimmen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Normal
-Erfahrungspunkte: 106
+Gegnerhärte: 9  
+Größe: Normal  
+Erfahrungspunkte: 106  
 
 
 

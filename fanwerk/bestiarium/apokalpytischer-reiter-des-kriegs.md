@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 33       | 11       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kriegsaxt (WB+4, GA-8)
 
-**Panzerung:**
+**Panzerung:**  
 Plattenpanzer (PA+3, LA-1), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 32
-Größe: Groß
-Erfahrungspunkte: 654
+Gegnerhärte: 32  
+Größe: Groß  
+Erfahrungspunkte: 654  
 
 
 

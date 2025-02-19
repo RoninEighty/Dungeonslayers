@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 29       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Fangarme (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+5), Mehrere Angriffsglieder, Natürliche Waffen, Schwimmen, Umschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 35
-Größe: Riesig
-Erfahrungspunkte: 397
+Gegnerhärte: 35  
+Größe: Riesig  
+Erfahrungspunkte: 397  
 
 
 

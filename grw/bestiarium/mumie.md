@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 4        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Fäulnispranke (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Bandagen (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Anfällig, Dunkelsicht, Geistesimmun, Natürliche Waffen, Totenkraft, Werteverlust, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 18
-Größe: Normal
-Erfahrungspunkte: 133
+Gegnerhärte: 18  
+Größe: Normal  
+Erfahrungspunkte: 133  
 
 
 

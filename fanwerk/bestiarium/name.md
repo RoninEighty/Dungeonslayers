@@ -22,23 +22,23 @@
 | -------- | -------- | ---------- | ---------- |
 | Schlagen | Schiessen| Zauber     | Zielzauber |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Waffen
 
-**Panzerung:**
+**Panzerung:**  
 Panzerung
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Ausrüstung
 
-**Talente:**
+**Talente:**  
 Talente
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Zaubersprüche
 
-Gegnerhärte: GH
-Erfahrungspunkte: EP
+Gegnerhärte: GH  
+Erfahrungspunkte: EP  
 
 
 

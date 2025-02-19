@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kochenklauen (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 7
-Größe: Groß
-Erfahrungspunkte: 101
+Gegnerhärte: 7  
+Größe: Groß  
+Erfahrungspunkte: 101  
 
 
 

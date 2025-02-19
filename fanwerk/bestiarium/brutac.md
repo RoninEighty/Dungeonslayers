@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kämpfer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 57
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 57  
 
 
 

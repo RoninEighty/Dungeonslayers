@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 28       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Flammenhieb (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Fliegen, Körperlos
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 24
-Größe: Groß
-Erfahrungspunkte: 145
+Gegnerhärte: 24  
+Größe: Groß  
+Erfahrungspunkte: 145  
 
 
 

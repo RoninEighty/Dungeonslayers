@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1), Kurzschwert (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diebeskunst I, Kämpfer I, Parade I, Schlitzohr I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 56
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 56  
 
 
 

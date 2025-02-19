@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Huf (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Groß
-Erfahrungspunkte: 106
+Gegnerhärte: 4  
+Größe: Groß  
+Erfahrungspunkte: 106  
 
 
 

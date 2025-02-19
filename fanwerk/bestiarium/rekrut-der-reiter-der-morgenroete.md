@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krummsäbel (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Reiten II, Parade I, Kämpfer I, Waffenkenner I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Klein
-Erfahrungspunkte: 51
+Gegnerhärte: 3  
+Größe: Klein  
+Erfahrungspunkte: 51  
 
 
 

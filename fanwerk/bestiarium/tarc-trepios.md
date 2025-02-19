@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 7        | 5          |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Hörner (WB+2, GA-2), Klauen (WB+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Geistesimmun, Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Unsichtbarkeit (0)
 
-Gegnerhärte: 5
-Größe: Groß
-Erfahrungspunkte: 159
+Gegnerhärte: 5  
+Größe: Groß  
+Erfahrungspunkte: 159  
 
 
 

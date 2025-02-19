@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Axt (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Diener der Dunkelheit V, Vergeltung I, Vernichtender Schlag I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 34
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 34  
 
 
 

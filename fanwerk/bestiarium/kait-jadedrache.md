@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 4        | 12         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2), Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bildung I, Flink I, Kämpfer I, Parade I, Schnelle Reflexe I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Magische Waffe (0)
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 54
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 54  
 
 
 

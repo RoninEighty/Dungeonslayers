@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 20       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Geistesimmun, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 14
-Größe: Groß
-Erfahrungspunkte: 165
+Gegnerhärte: 14  
+Größe: Groß  
+Erfahrungspunkte: 165  
 
 
 

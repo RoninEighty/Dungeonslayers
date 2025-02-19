@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 11       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schleuder, Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lumpen (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fieser Schuss I, Flink I, Heimlichkeit I, Schwimmen I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 49
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 49  
 
 
 

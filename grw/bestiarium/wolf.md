@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Großer Biss (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Wolfspelz (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 81
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 81  
 
 
 

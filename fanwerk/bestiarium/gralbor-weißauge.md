@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 6        | 18         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Stab (Arkane Explosion +III), Umhang (GEI +1)
 
-**Talente:**
+**Talente:**  
 Fürsorger III, Magieresistent III, Wechsler III, Diener des Lichts II, Wissensgebiet II, Wissensgebiet II, Zaubermacht II, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Bannen (-(KÖR+AU)/2), Flackern (+1), Giftbann (0), Glühender Glaube (-2), Heilbeeren (+3), Heilende Aura (+3), Heilende Hand (+4), Schutzfeld (+3), Schutzkuppel (+3), Schutzschild (+3), Segen (0), Stossgebet (-(KÖR+AU)/2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 73
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 73  
 
 
 

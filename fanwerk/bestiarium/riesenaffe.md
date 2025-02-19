@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Dickhäuter (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kletterläufer
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Groß
-Erfahrungspunkte: 97
+Gegnerhärte: 8  
+Größe: Groß  
+Erfahrungspunkte: 97  
 
 
 

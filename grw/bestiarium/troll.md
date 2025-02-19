@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 22       | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Geworf. Fels (WB+4, GA-4), Massive Keule (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Warzenhaut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Dunkelsicht, Regeneration, Umschlingen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 14
-Größe: Groß
-Erfahrungspunkte: 182
+Gegnerhärte: 14  
+Größe: Groß  
+Erfahrungspunkte: 182  
 
 
 

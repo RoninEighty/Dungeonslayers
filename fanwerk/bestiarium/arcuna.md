@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 11       | 13         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Kette (Gift trotzen +3), Stab (Aura +1, Zauber: Wolke der Reue eingebettet)
 
-**Talente:**
+**Talente:**  
 Alchemie II, Fürsorger I, Magieresistent I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Giftschutz (+1), Heilbeeren (+1), Tiere besänftigen (-LK/5)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 50
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 50  
 
 
 

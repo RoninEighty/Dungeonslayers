@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 20       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2), Lanze (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Plattenpanzer (PA+3, LA-1), Metallschild (PA+1, LA-0.5), Metallhelm (PA+1, INI-1), Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kämpfer III, Einstecker II, Parade I, Reiten I, Schnelle Reflexe I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 10
-Größe: Normal
-Erfahrungspunkte: 74
+Gegnerhärte: 10  
+Größe: Normal  
+Erfahrungspunkte: 74  
 
 
 

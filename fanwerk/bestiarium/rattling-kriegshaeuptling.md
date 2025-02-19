@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzbogen (2h) (WB+1, INI+1), mag. Krummsäbel +1 (WB+2, INI+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker III, Kämpfer III, Ausweichen II, Flink II, Brutaler Hieb II, Parade II, Wissensgebiet II, Heimlichkeit I, Hinterhältiger Angriff I, Schwimmen I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Klein
-Erfahrungspunkte: 75
+Gegnerhärte: 5  
+Größe: Klein  
+Erfahrungspunkte: 75  
 
 
 

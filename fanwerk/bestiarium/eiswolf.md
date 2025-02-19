@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Eisodem (WB+2), Biss (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Frostfell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Natürliche Waffen, Odem, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 6
-Größe: Klein
-Erfahrungspunkte: 86
+Gegnerhärte: 6  
+Größe: Klein  
+Erfahrungspunkte: 86  
 
 
 

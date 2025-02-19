@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 10       | 5        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Spitze Zähne (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Merkt nichts (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Natürliche Waffen, Schwimmen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Klein
-Erfahrungspunkte: 60
+Gegnerhärte: 2  
+Größe: Klein  
+Erfahrungspunkte: 60  
 
 
 

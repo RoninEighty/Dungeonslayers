@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Bihänder (2h) (WB+3, INI-2, GA-4)
 
-**Panzerung:**
+**Panzerung:**  
 Plattenpanzer (PA+3, LA-1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Normal
-Erfahrungspunkte: 103
+Gegnerhärte: 8  
+Größe: Normal  
+Erfahrungspunkte: 103  
 
 
 

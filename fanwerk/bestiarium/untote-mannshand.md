@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 11       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kochenklauen (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bodenkampf, Geistesimmun, Kletterläufer, Sonar, Umklammern, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 4
-Größe: Winzig
-Erfahrungspunkte: 83
+Gegnerhärte: 4  
+Größe: Winzig  
+Erfahrungspunkte: 83  
 
 
 

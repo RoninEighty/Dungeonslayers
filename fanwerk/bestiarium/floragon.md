@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzbogen (2h) (WB+1, INI+1), Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Jäger I, Schütze I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 49
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 49  
 
 
 

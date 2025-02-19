@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 19       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Horn oder Hufe (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Sturmangriff, Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 12
-Größe: Groß
-Erfahrungspunkte: 154
+Gegnerhärte: 12  
+Größe: Groß  
+Erfahrungspunkte: 154  
 
 
 

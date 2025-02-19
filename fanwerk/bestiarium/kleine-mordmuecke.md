@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Blutsaug. Stachel (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fliegen, Nachtsicht, Natürliche Waffen, Sturzangriff, Werteverlust
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Klein
-Erfahrungspunkte: 84
+Gegnerhärte: 5  
+Größe: Klein  
+Erfahrungspunkte: 84  
 
 
 

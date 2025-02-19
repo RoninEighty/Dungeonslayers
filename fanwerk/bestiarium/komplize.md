@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 12       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Axt (WB+1), Speer (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kämpfer II, Wahrnehmung II, Jäger I, Ausweichen I, Raserei I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 54
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 54  
 
 
 

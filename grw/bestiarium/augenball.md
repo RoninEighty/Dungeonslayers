@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 6        | 13         | 12         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 Warzenhaut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+4), Antimagie, Dunkelsicht, Mehrere Angriffsglieder, Schweben, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Blenden (-(AGI+AU)/2), Einschläfern (-(KÖR+VE)/2), Gehorche (-(GEI+VE)/2), Kettenblitz (+3), Schleudern (-(KÖR+AU)/2), Schutzfeld (0), Schutzschild (0), Telekinese (-1/Stufe x5 kg), Unsichtbarkeit (0), Verwirren (-(GEI+AU)/2)
 
-Gegnerhärte: 13
-Größe: Groß
-Erfahrungspunkte: 218
+Gegnerhärte: 13  
+Größe: Groß  
+Erfahrungspunkte: 218  
 
 
 

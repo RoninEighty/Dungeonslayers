@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 35       | 30       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke (WB+5, GA-5)
 
-**Panzerung:**
+**Panzerung:**  
 Dämonenhaut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 42
-Größe: ge
-Erfahrungspunkte: 579
+Gegnerhärte: 42  
+Größe: ge  
+Erfahrungspunkte: 579  
 
 
 

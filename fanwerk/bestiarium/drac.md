@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Bihänder (2h) (WB+3, INI-2, GA-4)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker I, Kämpfer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 6
-Größe: Normal
-Erfahrungspunkte: 101
+Gegnerhärte: 6  
+Größe: Normal  
+Erfahrungspunkte: 101  
 
 
 

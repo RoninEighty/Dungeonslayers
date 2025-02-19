@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 29       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Axt (WB+3, GA-2), Geworf. Fels (WB+3, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Umschlingen, Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 20
-Größe: Riesig
-Erfahrungspunkte: 276
+Gegnerhärte: 20  
+Größe: Riesig  
+Erfahrungspunkte: 276  
 
 
 

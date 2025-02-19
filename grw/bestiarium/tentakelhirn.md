@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 6        | 1          |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Schweben, Werteverlust
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Gedankenzehrerstrahl (nicht sichtbar; verursacht mental Schaden und führt zu Werteverlust) (undefined)
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 59
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 59  
 
 
 

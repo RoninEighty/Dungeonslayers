@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1), Dolch (INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Instrument I, Kämpfer I, Parade I, Schlitzohr I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 54
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 54  
 
 
 

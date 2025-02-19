@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 12       | 16       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Säurestrahl (WB+4), Säurestoß (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Gift, Anfällig, Kletterläufer, Regeneration
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 7
-Größe: Normal
-Erfahrungspunkte: 99
+Gegnerhärte: 7  
+Größe: Normal  
+Erfahrungspunkte: 99  
 
 
 

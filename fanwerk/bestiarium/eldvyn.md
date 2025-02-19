@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzschwert (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Parade III, Kämpfer II, Wissensgebiet II
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 51
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 51  
 
 
 

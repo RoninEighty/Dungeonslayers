@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 18       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+4)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Haut (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Normal
-Erfahrungspunkte: 70
+Gegnerhärte: 8  
+Größe: Normal  
+Erfahrungspunkte: 70  
 
 
 

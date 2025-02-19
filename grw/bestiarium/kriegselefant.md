@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Rammen (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Dickhäuter (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 16
-Größe: Groß
-Erfahrungspunkte: 142
+Gegnerhärte: 16  
+Größe: Groß  
+Erfahrungspunkte: 142  
 
 
 

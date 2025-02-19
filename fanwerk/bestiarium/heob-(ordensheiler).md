@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 5        | 11         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Streitkolben (WB+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1, Parade +II, 1x aktionsfrei Waffe ziehen, Zauber: Bannen mit 12 Ladungen), Holzschild (PA+1, Blocker +III)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Krug (Zauber: Segen eingebettet)
 
-**Talente:**
+**Talente:**  
 Fürsorger III, Diener des Lichts II, Wechsler II, Wissensgebiet II, Charmant I, Rüstzauberer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Flackern (+1), Heilende Hand (+4), Schutzschild (+3), Stossgebet (-(KÖR+AU)/2), Vertreiben (-(KÖR+AU)/2), Wasser weihen (0)
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 84
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 84  
 
 
 

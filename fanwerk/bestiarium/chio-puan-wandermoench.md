@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 11       | 6        | 14         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bildung I, Fürsorger I, Waffenloser Meister I, Wahrnehmung I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Heilende Hand (+2)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 54
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 54  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 22       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Langschwert +2 (WB+4, INI+2, GA-2, Aderschlitzer +II)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), mag. Metallhelm +1 (PA+2, Wahrnehmung +III)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kämpfer III, Raserei III, Brutaler Hieb II, Einstecker II, Standhaft II, Parade I, In Deckung I, Rundumschlag I, Schlachtruf I, Verletzen I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 10
-Größe: Normal
-Erfahrungspunkte: 77
+Gegnerhärte: 10  
+Größe: Normal  
+Erfahrungspunkte: 77  
 
 
 

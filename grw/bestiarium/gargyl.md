@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 11       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Steinpranke (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Steinwesen (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Dunkelsicht, Fliegen, Geistesimmun, Kletterläufer, Natürliche Waffen, Sturzangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 6
-Größe: Klein
-Erfahrungspunkte: 91
+Gegnerhärte: 6  
+Größe: Klein  
+Erfahrungspunkte: 91  
 
 
 

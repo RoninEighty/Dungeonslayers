@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Hauer (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Geistesimmun, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 10
-Größe: Normal
-Erfahrungspunkte: 107
+Gegnerhärte: 10  
+Größe: Normal  
+Erfahrungspunkte: 107  
 
 
 

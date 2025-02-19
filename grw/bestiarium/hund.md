@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 31
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 31  
 
 
 

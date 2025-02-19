@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 10       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Peitsche (WB-1, INI+1, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Parade II, Kämpfer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 69
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 69  
 
 
 

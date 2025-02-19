@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 11       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzschwert (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Klein
-Erfahrungspunkte: 140
+Gegnerhärte: 2  
+Größe: Klein  
+Erfahrungspunkte: 140  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 13       | 17       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schattenpfeil (WB+1, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Körperlos (PA+8)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Angst, Dunkelsicht, Fliegen, Geistesimmun, Totenkraft, Werteverlust, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 14
-Größe: Normal
-Erfahrungspunkte: 180
+Gegnerhärte: 14  
+Größe: Normal  
+Erfahrungspunkte: 180  
 
 
 

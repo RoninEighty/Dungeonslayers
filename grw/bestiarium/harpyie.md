@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 12       | 7        | 8          |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krallenklaue (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Federkleid (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Bezaubern, Fliegen, Nachtsicht, Natürliche Waffen, Sturzangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Lockruf (funktioniert wie der Zauberspruch Gehorche; Abklingzeit des Lockrufs: 10 Kampfrunden) (undefined)
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 108
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 108  
 
 
 

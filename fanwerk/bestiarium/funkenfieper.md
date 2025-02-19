@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 11       |            | 12         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Spitze Zähne (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geladen, Kletterläufer, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Blitz (+3), Kettenblitz (+3)
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 71
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 71  
 
 
 

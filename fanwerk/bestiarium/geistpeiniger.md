@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 19       | 22       | 25         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Gedankensturm (WB+7), Tentakel (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Lederhaut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+3), Gedankensturm, Antimagie, Natürliche Waffen, Werteverlust
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Ebenentor (-8), Fliegen (0), Freund (-(GEI+VE)/2), Gehorche (-(GEI+VE)/2), Kleiner Terror (-(GEI+VE)/2), Verwirren (-(GEI+AU)/2)
 
-Gegnerhärte: 29
-Größe: Normal
-Erfahrungspunkte: 323
+Gegnerhärte: 29  
+Größe: Normal  
+Erfahrungspunkte: 323  
 
 
 

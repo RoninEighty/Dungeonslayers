@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Streitaxt (2h) (WB+3, INI-2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 58
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 58  
 
 
 

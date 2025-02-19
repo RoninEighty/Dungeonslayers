@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 10       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Dolch
 
-**Panzerung:**
+**Panzerung:**  
 Dunkler Lumpenumhang
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Gift, Mehrere Angriffe (+1), Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Klein
-Erfahrungspunkte: 63
+Gegnerhärte: 2  
+Größe: Klein  
+Erfahrungspunkte: 63  
 
 
 

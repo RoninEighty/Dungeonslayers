@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Werkzeug (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 53
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 53  
 
 
 

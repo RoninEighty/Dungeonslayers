@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 10       | 9        | 12         | 14         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Einstecker III, Zaubermacht III
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerlanze (+2), Feuerstrahl (+1), Verteidigung (0), Zaubertrick (0), Öffnen (-SW)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 76
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 76  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 38       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Baumstamm (WB+4, GA-4), Geworf. Fels (WB+4, GA-4)
 
-**Panzerung:**
+**Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Umschlingen, Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 29
-Größe: Riesig
-Erfahrungspunkte: 347
+Gegnerhärte: 29  
+Größe: Riesig  
+Erfahrungspunkte: 347  
 
 
 

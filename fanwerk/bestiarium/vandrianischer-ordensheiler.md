@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 10       | 4        | 15         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Blocker II, Fürsorger I, Parade I, Rüstzauberer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Heilende Hand (+2)
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 61
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 61  
 
 
 

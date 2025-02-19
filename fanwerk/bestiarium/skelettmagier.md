@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 13       | 13         | 19         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Resistenz, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Arkanes Schwert (0), Blitz (+3), Feuerball (+3), Feuerlanze (+2), Flackern (-2), Flammenklinge (0), Halt (-(KÖR+AU)/2), Magische Rüstung (0), Schutzschild (0), Spurt (-2)
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 109
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 109  
 
 
 

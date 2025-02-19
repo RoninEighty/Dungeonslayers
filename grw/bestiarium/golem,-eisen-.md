@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 31       | 5        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Eisenpranke (WB+6)
 
-**Panzerung:**
+**Panzerung:**  
 Metallwesen (PA+5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff, Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 27
-Größe: Groß
-Erfahrungspunkte: 173
+Gegnerhärte: 27  
+Größe: Groß  
+Erfahrungspunkte: 173  
 
 
 

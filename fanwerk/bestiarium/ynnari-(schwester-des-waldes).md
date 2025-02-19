@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 5        | 13         |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Speer (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Instrument I, Jäger I, Wahrnehmung I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Tiere besänftigen (-LK/5)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 55
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 55  
 
 
 

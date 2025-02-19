@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 17       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Spitze Zähne (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+9), Bezaubern, Dunkelsicht, Natürliche Waffen, Regeneration, Schwimmen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 25
-Größe: Groß
-Erfahrungspunkte: 296
+Gegnerhärte: 25  
+Größe: Groß  
+Erfahrungspunkte: 296  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Breitschwert (WB+1, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Holzschild (PA+1), Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kämpfer II, Brutaler Hieb I, Parade I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 5
-Größe: Normal
-Erfahrungspunkte: 75
+Gegnerhärte: 5  
+Größe: Normal  
+Erfahrungspunkte: 75  
 
 
 

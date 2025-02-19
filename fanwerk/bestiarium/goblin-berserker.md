@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 11       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Hammer (WB+1, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Fellschurz
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Klein
-Erfahrungspunkte: 64
+Gegnerhärte: 2  
+Größe: Klein  
+Erfahrungspunkte: 64  
 
 
 

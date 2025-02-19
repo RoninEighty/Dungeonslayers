@@ -23,24 +23,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 26       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Streithammer (2h) +2 (WB+5, INI-2, GA-2, Stärke +2, Rundumschlag +I, Zauber: Schleudern eingebettet, Abklingzeit permanent ignorieren)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Plattenpanzer +2 (PA+5, Härte +2, Diener der Dunkelheit +II), mag. Plattenbeinschienen +1 (PA+2), mag. Plattenarmschienen +1 (PA+2), mag. Metallhelm +1 (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Fluch des Berserkers (Brutaler Hieb +II, Diener der Dunkelheit +II, Raserei +II, Standhaft +II), Handschuhe der Hammerkunst (Perfektion +III, Schnelle Reflexe +II), Haut des Eiswyrms (Einstecker +III, Diener der Dunkelheit +I), Knochenfußkette (Ausweichen +II, Flink +I)
 
-**Talente:**
+**Talente:**  
 Brutaler Hieb V, Raserei III, Ausweichen II, Schnelle Reflexe II, Rundumschlag I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 26
-Größe: Normal
-Erfahrungspunkte: 460
+Gegnerhärte: 26  
+Größe: Normal  
+Erfahrungspunkte: 460  
 
 
 

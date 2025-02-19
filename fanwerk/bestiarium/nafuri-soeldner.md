@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 8        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Krummschwert (WB+2), Krummschwert (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Zwei Waffen III, Parade I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 2
-Größe: Normal
-Erfahrungspunkte: 53
+Gegnerhärte: 2  
+Größe: Normal  
+Erfahrungspunkte: 53  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 16       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Werkzeug (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Metallwesen (PA+5)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fliegen, Umschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 9
-Größe: Klein
-Erfahrungspunkte: 69
+Gegnerhärte: 9  
+Größe: Klein  
+Erfahrungspunkte: 69  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 19       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langschwert (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kämpfer III, Parade I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 6
-Größe: Normal
-Erfahrungspunkte: 59
+Gegnerhärte: 6  
+Größe: Normal  
+Erfahrungspunkte: 59  
 
 
 

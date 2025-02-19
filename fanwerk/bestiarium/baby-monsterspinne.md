@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 11       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Netzflüssigkeit (WB+2), Spinnenbiss (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Chitinpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Kletterläufer, Lähmungseffekt, Natürliche Waffen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Klein
-Erfahrungspunkte: 75
+Gegnerhärte: 3  
+Größe: Klein  
+Erfahrungspunkte: 75  
 
 
 

@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 10       | 14         | 13         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1, Zauber: Teleport eingebettet)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Magieresistent III, Feuermagier II, Bildung II, Wechsler II, Zaubermacht II, Runenkunde I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerlanze (+4), Feuerstrahl (+3), Flammenklinge (+2), Giftbann (0), Giftschutz (0), Licht (+5), Magie entdecken (0), Magie identifizieren (0), Tiere besänftigen (-LK/5)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 72
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 72  
 
 
 

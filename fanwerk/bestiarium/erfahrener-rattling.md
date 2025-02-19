@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 7        | 17       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Schütze II, Einstecker I, Fieser Schuss I, Flink I, Ausweichen I, Schwimmen I, Heimlichkeit I, Wahrnehmung I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 61
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 61  
 
 
 

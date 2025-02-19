@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 5        | 17       | 11         | 16         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Langbogen (2h) (WB+2, INI+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Fürsorger III, Einstecker II, Abklingen I, Rüstzauberer I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Flackern (+1), Heilende Hand (+4), Heilendes Licht (+5), Magische Waffe (0), Segen (0)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 79
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 79  
 
 
 

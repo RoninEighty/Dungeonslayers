@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 6        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 mag. Langschwert +3 (WB+5, INI+3, GA-3), Lanze (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Plattenpanzer (PA+3, LA-1, Einstecker +III), Turmschild (PA+2, LA-1), Plattenbeinschienen (PA+1, LA-0.5), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Stiefel (Flink +III)
 
-**Talente:**
+**Talente:**  
 Kämpfer III, Parade III, Reiten II, Charmant I, Brutaler Hieb I, Schnelle Reflexe I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 13
-Größe: Normal
-Erfahrungspunkte: 83
+Gegnerhärte: 13  
+Größe: Normal  
+Erfahrungspunkte: 83  
 
 
 

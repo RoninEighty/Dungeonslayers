@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 22       | 13       | 11         | 13         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Schattenklinge (WB+3, GA-4), Feuerlanze (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Schattenrüstung (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Feuerlanze (+2), Skelette erwecken (0)
 
-Gegnerhärte: 10
-Größe: Normal
-Erfahrungspunkte: 382
+Gegnerhärte: 10  
+Größe: Normal  
+Erfahrungspunkte: 382  
 
 
 

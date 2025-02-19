@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 10       |            | 9          |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Großer Biss (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Schuppenpanzer (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Blitz (+3)
 
-Gegnerhärte: 5
-Größe: Groß
-Erfahrungspunkte: 151
+Gegnerhärte: 5  
+Größe: Groß  
+Erfahrungspunkte: 151  
 
 
 

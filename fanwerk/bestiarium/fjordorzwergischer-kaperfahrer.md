@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 9        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Axt (WB+1)
 
-**Panzerung:**
+**Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Prügler I, Raserei I, Schlachtruf I, Wissensgebiet I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 3
-Größe: Normal
-Erfahrungspunkte: 58
+Gegnerhärte: 3  
+Größe: Normal  
+Erfahrungspunkte: 58  
 
 
 

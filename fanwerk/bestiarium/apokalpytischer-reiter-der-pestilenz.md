@@ -18,24 +18,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 22       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Peitsche (WB+4, GA-4)
 
-**Panzerung:**
+**Panzerung:**  
 Umhang (PA+3)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 17
-Größe: Groß
-Erfahrungspunkte: 462
+Gegnerhärte: 17  
+Größe: Groß  
+Erfahrungspunkte: 462  
 
 
 

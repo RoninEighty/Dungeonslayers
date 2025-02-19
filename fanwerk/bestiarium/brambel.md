@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 6        | 20       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Armbrust, leicht (2h) (WB+2, INI-2)
 
-**Panzerung:**
+**Panzerung:**  
 mag. Lederpanzer +1 (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Ausweichen III, Heimlichkeit III, Schlitzohr III, Wissensgebiet II, Handwerk I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 58
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 58  
 
 
 

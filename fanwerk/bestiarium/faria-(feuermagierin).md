@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 9        | 8        | 13         | 13         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Armband (Verstand +1), Gürtel (1x aktionsfrei Zauber wechseln), Krähenfuß (Feuerzauber +1)
 
-**Talente:**
+**Talente:**  
 Feuermagier III, Wechsler II, Flink I, Ausweichen I, Wissensgebiet I, Zaubermacht I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Duftnote (0), Feuerlanze (+6), Flammenklinge (+4), Licht (+5), Niesanfall (-(KÖR+AU)/2), Öffnen (-SW)
 
-Gegnerhärte: 1
-Größe: Normal
-Erfahrungspunkte: 81
+Gegnerhärte: 1  
+Größe: Normal  
+Erfahrungspunkte: 81  
 
 
 

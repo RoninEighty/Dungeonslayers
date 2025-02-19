@@ -22,24 +22,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 8        | 15       | 18         | 19         |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 
 
-**Panzerung:**
+**Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 Ring (Schütze +III), Ring (Zauber: Feuerball Abklingzeit bei Träger verkürzt um 2 Runden), Stab (Zauber: Flackern als Zauberstab), Stab (Zauber: Verteidigung als Zauberstab), Stab (Zauber: Feuerball als Zauberstab), Stiefel (Flink +III)
 
-**Talente:**
+**Talente:**  
 Abklingen III, Einstecker III, Schütze III, Zaubermacht III, Wissensgebiet II, Schnelle Reflexe I
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 Blitz (+3), Feuerball (+3), Feuerstrahl (+1), Flackern (-2), Magische Rüstung (0), Schattenpfeil (+2), Schutzschild (0), Verteidigung (0)
 
-Gegnerhärte: 4
-Größe: Normal
-Erfahrungspunkte: 96
+Gegnerhärte: 4  
+Größe: Normal  
+Erfahrungspunkte: 96  
 
 
 

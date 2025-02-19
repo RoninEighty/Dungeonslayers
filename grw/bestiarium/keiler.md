@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Hauer (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 6
-Größe: Normal
-Erfahrungspunkte: 89
+Gegnerhärte: 6  
+Größe: Normal  
+Erfahrungspunkte: 89  
 
 
 

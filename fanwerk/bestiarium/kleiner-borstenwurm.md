@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 5        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Dunkelsicht, Sonar, Verschlingen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 11
-Größe: Groß
-Erfahrungspunkte: 164
+Gegnerhärte: 11  
+Größe: Groß  
+Erfahrungspunkte: 164  
 
 
 

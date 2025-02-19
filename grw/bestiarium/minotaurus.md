@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 20       | 7        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Massive Keule, Horn oder Huf (WB+2, GA-2)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Sturmangriff, Zerstampfen
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 12
-Größe: Groß
-Erfahrungspunkte: 138
+Gegnerhärte: 12  
+Größe: Groß  
+Erfahrungspunkte: 138  
 
 
 

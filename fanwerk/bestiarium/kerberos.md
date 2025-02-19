@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 23       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Biss (WB+3)
 
-**Panzerung:**
+**Panzerung:**  
 Wolfspelz (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+2), Gift, Angst, Dunkelsicht, Natürliche Waffen, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 19
-Größe: Groß
-Erfahrungspunkte: 180
+Gegnerhärte: 19  
+Größe: Groß  
+Erfahrungspunkte: 180  
 
 
 

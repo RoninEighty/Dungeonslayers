@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 4        | 14       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Brandbombe (WB+3)
 
-**Panzerung:**
+**Panzerung:**  
 Felle (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Nachtsicht, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 1
-Größe: Klein
-Erfahrungspunkte: 47
+Gegnerhärte: 1  
+Größe: Klein  
+Erfahrungspunkte: 47  
 
 
 

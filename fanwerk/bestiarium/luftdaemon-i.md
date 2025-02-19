@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 14       | 13       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Klauen (WB+2, GA-1), Luftstoß (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Keine feste Gestalt (PA+4)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Anfällig, Dunkelsicht, Fliegen, Natürliche Waffen, Sturmangriff, Wesen der Dunkelheit (Settingoption)
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 6
-Größe: Normal
-Erfahrungspunkte: 106
+Gegnerhärte: 6  
+Größe: Normal  
+Erfahrungspunkte: 106  
 
 
 

@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 15       | 10       |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Pranke/Biss (WB+2, GA-1)
 
-**Panzerung:**
+**Panzerung:**  
 Fell (PA+1)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+1), Nachtsicht, Natürliche Waffen, Sturmangriff
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 8
-Größe: Groß
-Erfahrungspunkte: 142
+Gegnerhärte: 8  
+Größe: Groß  
+Erfahrungspunkte: 142  
 
 
 

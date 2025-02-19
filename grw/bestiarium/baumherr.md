@@ -17,24 +17,24 @@
 | -------- | -------- | ---------- | ---------- |
 | 27       | 1        |            |            |
 
-**Bewaffnung:**
+**Bewaffnung:**  
 Asthiebe (WB+2)
 
-**Panzerung:**
+**Panzerung:**  
 Dicke Rinde (PA+2)
 
-**Ausrüstung:**
+**Ausrüstung:**  
 
 
-**Talente:**
+**Talente:**  
 Mehrere Angriffe (+3), Anfällig, Nachtsicht, Natürliche Waffen, Schleudern
 
-**Zaubersprüche:**
+**Zaubersprüche:**  
 
 
-Gegnerhärte: 23
-Größe: Groß
-Erfahrungspunkte: 157
+Gegnerhärte: 23  
+Größe: Groß  
+Erfahrungspunkte: 157  
 
 
 
