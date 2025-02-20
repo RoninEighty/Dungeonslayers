@@ -18,7 +18,7 @@ cd _site
 
 echo "# Seitenindex" > alle-seiten.md
 echo "" >> alle-seiten.md
-find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p -e "s/(.*)/[\1]/" | echo "- $(cat -)($1)" >> alle-seiten.md' sh {} \;
+find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | sort | perl -p -e "s/(.*)/[\1]/" | echo "- $(cat -)($1)" >> alle-seiten.md' sh {} \;
 
 BASE_URL=https://ronineighty.github.io/Dungeonslayers
 #BASE_URL=http://localhost/f-space/ds4srd
@@ -50,7 +50,6 @@ find . -name "*.md.html" -exec perl -i -p -e 's/.md#(.*?)">/.html#$1">/ig' "{}" 
 find . -name "*.md.html" > mv.sh
 perl -i -p -e 's/(.*).md.html/mv $1.md.html $1.html/ig' mv.sh
 sh mv.sh
-rm -f mv.sh
 
 # Leave _site
 cd ..
