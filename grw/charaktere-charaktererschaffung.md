@@ -154,9 +154,15 @@ Die Formeln, aus denen sich die Kampfwerte errechnen, beziehen sich immer auf di
 
 _Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du auf Seite 7._
 
-### TALENTE IN DER ERSTEN STUFE
+### 9. TALENT WÄHLEN
 
-#### FÜR ALLE KLASSEN
+Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit also schon über 2TP. TP werden gespart oder in Talente (siehe Seite 17) investiert, sofern der Charaktere die jeweiligen Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt. Jedes der Talente kostet 1TP.
+
+**Beispiel**: Für einen Talentpunkt erwirbt unser Elfenzauberer das Talent Bildung, das jeder Charakter ab der 1. Stufe erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig, was noch fehlt, ist etwas Persönlichkeit.
+
+#### TALENTE IN DER ERSTEN STUFE
+
+##### FÜR ALLE KLASSEN
 
 - Ausweichen
 - Bildung
@@ -176,14 +182,16 @@ _Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du 
 - Wahrnehmung
 - Wissensgebiet
 
-#### FÜR KRIEGER
+##### FÜR KRIEGER
 
 - Blocker
 - Kämpfer
 - Parade
 - Standhaft
 - Zwei Waffen
-- FÜR SPÄHER:
+
+##### FÜR SPÄHER
+
 - Akrobat
 - Diebeskunst
 - Flink
@@ -191,28 +199,22 @@ _Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du 
 - Jäger
 - Schütze
 
-#### FÜR ALLE ZAUBERWIRKER
+##### FÜR ALLE ZAUBERWIRKER
 
 - Alchemie
 - Runenkunde
 - Umdenken
 - Wechsler
 
-#### FÜR HEILER
+##### FÜR HEILER
 
 - Fürsorger
 - Manipulator
 - Rüstzauberer
 
-#### FÜR SCHWARZMAGIER
+##### FÜR SCHWARZMAGIER
 
 - Feuermagie
-
-### 9. TALENT WÄHLEN
-
-Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit also schon über 2TP. TP werden gespart oder in Talente (siehe Seite 17) investiert, sofern der Charaktere die jeweiligen Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt. Jedes der Talente kostet 1TP.
-
-**Beispiel**: Für einen Talentpunkt erwirbt unser Elfenzauberer das Talent Bildung, das jeder Charakter ab der 1. Stufe erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig, was noch fehlt, ist etwas Persönlichkeit.
 
 ### 10. LETZTE SCHLIFFE
 

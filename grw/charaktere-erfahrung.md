@@ -1,6 +1,6 @@
 ## ERFAHRUNG
 
-Charaktere erhalten durch das Bezwingen von Gegnern, Lösen von Aufgaben und Bestehen vonAbenteuern Erfahrungspunkte, abgekürzt mit EP.
+Charaktere erhalten durch das Bezwingen von Gegnern, Lösen von Aufgaben und Bestehen von Abenteuern Erfahrungspunkte, abgekürzt mit EP.
 
 ### DIE STUFENLEITER
 
@@ -8,13 +8,14 @@ Erreichen die EP einen bestimmten Wert, steigt man in die nächste Stufe auf, vo
 
 **Beispiel:** _Der elfische Späher Jherrant (Stufe 3 mit 589 Erfahrungspunkten) erhält für sein letztes Abenteuer 118 Erfahrungspunkte. Die neue Summe beträgt 707EP und Jherrant hat die vierte Stufe erreicht._
 
-Beim Aufstieg in eine neue Stufe erhält ein Charakter jedesmal **zwei Lernpunkte (LP)** und **1 Talentpunkt (TP)**.
-Zauberwirker können außerdem nach Erreichen einer neuen Stufe weitere **Zaubersprüche** erlernen.
+Beim Aufstieg in eine neue Stufe erhält ein Charakter jedesmal **zwei Lernpunkte (LP)** und **1 Talentpunkt (TP)**. Zauberwirker können außerdem nach Erreichen einer neuen Stufe weitere **Zaubersprüche** erlernen. 
+
 Ab der 10. Stufe kann ein Charakter schließlich in eine **Heldenklasse** (siehe Seite 10) wechseln, benötigt dann zukünftig allerdings mehr EP, um in den Stufen aufzusteigen.
 
 ### LERNPUNKTE
 
 Für **Lernpunkte (LP)**, von denen man jede neue Stufe 2 erhält, kann man **Eigenschaften**, die **Lebenskraft** oder **TP** steigern. Die jeweiligen Kosten richten sich nach der Klasse des Charakters.
+
 Alternativ kann 1 Lernpunkt auch ausgegeben werden, um weitere **Sprachen** oder neue **Schriftzeichen** zu erlernen (siehe [Charaktererschaffung](charaktere-charaktererschaffung.md)).
 
 Es kann vorkommen, dass man erst eine Stufe lang sparen muss, um sich eine bestimmte Steigerung leisten zu können.
