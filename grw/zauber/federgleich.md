@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel - samt seiner getragenen Ausrüstung - kann aus einer Höhe gleich dem doppelten Probenergebniss in Metern sanft wie ein Feder ungelenkt zu Boden gleiten (1m pro KR).
 

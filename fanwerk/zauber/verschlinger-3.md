@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Ausreichender Schaden von der Innenseite lässt die dimensionale Membran zusammenbrechen und befördert den Inhalt der Dimensionstasche wieder in die normale physische Realität.
 

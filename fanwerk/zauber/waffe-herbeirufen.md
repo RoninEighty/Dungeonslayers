@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 In der Hand des ZAW erscheint eine Waffe. Der ZAW entscheidet, ob er eine Nah- oder eine Fernkampfwaffe wünscht. Art der Waffe, Verzauberung und besondere Effekte werden entsprechend auf den Schatztabellen W und E gewürfelt.
 

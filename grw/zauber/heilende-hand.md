@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Durch Hand auflegen wird bei dem Ziel Lebenskraft in Höhe des Probenergebnisses geheilt.
 

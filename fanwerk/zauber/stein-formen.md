@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber bringt die berührte Menge Gestein in eine beliebige, generell jedoch eher grobe Form. Komplexe oder fein ausgearbeitete Proben erfordern eine passende und eventuell erschwerte Handwerks-Probe. Mit diesem Zauber lassen sich keine effektiven Rüstungsteile anfertigen, und bestenfalls stumpfe Schlagwaffen erschaffen. Diese gelten als normale nicht-magische Ausrüstung.
 

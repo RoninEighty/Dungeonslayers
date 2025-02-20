@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber verwischt alle Spuren des ZAW und seiner Gefährten bis zu einer Wegdistanz von VE des ZAW x 20 Meter hinter ihnen.
 

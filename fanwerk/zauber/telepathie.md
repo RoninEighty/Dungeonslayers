@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberer kann einem oder mehreren Wesen innerhalb von VE x 2 Metern seine Gedanken senden. Prinzipiell kann er sich so jedem Wesen mitteilen, das selbst über eine Sprache verfügt, ohne allerdings dessen Sprache kennen zu müssen.
 

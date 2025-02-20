@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber heilt sämtliche Verletzungen und schließt jede noch so große Wunde, ohne Narben zu hinterlassen. Selbst abgetrennte Gliedmaßen (sofern nicht mehr als W20 Stunden abgetrennt) lassen sich mit diesem Spruch wieder anfügen.
 

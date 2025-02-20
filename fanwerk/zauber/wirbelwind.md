@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Ein Wirbelsturm mit einem Durchmesser von VE in Metern und VE x 2 Meter Höhe entsteht und verursacht jede Runde durch aufgewirbelte Kleinteile abwehrbaren Schaden in Höhe des Probenergebnisses an jedem in seinem Wirkungsbereich. Außerdem muss jeder im Wirkungsbereich KÖR+ST - halbe Stufe des ZAW würfeln. Bei Misslingen wird er von dem Wirbelsturm VE Meter in eine zufällige Richtung geschleudert, wofür er Sturzschaden entsprechend der Distanz erleidet.
 

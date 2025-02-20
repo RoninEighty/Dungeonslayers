@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Entfesseln befreit ein beschworenes oder erwecktes Wesen von der Kontrolle seines Beschwörers und macht jegliche Befehle oder Aufträge nichtig. Beschworene Wesen verhalten sich, als wäre das Beschwören misslungen, bei Untoten wird durch Entfesseln ein eventuelles Kontrollieren gebannt. Ein Beschwörer kann versuchen, ein Wesen mit Bändiger oder Kontrollieren wieder unter seine Kontrolle zu bringen.
 

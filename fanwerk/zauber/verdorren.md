@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 In einer 1m breiten geraden Schneise, die bis zum Ende der Wirkungsdistanz reicht, verdorrt alles pflanzliche Leben. Unterholz behindert keine Bewegung mehr, Büsche bieten keine Deckung oder Versteckmöglichkeiten mehr, Bäume werden kahl und morsch und können mit relativ geringem Aufwand gefällt werden.
 

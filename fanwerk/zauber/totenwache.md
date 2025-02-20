@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die Wirkungsdauer des Zaubers zählt nicht mit zu der Zeit, die der berührte Leichnam tot sein darf, dass er noch wiedererweckt werden kann.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber funktioniert wie Teleport, wirkt jedoch nur auf das berührte unbelebte Objekt. Genau wie bei Teleport wird der PW bei einem nur flüchtig bekannten Ziel halbiert.
 

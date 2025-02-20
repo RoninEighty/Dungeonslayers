@@ -2,11 +2,11 @@
 
 Diese Zauberer haben sich auf die Beherrschung der Elemente und das Herbeirufen von Elementaren spezialisiert.
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Zauberer der Stufe 10+
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                              |
 | ------------------------------------ |

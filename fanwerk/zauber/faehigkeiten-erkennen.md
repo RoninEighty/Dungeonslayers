@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erkennt den exakten Wert eines der Kampfwerte des Ziels, mit allen Boni durch Ausrüstung, Talente etc. eingerechnet.
 

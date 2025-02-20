@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Beschwört eine Nebelwolke mit maximal VE Metern Radius, wie durch den Zauber Tarnender Nebel. Zusätzlich ist der Nebel jedoch stark ätzend und verursacht jede Runde an jeder Kreatur, die sich in ihr befindet, wenn der ZAW an der Reihe ist, oder die sich in sie hinein bewegt, 2W20 abwehrbaren Schaden.
 

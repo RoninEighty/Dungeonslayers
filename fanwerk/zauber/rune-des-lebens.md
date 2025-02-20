@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Heiler hinterlässt an einer festen Oberfläche eine deutlich sichtbare glühende persönliche Rune, und er kann beim Wirken bis zu VE/2 Verbündete benennen, die die Rune auslösen können und von ihrem Effekt betroffen werden.
 

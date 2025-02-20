@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Sofern das Ziel des Zaubers beim Wirken des Zaubers nicht tot ist, regeneriert es aktionsfrei jede Runde LK in Höhe des Probenergebnisses eines KÖR+HÄ-Wurfs, selbst wenn seine LK unter -KÖR sinkt. Außerdem regeneriert es jede Runde einen (z.B. durch Werteverlust) verlorenen Attributspunkt.
 

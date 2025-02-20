@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Dem Ziel des Zaubers wird ein subtiles geistiges Kommando eingepflanzt, dass es ausführen muss. Das Kommando darf keine Aktion fordern, die länger als eine Runde dauern, und wenn es selbstzerstörerisch ist oder sich gegen die Prinzipien oder Gefährten des Ziels richtet, darf das Ziel GEI+VE würfeln, um das Kommando zu verweigern.
 

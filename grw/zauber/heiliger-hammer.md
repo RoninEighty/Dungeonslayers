@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Ein Hammer aus hellem Licht erscheint innerhalb eines Radius von VE in Metern um den Heiler herum.
 

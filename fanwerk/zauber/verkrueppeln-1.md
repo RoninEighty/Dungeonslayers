@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW verkrüppelt permanent ein Körperglied des Ziels. Der genaue Effekt hängt davon ab, welche Art von Körperglied verkrüppelt wird und wie viele davon das Ziel hat.
 

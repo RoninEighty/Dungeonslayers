@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW beginnt zu flackern und ist dadurch schwieriger zu treffen.
 

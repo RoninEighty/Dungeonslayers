@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Aus den Fingern des ZAW schießt ein giftgrüner Strahl auf das Ziel, welches keine Abwehr gegen den Zauber wirken darf und ab dem Moment des Treffers Probenergebnis in Kampfrunden jede Kampfrunde 1 Punkt nicht abwehrbaren Giftschaden erleidet.
 

@@ -2,11 +2,11 @@
 
 Blutmagier können ihre Magie mit der Kraft des eigenen Blutes verstärken, der Preis dafür sind schmerzhafte, innere Verletzungen die an ihrer Lebenskraft zehren.
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Schwarzmagier der Stufe 10+
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                        |
 | ------------------------------ |

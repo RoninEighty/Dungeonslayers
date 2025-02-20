@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann auf einer beliebigen Oberfläche eine Nachricht erscheinen lassen, die bis zu VE x 10 Schriftzeichen umfassen kann (max. 140).
 

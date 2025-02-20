@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber verändert die Stimme des Ziels, um sie entweder einer Stimme anzugleichen, die der ZAW schon einmal gehört hat und so eine Verkleidung zu perfektionieren, um sie angenehmer oder um sie unangenehmer klingen zu lassen. In letzteren beiden Fällen erleichtert bzw. erschwert der Zauber alle sozialen Proben um 2.
 

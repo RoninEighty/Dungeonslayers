@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW hüllt sich selbst in Schatten, die ihn in einem Radius von VE/2 Metern umgeben. Angriffe gegen Ziele in der Finsternis werden um 8 erschwert, gleichsam erhalten alle innerhalb der Finsternis -8 auf alle Proben, bei denen man besser sehen können sollte.
 

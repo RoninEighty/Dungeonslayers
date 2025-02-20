@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erschafft eine Steinwand, die Ausmaße von bis zu 1m x VE m x VE m annehmen kann und nicht wieder verschwindet.
 

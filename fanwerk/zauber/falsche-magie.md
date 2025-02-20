@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW legt eine Illusion auf einen Gegenstand von maximal 1 Kubikmeter Größe, die mit normalen Sinnen nicht wahrnehmbar ist, aber magische Sinne täuschen kann. Somit kann er festlegen, zu welchem Ergebnis eine erfolgreiche magische Analyse kommt, selbst unter Einsatz der Zauber Magie entdecken/identifizieren.
 

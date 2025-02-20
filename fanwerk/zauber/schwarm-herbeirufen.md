@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber ruft einen Schwarm aus beliebigen Kleintieren oder Insekten herbei, der unter der Kontrolle des Beschwörers steht wie unter dem Zauber Tierbeherrschung. Der Schwarm hat einen Schwarmwert entsprechend dem Probenergebnis der Zauberprobe.
 

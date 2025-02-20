@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel altert augenblicklich um das Probenergebnis in Jahren. Bei einem Immersieg oder wenn das Maximalalter überschritten wird, stirbt das Ziel.
 

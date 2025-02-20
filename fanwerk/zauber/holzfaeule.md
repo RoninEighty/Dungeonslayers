@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber lässt bei Erfolg einen nichtmagischen unbelebten hölzernen Gegenstand augenblicklich zu morschen Spänen zerfallen.
 

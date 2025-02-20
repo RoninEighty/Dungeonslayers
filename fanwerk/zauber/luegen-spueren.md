@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber spürt automatisch, wenn jemand im Wirkungsbereich bewusst die Unwahrheit spricht.
 

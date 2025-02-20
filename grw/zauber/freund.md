@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg hält das Ziel den ZAW (und nur ihn!) für einen sehr guten Freund.
 

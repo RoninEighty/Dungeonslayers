@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber halbiert den Laufen-Wert von einer maximalen Anzahl von Zielen gleich der halbierten Stufe des ZAW.
 

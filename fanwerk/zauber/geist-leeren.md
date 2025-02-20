@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel wird von allen geistesbeeinflussenden Effekten, die es betreffen, befreit.
 

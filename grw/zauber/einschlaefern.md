@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber schläfert eine maximale Anzahl von Zielen gleich der Stufe des ZAW ein. Es handelt sich dabei um einen natürlichen Schlaf, aus dem man durch Kampflärm u.ä. erwachen kann.
 

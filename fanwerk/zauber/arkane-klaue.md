@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Eine riesige Klaue aus glühender magischer Energie erscheint (Farbe nach Wunsch) innerhalb eines Radius von VE Metern um den ZAW herum.
 

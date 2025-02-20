@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Vertreibt eine Anzahl von Untoten im Wirkungsbereich gleich der halbierten Stufe des ZAW.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW verleiht dem berührten Charakter einen zusätzlichen Talentrang. Handelt es sich dabei um ein Talent, das dieser beherrscht (und von dem der ZAW weiß, dass er es beherrscht), bleibt die Zauberprobe unmodifiziert.
 

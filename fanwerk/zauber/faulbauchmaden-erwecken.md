@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Schwarzmagier kann aus einer Leiche der Größenkategorie Klein oder größer bis zu vier Faulbauchmaden (sh. GRW S. 141) hervorkriechen lassen.
 

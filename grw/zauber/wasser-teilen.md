@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann jegliche Gewässer teilen und eine 1m breite Schneise bis zum Grund in sie schlagen, ihre Länge einzig und allein begrenzt durch den Entfernungsmalus auf Zielzauber (sh. GRW S. 43).
 

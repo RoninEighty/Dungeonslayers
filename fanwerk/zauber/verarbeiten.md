@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber verwandelt VE/2 Kubikmeter (VE/2 Kubikdezimeter bei anorganischem Material) an einheitlichem Material in einen oder mehrere fertige Gegenstände entsprechender Masse und Größe aus ebendiesem Material. Soll der zu fertigende Gegenstand besonders kunstfertig sein, ist eventuell eine entsprechende Handwerks-Probe notwendig.
 

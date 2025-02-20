@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg kann das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, sich vor lauter Lachen nur (mit halbiertem Laufen-Wert) bewegen, solange der Zauber wirkt.
 

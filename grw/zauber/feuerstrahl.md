@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW schießt einen Feuerstrahl auf einen Feind, dessen Schaden dem Probenergebnis entspricht.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält +3 auf eine Eigenschaft nach Wahl des ZAW.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel kann eine bestimmte Handlung, die vom ZAW bestimmt wird, für den Zeitraum des Zaubers nicht ausführen, es sei denn, die verbotene Handlung nicht auszuführen würde das Leben des Ziels gefährden. In diesem Fall endet der Zauber automatisch.
 

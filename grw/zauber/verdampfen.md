@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel beginnt vor magischer Hitze regelrecht zu verdampfen.
 

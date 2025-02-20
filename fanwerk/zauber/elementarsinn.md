@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW konzentriert sich auf ein Element und nimmt sodann für die Dauer des Zaubers Konzentrationen, Unreinheiten, Störungen und andere Besonderheiten des entsprechenden Elements in seiner Blickrichtung wahr. Hindernisse werden dabei ignoriert. Je nach Element kann er folgende Dinge wahrnehmen: 
 

@@ -12,7 +12,7 @@
 - Abklingzeit: Abkling
 - Art: Art
 
-## Beschreibung:
+## Beschreibung
 
 Beschreibung
 

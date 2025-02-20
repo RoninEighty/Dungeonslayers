@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Diese Zauberspruch, gegen den das Ziel keine Abwehr würfeln kann, schleudert das Ziel (Probenergebnis/3) Meter weit fort.
 

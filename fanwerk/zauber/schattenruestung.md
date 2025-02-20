@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das anvisierte Rüstungsteil wabert mit rauchartiger übler Dunkelheit.
 

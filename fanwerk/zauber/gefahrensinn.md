@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält +10 auf die Initiative und darf auch gegen Gegner und Fallen, die es nicht bemerkt hat, in der Runde des Angriffs entsprechend seiner Initiative handeln. Dabei gilt der Tarnwert einer Falle als ihr Initiativewert.
 

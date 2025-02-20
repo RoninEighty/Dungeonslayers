@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW und bis zu VE x 2 Kameraden in VE x 2 Meter Umkreis werden gesegnet.
 

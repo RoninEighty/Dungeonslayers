@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Die Haut des Ziels bildet großflächige Blasen oder platzt stellenweise sogar komplett vom Fleisch.
 

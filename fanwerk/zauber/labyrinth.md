@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel wird in eine kurzlebige Taschendimension versetzt, ein außerdimensionaler Irrgarten voll verwirrender Rätsel und Gänge. Die Taschendimension bricht nach VE Runden allerdings wieder zusammen und gibt das Ziel des Zaubers unbeschadet wieder an dem Ort frei, von wo es verschwunden ist.
 

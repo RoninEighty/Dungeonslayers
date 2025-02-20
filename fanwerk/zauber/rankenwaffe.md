@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberwirker kann eine Waffe in die Dornenranken einer magischen Pflanzen hüllen.
 

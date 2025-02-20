@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberer lässt das Ziel optisch deutlicher und schärfer erscheinen, wodurch alle Schießen- und Zielzauber-Angriffe auf es einen Bonus in Höhe von GEI/2 des ZAW erhalten.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers wird für die Wirkungsdauer von einer unsichtbaren unüberwindlichen Kraft daran gehindert, sich dem ZAW auf mehr als VE Meter zu nähern. Geschosse oder Zauber werden von dieser Kraft allerdings nicht beeinflusst.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel - samt seiner getragenen Ausrüstung - wird gasförmig und kann durch jede noch so kleine Öffnung gleiten.
 

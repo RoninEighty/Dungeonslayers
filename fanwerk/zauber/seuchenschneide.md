@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberwirker kann eine Metallklinge in den Erreger gefährlich Krankheiten hüllen.
 

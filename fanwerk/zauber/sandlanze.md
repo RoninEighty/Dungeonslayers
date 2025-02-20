@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dies ist eine mächtigere Variante des Zaubers Sandstrahl. Auch hiermit wird das Ziel für eine Runde geblendet wie durch den Zauber Blenden, wenn der ZAW bei der Zauberprobe einen Immersieg erzielt.
 

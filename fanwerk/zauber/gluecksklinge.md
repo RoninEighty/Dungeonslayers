@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die verzauberte Waffe glitzert in goldenen Funken, erhält WB +1 und zählt als magisch. Außerdem ist es unmöglich einen Angriff mit der verzauberten Waffe zu patzen. Fällt bei einem Angriffswurf eine 20, darf der Angriff neu gewürfelt werden. Fällt dabei erneut eine 20, ist der Angriff einfach nur nicht gelungen.
 

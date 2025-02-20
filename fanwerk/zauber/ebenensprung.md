@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber teleportiert den ZAW und bis zu VE Begleiter auf eine andere Ebene, die er namentlich nennen muss, zu einem ihm bekannten Ort auf dieser. War der ZAW noch nie an diesem Ort und kennt ihn nur vom Hörensagen, wird der PW der ZaubernProbe halbiert. Bei einem Zauber-Patzer erscheinen die Charaktere in einem Objekt (zu tief im Boden, in einem Baum) und erhalten W20 nicht abwehrbaren Schaden (2W20, wenn der Ort nur vom Hörensagen bekannt war).
 

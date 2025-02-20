@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dies ist eine mächtigere Variante des Zaubers Schattenlanze, gegen dessen Schaden Wesen des Lichts ebenfalls einen Malus von 2 auf ihre Abwehr erhalten.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält während der Wirkungsdauer in jeder Runde eine ExtraAktion.
 

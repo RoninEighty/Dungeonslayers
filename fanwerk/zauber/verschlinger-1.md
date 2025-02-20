@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die freiwillige Zielkreatur, bei der es sich um ein lebendiges Wesen handeln muss, erhält einen Bissangriff mit einem WB entsprechend GEI/2 des ZAW, gegen den gegnerische Abwehrwürfe um GEI/2 des ZAW gesenkt sind. Dieser Teil des Zaubers hat keinen Effekt, wenn die Zielkreatur von Natur aus einen besseren Bissangriff besitzt Darüber hinaus kann die Kreatur bei einem Bissangriff auf eine Kreatur von einer oder mehr Größenkategorien kleiner, sofern dieser Schaden verursacht, versuchen, diese zu verschlingen. Dazu muss ein Wurf auf KÖR+ST gegen KÖR+ST des Gegners gelingen. Bei Erfolg ist der Gegner verschlungen, welcher fortan einen nicht abwehrbaren Schadenspunkt pro Kampfrunde und einen Malus von -8 auf alle Proben erhält.
 

@@ -2,11 +2,11 @@
 
 Spezialisiert auf das Erwecken Kontrollieren von Untoten.
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Schwarzmagier der Stufe 10+
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                     |
 | --------------------------- |

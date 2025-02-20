@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Heiler verleiht mit diesem Zauber einem Tier mystische Kräfte, wodurch es heroisch wird. Der Zauber verleiht keinerlei Kontrolle über ein Tier.
 

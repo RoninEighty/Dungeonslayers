@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erkennt den exakten Wert einer der Eigenschaften des Ziels nach seiner Wahl (ST, HÄ, GE, BE, VE oder AU).
 

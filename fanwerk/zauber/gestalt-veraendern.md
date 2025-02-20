@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber funktioniert ähnlich wie Verwandlung, außer dass der ZAW auch Gestalten annehmen kann, die nicht seinem Volk oder seinem Geschlecht entsprechen. Die Zielgestalt muss nur in etwa seine Größe und eine humanoide Gestalt haben.
 

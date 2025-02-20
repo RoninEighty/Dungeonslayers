@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erschafft eine schwach schillernde Barriere, die je bis zu VE Meter lang und hoch sein kann. Ein Bemerken-Wurf ist erforderlich, um die Barriere zu erkennen.
 

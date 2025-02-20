@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber erschafft eine kleine neue Existenzebene im interplanaren Raum. Beim Wirken des Zaubers wird der ZAW auf diese Ebene versetzt.
 

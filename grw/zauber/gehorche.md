@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg wird das Ziel dem ZAW hörig und führt bedingungslos jeden seiner Befehle aus (außer Selbstmord oder -verstümmelung). Es würde sogar seine eigenen Kameraden angreifen.
 

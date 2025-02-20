@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel kann statt zu laufen auch lotrecht hoch und runter schweben.
 

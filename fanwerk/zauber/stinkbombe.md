@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Erfüllt einen Bereich von VE Metern Radius mit kurzzeitig einem solchen Gestank, dass alle Ziele darin, sich vor Würgen und Keuchen nur bewegen können (mit halbem Laufen-Wert), bis der Spruchwirker wieder an der Reihe ist.
 

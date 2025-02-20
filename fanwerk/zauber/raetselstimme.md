@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Sobald sich während der Wirkungsdauer ein anderes humanoides Wesen als der ZAW der berührten Stelle auf weniger als 2 Meter nähert, erklingt von dieser eine Botschaft nach Vorgabe des ZAW, gesprochen in dessen Stimme und in einer Sprache, die er kennt, mit einer Länge von bis zu Stufe des ZAW x 10 Wortsilben.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW wird um das Probenergebnis geheilt, und das berührte Ziel erhält ebendiese Heilung als nichtabwehrbaren Schaden, wobei an ihm die Wunden entstehen, die beim ZAW verschwinden. Der Zauber funktioniert nicht, wenn der ZAW nicht verletzt ist.
 

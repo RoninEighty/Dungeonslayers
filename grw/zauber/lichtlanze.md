@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dies ist eine mächtigere Variante des Zaubers Lichtpfeil, gegen dessen Schaden Wesen der Dunkelheit einen Malus von 2 auf ihre Abwehr erhalten.
 

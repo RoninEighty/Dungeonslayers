@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erschafft VE Spiegelbilder von sich selbst, die um ihn herum erscheinen und sich mit ihm mit bewegen. Angriffe, die den ZAW treffen würden, zerstören zuerst seine Spiegelbilder, ohne im Schaden zuzufügen.
 

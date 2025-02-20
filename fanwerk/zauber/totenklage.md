@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Alle Ziele im Radius der Zauberdistanz um den ZAW herum erleiden Schaden in Höhe des doppelten Probenergebnisses. Der geistig wirkende Schaden kann nur durch einen Wurf auf GEI+AU entsprechend einem Abwehrwurf abgewehrt werden.
 

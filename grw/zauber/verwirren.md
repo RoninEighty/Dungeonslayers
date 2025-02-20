@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauberspruch verwirrt bei Erfolg das Ziel, dessen Handeln für die gesamte Zauberdauer auf folgender Tabelle jede Kampfrunde neu ermittelt wird:
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann das freiwillige Ziel in eine beliebige Kreatur verwandeln, deren GH die Stufe des ZAW nicht übersteigt (Druide: Stufe +3). Das Ziel behält seine Werte in GEI, VE und AU, alle anderen Werte werden durch die der neuen Gestalt ersetzt. Ebenso verliert das Ziel all seine Volksfähigkeiten (außer Bonustalent), kann aber alle Fähigkeiten der neuen Gestalt nutzen, abgesehen von Zauberfähigkeiten.
 

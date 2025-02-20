@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erschafft eine senkrechte Fläche aus Dunkelheit von maximal VE Meter x VE Meter Größe.
 

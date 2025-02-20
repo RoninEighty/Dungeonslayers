@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der berührte Gegenstand verliert augenblicklich und dauerhaft jegliche innewohnende Magie. Der Zauber wirkt nicht auf Artefakte, die durch das Wirken höherer Mächte geschaffen wurde.
 

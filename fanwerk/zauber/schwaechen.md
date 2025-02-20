@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält -1 auf Schlagen und Schießen. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, stürzt augenblicklich zu Boden.
 

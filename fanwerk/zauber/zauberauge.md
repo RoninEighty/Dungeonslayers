@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erschafft ein Auge aus magischer Substanz, ein Konstrukt der Größenkategorie Winzig mit einer LK entsprechend seine halben Stufe + 5 und fliegt mit einem Laufen-Wert von VE x 2. Weitere Kampfwerte hat das Auge nicht.
 

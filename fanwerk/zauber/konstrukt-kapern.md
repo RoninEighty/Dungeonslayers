@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg bringt der ZAW ein Konstrukt unter seine Kontrolle, selbst wenn dieses einem anderen ZAW untersteht.
 

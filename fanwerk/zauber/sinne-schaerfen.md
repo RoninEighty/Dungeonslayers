@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält während der Wirkungsdauer die halbe Stufe des ZAW auf alle Wahrnehmungswürfe. Außerdem wird die Distanz, ab der sich Fernkampfabzüge durch große Entfernung ergeben, um die halbe Stufe des ZAW erhöht (also meistens 10 + Stufe des ZAW in Metern statt 10 Meter).
 

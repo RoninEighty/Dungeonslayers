@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die Körpergröße des freiwilligen Ziels - samt seiner Ausrüstung - verdoppelt sich augenblicklich. Charaktere nehmen die Größenkategorie "groß" (sh. GRW S. 104) an.
 

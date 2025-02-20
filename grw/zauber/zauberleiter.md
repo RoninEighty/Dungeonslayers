@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Eine magische Leiter entsteht, die bis zu VE x ZAWtufe Meter hoch sein kann.
 

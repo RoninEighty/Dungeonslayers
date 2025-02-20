@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW begibt sich in einen tranceähnlichen Zustand, in dem seine optischen und akustischen Sinne sich von seinem Körper lösen können.
 

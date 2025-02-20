@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erhält einen kurzen Einblick in die Zukunft, der ihm ermöglicht, seine Entscheidungen und Reaktionen zu optimieren. Er erhält das Probenergebnis des Zaubers zum Probenwert seines nächsten Würfelwurfs dazu.
 

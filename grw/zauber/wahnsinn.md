@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers wird auf der Stelle wahnsinnig und zu einem sabbernden Schwachsinnigen, dessen Geist fortan auf 0 gesenkt ist.
 

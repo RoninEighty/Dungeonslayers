@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber wirkt genau wie Vergrößern, nur dass das Ziel nicht freiwillig sein muss, und das zusätzlich seine AGI, GE und BE halbiert werden.
 

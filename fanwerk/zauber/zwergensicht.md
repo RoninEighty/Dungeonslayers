@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers erhält die Fähigkeit Dunkelsicht entsprechend der zwergischen Volksfähigkeit, allerdings unter stockfinsteren Bedingungen nur VE des ZAW x 5 Meter weit.
 

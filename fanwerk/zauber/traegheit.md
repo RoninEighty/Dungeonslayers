@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel muss während der Wirkungsdauer auf jeden Fall eine Aktion aufwenden, falls es sich bewegen möchte.
 

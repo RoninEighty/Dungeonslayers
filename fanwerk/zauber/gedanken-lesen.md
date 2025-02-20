@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberer kann die unmittelbaren, bewussten Gedanken des Ziels lesen. So kann er diesem unbemerkt Informationen entlocken, indem er beispielsweise durch geschickte Fragen die Gedanken des Ziels auf eben diese Informationen lenkt, oder eine Verhandlung zu seinen Gunsten lenken, indem er die unmittelbaren Wünsche des Ziels liest.
 

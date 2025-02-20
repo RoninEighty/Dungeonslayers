@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber erschafft eine je bis zu GEI/2 Meter hohe und breite Wasserwand, die vom ZAW ausgehend eine gerade Schneise der Verwüstung mit einer Länge von VE x 2 Metern zieht.
 

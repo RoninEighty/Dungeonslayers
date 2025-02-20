@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält einen Bonus auf Abwehr-Proben gegen Gifte in Höhe der Stufe des ZAW. Der alleinige Bonus (ohne den normalen Abwehr-Wert) wirkt auch gegen Gifte, bei denen normalerweise keine Abwehr erlaubt ist.
 

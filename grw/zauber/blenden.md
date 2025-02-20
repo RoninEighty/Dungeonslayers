@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Ein gleißender Lichtstrahl schießt aus der Hand des ZAW und blendet bei Erfolg das Ziel (welches dagegen keine Abwehr würfeln darf).
 

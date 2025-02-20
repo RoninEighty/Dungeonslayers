@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Mit diesem Zauber lässt der ZAW einen unbelebten Gegenstand mit einer Geschwindigkeit von 1m pro Kampfrunde schweben, solange er sich ununterbrochen konzentriert (zählt als ganze Aktion).
 

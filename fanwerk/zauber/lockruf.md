@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Das betroffene Ziel ist von dem Verlangen erfüllt, in der Nähe des ZAW zu sein und eilt schnellstmöglich zu ihm, wobei es jegliche Gefahren ignoriert, Hindernisse nach Möglichkeit umgeht, aber wenn nötig rücksichtslos zerstört. Hat es den ZAW erreicht, tut es nichts außer untätig bei ihm herumzustehen, es sei denn der ZAW bewegt sich. Dann folgt ihm das Ziel nach bestem Vermögen.
 

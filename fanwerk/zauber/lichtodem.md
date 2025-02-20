@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Aus dem Mund des ZAW schießt eine gleißende Lichtsäule, die alle hintereinander stehenden Gegner in einer 1 Meter breiten Schneise in sengende Helligkeit hüllt. Der Odem aus reinigendem Licht verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses an allen Kreaturen, die nicht Wesen oder Diener des Lichts sind.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Eine Schutzkuppel mit einem Radius von VE in Metern erscheint um den ZAW herum, solange er sich konzentriert (zählt als ganze Aktion).
 

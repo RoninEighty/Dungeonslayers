@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Eine flammende Helligkeit umgibt das Ziel des Zaubers, welches einen Bonus von +2 pro Talentrang in DIENER DES LICHTS auf seine Abwehr erhält. Außerdem gelten alle seine natürlichen Waffen und alle Nahkampfwaffen, die es führt, als magisch und erhalten WB +1.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW bannt den mächtigsten Zauber oder magischen Effekt, der auf das Ziel des Zaubers wirkt.
 

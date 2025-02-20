@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Eine unsichtbare Wolke der Reue mit einem Radius von maximal VE in Metern entsteht.
 

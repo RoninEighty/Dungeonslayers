@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Ein Netz aus klebriger Astralmasse mit einem Radius von VE/2 in Metern erscheint.
 

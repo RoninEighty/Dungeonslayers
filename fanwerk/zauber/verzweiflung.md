@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Dies ist eine mächtigere Version des Zaubers Pein. Bis zu VE x 2 Ziele innerhalb von VE x 2 Metern zum ZAW werden von Verzweiflung und Hoffnungslosigkeit erfüllt und erhalten für die Dauer des Zauberspruchs - 3 auf alle Proben.
 

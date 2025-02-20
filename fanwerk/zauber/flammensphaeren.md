@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Bei erfolgreicher Zauberprobe bilden sich GEI/2 faustgroße Feuerkugeln, die den ZAW umkreisen und jeweils Licht wie eine Fackel aussenden.
 

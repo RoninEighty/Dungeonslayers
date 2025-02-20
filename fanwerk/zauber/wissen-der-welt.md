@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber zapft übernatürliche Quellen an, um den ZAW mit Wissen zu versorgen, über dass er eigentlich nicht verfügt, ein kollektives Überbewusstsein vielleicht, das Wissen der Götter oder auch das eigene Unterbewusstsein des ZAW.
 

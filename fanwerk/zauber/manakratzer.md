@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die Waffe des Zieles beginnt vor Magie an zu flirren. Solange der Zauber wirkt fügt die Waffe des Verzauberten keinen Schaden an den LK des Gegners zu.
 

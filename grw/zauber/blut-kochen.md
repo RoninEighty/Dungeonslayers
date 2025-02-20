@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Blut des Ziels beginnt auf magische Art und Weise zu kochen, ohne dass es gerinnt.
 

@@ -1,12 +1,12 @@
 ## KAMPFMÖNCH
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Heiler der Stufe 10+
 
 Ordensmitgliedschaft
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                        |
 | ------------------------------ |

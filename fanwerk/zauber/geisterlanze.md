@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dies ist eine mächtigere Version des Zaubers Geisterpfeil.
 

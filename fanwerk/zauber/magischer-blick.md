@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann einen Ort oder eine Person auf magische Weise ausspähen, vorausgesetzt, er hat das Ziel vorher schon einmal gesehen. Der Blickwinkel ist dabei stets von oben auf das Ziel gerichtet, die Höhe ist frei wählbar, es sei denn, ein Hindernis würde den Blick auf das Ziel versperren. Ist die Perspektive entsprechend zu hoch gewählt, scheitert der Zauber automatisch.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW lässt aus festem Boden eine Fontäne aus kochendem Wasser emporschießen. Die Fontäne hat einen Durchmesser von VE Metern und schießt VE x 2 Meter in die Luft. Wesen, die sich an der Stelle befinden, aus der der Geysir entspringt, können mit AGI+BE versuchen, in Sicherheit zu springen (zählt als freie Aktion). Gelingt dies, kriegen sie nur heißen Dampf und Wasserspritzer ab, was 2W20 abwehrbaren Schaden verursacht. Andernfalls werden sie von der Fontäne voll erfasst, erleiden 2W20 nicht abwehrbaren Schaden und werden die volle Höhe des Geysirs nach oben gerissen, von wo aus sie für den entsprechenden Fallschaden nach unten stürzen.
 

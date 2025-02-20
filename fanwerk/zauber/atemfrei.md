@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber lässt den Zauberwirker und bis zu VE Begleiter auf magische Art ohne Atmung auskommen. Dies ist nicht nur auf unter Wasser beschränkt, sondern natürlich auch in Umgebungen in denen keine sonstige Atemluft (Gift, Erde) vorhanden ist. Nach Ende der Wirkung gelten die Regeln für Ertrinken (sh. GRW S. 84/85)
 

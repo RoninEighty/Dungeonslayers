@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW verwandelt sich vollständig in Eisen, ohne seine Beweglichkeit zu verlieren. Dadurch erhält er +8 PA und zählt als Metallwesen.
 

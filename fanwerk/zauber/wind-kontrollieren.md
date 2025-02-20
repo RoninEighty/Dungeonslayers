@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Mit diesem Zauber kann der Zauberwirker Richtung und Stärke von Wind kontrollieren und so zum Beispiel Fall und Flug von vom Wind getragenen Objekten kontrollieren. Prinzipiell kann er so auf Objekte und Lebewesen eine Kraft ausüben, die seinem GEI+AU entsprechen.
 

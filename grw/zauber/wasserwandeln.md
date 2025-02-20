@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers kann eine Anzahl von Runden gleich dem Probenergebnis auf Wasser laufen, als befände es sich an Land.
 

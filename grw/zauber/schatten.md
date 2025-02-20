@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dunkle Schatten umhüllen das Ziel (welches keine Abwehr dagegen würfeln darf), wodurch es -8 auf alle Handlungen hat, bei denen es besser sehen können sollte.
 

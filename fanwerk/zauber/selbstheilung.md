@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Als Bewegungsaktion heilt der sich der ZAW selbst in Höhe des Probenergebnisses.
 

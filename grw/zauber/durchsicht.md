@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann durch nichtmagische, unbelebte Objekte VE/2 m weit sehen.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die berührte Nahkampfwaffe wird zu einem aktiven Konstrukt unter Kontrolle des ZAW. Sie hat die Werte eines Fliegenden Schwerts, aber der WB des Fliegenden Schwerts werden durch den WB der Waffe ersetzt. Auch weitere Modifikatoren der Waffe (wie Abzüge auf Initiative oder Gegnerabwehr) werden angewandt.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberer kontaktiert ein ihm bekanntes Wesen im Traum und kann während der Wirkungsdauer dessen Traumerlebnisse beliebig beeinflussen. So kann er diesem zum Beispiel eine Nachricht zukommen lassen, die komplexe Informationen enthält. Der ZAW kann sogar eine Gesprächssituation arrangieren, in der der Träumende Rückfragen stellen kann. Diese können allerdings nicht ganz ausgeschlafen ausfallen.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW hinterlässt an der berührten Stelle eine unsichtbare Illusion von (VE x 10) Zentimeter mal (VE x 10) Zentimeter. Erst wenn jemand diese Stelle untersucht oder Verborgenes sehen darauf wirkt, vermittelt die Illusion den Eindruck, dass an dieser Stelle etwas verborgen sei, eine Falle, eine Geheimtür, ein Mechanismus etc. (der ZAW kann dies leider nicht spezifizieren).
 

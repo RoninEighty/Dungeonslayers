@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber findet im Wirkungsbereich alle Bücher und Schriftstücke zu einem Thema oder einer Fragestellung, auf die sich der ZAW konzentriert, und gibt ihm sogar für jedes Schriftstück einen Eindruck, wie relevant es für das Thema ist. Außerdem hilft der Zauber auch dabei, die richtige Seite in einem Buch zu finden.
 

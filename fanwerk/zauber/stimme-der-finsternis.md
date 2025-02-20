@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Lästerliche Worte der Finsternis ausstoßend, fügt der Schwarzmagier Wesen und Dienern Lichts im Umkreis von VE Metern Schaden zu in Höhe des doppelten Probenergebnisses. Betroffene Wesen würfeln ihre Abwehr ohne Panzerungsboni ihrer Gegenstände.
 

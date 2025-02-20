@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW wird äußerst überzeugend und wirkt sehr vertrauenswürdig. Für die Dauer des Zaubers erhält er +10 auf alle Proben, um zu Lügen und die Wahrheit zu verschleiern.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber wirkt genau wie Versetzen, allerdings muss das Ziel nicht freiwillig sein.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erschafft eine Sphäre mit einem Radius von VE/2 Metern um sich herum, die ähnlich wie eine Schutzkuppel von beiden Seiten unpassierbar ist. Im Gegensatz zu dieser kann er die Schutzsphäre allerdings, während er sich auf sie konzentriert, bewegen, und zwar jede Runde in einer beliebigen Richtung entsprechend seinem Laufen-Wert (Rennen ist jedoch nicht möglich).
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW bündelt die magische Energien um sich herum und erschafft daraus die Grundzutat einer einfachen Mahlzeit, wie etwa Linsen, Reis oder Rüben.
 

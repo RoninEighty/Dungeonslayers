@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die Leiche eines Lebewesens von mindestens der Größenkategorie Winzig lädt sich mit schädlicher Energie auf und explodiert nach 1 Runde plus 1 Runde pro Größenkategorie über Winzig für 1W20 abwehrbaren Schaden plus 1W20 pro Größenkategorie über Winzig in einem Radius abhängig von der Größenkategorie des Wesens.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 In einem Radius von VE x 2m (Druide: VE x 5m) sprießt niedriger, aber dichter, Pflanzenbewuchs, der zudem mit bösartigen Dornen besetzt ist. Alle Laufen-Reichweiten in diesem Gestrüpp sind halbiert. In Gebiet mit natürlichem Bewuchs, der ohnehin Bewegung einschränkt, hat der Zauber keinen Effekt auf die Bewegungsweite. Allerdings erleidet jeder, der sich in diesem Gebiet am Boden fortbewegt, bei seiner Bewegung W20 abwehrbaren Schaden (2W20, wenn der Zauber von einem Druiden gewirkt wurde).
 

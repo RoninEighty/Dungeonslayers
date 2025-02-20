@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW schießt einen Blitz auf einen Feind, der auf bis zu VE weitere Gegner in seiner Nähe überspringt.
 

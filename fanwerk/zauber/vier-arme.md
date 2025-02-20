@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dem Ziel wachsen zwei zusätzliche Arme (Rüstung und Kleidung verwandeln sich entsprechend mit). So kann es beispielsweise mit vier Einhandwaffen kämpfen, oder mit zwei zwei Zweihandwaffen, oder mit einer Zweihand- und zwei Einhandwaffen.
 

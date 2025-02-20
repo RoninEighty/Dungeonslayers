@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 <u>Arme</u>: Hat eine Kreatur die Fähigkeit "Mehrere Angriffsglieder", können diese mit erfolgreichem Verkrüppeln automatisch reduziert werden. Aber auch generell kann der Zauber die Anzahl von Angriffen, die eine Kreatur pro Runde hat, reduzieren, sofern diese auf einer entsprechenden Anzahl von Gliedmaßen beruhen.
 

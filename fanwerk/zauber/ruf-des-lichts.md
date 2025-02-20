@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Heilige Worte des Lichts ausstoßend, fügt der Heiler Wesen und Dienern der Dunkelheit im Umkreis von VE Metern Schaden zu in Höhe des doppelten Probenergebnisses. Betroffene Wesen würfeln ihre Abwehr ohne Panzerungsboni ihrer Gegenstände.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 3 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberwirker wird für jede eingesetzte Blutprobe, die er dabei verbraucht, um 2 LK geheilt.
 

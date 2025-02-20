@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel kann absolut sicher mit seinem reinen Laufen-Wert über dünne Seile u.ä. balancieren.
 

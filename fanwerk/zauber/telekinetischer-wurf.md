@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber verschießt einen beliebigen Gegenstand, den der ZAW in einer Hand halten kann (was er zum Zwecke dieses Zaubers auch tun muss), präzise auf ein Ziel, wodurch er Schaden verursacht in Höhe des Ergebnisses der Zielzaubern-Probe. Der Probenwert kann auf folgende Weisen modifiziert werden: Geschoss = Nahkampfwaffe +WB-1 / Wurfwaffe +WB / Pfeil, Bolzen +2 / spitz, scharfkantig oder stachlig +1
 

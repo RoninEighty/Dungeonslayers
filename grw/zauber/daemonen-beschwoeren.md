@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Mit diesem Zauber beschwört der Zauberwirker einen Dämon aus einer anderen Existenzebene.
 

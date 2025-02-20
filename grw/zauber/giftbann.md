@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Neutralisiert augenblicklich ein nichtmagisches Gift, sofern es noch nicht zu spät ist.
 

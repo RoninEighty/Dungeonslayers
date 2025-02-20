@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber versucht das Ziel zur Explosion zu bringen. Der verursachte Schaden entspricht dem vierfachen Probenergebnis, das Ziel würfelt Abwehr ohne Panzerungsboni von Gegenständen.
 

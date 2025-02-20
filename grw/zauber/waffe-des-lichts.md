@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Die anvisierte Waffe erstrahlt mit der heiligen Kraft des Lichts.
 

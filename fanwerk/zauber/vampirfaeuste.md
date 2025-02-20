@@ -12,7 +12,7 @@
 - Abklingzeit: 2 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberwirker entzieht seinem Ziel die Lebenskraft, was Schaden entsprechend dem Probenergebnis zufügt. Der Zauberwirker erhält zudem 50% des Schadens, den er mit dem Zauber verursacht hat (also abzüglich des Abwehrwurfs des Gegners), in Form von heilender Magie auf die eigene Lebenskraft gutgeschrieben.
 

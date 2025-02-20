@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Ein Schutzfeld mit einem Radius von VE in Metern erscheint um den ZAW herum, an dem nichtmagische Geschosse von außen her wirkungslos abprallen.
 

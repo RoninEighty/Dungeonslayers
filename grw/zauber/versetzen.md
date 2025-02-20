@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das einwilligende Ziel wird bis zu Probenergebnis/2 Meter weit teleportiert, eine klare Sichtlinie vorausgesetzt.
 

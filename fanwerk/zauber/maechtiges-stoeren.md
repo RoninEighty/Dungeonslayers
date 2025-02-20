@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält -3 auf Abwehr.
 

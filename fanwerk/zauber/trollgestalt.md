@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das freiwillige Ziel nimmt augenblicklich die Gestalt eines Trolls an.
 

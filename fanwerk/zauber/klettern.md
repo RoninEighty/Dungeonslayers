@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers kann mit seinem normalen Laufen-Wert wie eine Spinne klettern, selbst kopfüber an der Decke.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann bis zu VEx2 Ziele in seiner Reichweite mit seelischer Pein erfüllen, wodurch sie für die Dauer des Zauberspruchs -1 auf alle Probenwerte erhalten.
 

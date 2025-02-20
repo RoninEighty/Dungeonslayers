@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW nimmt das Aussehen einer anderen Person an, die seinem Volk angehören und gleichen Geschlechts sein muss.
 

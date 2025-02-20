@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält die VE des ZAW auf seine Abwehr gegen alle Angriffe durch Wesen und Diener des Lichts sowie gegen schädigende Lichtzauber und -effekte. Außerdem ist das Ziel vor den Auswirkungen von Sonnenlicht geschützt, sollte es irgendwelche Empfindlichkeiten dagegen haben.
 

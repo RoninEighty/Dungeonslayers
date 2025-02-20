@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Die verzauberte Klinge verströmt rauchartige Schatten voll dunkler Magie.
 

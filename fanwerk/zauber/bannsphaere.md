@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dies ist eine flächendeckende Version von Zauber aufheben. Der ZAW bannt je einen Zauber oder magischen Effekt, der auf einem Gegner in einem Radius von VE x 2 Metern liegt. Die Probe wird durch die höchste Stufe aller Wesen, die aktive Zauber auf die Ziele gewirkt haben, gemindert. Der Zauber greift automatisch pro Ziel den höchststufigen Zauber oder Effekt an.
 

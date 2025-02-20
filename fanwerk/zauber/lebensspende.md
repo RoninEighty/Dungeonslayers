@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW heilt dem berührten Ziel LK bis zur Höhe des Würfelergebnisses der Zauberprobe.
 

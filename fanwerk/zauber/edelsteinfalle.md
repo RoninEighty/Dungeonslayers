@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW lädt einen Edelstein mit zerstörerischer magischer Energie auf, die sich entlädt, sobald jemand anderes als er den Edelstein berührt. Er kann allerdings beim Wirken des Zaubers bis zu VE Kreaturen festlegen, die die Falle nicht auslösen oder ein Befehlswort festlegen, das, vor einer Berührung ausgesprochen, die Entladung verhindert. Bei Entladung explodiert der Edelstein in einem Radius von VE Metern in schillernden Splittern und verursacht abwehrbaren Schaden in Höhe des Ergebnisses einer Probe auf den ZaubernWert des Wirkers. Pro vollen 10 GM Wert des eingesetzten Edelsteins erhöht sich dieser Probenwert um +1. Die Splitter lösen sich anschließend in ätherische Energie auf, und der Edelstein ist vernichtet.
 

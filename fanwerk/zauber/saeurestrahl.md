@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW schießt einen Säurestrahl auf das Ziel, dessen Schaden dem Probenergebnis entspricht. In der darauffolgenden Runde verursacht die Säure noch einmal genauso viel Schaden.
 

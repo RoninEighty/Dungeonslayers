@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Alle Gegner im Umkreis von VE m um das Ziel herum erhalten -1 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 

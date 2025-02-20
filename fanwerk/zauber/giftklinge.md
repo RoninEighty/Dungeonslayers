@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann eine Stich oder Klingenwaffe mit triefendem Gift überziehen. Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht, und ihr Schaden gilt als magisch. Wird mit der Waffe Schaden verursacht, würfelt das getroffene Ziel eine "Gift trotzen"-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde.
 

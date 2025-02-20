@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 In einem Radius von VE x 2m (Druide: VE x 5m) sprießt niedriger, aber dichter, Pflanzenbewuchs. Alle LaufenReichweiten in diesem Gestrüpp sind halbiert. In Gebiet mit natürlichem Bewuchs, der ohnehin Bewegung einschränkt, hat der Zauber keinen weiteren Effekt.
 

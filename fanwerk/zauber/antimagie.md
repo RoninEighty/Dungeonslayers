@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber erzeugt ein VE Meter x VE Meter x VE Meter großes Gebiet, in dem sämtliche Magie unterdrückt wird.
 

@@ -2,7 +2,7 @@
 
 Zu jedem Zauberspruch ist aufgelistet, ob es sich um einen normalen Zauber oder um einen Zielzauber handelt, und ab welcher Stufe Heiler, Zauberer und Schwarzmagier den Zauberspruch erlernen können. Geistesbeeinflussende Zauber, gegen die Untote u.ä. immun sind, sind gesondert mit gekennzeichnet.
 
-#### Darstellungsschema der Zaubersprüche:
+#### Darstellungsschema der Zaubersprüche
 
 - NAME DES SPRUCHS
 - Zugangstufen: Ab welcher Stufe die Klassen diesen Zauber erlangen kann

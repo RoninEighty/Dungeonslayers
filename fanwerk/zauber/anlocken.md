@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber versetzt im Umkreis alle Kreaturen einer vom ZAW beim Wirken bestimmten Art in Trance und zwingt sie, zu ihm zu kommen. Dabei umgehen sie Hindernisse nach Möglichkeit, reißen sie ein, wenn möglich, oder versuchen diese zu überwinden, wenn es nicht ihren unmittelbaren Tod bedeuten würde. Andernfalls bleiben sie vor dem entsprechenden Hindernis stehen. Erhält ein betroffenes Wesen Schaden oder wird "wachgerüttelt", reißt es das aus seiner Trance und es ist von der aktuellen Anwendung des Zaubers nicht mehr betroffen.
 

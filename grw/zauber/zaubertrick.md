@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauberspruch erzeugt kleine, unschädliche Illusionen. Beispielsweise kann der ZAW schwebende Bälle zaubern oder die Illusion eines Kaninchens aus einem Hut ziehen.
 

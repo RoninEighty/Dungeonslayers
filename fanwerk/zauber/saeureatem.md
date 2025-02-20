@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Aus dem Mund des ZAW schießt ein Säurestrom, der alle hintereinander stehenden Gegner in einer 1m breiten, geraden Schneise mit ätzender Flüssigkeit übergießt. Der ätzende Atem verursacht Schaden in Höhe des Probenergebnisses. In der darauffolgenden Runde verursacht die Säure noch einmal genauso viel Schaden (diesmal aber abwehrbar).
 

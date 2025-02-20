@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Öffnet ein Schloss, ohne es zu beschädigen. Der normalerweise immer +0 betragende Schlosswert (SW) kann durch bessere Qualität oder den Zauberspruch Magisches Schloss erhöht werden.
 

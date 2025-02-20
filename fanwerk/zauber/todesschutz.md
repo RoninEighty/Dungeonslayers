@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW und VE x 2 Gefährten im Umkreis von VE x 2 Metern sind für die Dauer des Zaubers komplett geschützt gegen Alterung und Werteverlust.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann eine Waffe in zuckende Blitze hüllen. Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht, und ihr Schaden gilt als magisch.
 

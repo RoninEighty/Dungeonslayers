@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dies ist eine mächtigere Variante des Zaubers Schattenpfeil, gegen dessen Schaden Wesen des Lichts einen Malus von 2 auf ihre Abwehr erhalten.
 

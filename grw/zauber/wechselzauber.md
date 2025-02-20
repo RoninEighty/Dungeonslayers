@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Präpariert einen Zauberspruch des ZAW, um einmalig aktionsfrei zu diesem zu wechseln.
 

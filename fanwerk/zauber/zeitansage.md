@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber verrät dem ZAW exakt, wie viel Zeit seit einem bestimmten Ereignis, dass der ZAW selbst erlebt hat, vergangen ist.
 

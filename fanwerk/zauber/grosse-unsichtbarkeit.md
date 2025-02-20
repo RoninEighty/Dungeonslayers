@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Macht ein Lebewesen (samt seiner getragenen Ausrüstung) oder ein Objekt für die Dauer des Zauberspruchs unsichtbar. Dadurch erhält das Ziel des Zaubers +8 auf alle Angriffe gegen Gegner, die es nicht sehen können, welche wiederum -8 auf ihre Angriffe gegen das Ziel des Zaubers erhalten, vorausgesetzt, sie können es irgendwie lokalisieren.
 

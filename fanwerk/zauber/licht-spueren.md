@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann die Anwesenheit von Wesen und Dienern des Lichts in Reichweite des Zaubers spüren, und auch ihre Position ermitteln, selbst wenn die Wesen unsichtbar sind.
 

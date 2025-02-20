@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber heilt bei allen Gefährten im Wirkungsradius die Lebenskraft um das Probenergebnis.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 An einem beliebigen Ort innerhalb der Distanz erscheint ein Höllenhund (Werte wie Unwolf, GRW, S.
 

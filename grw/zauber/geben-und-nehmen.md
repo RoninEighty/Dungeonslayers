@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers erhält 50% des Schadens, den es per Schlagen im Nahkampf verursacht (also abzüglich des Abwehrwurfs des Gegners), in Form von heilender Magie auf die eigene Lebenskraft gutgeschrieben.
 

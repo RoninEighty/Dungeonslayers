@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW verwandelt sich vollständig in Stein, ohne seine Beweglichkeit zu verlieren. Dadurch erhält er +5 PA und zählt als Steinwesen.
 

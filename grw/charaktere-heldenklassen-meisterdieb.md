@@ -1,10 +1,10 @@
 ## MEISTERDIEB
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Späher der Stufe 10+
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                       |
 | ----------------------------- |

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW lässt eine Feuerwand erscheinen, die Ausmaße von maximal 1m x VE m x VE m annehmen kann. Wesen, die an der Stelle stehen, wo die Feuerwand erscheint, oder durch sie hindurch springen, erhalten 2W20 abwehrbaren Schaden.
 

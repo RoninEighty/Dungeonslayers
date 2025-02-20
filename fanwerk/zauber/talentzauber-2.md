@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Bei einem Misserfolg sind die Kenntnisse des ZAW nicht ausreichend, um das Talent zu verleihen, und der Zauber wird für dieses Talent automatisch fehlschlagen. Der Wurf ist auch erforderlich, wenn das Talent einer Heldenklasse zugänglich ist, der der ZAW (noch) nicht angehört (es sei denn er hat das Talent ADEPT für diese Heldenklasse).
 

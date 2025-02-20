@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Ein Schwert aus hellem (oder je nach Belieben auch dunklem) Licht erscheint innerhalb eines Radius von VE in Metern um den ZAW herum.
 

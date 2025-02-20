@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber verleiht einer Waffe magische Kräfte. Ihr WB erhöht sich für die Dauer des Zauber um +1 und der mit ihr verursachte Schaden gilt als magisch, verletzt beispielsweise also auch körperlose Wesen wie Geister.
 

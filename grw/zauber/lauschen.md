@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann sein Hörzentrum an einen bis zu VE x 5 m entfernten Punkt verlagern (eine klare Sichtlinie vorausgesetzt) und vernimmt dadurch alles, was dort zu hören ist, als würde er sich dort befinden.
 

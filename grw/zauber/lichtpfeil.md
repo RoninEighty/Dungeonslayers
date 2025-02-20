@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Gegen den Schaden dieses Zielzaubers erhalten Wesen der Dunkelheit einen Malus von 2 auf ihre Abwehr.
 

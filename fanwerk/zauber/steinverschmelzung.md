@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann in natürlichem Erdboden versinken oder mit einem steinernen Objekt oder Wesen von mindestens seiner Größe verschmelzen.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Alle laufenden Abklingzeiten des Ziels werden um eine Kampfrunde pro Probenergebnis verlängert.
 

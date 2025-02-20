@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Gegner im Umkreis von VEx2 m um das Ziel herum erhalten -3 auf Schlagen und Abwehr. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber wirkt wie Segen (sh. GRW S. 67), nur das zusätzlich alle betroffenen Kreaturen während der Wirkungsdauer einen Rang im Talent Diener der Dunkelheit erhalten (evtl.
 

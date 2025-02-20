@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält für die Dauer des Zauberspruchs die Fähigkeit, unsichtbare Objekte und Lebewesen ganz normal erkennen zu können.
 

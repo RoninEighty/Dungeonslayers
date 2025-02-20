@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg bringt der ZAW eine maximale Anzahl untoter Ziele gleich seiner Stufe unter Kontrolle, selbst wenn diese einem anderen ZAW unterstehen.
 

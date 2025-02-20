@@ -2,11 +2,11 @@
 
 Diese treffsicheren Mörder schlagen schnell und tödlich zu, sei es aus sicherer Entfernung oder mit einer vergifteten Dolchklinge.
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Späher der Stufe 10+
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                         |
 | ------------------------------- |

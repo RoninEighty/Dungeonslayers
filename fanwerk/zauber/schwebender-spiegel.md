@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber erschafft eine 50 cm durchmessende schwebende kreisrunde reflektierende Fläche, die der ZAW an beliebiger Stelle innerhalb des Wirkungsradius erscheinen und in diesem Bereich nach Belieben umher schweben lassen kann. So können zum Beispiel schlecht einsehbare Ecken ausgespäht werden, ohne dass der ZAW sich in unmittelbare Gefahr begeben muss.
 

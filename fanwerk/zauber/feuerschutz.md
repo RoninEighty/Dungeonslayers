@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Sämtlicher Feuerschaden, den das Ziel während der Zauberdauer erleidet, wird pro Angriff oder Ereignis um VE des ZAW vermindert. Heiler oder Schwarzmagier können ein Ziel statt vor Feuer auch vor Schaden durch Licht- oder Schatten-Effekten schützen, dann aber nur um VE/2 pro Angriff.
 

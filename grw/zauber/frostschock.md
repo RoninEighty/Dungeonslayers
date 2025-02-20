@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Ein Eisstrahl schießt aus den Händen des ZAW. Gegen den Schaden dieses frostigen Zauber ist keine Abwehr zulässig.
 

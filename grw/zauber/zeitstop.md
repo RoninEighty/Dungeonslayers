@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW hält die Zeit an, bis die Zauberdauer endet oder er Schaden verursacht bzw. selber erleidet.
 

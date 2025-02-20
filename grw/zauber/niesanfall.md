@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg kann das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, sich vor lauter Niesen nur (mit halbierten Laufen-Wert) bewegen, bis der Spruchwirker wieder an der Reihe ist.
 

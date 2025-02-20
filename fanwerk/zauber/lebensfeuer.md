@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW wird in eine Aura goldener Flammen gehüllt, die Licht abgeben wie eine Lagerfeuer, aber keinerlei Hitze. Während der Wirkungsdauer dieses Zaubers verursachen alle Heilzauber des ZAW Schaden an Untoten. Der Schaden ist abwehrbar, es sei denn der Schaden pro Runde wird durch das Probenergebnis des Zaubers nicht beeinflusst.
 

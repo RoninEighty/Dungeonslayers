@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW umgibt sich selbst mit einer Wolke lodernder Flammen, die ihm selbst keinen Schaden zufügt und die Umgebung wie ein Lagerfeuer erhellt. Alle Kreaturen im Umkreis von GEI/2 Metern erhalten jede Runde 1W20 abwehrbaren Schaden.
 

@@ -2,11 +2,11 @@
 
 Mit Schwert und Magie begeben sich die Kriegszauberer in die Schlacht.
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Zauberer der Stufe 10+
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                      |
 | ---------------------------- |

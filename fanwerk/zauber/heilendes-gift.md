@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber verwandelt eine Dosis Gift in eine heilsame Substanz (es genügt, das Gefäß zu berühren, das es enthält), die bei Einnahme in genau der gleichen Weise und Menge heilt, wie das Gift Schaden gemacht hätte (wobei eventuelle Abwehrwürfe natürlich unnötig sind).
 

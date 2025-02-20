@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Ein von einem Heiler geschaffener Doppelgänger ist immer ein Wesen des Lichts, und die Zielkreatur kann nur ein Wesen der Dunkelheit sein.
 

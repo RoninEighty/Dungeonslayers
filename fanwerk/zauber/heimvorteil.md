@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW legt eine stationäre Zone fest mit einem Radius von bis zu VE in Metern um ihn herum.
 

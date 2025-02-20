@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Schwarzmagier verwandelt einen Heiltrank oder eine Portion Heilkräuter in ein gefährliches Gift.
 

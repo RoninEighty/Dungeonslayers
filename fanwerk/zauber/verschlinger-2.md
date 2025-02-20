@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Alternativ kann der Verschlinger auch leblose Objekte von einem Gesamtgewicht von bis zu etwa der Hälfte seiner eigenen Körpermasse in seinem Leib verstauen.
 

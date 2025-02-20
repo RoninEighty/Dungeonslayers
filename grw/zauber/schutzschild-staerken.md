@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Verdoppelt den Bonus auf die Abwehr eines Schutzschild-Zaubers, der bereits auf das Ziel wirkt.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber ist eine mächtigere Version von Selbstheilung, die den ZAW außerdem automatisch von Gift und Krankheit befreit sowie von anderen temporären negativen Effekten und Zaubern, die auf ihm liegen. Der Zauber benötigt ebenfalls nur eine Bewegung.
 

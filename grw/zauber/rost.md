@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber lässt bei Erfolg eine nichtmagische Waffe oder ein nichtmagisches Rüstungsteil aus Metall augenblicklich zu rostigen Staub zerfallen.
 

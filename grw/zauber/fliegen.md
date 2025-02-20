@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel kann fliegen. Die Fortbewegungsgeschwindigkeit ist im Flug doppelt so hoch wie am Boden (zusätzlich kann man sie wie beim "Rennen" verdoppeln).
 

@@ -2,13 +2,13 @@
 
 Kleriker heilen im Namen ihree Gottheit, helfen aber auch in Wehr und Waffen.
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Heiler der Stufe 10+
 
 Ordensmitgliedschaft
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                        |
 | ------------------------------ |

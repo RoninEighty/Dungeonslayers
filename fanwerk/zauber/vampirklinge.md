@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die verzauberte Klingenwaffe wird weiß wie Elfenbein, und Blut beginnt von ihr herabzutropfen.
 

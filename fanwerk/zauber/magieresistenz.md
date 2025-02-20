@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Alle Zauber, die direkt auf das Ziel gerichtet sind, erleiden einen Abzug von GEI des ZAW der Magieresistenz auf die Probe (das schließt nützliche Zauber ein!). Steht das Ziel der Magieresistenz im Schadensbereich eines Flächenzaubers (einschließlich einer Arkanen Explosion), wird dessen Schaden um GEI des ZAW der Magieresistenz gesenkt.
 

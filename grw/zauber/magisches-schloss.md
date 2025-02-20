@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber verschließt auf magische Weise eine Klappe, Truhe, Tür oder ähnliche Öffnung.
 

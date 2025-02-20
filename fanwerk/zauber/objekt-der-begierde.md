@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Jeder, der den bezauberten unbelebten Gegenstand erblickt, muss GEI+VE würfeln, oder er betrachtet das Ziel des Zaubers während der Dauer als höchst begehrenswerten Schatz, den er unbedingt in seinen Besitz bringen möchte.
 

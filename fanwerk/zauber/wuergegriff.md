@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Schwarzmagier setzt einen telekinetischen Würgegriff an seinem Ziel an, welches fortan jede Runde VE abwehrbaren Schaden bekommt, sich nicht frei bewegen kann und einen Abzug von -GEI/2 auf alle Proben erhält. Ein Ziel mit der gleichen Größenkategorie wie der Schwarzmagier oder kleiner schwebt dabei sogar bis zu 1 Meter über dem Boden. Das Opfer des Würgegriffs kann jede Runde mit einer KÖR+AU-Probe gegen GEI+AU des Schwarzmagiers versuchen, sich zu befreien und den Zauber zu brechen.
 

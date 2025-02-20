@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber verschießt einen geisterhaft glühenden und auf unheimliche Weise heulenden Energiepfeil auf das Ziel.
 

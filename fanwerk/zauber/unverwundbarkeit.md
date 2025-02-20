@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel darf von jedem Schaden, den es erhält, GEI/2 des ZAW abziehen. Der Schaden wird reduziert, nachdem Abwehr gewürfelt wird, aber auch dann, wenn gegen den Schaden gar keine Abwehr möglich ist.
 

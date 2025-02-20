@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber wirkt genau wie Steinwand, nur dass die entstehende Wand glühend heiß ist und glutflüssige Lava aus Rissen ihrer Oberfläche hervortritt. Wer die Wand ungeschützt berührt, erleidet 1W20 abwehrbaren Schaden. Wer der Wand Schaden zufügt, wird von einem Schwall flüssiger Lava getroffen, der 1W20 nicht abwehrbaren Schaden verursacht.
 

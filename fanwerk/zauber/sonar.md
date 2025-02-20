@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers erhält die Fähigkeit, innerhalb einer Reichweite von VE des ZAW x 2 Metern mit Hilfe von Sonar zu "sehen".
 

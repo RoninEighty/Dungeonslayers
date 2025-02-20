@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die verzauberte Waffe beginnt, Töne auszusenden, die wie weit entfernte Schreie klingen, und Schatten wabern über sie, die wie angsterfüllte Fratzen aussehen.
 

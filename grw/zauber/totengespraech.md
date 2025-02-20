@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann den Geist eines Toten befragen, dieser muss ihm antworten, allerdings nicht automatisch wahrheitsgemäß.
 

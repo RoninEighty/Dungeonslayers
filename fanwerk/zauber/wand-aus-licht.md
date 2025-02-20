@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erschafft eine senkrechte Fläche aus Licht von maximal VE Meter x VE Meter Größe. Wesen und Diener des Lichts können durch diese frei hindurchsehen und sie problemlos passieren. Wesen und Diener der Dunkelheit können durch die Wand weder hindurchsehen noch sie passieren. Alle übrigen Wesen können die Wand zwar passieren, aber nicht hindurchsehen.
 

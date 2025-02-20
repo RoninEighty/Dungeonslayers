@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dem Ziel werden Ergebnis/2 Proben seines Blutes entzogen (max 24h haltbar) und dem Zauberwirker zugeführt.
 

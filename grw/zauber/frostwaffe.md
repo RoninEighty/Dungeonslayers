@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann eine Waffe in eisige Kälte hüllen. Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht und ihr Schaden gilt als magisch.
 

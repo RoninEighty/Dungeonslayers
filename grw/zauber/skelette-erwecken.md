@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Schwarzmagier kann eine maximale Anzahl von Skeletten (sh. GRW S. 122) im Wirkungsradius gleich seiner eigenen Stufe zu untotem Leben erwecken.
 

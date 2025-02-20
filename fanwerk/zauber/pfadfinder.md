@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW "erspürt" den kürzesten zu Fuß begehbaren Weg zu einem von ihm spezifizierten Ziel. Das Ziel muss eine Ortsangabe sein und darf sich nicht auf Objekte oder Kreaturen beziehen, und das Ziel muss eindeutig bestimmt sein. "Zum Aufenthaltsort des bösen Schwarzmagiers" oder "zu einem Raum, in dem es Schätze gibt" wären also beispielsweise illegitim. "Zum Finsteren Turm" oder "zur Schatzkammer dieses Dungeons" wären legitime Ziele.
 

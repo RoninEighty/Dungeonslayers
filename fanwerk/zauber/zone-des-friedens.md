@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 In einem Radius von VE x 2 Metern um den Heiler herum entsteht eine unbewegliche Zone, die auf jede darin befindliche Kreatur beruhigend wirkt, sie generell weniger kampfbereit macht und die Geneigtheit zum Finden friedlicher Lösungen verstärkt. Alle sozialen Würfe, die von Kreaturen in dem Bereich gemacht werden, erhalten einen Bonus von +2.
 

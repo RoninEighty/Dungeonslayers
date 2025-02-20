@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die verzauberte Waffe beginnt in grünlichem Licht zu leuchten, erhält +1 auf den WB und zählt als magisch. Zusätzlich erhält ihr Träger durch jeden Immersieg bei einem Angriff mit der Slayerwaffe einen zusätzlichen Slayerpunkt.
 

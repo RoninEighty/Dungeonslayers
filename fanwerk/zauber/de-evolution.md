@@ -12,7 +12,7 @@
 - Abklingzeit: 1 Tag oder W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel wird in ein winziges Tier nach Wahl des ZAW verwandelt.
 

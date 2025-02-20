@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW sieht Bilder der VE/2 Personen vor seinem geistigen Auge, die den berührten Gegenstand vor ihm als letztes berührt haben und erhält außerdem einen ungefähren Eindruck, wie lang das jeweils her ist.
 

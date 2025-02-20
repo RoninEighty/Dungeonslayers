@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Laufen-Wert des Ziels wird für die Dauer des Zaubers verdoppelt.
 

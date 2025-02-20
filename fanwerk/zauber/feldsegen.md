@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Land um den Heiler wird fruchtbarer und ertragreicher. Äcker/Pflanzungen werfen während der Wirkungsdauer 10% mehr Ertrag ab (20% wenn von Druiden gewirkt). In der Wildnis gewirkt sorgt der Zauber dafür, dass Pflanzen saftiger wachsen, mehr Wildfrüchte tragen und das Gebiet mehr Nahrung bietet, was dazu führt, dass sich dort auch mehr Wild tummelt. Es wird sehr einfach, in diesem Gebiet zu überleben, jeder Charakter würfelt dort auf alle Proben um Nahrung zu beschaffen als hätte er einen (zusätzlichen) Rang im Talent Jäger (2 zusätzliche Ränge, wenn von Druiden gewirkt).
 

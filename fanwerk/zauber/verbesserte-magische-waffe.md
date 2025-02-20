@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber verleiht einer Waffe einen magischen WB von +VE/2 (min. 1).
 

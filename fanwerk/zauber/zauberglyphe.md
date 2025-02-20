@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW bringt eine etwa handflächengroße Glyphe auf einer Oberfläche an, in die er einen Zielzauber von maximal seiner Stufe -5 einbinden kann. Er muss diesen Zauber nicht sprechen, aber erfolgreich zu diesem wechseln, während er die Glyphe berührt.
 

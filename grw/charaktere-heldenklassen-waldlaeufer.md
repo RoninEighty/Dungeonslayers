@@ -2,11 +2,11 @@
 
 Waldläufer sind Kundschafter, die das Leben in der Wildnis bevorzugen und ausgezeichnete Bogenschützen abgeben.
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Späher der Stufe 10+
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                |
 | ---------------------- |

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Auf festem Boden schießen steinerne Dornen aus der Erde über eine Fläche von maximal VE Meter x VE Meter.
 

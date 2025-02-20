@@ -20,7 +20,7 @@ Bei zu vielen Gegnern wird empfohlen, die Spieler ihre Beute selbst auswürfeln 
 
 Abgesehen von permanenten Boni und Wirkungen benötigt ein Charakter immer eine ganze Aktion (sofern nicht anders erwähnt), um einen Effekt eines magischen Gegenstands auszulösen.
 
-#### BONI VON GEGENSTÄNDEN:
+#### BONI VON GEGENSTÄNDEN
 
 Die verschiedensten magischen Gegenstände gewähren ihrem Träger magische Boni auf bestimmte Proben oder Werte.
 
@@ -28,11 +28,11 @@ Die Summe aller kombinierten Boni durch getragene, magische Ausrüstung auf eine
 
 **Beispiel**: _Ein Charakter mit einer magischen Rüstung +3, einem magischen Helm +1 und einem Schutzring +2 würde also nur einen magischen Bonus von +5 auf seine Abwehr erhalten, nicht +6._
 
-#### TALENTE DURCH GEGENSTÄNDE:
+#### TALENTE DURCH GEGENSTÄNDE
 
 Gewährt ein Gegenstand die Wirkung eines Talents, wird es behandelt, als ob der Träger des Gegenstandes das Talent selbst beherrscht - unabhängig von den Voraussetzungen des Talents oder ob es von dem Charakter vielleicht schon bis zum Maximalrang erlernt wurde (der durch den Gegenstand angehoben werden würde).
 
-#### ZAUBER IN GEGENSTÄNDEN:
+#### ZAUBER IN GEGENSTÄNDEN
 
 Diese können unabhängig von Klasse und Stufe ausgelöst werden, was immer eine ganze Aktion in Anspruch nimmt.
 

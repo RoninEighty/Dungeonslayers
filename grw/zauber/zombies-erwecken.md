@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Schwarzmagier kann eine maximale Anzahl an Leichen gleich seiner eigenen Stufe im Wirkungsradius zu untotem Leben erwecken.
 

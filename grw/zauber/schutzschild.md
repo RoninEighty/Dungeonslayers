@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält das Probenergebnis als Bonus auf seine Abwehr, bis die Dauer des Zaubers abgelaufen ist.
 

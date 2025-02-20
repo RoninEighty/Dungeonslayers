@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erkennt VE/2 Talente des Ziels, angefangen mit jenen, in denen das Ziel die meisten Ränge besitzt.
 

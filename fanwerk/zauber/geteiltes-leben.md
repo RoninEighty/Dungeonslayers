@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber wirkt effektiv wie Magische Rüstung, nur dass der ZAW Probenergebnis x 2 LK auf bis zu VE Verbündete im Umkreis des Zaubers verteilen darf.
 

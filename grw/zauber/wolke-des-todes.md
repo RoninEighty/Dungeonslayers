@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Eine schwarze, qualmende Wolke des Todes mit einem Radius von maximal VE in Metern entsteht.
 

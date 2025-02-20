@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Die verzauberte Metallklinge wird durchscheinend, glüht in bleichem geisterhaften Licht und sendet ein leises unheimliches Stöhnen aus. Für die Dauer des Zauberspruchs erhöht sich ihr WB um +1, und die Waffe gilt als magisch. Die Waffe ignoriert während der Zauberdauer alle Abwehrboni durch den Zauber Schutzschild und die Eigenschaft Keine feste Gestalt.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält -3 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 

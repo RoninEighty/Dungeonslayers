@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW springt augenblicklich bis zu Probenergebnis/2 Meter weit und landet dabei wieder sicher auf seinen Beinen. Alternativ kann man auch hoch oder runter springen, beispielsweise um einen Balkon zu erreichen.
 

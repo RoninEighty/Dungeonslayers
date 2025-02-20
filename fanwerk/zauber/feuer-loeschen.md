@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber erzeugt einen Strahl magischer Energie, der Hitze absorbiert. Für den Zauber gibt es 4 Einsatzmöglichkeiten: zum Löschen, als Verteidigung gegen feuerbasierende Zielzauber oder Odemwaffen, zum Bannen von Feuerzaubern (z.B. Feuerwand) oder als Angriff gegen Feuerwesen z.B. Elementare.
 

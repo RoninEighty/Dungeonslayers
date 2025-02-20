@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers vergisst die Ereignisse der letzten VE x 2 Minuten oder einer beliebigen Zeitspanne innerhalb dieser. Mit einer erfolgreichen GEI+AU Probe kann der ZAW außerdem stattdessen eine andere Erinnerung einpflanzen. Schwarze Kleidung zu tragen gibt einen +1 Bonus auf diesen Wurf.
 

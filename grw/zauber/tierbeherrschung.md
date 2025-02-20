@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg wird das Tier zu einem willenlosen Sklaven des ZAW.
 

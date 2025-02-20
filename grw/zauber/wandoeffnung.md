@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW öffnet ein kreisrundes Loch von 1m Durchmesser in einer bis zu VE x 10 cm dicken, nichtmagischen Wand.
 

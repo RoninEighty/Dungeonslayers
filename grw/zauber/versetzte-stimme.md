@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann das von ihm Gesagte an einen bis zu VE x 10 Meter entfernten Punkt verlagern (eine klare Sichtlinie vorausgesetzt).
 

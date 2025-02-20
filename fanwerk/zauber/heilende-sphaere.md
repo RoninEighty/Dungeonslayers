@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Heiler erschafft eine etwa 50 cm durchmessende (also GK wi) schwebende Sphäre aus reiner Lebenskraft mit einer LK gleich dem doppelten Probenergebnis und einem Laufen-Wert gleich dem doppelten Laufen-Wert des Heilers.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Mit diesem Zauber kann versucht werden, die Abklingzeit eines zuvor (innerhalb der letzten VE Kamfprunden) erfolgreich gewirkten Zauberspruchs wieder auf Null zu senken.
 

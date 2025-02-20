@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Aus dem Mund des ZAW schießt eine wabernde Schattensäule, die alle hintereinander stehenden Gegner in einer 1 Meter breiten Schneise in tödliche Finsternis hüllt. Der Odem aus verderbter Dunkelheit verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses an allen Kreaturen, die nicht Wesen oder Diener der Dunkelheit sind.
 

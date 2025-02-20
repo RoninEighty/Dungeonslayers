@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber reinigt eine ungewaschene Person, einen Gegenstand (wie einen schlammbesudelten Umhang) oder auch eine Mahlzeit (von Bakterien, Fäulnis und Gift).
 

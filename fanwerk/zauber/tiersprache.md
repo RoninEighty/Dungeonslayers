@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW kann währender der Dauer des Zaubers mit einem Tier sprechen. Das Tier versteht seine Worte, und der ZAW hört seine Muttersprache, wenn das Tier mit ihm kommuniziert, selbst wenn es überhaupt keine Laute von sich gibt.
 

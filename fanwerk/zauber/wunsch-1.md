@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser unberechenbare Zauber ermöglicht einen massiven Eingriff ins Weltgefüge und sollte nur von Spielleitern zugelassen werden, die eine kreative Herausforderung nicht scheuen. Der ZAW richtet einen Wunsch an die schiere Kraft der Magie. Dabei sind die Auswirkungen äußerst willkürlich (heißt: unterliegen vollständig der Kontrolle des Spielleiters).
 

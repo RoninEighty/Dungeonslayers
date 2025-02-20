@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW und bis zu VE Kameraden im Umkreis von VE Metern werden für die Dauer des Zaubers geistesimmun.
 

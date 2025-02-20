@@ -12,7 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber erschafft in einer bis zu VE x 10 cm dicken nicht-magischen Wand oder vergleichbaren senkrechten Barriere eine 1 Meter breite und 2 Meter hohe unsichtbare Passage, die der ZAW während der Zauberdauer nach Belieben durchschreiten kann.
 

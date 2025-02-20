@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber vernichtet feindliche Dämonen, Elementare und Untote im Wirkungsradius. Maximal wird eine Anzahl von Wesenheiten vernichtet, die der halbierten Stufe des ZAW entspricht. Bei zu vielen Wesenheiten entscheidet der Zufall, welche betroffen sind.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Offenbart dem ZAW die Quelle und/oder Funktion der Magie eines Objektes oder einer Örtlichkeit.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel erhält +1 auf seine Abwehr. Weitere Anwendungen von Minderer Schutz sind nicht kumulativ.
 

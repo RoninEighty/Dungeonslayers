@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Gegen den Schaden dieses Zielzaubers erhalten Wesen des Lichts einen Malus von 2 auf ihre Abwehr.
 

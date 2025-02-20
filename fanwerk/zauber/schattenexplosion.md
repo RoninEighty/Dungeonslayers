@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW schießt eine pechschwarze Sphäre auf seine Gegner, die in einer Schattenexplosion zerbirst, deren Radius der VE des ZAW in Metern entspricht. Alle Kreaturen in der Explosion, die keine Diener oder Wesen der Dunkelheit sind, erleiden nicht abwehrbaren Schaden in Höhe des Probenergebnisses.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Auf festem Boden öffnet der Zauber einen Erdspalt. Der Erdspalt ist bis zu VE in m breit und VE/2 in Metern lang und tief. Stehen Wesen an der Stelle, unter der der Erdspalt erscheint, können sie mit AGI+BE augenblicklich versuchen, noch in Sicherheit zu springen (zählt als freie Aktion).
 

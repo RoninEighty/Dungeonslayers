@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Eine kreisrunde Fläche mit einem Radius von VE in Metern wird von einem Wirbel hochbeschleunigter Sandpartikel erfüllt. Jeder in dem Sturm erhält pro Kampfrunde nicht abwehrbaren erdbasierenden Schaden in Höhe des Probenergebnisses. Fällt bei der Zauberprobe außerdem ein Immersieg, sind alle Ziele für eine Runde geblendet wie durch den Zauber Blenden, weil sie Sand in die Augen bekommen haben.
 

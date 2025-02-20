@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberwirker erschafft eine Eiswand, die Ausmaße von bis zu 1 Meter x VE Meter x VE Meter annehmen kann. Dabei ist die Eiswand beliebig formbar und muss nicht auf festem Boden erschaffen werden (s.u.). Allerdings kann sie nicht an einem Ort erschaffen werden, an dem sich bereits etwas befindet (wobei sie aber sehr wohl etwas einschließen kann).
 

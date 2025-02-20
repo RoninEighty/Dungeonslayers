@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erhält +VE/2 WB, wenn er waffenlos angreift. Der Abwehrbonus für Gegner auf waffenlose Angriffe entfällt.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Erschafft ein unsichtbares stationäres kuppelförmiges Schutzfeld, das normale Tiere davon abschreckt, es zu betreten. Tiere, die sich beim Wirken im Radius befinden, sind davon nicht betroffen, werden es aber, sobald sie den Kreis verlassen.
 

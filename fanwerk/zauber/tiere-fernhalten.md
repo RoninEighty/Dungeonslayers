@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Bis zu VE x 2 Tiere können sich dem ZAW auf nicht mehr als VE Meter nähern. Sind sie bereits näher, weichen sie auf diese Distanz zurück.
 

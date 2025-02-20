@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg darf das Ziel keine Abwehr gegen den Zauber würfeln. Es verliert 50% seiner aktuellen LK, zeitgleich bekommt aber auch der Zauberwirker dieselbe Anzahl Punkte an LK als nicht abwehrbaren Schaden.
 

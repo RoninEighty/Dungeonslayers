@@ -12,7 +12,7 @@
 - Abklingzeit: 2 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Ein vom Heiler ausgehender Lichtstrahl heilt die Lebenskraft des Ziels in Höhe des Probenergebnisses.
 

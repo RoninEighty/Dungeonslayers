@@ -2,11 +2,11 @@
 
 Waffenmeister setzen auf Schnelligkeit und fatale Treffer mit ihren zahlreichen Waffen.
 
-### VORAUSSETZUNGEN:
+### VORAUSSETZUNGEN
 
 Krieger der Stufe 10+
 
-### TALENTE:
+### TALENTE
 
 | TALENTE                  |
 | ------------------------ |

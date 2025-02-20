@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber unterdrückt sämtliche Unsichtbarkeit in einem Radius von VE x 2 Metern um den ZAW herum, unsichtbare Wesen werden sichtbar, solange sie sich in diesem Bereich aufhalten. Unsichtbarkeit wird durch diesen Zauber nicht gebannt, ein Wesen, das diesen Bereich wieder verlässt, wird wieder unsichtbar, sofern ein entsprechender Effekt auf es wirkt. Die Wirkungsdauer von Unsichtbarkeit auf Wesen im Bereich läuft normal weiter.
 

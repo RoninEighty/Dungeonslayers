@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Ein magischer Wächter alarmiert bzw. weckt den ZAW, sobald ein Wesen sich bis auf VE x 2 Meter oder weniger dem Zielpunkt nähert.
 

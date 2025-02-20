@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Dies ist eine mächtigere Variante des Zaubers Lichtlanze, gegen dessen Schaden Wesen der Dunkelheit ebenfalls einen Malus von 2 auf ihre Abwehr erhalten.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW geht eine mentale Verbindung mit einem freiwilligen Ziel ein, die ihm erlaubt, durch dessen Augen zu sehen. Die Reichweite der Verbindung ist praktisch unbegrenzt, aber entfernt sich das Ziel weiter als VE x 2 Meter von ihm, ist er effektiv blind.
 

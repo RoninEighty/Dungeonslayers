@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW bündelt die magische Energien um sich herum und erschafft daraus warmes, aber geschmackloses Manabrot.
 

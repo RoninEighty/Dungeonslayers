@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber wandelt Beine in funktionierende Flossen um, so dass das verzauberte Wesen mit seinem normalen Laufen-Wert schwimmen kann.
 

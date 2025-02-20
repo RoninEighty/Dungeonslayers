@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erkennt VE/2 Zauber, die das Ziel beherrscht, angefangen mit jenen der höchsten Zugangsstufe. Bei einem Gleichstand entscheidet der Spielleiter, welchen der ZAW sieht.
 

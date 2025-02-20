@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erschafft einen kleinen, magischen Diener, der für ihn unglaublich flink putzt, aufräumt und packt.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers wird augenblicklich wegteleportiert, und zwar VE des ZAW in Kilometern in eine zufällige Richtung, die mit folgender Tabelle bestimmt werden kann:
 

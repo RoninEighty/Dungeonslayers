@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber funktioniert weitgehend wie Trugbild, abgesehen davon, dass der ZAW sich auf die Illusion konzentrieren muss, und dass sich die Illusion nach Wunsch des ZAW innerhalb eines Radius von VE Metern zu diesem bewegen kann.
 

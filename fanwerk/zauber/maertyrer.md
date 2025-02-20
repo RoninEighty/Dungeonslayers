@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW wählt ein freiwilliges Ziel als Märtyrer aus und dann ein weiteres freiwilliges Ziel als Schutzbefohlenen. Wann immer der Schutzbefohlene LK abgezogen bekommen würde, erleidet statt dessen der Märtyrer die entsprechende Summe als nichtabwehrbaren Schaden. Natürlich darf der Schutzbefohlene Abwehr würfeln, sofern gegen den Angriff erlaubt. Der ZAW kann selbst Leibwächter oder Schutzbefohlener sein, aber der Zauber kann kein weiteres Mal auf einen Leibwächter oder Schutzbefohlenen gewirkt werden.
 

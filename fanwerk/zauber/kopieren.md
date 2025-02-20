@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW streicht mit der Hand über eine Seite eines Schriftstücks und sogleich über eine leere Seite von ungefähr gleicher Größe, auf der somit ein exaktes Abbild der zuerst berührten Seite erscheint.
 

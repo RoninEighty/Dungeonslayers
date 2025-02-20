@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber belebt einen Charakter, der nicht eines natürlichen Todes starb, wieder zum Leben mit 1LK.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der verzauberte Schild glitzert in goldenen Funken, erhält PA +1 und zählt als magisch. Außerdem ist es unmöglich eine Abwehr mit dem verzauberten Schild zu patzen. Fällt bei einem Abwehrwurf eine 20, darf die Abwehr neu gewürfelt werden. Fällt dabei erneut eine 20, ist die Abwehr einfach nur nicht gelungen.
 

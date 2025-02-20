@@ -12,7 +12,7 @@
 - Abklingzeit: 5 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauberwirker entzieht dem Ziel des Zaubers, das gegen den Zauber Abwehr ohne alle nichtmagischen PA-Boni würfelt, sein Mana. Der Schaden, den das Ziel erhalten würde (also abzüglich des Abwehrwurfs), wird nicht von dessen LK, sondern 50% des "Schadens" von den Manapunkten des Gegners abgezogen und den Manapunkten des Zauberwirkers gutgeschrieben.
 

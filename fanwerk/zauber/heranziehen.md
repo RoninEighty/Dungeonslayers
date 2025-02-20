@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber zieht einen kleinen Gegenstand von maximal VE x 100 Gramm in die Hand des ZAW.
 

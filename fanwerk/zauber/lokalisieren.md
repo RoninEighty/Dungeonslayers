@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW erfährt den genauen Aufenthaltsort eines Objekts oder einer Kreatur, die er genau benennen kann. Er muss sein Zielobjekt namentlich nennen können oder schon einmal gesehen oder beschrieben bekommen haben. Hat er es sogar schon einmal berührt, erhält er +2 auf Probenwert des Zaubers.
 

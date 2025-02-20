@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Aber wenn das Ziel ein Humanoider ist oder generell humanoide Gestalt hat, kann der ZAW in dem fremden Körper sogar Zauber wirken.
 

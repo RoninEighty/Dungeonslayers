@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Ein kaum sichtbarer Strahl schießt vom ZAW auf das Ziel, nur wahrnehmbar durch ein Flirren der Luft.
 

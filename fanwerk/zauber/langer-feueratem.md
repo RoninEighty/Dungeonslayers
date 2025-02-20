@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Wie Feueratem, doch bleibt die feurige Schneise während der gesamten Zauberdauer bestehen und macht weiterhin nicht abwehrbaren Schaden in Höhe des Probenergebnisses an allen Wesen im Wirkungsbereich. Der ZAW kann einmal pro Runde aktionsfrei die Richtung der Schneise um bis zu 90Â° ändern, oder um 180Â° als Bewegungsaktion.
 

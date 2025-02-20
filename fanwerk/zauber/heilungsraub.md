@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers entzieht Heilkraft aus jeglicher innerhalb von VE des ZAW x 2 Metern gewirkter Heilmagie (inklusive Heiltränken). Die Wirkung jeglicher heilenden Magie in diesem Bereich wird halbiert (aufgerundet), die abgezogene Hälfte dem Ziel des Zaubers als Heilung gutgeschrieben.
 

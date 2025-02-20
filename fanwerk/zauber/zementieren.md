@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Dieser Zauber verbindet die Komponenten von lockerem Material wie Sand, Schlamm, Schnee, Asche, Ruß etc. mit einer festen magischen Matrix, so dass daraus stabile Strukturen entstehen können. Effektiv bildet der Zauber aus entsprechendem Material eine Wand mit Ausmaßen von maximal 1 Meter x VE Meter x VE Meter heraus, vorausgesetzt, es ist genügend Material vorhanden. Ansonsten entspricht die Struktur technisch einer mit dem Zauber Steinwand gebildeten Wand (Abwehr = Stufe des ZAW x 3. LK pro Kubikmeter = Stufe des ZAW).
 

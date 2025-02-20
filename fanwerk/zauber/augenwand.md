@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber erschafft eine Wand aus zäher, gallertiger Masse, die mit einer Unzahl glotzender, rollender und blinzelnder Augäpfel bedeckt ist.
 

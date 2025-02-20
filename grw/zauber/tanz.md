@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, kann für die Dauer des Zauberspruchs nur tanzen (und dabei höchstens 1m pro Kampfrunde laufen).
 

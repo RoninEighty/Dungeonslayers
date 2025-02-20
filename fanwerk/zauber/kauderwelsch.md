@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW und eine Anzahl Verbündete gleich seines VE in VE x 2 Meter Radius geben für Außenstehende nur noch unverständliches Geplapper von sich, untereinander verstehen sie sich aber ganz normal.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 0 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Jegliche Furcht- oder Angsteffekte, die auf dem Ziel liegen, werden augenblicklich gebannt.
 

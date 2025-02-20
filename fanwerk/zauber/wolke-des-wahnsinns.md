@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 zeit: 100 Kampfrunden Effekt: Der Zauber funktioniert wie Wolke des Todes (GRW, S. 76), aber zusätzlich muss jede nicht geistesimmune Kreatur, die sich zu Beginn ihrer Aktion in der Wolke befindet GEI+VE würfelt, erschwert um den Talentrang des ZAW in DIENER DER DUNKELHEIT. Misslingt dieser Wurf, verliert das Opfer seine Aktion und führt in dieser Runde eine zufällige Handlung aus wie durch den Zauber Verwirren (GRW, S 74).
 

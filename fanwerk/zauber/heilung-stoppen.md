@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das Ziel des Zaubers kann während der Wirkungsdauer nicht geheilt werden. Heilzauber oder -tränke wirken nicht, und selbst natürliche Heilung (inkl.
 

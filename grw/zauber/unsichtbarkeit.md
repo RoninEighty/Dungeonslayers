@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Macht ein Lebewesen (samt seiner getragenen Ausrüstung) oder ein Objekt für die Dauer des Zauberspruchs unsichtbar.
 

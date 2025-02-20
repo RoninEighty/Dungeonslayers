@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Bei Erfolg kann sich das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, nicht mehr bewegen.
 

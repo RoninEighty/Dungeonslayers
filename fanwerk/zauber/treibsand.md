@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Der Zauber erschafft ein 6 Meter tiefes Treibsandfeld, dass sich über eine Fläche von maximal VE Meter mal VE Metern erstrecken kann. Eine Kreatur, die sich in dem Feld befindet oder es betritt, muss jede Runde KÖR+ST (-2, wenn von einem Elementaristen gewirkt) würfeln, um nicht sofort ein Drittel seiner Körpergröße einzusinken. Für jedes Drittel, das eine Kreatur bereits versunken ist, ist der Wurf um 2 erschwert. Eine Kreatur, die ganz im Treibsand versunken ist, beginnt zu ertrinken (siehe DS GRW S.
 

@@ -12,7 +12,7 @@
 - Abklingzeit: 1 KR
 - Art: Zielzauber
 
-## Beschreibung:
+## Beschreibung
 
 Der ZAW schießt einen Blitz auf einen Feind. Gegner in Metallrüstung dürfen keine Abwehr gegen Blitze würfeln.
 

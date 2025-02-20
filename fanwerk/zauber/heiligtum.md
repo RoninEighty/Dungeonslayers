@@ -12,7 +12,7 @@
 - Abklingzeit: 100 KR
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung:
+## Beschreibung
 
 Eine Aura der Heiligkeit umgibt den Heiler, die es allen Kreaturen unmöglich macht, ihn anzugreifen, es sei denn ihnen gelingt ein Wurf auf GEI+VE.
 

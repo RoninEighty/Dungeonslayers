@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Alle Verbündeten des ZAW erhalten +1 auf alle Proben, solange sie sich im unbeweglichen Wirkungsbereich des Zaubers aufhalten.
 

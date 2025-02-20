@@ -12,7 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Das freiwillige Ziel - samt seiner Ausrüstung - wird auf ein Zehntel seiner Körpergröße verkleinert.Charaktere nehmen die Größenkategorie "winzig" (sh. GRW S. 104) an.
 

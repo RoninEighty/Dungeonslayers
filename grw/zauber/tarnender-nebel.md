@@ -12,7 +12,7 @@
 - Abklingzeit: 10 KR
 - Art: Zaubern
 
-## Beschreibung:
+## Beschreibung
 
 Eine Nebelwolke mit einem Radius von maximal VE in Metern entsteht.
 
