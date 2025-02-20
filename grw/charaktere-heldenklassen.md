@@ -36,7 +36,9 @@ Neben den Klassenvoraussetzungen werden bei jeder Heldenklasse ihre Talente samt
 
 #### KLASSEN UND IHRE HELDENKLASSEN
 
-- [Krieger](charaktere-klasse-krieger.md):
+##### [Krieger](charaktere-klasse-krieger.md)
+
+- [Krieger](charaktere-klasse-krieger.md)
   - [Berserker](charaktere-heldenklassen-berserker.md)
   - [Paladin](charaktere-heldenklassen-paladin.md)
   - [Waffenmeister](charaktere-heldenklassen-waffenmeister.md)
