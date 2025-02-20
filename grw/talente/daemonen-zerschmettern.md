@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Dämonen zerschmettern
+### Dämonen zerschmettern
 
 - Kategorie: #Talent
 - Zugangsstufen:

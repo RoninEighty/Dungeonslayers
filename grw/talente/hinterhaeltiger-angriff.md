@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Hinterhältiger Angriff
+### Hinterhältiger Angriff
 
 - Kategorie: #Talent
 - Zugangsstufen:

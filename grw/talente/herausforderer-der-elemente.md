@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Herausforderer der Elemente
+### Herausforderer der Elemente
 
 - Kategorie: #Talent
 - Zugangsstufen:

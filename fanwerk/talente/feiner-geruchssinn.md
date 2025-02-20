@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Feiner Geruchssinn
+### Feiner Geruchssinn
 
 - Kategorie: #Talent
 - Zugangsstufen:

@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Schmerzhafter Schuss
+### Schmerzhafter Schuss
 
 - Kategorie: #Talent
 - Zugangsstufen:

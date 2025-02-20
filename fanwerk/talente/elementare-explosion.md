@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Elementare Explosion
+### Elementare Explosion
 
 - Kategorie: #Talent
 - Zugangsstufen:

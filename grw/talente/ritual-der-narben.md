@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Ritual der Narben
+### Ritual der Narben
 
 - Kategorie: #Talent
 - Zugangsstufen:

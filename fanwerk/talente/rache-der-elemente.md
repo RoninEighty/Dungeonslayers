@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Rache der Elemente
+### Rache der Elemente
 
 - Kategorie: #Talent
 - Zugangsstufen:

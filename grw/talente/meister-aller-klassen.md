@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Meister aller Klassen
+### Meister aller Klassen
 
 - Kategorie: #Talent
 - Zugangsstufen:

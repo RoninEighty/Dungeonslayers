@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Golem zerschmettern
+### Golem zerschmettern
 
 - Kategorie: #Talent
 - Zugangsstufen:

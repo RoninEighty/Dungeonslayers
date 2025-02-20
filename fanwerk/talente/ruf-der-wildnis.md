@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Ruf der Wildnis
+### Ruf der Wildnis
 
 - Kategorie: #Talent
 - Zugangsstufen:

@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Stirb, Feigling!
+### Stirb, Feigling!
 
 - Kategorie: #Talent
 - Zugangsstufen:

@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Diener des Lichts
+### Diener des Lichts
 
 - Kategorie: #Talent
 - Zugangsstufen:

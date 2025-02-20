@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Panzerung zerschmettern
+### Panzerung zerschmettern
 
 - Kategorie: #Talent
 - Zugangsstufen:

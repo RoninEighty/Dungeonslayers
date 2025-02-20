@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Zauber stören
+### Zauber stören
 
 - Kategorie: #Talent
 - Zugangsstufen:

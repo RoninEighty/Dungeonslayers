@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Zauber der Wildnis
+### Zauber der Wildnis
 
 - Kategorie: #Talent
 - Zugangsstufen:

@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Magisches Erbe
+### Magisches Erbe
 
 - Kategorie: #Talent
 - Zugangsstufen:

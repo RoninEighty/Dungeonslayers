@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Aus den Beinen!
+### Aus den Beinen!
 
 - Kategorie: #Talent
 - Zugangsstufen:

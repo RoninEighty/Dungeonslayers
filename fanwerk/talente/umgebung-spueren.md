@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Umgebung spüren
+### Umgebung spüren
 
 - Kategorie: #Talent
 - Zugangsstufen:

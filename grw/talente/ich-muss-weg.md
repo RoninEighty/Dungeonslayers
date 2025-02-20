@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Ich muss weg!
+### Ich muss weg!
 
 - Kategorie: #Talent
 - Zugangsstufen:

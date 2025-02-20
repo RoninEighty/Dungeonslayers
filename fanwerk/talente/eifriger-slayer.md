@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Eifriger Slayer
+### Eifriger Slayer
 
 - Kategorie: #Talent
 - Zugangsstufen:

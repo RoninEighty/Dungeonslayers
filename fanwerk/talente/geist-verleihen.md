@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Geist verleihen
+### Geist verleihen
 
 - Kategorie: #Talent
 - Zugangsstufen:

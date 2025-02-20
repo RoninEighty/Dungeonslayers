@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Arkane Explosion
+### Arkane Explosion
 
 - Kategorie: #Talent
 - Zugangsstufen:

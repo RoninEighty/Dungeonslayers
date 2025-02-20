@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Tod entrinnen
+### Tod entrinnen
 
 - Kategorie: #Talent
 - Zugangsstufen:

@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Zehrender Spurt
+### Zehrender Spurt
 
 - Kategorie: #Talent
 - Zugangsstufen:

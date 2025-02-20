@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Diener der Dunkelheit
+### Diener der Dunkelheit
 
 - Kategorie: #Talent
 - Zugangsstufen:

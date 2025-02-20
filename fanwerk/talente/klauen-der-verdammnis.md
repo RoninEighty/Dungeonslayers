@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Klauen der Verdammnis
+### Klauen der Verdammnis
 
 - Kategorie: #Talent
 - Zugangsstufen:

@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Schutz vor Elementen
+### Schutz vor Elementen
 
 - Kategorie: #Talent
 - Zugangsstufen:

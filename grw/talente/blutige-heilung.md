@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Blutige Heilung
+### Blutige Heilung
 
 - Kategorie: #Talent
 - Zugangsstufen:

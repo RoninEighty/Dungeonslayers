@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Beschwörer peinigen
+### Beschwörer peinigen
 
 - Kategorie: #Talent
 - Zugangsstufen:

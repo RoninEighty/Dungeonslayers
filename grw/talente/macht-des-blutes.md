@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Macht des Blutes
+### Macht des Blutes
 
 - Kategorie: #Talent
 - Zugangsstufen:

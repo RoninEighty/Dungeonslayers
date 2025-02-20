@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Untrügliche Sinne
+### Untrügliche Sinne
 
 - Kategorie: #Talent
 - Zugangsstufen:

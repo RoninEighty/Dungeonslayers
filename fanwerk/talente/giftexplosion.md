@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Giftexplosion
+### Giftexplosion
 
 - Kategorie: #Talent
 - Zugangsstufen:

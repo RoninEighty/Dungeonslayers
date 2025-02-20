@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Vernichtender Schlag
+### Vernichtender Schlag
 
 - Kategorie: #Talent
 - Zugangsstufen:

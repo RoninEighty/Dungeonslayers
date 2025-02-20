@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Aura des Mutes
+### Aura des Mutes
 
 - Kategorie: #Talent
 - Zugangsstufen:

@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Untote Horden
+### Untote Horden
 
 - Kategorie: #Talent
 - Zugangsstufen:

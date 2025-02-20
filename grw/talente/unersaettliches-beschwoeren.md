@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Unersättliches Beschwören
+### Unersättliches Beschwören
 
 - Kategorie: #Talent
 - Zugangsstufen:

@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Aus dem Ärmel
+### Aus dem Ärmel
 
 - Kategorie: #Talent
 - Zugangsstufen:

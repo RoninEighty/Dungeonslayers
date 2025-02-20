@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Kraft der Bestie
+### Kraft der Bestie
 
 - Kategorie: #Talent
 - Zugangsstufen:

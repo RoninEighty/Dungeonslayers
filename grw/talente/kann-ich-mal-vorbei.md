@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Kann ich mal vorbei?
+### Kann ich mal vorbei?
 
 - Kategorie: #Talent
 - Zugangsstufen:

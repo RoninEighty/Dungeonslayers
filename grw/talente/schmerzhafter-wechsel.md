@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Schmerzhafter Wechsel
+### Schmerzhafter Wechsel
 
 - Kategorie: #Talent
 - Zugangsstufen:

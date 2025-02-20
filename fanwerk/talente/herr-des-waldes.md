@@ -8,7 +8,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-##### Herr des Waldes
+### Herr des Waldes
 
 - Kategorie: #Talent
 - Zugangsstufen:
