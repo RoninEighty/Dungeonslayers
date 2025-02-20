@@ -17,3 +17,17 @@ Der Prozess kann lokal auf einer Linux Shell ausgeführt werden.
     sh _assembly/scripts/make-html.sh
 
 Die generierten HTML-Seiten finden sich anschliessend unter ```_site```.
+
+### Softwareabhängigkeiten
+
+```make-html.sh``` hat folgende Abhängigkeiten:
+
+ - pandoc
+ - perl
+ - dos2unix
+ - find
+ - cut
+ - cat
+ - grep
+
+Bitte stellt sicher, dass die entsprechenden Pakete auf eurem Linuxsystem vorhanden sind, falls ihr die HTML-Seiten lokal generieren wollt.
