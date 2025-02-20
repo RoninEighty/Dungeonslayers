@@ -1,7 +1,6 @@
 ## KLERIKER
 
-Kleriker heilen im Namen ihre Gottheit,
-helfen aber auch in Wehr und Waffen.
+Kleriker heilen im Namen ihree Gottheit, helfen aber auch in Wehr und Waffen.
 
 ### VORAUSSETZUNGEN:
 
