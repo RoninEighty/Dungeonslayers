@@ -36,12 +36,12 @@ nichtmagisches Rüstungsteil des Ziels zerstört.
 | GRÖSSE DES FEUERS       |    SCHADEN/RD    |
 | ----------------------- | :--------------: |
 | Fackel (wie Keule)      | Angriffsergebnis |
-| brennende Kleidung\*    |       W20        |
+| brennende Kleidung¹     |       W20        |
 | Lagerfeuer              |       W20        |
 | Durch brennendes Haus   |       2W20       |
 | Inferno (keine Abwehr!) |       2W20       |
 | Nasse Kleidung          |       -W20       |
-| Schützende Stoffdecke\* |       -W20       |
+| Schützende Stoffdecke¹  |       -W20       |
 
 | SÄUREMENGE                  |    SCHADEN/RD    |
 | --------------------------- | :--------------: |
@@ -50,7 +50,7 @@ nichtmagisches Rüstungsteil des Ziels zerstört.
 | Ganzer Körper               |       2W20       |
 | Eingetaucht (keine Abwehr!) |       2W20       |
 
-\*: brennt bis Schadenssumme: 15; Ausklopfen kostet eine ganze Aktion
+¹: brennt bis Schadenssumme: 15; Ausklopfen kostet eine ganze Aktion
 
 ### ERTRINKEN
 

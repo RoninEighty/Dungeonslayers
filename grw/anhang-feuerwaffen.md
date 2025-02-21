@@ -26,18 +26,22 @@ Mehrläufige Feuerwaffen, Repetierer oder Revolver können mehr als einmal abgef
 
 | WAFFEN                | WB/GA |                      BESONDERES                       | ORT | PREIS |
 | --------------------- | :---: | :---------------------------------------------------: | :-: | :---: |
-| Bajonett              | +0/+0 |     erlaubt Nahkampfangriffe mit Armbrust/Gewehr      |  K  | 3GM   |
-| Bombe*/Dynamitstange* | +6/-  |            Radius 5m; Gegner keine Abwehr;            |  K  | 15GM  |
+| Bajonett              | +0/+0 |     erlaubt Nahkampfangriffe mit Armbrust/Gewehr      |  K  |  3GM  |
+| Bombe¹/Dynamitstange¹ | +6/-  |            Radius 5m; Gegner keine Abwehr;            |  K  | 15GM  |
 | Gewehr                | +3/-3 | auch als Repetierer (8) mit +5/-4 für 80GM erhältlich |  K  | 50GM  |
 | Kanone                | +8/-6 |   Radius 5m; 3 Rd. abk.; Nachladen: KÖR+GE; -1/20m    |  G  | 450GM |
 | Pistole               | +3/-4 |                                                       |  K  | 20GM  |
-| Pulverfaß, groß\*\*   |  -/-  |    Radius 15m; Schaden W20+20; Gegner keine Abwehr    |  G  | 75GM  |
-| Pulverfaß, klein\*\*  |  -/-  |    Radius 10m; Schaden W20+10; Gegner keine Abwehr    |  K  | 30GM  |
+| Pulverfaß, groß²      |  -/-  |    Radius 15m; Schaden W20+20; Gegner keine Abwehr    |  G  | 75GM  |
+| Pulverfaß, klein²     |  -/-  |    Radius 10m; Schaden W20+10; Gegner keine Abwehr    |  K  | 30GM  |
 | Revolver              | +3/-4 |                      Trommel (6)                      |  K  | 120GM |
 | Muskete               | +4/-5 |        auch Mehrläufig (2) für 60GM erhältlich        |  K  | 40GM  |
 | Schrotflinte          | +6/-4 |  90° Streukegel, Reichweite 10m (-1/2m Distanzmalus)  |  K  | 45GM  |
 | Taschenpistole        | +6/-6 |       leicht zu verstecken; -1/2m Distanzmalus        |  G  | 75GM  |
 | Zielfernrohr          | +0/+0 |  “Zielend” Distanzmalus für Armbrust/Gewehr: -1/20m   |  G  | 15GM  |
+
+¹: Explodiert beim Schießen-Patzer direkt vor dem Charakter; Schießen = Wurf; Schaden wird mit W20+10 ermittelt;
+
+²: W20 -> 1=Lunte geht aus; 20=Lunte brennt doppelt so schnell runter; Lunte auf 1-20 Runden einstellbar
 
 ---
 

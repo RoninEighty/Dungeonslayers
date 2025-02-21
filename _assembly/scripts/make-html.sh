@@ -1,11 +1,15 @@
 #!/bin/sh
 
+# Exit on error
+set -e
+
 # Remove old site contents
 rm -rf _site
 
 # Copy everything needed to new _site
 mkdir _site
 cp -r _assembly/styles _site/
+cp -r _assembly/fonts _site/
 cp index*.md _site/
 cp -r grw _site/
 cp -r fanwerk _site/
@@ -23,7 +27,9 @@ sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
 BASE_URL=https://ronineighty.github.io/Dungeonslayers
+#BASE_URL=https://fschne.github.io/Dungeonslayers
 #BASE_URL=http://localhost/f-space/ds4srd
+
 
 # --table-of-contents \
 # Transform all markdown files into .md.html files

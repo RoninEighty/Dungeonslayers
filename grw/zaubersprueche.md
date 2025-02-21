@@ -5,13 +5,15 @@ Zu jedem Zauberspruch ist aufgelistet, ob es sich um einen normalen Zauber oder 
 #### Darstellungsschema der Zaubersprüche
 
 - NAME DES SPRUCHS
-- Zugangstufen: Ab welcher Stufe die Klassen diesen Zauber erlangen kann
+- Zugangstufen: Ab welcher Stufe eine Klasse diesen Zauber erlangen kann
 - Preis: Der Kaufpreis des Zauberspruchs
 - ZB: Der Zauberbonus auf die Probe
 - Dauer: Die Wirkungszeit des Zaubers
 - Distanz: Die max. Entfernung zum Ziel. “Selbst” bedeutet, dass nur der Zauberwirker selbst das Ziel des Zaubers sein kann.
 - Abklingzeit: Die Dauer, die der Zauber nach erfolgreichem Wirken nicht einsetzbar ist.
-- Effekt: Die Beschreibung des Zaubereffekts. Wenn nicht anders erwähnt, gelten die VE-Werte des Zauberwirkers für aufgeführte Berechnungen.
+- Effekt: Die Beschreibung des Zaubereffekts.
+
+_Wenn nicht anders erwähnt, gelten die VE-Werte des Zauberwirkers für aufgeführte Berechnungen._
 
 |                                                                                           SPRÜCHE DER HEILER                                                                                            |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |

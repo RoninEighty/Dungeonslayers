@@ -77,6 +77,8 @@ Wer einfach blindlings in solch eine Menge schießt, erhält pro Individuum in d
 
 Pro Hindernis (Bäume, Gegner, Kameraden oder Wandstücke), an dem man vorbei schießt, um ein Ziel zu treffen (und pro Kameraden mit dem Ziel im Nakampf), wird Schießen bzw. Zielzauber um -1 gesenkt.
 
+![Vorbei an Hindernissen schiessen](vorbei-an-hindernissen-schiessen.png)
+
 Mißerfolge sind lediglich Fehlschüsse, nur bei einem Patzer wird eines der Hindernisse getroffen. Dieses wird zufällig ermittelt und ein individueller Angriff neu gewürfelt, bei dem Patzer ausgeschlossen sind.
 
 ### WEHRLOSE GEGNER

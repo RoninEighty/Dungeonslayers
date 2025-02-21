@@ -179,9 +179,11 @@ Schlechte Warenqualität halbiert den Preis, während besonders gute Qualität i
 | Schild, Metall-      | +1  | Laufen -0,5m  |  D  |  8GM  |
 | Schild, Turm-        | +2  |  Laufen -1m   |  K  | 15GM  |
 
-¹ : hierbei handelt es sich um Arm- \*\*und²Beinschienen
+¹: hierbei handelt es sich um Arm- **und** Beinschienen
 
-²: Für Reittier Preis x 3 ³: zerbricht bei einem Abwehr-Patzer
+²: Für Reittier Preis x 3 
+
+³: zerbricht bei einem Abwehr-Patzer
 
 | WAFFEN                   |  WB   |                   BESONDERES                   | ORT | PREIS |
 | ------------------------ | :---: | :--------------------------------------------: | :-: | :---: |

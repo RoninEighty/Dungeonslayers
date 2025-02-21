@@ -324,7 +324,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 | 1-9        | einzelne Probe (EB1) | 1-10      | 11-17    | 18-20    |
 | 10-13      | einzelnen Zauber (Z) | 1-15      | 16-19    | 20       |
 | 14         | Zaubergruppe (EB2)   | 1-15      | 16-19    | 20       |
-| 15-17      | Kampfwert\* (EB3)    | 1-10      | 11-17    | 18-20    |
+| 15-17      | Kampfwert¹ (EB3)     | 1-10      | 11-17    | 18-20    |
 | 18-19      | Eigenschaft (EB4)    | 1-10      | 11-17    | 18-20    |
 | 20         | Attribut (EB5)       | 1-10      | 11-17    | 18-20    |
 

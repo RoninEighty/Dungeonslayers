@@ -30,7 +30,7 @@ Eine Aktion kann nicht gespart werden, sondern verfällt am Ende ihrer Kampfrund
 ### BEISPIELE FÜR AKTIONEN
 
 - Abwartehandlung
-- Aufstehen\*
+- Aufstehen1
 - Aufstehen und Waffe aufheben/ziehen
 - Bewusstlosen wecken
 - Heilkraut einnehmen
@@ -39,7 +39,7 @@ Eine Aktion kann nicht gespart werden, sondern verfällt am Ende ihrer Kampfrund
 - Schießen
 - Schlagen
 - Schloss knacken
-- Sturmangriff\*\*
+- Sturmangriff²
 - Trank trinken
 - Tür eintreten/öffnen/schließen
 - Waffe aufheben/wechseln/ziehen
@@ -48,9 +48,9 @@ Eine Aktion kann nicht gespart werden, sondern verfällt am Ende ihrer Kampfrund
 - Zielen
 - Zielzauber
 
-\*: Zählt nur im Nahkampf als Aktion
+1: Zählt nur im Nahkampf als Aktion
 
-\*\*: Wenn ein Nahkampfziel sich in gerader,
+2: Wenn ein Nahkampfziel sich in gerader,
 ungehinderter Rennenreichweite (Laufen - Laufen x2) befindet, kann man zu ihm rennen und es noch schlagen.
 
 ### ANGRIFF UND ABWEHR

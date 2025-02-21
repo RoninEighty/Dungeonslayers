@@ -81,9 +81,9 @@ Nun werden 8 Punkte beliebig auf die sechs Eigenschaften verteilt. Werte von Nul
 
 **Beispiel**: _Von den 8 Punkten verteilen wir 2 auf die Eigenschaft Härte und Aura, 3 auf Geschick und 1 auf Verstand:_
 
-    Körper: 6   Agilität: 6     Geist: 8
+    Körper: 6   Agilität: 6     Geist:    8
     Stärke: 0   Bewegung: 0     Verstand: 1
-    Härte: 2    Geschick: 3     Aura: 2
+    Härte:  2   Geschick: 3     Aura:     2
 
 ### 5. VOLKS- & KLASSENBONUS
 
@@ -103,9 +103,9 @@ Jeder Charakter erhält, abhängig von Volk und Klasse, zwei Gratispunkte auf se
 
 **Beispiel**: _Als elfischer Zauberwirker steigern wir Geschick und Aura um jeweils +1 und verändern entsprechend die beiden Werte:_
 
-    Körper: 6   Agilität: 6     Geist: 8
+    Körper: 6   Agilität: 6     Geist:    8
     Stärke: 0   Bewegung: 0     Verstand: 1
-    Härte: 2    Geschick: 4     Aura: 3
+    Härte:  2   Geschick: 4     Aura:     3
 
 ### 6. DER ERSTE ZAUBERSPRUCH
 

@@ -60,7 +60,7 @@ Diese treffsicheren [Attentäter](charaktere-heldenklassen-attentaeter.md) schla
 
 ##### _Meisterdieb_
 
-[Meisterdieb](charaktere-heldenklassen-meisterdieb.md)
+[Meisterdiebe](charaktere-heldenklassen-meisterdieb.md) sind wahre Meister im Schlösser knacken, Bestehlen und die Flucht ergreifen.
 
 ##### _Waldläufer_
 
@@ -76,7 +76,7 @@ Diese treffsicheren [Attentäter](charaktere-heldenklassen-attentaeter.md) schla
 
 ##### _Kampfmönch_
 
-[Kampfmönch](charaktere-heldenklassen-kampfmoench.md)
+[Kampfmönche](charaktere-heldenklassen-kampfmoench.md) stählen ihren Geist durch Meditation und ihren Körper im waffenlosen Kampf.
 
 ##### _Kleriker_
 
