@@ -1,5 +1,7 @@
 ## KAMPFMÖNCH
 
+Mönche stählen ihren Geist durch Meditation und ihren Körper im waffenlosen Kampf.
+
 ### VORAUSSETZUNGEN
 
 Heiler der Stufe 10+
