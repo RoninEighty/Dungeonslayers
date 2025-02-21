@@ -32,7 +32,7 @@ Eine Ersetzungsregel mit Regexp könnte beispielsweise so aussehen, hier in Java
     .replace(/\s/g, '-') // Leerzeichen
     .replace(/[^a-z0-9\-\.]/ig, '') // Alle anderen Sonderzeichen raus
 
-## HTML-Seiten generieren
+## Build: HTML-Seiten generieren
 
 Unter ```_assembly``` finden sich die Vorlagen, Stile und Scripte um die Markdown Inhalte in eine HTML Struktur zu transformieren.
     
@@ -55,3 +55,10 @@ Die generierten HTML-Seiten finden sich anschliessend unter ```_site```.
  - grep
 
 Bitte stellt sicher, dass die entsprechenden Pakete auf eurem Linuxsystem vorhanden sind, falls ihr die HTML-Seiten lokal generieren wollt.
+
+### Anpassungen der Base URL für eigene Server
+
+Wenn ihr die HTML-Seiten auf eurem eigenen Server bereitstellen wollt, dann müsst ihr die Base URL eures Servers im Buildprozess anpassen. Die Base URL findet sich an folgenden Stellen:
+
+- ```_assembly/scripts/make-html.sh```: BASE_URL=...
+- ```_assembly/styles/style.css```: Absolute Links für eingebettete Fonts.

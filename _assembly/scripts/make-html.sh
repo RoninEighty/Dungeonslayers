@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Exit on error
-set -e
+#set -e
 
 # Remove old site contents
 rm -rf _site
@@ -25,8 +25,10 @@ find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p
 sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
-BASE_URL=https://ronineighty.github.io/Dungeonslayers
+#BASE_URL=https://ronineighty.github.io/Dungeonslayers
+BASE_URL=https://fschne.github.io/Dungeonslayers
 #BASE_URL=http://localhost/f-space/ds4srd
+
 
 # --table-of-contents \
 # Transform all markdown files into .md.html files
