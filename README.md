@@ -8,6 +8,30 @@ Es handelt sich dabei um ein Fanprojekt. Die offizielle Dungeonslayers-Webpage i
 
 Die Markdown-Dateien bilden die Grundlage für das [DS4 SRD+](https://ronineighty.github.io/Dungeonslayers/).
 
+## Regeln für Dateinamen
+
+Um Inkompatibilitäten zwischen unterschiedlichen Betriebs- und Dateisysteme zu vermeiden und einen reibungslosen Buildprozess und Verlinkungen in URLs zu ermöglichen, dürfen Dateinamen nur **Kleinbuchstaben**, **Zahlen**, **Bindestriche** und **Punkte** enthalten. **Leerzeichen** werden durch **Bindestrich** (**-**) und Umlaute durch eine entsprechende ASCII-Darstellung, d.h.
+ 
+ - Ä -> ae
+ - ä -> ae
+ - Ö -> oe
+ - ö -> oe
+ - Ü -> ue
+ - ü -> ue
+ - ß -> ss
+
+Eine kompatibler Dateinamen entspricht der Regexp ```[a-z0-9\-]```.
+
+Eine Ersetzungsregel mit Regexp könnte beispielsweise so aussehen, hier in Javascript:
+
+    filename.toLowerCase() // Kleinbuchstaben
+    .replace(/ü/g, 'ue') // Umlaute
+    .replace(/ä/g, 'ae')
+    .replace(/ö/g, 'oe')
+    .replace(/ß/g, 'ss')
+    .replace(/\s/g, '-') // Leerzeichen
+    .replace(/[^a-z0-9\-\.]/ig, '') // Alle anderen Sonderzeichen raus
+
 ## HTML-Seiten generieren
 
 Unter ```_assembly``` finden sich die Vorlagen, Stile und Scripte um die Markdown Inhalte in eine HTML Struktur zu transformieren.

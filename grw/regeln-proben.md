@@ -19,34 +19,34 @@ Desweiteren gewährt ein Großteil der **Talente** (siehe Seite 17) ebenfalls ei
 
 ### TYPISCHE PROBEN
 
-- Bemerken: GEI+VE bzw. 8\*
-- Erwachen: GEI+VE
-- Fallen entschärfen: GEI+GE
-- Feilschen: GEI+VE oder +AU\*
-- Feuer machen: GEI+GE
-- Flirten: GEI+AU
-- Gift trotzen: KÖR+HÄ
-- Inschrift entziffern: GEI+VE
-- Klettern: AGI+ST
-- Kraftakt: KÖR+ST
-- Krankheit trotzen: KÖR+HÄ
-- Mechanismus öffnen: GEI+GE oder +VE\*
-- Reiten: AGI+BE oder +AU\*
-- Schätzen: GEI+VE
-- Schleichen: AGI+BE
-- Schlösser öffnen: GEI+GE
-- Schwimmen: AGI+ST
-- Springen: AGI+BE
-- Spuren lesen: GEI+VE
-- Suchen: GEI+VE bzw. 8\*
-- Taschendiebstahl: AGI+GE
-- Verbergen: AGI+BE
-- Verständigen: GEI+GE
-- Wissen: GEI+VE
+- [Bemerken](spielleitung-erweiterte-proben.md#bemerken-geive-bzw-8): GEI+VE bzw. 8¹
+- [Erwachen](spielleitung-erweiterte-proben.md#erwachen-geive): GEI+VE
+- [Fallen entschärfen](spielleitung-erweiterte-proben.md#fallen-entschärfen-geige): GEI+GE
+- [Feilschen](spielleitung-erweiterte-proben.md#feilschen-geigeau): GEI+VE oder +AU¹
+- [Feuer machen](spielleitung-erweiterte-proben.md#feuer-machen-geige): GEI+GE
+- [Flirten](spielleitung-erweiterte-proben.md#flirten-geiau): GEI+AU
+- [Gift trotzen](spielleitung-erweiterte-proben.md#gift-trotzen-körhä): KÖR+HÄ
+- [Inschrift entziffern](spielleitung-erweiterte-proben.md#inschrift-entziffern-geive): GEI+VE
+- [Klettern](spielleitung-erweiterte-proben.md#klettern-agist): AGI+ST
+- [Kraftakt](spielleitung-erweiterte-proben.md#kraftakt-körst): KÖR+ST
+- [Krankheit trotzen](spielleitung-erweiterte-proben.md#krankheit-trotzen-körhä): KÖR+HÄ
+- [Mechanismus öffnen](spielleitung-erweiterte-proben.md#mechanismus-öffnen-geigeve): GEI+GE oder +VE¹
+- [Reiten](spielleitung-erweiterte-proben.md#reiten-agibeau): AGI+BE oder +AU¹
+- [Schätzen](spielleitung-erweiterte-proben.md#schätzen-geige): GEI+VE
+- [Schleichen](spielleitung-erweiterte-proben.md#schleichen-agibe): AGI+BE
+- [Schlösser öffnen](spielleitung-erweiterte-proben.md#schlösser-öffnen-geige): GEI+GE
+- [Schwimmen](spielleitung-erweiterte-proben.md#schwimmen-agist): AGI+ST
+- [Springen](spielleitung-erweiterte-proben.md#springen-agibe): AGI+BE
+- [Spuren lesen](spielleitung-erweiterte-proben.md#spuren-lesen-geive): GEI+VE
+- [Suchen](spielleitung-erweiterte-proben.md#suchen-geive-bzw.-8): GEI+VE bzw. 8¹
+- [Taschendiebstahl](spielleitung-erweiterte-proben.md#taschendiebstahl-agibe): AGI+GE
+- [Verbergen](spielleitung-erweiterte-proben.md#verbergen-agibe): AGI+BE
+- [Verständigen](spielleitung-erweiterte-proben.md#verständigen-geige): GEI+GE
+- [Wissen](spielleitung-erweiterte-proben.md#wissen-geive): GEI+VE
 
-\*: Höheren Wert verwenden
+¹: Höheren Wert verwenden
 
-_Detailliertere Regeln zu den hier aufgelisteten Proben werden ab Seite 89 angeboten._
+_Detailliertere Regeln zu den hier aufgelisteten Proben werden im Bereich [erweitere Proben](spielleitung-erweiterte-proben.md) angeboten._
 
 ### MODIFIKATOREN
 
