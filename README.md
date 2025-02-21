@@ -20,7 +20,7 @@ Um Inkompatibilitäten zwischen unterschiedlichen Betriebs- und Dateisysteme zu 
  - ü -> ue
  - ß -> ss
 
-Eine kompatibler Dateinamen entspricht der Regexp ```[a-z0-9\-]```.
+Eine kompatibler Dateinamen entspricht etwa der Regexp ```[a-z0-9\-\.]*```.
 
 Eine Ersetzungsregel mit Regexp könnte beispielsweise so aussehen, hier in Javascript:
 
