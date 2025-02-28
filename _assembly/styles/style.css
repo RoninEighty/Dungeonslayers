@@ -1,155 +1,182 @@
 :root {
-  --bg-color: white;
-  --text-color: black;
-  --sidebar-bg-color: black;
-  --sidebar-text-color: white;
-  --footer-text-color:  black;
-  --footer-bg-color: whitesmoke;
-  /*
+	--bg-color: white;
+	--text-color: black;
+	--sidebar-bg-color: black;
+	--sidebar-text-color: white;
+	--footer-text-color: black;
+	--footer-bg-color: whitesmoke;
+	/*
    --text-color: #515151;
    */
 }
 
 @font-face {
-  font-family: "Woodstamp";
-  src: url("https://ronineighty.github.io/Dungeonslayers/fonts/woodstamp-webfont.ttf")
-    format("truetype");
+	font-family: "Woodstamp";
+	src: url("https://www.f-space.de/fonts/woodstamp-webfont.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gelasio";
+	src: url("https://www.f-space.de/fonts/Gelasio-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gelasio";
+	src: url("https://www.f-space.de/fonts/Gelasio-Bold.ttf") format("truetype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gelasio";
+	src: url("https://www.f-space.de/fonts/Gelasio-BoldItalic.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Gelasio";
+	src: url("https://www.f-space.de/fonts/Gelasio-Italic.ttf") format("truetype");
+	font-weight: normal;
+	font-style: italic;
 }
 
 * {
-  box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 html {
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 1rem;
-  line-height: 1.5;
+	font-family: Gelasio, Times, "Times New Roman", serif;
+	font-size: 1rem;
+	line-height: 1.5;
 }
 
 body {
-  text-size-adjust: 100%;
-  background-color: var(--sidebar-bg-color);
-  color: var(--sidebar-text-color);
-  /*background-color: #202020;*/
-  /*background-image: linear-gradient(to bottom, #323232, #0e0e0e);*/
+	text-size-adjust: 100%;
+	background-color: var(--sidebar-bg-color);
+	color: var(--sidebar-text-color);
+	/*background-color: #202020;*/
+	/*background-image: linear-gradient(to bottom, #323232, #0e0e0e);*/
 }
 
 .content {
-  background: var(--bg-color);
-  color: var(--text-color);
+	background: var(--bg-color);
+	color: var(--text-color);
 }
 
 #sidebar li {
-  list-style-type: none;
-  padding-left: 0;
-  margin-left: -1rem;
+	list-style-type: none;
+	padding-left: 0;
+	margin-left: -1rem;
 }
 
 #sidebar li ul {
-  display: none;
+	display: none;
 }
 
 #sidebar li.nav-opened > ul {
-  display: block;
+	display: block;
 }
 
 #sidebar li.nav-active > a {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 #sidebar a {
-  color: var(--sidebar-text-color);
-  text-decoration: none;
+	color: var(--sidebar-text-color);
+	text-decoration: none;
 }
 
 #sidebar a:hover,
 #sidebar a:focus {
-  text-decoration: none;
-  border-bottom: 1px dashed var(--sidebar-text-color);
+	text-decoration: none;
+	border-bottom: 1px dashed var(--sidebar-text-color);
 }
 
 #sidebar .site-title {
-  color: var(--sidebar-text-color);
-  font-size: 1.25rem;
-  font-weight: normal;
+	color: var(--sidebar-text-color);
+	font-size: 1.25rem;
+	font-weight: normal;
 }
 
 #sidebar .site-title a {
-  text-decoration: none;
-  font-size: inherit;
+	text-decoration: none;
+	font-size: inherit;
 }
 
 #sidebar footer {
-  /**/
+	/**/
 }
 
 #footer {
-  color: var(--footer-text-color);
-  background-color: var(--footer-bg-color);
+	color: var(--footer-text-color);
+	background-color: var(--footer-bg-color);
 }
 
 #footer a {
-  color: var(--footer-text-color);
-  text-decoration: none;
+	color: var(--footer-text-color);
+	text-decoration: none;
 }
 
 #footer a:hover,
 #footer a:focus {
-  text-decoration: none;
-  border-bottom: 1px dashed var(--footer-text-color);
+	text-decoration: none;
+	border-bottom: 1px dashed var(--footer-text-color);
 }
 
 h1 {
-  font-family: "Woodstamp";
-  text-transform: uppercase;
-  text-align: center;
-  font-size: 4rem;
-  font-weight: normal;
-  color: white;
-  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
-    2px 2px 0 #000;
-  margin-top: 0;
-  margin-bottom: 0;
+	font-family: "Woodstamp";
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 4rem;
+	font-weight: normal;
+	color: white;
+	text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
+		2px 2px 0 #000;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 h2 {
-  font-family: "Woodstamp";
-  text-transform: uppercase;
-  text-align: center;
-  font-size: 2rem;
-  font-weight: normal;
-  background-color: black;
-  color: white;
-  text-align: center;
-  margin-bottom: 0;
+	font-family: "Woodstamp";
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2rem;
+	font-weight: normal;
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-bottom: 0;
 }
 
 h3 {
-  font-family: "Woodstamp";
-  text-transform: uppercase;
-  text-align: center;
-  font-weight: normal;
-  font-size: 2rem;
-  margin-bottom: 0;
+	font-family: "Woodstamp";
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: normal;
+	font-size: 2rem;
+	margin-bottom: 0;
 }
 
 h4 {
-  font-family: "Woodstamp";
-  text-transform: uppercase;
-  font-weight: normal;
-  font-size: 1.5rem;
-  margin-bottom: 0;
+	font-family: "Woodstamp";
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 1.5rem;
+	margin-bottom: 0;
 }
 
 h5 {
-  font-size: 1rem;
-  padding-top: 0;
-  padding-bottom: 0;
-  margin-bottom: 0;
+	font-size: 1rem;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 
 h5 + p {
-  margin-top: 3px;
+	margin-top: 3px;
 }
 
 pre {
@@ -157,54 +184,54 @@ pre {
 
 /* pandoc generates colgroups with fixed sizes. This is not nice. Let's ignore pandoc's algorithm */
 col {
-  width: auto !important;
+	width: auto !important;
 }
 
 table {
-  border-collapse: collapse;
-  margin: auto;
+	border-collapse: collapse;
+	margin: auto;
 }
 
 /* Space between direct tables */
 table ~ table {
-  margin-top: 0.5rem;
+	margin-top: 0.5rem;
 }
 
 th {
-  border: 1.5px solid black;
-  font-family: "Woodstamp";
-  text-transform: uppercase;
-  font-weight: normal;
-  font-size: 1.5rem;
-  background-color: #ddd;
-  padding: 0.2rem;
+	border: 1.5px solid black;
+	font-family: "Woodstamp";
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 1.5rem;
+	background-color: #ddd;
+	padding: 0.2rem;
 }
 
 td {
-  border: 1.5px solid black;
-  padding: 0.2rem;
+	border: 1.5px solid black;
+	padding: 0.2rem;
 }
 
 /* Desktop and Tablets */
 @media (min-width: 49rem) {
-  html {
-    /*font-size: 1.25rem;*/
-  }
+	html {
+		/*font-size: 1.25rem;*/
+	}
 
-  #sidebar .site-title {
-    font-size: 4rem;
-  }
+	#sidebar .site-title {
+		font-size: 4rem;
+	}
 
-  #sidebar .site-title a {
-    font-size: inherit;
-  }
+	#sidebar .site-title a {
+		font-size: inherit;
+	}
 
-  .container {
-    background: #fff;
-    color: #515151;
-  }
+	.container {
+		background: #fff;
+		color: #515151;
+	}
 
-  .container > header {
-    color: #313131;
-  }
+	.container > header {
+		color: #313131;
+	}
 }
