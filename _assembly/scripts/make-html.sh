@@ -27,10 +27,10 @@ sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
 #BASE_URL=https://ronineighty.github.io/Dungeonslayers
-#BASE_URL=https://fschne.github.io/Dungeonslayers
+BASE_URL=https://fschne.github.io/Dungeonslayers
 #BASE_URL=https://www.f-space.de/ds4srd-neuton
 #BASE_URL=https://www.f-space.de/ds4srd-gelasio
-BASE_URL=http://localhost/f-space/ds4srd
+#BASE_URL=http://localhost/f-space/ds4srd
 
 
 # Transform all markdown files into .md.html files
