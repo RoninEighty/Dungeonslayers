@@ -18,19 +18,13 @@ body {
 #sidebar {
   flex: 0 0 auto;
   padding-top: 0;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-bottom: 1rem;
-  max-width: 18rem;
 }
 
 #sidebar .site-title {
-  margin-bottom: 0.5rem;
   margin-top: 0;
 }
 
-#sidebar .site-title .back-arrow {
-  margin-right: 0.5rem;
+#sidebar .back-arrow {
 }
 
 .container {
@@ -59,7 +53,6 @@ body {
 .container > header h2:last-child {
   margin-bottom: 0;
 }
-
 
 #sidebar nav {
   display: flex;
@@ -136,6 +129,9 @@ table {
 
   #sidebar {
     text-align: left;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
     width: 18rem;
   }
 
@@ -149,7 +145,7 @@ table {
     left: 0;
   }
 
-  #sidebar .site-title .back-arrow {
+  #sidebar .back-arrow {
     display: none;
   }
 
@@ -193,5 +189,9 @@ table {
   .container > * {
     max-width: 38rem;
     padding: 0;
+  }
+
+  #TOC {
+    display: none;
   }
 }
