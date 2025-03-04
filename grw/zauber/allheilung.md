@@ -1,18 +1,18 @@
-# Allheilung
+### Allheilung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 650
-- Zauberbonus: 0
+- Preis: 650GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dieser Zauber heilt sämtliche Verletzungen und schließt jede noch so große Wunde, ohne Narben zu hinterlassen. Selbst abgetrennte Gliedmaßen (sofern nicht mehr als W20 Stunden abgetrennt) lassen sich mit diesem Spruch wieder anfügen.
 

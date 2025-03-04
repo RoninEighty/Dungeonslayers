@@ -1,18 +1,18 @@
-# Schwarm herbeirufen
+### Schwarm herbeirufen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 8
   - Schwarzmagier: 5
-- Kosten: 150
-- Zauberbonus: +0 (-4 fliegend, -2 schwimmend)
+- Preis: 150GM
+- ZB: +0 (-4 fliegend, -2 schwimmend)
 - Dauer: Probenergebnis in KR
-- Reichweite: Radius von VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: Radius von VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauber ruft einen Schwarm aus beliebigen Kleintieren oder Insekten herbei, der unter der Kontrolle des Beschwörers steht wie unter dem Zauber Tierbeherrschung. Der Schwarm hat einen Schwarmwert entsprechend dem Probenergebnis der Zauberprobe.
 

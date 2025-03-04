@@ -1,18 +1,18 @@
-# Trägheit
+### Trägheit
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 9
   - Schwarzmagier: 11
-- Kosten: 325
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 325GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel muss während der Wirkungsdauer auf jeden Fall eine Aktion aufwenden, falls es sich bewegen möchte.
 

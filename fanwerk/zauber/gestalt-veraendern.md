@@ -1,18 +1,18 @@
-# Gestalt verändern
+### Gestalt verändern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 15
-- Kosten: 920
-- Zauberbonus: -4
+- Preis: 920GM
+- ZB: -4
 - Dauer: Probenergebnis/2 Stunden
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dieser Zauber funktioniert ähnlich wie Verwandlung, außer dass der ZAW auch Gestalten annehmen kann, die nicht seinem Volk oder seinem Geschlecht entsprechen. Die Zielgestalt muss nur in etwa seine Größe und eine humanoide Gestalt haben.
 

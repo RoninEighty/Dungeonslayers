@@ -1,18 +1,18 @@
-# Letzter Stand
+### Letzter Stand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 160
-- Zauberbonus: 0
+- Preis: 160GM
+- ZB: +0
 - Dauer: Probenergebnis x 2 KR
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Alle Verbündeten des ZAW erhalten +1 auf alle Proben, solange sie sich im unbeweglichen Wirkungsbereich des Zaubers aufhalten.
 

@@ -1,18 +1,18 @@
-# Balancieren
+### Balancieren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 3
   - Schwarzmagier: 6
-- Kosten: 45
-- Zauberbonus: -2
+- Preis: 45GM
+- ZB: -2
 - Dauer: Bis Strecke zurückgelegt
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel kann absolut sicher mit seinem reinen Laufen-Wert über dünne Seile u.ä. balancieren.
 

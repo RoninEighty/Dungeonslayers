@@ -1,18 +1,18 @@
-# Feueratem
+### Feueratem
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 10
-- Kosten: 460
-- Zauberbonus: 3
+- Preis: 460GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: VE m
-- Abklingzeit: 10 KR
+- Distanz: VE m
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Aus dem Mund des ZAW schießt eine lodernde Säule, die alle hintereinander stehenden Gegner in einer 1m breiten, geraden Schneise in Flammen hüllt. Der feurige Atem verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses.
 

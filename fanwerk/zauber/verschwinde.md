@@ -1,18 +1,18 @@
-# Verschwinde
+### Verschwinde
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 12
   - Schwarzmagier: 14
-- Kosten: 220
-- Zauberbonus: -(GEI+AU)/2 des Ziels
+- Preis: 220GM
+- ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Das Ziel des Zaubers wird augenblicklich wegteleportiert, und zwar VE des ZAW in Kilometern in eine zufällige Richtung, die mit folgender Tabelle bestimmt werden kann:
 

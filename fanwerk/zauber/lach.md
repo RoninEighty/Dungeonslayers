@@ -1,18 +1,18 @@
-# Lach
+### Lach
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 7
-- Kosten: 210
-- Zauberbonus: -(GEI+AU)/2 des Ziel
+- Preis: 210GM
+- ZB: -(GEI+AU)/2 des Ziel
 - Dauer: VE KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 5 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 5 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Bei Erfolg kann das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, sich vor lauter Lachen nur (mit halbiertem Laufen-Wert) bewegen, solange der Zauber wirkt.
 

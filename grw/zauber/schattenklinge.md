@@ -1,18 +1,18 @@
-# Schattenklinge
+### Schattenklinge
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 7
-- Kosten: 360
-- Zauberbonus: 0
+- Preis: 360GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Die verzauberte Klinge verströmt rauchartige Schatten voll dunkler Magie.
 

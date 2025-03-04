@@ -1,18 +1,18 @@
-# Granaten erschaffen
+### Granaten erschaffen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 17
   - Schwarzmagier: -
-- Kosten: 790
-- Zauberbonus: 0
+- Preis: 790GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW benötigt Früchte, Kerne, Knollen oder Zapfen von mindestens jeweils Walnussgröße für diesen Zauber. Diese werden mit elementarer Feuerenergie aufgeladen, so dass sie wie Granaten explodieren können.
 

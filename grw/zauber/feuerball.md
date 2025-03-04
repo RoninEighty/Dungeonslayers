@@ -1,18 +1,18 @@
-# Feuerball
+### Feuerball
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 10
-- Kosten: 460
-- Zauberbonus: 3
+- Preis: 460GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 m
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 m
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Der ZAW schießt einen flammenden Ball auf seine Gegner, der in einer feurigen Explosion - ihr Radius entspricht der VE des ZAW in Metern - endet, welche nicht abwehrbaren Schaden in Höhe des Probenergebnisses verursacht.
 

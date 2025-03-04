@@ -1,18 +1,18 @@
-# Spiegelbild
+### Spiegelbild
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 12
-- Kosten: 460
-- Zauberbonus: 0
+- Preis: 460GM
+- ZB: +0
 - Dauer: Probenergebnis x 2 KR (oder bis verbraucht)
-- Reichweite: Selbst
-- Abklingzeit: 10 KR
+- Distanz: Selbst
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erschafft VE Spiegelbilder von sich selbst, die um ihn herum erscheinen und sich mit ihm mit bewegen. Angriffe, die den ZAW treffen würden, zerstören zuerst seine Spiegelbilder, ohne im Schaden zuzufügen.
 

@@ -1,18 +1,18 @@
-# Häuten
+### Häuten
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 10
-- Kosten: 595
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 595GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
-- Abklingzeit: 0 KR
+- Distanz: VE Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Die Haut des Ziels bildet großflächige Blasen oder platzt stellenweise sogar komplett vom Fleisch.
 

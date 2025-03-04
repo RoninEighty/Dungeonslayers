@@ -1,18 +1,18 @@
-# Zwergensicht
+### Zwergensicht
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 5
   - Schwarzmagier: 3
-- Kosten: 140
-- Zauberbonus: 0
+- Preis: 140GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel des Zaubers erhält die Fähigkeit Dunkelsicht entsprechend der zwergischen Volksfähigkeit, allerdings unter stockfinsteren Bedingungen nur VE des ZAW x 5 Meter weit.
 

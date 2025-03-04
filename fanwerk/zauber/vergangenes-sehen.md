@@ -1,18 +1,18 @@
-# Vergangenes sehen
+### Vergangenes sehen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: -
-- Kosten: 920
-- Zauberbonus: -2
+- Preis: 920GM
+- ZB: -2
 - Dauer: Probenergebnis in KR
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauberer projiziert seine Sinne an dem Ort, an dem er sich befindet, bis zu VE Tage in die Vergangenheit, wobei er sich den exakten Zeitpunkt frei wählen kann. Von diesem Punkt in der Zeit an nimmt er alle Geschehnisse wahr, die sich an diesem Ort in den darauffolgenden Kampfrunden entsprechend dem Probenergebnis des Zaubers abgespielt haben, und zwar so als würde er sich mitten im Geschehen befinden (er könnte also beispielsweise nichts sehen, wo er nicht gerade hinsieht). Für die beobachteten Geschehnisse ist er allerdings nicht existent.
 

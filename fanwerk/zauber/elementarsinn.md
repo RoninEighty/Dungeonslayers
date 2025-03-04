@@ -1,18 +1,18 @@
-# Elementarsinn
+### Elementarsinn
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 2
   - Schwarzmagier: -
-- Kosten: 60
-- Zauberbonus: 0
+- Preis: 60GM
+- ZB: +0
 - Dauer: Konzentration
-- Reichweite: VE Meter
-- Abklingzeit: 10 KR
+- Distanz: VE Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW konzentriert sich auf ein Element und nimmt sodann für die Dauer des Zaubers Konzentrationen, Unreinheiten, Störungen und andere Besonderheiten des entsprechenden Elements in seiner Blickrichtung wahr. Hindernisse werden dabei ignoriert. Je nach Element kann er folgende Dinge wahrnehmen: 
 

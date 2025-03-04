@@ -1,18 +1,18 @@
-# Verstärkter Schutz
+### Verstärkter Schutz
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 8
   - Schwarzmagier: -
-- Kosten: 150
-- Zauberbonus: 0
+- Preis: 150GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 1 KR
+- Distanz: Berühren
+- Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel erhält +3 auf seine Abwehr. Weitere Anwendungen von Verstärkter Schutz sind nicht kumulativ.
 

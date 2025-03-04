@@ -1,18 +1,18 @@
-# Heilende Hand
+### Heilende Hand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: 1
+- Preis: 10GM
+- ZB: +1
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 0 KR
+- Distanz: Berühren
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Durch Hand auflegen wird bei dem Ziel Lebenskraft in Höhe des Probenergebnisses geheilt.
 

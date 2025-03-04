@@ -1,18 +1,18 @@
-# Verwirren
+### Verwirren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 5
   - Schwarzmagier: 5
-- Kosten: 210
-- Zauberbonus: -(GEI+AU)/2 des Ziels
+- Preis: 210GM
+- ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: Radius von VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: Radius von VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Dieser Zauberspruch verwirrt bei Erfolg das Ziel, dessen Handeln für die gesamte Zauberdauer auf folgender Tabelle jede Kampfrunde neu ermittelt wird:
 

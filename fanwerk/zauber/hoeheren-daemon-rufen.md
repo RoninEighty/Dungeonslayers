@@ -1,18 +1,18 @@
-# Höheren Dämon rufen
+### Höheren Dämon rufen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 4
-- Kosten: 410
-- Zauberbonus: -5 (-8 für fliegenden Dämon)
+- Preis: 410GM
+- ZB: -5 (-8 für fliegenden Dämon)
 - Dauer: Probenergebnis in KR
-- Reichweite: Radius von VE x 2 Meter
+- Distanz: Radius von VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 An einem beliebigen Ort innerhalb der Distanz erscheint ein Höherer Dämon (GRW, S. 107). Dieser ist automatisch kontrolliert und erfüllt alle Aufträge des Beschwörers, sofern ihm dies in der kurzen Zeit möglich ist, bis er wieder auf seine Heimatebene verschwindet.
 

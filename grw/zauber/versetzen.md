@@ -1,18 +1,18 @@
-# Versetzen
+### Versetzen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 6
   - Schwarzmagier: 6
-- Kosten: 260
-- Zauberbonus: 0
+- Preis: 260GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das einwilligende Ziel wird bis zu Probenergebnis/2 Meter weit teleportiert, eine klare Sichtlinie vorausgesetzt.
 

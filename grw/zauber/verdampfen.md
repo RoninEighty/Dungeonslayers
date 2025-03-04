@@ -1,18 +1,18 @@
-# Verdampfen
+### Verdampfen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 18
-- Kosten: 1920
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 1920GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Das Ziel beginnt vor magischer Hitze regelrecht zu verdampfen.
 

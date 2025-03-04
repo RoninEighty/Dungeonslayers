@@ -1,18 +1,18 @@
-# Elementar herbeirufen
+### Elementar herbeirufen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 16
-- Kosten: 920
-- Zauberbonus: -Elementarstufe x 5
+- Preis: 920GM
+- ZB: -Elementarstufe x 5
 - Dauer: VE Stunden
-- Reichweite: Radius von VE m
+- Distanz: Radius von VE m
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dieser Zauber ruft ein Elementar von seiner Ebene herbei und existiert in vier unterschiedlichen Varianten (Erde, Feuer, Luft und Wasser - jeweils ein einzelner Spruch). Alle Elementare (siehe Seite 110-112) existieren in drei verschiedenen Elementarstufen (I-III), zwischen denen man frei wählen kann. Elementare verachten die niederen Wesen, die es wagen, sie herbeizurufen, können ihnen bei einer erfolgreichen Herbeirufung aber nichts anhaben und kämpfen nur, wenn man sie angreift oder ihr Herbeirufer es befiehlt.  
 

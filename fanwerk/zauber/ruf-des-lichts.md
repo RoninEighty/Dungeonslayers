@@ -1,18 +1,18 @@
-# Ruf des Lichts
+### Ruf des Lichts
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 13
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 860
-- Zauberbonus: -(GEI+AU)/2 + (Rang DdL) x 2
+- Preis: 860GM
+- ZB: -(GEI+AU)/2 + (Rang DdL) x 2
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Heilige Worte des Lichts ausstoßend, fügt der Heiler Wesen und Dienern der Dunkelheit im Umkreis von VE Metern Schaden zu in Höhe des doppelten Probenergebnisses. Betroffene Wesen würfeln ihre Abwehr ohne Panzerungsboni ihrer Gegenstände.
 

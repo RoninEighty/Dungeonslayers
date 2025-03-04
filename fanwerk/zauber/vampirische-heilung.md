@@ -1,18 +1,18 @@
-# Vampirische Heilung
+### Vampirische Heilung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: 3
+- Preis: 10GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: Selbst
-- Abklingzeit: 3 KR
+- Distanz: Selbst
+- Abklingzeit: 3 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauberwirker wird für jede eingesetzte Blutprobe, die er dabei verbraucht, um 2 LK geheilt.
 

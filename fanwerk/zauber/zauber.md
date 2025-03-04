@@ -1,4 +1,4 @@
-# Zauber
+### Zauber
 
 - Kategorie: #Zauber
 - Zugangsstufen:
@@ -6,13 +6,13 @@
   - Zauberer: Zugang Zau
   - Schwarzmagier: Zugang Sch
 - Kosten: Kosten
-- Zauberbonus: ZB
+- ZB: ZB
 - Dauer: Dauer
-- Reichweite: Reichw
+- Distanz: Reichw
 - Abklingzeit: Abkling
 - Art: Art
 
-## Beschreibung
+
 
 Beschreibung
 

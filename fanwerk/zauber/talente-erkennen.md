@@ -1,18 +1,18 @@
-# Talente erkennen
+### Talente erkennen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 1
   - Schwarzmagier: 3
-- Kosten: 10
-- Zauberbonus: -(GEI+AU)/2 des Ziel
+- Preis: 10GM
+- ZB: -(GEI+AU)/2 des Ziel
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
-- Abklingzeit: 0 KR
+- Distanz: VE Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erkennt VE/2 Talente des Ziels, angefangen mit jenen, in denen das Ziel die meisten Ränge besitzt.
 

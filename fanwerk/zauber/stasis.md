@@ -1,18 +1,18 @@
-# Stasis
+### Stasis
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 19
   - Zauberer: 18
   - Schwarzmagier: 20
-- Kosten: 1920
-- Zauberbonus: -1 pro 5 Kilogramm
+- Preis: 1920GM
+- ZB: -1 pro 5 Kilogramm
 - Dauer: Permanent
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das berührte Objekt oder freiwillige oder bewusstlose Lebewesen wird in der Zeit eingefroren. In diesem Zustand ist es völlig unberührt von jeglichen äußeren Einwirkungen, erhält keinen Schaden, ist unbeeinflusst von Magieeinwirkung etc. und kann lediglich bewegt werden wie ein ganz normaler Gegenstand von entsprechendem Gewicht.
 

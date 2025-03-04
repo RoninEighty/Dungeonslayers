@@ -1,18 +1,18 @@
-# Dornenwuchs
+### Dornenwuchs
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: -
   - Schwarzmagier: 8
-- Kosten: 150
-- Zauberbonus: 0
+- Preis: 150GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 In einem Radius von VE x 2m (Druide: VE x 5m) sprießt niedriger, aber dichter, Pflanzenbewuchs, der zudem mit bösartigen Dornen besetzt ist. Alle Laufen-Reichweiten in diesem Gestrüpp sind halbiert. In Gebiet mit natürlichem Bewuchs, der ohnehin Bewegung einschränkt, hat der Zauber keinen Effekt auf die Bewegungsweite. Allerdings erleidet jeder, der sich in diesem Gebiet am Boden fortbewegt, bei seiner Bewegung W20 abwehrbaren Schaden (2W20, wenn der Zauber von einem Druiden gewirkt wurde).
 

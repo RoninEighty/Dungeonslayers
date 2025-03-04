@@ -1,18 +1,18 @@
-# Verwandlung
+### Verwandlung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 10
-- Kosten: 420
-- Zauberbonus: -2
+- Preis: 420GM
+- ZB: -2
 - Dauer: Probenergebnis/2 in Stunden
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Der ZAW nimmt das Aussehen einer anderen Person an, die seinem Volk angehören und gleichen Geschlechts sein muss.
 

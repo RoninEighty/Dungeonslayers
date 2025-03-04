@@ -1,18 +1,18 @@
-# Klauenhände
+### Klauenhände
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 11
   - Schwarzmagier: 6
-- Kosten: 255
-- Zauberbonus: -2
+- Preis: 255GM
+- ZB: -2
 - Dauer: Probenergebnis in KR
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dem Ziel wachsen scharfe Klauen aus den Händen, die auf diese Weise zu Natürlichen Waffen mit einem WB gleich GEI/2 des ZAW werden, und gegen die die Abwehr von Gegner um den gleichen Wert gesenkt wird.
 

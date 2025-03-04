@@ -1,18 +1,18 @@
-# Tiere fernhalten
+### Tiere fernhalten
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 6
   - Schwarzmagier: 8
-- Kosten: 45
-- Zauberbonus: -Gesamt-LK/5 der Ziele
+- Preis: 45GM
+- ZB: -Gesamt-LK/5 der Ziele
 - Dauer: Konzentration
-- Reichweite: VE Meter
-- Abklingzeit: 100 KR
+- Distanz: VE Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Bis zu VE x 2 Tiere können sich dem ZAW auf nicht mehr als VE Meter nähern. Sind sie bereits näher, weichen sie auf diese Distanz zurück.
 

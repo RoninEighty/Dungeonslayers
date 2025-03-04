@@ -1,18 +1,18 @@
-# De-Evolution
+### De-Evolution
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 17
-- Kosten: 960
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 960GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: PE in KR oder permanent (s.u.)
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 1 Tag oder W20 Tage
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel wird in ein winziges Tier nach Wahl des ZAW verwandelt.
 

@@ -1,18 +1,18 @@
-# Reinigen
+### Reinigen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 7
   - Schwarzmagier: -
-- Kosten: 80
-- Zauberbonus: 0
+- Preis: 80GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 0 KR
+- Distanz: Berühren
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dieser Zauber reinigt eine ungewaschene Person, einen Gegenstand (wie einen schlammbesudelten Umhang) oder auch eine Mahlzeit (von Bakterien, Fäulnis und Gift).
 

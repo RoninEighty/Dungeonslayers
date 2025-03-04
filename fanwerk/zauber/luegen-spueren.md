@@ -1,18 +1,18 @@
-# Lügen spüren
+### Lügen spüren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 8
   - Schwarzmagier: -
-- Kosten: 80
-- Zauberbonus: 0
+- Preis: 80GM
+- ZB: +0
 - Dauer: VE Minuten
-- Reichweite: VE Meter Radius
-- Abklingzeit: 100 KR
+- Distanz: VE Meter Radius
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Der Zauber spürt automatisch, wenn jemand im Wirkungsbereich bewusst die Unwahrheit spricht.
 

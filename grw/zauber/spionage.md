@@ -1,18 +1,18 @@
-# Spionage
+### Spionage
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 6
   - Schwarzmagier: 4
-- Kosten: 205
-- Zauberbonus: 0
+- Preis: 205GM
+- ZB: +0
 - Dauer: VE x 2 Kampfrunden
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW begibt sich in einen tranceähnlichen Zustand, in dem seine optischen und akustischen Sinne sich von seinem Körper lösen können.
 

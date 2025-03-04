@@ -1,18 +1,18 @@
-# Trollgestalt
+### Trollgestalt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 14
-- Kosten: 1120
-- Zauberbonus: -2
+- Preis: 1120GM
+- ZB: -2
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das freiwillige Ziel nimmt augenblicklich die Gestalt eines Trolls an.
 

@@ -1,18 +1,18 @@
-# Eigenschaften erkennen
+### Eigenschaften erkennen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 3
   - Schwarzmagier: 5
-- Kosten: 110
-- Zauberbonus: -(GEI+AU)/2 des Ziel
+- Preis: 110GM
+- ZB: -(GEI+AU)/2 des Ziel
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
-- Abklingzeit: 0 KR
+- Distanz: VE Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erkennt den exakten Wert einer der Eigenschaften des Ziels nach seiner Wahl (ST, HÄ, GE, BE, VE oder AU).
 

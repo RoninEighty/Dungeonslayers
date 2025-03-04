@@ -1,18 +1,18 @@
-# Tanz
+### Tanz
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 10
-- Kosten: 360
-- Zauberbonus: -(GEI+AU)/2 des Ziels
+- Preis: 360GM
+- ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE/2 Minuten
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, kann für die Dauer des Zauberspruchs nur tanzen (und dabei höchstens 1m pro Kampfrunde laufen).
 

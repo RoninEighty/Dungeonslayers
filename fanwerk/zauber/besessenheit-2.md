@@ -1,18 +1,18 @@
-# Besessenheit 2
+### Besessenheit 2
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 13
-- Kosten: 1520
-- Zauberbonus: 0
+- Preis: 1520GM
+- ZB: +0
 - Dauer: VE x 2 KR
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Aber wenn das Ziel ein Humanoider ist oder generell humanoide Gestalt hat, kann der ZAW in dem fremden Körper sogar Zauber wirken.
 

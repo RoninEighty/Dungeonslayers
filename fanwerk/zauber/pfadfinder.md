@@ -1,18 +1,18 @@
-# Pfadfinder
+### Pfadfinder
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: 13
   - Schwarzmagier: -
-- Kosten: 720
-- Zauberbonus: 0
+- Preis: 720GM
+- ZB: +0
 - Dauer: VE Stunden
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW "erspürt" den kürzesten zu Fuß begehbaren Weg zu einem von ihm spezifizierten Ziel. Das Ziel muss eine Ortsangabe sein und darf sich nicht auf Objekte oder Kreaturen beziehen, und das Ziel muss eindeutig bestimmt sein. "Zum Aufenthaltsort des bösen Schwarzmagiers" oder "zu einem Raum, in dem es Schätze gibt" wären also beispielsweise illegitim. "Zum Finsteren Turm" oder "zur Schatzkammer dieses Dungeons" wären legitime Ziele.
 

@@ -1,18 +1,18 @@
-# Mana geben und Nehmen
+### Mana geben und Nehmen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 8
-- Kosten: 360
-- Zauberbonus: 0
+- Preis: 360GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 5 KR
+- Distanz: Berühren
+- Abklingzeit: 5 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Die Waffe des Zieles beginnt vor Magie an zu flirren. Der Schaden, den das Ziel per Schlagen im Nahkampf verursacht (also abzüglich des Abwehrwurfs des Gegners) wird halbiert und zu gleichen Teilen von der LK und dem Mana des Gegners abgezogen. Das Ziel erhält zudem den so angerichteten Schaden am Mana des Gegners auf die eigene Manakraft gutgeschrieben.
 

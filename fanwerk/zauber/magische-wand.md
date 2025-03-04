@@ -1,18 +1,18 @@
-# Magische Wand
+### Magische Wand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 14
   - Zauberer: 10
   - Schwarzmagier: 12
-- Kosten: 920
-- Zauberbonus: 0
+- Preis: 920GM
+- ZB: +0
 - Dauer: VE x 2 KR
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erschafft ein ebenes Kraftfeld von maximal VE Meter x VE Meter Größe, welches von beiden Seiten völlig undurchdringlich für Objekte, Lebewesen, Magie oder Zaubersprüche ist.
 

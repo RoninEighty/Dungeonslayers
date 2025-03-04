@@ -1,18 +1,18 @@
-# Lokalisieren
+### Lokalisieren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 17
   - Zauberer: 16
   - Schwarzmagier: 17
-- Kosten: 1140
-- Zauberbonus: -2
+- Preis: 1140GM
+- ZB: -2
 - Dauer: Augenblicklich
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erfährt den genauen Aufenthaltsort eines Objekts oder einer Kreatur, die er genau benennen kann. Er muss sein Zielobjekt namentlich nennen können oder schon einmal gesehen oder beschrieben bekommen haben. Hat er es sogar schon einmal berührt, erhält er +2 auf Probenwert des Zaubers.
 

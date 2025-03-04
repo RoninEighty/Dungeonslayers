@@ -1,18 +1,18 @@
-# Geisterpfeil
+### Geisterpfeil
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 4
-- Kosten: 205
-- Zauberbonus: 2
+- Preis: 205GM
+- ZB: +2
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Der Zauber verschießt einen geisterhaft glühenden und auf unheimliche Weise heulenden Energiepfeil auf das Ziel.
 

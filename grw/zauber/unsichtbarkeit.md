@@ -1,18 +1,18 @@
-# Unsichtbarkeit
+### Unsichtbarkeit
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 20
   - Zauberer: 12
   - Schwarzmagier: 12
-- Kosten: 1120
-- Zauberbonus: 0
+- Preis: 1120GM
+- ZB: +0
 - Dauer: Probenergebnis in Minuten
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Macht ein Lebewesen (samt seiner getragenen Ausrüstung) oder ein Objekt für die Dauer des Zauberspruchs unsichtbar.
 

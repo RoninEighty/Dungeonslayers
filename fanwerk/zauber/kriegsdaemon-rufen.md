@@ -1,18 +1,18 @@
-# Kriegsdämon rufen
+### Kriegsdämon rufen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 18
-- Kosten: 1920
-- Zauberbonus: -10 (-17 für fliegenden Dämon)
+- Preis: 1920GM
+- ZB: -10 (-17 für fliegenden Dämon)
 - Dauer: Probenergebnis in KR
-- Reichweite: Radius von VE x 2 Meter
+- Distanz: Radius von VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 An einem beliebigen Ort innerhalb der Distanz erscheint ein Kriegsdämon (GRW, S. 108). Dieser ist automatisch kontrolliert und erfüllt alle Aufträge des Beschwörers, sofern ihm dies in der kurzen Zeit möglich ist, bis er wieder auf seine Heimatebene verschwindet.
 

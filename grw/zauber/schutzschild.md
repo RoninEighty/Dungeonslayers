@@ -1,18 +1,18 @@
-# Schutzschild
+### Schutzschild
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 8
   - Schwarzmagier: 8
-- Kosten: 115
-- Zauberbonus: 0
+- Preis: 115GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel erhält das Probenergebnis als Bonus auf seine Abwehr, bis die Dauer des Zaubers abgelaufen ist.
 

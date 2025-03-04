@@ -1,18 +1,18 @@
-# Giftstrahl
+### Giftstrahl
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: -(KÖR+HÄ)/2 des Ziels
+- Preis: 10GM
+- ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 5 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Aus den Fingern des ZAW schießt ein giftgrüner Strahl auf das Ziel, welches keine Abwehr gegen den Zauber wirken darf und ab dem Moment des Treffers Probenergebnis in Kampfrunden jede Kampfrunde 1 Punkt nicht abwehrbaren Giftschaden erleidet.
 

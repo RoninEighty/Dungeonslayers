@@ -1,18 +1,18 @@
-# Verkleinern
+### Verkleinern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 8
-- Kosten: 920
-- Zauberbonus: -4
+- Preis: 920GM
+- ZB: -4
 - Dauer: Probenergebnis in Minuten
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das freiwillige Ziel - samt seiner Ausrüstung - wird auf ein Zehntel seiner Körpergröße verkleinert.Charaktere nehmen die Größenkategorie "winzig" (sh. GRW S. 104) an.
 

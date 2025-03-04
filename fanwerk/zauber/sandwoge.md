@@ -1,18 +1,18 @@
-# Sandwoge
+### Sandwoge
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 10
-- Kosten: 460
-- Zauberbonus: 2
+- Preis: 460GM
+- ZB: +2
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Der ZAW schießt eine komprimierte Sandkugel auf seine Gegner, die in einer Explosion (Radius = VE des ZAW in Metern) endet, welche nicht abwehrbaren erd-basierenden Schaden in Höhe des Probenergebnisses verursacht. Fällt bei der Zauberprobe außerdem ein Immersieg, sind alle Ziele für eine Runde geblendet wie durch den Zauber Blenden, weil sie Sand in die Augen bekommen haben.
 

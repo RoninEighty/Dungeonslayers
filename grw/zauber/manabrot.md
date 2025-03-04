@@ -1,18 +1,18 @@
-# Manabrot
+### Manabrot
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 5
-- Kosten: 420
-- Zauberbonus: 0
+- Preis: 420GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW bündelt die magische Energien um sich herum und erschafft daraus warmes, aber geschmackloses Manabrot.
 

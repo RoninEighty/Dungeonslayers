@@ -1,18 +1,18 @@
-# Kopieren
+### Kopieren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 3
   - Schwarzmagier: -
-- Kosten: 220
-- Zauberbonus: 0
+- Preis: 220GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW streicht mit der Hand über eine Seite eines Schriftstücks und sogleich über eine leere Seite von ungefähr gleicher Größe, auf der somit ein exaktes Abbild der zuerst berührten Seite erscheint.
 

@@ -1,18 +1,18 @@
-# Magie identifizieren
+### Magie identifizieren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 1 KR
+- Distanz: Berühren
+- Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Offenbart dem ZAW die Quelle und/oder Funktion der Magie eines Objektes oder einer Örtlichkeit.
 

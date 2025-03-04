@@ -1,18 +1,18 @@
-# Fata Morgana
+### Fata Morgana
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 16
-- Kosten: 1220
-- Zauberbonus: -4
+- Preis: 1220GM
+- ZB: -4
 - Dauer: VE Stunden
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erschafft eine riesige Illusion in einem würfelförmigen Bereich von bis zu VE x 10 Metern Kantenlänge. Nur gleichförmige oder wiederholende Bewegungen sind möglich: z.B. fließendes/tropfendes Wasser, Feuer, usw. Für Geräusche gilt: Der ZAW kann die Illusion mit Geräuschen ausstatten, sie müssen einfach sein und kontinuierlich. z.B.: Rauschen, Plätschern, usw. Auch Gemurmel ist möglich, aber keine erkennbaren Worte.
 

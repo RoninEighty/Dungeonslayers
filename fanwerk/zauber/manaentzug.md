@@ -1,18 +1,18 @@
-# Manaentzug
+### Manaentzug
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 2
   - Schwarzmagier: 3
-- Kosten: 60
-- Zauberbonus: 0
+- Preis: 60GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 5 KR
+- Distanz: Berühren
+- Abklingzeit: 5 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauberwirker entzieht dem Ziel des Zaubers, das gegen den Zauber Abwehr ohne alle nichtmagischen PA-Boni würfelt, sein Mana. Der Schaden, den das Ziel erhalten würde (also abzüglich des Abwehrwurfs), wird nicht von dessen LK, sondern 50% des "Schadens" von den Manapunkten des Gegners abgezogen und den Manapunkten des Zauberwirkers gutgeschrieben.
 

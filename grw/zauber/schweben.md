@@ -1,18 +1,18 @@
-# Schweben
+### Schweben
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 5
   - Schwarzmagier: 5
-- Kosten: 210
-- Zauberbonus: 0
+- Preis: 210GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 0 KR
+- Distanz: Berühren
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel kann statt zu laufen auch lotrecht hoch und runter schweben.
 

@@ -1,18 +1,18 @@
-# Zauber aufheben
+### Zauber aufheben
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: 6
   - Schwarzmagier: 10
-- Kosten: 260
-- Zauberbonus: -Wirkerstufe
+- Preis: 260GM
+- ZB: -Wirkerstufe
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW bannt den mächtigsten Zauber oder magischen Effekt, der auf das Ziel des Zaubers wirkt.
 

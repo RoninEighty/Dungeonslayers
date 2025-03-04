@@ -1,18 +1,18 @@
-# Lichtsäule
+### Lichtsäule
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 19
   - Schwarzmagier: -
-- Kosten: 535
-- Zauberbonus: 8
+- Preis: 535GM
+- ZB: +8
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 m
-- Abklingzeit: 1 KR
+- Distanz: VE x 10 m
+- Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Dies ist eine mächtigere Variante des Zaubers Lichtlanze, gegen dessen Schaden Wesen der Dunkelheit ebenfalls einen Malus von 2 auf ihre Abwehr erhalten.
 

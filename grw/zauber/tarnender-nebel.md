@@ -1,18 +1,18 @@
-# Tarnender Nebel
+### Tarnender Nebel
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 3
-- Kosten: 140
-- Zauberbonus: -2
+- Preis: 140GM
+- ZB: -2
 - Dauer: VE x 2 KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Eine Nebelwolke mit einem Radius von maximal VE in Metern entsteht.
 

@@ -1,18 +1,18 @@
-# Eisengestalt
+### Eisengestalt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: -
-- Kosten: 510
-- Zauberbonus: -2
+- Preis: 510GM
+- ZB: -2
 - Dauer: Probenergebnis in KR (speziell)
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW verwandelt sich vollständig in Eisen, ohne seine Beweglichkeit zu verlieren. Dadurch erhält er +8 PA und zählt als Metallwesen.
 

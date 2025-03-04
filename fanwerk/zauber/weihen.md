@@ -1,18 +1,18 @@
-# Weihen
+### Weihen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 440
-- Zauberbonus: -2
+- Preis: 440GM
+- ZB: -2
 - Dauer: 24 Stunden
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Ein Gebiet von maximal VE Metern x VE Metern wird geweiht. Wesen und Dienern der Finsternis muss GEI+AU gelingen, um dieses Gebiet betreten zu können, und selbst wenn es ihnen gelingt, erhalten sie -2 auf alle Proben, solange sie sich darin aufhalten.
 

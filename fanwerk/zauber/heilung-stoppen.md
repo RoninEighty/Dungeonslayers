@@ -1,18 +1,18 @@
-# Heilung stoppen
+### Heilung stoppen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 4
-- Kosten: 205
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 205GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel des Zaubers kann während der Wirkungsdauer nicht geheilt werden. Heilzauber oder -tränke wirken nicht, und selbst natürliche Heilung (inkl.
 

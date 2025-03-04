@@ -1,18 +1,18 @@
-# Feuer löschen
+### Feuer löschen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 10
   - Schwarzmagier: 12
-- Kosten: 290
-- Zauberbonus: +0 / -Wirkerstufe / -(KÖR+AU)/2
+- Preis: 290GM
+- ZB: +0 / -Wirkerstufe / -(KÖR+AU)/2
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Der Zauber erzeugt einen Strahl magischer Energie, der Hitze absorbiert. Für den Zauber gibt es 4 Einsatzmöglichkeiten: zum Löschen, als Verteidigung gegen feuerbasierende Zielzauber oder Odemwaffen, zum Bannen von Feuerzaubern (z.B. Feuerwand) oder als Angriff gegen Feuerwesen z.B. Elementare.
 

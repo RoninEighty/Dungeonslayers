@@ -1,18 +1,18 @@
-# Ballistischer Flug
+### Ballistischer Flug
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 13
   - Zauberer: 7
   - Schwarzmagier: 7
-- Kosten: 620
-- Zauberbonus: 0
+- Preis: 620GM
+- ZB: +0
 - Dauer: VE Stunden
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW und VE Gefährten erheben sich in die Luft und fliegen in gerader Linie mit einer Geschwindigkeit von VE/2 x 10 Kilometern/Stunde in eine vom ZAW beim Zauberwirken bestimmte Richtung. Diese Richtung kann im Flug nicht geändert werden, allerdings kann der ZAW die Geschwindigkeit beliebig anpassen (sogar in der Luft stehen bleiben) und die Höhe um VE x 10 Meter pro Runde verändern, um so beispielsweise Zusammenstöße mit Hindernissen zu verhindern. Die Gruppe kann auch landen, ohne dass der Zauber endet, und die Reise zu einem späteren Zeitpunkt fortsetzen, sofern der Zauber noch wirkt. Allerdings endet der Zauber für jeden Charakter außer dem ZAW, der sich während des Flugs aus der Formation löst (was der ZAW willentlich erzwingen kann).
 

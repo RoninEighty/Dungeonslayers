@@ -1,18 +1,18 @@
-# Schreckensklinge
+### Schreckensklinge
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 7
   - Schwarzmagier: 5
-- Kosten: 270
-- Zauberbonus: 0
+- Preis: 270GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Die verzauberte Waffe beginnt, Töne auszusenden, die wie weit entfernte Schreie klingen, und Schatten wabern über sie, die wie angsterfüllte Fratzen aussehen.
 

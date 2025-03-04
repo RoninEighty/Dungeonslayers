@@ -1,18 +1,18 @@
-# Regeneration
+### Regeneration
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 15
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 500
-- Zauberbonus: 0
+- Preis: 500GM
+- ZB: +0
 - Dauer: VE KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Sofern das Ziel des Zaubers beim Wirken des Zaubers nicht tot ist, regeneriert es aktionsfrei jede Runde LK in Höhe des Probenergebnisses eines KÖR+HÄ-Wurfs, selbst wenn seine LK unter -KÖR sinkt. Außerdem regeneriert es jede Runde einen (z.B. durch Werteverlust) verlorenen Attributspunkt.
 

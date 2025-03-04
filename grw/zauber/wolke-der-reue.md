@@ -1,18 +1,18 @@
-# Wolke der Reue
+### Wolke der Reue
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 6
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: -2
+- Preis: 10GM
+- ZB: -2
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Eine unsichtbare Wolke der Reue mit einem Radius von maximal VE in Metern entsteht.
 

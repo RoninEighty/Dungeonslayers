@@ -1,18 +1,18 @@
-# Freund
+### Freund
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 7
   - Schwarzmagier: 8
-- Kosten: 370
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 370GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE Minuten
-- Reichweite: VE x 2 m
+- Distanz: VE x 2 m
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Bei Erfolg hält das Ziel den ZAW (und nur ihn!) für einen sehr guten Freund.
 

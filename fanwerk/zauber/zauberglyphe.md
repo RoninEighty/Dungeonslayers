@@ -1,18 +1,18 @@
-# Zauberglyphe
+### Zauberglyphe
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 6
   - Schwarzmagier: 6
-- Kosten: 185
-- Zauberbonus: 0
+- Preis: 185GM
+- ZB: +0
 - Dauer: Permanent, bis ausgelöst
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW bringt eine etwa handflächengroße Glyphe auf einer Oberfläche an, in die er einen Zielzauber von maximal seiner Stufe -5 einbinden kann. Er muss diesen Zauber nicht sprechen, aber erfolgreich zu diesem wechseln, während er die Glyphe berührt.
 

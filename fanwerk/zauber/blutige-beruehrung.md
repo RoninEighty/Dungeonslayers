@@ -1,18 +1,18 @@
-# Blutige Berührung
+### Blutige Berührung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: 3
+- Preis: 10GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 0 KR
+- Distanz: Berühren
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dem Ziel werden Ergebnis/2 Proben seines Blutes entzogen (max 24h haltbar).
 

@@ -1,18 +1,18 @@
-# Altern
+### Altern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 17
-- Kosten: 3150
-- Zauberbonus: -(KÖR+HÄ)/2 des Ziels
+- Preis: 3150GM
+- ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel altert augenblicklich um das Probenergebnis in Jahren. Bei einem Immersieg oder wenn das Maximalalter überschritten wird, stirbt das Ziel.
 

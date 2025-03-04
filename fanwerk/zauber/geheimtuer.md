@@ -1,18 +1,18 @@
-# Geheimtür
+### Geheimtür
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 13
-- Kosten: 1530
-- Zauberbonus: 0
+- Preis: 1530GM
+- ZB: +0
 - Dauer: Permanent
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauber erschafft in einer bis zu VE x 10 cm dicken nicht-magischen Wand oder vergleichbaren senkrechten Barriere eine 1 Meter breite und 2 Meter hohe unsichtbare Passage, die der ZAW während der Zauberdauer nach Belieben durchschreiten kann.
 

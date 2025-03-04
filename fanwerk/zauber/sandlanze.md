@@ -1,18 +1,18 @@
-# Sandlanze
+### Sandlanze
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 5
-- Kosten: 210
-- Zauberbonus: 1
+- Preis: 210GM
+- ZB: +1
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 0 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Dies ist eine mächtigere Variante des Zaubers Sandstrahl. Auch hiermit wird das Ziel für eine Runde geblendet wie durch den Zauber Blenden, wenn der ZAW bei der Zauberprobe einen Immersieg erzielt.
 

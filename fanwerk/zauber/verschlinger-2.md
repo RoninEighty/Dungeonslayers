@@ -1,18 +1,18 @@
-# Verschlinger 2
+### Verschlinger 2
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 11
-- Kosten: 660
-- Zauberbonus: 0
+- Preis: 660GM
+- ZB: +0
 - Dauer: VE Minuten
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Alternativ kann der Verschlinger auch leblose Objekte von einem Gesamtgewicht von bis zu etwa der Hälfte seiner eigenen Körpermasse in seinem Leib verstauen.
 

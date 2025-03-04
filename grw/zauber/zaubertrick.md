@@ -1,18 +1,18 @@
-# Zaubertrick
+### Zaubertrick
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dieser Zauberspruch erzeugt kleine, unschädliche Illusionen. Beispielsweise kann der ZAW schwebende Bälle zaubern oder die Illusion eines Kaninchens aus einem Hut ziehen.
 

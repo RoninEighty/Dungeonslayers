@@ -1,18 +1,18 @@
-# Klettern
+### Klettern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 4
   - Schwarzmagier: 7
-- Kosten: 160
-- Zauberbonus: 0
+- Preis: 160GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel des Zaubers kann mit seinem normalen Laufen-Wert wie eine Spinne klettern, selbst kopfüber an der Decke.
 

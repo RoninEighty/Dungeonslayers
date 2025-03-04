@@ -1,18 +1,18 @@
-# Waffe beleben
+### Waffe beleben
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 8
   - Schwarzmagier: 8
-- Kosten: 650
-- Zauberbonus: -WB
+- Preis: 650GM
+- ZB: -WB
 - Dauer: VE x 2 KR
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Die berührte Nahkampfwaffe wird zu einem aktiven Konstrukt unter Kontrolle des ZAW. Sie hat die Werte eines Fliegenden Schwerts, aber der WB des Fliegenden Schwerts werden durch den WB der Waffe ersetzt. Auch weitere Modifikatoren der Waffe (wie Abzüge auf Initiative oder Gegnerabwehr) werden angewandt.
 

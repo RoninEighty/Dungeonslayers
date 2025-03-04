@@ -1,18 +1,18 @@
-# Zone des Friedens
+### Zone des Friedens
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 395
-- Zauberbonus: 0
+- Preis: 395GM
+- ZB: +0
 - Dauer: Probenergebnis in Minuten
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 In einem Radius von VE x 2 Metern um den Heiler herum entsteht eine unbewegliche Zone, die auf jede darin befindliche Kreatur beruhigend wirkt, sie generell weniger kampfbereit macht und die Geneigtheit zum Finden friedlicher Lösungen verstärkt. Alle sozialen Würfe, die von Kreaturen in dem Bereich gemacht werden, erhalten einen Bonus von +2.
 

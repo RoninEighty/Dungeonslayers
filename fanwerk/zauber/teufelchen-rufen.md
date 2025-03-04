@@ -1,18 +1,18 @@
-# Teufelchen rufen
+### Teufelchen rufen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: 1
-- Kosten: 20
-- Zauberbonus: -3
+- Preis: 20GM
+- ZB: -3
 - Dauer: Probenergebnis in KR
-- Reichweite: Radius von VE x 2 Meter
+- Distanz: Radius von VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 An einem beliebigen Ort innerhalb der Distanz erscheint ein Teufelchen von einer Art nach Wunsch des ZAW (GRW, S. 33). Dieser ist automatisch kontrolliert und erfüllt alle Aufträge des Beschwörers, sofern ihm dies in der kurzen Zeit möglich ist, bis er wieder auf seine Heimatebene verschwindet.
 

@@ -1,18 +1,18 @@
-# Talentzauber 2
+### Talentzauber 2
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 5
   - Schwarzmagier: 11
-- Kosten: 210
-- Zauberbonus: 0
+- Preis: 210GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Bei einem Misserfolg sind die Kenntnisse des ZAW nicht ausreichend, um das Talent zu verleihen, und der Zauber wird für dieses Talent automatisch fehlschlagen. Der Wurf ist auch erforderlich, wenn das Talent einer Heldenklasse zugänglich ist, der der ZAW (noch) nicht angehört (es sei denn er hat das Talent ADEPT für diese Heldenklasse).
 

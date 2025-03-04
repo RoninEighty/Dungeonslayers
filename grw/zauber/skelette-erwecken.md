@@ -1,18 +1,18 @@
-# Skelette erwecken
+### Skelette erwecken
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 6
-- Kosten: 670
-- Zauberbonus: 0
+- Preis: 670GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Radius von VE x 5 Meter
+- Distanz: Radius von VE x 5 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Schwarzmagier kann eine maximale Anzahl von Skeletten (sh. GRW S. 122) im Wirkungsradius gleich seiner eigenen Stufe zu untotem Leben erwecken.
 

@@ -1,18 +1,18 @@
-# Mächtiges Schwächen
+### Mächtiges Schwächen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 9
-- Kosten: 510
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 510GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 1 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel erhält -3 auf Schlagen und Schießen. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 

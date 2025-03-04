@@ -1,18 +1,18 @@
-# Telepathie
+### Telepathie
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: -
-- Kosten: 60
-- Zauberbonus: 0
+- Preis: 60GM
+- ZB: +0
 - Dauer: VE x 2 Minuten
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauberer kann einem oder mehreren Wesen innerhalb von VE x 2 Metern seine Gedanken senden. Prinzipiell kann er sich so jedem Wesen mitteilen, das selbst über eine Sprache verfügt, ohne allerdings dessen Sprache kennen zu müssen.
 

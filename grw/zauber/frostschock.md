@@ -1,18 +1,18 @@
-# Frostschock
+### Frostschock
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 16
-- Kosten: 560
-- Zauberbonus: 3
+- Preis: 560GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 m
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 m
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Ein Eisstrahl schießt aus den Händen des ZAW. Gegen den Schaden dieses frostigen Zauber ist keine Abwehr zulässig.
 

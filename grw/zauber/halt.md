@@ -1,18 +1,18 @@
-# Halt
+### Halt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 6
   - Schwarzmagier: 6
-- Kosten: 45
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 45GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE KR
-- Reichweite: VE x 5 m
-- Abklingzeit: 10 KR
+- Distanz: VE x 5 m
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Bei Erfolg kann sich das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, nicht mehr bewegen.
 

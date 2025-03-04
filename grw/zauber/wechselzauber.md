@@ -1,18 +1,18 @@
-# Wechselzauber
+### Wechselzauber
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 10
   - Schwarzmagier: 12
-- Kosten: 790
-- Zauberbonus: 0
+- Preis: 790GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Präpariert einen Zauberspruch des ZAW, um einmalig aktionsfrei zu diesem zu wechseln.
 

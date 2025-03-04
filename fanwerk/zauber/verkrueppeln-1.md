@@ -1,18 +1,18 @@
-# Verkrüppeln 1
+### Verkrüppeln 1
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 15
-- Kosten: 810
-- Zauberbonus: -(KÖR+HÄ)/2 des Ziels
+- Preis: 810GM
+- ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Der ZAW verkrüppelt permanent ein Körperglied des Ziels. Der genaue Effekt hängt davon ab, welche Art von Körperglied verkrüppelt wird und wie viele davon das Ziel hat.
 

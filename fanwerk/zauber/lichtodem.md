@@ -1,18 +1,18 @@
-# Lichtodem
+### Lichtodem
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 14
   - Schwarzmagier: -
-- Kosten: 395
-- Zauberbonus: 5
+- Preis: 395GM
+- ZB: +5
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
-- Abklingzeit: 10 KR
+- Distanz: VE Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Aus dem Mund des ZAW schießt eine gleißende Lichtsäule, die alle hintereinander stehenden Gegner in einer 1 Meter breiten Schneise in sengende Helligkeit hüllt. Der Odem aus reinigendem Licht verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses an allen Kreaturen, die nicht Wesen oder Diener des Lichts sind.
 

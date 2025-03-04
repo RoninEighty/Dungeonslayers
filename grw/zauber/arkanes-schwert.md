@@ -1,18 +1,18 @@
-# Arkanes Schwert
+### Arkanes Schwert
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 8
-- Kosten: 920
-- Zauberbonus: 0
+- Preis: 920GM
+- ZB: +0
 - Dauer: VE x 2 KR
-- Reichweite: Radius von VE m
+- Distanz: Radius von VE m
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Ein Schwert aus hellem (oder je nach Belieben auch dunklem) Licht erscheint innerhalb eines Radius von VE in Metern um den ZAW herum.
 

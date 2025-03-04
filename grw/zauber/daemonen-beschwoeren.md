@@ -1,18 +1,18 @@
-# Dämonen beschwören
+### Dämonen beschwören
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 10
-- Kosten: 1190
-- Zauberbonus: -(KÖR+AU) des Dämonen und +BB
+- Preis: 1190GM
+- ZB: -(KÖR+AU) des Dämonen und +BB
 - Dauer: VE x 2 Stunden
-- Reichweite: Radius von VE m
+- Distanz: Radius von VE m
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Mit diesem Zauber beschwört der Zauberwirker einen Dämon aus einer anderen Existenzebene.
 

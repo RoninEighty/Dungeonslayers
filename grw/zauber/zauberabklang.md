@@ -1,18 +1,18 @@
-# Zauberabklang
+### Zauberabklang
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 5
   - Schwarzmagier: 9
-- Kosten: 420
-- Zauberbonus: -eigene Zugangsstufe für den Spruch
+- Preis: 420GM
+- ZB: -eigene Zugangsstufe für den Spruch
 - Dauer: Augenblicklich
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Mit diesem Zauber kann versucht werden, die Abklingzeit eines zuvor (innerhalb der letzten VE Kamfprunden) erfolgreich gewirkten Zauberspruchs wieder auf Null zu senken.
 

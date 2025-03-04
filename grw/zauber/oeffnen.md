@@ -1,18 +1,18 @@
-# Öffnen
+### Öffnen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: -SW
+- Preis: 10GM
+- ZB: -SW
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Öffnet ein Schloss, ohne es zu beschädigen. Der normalerweise immer +0 betragende Schlosswert (SW) kann durch bessere Qualität oder den Zauberspruch Magisches Schloss erhöht werden.
 

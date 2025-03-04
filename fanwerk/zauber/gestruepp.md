@@ -1,18 +1,18 @@
-# Gestrüpp
+### Gestrüpp
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 9
   - Schwarzmagier: -
-- Kosten: 80
-- Zauberbonus: 0
+- Preis: 80GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 In einem Radius von VE x 2m (Druide: VE x 5m) sprießt niedriger, aber dichter, Pflanzenbewuchs. Alle LaufenReichweiten in diesem Gestrüpp sind halbiert. In Gebiet mit natürlichem Bewuchs, der ohnehin Bewegung einschränkt, hat der Zauber keinen weiteren Effekt.
 

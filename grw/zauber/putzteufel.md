@@ -1,18 +1,18 @@
-# Putzteufel
+### Putzteufel
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 5
-- Kosten: 420
-- Zauberbonus: 0
+- Preis: 420GM
+- ZB: +0
 - Dauer: bis zu VE/2 Stunden
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erschafft einen kleinen, magischen Diener, der für ihn unglaublich flink putzt, aufräumt und packt.
 

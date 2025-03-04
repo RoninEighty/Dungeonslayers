@@ -1,18 +1,18 @@
-# Wolke der Ablenkung
+### Wolke der Ablenkung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 2
-- Kosten: 75
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 75GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Alle Gegner im Umkreis von VE m um das Ziel herum erhalten -1 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 

@@ -1,18 +1,18 @@
-# Schutz vor Dunkelheit
+### Schutz vor Dunkelheit
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: -
-- Kosten: 45
-- Zauberbonus: 0
+- Preis: 45GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel erhält die VE des ZAW auf seine Abwehr gegen alle Angriffe durch Wesen und Diener der Dunkelheit sowie gegen schädigende Schattenzauber und -effekte. Außerdem kann das Ziel selbst in völliger Dunkelheit 5 Meter weit sehen.
 

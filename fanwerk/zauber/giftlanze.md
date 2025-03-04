@@ -1,18 +1,18 @@
-# Giftlanze
+### Giftlanze
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 5
-- Kosten: 260
-- Zauberbonus: -(KÖR+HÄ)/2 des Ziels
+- Preis: 260GM
+- ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Dies ist eine mächtigere Version des Zaubers Giftstrahl, die pro Kampfrunde 2 Punkte nicht abwehrbaren Giftschaden verursacht.
 

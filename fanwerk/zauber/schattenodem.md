@@ -1,18 +1,18 @@
-# Schattenodem
+### Schattenodem
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 12
-- Kosten: 725
-- Zauberbonus: 5
+- Preis: 725GM
+- ZB: +5
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
-- Abklingzeit: 10 KR
+- Distanz: VE Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Aus dem Mund des ZAW schießt eine wabernde Schattensäule, die alle hintereinander stehenden Gegner in einer 1 Meter breiten Schneise in tödliche Finsternis hüllt. Der Odem aus verderbter Dunkelheit verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses an allen Kreaturen, die nicht Wesen oder Diener der Dunkelheit sind.
 

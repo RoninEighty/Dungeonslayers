@@ -1,18 +1,18 @@
-# Augenwand
+### Augenwand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 17
-- Kosten: 1320
-- Zauberbonus: -2
+- Preis: 1320GM
+- ZB: -2
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauber erschafft eine Wand aus zäher, gallertiger Masse, die mit einer Unzahl glotzender, rollender und blinzelnder Augäpfel bedeckt ist.
 

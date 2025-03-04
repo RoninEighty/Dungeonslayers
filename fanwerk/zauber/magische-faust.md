@@ -1,18 +1,18 @@
-# Magische Faust
+### Magische Faust
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Probenergebnis x 2 KR
-- Reichweite: Selbst
-- Abklingzeit: 1 KR
+- Distanz: Selbst
+- Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erhält +1 WB, wenn er waffenlos angreift. Der Abwehrbonus für Gegner auf waffenlose Angriffe entfällt.
 

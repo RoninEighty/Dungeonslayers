@@ -1,18 +1,18 @@
-# Treibsand
+### Treibsand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 14
   - Schwarzmagier: 18
-- Kosten: 1070
-- Zauberbonus: -2
+- Preis: 1070GM
+- ZB: -2
 - Dauer: VE Stunden
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauber erschafft ein 6 Meter tiefes Treibsandfeld, dass sich über eine Fläche von maximal VE Meter mal VE Metern erstrecken kann. Eine Kreatur, die sich in dem Feld befindet oder es betritt, muss jede Runde KÖR+ST (-2, wenn von einem Elementaristen gewirkt) würfeln, um nicht sofort ein Drittel seiner Körpergröße einzusinken. Für jedes Drittel, das eine Kreatur bereits versunken ist, ist der Wurf um 2 erschwert. Eine Kreatur, die ganz im Treibsand versunken ist, beginnt zu ertrinken (siehe DS GRW S.
 

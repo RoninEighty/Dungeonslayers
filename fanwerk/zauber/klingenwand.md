@@ -1,18 +1,18 @@
-# Klingenwand
+### Klingenwand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 360
-- Zauberbonus: -2
+- Preis: 360GM
+- ZB: -2
 - Dauer: VE KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW lässt eine Wand aus schwebenden Klingen erscheinen, die Ausmaße von maximal 1m x VE m x VE m annehmen kann. Wesen, die an der Stelle stehen, wo die Klingenwand erscheint, oder durch sie hindurch springen, erhalten 1W20 +1W20 pro Rang des ZAW in Diener des Lichts abwehrbaren Schaden.
 

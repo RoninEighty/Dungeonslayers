@@ -1,18 +1,18 @@
-# Erdspalt
+### Erdspalt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 10
   - Schwarzmagier: 14
-- Kosten: 325
-- Zauberbonus: -4
+- Preis: 325GM
+- ZB: -4
 - Dauer: VE KR
-- Reichweite: VE x 2 m
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 m
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Auf festem Boden öffnet der Zauber einen Erdspalt. Der Erdspalt ist bis zu VE in m breit und VE/2 in Metern lang und tief. Stehen Wesen an der Stelle, unter der der Erdspalt erscheint, können sie mit AGI+BE augenblicklich versuchen, noch in Sicherheit zu springen (zählt als freie Aktion).
 

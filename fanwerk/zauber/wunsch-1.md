@@ -1,18 +1,18 @@
-# Wunsch 1
+### Wunsch 1
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: -
-- Kosten: 2880
-- Zauberbonus: 0
+- Preis: 2880GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dieser unberechenbare Zauber ermöglicht einen massiven Eingriff ins Weltgefüge und sollte nur von Spielleitern zugelassen werden, die eine kreative Herausforderung nicht scheuen. Der ZAW richtet einen Wunsch an die schiere Kraft der Magie. Dabei sind die Auswirkungen äußerst willkürlich (heißt: unterliegen vollständig der Kontrolle des Spielleiters).
 

@@ -1,18 +1,18 @@
-# Geist leeren
+### Geist leeren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 4
   - Schwarzmagier: -
-- Kosten: 160
-- Zauberbonus: -Stufe des zu bannenden Zaubers
+- Preis: 160GM
+- ZB: -Stufe des zu bannenden Zaubers
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 1 KR
+- Distanz: Berühren
+- Abklingzeit: 1 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Das Ziel wird von allen geistesbeeinflussenden Effekten, die es betreffen, befreit.
 

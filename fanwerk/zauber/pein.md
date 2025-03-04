@@ -1,18 +1,18 @@
-# Pein
+### Pein
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 3
-- Kosten: 280
-- Zauberbonus: -(GEI+AU)/2 des Ziels
+- Preis: 280GM
+- ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE Stunden
-- Reichweite: VE x 5 Meter
+- Distanz: VE x 5 Meter
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Der ZAW kann bis zu VEx2 Ziele in seiner Reichweite mit seelischer Pein erfüllen, wodurch sie für die Dauer des Zauberspruchs -1 auf alle Probenwerte erhalten.
 

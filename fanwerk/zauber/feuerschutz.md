@@ -1,18 +1,18 @@
-# Feuerschutz
+### Feuerschutz
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 6
   - Schwarzmagier: 5
-- Kosten: 80
-- Zauberbonus: -2
+- Preis: 80GM
+- ZB: -2
 - Dauer: Probenergebnis x 2 KR
-- Reichweite: Berühren
-- Abklingzeit: 0 KR
+- Distanz: Berühren
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Sämtlicher Feuerschaden, den das Ziel während der Zauberdauer erleidet, wird pro Angriff oder Ereignis um VE des ZAW vermindert. Heiler oder Schwarzmagier können ein Ziel statt vor Feuer auch vor Schaden durch Licht- oder Schatten-Effekten schützen, dann aber nur um VE/2 pro Angriff.
 

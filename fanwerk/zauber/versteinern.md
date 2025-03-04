@@ -1,18 +1,18 @@
-# Versteinern
+### Versteinern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 12
-- Kosten: 1320
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 1320GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Mit einer erfolgreichen Zauberprobe wird das Ziel mitsamt seiner Ausrüstung versteinert. Eine Versteinerung kann durch Allheilung oder Entsteinern aufgehoben werden. Erleidet das Ziel in versteinertem Zustand irgendwelche Beschädigungen, weist es nach einer Entsteinerung entsprechende Verletzungen auf.
 

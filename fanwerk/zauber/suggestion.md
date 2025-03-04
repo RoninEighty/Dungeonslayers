@@ -1,18 +1,18 @@
-# Suggestion
+### Suggestion
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 8
   - Schwarzmagier: 8
-- Kosten: 115
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 115GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: 1 KR
-- Reichweite: VE Meter
-- Abklingzeit: 1 KR
+- Distanz: VE Meter
+- Abklingzeit: 1 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Dem Ziel des Zaubers wird ein subtiles geistiges Kommando eingepflanzt, dass es ausführen muss. Das Kommando darf keine Aktion fordern, die länger als eine Runde dauern, und wenn es selbstzerstörerisch ist oder sich gegen die Prinzipien oder Gefährten des Ziels richtet, darf das Ziel GEI+VE würfeln, um das Kommando zu verweigern.
 

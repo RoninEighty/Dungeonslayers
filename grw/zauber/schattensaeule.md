@@ -1,18 +1,18 @@
-# Schattensäule
+### Schattensäule
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 15
-- Kosten: 920
-- Zauberbonus: 8
+- Preis: 920GM
+- ZB: +8
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 1 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Dies ist eine mächtigere Variante des Zaubers Schattenlanze, gegen dessen Schaden Wesen des Lichts ebenfalls einen Malus von 2 auf ihre Abwehr erhalten.
 

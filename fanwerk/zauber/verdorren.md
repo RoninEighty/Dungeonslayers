@@ -1,18 +1,18 @@
-# Verdorren
+### Verdorren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: 8
   - Schwarzmagier: 6
-- Kosten: 335
-- Zauberbonus: 3
+- Preis: 335GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
-- Abklingzeit: 5 KR
+- Distanz: VE Meter
+- Abklingzeit: 5 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 In einer 1m breiten geraden Schneise, die bis zum Ende der Wirkungsdistanz reicht, verdorrt alles pflanzliche Leben. Unterholz behindert keine Bewegung mehr, Büsche bieten keine Deckung oder Versteckmöglichkeiten mehr, Bäume werden kahl und morsch und können mit relativ geringem Aufwand gefällt werden.
 

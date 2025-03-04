@@ -1,18 +1,18 @@
-# Grosses Ablenken
+### Grosses Ablenken
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 14
-- Kosten: 810
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 810GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Gegner im Umkreis von VEx2 m um das Ziel herum erhalten -3 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 

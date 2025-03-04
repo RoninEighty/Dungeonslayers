@@ -1,18 +1,18 @@
-# Nahrung zaubern
+### Nahrung zaubern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 7
   - Schwarzmagier: -
-- Kosten: 90
-- Zauberbonus: 0
+- Preis: 90GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW bündelt die magische Energien um sich herum und erschafft daraus die Grundzutat einer einfachen Mahlzeit, wie etwa Linsen, Reis oder Rüben.
 

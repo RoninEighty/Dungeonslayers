@@ -1,18 +1,18 @@
-# Tierbeherrschung
+### Tierbeherrschung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 8
-- Kosten: 410
-- Zauberbonus: -LK/2 des Ziels
+- Preis: 410GM
+- ZB: -LK/2 des Ziels
 - Dauer: VE Stunden
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Bei Erfolg wird das Tier zu einem willenlosen Sklaven des ZAW.
 

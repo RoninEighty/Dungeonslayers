@@ -1,18 +1,18 @@
-# Zauberauge
+### Zauberauge
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 10
   - Schwarzmagier: 11
-- Kosten: 790
-- Zauberbonus: sh. unten
+- Preis: 790GM
+- ZB: sh. unten
 - Dauer: Probeergebnis/2 in KR
-- Reichweite: VE x 100 Meter
+- Distanz: VE x 100 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erschafft ein Auge aus magischer Substanz, ein Konstrukt der Größenkategorie Winzig mit einer LK entsprechend seine halben Stufe + 5 und fliegt mit einem Laufen-Wert von VE x 2. Weitere Kampfwerte hat das Auge nicht.
 

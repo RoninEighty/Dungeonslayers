@@ -1,18 +1,18 @@
-# Steingestalt
+### Steingestalt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: -
-- Kosten: 360
-- Zauberbonus: -2
+- Preis: 360GM
+- ZB: -2
 - Dauer: Probenergebnis in KR (speziell)
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW verwandelt sich vollständig in Stein, ohne seine Beweglichkeit zu verlieren. Dadurch erhält er +5 PA und zählt als Steinwesen.
 

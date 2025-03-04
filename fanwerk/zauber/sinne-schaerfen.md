@@ -1,18 +1,18 @@
-# Sinne schärfen
+### Sinne schärfen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: 5
-- Kosten: 45
-- Zauberbonus: 0
+- Preis: 45GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Das Ziel erhält während der Wirkungsdauer die halbe Stufe des ZAW auf alle Wahrnehmungswürfe. Außerdem wird die Distanz, ab der sich Fernkampfabzüge durch große Entfernung ergeben, um die halbe Stufe des ZAW erhöht (also meistens 10 + Stufe des ZAW in Metern statt 10 Meter).
 

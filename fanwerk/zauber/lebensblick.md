@@ -1,18 +1,18 @@
-# Lebensblick
+### Lebensblick
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: -
   - Schwarzmagier: 5
-- Kosten: 80
-- Zauberbonus: 0
+- Preis: 80GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW kann die Lebensaura von Kreaturen in Reichweite wahrnehmen, die er sehen kann, und so einen Eindruck von deren Gesundheitszustand erhalten. Allerdings erhält er nur einen relativen Eindruck von deren Lebenskraftsituation, also technisch einen anteiligen oder prozentualen Wert.
 

@@ -1,18 +1,18 @@
-# Wand aus Dunkelheit
+### Wand aus Dunkelheit
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 8
-- Kosten: 930
-- Zauberbonus: 0
+- Preis: 930GM
+- ZB: +0
 - Dauer: VE x 2 Stunden
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erschafft eine senkrechte Fläche aus Dunkelheit von maximal VE Meter x VE Meter Größe.
 

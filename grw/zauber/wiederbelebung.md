@@ -1,18 +1,18 @@
-# Wiederbelebung
+### Wiederbelebung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 650
-- Zauberbonus: 0
+- Preis: 650GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dieser Zauber belebt einen Charakter, der nicht eines natürlichen Todes starb, wieder zum Leben mit 1LK.
 

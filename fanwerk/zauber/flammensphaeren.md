@@ -1,18 +1,18 @@
-# Flammensphären
+### Flammensphären
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 13
-- Kosten: 820
-- Zauberbonus: 0
+- Preis: 820GM
+- ZB: +0
 - Dauer: VE Stunden
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Bei erfolgreicher Zauberprobe bilden sich GEI/2 faustgroße Feuerkugeln, die den ZAW umkreisen und jeweils Licht wie eine Fackel aussenden.
 

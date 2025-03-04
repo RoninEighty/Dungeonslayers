@@ -1,18 +1,18 @@
-# Gedanken lesen
+### Gedanken lesen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: -
-- Kosten: 360
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 360GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE KR
-- Reichweite: VE Meter
-- Abklingzeit: 100 KR
+- Distanz: VE Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-## Beschreibung
+
 
 Der Zauberer kann die unmittelbaren, bewussten Gedanken des Ziels lesen. So kann er diesem unbemerkt Informationen entlocken, indem er beispielsweise durch geschickte Fragen die Gedanken des Ziels auf eben diese Informationen lenkt, oder eine Verhandlung zu seinen Gunsten lenken, indem er die unmittelbaren Wünsche des Ziels liest.
 

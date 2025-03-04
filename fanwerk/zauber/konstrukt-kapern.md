@@ -1,18 +1,18 @@
-# Konstrukt kapern
+### Konstrukt kapern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: -
-- Kosten: 360
-- Zauberbonus: -(KÖR+BE)/2 des Konstrukts
+- Preis: 360GM
+- ZB: -(KÖR+BE)/2 des Konstrukts
 - Dauer: Konzentration
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Bei Erfolg bringt der ZAW ein Konstrukt unter seine Kontrolle, selbst wenn dieses einem anderen ZAW untersteht.
 

@@ -1,18 +1,18 @@
-# Spurt
+### Spurt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 7
   - Schwarzmagier: 7
-- Kosten: 220
-- Zauberbonus: -2
+- Preis: 220GM
+- ZB: -2
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Laufen-Wert des Ziels wird für die Dauer des Zaubers verdoppelt.
 

@@ -1,18 +1,18 @@
-# Verbesserte Magische Waffe
+### Verbesserte Magische Waffe
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 5
   - Schwarzmagier: 8
-- Kosten: 210
-- Zauberbonus: 0
+- Preis: 210GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 1 KR
+- Distanz: Berühren
+- Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der Zauber verleiht einer Waffe einen magischen WB von +VE/2 (min. 1).
 

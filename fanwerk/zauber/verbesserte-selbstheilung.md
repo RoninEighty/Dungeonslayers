@@ -1,18 +1,18 @@
-# Verbesserte Selbstheilung
+### Verbesserte Selbstheilung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 150
-- Zauberbonus: 5
+- Preis: 150GM
+- ZB: +5
 - Dauer: Augenblicklich
-- Reichweite: Selbst
-- Abklingzeit: 0 KR
+- Distanz: Selbst
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Dieser Zauber ist eine mächtigere Version von Selbstheilung, die den ZAW außerdem automatisch von Gift und Krankheit befreit sowie von anderen temporären negativen Effekten und Zaubern, die auf ihm liegen. Der Zauber benötigt ebenfalls nur eine Bewegung.
 

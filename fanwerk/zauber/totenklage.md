@@ -1,18 +1,18 @@
-# Totenklage
+### Totenklage
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 16
-- Kosten: 985
-- Zauberbonus: max. -(KÖR+AU)/2 aller Ziele
+- Preis: 985GM
+- ZB: max. -(KÖR+AU)/2 aller Ziele
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
+
 
 Alle Ziele im Radius der Zauberdistanz um den ZAW herum erleiden Schaden in Höhe des doppelten Probenergebnisses. Der geistig wirkende Schaden kann nur durch einen Wurf auf GEI+AU entsprechend einem Abwehrwurf abgewehrt werden.
 

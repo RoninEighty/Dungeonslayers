@@ -1,18 +1,18 @@
-# Steinwand
+### Steinwand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 14
-- Kosten: 920
-- Zauberbonus: -2
+- Preis: 920GM
+- ZB: -2
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW erschafft eine Steinwand, die Ausmaße von bis zu 1m x VE m x VE m annehmen kann und nicht wieder verschwindet.
 

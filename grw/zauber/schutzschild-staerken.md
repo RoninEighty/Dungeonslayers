@@ -1,18 +1,18 @@
-# Schutzschild stärken
+### Schutzschild stärken
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 230
-- Zauberbonus: 0
+- Preis: 230GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-## Beschreibung
+
 
 Verdoppelt den Bonus auf die Abwehr eines Schutzschild-Zaubers, der bereits auf das Ziel wirkt.
 

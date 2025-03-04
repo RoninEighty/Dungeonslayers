@@ -1,18 +1,18 @@
-# Heimvorteil
+### Heimvorteil
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 15
-- Kosten: 1530
-- Zauberbonus: 0
+- Preis: 1530GM
+- ZB: +0
 - Dauer: VE x 2 Tage
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-## Beschreibung
+
 
 Der ZAW legt eine stationäre Zone fest mit einem Radius von bis zu VE in Metern um ihn herum.
 
