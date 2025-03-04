@@ -26,12 +26,13 @@ find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p
 sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
-BASE_URL=https://ronineighty.github.io/Dungeonslayers
-#BASE_URL=https://fschne.github.io/Dungeonslayers
+#BASE_URL=https://ronineighty.github.io/Dungeonslayers
+BASE_URL=https://fschne.github.io/Dungeonslayers
+#BASE_URL=https://www.f-space.de/ds4srd-neuton
+#BASE_URL=https://www.f-space.de/ds4srd-gelasio
 #BASE_URL=http://localhost/f-space/ds4srd
 
 
-# --table-of-contents \
 # Transform all markdown files into .md.html files
 find . -name "*.md" -exec \
                     pandoc \
@@ -39,6 +40,7 @@ find . -name "*.md" -exec \
                     --from=markdown \
                     --to=html5 \
                     --strip-comments \
+                    --table-of-contents \
                     --data-dir ../_assembly/templates/ \
                     --template ../_assembly/templates/default.html \
                     --metadata title="DS4 SRD+" \
