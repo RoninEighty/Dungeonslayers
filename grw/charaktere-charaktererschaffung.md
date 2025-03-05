@@ -109,7 +109,7 @@ Jeder Charakter erhält, abhängig von Volk und Klasse, zwei Gratispunkte auf se
 
 ### 6. DER ERSTE ZAUBERSPRUCH
 
-[Zauberwirker](charaktere-klasse-zauberwirker.md) erlernen nun Zauberspruch der ersten Stufe. einen Die möglichen [Zaubersprüche](zaubersprueche.md), aus denen man wählen kann, hängen davon ab, ob der Charakter ein [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) oder [Schwarzmagier](charaktere-klasse-schwarzmagier.md) ist:
+[Zauberwirker](charaktere-klasse-zauberwirker.md) erlernen nun einen Zauberspruch der ersten Stufe. Die möglichen [Zaubersprüche](zaubersprueche.md), aus denen man wählen kann, hängen davon ab, ob der Charakter ein [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) oder [Schwarzmagier](charaktere-klasse-schwarzmagier.md) ist:
 
 #### HEILERSPRÜCHE DER 1. STUFE
 
