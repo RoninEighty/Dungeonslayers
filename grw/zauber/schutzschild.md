@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel erhält das Probenergebnis als Bonus auf seine Abwehr, bis die Dauer des Zaubers abgelaufen ist.
 
 ---

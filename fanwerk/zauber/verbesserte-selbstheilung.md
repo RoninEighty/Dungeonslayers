@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Dieser Zauber ist eine mächtigere Version von Selbstheilung, die den ZAW außerdem automatisch von Gift und Krankheit befreit sowie von anderen temporären negativen Effekten und Zaubern, die auf ihm liegen. Der Zauber benötigt ebenfalls nur eine Bewegung.
 
 ---

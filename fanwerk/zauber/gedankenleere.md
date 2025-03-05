@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW und bis zu VE Kameraden im Umkreis von VE Metern werden für die Dauer des Zaubers geistesimmun.
 
 ---

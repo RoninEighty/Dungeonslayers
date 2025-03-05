@@ -12,8 +12,6 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-
-
 Der Zauberwirker erschafft einen Doppelgänger der Zielkreatur mit exakt den gleichen Werten und Fähigkeiten sowie der gleichen Ausrüstung. Allerdings verschwindet sämtliche Ausrüstung des Doppelgängers mit dessen Tod, und magische Ausrüstung funktioniert nur, wenn dieser sie benutzt. Der Doppelgänger ist nur von einem Ziel beseelt: Sein Original zu vernichten. Alle seine Handlungen sind einzig auf diesen Zweck ausgerichtet.
 
 Allerdings muss der Doppelgänger sein Original genau so aufspüren, wie jeder andere das müsste.

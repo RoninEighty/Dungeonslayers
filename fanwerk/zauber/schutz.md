@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel erhält +2 auf seine Abwehr. Weitere Anwendungen von Schutz sind nicht kumulativ.
 
 Ebenso wirkt Schutz nicht mit Minderer Schutz oder Verstärkter Schutz zusammen - der höhere Bonus zählt.

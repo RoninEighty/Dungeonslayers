@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Die Körpergröße des freiwilligen Ziels - samt seiner Ausrüstung - verdoppelt sich augenblicklich. Charaktere nehmen die Größenkategorie "groß" (sh. GRW S. 104) an.
 
 Für die Dauer des Zauberspruchs werden KÖR, ST und HÄ sowie Laufen verdoppelt.

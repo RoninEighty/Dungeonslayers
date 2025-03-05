@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW streicht mit der Hand über eine Seite eines Schriftstücks und sogleich über eine leere Seite von ungefähr gleicher Größe, auf der somit ein exaktes Abbild der zuerst berührten Seite erscheint.
 
 Handelt es sich bei der zuerst berührten Seite um eine magische Schriftrolle, wird sie zwar funktionsfähig auf die neue Seite übertragen, aber von der ursprünglichen Rolle verschwindet sämtlicher Text.

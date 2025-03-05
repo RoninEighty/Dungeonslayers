@@ -12,8 +12,6 @@
 - Abklingzeit: 5 Kampfrunden
 - Art: Zaubern
 
-
-
 Die Waffe des Zieles beginnt vor Magie an zu flirren. Solange der Zauber wirkt fügt die Waffe des Verzauberten keinen Schaden an den LK des Gegners zu.
 
 Gegner werfen ganz normal Abwehr gegen Angriffe mit dieser Waffe. 50% des Schadens, der per Schlagen im Nahkampf verursacht (also abzüglich des Abwehrwurfs des Gegners) würde, wird stattdessen von den Manapunkten des Feindes abgezogen und auf die eigene Manakraft gutgeschrieben.

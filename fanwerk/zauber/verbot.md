@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Das Ziel kann eine bestimmte Handlung, die vom ZAW bestimmt wird, für den Zeitraum des Zaubers nicht ausführen, es sei denn, die verbotene Handlung nicht auszuführen würde das Leben des Ziels gefährden. In diesem Fall endet der Zauber automatisch.
 
 ---

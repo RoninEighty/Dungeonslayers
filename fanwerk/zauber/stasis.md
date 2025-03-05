@@ -12,8 +12,6 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-
-
 Das berührte Objekt oder freiwillige oder bewusstlose Lebewesen wird in der Zeit eingefroren. In diesem Zustand ist es völlig unberührt von jeglichen äußeren Einwirkungen, erhält keinen Schaden, ist unbeeinflusst von Magieeinwirkung etc. und kann lediglich bewegt werden wie ein ganz normaler Gegenstand von entsprechendem Gewicht.
 
 Beim Wirken des Zaubers kann der ZAW die Dauer beliebig begrenzen oder auch ein Befehlswort oder eine Bedingung festlegen, die die Stasis beenden.

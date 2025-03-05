@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Mit diesem Zauber kann versucht werden, die Abklingzeit eines zuvor (innerhalb der letzten VE Kamfprunden) erfolgreich gewirkten Zauberspruchs wieder auf Null zu senken.
 
 Misslingt die Probe, kann man den Zauberabklang bei diesem speziellen Zauberspruch erst wieder versuchen, wenn der ZAW ihn abermals gewirkt hat.

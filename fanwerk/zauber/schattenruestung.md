@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Das anvisierte Rüstungsteil wabert mit rauchartiger übler Dunkelheit.
 
 Die folgenden Effekte gelten nur, wenn ein Charakter mit dem Talent Diener der Dunkelheit die Rüstung trägt: Für die Dauer des Zauberspruchs wird die PA der Rüstung um +1 erhöht. Dies ist ein magischer Bonus. Jedesmal, wenn der Träger erfolgreich Abwehr würfelt, sinkt die Abwehr seines Gegners um -1 gegen seinen nächsten Angriff (-1 für jedes weitere Rüstungsteil, das separat mit Schattenrüstung verzaubert wurde).

@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Alle laufenden Abklingzeiten des Ziels werden um eine Kampfrunde pro Probenergebnis verlängert.
 
 ---

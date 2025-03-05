@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Sobald sich während der Wirkungsdauer ein anderes humanoides Wesen als der ZAW der berührten Stelle auf weniger als 2 Meter nähert, erklingt von dieser eine Botschaft nach Vorgabe des ZAW, gesprochen in dessen Stimme und in einer Sprache, die er kennt, mit einer Länge von bis zu Stufe des ZAW x 10 Wortsilben.
 
 Der ZAW kann den Zauber entweder so wirken, dass die Rätselstimme permanent wirkt und jedes Mal ausgelöst wird, wenn sich ein humanoides Wesen ausreichend annähert.

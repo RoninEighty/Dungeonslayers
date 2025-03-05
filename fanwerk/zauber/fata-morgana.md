@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW erschafft eine riesige Illusion in einem würfelförmigen Bereich von bis zu VE x 10 Metern Kantenlänge. Nur gleichförmige oder wiederholende Bewegungen sind möglich: z.B. fließendes/tropfendes Wasser, Feuer, usw. Für Geräusche gilt: Der ZAW kann die Illusion mit Geräuschen ausstatten, sie müssen einfach sein und kontinuierlich. z.B.: Rauschen, Plätschern, usw. Auch Gemurmel ist möglich, aber keine erkennbaren Worte.
 
 In erster Linie ist der Zauber dazu gedacht Strukturen/Gelände darzustellen. Diese können bsplsw. Deckung/Versteckmöglichkeiten bieten, oder Gegner verwirren.

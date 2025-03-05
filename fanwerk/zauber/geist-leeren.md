@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Das Ziel wird von allen geistesbeeinflussenden Effekten, die es betreffen, befreit.
 
 ---

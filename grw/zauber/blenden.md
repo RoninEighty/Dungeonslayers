@@ -12,8 +12,6 @@
 - Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
 
-
-
 Ein gleißender Lichtstrahl schießt aus der Hand des ZAW und blendet bei Erfolg das Ziel (welches dagegen keine Abwehr würfeln darf).
 
 Ein geblendetes Ziel hat -8 auf alle Handlungen, bei denen es sehen können sollte.

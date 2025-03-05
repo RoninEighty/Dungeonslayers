@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel erhält die VE des ZAW auf seine Abwehr gegen alle Angriffe durch Wesen und Diener der Dunkelheit sowie gegen schädigende Schattenzauber und -effekte. Außerdem kann das Ziel selbst in völliger Dunkelheit 5 Meter weit sehen.
 
 ---

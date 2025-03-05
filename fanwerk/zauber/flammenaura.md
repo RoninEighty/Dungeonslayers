@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW umgibt sich selbst mit einer Wolke lodernder Flammen, die ihm selbst keinen Schaden zufügt und die Umgebung wie ein Lagerfeuer erhellt. Alle Kreaturen im Umkreis von GEI/2 Metern erhalten jede Runde 1W20 abwehrbaren Schaden.
 
 Kreaturen, die den ZAW ihm Nahkampf angreifen, erhalten zusätzlich 1W20 nicht abwehrbaren Schaden.

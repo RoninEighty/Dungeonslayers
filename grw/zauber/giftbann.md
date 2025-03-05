@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Neutralisiert augenblicklich ein nichtmagisches Gift, sofern es noch nicht zu spät ist.
 
 ---

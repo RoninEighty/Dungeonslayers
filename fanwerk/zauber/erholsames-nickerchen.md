@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Das freiwillige (oder bewusstlose) Ziel versinkt für 1 Stunde in tiefen, erholsamen Schlaf. Bewusstlose Charaktere mit weniger als 1 LK werden bei Wirken des Zaubers augenblicklich auf 1 LK geheilt. Nach 1 Stunde erwacht das Ziel und darf seinen natürlichen Heilwurf für diesen Tag machen mit einem Bonus, als hätte es 8 Stunden geschlafen.
 
 Sämtliche laufende Abklingzeiten des Ziels werden ebenfalls um 8 Stunden gesenkt.

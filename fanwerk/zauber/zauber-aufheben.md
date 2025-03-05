@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW bannt den mächtigsten Zauber oder magischen Effekt, der auf das Ziel des Zaubers wirkt.
 
 Die Probe wird durch die Stufe des Wirkers, der diesen Zauber auf das Ziel gelegt hat, gemindert.

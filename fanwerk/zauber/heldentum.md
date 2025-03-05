@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW und bis zu VE x2 Kameraden in VE x 2 Meter Umkreis werden von Heldenmut erfüllt.
 
 Für die Dauer des Zauberspruchs erhalten sie auf alle Proben einen PW-Bonus von +3.

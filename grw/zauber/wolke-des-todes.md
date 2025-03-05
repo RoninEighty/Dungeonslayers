@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Eine schwarze, qualmende Wolke des Todes mit einem Radius von maximal VE in Metern entsteht.
 
 Zwar ist die Wolke nicht undurchsichtig, dennoch werden Angriffe gegen Ziele darin um 2 erschwert, gleichsam erhalten alle innerhalb der Wolke -2 auf alle Proben, bei denen man besser sehen können sollte.

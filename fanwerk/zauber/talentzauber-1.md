@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW verleiht dem berührten Charakter einen zusätzlichen Talentrang. Handelt es sich dabei um ein Talent, das dieser beherrscht (und von dem der ZAW weiß, dass er es beherrscht), bleibt die Zauberprobe unmodifiziert.
 
 Möchte der ZAW ein Talent verleihen, das die Zielperson noch nicht beherrscht, aber von ihrer Klasse und Stufe her lernen könnte, ist die Zauberprobe um -2 erschwert.

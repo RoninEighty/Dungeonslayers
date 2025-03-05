@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW erschafft einen kleinen, magischen Diener, der für ihn unglaublich flink putzt, aufräumt und packt.
 
 Ansonsten ist der Putzteufel völlig unütz, befolgt keine andersartigen Befehle und verpufft bei Schaden.

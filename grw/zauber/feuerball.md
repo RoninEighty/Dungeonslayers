@@ -12,10 +12,7 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der ZAW schießt einen flammenden Ball auf seine Gegner, der in einer feurigen Explosion - ihr Radius entspricht der VE des ZAW in Metern - endet, welche nicht abwehrbaren Schaden in Höhe des Probenergebnisses verursacht.
-
 
 ---
 

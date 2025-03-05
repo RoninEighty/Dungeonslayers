@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Bei Erfolg bringt der ZAW eine maximale Anzahl untoter Ziele gleich seiner Stufe unter Kontrolle, selbst wenn diese einem anderen ZAW unterstehen.
 
 Bei zu vielen Untoten entscheidet der Zufall, welche durch den Zauber betroffen sind.

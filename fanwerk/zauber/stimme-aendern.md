@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Zauber verändert die Stimme des Ziels, um sie entweder einer Stimme anzugleichen, die der ZAW schon einmal gehört hat und so eine Verkleidung zu perfektionieren, um sie angenehmer oder um sie unangenehmer klingen zu lassen. In letzteren beiden Fällen erleichtert bzw. erschwert der Zauber alle sozialen Proben um 2.
 
 Auf ein freiwilliges Ziel gewirkt, hat der Zauber einen ZB von +0.

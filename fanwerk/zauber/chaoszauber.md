@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-
-
 Details sh. Grimmoire 5 S. 3/4
 
 ---

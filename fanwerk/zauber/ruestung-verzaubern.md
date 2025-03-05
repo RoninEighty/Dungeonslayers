@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Das verzauberte Rüstungsteil wird magisch, erhält PA +1 und behindert nicht beim Wirken von Zaubern.
 
 ---

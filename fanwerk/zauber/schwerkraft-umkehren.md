@@ -12,8 +12,6 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-
-
 Der ZAW erschafft eine zylindrische Zone um sich herum mit bis zu VE Metern Radius und einer Höhe von bis zu VE x 2 Metern, in der die Schwerkraft umgekehrt ist und alles nach oben fällt. Dinge, die an einer Decke oder ähnlichem landen, erleiden entsprechenden Fallschaden. Ansonsten bleibt alles auf maximaler Höhe in der Schwebe.
 
 Nach Ablauf der Zauberdauer endet der Zauber abrupt.

@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Bei erfolgreicher Zauberprobe bilden sich GEI/2 faustgroße Feuerkugeln, die den ZAW umkreisen und jeweils Licht wie eine Fackel aussenden.
 
 Sie beeinträchtigen den ZAW in keiner Weise und können ihm selbst keinen Schaden zufügen, kreisen aber auch zu langsam, um ihm irgendwelchen Schutz oder Deckung zu bieten. Die Sphären lösen sich nach Ablauf der Zauberdauer auf, es sei denn der ZAW setzt sie ein.

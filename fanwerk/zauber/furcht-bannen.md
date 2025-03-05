@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Jegliche Furcht- oder Angsteffekte, die auf dem Ziel liegen, werden augenblicklich gebannt.
 
 ---

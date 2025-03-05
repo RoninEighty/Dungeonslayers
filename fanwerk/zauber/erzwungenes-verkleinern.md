@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der Zauber wirkt genau wie Verkleinern, nur dass das Ziel nicht freiwillig sein muss
 
 ---

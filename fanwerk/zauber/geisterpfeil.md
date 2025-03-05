@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der Zauber verschießt einen geisterhaft glühenden und auf unheimliche Weise heulenden Energiepfeil auf das Ziel.
 
 Der Pfeil macht Schaden entsprechend dem Probenergebnis der Zauberprobe und ignoriert physische Rüstungen (auch natürliche oder PA-Boni durch Keine feste Gestalt) inklusive ihres Verzauberungsbonus sowie Schutzschild.

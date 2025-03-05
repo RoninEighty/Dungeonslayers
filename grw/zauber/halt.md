@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Bei Erfolg kann sich das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, nicht mehr bewegen.
 
 Die Starre endet vorzeitig, sollte das Ziel Schaden erhalten. Während der Starre ist es dem Ziel möglich, die Augen zu bewegen, zu atmen und klar zu denken. Ein erstarrter ZAW könnte also immer noch seine Zauber wechseln oder gar versuchen, ohne Worte und Gesten (sh. GRW S. 47) einen Zauber zu wagen.

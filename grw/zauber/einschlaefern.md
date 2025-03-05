@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Dieser Zauber schläfert eine maximale Anzahl von Zielen gleich der Stufe des ZAW ein. Es handelt sich dabei um einen natürlichen Schlaf, aus dem man durch Kampflärm u.ä. erwachen kann.
 
 ---

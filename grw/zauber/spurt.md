@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Laufen-Wert des Ziels wird für die Dauer des Zaubers verdoppelt.
 
 ---

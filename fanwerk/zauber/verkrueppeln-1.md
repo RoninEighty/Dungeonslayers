@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der ZAW verkrüppelt permanent ein Körperglied des Ziels. Der genaue Effekt hängt davon ab, welche Art von Körperglied verkrüppelt wird und wie viele davon das Ziel hat.
 
 <u>Beine</u>: Hat das Ziel mehr als vier Beine, hat Verkrüppeln keinen Effekt, da die Kreatur ausreichend kompensieren kann.

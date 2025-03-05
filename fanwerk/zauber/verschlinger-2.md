@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Alternativ kann der Verschlinger auch leblose Objekte von einem Gesamtgewicht von bis zu etwa der Hälfte seiner eigenen Körpermasse in seinem Leib verstauen.
 
 Nur um diese nach Ablauf der Zauberdauer wieder hervorzuholen, muss der Zauber evtl. ein weiteres Mal auf die Kreatur gewirkt werden. Solange sich etwas in Schlund oder Leib des Verschlingers befindet, endet der Zauber nämlich nicht vollständig. Nur der Bissangriff und die Fähigkeit zum Verschlingen gehen verloren, nicht aber die Fähigkeit, Verschlungenes im Leib zu behalten.

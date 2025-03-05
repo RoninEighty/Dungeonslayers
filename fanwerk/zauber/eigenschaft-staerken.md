@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel erhält +3 auf eine Eigenschaft nach Wahl des ZAW.
 
 Weitere Anwendungen von Eigenschaft Stärken können weitere Eigenschaften erhöhen, sind aber auf die gleiche Eigenschaft angewandt nicht kumulativ.

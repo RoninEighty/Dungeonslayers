@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW beschwört einen schwebenden Schild aus Sand. Das Ziel erhält für die Dauer des Zaubers das Probenergebnis als Bonus auf seine Abwehr.
 
 ---

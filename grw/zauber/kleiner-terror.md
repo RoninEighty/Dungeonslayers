@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Bei Erfolg fliehen betroffene Ziele - maximal eine Anzahl gleich der halbierten Stufe des ZAW - so schnell wie möglich in panischer Angst und können erst nach Ablauf der Zauberdauer wieder umkehren. Der Effekt endet bei jedem Fliehenden, der Schaden erleidet.
 
 ---

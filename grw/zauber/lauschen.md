@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW kann sein Hörzentrum an einen bis zu VE x 5 m entfernten Punkt verlagern (eine klare Sichtlinie vorausgesetzt) und vernimmt dadurch alles, was dort zu hören ist, als würde er sich dort befinden.
 
 Dieser Punkt kann eine freie Stelle im Raum sein oder auch ein Kleidungsstück des Belauschten.

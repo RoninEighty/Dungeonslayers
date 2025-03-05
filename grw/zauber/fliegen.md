@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel kann fliegen. Die Fortbewegungsgeschwindigkeit ist im Flug doppelt so hoch wie am Boden (zusätzlich kann man sie wie beim "Rennen" verdoppeln).
 
 Ein Charakter mit Laufen 4,5m fliegt also 9m in einer KR, "rennend" 18m.

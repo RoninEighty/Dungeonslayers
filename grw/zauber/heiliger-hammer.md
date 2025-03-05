@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Ein Hammer aus hellem Licht erscheint innerhalb eines Radius von VE in Metern um den Heiler herum.
 
 Innerhalb dieses Wirkungsbereiches kämpft er völlig selbstständig, hört jedoch auf gedankliche Kampfkommandos des ZAW wie "Halte den Dämon auf" oder "Helfe dem Paladin".

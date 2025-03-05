@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Das Ziel erhält -3 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 
 Ebenso wirkt Mächtiges Ablenken nicht mit Ablenken, Wolke der Ablenkung, Verbessertes Ablenken und Großes Ablenken - der höhere Abzug zählt.

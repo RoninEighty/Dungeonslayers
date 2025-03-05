@@ -12,8 +12,6 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-
-
 Das Ziel des Zaubers wird auf der Stelle wahnsinnig und zu einem sabbernden Schwachsinnigen, dessen Geist fortan auf 0 gesenkt ist.
 
 Nur der Zauberspruch Allheilung kann diesen Effekt bannen, wofür pro wiederherzustellenden Punkt in GEI der Spruch jeweils einmal auf das Ziel angewendet werden muss.

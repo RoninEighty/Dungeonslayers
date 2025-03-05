@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Die verzauberte Waffe beginnt in grünlichem Licht zu leuchten, erhält +1 auf den WB und zählt als magisch. Zusätzlich erhält ihr Träger durch jeden Immersieg bei einem Angriff mit der Slayerwaffe einen zusätzlichen Slayerpunkt.
 
 Offensichtlich ist der Einsatz dieses Zaubers nur beim Spiel mit Slayerpunkten sinnvoll, es sei denn, der SL lässt den Zauber als einzige Möglichkeit zu, Slayerpunkte zu erhalten.

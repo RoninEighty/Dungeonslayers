@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Das Ziel erhält 1 LK nicht abwehrbaren Schaden, wenn es während der Wirkungsdauer nicht innerhalb einer Runde wahrheitsgemäß auf eine an es gerichtete Frage antwortet. Die Wahrheit stellt sich dabei aus Sicht und Kenntnisstand des Ziels dar.
 
 Der Schaden entsteht üblicherweise in Form kreisrunder Wundmale im Leib des Ziels.

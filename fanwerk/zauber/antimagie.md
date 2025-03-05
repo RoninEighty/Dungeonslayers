@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der Zauber erzeugt ein VE Meter x VE Meter x VE Meter großes Gebiet, in dem sämtliche Magie unterdrückt wird.
 
 Zauber, die in diesem Gebiet oder in dieses Gebiet hinein gewirkt werden, schlagen automatisch fehl, Teile eines Wirkungsbereichs, die mit der Antimagie überlappen, werden von dem Effekt des Wirkungsbereichs ausgenommen.

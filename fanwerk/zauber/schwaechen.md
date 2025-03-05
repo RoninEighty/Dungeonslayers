@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel erhält -1 auf Schlagen und Schießen. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 
 Ebenso wirkt Schwächen nicht mit Wolke der Schwäche, Verbessertes Schwächen, Mächtiges Schwächen und Großes Schwächen - der höhere Abzug zählt.

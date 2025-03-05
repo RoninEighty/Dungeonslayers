@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW kann auf einer beliebigen Oberfläche eine Nachricht erscheinen lassen, die bis zu VE x 10 Schriftzeichen umfassen kann (max. 140).
 
 Diese erscheint augenblicklich aus seinem Kopf auf die Oberfläche übertragen und verblasst direkt nach Wirken des Spruchs optisch. Sie bleibt jedoch magisch und kann von ZAWn mit GEI+AU erspürt und mit GEI+VE als Zauberzeichen-Botschaft erkannt werden.

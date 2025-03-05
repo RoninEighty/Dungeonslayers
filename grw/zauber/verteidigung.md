@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel erhält das Probenergebnis als Bonus auf seine Abwehr, bis der ZAW in der nächsten Kampfrunde wieder an der Reihe ist.
 
 ---

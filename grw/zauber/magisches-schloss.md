@@ -12,8 +12,6 @@
 - Abklingzeit: 5 Kampfrunden
 - Art: Zaubern
 
-
-
 Dieser Zauber verschließt auf magische Weise eine Klappe, Truhe, Tür oder ähnliche Öffnung.
 
 Das Probenergebnis stellt die Erschwernis dar, um dieses Schloss zu öffnen (ob nun mit einem Dietrich, roher Gewalt oder Magie), nur der ZAW selbst kann es ohne Probleme öffnen.

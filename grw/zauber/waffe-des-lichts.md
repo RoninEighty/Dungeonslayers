@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Die anvisierte Waffe erstrahlt mit der heiligen Kraft des Lichts.
 
 Die folgenden Effekte gelten nur, wenn ein Charakter mit dem Talent Diener des Lichts die Waffe benutzt: Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht und ihr Schaden gilt als magisch.

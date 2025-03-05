@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Dieser Zauberspruch erzeugt kleine, unschädliche Illusionen. Beispielsweise kann der ZAW schwebende Bälle zaubern oder die Illusion eines Kaninchens aus einem Hut ziehen.
 
 ---

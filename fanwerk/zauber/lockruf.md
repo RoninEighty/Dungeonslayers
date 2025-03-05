@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Das betroffene Ziel ist von dem Verlangen erfüllt, in der Nähe des ZAW zu sein und eilt schnellstmöglich zu ihm, wobei es jegliche Gefahren ignoriert, Hindernisse nach Möglichkeit umgeht, aber wenn nötig rücksichtslos zerstört. Hat es den ZAW erreicht, tut es nichts außer untätig bei ihm herumzustehen, es sei denn der ZAW bewegt sich. Dann folgt ihm das Ziel nach bestem Vermögen.
 
 Der Zauber endet vorzeitig, wenn das Ziel Schaden erleidet.

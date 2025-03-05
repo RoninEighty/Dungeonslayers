@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der ZAW schießt eine komprimierte Sandkugel auf seine Gegner, die in einer Explosion (Radius = VE des ZAW in Metern) endet, welche nicht abwehrbaren erd-basierenden Schaden in Höhe des Probenergebnisses verursacht. Fällt bei der Zauberprobe außerdem ein Immersieg, sind alle Ziele für eine Runde geblendet wie durch den Zauber Blenden, weil sie Sand in die Augen bekommen haben.
 
 ---

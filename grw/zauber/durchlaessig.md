@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW wird mit samt seiner getragenen Ausrüstung durchlässig und kann für VE/2 KR durch nichtmagische, unbelebte Objekte schreiten.
 
 ---

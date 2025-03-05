@@ -12,8 +12,6 @@
 - Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der Zaubernde erhält 50% des verursachten Schadens (also abzüglich des Abwehrwurfs des Gegners) in Form von heilender Magie auf seine LK gutgeschrieben.
 
 ---

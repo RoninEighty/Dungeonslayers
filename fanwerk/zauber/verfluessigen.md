@@ -12,11 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Das Ziel - mitsamt seiner getragenen Ausrüstung - wird zu einer fleischfarbenen (Blutmagier: blutroten / Elementarist: farblosen) Flüssigkeit und kann durch jede noch so kleine Öffnung kriechen. Das Ziel kann jederzeit die Wirkung des Zaubers als freie Aktion beenden und die Umgebung normal wahrnehmen.
-
-
 
 Details sh. Grimmoire 5 S. 14
 

@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW erkennt VE/2 Talente des Ziels, angefangen mit jenen, in denen das Ziel die meisten Ränge besitzt.
 
 Bei einem Gleichstand entscheidet der Spielleiter, welches der ZAW sieht.

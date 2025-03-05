@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Die verzauberte Metallklinge wird pechschwarz und eingehüllt in zuckende, purpurne Energie. Für die Dauer des Zauberspruchs erhöht sich ihr WB um +1, und die Waffe gilt als magisch. Bei einem Immersieg verliert ein getroffenes Wesen 1 Punkt KÖR (bei KÖR 0 ist das Opfer tot).
 
 Pro Tag oder Anwendung des Zaubers Allheilung wird 1 Attributspunkt wieder hergestellt.

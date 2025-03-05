@@ -12,10 +12,7 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der ZAW schießt einen Feuerstrahl auf einen Feind, dessen Schaden dem Probenergebnis entspricht.
-
 
 ---
 

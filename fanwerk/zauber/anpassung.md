@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW und VE x 2 Gefährten in VE x 2 Meter Radius werden immun gegen ungünstige Umweltbedingungen wie zum Beispiel extreme Hitze oder Kälte (siehe. GRW S. 85), aber auch gegen andere Umweltbedingungen wie extremer Druck, fehlende oder giftige Atmosphäre, aquatische Umgebung, Strahlung, extreme Helligkeit, Lavahitze etc.
 
 In Umweltbedingungen, die unmittelbar tödlich wären, sinkt die Wirkungsdauer der Anpassung alle 10 Minuten um eine Stunde.

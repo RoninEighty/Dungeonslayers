@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW bringt eine etwa handflächengroße Glyphe auf einer Oberfläche an, in die er einen Zielzauber von maximal seiner Stufe -5 einbinden kann. Er muss diesen Zauber nicht sprechen, aber erfolgreich zu diesem wechseln, während er die Glyphe berührt.
 
 Der so eingebundene Zielzauber wird auf die nächste Kreatur ausgelöst, die sich in seine Reichweite des Zielzaubers begibt.

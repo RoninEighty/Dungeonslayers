@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Beauftragt ein geisterhaftes Abbild des Zaubernden bei einem ihm bekannten Wesen in Reichweite zu erscheinen und bis zu VE x 2 Wortsilben zu zitieren.
 
 ---

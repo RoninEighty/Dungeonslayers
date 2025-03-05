@@ -12,11 +12,7 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der Zauber erschafft eine je bis zu GEI/2 Meter hohe und breite Wasserwand, die vom ZAW ausgehend eine gerade Schneise der Verwüstung mit einer Länge von VE x 2 Metern zieht.
-
-
 
 Details sh. Grimmoire 5 S. 15
 

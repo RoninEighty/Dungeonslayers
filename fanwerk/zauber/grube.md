@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Erschafft in Reichweite eine Grube mit einer Kantenlänge von GEI des ZAW/2 in Metern und mit einer Tiefe in Metern gleich dem Probenergebnis. Die Grube ist mit einer Illusion getarnt, wodurch sie einen TW entsprechend dem VE des ZAW hat. Der ZAW kann die Tarnung auf Wunsch weglassen.
 
 Bei der Grube handelt es sich um einen extradimensionalen Raum, sie kann also auch auf Oberflächen geöffnet werden, auf denen eigentlich keine Grube möglich wäre (z.B. weil sich darunter ein weiteres Stockwerk befindet). Das heißt, dass die Grube auch keine Zugänge zu tieferliegenden Räumlichkeiten öffnet.

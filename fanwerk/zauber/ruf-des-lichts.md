@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Heilige Worte des Lichts ausstoßend, fügt der Heiler Wesen und Dienern der Dunkelheit im Umkreis von VE Metern Schaden zu in Höhe des doppelten Probenergebnisses. Betroffene Wesen würfeln ihre Abwehr ohne Panzerungsboni ihrer Gegenstände.
 
 Außerdem fliehen alle Wesen, die Schaden erleiden, für eine Runde wie unter Einfluss des Zaubers Terror - selbst wenn sie geistesimmun sind! Der Zauber kann niemals wortlos gewirkt werden und ist wirkungslos gegen Wesen, die nichts hören können.

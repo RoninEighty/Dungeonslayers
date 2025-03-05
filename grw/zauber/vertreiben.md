@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Vertreibt eine Anzahl von Untoten im Wirkungsbereich gleich der halbierten Stufe des ZAW.
 
 Für die Dauer der Vertreibung ziehen sich die Untoten so schnell wie möglich von dem ZAW zurück bis auf eine Distanz von Probenergebnis x 5m.

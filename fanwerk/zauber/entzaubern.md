@@ -12,8 +12,6 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-
-
 Der berührte Gegenstand verliert augenblicklich und dauerhaft jegliche innewohnende Magie. Der Zauber wirkt nicht auf Artefakte, die durch das Wirken höherer Mächte geschaffen wurde.
 
 Tatsächlich kann es zu unerwarteten Rückschlageffekten nach Maßgabe des Spielleiters kommen, wenn man versucht, derartige Gegenstände zu entzaubern.

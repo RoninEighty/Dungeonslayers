@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW erschafft ein unbewegliches, würfelförmiges Kraftfeld mit einer Größe von maximal VE/2 mÂ³, welches sämtliche Magie- und Zaubersprucheffekte nach innen und außen hin komplett abblockt.
 
 Weder Feuerbälle, noch Lauschen- oder Teleport-Zauber können diese magische Barriere durchbrechen.

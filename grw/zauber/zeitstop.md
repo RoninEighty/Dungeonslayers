@@ -12,8 +12,6 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-
-
 Der ZAW hält die Zeit an, bis die Zauberdauer endet oder er Schaden verursacht bzw. selber erleidet.
 
 Andere Objekte und Lebewesen können nicht bewegt werden - sie sind starr in der Zeit eingefroren.

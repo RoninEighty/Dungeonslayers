@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW erhält +1 WB, wenn er waffenlos angreift. Der Abwehrbonus für Gegner auf waffenlose Angriffe entfällt.
 
 Der verursachte Schaden gilt als magisch und verletzt auch körperlose Wesen wie z.B. Geister.

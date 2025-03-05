@@ -12,8 +12,6 @@
 - Abklingzeit: 3 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Zauberwirker wird für jede eingesetzte Blutprobe, die er dabei verbraucht, um 2 LK geheilt.
 
 ---

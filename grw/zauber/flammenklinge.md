@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der ZAW kann eine Metallklinge in lodernde Flammen hüllen.
 
 Dabei handelt es sich um ein magisches Feuer, das keinen Sauerstoff benötigt und dessen Flammenfarbe der ZAW frei bestimmen kann.

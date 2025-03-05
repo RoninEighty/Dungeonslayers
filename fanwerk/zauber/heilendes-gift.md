@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Zauber verwandelt eine Dosis Gift in eine heilsame Substanz (es genügt, das Gefäß zu berühren, das es enthält), die bei Einnahme in genau der gleichen Weise und Menge heilt, wie das Gift Schaden gemacht hätte (wobei eventuelle Abwehrwürfe natürlich unnötig sind).
 
 Handelt es sich bei dem Gift um ein Lähmungsgift, wirkt es nach Behandlung mit dem Zauber für die Wirkungsdauer des Giftes wie ein Schnelligkeitstrank (GRW, S. 91). Ein Schlafgift wirkt statt dessen wie ein Wachsamkeitstrank (GRW, S. 91).

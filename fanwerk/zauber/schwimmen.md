@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Dieser Zauber wandelt Beine in funktionierende Flossen um, so dass das verzauberte Wesen mit seinem normalen Laufen-Wert schwimmen kann.
 
 Die Extremitäten bleiben jedoch effektiv Beine, die Landfortbewegung des Ziels wird also nicht beeinträchtigt.

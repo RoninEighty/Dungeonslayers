@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW verwandelt sich vollständig in Eisen, ohne seine Beweglichkeit zu verlieren. Dadurch erhält er +8 PA und zählt als Metallwesen.
 
 Allerdings zählt dieser PA-Bonus als physische und klassenfremde Rüstung, die entsprechend mit seinen Zauberfähigkeiten verrechnet wird. Einzig für Elementaristen und für Charaktere, die Plattenrüstung tragen dürfen, zählt die Panzerung nicht als klassenfremd.

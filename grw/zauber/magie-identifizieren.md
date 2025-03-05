@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-
-
 Offenbart dem ZAW die Quelle und/oder Funktion der Magie eines Objektes oder einer Örtlichkeit.
 
 ---

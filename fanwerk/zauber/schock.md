@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der ZAW schießt einen Blitzstrahl auf einen Feind, dessen Schaden dem Probenergebnis entspricht. Gegner in Metallrüstung erhalten einen GA-Malus von -5 bei ihrem Abwehrwurf gegen Blitzschaden.
 
 ---

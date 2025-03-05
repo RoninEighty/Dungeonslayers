@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW eignet sich vorrübergehend das Wissen um einen Zauber an, der nicht in seinem eigenen Spruchrepertoire zur Verfügung steht.
 
 Dabei kann es sich um einen Zauber bis zur 15. Stufe handeln, wenn er auf der Spruchliste der eigenen Klasse steht.

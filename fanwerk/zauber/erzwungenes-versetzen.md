@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Dieser Zauber wirkt genau wie Versetzen, allerdings muss das Ziel nicht freiwillig sein.
 
 ---

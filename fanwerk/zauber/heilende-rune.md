@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Heiler hinterlässt an einer festen Oberfläche eine deutlich sichtbare glühende persönliche Rune, und er kann beim Wirken bis zu VE/2 Verbündete benennen, die die Rune auslösen können.
 
 Alternativ kann er auch ein Befehlswort festlegen, so dass jeder, der dieses ausspricht, die Rune auslöst.

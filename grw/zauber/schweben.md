@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel kann statt zu laufen auch lotrecht hoch und runter schweben.
 
 Der Laufen-Wert beim Schweben ist dabei genau so hoch, wie am Boden (man kann im Schweben nicht rennen).

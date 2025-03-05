@@ -12,8 +12,6 @@
 - Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
 
-
-
 Bei Erfolg darf das Ziel keine Abwehr gegen den Zauber würfeln. Es verliert 50% seiner aktuellen LK, zeitgleich bekommt aber auch der Zauberwirker dieselbe Anzahl Punkte an LK als nicht abwehrbaren Schaden.
 
 ---

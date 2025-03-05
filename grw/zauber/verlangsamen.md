@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Dieser Zauber halbiert den Laufen-Wert von einer maximalen Anzahl von Zielen gleich der halbierten Stufe des ZAW.
 
 ---

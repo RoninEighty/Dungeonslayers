@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Alle Gegner im Umkreis von VE m um das Ziel herum erhalten -1 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 
 Ebenso wirkt Wolke der Ablenkung nicht mit Ablenken, Verbessertes Ablenken, Mächtiges Ablenken und Großes Ablenken - der höhere Abzug zählt.

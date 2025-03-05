@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dies ist eine mächtigere Version des Zaubers Geisterpfeil.
 
 ---

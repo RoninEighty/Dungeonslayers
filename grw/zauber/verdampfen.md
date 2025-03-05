@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-
-
 Das Ziel beginnt vor magischer Hitze regelrecht zu verdampfen.
 
 Der innerlich wirkende Schaden entspricht dem dreifachen Probenergebnis, das Ziel würfelt seine Abwehr ohne die Panzerungsboni von seinen Gegenständen.

@@ -12,11 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 In einem Bereich mit einem Radius von bis zu 3 Metern sprießen VE Ranken aus dem Boden. Je nach Naturell des ZAW sind die Ranken saftig grün bis ölig schwarz.
-
-
 
 Details sh. Grimmoire 2 S. 11/12
 

@@ -12,8 +12,6 @@
 - Abklingzeit: W20 Tage
 - Art: Zielzauber
 
-
-
 Der ZAW kann jegliche Gewässer teilen und eine 1m breite Schneise bis zum Grund in sie schlagen, ihre Länge einzig und allein begrenzt durch den Entfernungsmalus auf Zielzauber (sh. GRW S. 43).
 
 Wird der Zauber gegen flüssige Wesen wie beispielsweise Wasserlementare eingesetzt, entspricht das Wurfergebnis nicht abwehrbarem Schaden, während die Zauberdauer nur noch augenblicklich ist.

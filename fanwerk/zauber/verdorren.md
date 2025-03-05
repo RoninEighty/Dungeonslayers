@@ -12,8 +12,6 @@
 - Abklingzeit: 5 Kampfrunden
 - Art: Zaubern
 
-
-
 In einer 1m breiten geraden Schneise, die bis zum Ende der Wirkungsdistanz reicht, verdorrt alles pflanzliche Leben. Unterholz behindert keine Bewegung mehr, Büsche bieten keine Deckung oder Versteckmöglichkeiten mehr, Bäume werden kahl und morsch und können mit relativ geringem Aufwand gefällt werden.
 
 Wesen des Kreaturentyps Pflanze im Wirkungsbereich erhalten nicht abwehrbaren Schaden in Höhe des Probenergebnisses.

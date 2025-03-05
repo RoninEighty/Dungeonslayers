@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der Zauberwirker kann eine Waffe in die Dornenranken einer magischen Pflanzen hüllen.
 
 Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht und ihr Schaden gilt als magisch.

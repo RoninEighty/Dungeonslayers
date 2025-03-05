@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dies ist eine mächtigere Version des Zaubers Giftstrahl, die pro Kampfrunde 2 Punkte nicht abwehrbaren Giftschaden verursacht.
 
 ---

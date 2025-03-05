@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel erhält -3 auf Abwehr.
 
 Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.

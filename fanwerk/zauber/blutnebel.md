@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-
-
 Um eine kreisrunde Fläche mit einem Radius von VE bildet sich ein Ring aus Blut. Jedem in dem Ring wird Blut entzogen und er erhält pro Kampfrunde nicht abwehrbaren Schaden in Höhe des Probenergebnisses. Jedem Opfer wird zudem jede Runde automatisch eine Blutprobe entzogen und dem Zauberwirker zugeführt.
 
 ---

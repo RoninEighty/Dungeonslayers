@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 An einem beliebigen Ort innerhalb der Distanz erscheint ein Höllenhund (Werte wie Unwolf, GRW, S.
 
 124). Dieser ist automatisch kontrolliert und erfüllt alle Aufträge des Beschwörers, sofern ihm dies in der kurzen Zeit möglich ist, bis er wieder auf seine Heimatebene verschwindet.

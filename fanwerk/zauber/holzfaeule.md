@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dieser Zauber lässt bei Erfolg einen nichtmagischen unbelebten hölzernen Gegenstand augenblicklich zu morschen Spänen zerfallen.
 
 ---

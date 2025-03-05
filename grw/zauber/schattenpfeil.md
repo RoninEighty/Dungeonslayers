@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-
-
 Gegen den Schaden dieses Zielzaubers erhalten Wesen des Lichts einen Malus von 2 auf ihre Abwehr.
 
 Charaktere mit dem Talent Diener des Lichts können diesen Zauber nicht anwenden.

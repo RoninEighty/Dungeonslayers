@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Ausreichender Schaden von der Innenseite lässt die dimensionale Membran zusammenbrechen und befördert den Inhalt der Dimensionstasche wieder in die normale physische Realität.
 
 Ebenso bricht die Membran zusammen, wenn die mit dem Portal verbundene Kreatur stirbt. Mit Ende der Zauberdauer verschließt sich das Portal, die Tasche bleibt jedoch bestehen, wenn sich noch etwas in ihr befindet, und kann mit einem erneuten Wirken des Zaubers auf dieselbe Kreatur wieder erreicht werden.

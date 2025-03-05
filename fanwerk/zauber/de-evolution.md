@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Tag oder W20 Tage
 - Art: Zaubern
 
-
-
 Das Ziel wird in ein winziges Tier nach Wahl des ZAW verwandelt.
 
 Alle Werte dieser Gestalt entsprechen denen einer Ratte, wobei nach Wunsch des ZAW KÖR und AGI ausgetauscht werden können. Sämtliche Ausrüstung des Ziels wird mitverwandelt, magische Ausrüstung wirkt nicht mehr.
@@ -21,8 +19,6 @@ Alle Werte dieser Gestalt entsprechen denen einer Ratte, wobei nach Wunsch des Z
 Sollte das Ziel in dieser Gestalt getötet werden, nimmt es mitsamt seiner Ausrüstung seine ursprüngliche Gestalt wieder an.
 
 Die Wirkungsdauer des Zaubers kann permanent gemacht werden, dann steigt aber die Abklingzeit auf W20 Tage.
-
-
 
 <i>Anmerkung: Die Manakosten sind im permanenten Fall um 1 erhöht!</i>
 

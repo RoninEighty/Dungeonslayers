@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Bei Erfolg wird das Tier zu einem willenlosen Sklaven des ZAW.
 
 Es befolgt alle seine einsilbigen Befehle, auch wenn diese den eigenen Tod bedeuten können.

@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Ein Schwert aus hellem (oder je nach Belieben auch dunklem) Licht erscheint innerhalb eines Radius von VE in Metern um den ZAW herum.
 
 Innerhalb dieses Wirkungsbereiches kämpft es völlig selbstständig, hört jedoch auf gedankliche Kampfkommandos seines Beschwöreres wie "Greif den großen Troll an" oder "Schütze mich".

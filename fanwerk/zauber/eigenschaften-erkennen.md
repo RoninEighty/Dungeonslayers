@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW erkennt den exakten Wert einer der Eigenschaften des Ziels nach seiner Wahl (ST, HÄ, GE, BE, VE oder AU).
 
 ---

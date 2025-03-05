@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dies ist eine mächtigere Variante des Zaubers Sandstrahl. Auch hiermit wird das Ziel für eine Runde geblendet wie durch den Zauber Blenden, wenn der ZAW bei der Zauberprobe einen Immersieg erzielt.
 
 ---

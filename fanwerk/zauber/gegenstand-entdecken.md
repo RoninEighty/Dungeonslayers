@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW nennt zu Beginn des Zaubers eine bestimmte Art von leblosem Objekt oder Substanz (Edelsteine, Schlüssel, Goldmünzen, Wasser). Für die Wirkungsdauer des Zaubers kann er nun spüren, wo innerhalb des Wirkungsbereiches sich derartige Objekte oder Substanzen befinden, selbst wenn diese verborgen sind (z. B. in einem Behältnis oder in Gestein). Individuelle Gegenstände (z.B. der Schlüssel zur Schatzkammer, das Necronomicon) können mit diesem Zauber nicht entdeckt werden - zumindest nicht gezielt.
 
 ---

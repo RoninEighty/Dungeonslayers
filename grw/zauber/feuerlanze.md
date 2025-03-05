@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dies ist eine mächtigere Variante des Zaubers Feuerstrahl.
 
 ---

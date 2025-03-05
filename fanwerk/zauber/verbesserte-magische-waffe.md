@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Zauber verleiht einer Waffe einen magischen WB von +VE/2 (min. 1).
 
 Der mit ihr verursachte Schaden gilt als magisch und verletzt auch körperlose Wesen wie z.B. Geister.

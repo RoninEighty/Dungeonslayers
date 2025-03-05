@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW erschafft eine schwach schillernde Barriere, die je bis zu VE Meter lang und hoch sein kann. Ein Bemerken-Wurf ist erforderlich, um die Barriere zu erkennen.
 
 Die Barriere ist prinzipiell gefahrlos zu durchschreiten, jedoch bannt sie automatisch jeden magischen Unsichtbarkeits-Effekt, der auf einer Kreatur oder einem Objekt liegt, welche sie passieren.

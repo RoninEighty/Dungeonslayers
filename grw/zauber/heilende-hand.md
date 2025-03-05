@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Durch Hand auflegen wird bei dem Ziel Lebenskraft in Höhe des Probenergebnisses geheilt.
 
 ---

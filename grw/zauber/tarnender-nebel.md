@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Eine Nebelwolke mit einem Radius von maximal VE in Metern entsteht.
 
 Angriffe gegen Ziele in der Nebelwolke werden um 8 erschwert, gleichsam erhalten alle innerhalb des Nebels -8 auf alle Proben, bei denen man besser sehen können sollte.

@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW heilt dem berührten Ziel LK bis zur Höhe des Würfelergebnisses der Zauberprobe.
 
 Allerdings erhält er selbst die Anzahl der geheilten LK als nicht abwehrbaren Schaden.

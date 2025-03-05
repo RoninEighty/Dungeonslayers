@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Das Ziel verfällt in einen besinnungslosen Blutrausch und greift während der Wirkungsdauer in jeder Runde das ihm jeweils nächste Wesen im Nahkampf an, nötigenfalls waffenlos.
 
 ---

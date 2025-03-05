@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Zauber verwischt alle Spuren des ZAW und seiner Gefährten bis zu einer Wegdistanz von VE des ZAW x 20 Meter hinter ihnen.
 
 Alle Proben, ihre Spuren zu lesen und ihnen zu folgen, werden um -GEI des ZAW erschwert.

@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel des Zaubers wird für die Wirkungsdauer von einer unsichtbaren unüberwindlichen Kraft daran gehindert, sich dem ZAW auf mehr als VE Meter zu nähern. Geschosse oder Zauber werden von dieser Kraft allerdings nicht beeinflusst.
 
 ---

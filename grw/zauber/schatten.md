@@ -12,8 +12,6 @@
 - Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dunkle Schatten umhüllen das Ziel (welches keine Abwehr dagegen würfeln darf), wodurch es -8 auf alle Handlungen hat, bei denen es besser sehen können sollte.
 
 Augenlosen Untoten, wie beispielsweise Skeletten, aber auch blinden Lebewesen, kann der Zauber nichts anhaben.

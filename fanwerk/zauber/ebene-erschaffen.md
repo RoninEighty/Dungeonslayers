@@ -12,11 +12,7 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-
-
 Der Zauber erschafft eine kleine neue Existenzebene im interplanaren Raum. Beim Wirken des Zaubers wird der ZAW auf diese Ebene versetzt.
-
-
 
 Details sh. Grimmoire 3 S. 5/6
 

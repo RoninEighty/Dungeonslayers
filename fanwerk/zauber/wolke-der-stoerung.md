@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Alle Gegner im Umkreis von VE m um das Ziel herum erhalten -1 auf Abwehr. Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 
 Ebenso wirkt Wolke der Störung nicht mit Stören, Verbessertes Stören, Mächtiges Stören und Großes Stören - der höhere Abzug zählt.

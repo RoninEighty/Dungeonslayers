@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dies ist eine mächtigere Variante des Zaubers Lichtpfeil, gegen dessen Schaden Wesen der Dunkelheit einen Malus von 2 auf ihre Abwehr erhalten.
 
 Charaktere mit dem Talent Diener der Dunkelheit können diesen Zauber nicht anwenden.

@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Ein kaum sichtbarer Strahl schießt vom ZAW auf das Ziel, nur wahrnehmbar durch ein Flirren der Luft.
 
 Er verursacht geistigen Schaden in Höhe des Probenergebnisses, der nur um das Ergebnis einer GEI+VE-Probe vermindert werden kann. Wenn der Strahl Schaden verursacht, verliert das Ziel außerdem 1 Punkt GEI. Bei GEI 0 ist das Ziel handlungsunfähiges geistiges Gemüse.

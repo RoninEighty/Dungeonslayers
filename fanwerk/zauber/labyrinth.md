@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Das Ziel wird in eine kurzlebige Taschendimension versetzt, ein außerdimensionaler Irrgarten voll verwirrender Rätsel und Gänge. Die Taschendimension bricht nach VE Runden allerdings wieder zusammen und gibt das Ziel des Zaubers unbeschadet wieder an dem Ort frei, von wo es verschwunden ist.
 
 Allerdings steht dem Ziel des Zaubers jede Runde ein GEI+VE+Bildung-Wurf zu, erschwert um die halbe Stufe des ZAW, um sich von selbst wieder zu befreien. Auch ein Ebenentor-Zauber kann ein gefangenes Opfer zurückbringen.

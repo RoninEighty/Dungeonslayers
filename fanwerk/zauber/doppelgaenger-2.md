@@ -12,8 +12,6 @@
 - Abklingzeit: W20 Tage
 - Art: Zaubern
 
-
-
 Ein von einem Heiler geschaffener Doppelgänger ist immer ein Wesen des Lichts, und die Zielkreatur kann nur ein Wesen der Dunkelheit sein.
 
 Ein Doppelgänger geschaffen von einem Schwarzmagier ist stets eine Kreatur der Dunkelheit und sieht immer wie eine finstere Version des Originals aus.

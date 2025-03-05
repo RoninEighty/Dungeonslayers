@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Du ziehst arkane Kraft aus der Umgebung, um deinen Zaubern mehr Macht zu verleihen. Auf deinen nächsten Zauber, sofern dieser innerhalb der nächsten Runde gewirkt wird, erhältst du das Probenergebnis aus Arkane Aufladung auf den Probenwert dazu.
 
 ---

@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel des Zaubers kann eine Anzahl von Runden gleich dem Probenergebnis auf Wasser laufen, als befände es sich an Land.
 
 ---

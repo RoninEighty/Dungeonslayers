@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Eine mit diesem Zauber belegte Dosis Gift wirkt effektiver, wenn es während der Zauberdauer angewandt wird. Wenn es über einen Schadenswurf wirkt, erhält es einen Bonus in Höhe von VE auf diesen. Hat es Festschaden, erhöht sich dieser um VE/2. Betäubungsgifte wirken VE Minuten länger, Lähmungsgifte VE Kampfrunden. Der Zauber kann mehrmals kumulativ auf ein und dieselbe Giftdosis gelegt werden.
 
 Druiden (und nur diese!) können den Zauber auf eine giftige Kreatur legen.

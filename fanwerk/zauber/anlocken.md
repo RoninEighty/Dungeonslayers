@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Der Zauber versetzt im Umkreis alle Kreaturen einer vom ZAW beim Wirken bestimmten Art in Trance und zwingt sie, zu ihm zu kommen. Dabei umgehen sie Hindernisse nach Möglichkeit, reißen sie ein, wenn möglich, oder versuchen diese zu überwinden, wenn es nicht ihren unmittelbaren Tod bedeuten würde. Andernfalls bleiben sie vor dem entsprechenden Hindernis stehen. Erhält ein betroffenes Wesen Schaden oder wird "wachgerüttelt", reißt es das aus seiner Trance und es ist von der aktuellen Anwendung des Zaubers nicht mehr betroffen.
 
 Üblicherweise muss der ZAW während der Wirkung des Zaubers reden, singen oder musizieren. Dies gilt als seine Aktion, um den Zauber aufrecht zu erhalten. Ob die bezauberten Wesen ihn hören können, spielt allerdings tatsächlich keine Rolle. Es handelt sich dabei nur um einen Konzentrationsfokus.

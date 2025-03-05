@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Der ZAW kann währender der Dauer des Zaubers mit einem Tier sprechen. Das Tier versteht seine Worte, und der ZAW hört seine Muttersprache, wenn das Tier mit ihm kommuniziert, selbst wenn es überhaupt keine Laute von sich gibt.
 
 Die meisten Tiere sind allerdings nicht besonders helle, drücken sich einfach aus und haben keinen Begriff von abstrakten Konzepten. Daher sind die Informationen, die sie geben können, eher beschränkt.

@@ -12,10 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-
-
 Eine kreisrunde Fläche mit einem Radius von VE in Metern geht in Flammen auf. Jeder in dem Inferno erhält pro KR nicht abwehrbaren Schaden in Höhe des Probenergebnisses.
-
 
 ---
 

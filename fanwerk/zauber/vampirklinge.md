@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Die verzauberte Klingenwaffe wird weiß wie Elfenbein, und Blut beginnt von ihr herabzutropfen.
 
 Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht und ihr Schaden gilt als magisch. Außerdem erhält der Träger bei jedem Treffer, der an einer anderen Kreatur Schaden verursacht, Heilung in Höhe von GEI/2 des ZAW.

@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW und VE x 2 Gefährten im Umkreis von VE x 2 Metern sind für die Dauer des Zaubers komplett geschützt gegen Alterung und Werteverlust.
 
 ---

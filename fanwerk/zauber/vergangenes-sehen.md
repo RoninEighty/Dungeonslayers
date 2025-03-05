@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der Zauberer projiziert seine Sinne an dem Ort, an dem er sich befindet, bis zu VE Tage in die Vergangenheit, wobei er sich den exakten Zeitpunkt frei wählen kann. Von diesem Punkt in der Zeit an nimmt er alle Geschehnisse wahr, die sich an diesem Ort in den darauffolgenden Kampfrunden entsprechend dem Probenergebnis des Zaubers abgespielt haben, und zwar so als würde er sich mitten im Geschehen befinden (er könnte also beispielsweise nichts sehen, wo er nicht gerade hinsieht). Für die beobachteten Geschehnisse ist er allerdings nicht existent.
 
 Während der Dauer des Zaubers nimmt der Zauberer nichts wahr, was in der Gegenwart passiert, es sei denn, er erleidet Schaden oder wird von einem Zauber betroffen. In diesem Falle endet der Zauber sofort.

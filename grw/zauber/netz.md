@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Ein Netz aus klebriger Astralmasse mit einem Radius von VE/2 in Metern erscheint.
 
 Vom Netz getroffene Wesen, welche keine Abwehr dagegen würfeln dürfen, halbieren für die Dauer des Zaubers Initiative, Laufen und Schlagen.

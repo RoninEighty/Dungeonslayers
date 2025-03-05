@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-
-
 Erfüllt einen Bereich von VE Metern Radius mit kurzzeitig einem solchen Gestank, dass alle Ziele darin, sich vor Würgen und Keuchen nur bewegen können (mit halbem Laufen-Wert), bis der Spruchwirker wieder an der Reihe ist.
 
 Ein Ziel dieses Spruchs, das Schaden erleidet, kann vorzeitig wieder normal handeln.

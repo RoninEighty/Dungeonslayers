@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Scheitert ein ZAW, die Magie einer Örtlichkeit, eines Objektes oder eines Wesen zu erspüren (sh. GRW S. 47), kann er sämtliche Magie im Wirkungsbreich - nur für ihn sichtbar - mit Hilfe dieses Zaubers für kurze Zeit aufleuchten sehen, sofern sie nicht verborgen ist (unter einem Umhang, in einer Truhe usw.).
 
 Betrachtet man ZAW, leuchten diese ebenfalls kurz auf, je heller, desto mächtiger ist die Magie in ihnen.

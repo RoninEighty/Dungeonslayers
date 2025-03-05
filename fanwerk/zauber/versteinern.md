@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-
-
 Mit einer erfolgreichen Zauberprobe wird das Ziel mitsamt seiner Ausrüstung versteinert. Eine Versteinerung kann durch Allheilung oder Entsteinern aufgehoben werden. Erleidet das Ziel in versteinertem Zustand irgendwelche Beschädigungen, weist es nach einer Entsteinerung entsprechende Verletzungen auf.
 
 In versteinertem Zustand kann das Ziel seine Umgebung in keinster Weise wahrnehmen, ist nicht bei Bewusstsein, spricht nicht auf Entdeckungszauber an und gilt allgemein als Gegenstand.

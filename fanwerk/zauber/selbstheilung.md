@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Als Bewegungsaktion heilt der sich der ZAW selbst in Höhe des Probenergebnisses.
 
 ---

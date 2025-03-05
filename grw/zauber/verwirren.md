@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Dieser Zauberspruch verwirrt bei Erfolg das Ziel, dessen Handeln für die gesamte Zauberdauer auf folgender Tabelle jede Kampfrunde neu ermittelt wird:
 
 W20

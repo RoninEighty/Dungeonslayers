@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel des Zaubers kann für die Wirkung des Zaubers sowohl Luft als auch Wasser atmen (und ja, das heißt explizit, dass damit auch Wasseratmern das Luftatmen ermöglicht werden kann). Unter Wirkung dieses Zaubers kann das Ziel unter Wasser auch normal sprechen.
 
 ---

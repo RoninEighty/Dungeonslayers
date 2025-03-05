@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
 
-
-
 Gegen den Schaden dieses Zielzaubers erhalten Wesen der Dunkelheit einen Malus von 2 auf ihre Abwehr.
 
 Charaktere mit dem Talent Diener der Dunkelheit können diesen Zauber nicht anwenden.

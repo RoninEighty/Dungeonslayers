@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Während der Zauberdauer werden alle feindlichen Zauber, die direkt auf den ZAW gerichtet werden, reflektiert und haben auf den ZAW keinen Effekt. Statt dessen entfaltet sich ihre Wirkung voll auf den ursprünglichen Wirker, als hätte dieser den Zauber auf sich selbst gewirkt.
 
 Im Falle von geistesbeeinflussenden Zaubern wird allerdings der Wirker des Zauberspiegels als Wirker des Zaubers angenommen.

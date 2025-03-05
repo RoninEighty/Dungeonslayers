@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Aggressive Tiere im Wirkungsradius können mit diesem Zauber besänftigt werden. Magische Wesen (wie beispielsweise Einhörner oder Unwölfe) sind gegen den Zauber immun, ebenso Tiere, die unter einem Kontrollzauber wie Tierbeherrschung o.ä. stehen.
 
 ---

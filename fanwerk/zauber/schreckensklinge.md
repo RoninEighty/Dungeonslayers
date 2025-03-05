@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Die verzauberte Waffe beginnt, Töne auszusenden, die wie weit entfernte Schreie klingen, und Schatten wabern über sie, die wie angsterfüllte Fratzen aussehen.
 
 Sie erhält WB +1 und zählt als magisch.

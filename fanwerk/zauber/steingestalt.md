@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW verwandelt sich vollständig in Stein, ohne seine Beweglichkeit zu verlieren. Dadurch erhält er +5 PA und zählt als Steinwesen.
 
 Allerdings zählt dieser PA-Bonus als physische und klassenfremde Rüstung, die entsprechend mit seinen Zauberfähigkeiten verrechnet wird. Einzig für Elementaristen und für Charaktere, die Plattenrüstung tragen dürfen, zählt die Panzerung nicht als klassenfremd.

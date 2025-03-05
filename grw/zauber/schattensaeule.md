@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dies ist eine mächtigere Variante des Zaubers Schattenlanze, gegen dessen Schaden Wesen des Lichts ebenfalls einen Malus von 2 auf ihre Abwehr erhalten.
 
 Charaktere mit dem Talent Diener des Lichts können diesen Zauber nicht anwenden.

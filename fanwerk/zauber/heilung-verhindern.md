@@ -12,11 +12,7 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
-Das Ziel des Zaubers kann während der Wirkungsdauer nicht geheilt werden. Heilzauber oder -tränke wirken nicht, und selbst natürliche Heilung (inkl. Regeneration) wird außer Kraft gesetzt. 
-
-
+Das Ziel des Zaubers kann während der Wirkungsdauer nicht geheilt werden. Heilzauber oder -tränke wirken nicht, und selbst natürliche Heilung (inkl. Regeneration) wird außer Kraft gesetzt.
 
 Details sh. Grimmoire 2 S. 6/7
 

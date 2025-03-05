@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW kann die Lebensaura von Kreaturen in Reichweite wahrnehmen, die er sehen kann, und so einen Eindruck von deren Gesundheitszustand erhalten. Allerdings erhält er nur einen relativen Eindruck von deren Lebenskraftsituation, also technisch einen anteiligen oder prozentualen Wert.
 
 Auch ob Kreaturen in Reichweite krank, von einer Krankheit infiziert oder vergiftet sind, kann der ZAW erkennen, jedoch nicht die Art der Infektion oder Vergiftung. Bei Untoten und Konstrukten kann der Zauber keine Aura erkennen.

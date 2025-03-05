@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Das freiwillige Ziel nimmt augenblicklich die Gestalt eines Riesen an.
 
 Alle Attribute, Eigenschaften und Kampfwerte des Ziels entsprechen für die Dauer des Zaubers denen eines Riesen (modifiziert durch die Ausrüstung, die sich der Gestalt anpasst). Lediglich GEI, VE, AU und Zaubern entsprechen den ursprünglichen Werten des Ziels.

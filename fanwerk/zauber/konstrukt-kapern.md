@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Bei Erfolg bringt der ZAW ein Konstrukt unter seine Kontrolle, selbst wenn dieses einem anderen ZAW untersteht.
 
 Solange sich der ZAW konzentriert, tut das Konstrukt was immer der ZAW will. Wenn der ZAW seine Konzentration aufgibt oder verliert, endet der Zauber.

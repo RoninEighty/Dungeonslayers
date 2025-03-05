@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der Zauber zieht einen kleinen Gegenstand von maximal VE x 100 Gramm in die Hand des ZAW.
 
 Der Effekt ist wirkungslos gegen Objekte, die von einem Charakter festgehalten werden oder besser befestigt sind als durch beispielsweise eine dünne Schnur.

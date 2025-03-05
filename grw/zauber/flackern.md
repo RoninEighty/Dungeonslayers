@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW beginnt zu flackern und ist dadurch schwieriger zu treffen.
 
 Seine Abwehr wird für die Dauer des Zaubers um seinen halbierten Wert in GEI erhöht (nur nicht gegen alles einhüllenden Flächenschaden).

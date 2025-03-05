@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Öffnet ein Schloss, ohne es zu beschädigen. Der normalerweise immer +0 betragende Schlosswert (SW) kann durch bessere Qualität oder den Zauberspruch Magisches Schloss erhöht werden.
 
 Misslingt der Zauber, kann der ZAW es erneut versuchen. Jeder Folgewurf senkt den PW der Zaubern-Proben bei diesem speziellen Schloss jedoch um jeweils 2.

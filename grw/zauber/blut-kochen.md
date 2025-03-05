@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
 
-
-
 Das Blut des Ziels beginnt auf magische Art und Weise zu kochen, ohne dass es gerinnt.
 
 Der innerlich wirkende Schaden entspricht dem doppelten Probenergebnis, das Ziel würfelt seine Abwehr ohne die Panzerungsboni seiner Gegenstände.

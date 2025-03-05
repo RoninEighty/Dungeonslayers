@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der Schwarzmagier kann die Seelen von einer maximalen Anzahl von Toten im Wirkungsradius gleich seiner eigenen Stufe verderben und in Form tödlicher Schatten (sh. GRW S. 121) zu gequältem Unleben erwecken. Die Schatten benötigen drei Kampfrunden, um sich zu bilden, danach wollen sie ihren Erwecker vernichten, um wieder Erlösung zu finden, gelingt es diesem nicht, sie mit dem Zauber Kontrollieren zu beherrschen.
 
 Charaktere mit dem Talent Diener des Lichts können den Zauber nicht anwenden.

@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW kann das von ihm Gesagte an einen bis zu VE x 10 Meter entfernten Punkt verlagern (eine klare Sichtlinie vorausgesetzt).
 
 Dieser Punkt kann eine freie Stelle im Raum sein oder auch ein Kleidungsstück einer Person.

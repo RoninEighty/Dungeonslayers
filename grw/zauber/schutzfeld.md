@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Ein Schutzfeld mit einem Radius von VE in Metern erscheint um den ZAW herum, an dem nichtmagische Geschosse von außen her wirkungslos abprallen.
 
 ---

@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Zauberer lässt das Ziel optisch deutlicher und schärfer erscheinen, wodurch alle Schießen- und Zielzauber-Angriffe auf es einen Bonus in Höhe von GEI/2 des ZAW erhalten.
 
 ---

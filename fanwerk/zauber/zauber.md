@@ -12,8 +12,6 @@
 - Abklingzeit: Abkling
 - Art: Art
 
-
-
 Beschreibung
 
 ---

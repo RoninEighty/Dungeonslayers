@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-
-
 Die Haut des Ziels bildet großflächige Blasen oder platzt stellenweise sogar komplett vom Fleisch.
 
 Der von innen wirkende Schaden entspricht dem Probenergebnis, das Ziel würfelt seine Abwehr rein mit KÖR+HÄ.

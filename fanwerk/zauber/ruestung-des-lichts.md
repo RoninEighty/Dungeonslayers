@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Das anvisierte Rüstungsteil erstrahlt mit der heiligen Kraft des Lichts.
 
 Die folgenden Effekte gelten nur, wenn ein Charakter mit dem Talent Diener des Lichts die Rüstung trägt: Für die Dauer des Zauberspruchs wird die PA der Rüstung um +1 erhöht. Dies ist ein magischer Bonus. Jedesmal, wenn der Träger erfolgreich Abwehr würfelt, erhält er +1 auf seinen nächsten Angriff (+1 für jedes weitere Rüstungsteil, das separat mit Rüstung des Lichts verzaubert wurde).

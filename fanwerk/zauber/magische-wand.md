@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW erschafft ein ebenes Kraftfeld von maximal VE Meter x VE Meter Größe, welches von beiden Seiten völlig undurchdringlich für Objekte, Lebewesen, Magie oder Zaubersprüche ist.
 
 Zwar kann man sich auf die andere Seite teleportieren, da die Wand ja keinen hermetisch geschlossenen Raum bildet, aber Effekte, die eine Sichtverbindung benötigen, wie Feuerball, Lauschen oder Versetzen, können das Kraftfeld nicht passieren.

@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Alle Verbündeten des ZAW erhalten +1 auf alle Proben, solange sie sich im unbeweglichen Wirkungsbereich des Zaubers aufhalten.
 
 Das heißt, sie können den Radius verlassen und verlieren den Bonus, erhalten ihn aber zurück, wenn sie in den Radius zurückkehren. Nur wenn der ZAW selbst den Radius verlässt, endet der Zauber vorzeitig.

@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der Zauber funktioniert wie Giftlanze, jedoch bilden sich auf dem Körper des Opfers pulsierende Beulen, die auf Lebewesen in der Nähe reagieren. Jede Kampfrunde platzt eine der Beulen und schießt einen Strahl hochinfektiöser Flüssigkeit auf ein zufälliges Lebewesen innerhalb von 1 Meter. Dieses muss AGI+HÄ würfeln, um dem Strahl zu entgehen. Gelingt dies nicht, ist die Kreatur ebenfalls von der Beulenpest betroffen, erhält entsprechend jede Runde Schaden und bildet die gleichen Beulen.
 
 Der Effekt endet bei allen betroffenen Kreaturen, wenn er beim ersten betroffenen Ziel ausläuft, aber nicht, wenn er bei diesem, beispielsweise durch magische Giftheilung, beendet wird.

@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Die verzauberte Klinge verströmt rauchartige Schatten voll dunkler Magie.
 
 Die folgenden Effekte gelten nur, wenn ein Charakter mit dem Talent Diener der Dunkelheit die Waffe benutzt: Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht und ihr Schaden gilt als magisch. Jedesmal, wenn mit der Waffe Schaden verursacht wird, sinkt die Abwehr des Ziels um 1. Dieser Effekt endet, wenn die Zauberdauer abgelaufen ist.

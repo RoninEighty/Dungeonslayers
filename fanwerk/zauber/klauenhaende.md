@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Dem Ziel wachsen scharfe Klauen aus den Händen, die auf diese Weise zu Natürlichen Waffen mit einem WB gleich GEI/2 des ZAW werden, und gegen die die Abwehr von Gegner um den gleichen Wert gesenkt wird.
 
 Wird Klauenhände von einem Druiden gewirkt, erhält das Ziel die Fähigkeit Mehrfachangriff und kann nach einem Klauenangriff aktionsfrei mit der zweiten Klaue angreifen.

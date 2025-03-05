@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Dieser Zauber belebt einen Charakter, der nicht eines natürlichen Todes starb, wieder zum Leben mit 1LK.
 
 Das Ziel darf höchstens seit W20 Tagen tot sein und verliert bei der Wiederbelebung permanent 1 Punkt KÖR (sh. GRW S. 42).

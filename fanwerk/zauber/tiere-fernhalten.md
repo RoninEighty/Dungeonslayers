@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Bis zu VE x 2 Tiere können sich dem ZAW auf nicht mehr als VE Meter nähern. Sind sie bereits näher, weichen sie auf diese Distanz zurück.
 
 Der Zauber wirkt auch auf Tiere, die unter Tierbeherrschung stehen, und endet für ein Tier, welches Schaden erleidet.

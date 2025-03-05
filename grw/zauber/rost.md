@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Dieser Zauber lässt bei Erfolg eine nichtmagische Waffe oder ein nichtmagisches Rüstungsteil aus Metall augenblicklich zu rostigen Staub zerfallen.
 
 ---

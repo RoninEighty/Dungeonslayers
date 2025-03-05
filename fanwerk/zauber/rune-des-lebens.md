@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der Heiler hinterlässt an einer festen Oberfläche eine deutlich sichtbare glühende persönliche Rune, und er kann beim Wirken bis zu VE/2 Verbündete benennen, die die Rune auslösen können und von ihrem Effekt betroffen werden.
 
 Wird die Rune ausgelöst, strahlt sie eine Heilende Aura aus mit einem Radius von VE des Heilers in Metern um die Rune herum, welche allen vom Heiler bestimmten Zielen 1 LK pro Runde heilen, solange sie sich in ihr befinden, solange bis der Zauber abgelaufen ist.

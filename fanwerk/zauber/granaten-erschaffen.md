@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW benötigt Früchte, Kerne, Knollen oder Zapfen von mindestens jeweils Walnussgröße für diesen Zauber. Diese werden mit elementarer Feuerenergie aufgeladen, so dass sie wie Granaten explodieren können.
 
 Insgesamt kann der ZAW eine Anzahl von W20 auf die Granaten verteilen, die seinem VE entspricht, wobei er auf keine Granate mehr als 4W20 verteilen kann. Um die Fruchtgranaten einzusetzen, müssen sie mit Schießen geworfen werden, um das gewünschte Ziel in den Explosionsradius zu bekommen.

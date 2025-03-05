@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Das berührte, leblose Ziel - beipielsweise ein Stab oder eine kleine, abdeckbare Münze - leuchtet fackelhell auf.
 
 ---

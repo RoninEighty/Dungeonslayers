@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel des Zaubers kann mit seinem normalen Laufen-Wert wie eine Spinne klettern, selbst kopfüber an der Decke.
 
 ---

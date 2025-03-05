@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW erkennt den exakten Wert eines der Kampfwerte des Ziels, mit allen Boni durch Ausrüstung, Talente etc. eingerechnet.
 
 ---

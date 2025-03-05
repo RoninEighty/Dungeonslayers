@@ -12,25 +12,19 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der Zauber bringt die berührte Menge Holz in eine beliebige, generell jedoch eher grobe Form. Komplexe oder fein ausgearbeitete Proben erfordern eine passende und eventuell erschwerte Handwerks-Probe. Mit diesem Zauber gefertigte Rüstungsteile zählen als Leder, um zu ermitteln, ob ein Charakter sie tragen kann und haben Werte entsprechend der folgenden Tabelle.
-
-
 
 <b>Rüstung / PA / Besonderes</b>
 
- Holzpanzer / +2 / Laufen -1 m
+Holzpanzer / +2 / Laufen -1 m
 
- Holzhelm* / +1 / Initiative -1
+Holzhelm\* / +1 / Initiative -1
 
- Holzarmschienen* / +1 / Laufen -0,5 m
+Holzarmschienen\* / +1 / Laufen -0,5 m
 
- Holzbeinschienen* / +1 / Laufen -0,5 m
+Holzbeinschienen\* / +1 / Laufen -0,5 m
 
-
-
- *Zerbricht bei Abwehr-Patzer
+\*Zerbricht bei Abwehr-Patzer
 
 ---
 

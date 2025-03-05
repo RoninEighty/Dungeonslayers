@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Zauberwirker erschafft eine Eiswand, die Ausmaße von bis zu 1 Meter x VE Meter x VE Meter annehmen kann. Dabei ist die Eiswand beliebig formbar und muss nicht auf festem Boden erschaffen werden (s.u.). Allerdings kann sie nicht an einem Ort erschaffen werden, an dem sich bereits etwas befindet (wobei sie aber sehr wohl etwas einschließen kann).
 
 Bei konstanten Temperaturen unter 0°C kann die Eiswand prinzipiell ewig halten, jedoch verliert jeder Kubikmeter der Wand bei Temperaturen darüber pro Runde 1 LK, bei extremer Hitze sogar 2 LK. Dabei hat jeder Kubikmeter eine LK in Höhe der Stufe des Zauberwirkers.

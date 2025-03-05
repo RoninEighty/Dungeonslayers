@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Der Zauber verrät dem ZAW exakt, wie viel Zeit seit einem bestimmten Ereignis, dass der ZAW selbst erlebt hat, vergangen ist.
 
 ---

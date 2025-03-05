@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
 
-
-
 Das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, stürzt augenblicklich zu Boden.
 
 Misslingt ihm außerdem eine Probe auf AGI+GE, lässt er alles Gehaltene fallen.

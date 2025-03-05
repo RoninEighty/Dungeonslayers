@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW kann eine Waffe in zuckende Blitze hüllen. Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht, und ihr Schaden gilt als magisch.
 
 Ein Immersieg bei einem Angriff erzeugt einen kleinen Blitzschlag, der vom getroffenen Gegner auf einen weiteren Gegner innerhalb von 1 Meter überschlägt und an diesem 50% des Schadens verursacht wie am ersten Gegner.

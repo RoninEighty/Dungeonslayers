@@ -12,8 +12,6 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: geistesbeeinflussende Zauber
 
-
-
 Dem Ziel des Zaubers wird ein subtiles geistiges Kommando eingepflanzt, dass es ausführen muss. Das Kommando darf keine Aktion fordern, die länger als eine Runde dauern, und wenn es selbstzerstörerisch ist oder sich gegen die Prinzipien oder Gefährten des Ziels richtet, darf das Ziel GEI+VE würfeln, um das Kommando zu verweigern.
 
 Grundsätzlich bemerkt das Ziel des Zaubers in den meisten Fällen nicht, dass es beeinflusst wurde, insbesondere wenn die Suggestion eine durchaus vernünftige und nachvollziehbare Handlung forderte.

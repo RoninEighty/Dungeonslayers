@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Eine Druckwelle heiliger Macht schießt aus dem Heiler und bringt Gegner in einem Radius gleich seiner doppelten Stufe in Metern zu Fall.
 
 ---

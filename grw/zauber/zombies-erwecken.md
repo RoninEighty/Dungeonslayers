@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der Schwarzmagier kann eine maximale Anzahl an Leichen gleich seiner eigenen Stufe im Wirkungsradius zu untotem Leben erwecken.
 
 Die Zombies (sh. GRW S. 125) benötigen drei Kampfrunden, um sich zu erheben, danach wollen sie ihren Erwecker vernichten, um wieder Erlösung zu finden, gelingt es diesem nicht, sie mit dem Zauber Kontrollieren zu beherrschen.

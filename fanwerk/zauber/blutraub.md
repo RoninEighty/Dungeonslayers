@@ -12,8 +12,6 @@
 - Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
 
-
-
 Allen Zielen in einem Radius von VE x 10 Metern werden Ergebnis/2 Proben ihres Blutes entzogen (max 24h haltbar) und dem Zauberwirker zugeführt.
 
 ---

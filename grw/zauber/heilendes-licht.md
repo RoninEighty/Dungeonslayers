@@ -12,8 +12,6 @@
 - Abklingzeit: 2 Kampfrunden
 - Art: Zielzauber
 
-
-
 Ein vom Heiler ausgehender Lichtstrahl heilt die Lebenskraft des Ziels in Höhe des Probenergebnisses.
 
 ---

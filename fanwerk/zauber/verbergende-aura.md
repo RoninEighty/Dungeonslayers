@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der ZAW plus VE x 2 Gefährten in einem Radius von VE x 2 Metern werden unsichtbar. Begeht einer der Gefährten eine Handlung, die eine Unsichtbarkeit beenden würde, oder entfernt er sich weiter als VE x 2 Meter vom ZAW, endet der Effekt für ihn (und nur für ihn). Begeht der ZAW eine Handlung, die eine Unsichtbarkeit beenden würde, endet der Effekt für alle.
 
 ---

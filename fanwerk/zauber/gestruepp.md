@@ -12,8 +12,6 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
 
-
-
 In einem Radius von VE x 2m (Druide: VE x 5m) sprießt niedriger, aber dichter, Pflanzenbewuchs. Alle LaufenReichweiten in diesem Gestrüpp sind halbiert. In Gebiet mit natürlichem Bewuchs, der ohnehin Bewegung einschränkt, hat der Zauber keinen weiteren Effekt.
 
 Auf Untergrund, der keinen Pflanzenbewuchs tragen kann (DungeonFußboden zum Beispiel), stirbt das Gestrüpp ziemlich schnell ab, so dass es nach VE Runden (Druide: x2) seine Wirkung verliert.

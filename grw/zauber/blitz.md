@@ -12,13 +12,7 @@
 - Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
 
-
-
 Der ZAW schießt einen Blitz auf einen Feind. Gegner in Metallrüstung dürfen keine Abwehr gegen Blitze würfeln.
-
-
-
-
 
 ---
 

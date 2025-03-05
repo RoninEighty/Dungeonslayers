@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel wird vom ZAW mit einem Duft versehen.
 
 Dieser Geruch kann angenehm oder unangenehm sein und erleichtert bzw.

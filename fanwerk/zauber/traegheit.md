@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Das Ziel muss während der Wirkungsdauer auf jeden Fall eine Aktion aufwenden, falls es sich bewegen möchte.
 
 Trägheit, auf ein Ziel gesprochen, dass unter dem Einfluss von Hast steht, hebt den Zauber Hast sofort auf.

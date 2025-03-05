@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Verdoppelt die erwürfelte Dauer eines Schutzschild-Zaubers, der bereits auf das Ziel wirkt.
 
 ---

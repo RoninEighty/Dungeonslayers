@@ -12,8 +12,6 @@
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
 
-
-
 Der Zauber wirkt genau wie Vergrößern, nur dass das Ziel nicht freiwillig sein muss, und das zusätzlich seine AGI, GE und BE halbiert werden.
 
 Befindet sich das Ziel in einer Position, die für eine Verdopplung zu groß ist, vergrößert es sich so weit es kann, kann sich nicht bewegen und erleidet jede Runde abwehrbaren Schaden in Höhe seiner (aktuellen) Stärke. Mit einer gelungenen Probe auf AGI+BE kann es sich seinen halben (aktuellen) LaufenWert bewegen, um eventuell eine weniger beengte Position zu erreichen.

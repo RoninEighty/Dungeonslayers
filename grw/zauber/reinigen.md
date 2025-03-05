@@ -12,8 +12,6 @@
 - Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
 
-
-
 Dieser Zauber reinigt eine ungewaschene Person, einen Gegenstand (wie einen schlammbesudelten Umhang) oder auch eine Mahlzeit (von Bakterien, Fäulnis und Gift).
 
 ---

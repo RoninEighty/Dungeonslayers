@@ -12,8 +12,6 @@
 - Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
 
-
-
 Der ZAW kann eine Waffe in massiven schweren Stein verwandeln. Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht, und ihr Schaden gilt als magisch.
 
 Bei einem Immersieg mit der Steinwaffe stürzt der getroffene Gegner zu Boden wie durch den Zauber Stolpern.

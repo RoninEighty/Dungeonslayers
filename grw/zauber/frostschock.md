@@ -12,12 +12,9 @@
 - Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
 
-
-
 Ein Eisstrahl schießt aus den Händen des ZAW. Gegen den Schaden dieses frostigen Zauber ist keine Abwehr zulässig.
 
 Zudem wird das Ziel magisch eingefroren, bis VE KR verstrichen sind oder es Schaden erhält.
-
 
 ---
 
