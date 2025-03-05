@@ -1,4 +1,4 @@
-# ÜBERSICHT ZAUBER
+# Übersicht über alle Zaubersprüche
 
 - [Ablenken](fankwerk/zauber/ablenken.md)
 - [Aderplatzer](fankwerk/zauber/aderplatzer.md)
