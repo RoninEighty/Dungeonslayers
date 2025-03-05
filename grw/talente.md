@@ -1,16 +1,16 @@
 # Talente
 
-Talente kosten jeweils einen Talentpunkt (TP) pro Talentrang. TP können angespart werden. Die Voraussetzungen geben an, ab welcher Stufe eine Klasse ein Talent erlernen kann - der maximal erreichbare Talentrang steht in Klammern dahinter.
+[Talente](talente.md) kosten jeweils einen Talentpunkt (TP) pro Talentrang. TP können angespart werden. Die Voraussetzungen geben an, ab welcher Stufe eine Klasse ein Talent erlernen kann - der maximal erreichbare Talentrang steht in Klammern dahinter.
 
-Heldenklassen haben weiterhin Zugriff auf alte wie neue Talente ihrer Grundklasse.
+[Heldenklassen](charaktere-heldenklassen.md) haben weiterhin Zugriff auf alte wie neue [Talente](talente.md) ihrer Grundklasse.
 
 ### Verwendete Abkürzungen
 
-| Krieger (KRI)         | Späher (SPÄ)        | Zauberwirker (ZAW)  |
-| --------------------- | ------------------- | ------------------- |
-| _Berserker (BER)_     | _Attentäter (ATT)_  | Heiler (Hei)        |
-| _Paladin (PAL)_       | _Meisterdieb (MDB)_ | Zauberer (Zau)      |
-| _Waffenmeister (WAM)_ | _Waldläufer (WDL)_  | Schwarzmagier (Sch) |
+| Krieger (KRI)         | Späher (SPÄ)        | Zauberwirker (ZAW)                                        |
+| --------------------- | ------------------- | --------------------------------------------------------- |
+| _Berserker (BER)_     | _Attentäter (ATT)_  | [Heiler](charaktere-klasse-heiler.md) (Hei)               |
+| _Paladin (PAL)_       | _Meisterdieb (MDB)_ | [Zauberer](charaktere-klasse-zauberer.md) (Zau)           |
+| _Waffenmeister (WAM)_ | _Waldläufer (WDL)_  | [Schwarzmagier](charaktere-klasse-schwarzmagier.md) (Sch) |
 
 | Heiler (Hei)       | Zauberer (Zau)         | Schwarzmagier (Sch) |
 | ------------------ | ---------------------- | ------------------- |
@@ -20,8 +20,8 @@ Heldenklassen haben weiterhin Zugriff auf alte wie neue Talente ihrer Grundklass
 
 ### Talente der drei Grundklassen
 
-| Talent                                                            | Krieger  |  Späher  | Zauberwirker |
-| ----------------------------------------------------------------- | :------: | :------: | :----------: |
+| Talent                                                        | Krieger  |  Späher  | Zauberwirker |
+| ------------------------------------------------------------- | :------: | :------: | :----------: |
 | [Abklingen](talente/abklingen.md)                             |          |          |    4 (V)     |
 | [Aderschlitzer](talente/aderschlitzer.md)                     | 12 (III) | 8 (III)  |              |
 | [Akrobat](talente/akrobat.md)                                 | 4 (III)  | 1 (III)  |   4 (III)    |
@@ -80,8 +80,8 @@ Heldenklassen haben weiterhin Zugriff auf alte wie neue Talente ihrer Grundklass
 
 Zauberwirkenden Klassen haben zusätzlich Zugang zu diesen Talente:
 
-| Talent                                                        |  Heiler  | Zauberer | Schwarzm. |
-| ------------------------------------------------------------- | :------: | :------: | :-------: |
+| Talent                                                    |  Heiler  | Zauberer | Schwarzm. |
+| --------------------------------------------------------- | :------: | :------: | :-------: |
 | [Arkane Explosion](talente/arkane-explosion.md)           |          | 8 (III)  |  8 (III)  |
 | [Beschwörer](talente/beschwoerer.md)                      |          |          | 12 (III)  |
 | [Blitzmacher](talente/blitzmacher.md)                     | 12 (III) | 8 (III)  |  8 (III)  |

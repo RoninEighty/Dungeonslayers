@@ -1,4 +1,4 @@
-## MAGIE
+## Magie
 
 Bei Dungeonslayers unterscheidet man zwischen zwei Arten von Zaubersprüchen:
 

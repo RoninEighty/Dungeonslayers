@@ -1,4 +1,4 @@
-## SLAYERGEFAHREN
+## Slayergefahren
 
 Neben Monstern bedrohen noch vielerlei andere Dinge einen Dungeonslayer:
 

@@ -1,22 +1,22 @@
-## NEKROMANT
+## Nekromant
 
-Spezialisiert auf das Erwecken Kontrollieren von Untoten.
+Spezialisiert auf das Erwecken und [Kontrollieren](zauber/kontrollieren.md) von Untoten.
 
 ### VORAUSSETZUNGEN
 
-Schwarzmagier der Stufe 10+
+[Schwarzmagier](charaktere-klasse-schwarzmagier.md) der Stufe 10+
 
 ### TALENTE
 
-| TALENTE                     |
-| --------------------------- |
-| Mächtige Erweckung 16 (III) |
-| Nekromantie 10 (V)          |
-| Ritual der Narben 14 (III)  |
-| Sensenspötter 16 (III)      |
-| Todeskraft 10 (V)           |
-| Totenrufer 12 (V)           |
-| Untote Horden 10 (X)        |
+| TALENTE                                                       |
+| ------------------------------------------------------------- |
+| [Mächtige Erweckung](talente/maechtige-erweckung.md) 16 (III) |
+| [Nekromantie](talente/nekromantie.md) 10 (V)                  |
+| [Ritual der Narben](talente/ritual-der-narben.md) 14 (III)    |
+| [Sensenspötter](talente/sensenspoetter.md) 16 (III)           |
+| [Todeskraft](talente/todeskraft.md) 10 (V)                    |
+| [Totenrufer](talente/totenrufer.md) 12 (V)                    |
+| [Untote Horden](talente/untote-horden.md) 10 (X)              |
 
 ---
 

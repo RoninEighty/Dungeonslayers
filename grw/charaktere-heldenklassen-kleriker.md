@@ -1,27 +1,27 @@
-## KLERIKER
+## Kleriker
 
-Kleriker heilen im Namen ihree Gottheit, helfen aber auch in Wehr und Waffen.
+[Kleriker](charaktere-heldenklassen-kleriker.md) heilen im Namen ihree Gottheit, helfen aber auch in Wehr und Waffen.
 
 ### VORAUSSETZUNGEN
 
-Heiler der Stufe 10+
+[Heiler](charaktere-klasse-heiler.md) der Stufe 10+
 
 Ordensmitgliedschaft
 
 ### TALENTE
 
-| TALENTE                        |
-| ------------------------------ |
-| Blocker 10 (V)                 |
-| Brutaler Hieb 14 (III)         |
-| Dämonen zerschmettern 12 (III) |
-| Gerüstet 10 (II)               |
-| Kämpfer 12 (V)                 |
-| Rüstträger 10 (V)              |
-| Rüstzauberer 10 (III)          |
-| Untote zerschmettern 10 (III)  |
-| Vergeltung 16 (V)              |
-| Verheerer 16 (V)               |
+| TALENTE                                                             |
+| ------------------------------------------------------------------- |
+| [Blocker](talente/blocker.md) 10 (V)                                |
+| [Brutaler Hieb](talente/brutaler-hieb.md) 14 (III)                  |
+| [Dämonen zerschmettern](talente/daemonen-zerschmettern.md) 12 (III) |
+| [Gerüstet](talente/geruestet.md) 10 (II)                            |
+| [Kämpfer](talente/kaempfer.md) 12 (V)                               |
+| [Rüstträger](talente/ruesttraeger.md) 10 (V)                        |
+| [Rüstzauberer](talente/ruestzauberer.md) 10 (III)                   |
+| [Untote zerschmettern](talente/untote-zerschmettern.md) 10 (III)    |
+| [Vergeltung](talente/vergeltung.md) 16 (V)                          |
+| [Verheerer](talente/verheerer.md) 16 (V)                            |
 
 ---
 

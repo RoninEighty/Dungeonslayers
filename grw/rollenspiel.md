@@ -1,4 +1,4 @@
-# ROLLENSPIEL?
+# Rollenspiel?
 
 Bei einem Rollenspiel schlüpfen die Spieler in die Rollen von sogenannten Charakteren, die gemeinsam Abenteuer bestreiten, durch die sie ein Spielleiter - ähnlich einem Moderator - führt. Dungeonslayers spielt in der klassischen Fantasywelt von Nebenan und die Spieler verkörpern ihre Bewohner
 

@@ -1,36 +1,36 @@
-## ATTENTÄTER
+## Attentäter
 
 Diese treffsicheren Mörder schlagen schnell und tödlich zu, sei es aus sicherer Entfernung oder mit einer vergifteten Dolchklinge.
 
 ### VORAUSSETZUNGEN
 
-Späher der Stufe 10+
+[Späher](charaktere-klasse-spaeher.md) der Stufe 10+
 
 ### TALENTE
 
-| TALENTE                         |
-| ------------------------------- |
-| Akrobat 10 (V)                  |
-| Ausweichen 10 (V)               |
-| Fieser Schuß 12 (V)             |
-| Gezieltes Gift 14 (III)         |
-| Heimlichkeit 10 (V)             |
-| Hinterhältiger Angriff 10 (III) |
-| In Deckung 10 (V)               |
-| Kämpfer 12 (V)                  |
-| Kletterass 12 (III)             |
-| Meucheln 14 (III)               |
-| Perfektion 10 (III)             |
-| Salve 14 (III)                  |
-| Sattelschütze 14 (III)          |
-| Scharfschütze 10 (V)            |
-| Schlossknacker 14 (III)         |
-| Schnelle Reflexe 10 (V)         |
-| Schütze 10 (V)                  |
-| Sehnenschneider 12 (III)        |
-| Verdrücken 14 (III)             |
-| Verletzen 12 (V)                |
-| Wahrnehmung 10 (X)              |
+| TALENTE                                                               |
+| --------------------------------------------------------------------- |
+| [Akrobat](talente/akrobat.md) 10 (V)                                  |
+| [Ausweichen](talente/ausweichen.md) 10 (V)                            |
+| Fieser Schuß 12 (V)                                                   |
+| [Gezieltes Gift](talente/gezieltes-gift.md) 14 (III)                  |
+| [Heimlichkeit](talente/heimlichkeit.md) 10 (V)                        |
+| [Hinterhältiger Angriff](talente/hinterhaeltiger-angriff.md) 10 (III) |
+| [In Deckung](talente/in-deckung.md) 10 (V)                            |
+| [Kämpfer](talente/kaempfer.md) 12 (V)                                 |
+| [Kletterass](talente/kletterass.md) 12 (III)                          |
+| [Meucheln](talente/meucheln.md) 14 (III)                              |
+| [Perfektion](talente/perfektion.md) 10 (III)                          |
+| [Salve](talente/salve.md) 14 (III)                                    |
+| [Sattelschütze](talente/sattelschuetze.md) 14 (III)                   |
+| [Scharfschütze](talente/scharfschuetze.md) 10 (V)                     |
+| [Schlossknacker](talente/schlossknacker.md) 14 (III)                  |
+| [Schnelle Reflexe](talente/schnelle-reflexe.md) 10 (V)                |
+| [Schütze](talente/schuetze.md) 10 (V)                                 |
+| [Sehnenschneider](talente/sehnenschneider.md) 12 (III)                |
+| [Verdrücken](talente/verdruecken.md) 14 (III)                         |
+| [Verletzen](talente/verletzen.md) 12 (V)                              |
+| [Wahrnehmung](talente/wahrnehmung.md) 10 (X)                          |
 
 ---
 

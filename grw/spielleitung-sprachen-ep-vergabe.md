@@ -1,4 +1,4 @@
-## SPRACHEN & SCHRIFTZEICHEN
+## Sprachen & Schriftzeichen
 
 Um einen Text verstehen zu können, muss man die Schriftzeichen lesen können, in der er niedergeschrieben wurde und die Sprache beherrschen, die sein Verfasser verwendete.
 

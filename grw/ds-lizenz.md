@@ -1,4 +1,4 @@
-# DIE DS-LIZENZ
+# Die DS-Lizenz
 
 **Dungeonslayers** ist ein Rollenspiel, zu dem Du nicht-kommerzielle, digitale Inhalte oder Erweiterungen beisteuern kannst. Zu diesem Zweck stehen die Texte und Regelmechaniken - nicht aber die Grafiken (mit Ausnahme der Iconsymbole), das Covermotiv, die Illustrationen und Logos - dieser PDF-Fassung des Rollenspiels **Dungeonslayers** mit den hier genannten Einschränkungen unter folgender Creative Common Lizenz:
 

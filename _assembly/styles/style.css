@@ -71,6 +71,18 @@ body {
 	padding-right: 0.5rem;
 }
 
+.content a {
+	color: var(--text-color);
+	text-decoration: none;
+	border-bottom: 1px dashed var(--text-color);
+}
+
+.content a:visited {
+	color: var(--text-color);
+	text-decoration: none;
+	border-bottom: 1px dashed var(--text-color);
+}
+
 #sidebar li {
 	list-style-type: none;
 	padding-left: 0;

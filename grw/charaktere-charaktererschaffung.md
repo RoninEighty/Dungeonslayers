@@ -1,8 +1,8 @@
-## CHARAKTERERSCHAFFUNG
+## Charaktererschaffung
 
 Bevor man einen Charakter erstellt, sollte geklärt sein, welchem Volk und welcher Klasse er (oder sie) angehören soll.
 
-**Beispiel**: _Als Beispielcharakter dient uns ein elfischer Zauberer, da diese Kombination aus Volk und Klasse alle Bereiche der Charaktererschaffung abdeckt._
+**Beispiel**: _Als Beispielcharakter dient uns ein elfischer [Zauberer](charaktere-klasse-zauberer.md), da diese Kombination aus Volk und Klasse alle Bereiche der Charaktererschaffung abdeckt._
 
 ### 1. VOLK WÄHLEN
 
@@ -10,7 +10,7 @@ Jeder Charakter gehört standardmäßig einem der drei Völker der Elfen, Mensch
 
 #### ELFEN
 
-Die spitzohrigen, schlanken Elfen geben sowohl starke Krieger, geschickte Späher als auch talentierte Zauberwirker ab.
+Die spitzohrigen, schlanken Elfen geben sowohl starke [Krieger](charaktere-klasse-krieger.md), geschickte [Späher](charaktere-klasse-spaeher.md) als auch talentierte [Zauberwirker](charaktere-klasse-zauberwirker.md) ab.
 
 **Volksbonus**: BE, GE oder AU
 
@@ -18,7 +18,7 @@ Die spitzohrigen, schlanken Elfen geben sowohl starke Krieger, geschickte Spähe
 
 #### MENSCHEN
 
-Die anpassungsfähigen Menschen bringen eine Vielzahl unterschiedlichster Kulturen hervor und eignen sich gleichermaßen als Krieger, Späher oder Zauberwirker.
+Die anpassungsfähigen Menschen bringen eine Vielzahl unterschiedlichster Kulturen hervor und eignen sich gleichermaßen als [Krieger](charaktere-klasse-krieger.md), [Späher](charaktere-klasse-spaeher.md) oder [Zauberwirker](charaktere-klasse-zauberwirker.md).
 
 **Volksbonus**: Eine beliebige Eigenschaft
 
@@ -44,7 +44,7 @@ Elfen und Zwerge notieren ihre jeweiligen Volksfähigkeiten, Menschen erhalten s
 
 ### 2. KLASSE WÄHLEN
 
-Nun ist eine der drei Klassen [Krieger](charaktere-klasse-krieger.md), [Späher](charaktere-klasse-spaeher.md) oder Zauberwirker zu wählen. Spieler von Zauberwirkern müssen zudem festlegen, ob sie einen [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) oder [Schwarzmagier](charaktere-klasse-schwarzmagier.md) spielen möchten, wovon abhängt, welche Arten von Zaubersprüchen der Charakter benutzt.
+Nun ist eine der drei Klassen [Krieger](charaktere-klasse-krieger.md), [Späher](charaktere-klasse-spaeher.md) oder [Zauberwirker](charaktere-klasse-zauberwirker.md) zu wählen. Spieler von Zauberwirkern müssen zudem festlegen, ob sie einen [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) oder [Schwarzmagier](charaktere-klasse-schwarzmagier.md) spielen möchten, wovon abhängt, welche Arten von Zaubersprüchen der Charakter benutzt.
 
 #### KRIEGER
 
@@ -64,9 +64,9 @@ Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtget�
 
 **Klassenbonus**: VE oder AU
 
-- Heiler - überwiegend defensive Zauber
-- Zauberer - offensive und defensive Zauber
-- Schwarzmagier - überwiegend offensive Zauber
+- [Heiler](charaktere-klasse-heiler.md) - überwiegend defensive Zauber
+- [Zauberer](charaktere-klasse-zauberer.md) - offensive und defensive Zauber
+- [Schwarzmagier](charaktere-klasse-schwarzmagier.md) - überwiegend offensive Zauber
 
 ### 3. ATTRIBUTE FESTLEGEN
 
@@ -101,7 +101,7 @@ Jeder Charakter erhält, abhängig von Volk und Klasse, zwei Gratispunkte auf se
 | Späher   | Bewegung oder Geschick +1 |
 | Zauberw. | Verstand oder Aura +1     |
 
-**Beispiel**: _Als elfischer Zauberwirker steigern wir Geschick und Aura um jeweils +1 und verändern entsprechend die beiden Werte:_
+**Beispiel**: _Als elfischer [Zauberwirker](charaktere-klasse-zauberwirker.md) steigern wir Geschick und Aura um jeweils +1 und verändern entsprechend die beiden Werte:_
 
     Körper: 6   Agilität: 6     Geist:    8
     Stärke: 0   Bewegung: 0     Verstand: 1
@@ -109,21 +109,21 @@ Jeder Charakter erhält, abhängig von Volk und Klasse, zwei Gratispunkte auf se
 
 ### 6. DER ERSTE ZAUBERSPRUCH
 
-Zauberwirker erlernen nun Zauberspruch der ersten Stufe. einen Die möglichen Zaubersprüche, aus denen man wählen kann, hängen davon ab, ob der Charakter ein Heiler, Zauberer oder Schwarzmagier ist:
+[Zauberwirker](charaktere-klasse-zauberwirker.md) erlernen nun einen Zauberspruch der ersten Stufe. Die möglichen [Zaubersprüche](zaubersprueche.md), aus denen man wählen kann, hängen davon ab, ob der Charakter ein [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) oder [Schwarzmagier](charaktere-klasse-schwarzmagier.md) ist:
 
 #### HEILERSPRÜCHE DER 1. STUFE
 
-Blenden, Giftschutz, Heilbeeren, Heilende Aura, Heilende Hand, Licht, Magie entdecken, Magische Waffe, Niesanfall, Tiere besänftigen, Verteidigung, Vertreiben, Wasser weihen
+[Blenden](zauber/blenden.md), [Giftschutz](zauber/giftschutz.md), [Heilbeeren](zauber/heilbeeren.md), [Heilende Aura](zauber/heilende-aura.md), [Heilende Hand](zauber/heilende-hand.md), [Licht](zauber/licht.md), [Magie entdecken](zauber/magie-entdecken.md), [Magische Waffe](zauber/magische-waffe.md), [Niesanfall](zauber/niesanfall.md), [Tiere besänftigen](zauber/tiere-besaenftigen.md), [Verteidigung](zauber/verteidigung.md), [Vertreiben](zauber/vertreiben.md), [Wasser weihen](zauber/wasser-weihen.md)
 
 #### ZAUBERERSPRÜCHE DER 1. STUFE
 
-Duftnote, Feuerstrahl, Licht, Magie entdecken/identifizieren, Magische Waffe, Magisches Schloss, Öffnen, Zaubertrick
+[Duftnote](zauber/duftnote.md), [Feuerstrahl](zauber/feuerstrahl.md), [Licht](zauber/licht.md), Magie entdecken/identifizieren, [Magische Waffe](zauber/magische-waffe.md), [Magisches Schloss](zauber/magisches-schloss.md), [Öffnen](zauber/oeffnen.md), [Zaubertrick](zauber/zaubertrick.md)
 
 #### SCHWARZMAGIERSPRÜCHE DER 1. STUFE
 
-Feuerstrahl, Magie entdecken/identifizieren, Magische Waffe, Magisches Schloss, Öffnen, Zaubertrick
+[Feuerstrahl](zauber/feuerstrahl.md), Magie entdecken/identifizieren, [Magische Waffe](zauber/magische-waffe.md), [Magisches Schloss](zauber/magisches-schloss.md), [Öffnen](zauber/oeffnen.md), [Zaubertrick](zauber/zaubertrick.md)
 
-**Beispiel**: _Unser Elfenzauberer erlernt den Zauberspruch Feuerstrahl, der für Zauberer ab der ersten Stufe zugänglich ist._
+**Beispiel**: _Unser Elfenzauberer erlernt den Zauberspruch [Feuerstrahl](zauber/feuerstrahl.md), der für [Zauberer](charaktere-klasse-zauberer.md) ab der ersten Stufe zugänglich ist._
 
 ### 7. AUSRÜSTUNG
 
@@ -156,65 +156,65 @@ _Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du 
 
 ### 9. TALENT WÄHLEN
 
-Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit also schon über 2TP. TP werden gespart oder in Talente (siehe Seite 17) investiert, sofern der Charaktere die jeweiligen Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt. Jedes der Talente kostet 1TP.
+Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit also schon über 2TP. TP werden gespart oder in [Talente](talente.md) (siehe Seite 17) investiert, sofern der Charaktere die jeweiligen Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt. Jedes der [Talente](talente.md) kostet 1TP.
 
-**Beispiel**: Für einen Talentpunkt erwirbt unser Elfenzauberer das Talent Bildung, das jeder Charakter ab der 1. Stufe erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig, was noch fehlt, ist etwas Persönlichkeit.
+**Beispiel**: Für einen Talentpunkt erwirbt unser Elfenzauberer das Talent [Bildung](talente/bildung.md), das jeder Charakter ab der 1. Stufe erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig, was noch fehlt, ist etwas Persönlichkeit.
 
 #### TALENTE IN DER ERSTEN STUFE
 
 ##### FÜR ALLE KLASSEN
 
-- Ausweichen
-- Bildung
-- Charmant
-- Diener der Dunkelheit
-- Diener des Lichts
-- Einstecker
-- Genesung
-- Glückspilz
-- Handwerk
-- Instrument
-- Magieresistent
-- Reiten
-- Schlitzohr
-- Schnelle Reflexe
-- Schwimmen
-- Wahrnehmung
-- Wissensgebiet
+- [Ausweichen](talente/ausweichen.md)
+- [Bildung](talente/bildung.md)
+- [Charmant](talente/charmant.md)
+- [Diener der Dunkelheit](talente/diener-der-dunkelheit.md)
+- [Diener des Lichts](talente/diener-des-lichts.md)
+- [Einstecker](talente/einstecker.md)
+- [Genesung](talente/genesung.md)
+- [Glückspilz](talente/glueckspilz.md)
+- [Handwerk](talente/handwerk.md)
+- [Instrument](talente/instrument.md)
+- [Magieresistent](talente/magieresistent.md)
+- [Reiten](talente/reiten.md)
+- [Schlitzohr](talente/schlitzohr.md)
+- [Schnelle Reflexe](talente/schnelle-reflexe.md)
+- [Schwimmen](talente/schwimmen.md)
+- [Wahrnehmung](talente/wahrnehmung.md)
+- [Wissensgebiet](talente/wissensgebiet.md)
 
 ##### FÜR KRIEGER
 
-- Blocker
-- Kämpfer
-- Parade
-- Standhaft
-- Zwei Waffen
+- [Blocker](talente/blocker.md)
+- [Kämpfer](talente/kaempfer.md)
+- [Parade](talente/parade.md)
+- [Standhaft](talente/standhaft.md)
+- [Zwei Waffen](talente/zwei-waffen.md)
 
 ##### FÜR SPÄHER
 
-- Akrobat
-- Diebeskunst
-- Flink
-- Heimlichkeit
-- Jäger
-- Schütze
+- [Akrobat](talente/akrobat.md)
+- [Diebeskunst](talente/diebeskunst.md)
+- [Flink](talente/flink.md)
+- [Heimlichkeit](talente/heimlichkeit.md)
+- [Jäger](talente/jaeger.md)
+- [Schütze](talente/schuetze.md)
 
 ##### FÜR ALLE ZAUBERWIRKER
 
-- Alchemie
-- Runenkunde
-- Umdenken
-- Wechsler
+- [Alchemie](talente/alchemie.md)
+- [Runenkunde](talente/runenkunde.md)
+- [Umdenken](talente/umdenken.md)
+- [Wechsler](talente/wechsler.md)
 
 ##### FÜR HEILER
 
-- Fürsorger
-- Manipulator
-- Rüstzauberer
+- [Fürsorger](talente/fuersorger.md)
+- [Manipulator](talente/manipulator.md)
+- [Rüstzauberer](talente/ruestzauberer.md)
 
 ##### FÜR SCHWARZMAGIER
 
-- Feuermagie
+- [Feuermagier](talente/feuermagier.md)
 
 ### 10. LETZTE SCHLIFFE
 

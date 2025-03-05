@@ -1,4 +1,4 @@
-## REISEN & TRANSPORT
+## Reisen & Transport
 
 Die folgende Tabelle listet auf, wie weit eine Reisegruppe durchschnittlich in 12 Stunden (Pausen einkalkuliert) voran kommt, abhängig von ihrer durchschnittlichen Transportgeschwindigkeit, dem Gelände und anderen Umständen:
 

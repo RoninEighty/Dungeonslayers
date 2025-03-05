@@ -1,33 +1,33 @@
-## MEISTERDIEB
+## Meisterdieb
 
 Wahre Meister im Schlösser knacken, Bestehlen und die Flucht ergreifen.
 
 ### VORAUSSETZUNGEN
 
-Späher der Stufe 10+
+[Späher](charaktere-klasse-spaeher.md) der Stufe 10+
 
 ### TALENTE
 
-| TALENTE                       |
-| ----------------------------- |
-| Akrobat 10 (V)                |
-| Ausweichen 10 (V)             |
-| Beute schätzen 10 (V)         |
-| Diebeskunst 10 (V)            |
-| Glückspilz 16 (V)             |
-| Heimlichkeit 10 (V)           |
-| Ich muss weg! 10 (III)        |
-| In Deckung 10 (V)             |
-| Kann ich mal vorbei? 10 (III) |
-| Kletterass 12 (III)           |
-| Langfinger 10 (III)           |
-| Schlitzohr 10 (V)             |
-| Schlossknacker 10 (V)         |
-| Schnelle Reflexe 10 (V)       |
-| Schütze 14 (V)                |
-| Verdrücken 10 (III)           |
-| Wahrnehmung 10 (X)            |
-| Zauber auslösen 12 (III)      |
+| TALENTE                                                         |
+| --------------------------------------------------------------- |
+| [Akrobat](talente/akrobat.md) 10 (V)                            |
+| [Ausweichen](talente/ausweichen.md) 10 (V)                      |
+| [Beute schätzen](talente/beute-schaetzen.md) 10 (V)             |
+| [Diebeskunst](talente/diebeskunst.md) 10 (V)                    |
+| [Glückspilz](talente/glueckspilz.md) 16 (V)                     |
+| [Heimlichkeit](talente/heimlichkeit.md) 10 (V)                  |
+| [Ich muss weg!](talente/ich-muss-weg.md) 10 (III)               |
+| [In Deckung](talente/in-deckung.md) 10 (V)                      |
+| [Kann ich mal vorbei?](talente/kann-ich-mal-vorbei.md) 10 (III) |
+| [Kletterass](talente/kletterass.md) 12 (III)                    |
+| [Langfinger](talente/langfinger.md) 10 (III)                    |
+| [Schlitzohr](talente/schlitzohr.md) 10 (V)                      |
+| [Schlossknacker](talente/schlossknacker.md) 10 (V)              |
+| [Schnelle Reflexe](talente/schnelle-reflexe.md) 10 (V)          |
+| [Schütze](talente/schuetze.md) 14 (V)                           |
+| [Verdrücken](talente/verdruecken.md) 10 (III)                   |
+| [Wahrnehmung](talente/wahrnehmung.md) 10 (X)                    |
+| [Zauber auslösen](talente/zauber-ausloesen.md) 12 (III)         |
 
 ---
 

@@ -1,4 +1,4 @@
-# REGELN
+# Regeln
 
 ## PROBEN
 

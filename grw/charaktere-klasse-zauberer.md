@@ -1,6 +1,6 @@
-## HEILER
+## Zauberer
 
-Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtgetümmel aber besser hinten aufhalten. Zauberer nutzen defensive und offensive Zauber.
+Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtgetümmel aber besser hinten aufhalten. [Zauberer](charaktere-klasse-zauberer.md) nutzen defensive und offensive Zauber.
 
 ### KLASSENBONUS
 
@@ -24,54 +24,54 @@ VE oder AU +1
 
 ### TALENTE
 
-| TALENTE                       |
-| ----------------------------- |
-| Arkane Explosion 8 (III)      |
-| Blitzmacher 8 (III)           |
-| Diener der Dunkelheit 1 (III) |
-| Diener des Lichts 1 (III)     |
-| Feuermagier 4 (III)           |
-| Manipulator 8 (III)           |
-| Abklingen 4 (V)               |
-| Akrobat 4 (III)               |
-| Alchemie 1 (V)                |
-| Ausweichen 1 (III)            |
-| Bildung 1 (V)                 |
-| Charmant 1 (III)              |
-| Diebeskunst 8 (III)           |
-| Einbetten 10 (V)              |
-| Einstecker 1 (III)            |
-| Flink 4 (III)                 |
-| Genesung 1 (V)                |
-| Glückspilz 1 (III)            |
-| Handwerk 1 (III)              |
-| Heimlichkeit 4 (III)          |
-| Heldenglück 10 (III)          |
-| In Deckung 8 (III)            |
-| Instrument 1 (III)            |
-| Jäger 12 (III)                |
-| Kämpfer 8 (III)               |
-| Magieresistent 1 (III)        |
-| Meister aller Klassen 20 (I)  |
-| Meister seiner Klasse 15 (I)  |
-| Parade 12 (III)               |
-| Reiten 1 (III)                |
-| Runenkunde 1 (V)              |
-| Scharfschütze 12 (III)        |
-| Schlitzohr 1 (III)            |
-| Schnelle Reflexe 1 (III)      |
-| Schütze 8 (III)               |
-| Schwimmen 1 (III)             |
-| Spruchmeister 15 (III)        |
-| Standhaft 8 (III)             |
-| Umdenken 1 (V)                |
-| Verheerer 8 (III)             |
-| Verletzen 12 (III)            |
-| Vertrauter 4 (III)            |
-| Wahrnehmung 1 (V)             |
-| Wechsler 1 (V)                |
-| Wissensgebiet 1 (III)         |
-| Zaubermacht 4 (III)           |
+| TALENTE                                                           |
+| ----------------------------------------------------------------- |
+| [Arkane Explosion](talente/arkane-explosion.md) 8 (III)           |
+| [Blitzmacher](talente/blitzmacher.md) 8 (III)                     |
+| [Diener der Dunkelheit](talente/diener-der-dunkelheit.md) 1 (III) |
+| [Diener des Lichts](talente/diener-des-lichts.md) 1 (III)         |
+| [Feuermagier](talente/feuermagier.md) 4 (III)                     |
+| [Manipulator](talente/manipulator.md) 8 (III)                     |
+| [Abklingen](talente/abklingen.md) 4 (V)                           |
+| [Akrobat](talente/akrobat.md) 4 (III)                             |
+| [Alchemie](talente/alchemie.md) 1 (V)                             |
+| [Ausweichen](talente/ausweichen.md) 1 (III)                       |
+| [Bildung](talente/bildung.md) 1 (V)                               |
+| [Charmant](talente/charmant.md) 1 (III)                           |
+| [Diebeskunst](talente/diebeskunst.md) 8 (III)                     |
+| [Einbetten](talente/einbetten.md) 10 (V)                          |
+| [Einstecker](talente/einstecker.md) 1 (III)                       |
+| [Flink](talente/flink.md) 4 (III)                                 |
+| [Genesung](talente/genesung.md) 1 (V)                             |
+| [Glückspilz](talente/glueckspilz.md) 1 (III)                      |
+| [Handwerk](talente/handwerk.md) 1 (III)                           |
+| [Heimlichkeit](talente/heimlichkeit.md) 4 (III)                   |
+| [Heldenglück](talente/heldenglueck.md) 10 (III)                   |
+| [In Deckung](talente/in-deckung.md) 8 (III)                       |
+| [Instrument](talente/instrument.md) 1 (III)                       |
+| [Jäger](talente/jaeger.md) 12 (III)                               |
+| [Kämpfer](talente/kaempfer.md) 8 (III)                            |
+| [Magieresistent](talente/magieresistent.md) 1 (III)               |
+| [Meister aller Klassen](talente/meister-aller-klassen.md) 20 (I)  |
+| [Meister seiner Klasse](talente/meister-seiner-klasse.md) 15 (I)  |
+| [Parade](talente/parade.md) 12 (III)                              |
+| [Reiten](talente/reiten.md) 1 (III)                               |
+| [Runenkunde](talente/runenkunde.md) 1 (V)                         |
+| [Scharfschütze](talente/scharfschuetze.md) 12 (III)               |
+| [Schlitzohr](talente/schlitzohr.md) 1 (III)                       |
+| [Schnelle Reflexe](talente/schnelle-reflexe.md) 1 (III)           |
+| [Schütze](talente/schuetze.md) 8 (III)                            |
+| [Schwimmen](talente/schwimmen.md) 1 (III)                         |
+| [Spruchmeister](talente/spruchmeister.md) 15 (III)                |
+| [Standhaft](talente/standhaft.md) 8 (III)                         |
+| [Umdenken](talente/umdenken.md) 1 (V)                             |
+| [Verheerer](talente/verheerer.md) 8 (III)                         |
+| [Verletzen](talente/verletzen.md) 12 (III)                        |
+| [Vertrauter](talente/vertrauter.md) 4 (III)                       |
+| [Wahrnehmung](talente/wahrnehmung.md) 1 (V)                       |
+| [Wechsler](talente/wechsler.md) 1 (V)                             |
+| [Wissensgebiet](talente/wissensgebiet.md) 1 (III)                 |
+| [Zaubermacht](talente/zaubermacht.md) 4 (III)                     |
 
 ---
 
