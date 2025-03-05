@@ -1,18 +1,16 @@
-# Segen
+### Segen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 90
-- Zauberbonus: 0
+- Preis: 90GM
+- ZB: +0
 - Dauer: VE Stunden
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW und bis zu VE x 2 Kameraden in VE x 2 Meter Umkreis werden gesegnet.
 

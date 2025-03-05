@@ -1,18 +1,16 @@
-# Eigenschaft verbessern
+### Eigenschaft verbessern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 3
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel erhält +1 auf eine Eigenschaft nach Wahl des ZAW.
 

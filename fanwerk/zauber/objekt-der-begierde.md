@@ -1,18 +1,16 @@
-# Objekt der Begierde
+### Objekt der Begierde
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 12
-- Kosten: 1320
-- Zauberbonus: 0
+- Preis: 1320GM
+- ZB: +0
 - Dauer: VE x 2 Minuten
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
-
-## Beschreibung
 
 Jeder, der den bezauberten unbelebten Gegenstand erblickt, muss GEI+VE würfeln, oder er betrachtet das Ziel des Zaubers während der Dauer als höchst begehrenswerten Schatz, den er unbedingt in seinen Besitz bringen möchte.
 

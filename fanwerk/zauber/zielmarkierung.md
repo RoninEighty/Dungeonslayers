@@ -1,18 +1,16 @@
-# Zielmarkierung
+### Zielmarkierung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: -
-- Kosten: 160
-- Zauberbonus: -(AGI+BE)/2 des Ziels
+- Preis: 160GM
+- ZB: -(AGI+BE)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 20 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 20 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauberer lässt das Ziel optisch deutlicher und schärfer erscheinen, wodurch alle Schießen- und Zielzauber-Angriffe auf es einen Bonus in Höhe von GEI/2 des ZAW erhalten.
 

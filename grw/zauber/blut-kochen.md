@@ -1,18 +1,16 @@
-# Blut kochen
+### Blut kochen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 13
-- Kosten: 1580
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 1580GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE m
+- Distanz: VE m
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Das Blut des Ziels beginnt auf magische Art und Weise zu kochen, ohne dass es gerinnt.
 

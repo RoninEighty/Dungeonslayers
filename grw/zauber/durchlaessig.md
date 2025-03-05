@@ -1,18 +1,16 @@
-# Durchlässig
+### Durchlässig
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 12
-- Kosten: 920
-- Zauberbonus: -4
+- Preis: 920GM
+- ZB: -4
 - Dauer: VE/2 KR
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW wird mit samt seiner getragenen Ausrüstung durchlässig und kann für VE/2 KR durch nichtmagische, unbelebte Objekte schreiten.
 

@@ -1,18 +1,16 @@
-# Stören
+### Stören
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 3
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 10GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 1 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel erhält -1 auf Abwehr.
 

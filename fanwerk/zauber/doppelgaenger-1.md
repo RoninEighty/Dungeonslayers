@@ -1,18 +1,16 @@
-# Doppelgänger 1
+### Doppelgänger 1
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 18
   - Zauberer: 20
   - Schwarzmagier: 19
-- Kosten: 1815
-- Zauberbonus: -Stufe oder GH der Zielkreatur
+- Preis: 1815GM
+- ZB: -Stufe oder GH der Zielkreatur
 - Dauer: bis Tod Zielkreatur/Doppelgänger
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: W20 Tage
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauberwirker erschafft einen Doppelgänger der Zielkreatur mit exakt den gleichen Werten und Fähigkeiten sowie der gleichen Ausrüstung. Allerdings verschwindet sämtliche Ausrüstung des Doppelgängers mit dessen Tod, und magische Ausrüstung funktioniert nur, wenn dieser sie benutzt. Der Doppelgänger ist nur von einem Ziel beseelt: Sein Original zu vernichten. Alle seine Handlungen sind einzig auf diesen Zweck ausgerichtet.
 

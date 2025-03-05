@@ -1,18 +1,16 @@
-# Rüstung des Lichts
+### Rüstung des Lichts
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 10
   - Schwarzmagier: -
-- Kosten: 290
-- Zauberbonus: 0
+- Preis: 290GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das anvisierte Rüstungsteil erstrahlt mit der heiligen Kraft des Lichts.
 

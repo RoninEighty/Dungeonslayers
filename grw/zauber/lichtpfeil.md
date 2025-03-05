@@ -1,18 +1,16 @@
-# Lichtpfeil
+### Lichtpfeil
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 5
   - Schwarzmagier: -
-- Kosten: 45
-- Zauberbonus: 2
+- Preis: 45GM
+- ZB: +2
 - Dauer: Augenblicklich
-- Reichweite: VE x 5 m
-- Abklingzeit: 1 KR
+- Distanz: VE x 5 m
+- Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Gegen den Schaden dieses Zielzaubers erhalten Wesen der Dunkelheit einen Malus von 2 auf ihre Abwehr.
 

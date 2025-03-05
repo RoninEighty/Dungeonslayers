@@ -1,18 +1,16 @@
-# Leidteiler
+### Leidteiler
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -
   - Schwarzmagier: 10
-- Kosten: 325
-- Zauberbonus: -5
+- Preis: 325GM
+- ZB: -5
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 5 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Bei Erfolg darf das Ziel keine Abwehr gegen den Zauber würfeln. Es verliert 50% seiner aktuellen LK, zeitgleich bekommt aber auch der Zauberwirker dieselbe Anzahl Punkte an LK als nicht abwehrbaren Schaden.
 

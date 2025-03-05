@@ -1,18 +1,16 @@
-# Tiere besänftigen
+### Tiere besänftigen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 7
   - Schwarzmagier: -
-- Kosten: 20
-- Zauberbonus: -LK/5 des Ziels
+- Preis: 20GM
+- ZB: -LK/5 des Ziels
 - Dauer: VE Stunden
-- Reichweite: Radius von VE x 5 Meter
+- Distanz: Radius von VE x 5 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Aggressive Tiere im Wirkungsradius können mit diesem Zauber besänftigt werden. Magische Wesen (wie beispielsweise Einhörner oder Unwölfe) sind gegen den Zauber immun, ebenso Tiere, die unter einem Kontrollzauber wie Tierbeherrschung o.ä. stehen.
 

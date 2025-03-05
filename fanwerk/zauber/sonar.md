@@ -1,18 +1,16 @@
-# Sonar
+### Sonar
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 15
-- Kosten: 660
-- Zauberbonus: 0
+- Preis: 660GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel des Zaubers erhält die Fähigkeit, innerhalb einer Reichweite von VE des ZAW x 2 Metern mit Hilfe von Sonar zu "sehen".
 

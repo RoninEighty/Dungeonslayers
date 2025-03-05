@@ -1,18 +1,16 @@
-# Magisches Schloss
+### Magisches Schloss
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Bis Schloss geöffnet
-- Reichweite: Berühren
-- Abklingzeit: 5 KR
+- Distanz: Berühren
+- Abklingzeit: 5 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Dieser Zauber verschließt auf magische Weise eine Klappe, Truhe, Tür oder ähnliche Öffnung.
 

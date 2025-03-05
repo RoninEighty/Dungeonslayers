@@ -1,18 +1,16 @@
-# Sandstrahl
+### Sandstrahl
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 0 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Der ZAW schießt einen Sandstrahl auf einen Feind, dessen erdbasierter Schaden dem Probenergebnis entspricht. Erzielt der ZAW auf dem Probenergebnis einen Immersieg, ist das Ziel außerdem für eine Runde geblendet wie durch den Zauber Blenden, weil es Sand in die Augen bekommen hat.
 

@@ -1,10 +1,10 @@
-# TALENTE
+# Talente
 
 Talente kosten jeweils einen Talentpunkt (TP) pro Talentrang. TP können angespart werden. Die Voraussetzungen geben an, ab welcher Stufe eine Klasse ein Talent erlernen kann - der maximal erreichbare Talentrang steht in Klammern dahinter.
 
 Heldenklassen haben weiterhin Zugriff auf alte wie neue Talente ihrer Grundklasse.
 
-### VERWENDETE ABKÜRZUNGEN
+### Verwendete Abkürzungen
 
 | Krieger (KRI)         | Späher (SPÄ)        | Zauberwirker (ZAW)  |
 | --------------------- | ------------------- | ------------------- |
@@ -18,7 +18,7 @@ Heldenklassen haben weiterhin Zugriff auf alte wie neue Talente ihrer Grundklass
 | _Kämpfmönch (KMÖ)_ | _Erzmagier (ERZ)_      | _Dämonologe (DÄM)_  |
 | _Kleriker (KLE)_   | _Kriegszauberer (KRZ)_ | _Nekromant (NEK)_   |
 
-### TALENTE DER DREI GRUNDKLASSEN
+### Talente der drei Grundklassen
 
 | Talent                                                            | Krieger  |  Späher  | Zauberwirker |
 | ----------------------------------------------------------------- | :------: | :------: | :----------: |
@@ -76,7 +76,7 @@ Heldenklassen haben weiterhin Zugriff auf alte wie neue Talente ihrer Grundklass
 | [Zaubermacht](talente/zaubermacht.md)                         |          |          |   4 (III)    |
 | [Zwei Waffen](talente/zwei-waffen.md)                         |  1 (V)   |  8 (V)   |              |
 
-### TALENTE DER DREI ZAUBERWIRKER KLASSEN
+### Talente der drei Zauberwirker Klassen
 
 Zauberwirkenden Klassen haben zusätzlich Zugang zu diesen Talente:
 
@@ -96,6 +96,10 @@ Zauberwirkenden Klassen haben zusätzlich Zugang zu diesen Talente:
 | [Rüstzauberer](talente/ruestzauberer.md)                  |  1 (I)   |          |           |
 | [Tod entrinnen](talente/tod-entrinnen.md)                 | 12 (III) |          |           |
 | [Vergeltung](talente/vergeltung.md)                       | 12 (III) |          |           |
+
+### Übersicht über alle Talente
+
+[Übersicht über alle Talente](../index-talente.md)
 
 ---
 

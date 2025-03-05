@@ -1,18 +1,16 @@
-# Stolpern
+### Stolpern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 3
-- Kosten: 140
-- Zauberbonus: -(AGI+AU)/2 des Ziels
+- Preis: 140GM
+- ZB: -(AGI+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, stürzt augenblicklich zu Boden.
 

@@ -1,18 +1,16 @@
-# Zauber erkennen
+### Zauber erkennen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 2
   - Schwarzmagier: 3
-- Kosten: 60
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 60GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
-- Abklingzeit: 0 KR
+- Distanz: VE Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW erkennt VE/2 Zauber, die das Ziel beherrscht, angefangen mit jenen der höchsten Zugangsstufe. Bei einem Gleichstand entscheidet der Spielleiter, welchen der ZAW sieht.
 

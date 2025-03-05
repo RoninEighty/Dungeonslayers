@@ -1,18 +1,16 @@
-# Heiliger Hammer
+### Heiliger Hammer
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 325
-- Zauberbonus: 0
+- Preis: 325GM
+- ZB: +0
 - Dauer: VE KR
-- Reichweite: Radius von VE x 2 m
-- Abklingzeit: 100 KR
+- Distanz: Radius von VE x 2 m
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Ein Hammer aus hellem Licht erscheint innerhalb eines Radius von VE in Metern um den Heiler herum.
 

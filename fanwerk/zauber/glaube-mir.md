@@ -1,18 +1,16 @@
-# Glaube mir
+### Glaube mir
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 4
-- Kosten: 160
-- Zauberbonus: 0
+- Preis: 160GM
+- ZB: +0
 - Dauer: VE Minuten
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW wird äußerst überzeugend und wirkt sehr vertrauenswürdig. Für die Dauer des Zaubers erhält er +10 auf alle Proben, um zu Lügen und die Wahrheit zu verschleiern.
 

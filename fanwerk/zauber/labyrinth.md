@@ -1,18 +1,16 @@
-# Labyrinth
+### Labyrinth
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 19
-- Kosten: 760
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 760GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE KR
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Das Ziel wird in eine kurzlebige Taschendimension versetzt, ein außerdimensionaler Irrgarten voll verwirrender Rätsel und Gänge. Die Taschendimension bricht nach VE Runden allerdings wieder zusammen und gibt das Ziel des Zaubers unbeschadet wieder an dem Ort frei, von wo es verschwunden ist.
 

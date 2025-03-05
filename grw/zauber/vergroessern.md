@@ -1,18 +1,16 @@
-# Vergrössern
+### Vergrössern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 12
-- Kosten: 920
-- Zauberbonus: -4
+- Preis: 920GM
+- ZB: -4
 - Dauer: Probenergebnis/2 in KR
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Die Körpergröße des freiwilligen Ziels - samt seiner Ausrüstung - verdoppelt sich augenblicklich. Charaktere nehmen die Größenkategorie "groß" (sh. GRW S. 104) an.
 

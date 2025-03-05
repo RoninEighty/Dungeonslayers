@@ -1,38 +1,32 @@
-# Kadaverexplosion
+### Kadaverexplosion
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 13
-- Kosten: 790
-- Zauberbonus: 0
+- Preis: 790GM
+- ZB: +0
 - Dauer: s.u.
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Die Leiche eines Lebewesens von mindestens der Größenkategorie Winzig lädt sich mit schädlicher Energie auf und explodiert nach 1 Runde plus 1 Runde pro Größenkategorie über Winzig für 1W20 abwehrbaren Schaden plus 1W20 pro Größenkategorie über Winzig in einem Radius abhängig von der Größenkategorie des Wesens.
 
-
-
 <b>Größe Radius</b>
 
- Winzig 1 Meter
+Winzig 1 Meter
 
- Klein 1 Meter
+Klein 1 Meter
 
- Normal 3 Meter
+Normal 3 Meter
 
- Groß 6 Meter
+Groß 6 Meter
 
- Riesig 12 Meter
+Riesig 12 Meter
 
- Gewaltig 24 Meter
-
-
+Gewaltig 24 Meter
 
 Berührt allerdings ein Wesen vorzeitig die Leiche, explodiert diese unmittelbar im entsprechenden Radius, allerdings nur für 1W20 Schaden pro Runde, die seit Wirken des Zaubers vergangen ist.
 

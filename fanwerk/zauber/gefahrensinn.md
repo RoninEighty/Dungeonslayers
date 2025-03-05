@@ -1,18 +1,16 @@
-# Gefahrensinn
+### Gefahrensinn
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: -
-- Kosten: 210
-- Zauberbonus: 0
+- Preis: 210GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel erhält +10 auf die Initiative und darf auch gegen Gegner und Fallen, die es nicht bemerkt hat, in der Runde des Angriffs entsprechend seiner Initiative handeln. Dabei gilt der Tarnwert einer Falle als ihr Initiativewert.
 

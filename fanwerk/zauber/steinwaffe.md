@@ -1,18 +1,16 @@
-# Steinwaffe
+### Steinwaffe
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 4
   - Schwarzmagier: 4
-- Kosten: 115
-- Zauberbonus: 0
+- Preis: 115GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW kann eine Waffe in massiven schweren Stein verwandeln. Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht, und ihr Schaden gilt als magisch.
 

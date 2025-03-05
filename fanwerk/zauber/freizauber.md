@@ -1,18 +1,16 @@
-# Freizauber
+### Freizauber
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 19
   - Zauberer: 19
   - Schwarzmagier: 19
-- Kosten: 1280
-- Zauberbonus: -4
+- Preis: 1280GM
+- ZB: -4
 - Dauer: Probenergebnis in KR
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW eignet sich vorrübergehend das Wissen um einen Zauber an, der nicht in seinem eigenen Spruchrepertoire zur Verfügung steht.
 

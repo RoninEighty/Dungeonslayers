@@ -1,18 +1,16 @@
-# Illusionswand
+### Illusionswand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 9
-- Kosten: 520
-- Zauberbonus: 0
+- Preis: 520GM
+- ZB: +0
 - Dauer: Permanent
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: geistesbeeinflussende Zauber
-
-## Beschreibung
 
 Dieser Zauber erschafft eine rein optische, unbewegliche Illusion einer bis zu VE Meter langen, VE/2 Meter hohen und VE x 10 cm dicken Wand. Texturen und Oberflächenstrukturen der Wand kann der ZAW nach seinen Wünschen frei gestalten. Die Illusionswand ist mit einer erfolgreichen Bemerken-Probe abzüglich des halbierten Probenergebnisses der Zaubern-Probe durchschaubar. Natürlich kann sie auch ansonsten ganz normal als Magie bemerkt und identifiziert werden.
 

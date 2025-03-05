@@ -1,18 +1,16 @@
-# Bodenstacheln
+### Bodenstacheln
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 11
   - Schwarzmagier: 9
-- Kosten: 220
-- Zauberbonus: 0
+- Preis: 220GM
+- ZB: +0
 - Dauer: VE KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Auf festem Boden schießen steinerne Dornen aus der Erde über eine Fläche von maximal VE Meter x VE Meter.
 

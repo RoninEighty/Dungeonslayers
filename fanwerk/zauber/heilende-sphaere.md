@@ -1,18 +1,16 @@
-# Heilende Sphäre
+### Heilende Sphäre
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 150
-- Zauberbonus: 0
+- Preis: 150GM
+- ZB: +0
 - Dauer: Probenergebnis in Minuten
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Heiler erschafft eine etwa 50 cm durchmessende (also GK wi) schwebende Sphäre aus reiner Lebenskraft mit einer LK gleich dem doppelten Probenergebnis und einem Laufen-Wert gleich dem doppelten Laufen-Wert des Heilers.
 

@@ -1,18 +1,16 @@
-# Blutentzug
+### Blutentzug
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 4
-- Kosten: 160
-- Zauberbonus: 3
+- Preis: 160GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 0 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Dem Ziel werden Ergebnis/2 Proben seines Blutes entzogen (max 24h haltbar) und dem Zauberwirker zugeführt.
 

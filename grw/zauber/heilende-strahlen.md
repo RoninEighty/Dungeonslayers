@@ -1,18 +1,16 @@
-# Heilende Strahlen
+### Heilende Strahlen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 395
-- Zauberbonus: 0
+- Preis: 395GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 m
-- Abklingzeit: 2 KR
+- Distanz: VE x 2 m
+- Abklingzeit: 2 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Lichtstrahlen schießen vom Heiler aus und heilen die Wunden von bis zu VE/2 Gefährten, die Lebenskraft in Höhe des Probenergebnisses dazu erhalten. Es wird nur eine Probe für diesen Zielzauber gewürfelt: Einzig der Distanzmalus (sh. GRW. S. 43) des Ziels, das am weitesten entfernt steht, wird als Malus gewertet.
 

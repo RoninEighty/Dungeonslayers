@@ -1,18 +1,16 @@
-# Faulbauchmaden erwecken
+### Faulbauchmaden erwecken
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 1
-- Kosten: 20
-- Zauberbonus: 0
+- Preis: 20GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Radius von VE x 2 Meter
+- Distanz: Radius von VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Schwarzmagier kann aus einer Leiche der Größenkategorie Klein oder größer bis zu vier Faulbauchmaden (sh. GRW S. 141) hervorkriechen lassen.
 

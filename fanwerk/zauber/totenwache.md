@@ -1,18 +1,16 @@
-# Totenwache
+### Totenwache
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 9
   - Schwarzmagier: 5
-- Kosten: 90
-- Zauberbonus: 0
+- Preis: 90GM
+- ZB: +0
 - Dauer: Probenergebnis in Tagen
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Die Wirkungsdauer des Zaubers zählt nicht mit zu der Zeit, die der berührte Leichnam tot sein darf, dass er noch wiedererweckt werden kann.
 

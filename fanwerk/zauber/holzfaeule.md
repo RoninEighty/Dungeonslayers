@@ -1,18 +1,16 @@
-# Holzfäule
+### Holzfäule
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 7
   - Schwarzmagier: 9
-- Kosten: 80
-- Zauberbonus: -1 pro WB/PA/Kilogramm
+- Preis: 80GM
+- ZB: -1 pro WB/PA/Kilogramm
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Dieser Zauber lässt bei Erfolg einen nichtmagischen unbelebten hölzernen Gegenstand augenblicklich zu morschen Spänen zerfallen.
 

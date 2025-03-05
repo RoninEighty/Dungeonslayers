@@ -1,18 +1,16 @@
-# Säurestrahl
+### Säurestrahl
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 4
-- Kosten: 205
-- Zauberbonus: 1
+- Preis: 205GM
+- ZB: +1
 - Dauer: Augenblicklich
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 0 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Der ZAW schießt einen Säurestrahl auf das Ziel, dessen Schaden dem Probenergebnis entspricht. In der darauffolgenden Runde verursacht die Säure noch einmal genauso viel Schaden.
 

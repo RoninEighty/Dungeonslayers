@@ -1,18 +1,16 @@
-# Spur verwischen
+### Spur verwischen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 3
   - Schwarzmagier: 3
-- Kosten: 45
-- Zauberbonus: 0
+- Preis: 45GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE x 20 Meter / Radius VE Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 20 Meter / Radius VE Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauber verwischt alle Spuren des ZAW und seiner Gefährten bis zu einer Wegdistanz von VE des ZAW x 20 Meter hinter ihnen.
 

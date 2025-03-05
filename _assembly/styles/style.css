@@ -225,7 +225,7 @@ table {
 }
 
 /* Space between direct tables */
-table ~ table {
+table + table {
 	margin-top: 0.5rem;
 }
 

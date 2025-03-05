@@ -1,18 +1,16 @@
-# Lebenssauger
+### Lebenssauger
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 9
-- Kosten: 530
-- Zauberbonus: 3
+- Preis: 530GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 5 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Der Zaubernde erhält 50% des verursachten Schadens (also abzüglich des Abwehrwurfs des Gegners) in Form von heilender Magie auf seine LK gutgeschrieben.
 

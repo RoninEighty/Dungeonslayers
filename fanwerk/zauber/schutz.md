@@ -1,18 +1,16 @@
-# Schutz
+### Schutz
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 5
   - Schwarzmagier: -
-- Kosten: 80
-- Zauberbonus: 0
+- Preis: 80GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 1 KR
+- Distanz: Berühren
+- Abklingzeit: 1 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel erhält +2 auf seine Abwehr. Weitere Anwendungen von Schutz sind nicht kumulativ.
 

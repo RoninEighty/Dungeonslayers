@@ -1,18 +1,16 @@
-# Stimme der Finsternis
+### Stimme der Finsternis
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 13
-- Kosten: 1580
-- Zauberbonus: -(GEI+AU)/2 + (Rang DdD) x 2
+- Preis: 1580GM
+- ZB: -(GEI+AU)/2 + (Rang DdD) x 2
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Lästerliche Worte der Finsternis ausstoßend, fügt der Schwarzmagier Wesen und Dienern Lichts im Umkreis von VE Metern Schaden zu in Höhe des doppelten Probenergebnisses. Betroffene Wesen würfeln ihre Abwehr ohne Panzerungsboni ihrer Gegenstände.
 

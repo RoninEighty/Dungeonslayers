@@ -1,18 +1,16 @@
-# Unsichtbares Sehen
+### Unsichtbares Sehen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 12
   - Schwarzmagier: 12
-- Kosten: 325
-- Zauberbonus: 0
+- Preis: 325GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel erhält für die Dauer des Zauberspruchs die Fähigkeit, unsichtbare Objekte und Lebewesen ganz normal erkennen zu können.
 

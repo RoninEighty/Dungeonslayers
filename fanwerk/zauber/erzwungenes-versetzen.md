@@ -1,18 +1,16 @@
-# Erzwungenes Versetzen
+### Erzwungenes Versetzen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 14
   - Zauberer: 11
   - Schwarzmagier: 12
-- Kosten: 465
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 465GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE Meter
-- Abklingzeit: 100 KR
+- Distanz: VE Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Dieser Zauber wirkt genau wie Versetzen, allerdings muss das Ziel nicht freiwillig sein.
 

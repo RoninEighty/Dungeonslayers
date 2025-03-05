@@ -1,18 +1,16 @@
-# Flackern
+### Flackern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: 4
-- Kosten: 45
-- Zauberbonus: -2
+- Preis: 45GM
+- ZB: -2
 - Dauer: Probenergebnis x 2 KR
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW beginnt zu flackern und ist dadurch schwieriger zu treffen.
 

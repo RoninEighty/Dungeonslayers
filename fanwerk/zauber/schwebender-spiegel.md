@@ -1,18 +1,16 @@
-# Schwebender Spiegel
+### Schwebender Spiegel
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: 3
-- Kosten: 60
-- Zauberbonus: 0
+- Preis: 60GM
+- ZB: +0
 - Dauer: VE Minuten
-- Reichweite: Radius von VE x 5 Meter
-- Abklingzeit: 10 KR
+- Distanz: Radius von VE x 5 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauber erschafft eine 50 cm durchmessende schwebende kreisrunde reflektierende Fläche, die der ZAW an beliebiger Stelle innerhalb des Wirkungsradius erscheinen und in diesem Bereich nach Belieben umher schweben lassen kann. So können zum Beispiel schlecht einsehbare Ecken ausgespäht werden, ohne dass der ZAW sich in unmittelbare Gefahr begeben muss.
 

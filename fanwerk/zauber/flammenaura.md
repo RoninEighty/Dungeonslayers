@@ -1,18 +1,16 @@
-# Flammenaura
+### Flammenaura
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 16
-- Kosten: 660
-- Zauberbonus: 0
+- Preis: 660GM
+- ZB: +0
 - Dauer: VE KR
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW umgibt sich selbst mit einer Wolke lodernder Flammen, die ihm selbst keinen Schaden zufügt und die Umgebung wie ein Lagerfeuer erhellt. Alle Kreaturen im Umkreis von GEI/2 Metern erhalten jede Runde 1W20 abwehrbaren Schaden.
 

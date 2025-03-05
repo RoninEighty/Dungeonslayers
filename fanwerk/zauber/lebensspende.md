@@ -1,18 +1,16 @@
-# Lebensspende
+### Lebensspende
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 11
-- Kosten: 510
-- Zauberbonus: 2
+- Preis: 510GM
+- ZB: +2
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW heilt dem berührten Ziel LK bis zur Höhe des Würfelergebnisses der Zauberprobe.
 

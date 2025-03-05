@@ -1,18 +1,16 @@
-# Dunkelheit spüren
+### Dunkelheit spüren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 255
-- Zauberbonus: 0
+- Preis: 255GM
+- ZB: +0
 - Dauer: Konzentration
-- Reichweite: Radius von VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: Radius von VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW kann die Anwesenheit von Wesen und Dienern der Dunkelheit in Reichweite des Zaubers spüren, und auch ihre Position ermitteln, selbst wenn die Wesen unsichtbar sind.
 

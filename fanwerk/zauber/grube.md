@@ -1,18 +1,16 @@
-# Grube
+### Grube
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 16
-- Kosten: 1520
-- Zauberbonus: -4
+- Preis: 1520GM
+- ZB: -4
 - Dauer: VE x 2 Stunden
-- Reichweite: VE/2 Meter
+- Distanz: VE/2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Erschafft in Reichweite eine Grube mit einer Kantenlänge von GEI des ZAW/2 in Metern und mit einer Tiefe in Metern gleich dem Probenergebnis. Die Grube ist mit einer Illusion getarnt, wodurch sie einen TW entsprechend dem VE des ZAW hat. Der ZAW kann die Tarnung auf Wunsch weglassen.
 

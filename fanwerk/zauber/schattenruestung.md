@@ -1,18 +1,16 @@
-# Schattenrüstung
+### Schattenrüstung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 9
-- Kosten: 460
-- Zauberbonus: 0
+- Preis: 460GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das anvisierte Rüstungsteil wabert mit rauchartiger übler Dunkelheit.
 

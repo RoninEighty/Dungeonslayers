@@ -1,18 +1,16 @@
-# Schatten
+### Schatten
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 2
-- Kosten: 75
-- Zauberbonus: -(AGI+AU)/2 des Ziels
+- Preis: 75GM
+- ZB: -(AGI+AU)/2 des Ziels
 - Dauer: Probenergebnis/2 KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 5 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Dunkle Schatten umhüllen das Ziel (welches keine Abwehr dagegen würfeln darf), wodurch es -8 auf alle Handlungen hat, bei denen es besser sehen können sollte.
 

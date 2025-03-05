@@ -1,18 +1,16 @@
-# Selbstheilung
+### Selbstheilung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: 3
+- Preis: 10GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: Selbst
-- Abklingzeit: 0 KR
+- Distanz: Selbst
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Als Bewegungsaktion heilt der sich der ZAW selbst in Höhe des Probenergebnisses.
 

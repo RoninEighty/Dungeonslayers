@@ -1,18 +1,16 @@
-# Frostwaffe
+### Frostwaffe
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: -
-- Kosten: 160
-- Zauberbonus: 0
+- Preis: 160GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 m
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 m
+- Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Der ZAW kann eine Waffe in eisige Kälte hüllen. Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht und ihr Schaden gilt als magisch.
 

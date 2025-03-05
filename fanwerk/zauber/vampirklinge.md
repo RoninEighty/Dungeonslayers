@@ -1,18 +1,16 @@
-# Vampirklinge
+### Vampirklinge
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 6
-- Kosten: 335
-- Zauberbonus: 0
+- Preis: 335GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Die verzauberte Klingenwaffe wird weiß wie Elfenbein, und Blut beginnt von ihr herabzutropfen.
 

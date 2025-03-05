@@ -1,18 +1,16 @@
-# Schattenmantel
+### Schattenmantel
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 6
-- Kosten: 335
-- Zauberbonus: 0
+- Preis: 335GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW hüllt sich selbst in Schatten, die ihn in einem Radius von VE/2 Metern umgeben. Angriffe gegen Ziele in der Finsternis werden um 8 erschwert, gleichsam erhalten alle innerhalb der Finsternis -8 auf alle Proben, bei denen man besser sehen können sollte.
 

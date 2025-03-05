@@ -1,18 +1,16 @@
-# Zauberleiter
+### Zauberleiter
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 4
   - Schwarzmagier: 4
-- Kosten: 320
-- Zauberbonus: 0
+- Preis: 320GM
+- ZB: +0
 - Dauer: Konzentration
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Eine magische Leiter entsteht, die bis zu VE x ZAWtufe Meter hoch sein kann.
 

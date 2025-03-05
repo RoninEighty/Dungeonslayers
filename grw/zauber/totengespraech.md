@@ -1,18 +1,16 @@
-# Totengespräch
+### Totengespräch
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 9
-- Kosten: 1590
-- Zauberbonus: 0
+- Preis: 1590GM
+- ZB: +0
 - Dauer: VE Fragen bzw. VE Minuten
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: W20 Tage
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW kann den Geist eines Toten befragen, dieser muss ihm antworten, allerdings nicht automatisch wahrheitsgemäß.
 

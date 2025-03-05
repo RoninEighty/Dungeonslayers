@@ -1,18 +1,16 @@
-# Tiersprache
+### Tiersprache
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 7
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: -GH/2 des Ziels
+- Preis: 10GM
+- ZB: -GH/2 des Ziels
 - Dauer: VE Minuten
-- Reichweite: VE/2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE/2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
-
-## Beschreibung
 
 Der ZAW kann währender der Dauer des Zaubers mit einem Tier sprechen. Das Tier versteht seine Worte, und der ZAW hört seine Muttersprache, wenn das Tier mit ihm kommuniziert, selbst wenn es überhaupt keine Laute von sich gibt.
 

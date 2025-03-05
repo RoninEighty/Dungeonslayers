@@ -1,18 +1,16 @@
-# Verschicken
+### Verschicken
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 11
-- Kosten: 410
-- Zauberbonus: -1 pro (Stufe x Kilogramm)
+- Preis: 410GM
+- ZB: -1 pro (Stufe x Kilogramm)
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Dieser Zauber funktioniert wie Teleport, wirkt jedoch nur auf das berührte unbelebte Objekt. Genau wie bei Teleport wird der PW bei einem nur flüchtig bekannten Ziel halbiert.
 

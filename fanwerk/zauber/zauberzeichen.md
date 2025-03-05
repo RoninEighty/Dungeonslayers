@@ -1,18 +1,16 @@
-# Zauberzeichen
+### Zauberzeichen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 1
   - Schwarzmagier: 2
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Permanent
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW kann auf einer beliebigen Oberfläche eine Nachricht erscheinen lassen, die bis zu VE x 10 Schriftzeichen umfassen kann (max. 140).
 

@@ -1,18 +1,16 @@
-# Antimagie
+### Antimagie
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 11
   - Schwarzmagier: 15
-- Kosten: 1020
-- Zauberbonus: -2
+- Preis: 1020GM
+- ZB: -2
 - Dauer: Probenergebnis in Stunden
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauber erzeugt ein VE Meter x VE Meter x VE Meter großes Gebiet, in dem sämtliche Magie unterdrückt wird.
 

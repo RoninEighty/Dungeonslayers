@@ -1,18 +1,16 @@
-# Heiltrank verderben
+### Heiltrank verderben
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 8
-- Kosten: 465
-- Zauberbonus: 0
+- Preis: 465GM
+- ZB: +0
 - Dauer: Permanent
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Schwarzmagier verwandelt einen Heiltrank oder eine Portion Heilkräuter in ein gefährliches Gift.
 

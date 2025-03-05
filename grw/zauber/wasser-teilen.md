@@ -1,18 +1,16 @@
-# Wasser teilen
+### Wasser teilen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 1185
-- Zauberbonus: 0
+- Preis: 1185GM
+- ZB: +0
 - Dauer: Konzentration
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: W20 Tage
 - Art: Zielzauber
-
-## Beschreibung
 
 Der ZAW kann jegliche Gewässer teilen und eine 1m breite Schneise bis zum Grund in sie schlagen, ihre Länge einzig und allein begrenzt durch den Entfernungsmalus auf Zielzauber (sh. GRW S. 43).
 

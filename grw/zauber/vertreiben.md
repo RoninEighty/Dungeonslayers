@@ -1,18 +1,16 @@
-# Vertreiben
+### Vertreiben
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 10GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Probenergebnis/2 Minuten
-- Reichweite: Radius von VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: Radius von VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Vertreibt eine Anzahl von Untoten im Wirkungsbereich gleich der halbierten Stufe des ZAW.
 

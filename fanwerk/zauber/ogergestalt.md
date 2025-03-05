@@ -1,18 +1,16 @@
-# Ogergestalt
+### Ogergestalt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 9
-- Kosten: 720
-- Zauberbonus: -2
+- Preis: 720GM
+- ZB: -2
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das freiwillige Ziel nimmt augenblicklich die Gestalt eines Ogers an.
 

@@ -1,18 +1,16 @@
-# Falsche Magie
+### Falsche Magie
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 2
   - Schwarzmagier: 3
-- Kosten: 60
-- Zauberbonus: 0
+- Preis: 60GM
+- ZB: +0
 - Dauer: VE Tage
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW legt eine Illusion auf einen Gegenstand von maximal 1 Kubikmeter Größe, die mit normalen Sinnen nicht wahrnehmbar ist, aber magische Sinne täuschen kann. Somit kann er festlegen, zu welchem Ergebnis eine erfolgreiche magische Analyse kommt, selbst unter Einsatz der Zauber Magie entdecken/identifizieren.
 

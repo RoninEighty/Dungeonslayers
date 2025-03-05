@@ -1,18 +1,16 @@
-# Wandöffnung
+### Wandöffnung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 14
-- Kosten: 260
-- Zauberbonus: 0
+- Preis: 260GM
+- ZB: +0
 - Dauer: Probenergebnis/2 KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW öffnet ein kreisrundes Loch von 1m Durchmesser in einer bis zu VE x 10 cm dicken, nichtmagischen Wand.
 

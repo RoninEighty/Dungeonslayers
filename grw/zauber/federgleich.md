@@ -1,18 +1,16 @@
-# Federgleich
+### Federgleich
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 3
   - Schwarzmagier: 3
-- Kosten: 110
-- Zauberbonus: 0
+- Preis: 110GM
+- ZB: +0
 - Dauer: 1 Minute und bis Distanz gefallen
-- Reichweite: Berühren
-- Abklingzeit: 0 KR
+- Distanz: Berühren
+- Abklingzeit: 0 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel - samt seiner getragenen Ausrüstung - kann aus einer Höhe gleich dem doppelten Probenergebniss in Metern sanft wie ein Feder ungelenkt zu Boden gleiten (1m pro KR).
 

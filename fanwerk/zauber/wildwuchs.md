@@ -1,18 +1,16 @@
-# Wildwuchs
+### Wildwuchs
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 580
-- Zauberbonus: 0
+- Preis: 580GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Radius VEx2 Meter (Druide: 5m)
+- Distanz: Radius VEx2 Meter (Druide: 5m)
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 In einem Radius von VE x 2 Meter (Druide: VE x 5 Meter) um den ZAW herum sprießt dichter Pflanzenbewuchs aus schlanken Bäumen, Hecken und Schlingpflanzen bis in VE/2 Meter Höhe. Kreaturen in diesem Gebiet können sich maximal 1 Meter pro Runde bewegen, Fliegen ist in dem Bereich unmöglich. Alle Schießen-Proben auf Ziele jenseits von 1 Meter Entfernung sowie alle Entdecken-Proben, um Ziele jenseits von 1 Meter Entfernung auszumachen, sind um - 8 erschwert. In natürlichem Gebiet stirbt der Wildwuchs nach VE Tagen ab (weil der Boden diese Pflanzendichte trotz allem einfach nicht versorgen kann), in unfruchtbarem Gebiet, in dem Pflanzen normalerweise nicht wachsen können, stirbt der Wildwuchs nach VE Kampfrunden ab.
 

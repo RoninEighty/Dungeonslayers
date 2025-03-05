@@ -1,18 +1,16 @@
-# Kleine Unsichtbarkeit
+### Kleine Unsichtbarkeit
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 3
   - Schwarzmagier: 4
-- Kosten: 110
-- Zauberbonus: 0
+- Preis: 110GM
+- ZB: +0
 - Dauer: VE x 2 KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Macht ein Lebewesen (samt seiner getragenen Ausrüstung) oder ein Objekt für die Dauer des Zauberspruchs unsichtbar.
 

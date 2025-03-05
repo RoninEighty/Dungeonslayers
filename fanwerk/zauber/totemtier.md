@@ -1,18 +1,16 @@
-# Totemtier
+### Totemtier
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 395
-- Zauberbonus: -GH des Tieres
+- Preis: 395GM
+- ZB: -GH des Tieres
 - Dauer: Probenergebnis in KR
-- Reichweite: VE Meter
-- Abklingzeit: 100 KR
+- Distanz: VE Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Heiler verleiht mit diesem Zauber einem Tier mystische Kräfte, wodurch es heroisch wird. Der Zauber verleiht keinerlei Kontrolle über ein Tier.
 

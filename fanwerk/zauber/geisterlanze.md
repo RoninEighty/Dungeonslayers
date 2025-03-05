@@ -1,18 +1,16 @@
-# Geisterlanze
+### Geisterlanze
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 8
-- Kosten: 465
-- Zauberbonus: 3
+- Preis: 465GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Dies ist eine mächtigere Version des Zaubers Geisterpfeil.
 

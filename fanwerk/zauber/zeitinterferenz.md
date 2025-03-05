@@ -1,18 +1,16 @@
-# Zeitinterferenz
+### Zeitinterferenz
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 5
   - Schwarzmagier: 9
-- Kosten: 210
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 210GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Alle laufenden Abklingzeiten des Ziels werden um eine Kampfrunde pro Probenergebnis verlängert.
 

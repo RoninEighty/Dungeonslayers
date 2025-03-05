@@ -1,18 +1,16 @@
-# Heilende Rune
+### Heilende Rune
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 220
-- Zauberbonus: 4
+- Preis: 220GM
+- ZB: +4
 - Dauer: Permanent, bis ausgelöst
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Heiler hinterlässt an einer festen Oberfläche eine deutlich sichtbare glühende persönliche Rune, und er kann beim Wirken bis zu VE/2 Verbündete benennen, die die Rune auslösen können.
 

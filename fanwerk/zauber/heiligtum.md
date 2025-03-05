@@ -1,18 +1,16 @@
-# Heiligtum
+### Heiligtum
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 325
-- Zauberbonus: 0
+- Preis: 325GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
-
-## Beschreibung
 
 Eine Aura der Heiligkeit umgibt den Heiler, die es allen Kreaturen unmöglich macht, ihn anzugreifen, es sei denn ihnen gelingt ein Wurf auf GEI+VE.
 

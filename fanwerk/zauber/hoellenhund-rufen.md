@@ -1,18 +1,16 @@
-# Höllenhund rufen
+### Höllenhund rufen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 6
-- Kosten: 670
-- Zauberbonus: -5
+- Preis: 670GM
+- ZB: -5
 - Dauer: Probenergebnis in KR
-- Reichweite: Radius von VE x 2 Meter
+- Distanz: Radius von VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 An einem beliebigen Ort innerhalb der Distanz erscheint ein Höllenhund (Werte wie Unwolf, GRW, S.
 

@@ -1,18 +1,16 @@
-# Erzwungenes Vergrössern
+### Erzwungenes Vergrössern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 14
-- Kosten: 1120
-- Zauberbonus: -(KÖR+HÄ)/2 des Ziels
+- Preis: 1120GM
+- ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Probenergebnis/2 KR
-- Reichweite: VE/2 Meter
+- Distanz: VE/2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauber wirkt genau wie Vergrößern, nur dass das Ziel nicht freiwillig sein muss, und das zusätzlich seine AGI, GE und BE halbiert werden.
 

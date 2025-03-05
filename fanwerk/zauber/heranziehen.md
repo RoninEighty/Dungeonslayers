@@ -1,18 +1,16 @@
-# Heranziehen
+### Heranziehen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 1 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Der Zauber zieht einen kleinen Gegenstand von maximal VE x 100 Gramm in die Hand des ZAW.
 

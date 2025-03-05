@@ -1,18 +1,16 @@
-# Säurelanze
+### Säurelanze
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 8
-- Kosten: 410
-- Zauberbonus: 2
+- Preis: 410GM
+- ZB: +2
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 0 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Dies ist eine mächtigere Variante des Zaubers Säurestrahl.
 

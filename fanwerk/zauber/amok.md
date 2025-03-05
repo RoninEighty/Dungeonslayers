@@ -1,18 +1,16 @@
-# Amok
+### Amok
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 7
-- Kosten: 360
-- Zauberbonus: -(GEI+AU)/2 des Ziels
+- Preis: 360GM
+- ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: geistesbeeinflussende Zauber
-
-## Beschreibung
 
 Das Ziel verfällt in einen besinnungslosen Blutrausch und greift während der Wirkungsdauer in jeder Runde das ihm jeweils nächste Wesen im Nahkampf an, nötigenfalls waffenlos.
 

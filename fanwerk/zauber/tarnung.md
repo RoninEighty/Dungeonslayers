@@ -1,18 +1,16 @@
-# Tarnung
+### Tarnung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 2
   - Schwarzmagier: 2
-- Kosten: 60
-- Zauberbonus: -2
+- Preis: 60GM
+- ZB: -2
 - Dauer: Probenergebnis in Minuten
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Die Farbe des Ziels und seiner Ausrüstung passt sich konstant der Umgebung an, wodurch es schwerer zu entdecken wird. Wenn das Ziel aktiv versucht, sich zu verstecken, erhalten alle Proben, es zu entdecken, einen Abzug entsprechend dem halben GEI-Wert des ZAW. Dies ist keine Unsichtbarkeit, wird also nicht beendet, wenn das Ziel des Zaubers eine Aktion ausführt, die Unsichtbarkeit beenden würde. Allerdings bekommen Gegner dann das Recht auf einen Entdecken-Wurf.
 

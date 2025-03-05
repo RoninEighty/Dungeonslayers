@@ -1,18 +1,16 @@
-# Wahnsinn
+### Wahnsinn
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 15
-- Kosten: 2760
-- Zauberbonus: -(GEI+AU)/2 des Ziels
+- Preis: 2760GM
+- ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: W20 Tage
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel des Zaubers wird auf der Stelle wahnsinnig und zu einem sabbernden Schwachsinnigen, dessen Geist fortan auf 0 gesenkt ist.
 

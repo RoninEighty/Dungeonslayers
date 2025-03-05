@@ -1,18 +1,16 @@
-# Kampfdämon rufen
+### Kampfdämon rufen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 8
-- Kosten: 930
-- Zauberbonus: -7 (-11 für fliegenden Dämon)
+- Preis: 930GM
+- ZB: -7 (-11 für fliegenden Dämon)
 - Dauer: Probenergebnis in KR
-- Reichweite: Radius von VE x 2 Meter
+- Distanz: Radius von VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 An einem beliebigen Ort innerhalb der Distanz erscheint ein Kampfdämon (GRW, S. 107). Dieser ist automatisch kontrolliert und erfüllt alle Aufträge des Beschwörers, sofern ihm dies in der kurzen Zeit möglich ist, bis er wieder auf seine Heimatebene verschwindet.
 

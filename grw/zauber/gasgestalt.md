@@ -1,18 +1,16 @@
-# Gasgestalt
+### Gasgestalt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 18
-- Kosten: 1420
-- Zauberbonus: 0
+- Preis: 1420GM
+- ZB: +0
 - Dauer: Probenergebnis x 5 KR
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel - samt seiner getragenen Ausrüstung - wird gasförmig und kann durch jede noch so kleine Öffnung gleiten.
 

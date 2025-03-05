@@ -1,18 +1,16 @@
-# Duftnote
+### Duftnote
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 1
   - Schwarzmagier: 2
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Probenergebnis in Minuten
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel wird vom ZAW mit einem Duft versehen.
 

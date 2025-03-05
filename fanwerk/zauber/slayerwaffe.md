@@ -1,18 +1,16 @@
-# Slayerwaffe
+### Slayerwaffe
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 2
   - Schwarzmagier: 2
-- Kosten: 45
-- Zauberbonus: 0
+- Preis: 45GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Die verzauberte Waffe beginnt in grünlichem Licht zu leuchten, erhält +1 auf den WB und zählt als magisch. Zusätzlich erhält ihr Träger durch jeden Immersieg bei einem Angriff mit der Slayerwaffe einen zusätzlichen Slayerpunkt.
 

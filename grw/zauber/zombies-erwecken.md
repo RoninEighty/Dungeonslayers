@@ -1,18 +1,16 @@
-# Zombies erwecken
+### Zombies erwecken
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 8
-- Kosten: 930
-- Zauberbonus: 0
+- Preis: 930GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Radius von VE x 5 Meter
+- Distanz: Radius von VE x 5 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Schwarzmagier kann eine maximale Anzahl an Leichen gleich seiner eigenen Stufe im Wirkungsradius zu untotem Leben erwecken.
 

@@ -1,18 +1,16 @@
-# Schweig
+### Schweig
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 10
   - Schwarzmagier: 8
-- Kosten: 395
-- Zauberbonus: -(GEI+AU)/2 des Ziels
+- Preis: 395GM
+- ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE/2 KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, verstummt für die Dauer des Zauberspruchs. Verstummte ZAW können solange nur wortlos zaubern (sh. GRW S. 47).
 

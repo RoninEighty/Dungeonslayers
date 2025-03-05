@@ -1,18 +1,16 @@
-# Heilendes Gift
+### Heilendes Gift
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: -
   - Schwarzmagier: 9
-- Kosten: 255
-- Zauberbonus: 0
+- Preis: 255GM
+- ZB: +0
 - Dauer: Permanent
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauber verwandelt eine Dosis Gift in eine heilsame Substanz (es genügt, das Gefäß zu berühren, das es enthält), die bei Einnahme in genau der gleichen Weise und Menge heilt, wie das Gift Schaden gemacht hätte (wobei eventuelle Abwehrwürfe natürlich unnötig sind).
 

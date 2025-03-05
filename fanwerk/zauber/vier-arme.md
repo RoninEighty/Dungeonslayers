@@ -1,18 +1,16 @@
-# Vier Arme
+### Vier Arme
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 8
-- Kosten: 720
-- Zauberbonus: 0
+- Preis: 720GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Dem Ziel wachsen zwei zusätzliche Arme (Rüstung und Kleidung verwandeln sich entsprechend mit). So kann es beispielsweise mit vier Einhandwaffen kämpfen, oder mit zwei zwei Zweihandwaffen, oder mit einer Zweihand- und zwei Einhandwaffen.
 

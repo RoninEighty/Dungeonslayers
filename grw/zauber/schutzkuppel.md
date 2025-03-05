@@ -1,18 +1,16 @@
-# Schutzkuppel
+### Schutzkuppel
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 12
   - Schwarzmagier: 12
-- Kosten: 765
-- Zauberbonus: 0
+- Preis: 765GM
+- ZB: +0
 - Dauer: Konzentration
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: W20 Tage
 - Art: Zaubern
-
-## Beschreibung
 
 Eine Schutzkuppel mit einem Radius von VE in Metern erscheint um den ZAW herum, solange er sich konzentriert (zählt als ganze Aktion).
 

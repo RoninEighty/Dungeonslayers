@@ -1,18 +1,16 @@
-# Geteiltes Leben
+### Geteiltes Leben
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 10
   - Schwarzmagier: 10
-- Kosten: 370
-- Zauberbonus: 2
+- Preis: 370GM
+- ZB: +2
 - Dauer: Augenblicklich
-- Reichweite: Radius von VE x 2 Meter
+- Distanz: Radius von VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauber wirkt effektiv wie Magische Rüstung, nur dass der ZAW Probenergebnis x 2 LK auf bis zu VE Verbündete im Umkreis des Zaubers verteilen darf.
 

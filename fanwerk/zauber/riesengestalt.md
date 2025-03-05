@@ -1,18 +1,16 @@
-# Riesengestalt
+### Riesengestalt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 18
   - Schwarzmagier: 20
-- Kosten: 1720
-- Zauberbonus: -2
+- Preis: 1720GM
+- ZB: -2
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das freiwillige Ziel nimmt augenblicklich die Gestalt eines Riesen an.
 

@@ -1,18 +1,16 @@
-# Verkrüppeln 2
+### Verkrüppeln 2
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 15
-- Kosten: 810
-- Zauberbonus: -(KÖR+HÄ)/2 des Ziels
+- Preis: 810GM
+- ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 <u>Arme</u>: Hat eine Kreatur die Fähigkeit "Mehrere Angriffsglieder", können diese mit erfolgreichem Verkrüppeln automatisch reduziert werden. Aber auch generell kann der Zauber die Anzahl von Angriffen, die eine Kreatur pro Runde hat, reduzieren, sofern diese auf einer entsprechenden Anzahl von Gliedmaßen beruhen.
 

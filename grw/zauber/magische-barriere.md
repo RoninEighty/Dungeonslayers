@@ -1,18 +1,16 @@
-# Magische Barriere
+### Magische Barriere
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 14
   - Zauberer: 10
   - Schwarzmagier: 12
-- Kosten: 920
-- Zauberbonus: -2
+- Preis: 920GM
+- ZB: -2
 - Dauer: VE Minuten oder Konzentration
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW erschafft ein unbewegliches, würfelförmiges Kraftfeld mit einer Größe von maximal VE/2 mÂ³, welches sämtliche Magie- und Zaubersprucheffekte nach innen und außen hin komplett abblockt.
 

@@ -1,18 +1,16 @@
-# Schleudern
+### Schleudern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 12
   - Schwarzmagier: 10
-- Kosten: 535
-- Zauberbonus: -(KÖR+AU)/2 des Ziels
+- Preis: 535GM
+- ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE/2 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE/2 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Diese Zauberspruch, gegen den das Ziel keine Abwehr würfeln kann, schleudert das Ziel (Probenergebnis/3) Meter weit fort.
 

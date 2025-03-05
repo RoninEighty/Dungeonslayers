@@ -1,18 +1,16 @@
-# Heilendes Feld
+### Heilendes Feld
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 18
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 1210
-- Zauberbonus: 2
+- Preis: 1210GM
+- ZB: +2
 - Dauer: Augenblicklich
-- Reichweite: Radius von VE x 2 m
+- Distanz: Radius von VE x 2 m
 - Abklingzeit: 24 Stunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Dieser Zauber heilt bei allen Gefährten im Wirkungsradius die Lebenskraft um das Probenergebnis.
 

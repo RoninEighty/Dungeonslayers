@@ -1,18 +1,16 @@
-# Volksgestalt
+### Volksgestalt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 5
-- Kosten: 420
-- Zauberbonus: -4
+- Preis: 420GM
+- ZB: -4
 - Dauer: Probenergebnis in Stunden
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Bis zu VE einwilligende, humanoide Ziele (zu denen natürlich auch der ZAW selbst gehören kann) in Reichweite werden in die Gestalt eines anderen humanoiden Volkes der gleichen Größenkategorie (sh. GRW S. 104) verwandelt (nicht jedoch seine Ausrüstung).
 

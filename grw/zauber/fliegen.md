@@ -1,18 +1,16 @@
-# Fliegen
+### Fliegen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 20
   - Zauberer: 10
   - Schwarzmagier: 10
-- Kosten: 460
-- Zauberbonus: 0
+- Preis: 460GM
+- ZB: +0
 - Dauer: Probenergebnis x 5 KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel kann fliegen. Die Fortbewegungsgeschwindigkeit ist im Flug doppelt so hoch wie am Boden (zusätzlich kann man sie wie beim "Rennen" verdoppeln).
 

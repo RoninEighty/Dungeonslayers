@@ -1,18 +1,16 @@
-# Zorn des Lichts
+### Zorn des Lichts
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 80
-- Zauberbonus: 0
+- Preis: 80GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Eine flammende Helligkeit umgibt das Ziel des Zaubers, welches einen Bonus von +2 pro Talentrang in DIENER DES LICHTS auf seine Abwehr erhält. Außerdem gelten alle seine natürlichen Waffen und alle Nahkampfwaffen, die es führt, als magisch und erhalten WB +1.
 

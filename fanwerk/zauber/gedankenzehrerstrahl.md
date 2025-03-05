@@ -1,18 +1,16 @@
-# Gedankenzehrerstrahl
+### Gedankenzehrerstrahl
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 8
-- Kosten: 360
-- Zauberbonus: -(GEI+VE)/2 des Ziels
+- Preis: 360GM
+- ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 10 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 10 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Ein kaum sichtbarer Strahl schießt vom ZAW auf das Ziel, nur wahrnehmbar durch ein Flirren der Luft.
 

@@ -1,24 +1,18 @@
-# Blitz
+### Blitz
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 7
   - Schwarzmagier: 7
-- Kosten: 310
-- Zauberbonus: 3
+- Preis: 310GM
+- ZB: +3
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 m
-- Abklingzeit: 1 KR
+- Distanz: VE x 10 m
+- Abklingzeit: 1 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
-
 Der ZAW schießt einen Blitz auf einen Feind. Gegner in Metallrüstung dürfen keine Abwehr gegen Blitze würfeln.
-
-
-
-
 
 ---
 

@@ -1,18 +1,16 @@
-# Eigenschaft stärken
+### Eigenschaft stärken
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 11
   - Schwarzmagier: -
-- Kosten: 290
-- Zauberbonus: 0
+- Preis: 290GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel erhält +3 auf eine Eigenschaft nach Wahl des ZAW.
 

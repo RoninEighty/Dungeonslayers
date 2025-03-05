@@ -1,18 +1,16 @@
-# Heilende Aura
+### Heilende Aura
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: Probenergebnis x 2 KR
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Heiler und alle seine Gefährten in einem Radius von VE in Metern erhalten 1LK jede KR geheilt.
 

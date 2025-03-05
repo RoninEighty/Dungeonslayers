@@ -1,18 +1,16 @@
-# Arkaner Stiefel
+### Arkaner Stiefel
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 16
-- Kosten: 1420
-- Zauberbonus: 0
+- Preis: 1420GM
+- ZB: +0
 - Dauer: VE x 2 KR
-- Reichweite: Radius von VE Meter
+- Distanz: Radius von VE Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Ein riesiger Stiefel aus glühender magischer Energie erscheint (Farbe nach Wunsch) innerhalb eines Radius von VE Metern um den ZAW herum.
 

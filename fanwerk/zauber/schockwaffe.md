@@ -1,18 +1,16 @@
-# Schockwaffe
+### Schockwaffe
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 4
   - Schwarzmagier: -
-- Kosten: 150
-- Zauberbonus: 0
+- Preis: 150GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW kann eine Waffe in zuckende Blitze hüllen. Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht, und ihr Schaden gilt als magisch.
 

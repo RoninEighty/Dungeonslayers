@@ -1,18 +1,16 @@
-# Giftschutz
+### Giftschutz
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 2
   - Schwarzmagier: 8
-- Kosten: 10
-- Zauberbonus: 0
+- Preis: 10GM
+- ZB: +0
 - Dauer: VE Stunden
-- Reichweite: Berühren
-- Abklingzeit: 10 KR
+- Distanz: Berühren
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel erhält einen Bonus auf Abwehr-Proben gegen Gifte in Höhe der Stufe des ZAW. Der alleinige Bonus (ohne den normalen Abwehr-Wert) wirkt auch gegen Gifte, bei denen normalerweise keine Abwehr erlaubt ist.
 

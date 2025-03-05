@@ -1,18 +1,16 @@
-# Vampirfäuste
+### Vampirfäuste
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: 2
-- Kosten: 50
-- Zauberbonus: +ST
+- Preis: 50GM
+- ZB: +ST
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 2 KR
+- Distanz: Berühren
+- Abklingzeit: 2 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauberwirker entzieht seinem Ziel die Lebenskraft, was Schaden entsprechend dem Probenergebnis zufügt. Der Zauberwirker erhält zudem 50% des Schadens, den er mit dem Zauber verursacht hat (also abzüglich des Abwehrwurfs des Gegners), in Form von heilender Magie auf die eigene Lebenskraft gutgeschrieben.
 

@@ -1,18 +1,16 @@
-# Schattenlanze
+### Schattenlanze
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 10
-- Kosten: 595
-- Zauberbonus: 5
+- Preis: 595GM
+- ZB: +5
 - Dauer: Augenblicklich
-- Reichweite: VE x 10 Meter
-- Abklingzeit: 0 KR
+- Distanz: VE x 10 Meter
+- Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Dies ist eine mächtigere Variante des Zaubers Schattenpfeil, gegen dessen Schaden Wesen des Lichts einen Malus von 2 auf ihre Abwehr erhalten.
 

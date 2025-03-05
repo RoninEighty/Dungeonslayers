@@ -1,18 +1,16 @@
-# Wissen der Welt
+### Wissen der Welt
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 2
   - Schwarzmagier: 3
-- Kosten: 120
-- Zauberbonus: 0
+- Preis: 120GM
+- ZB: +0
 - Dauer: 1 KR
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauber zapft übernatürliche Quellen an, um den ZAW mit Wissen zu versorgen, über dass er eigentlich nicht verfügt, ein kollektives Überbewusstsein vielleicht, das Wissen der Götter oder auch das eigene Unterbewusstsein des ZAW.
 

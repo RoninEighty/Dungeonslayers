@@ -1,18 +1,16 @@
-# Blenden
+### Blenden
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 5
   - Schwarzmagier: -
-- Kosten: 10
-- Zauberbonus: -(AGI+AU)/2 des Ziels
+- Preis: 10GM
+- ZB: -(AGI+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 5 m
-- Abklingzeit: 5 KR
+- Distanz: VE x 5 m
+- Abklingzeit: 5 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Ein gleißender Lichtstrahl schießt aus der Hand des ZAW und blendet bei Erfolg das Ziel (welches dagegen keine Abwehr würfeln darf).
 

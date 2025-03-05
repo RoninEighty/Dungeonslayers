@@ -1,18 +1,16 @@
-# Doppelgänger 2
+### Doppelgänger 2
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 18
   - Zauberer: 20
   - Schwarzmagier: 19
-- Kosten: 1815
-- Zauberbonus: -Stufe oder GH der Zielkreatur
+- Preis: 1815GM
+- ZB: -Stufe oder GH der Zielkreatur
 - Dauer: bis Tod Zielkreatur/Doppelgänger
-- Reichweite: VE Meter
+- Distanz: VE Meter
 - Abklingzeit: W20 Tage
 - Art: Zaubern
-
-## Beschreibung
 
 Ein von einem Heiler geschaffener Doppelgänger ist immer ein Wesen des Lichts, und die Zielkreatur kann nur ein Wesen der Dunkelheit sein.
 

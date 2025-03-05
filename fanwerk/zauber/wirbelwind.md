@@ -1,18 +1,16 @@
-# Wirbelwind
+### Wirbelwind
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 17
   - Zauberer: 16
   - Schwarzmagier: 18
-- Kosten: 1140
-- Zauberbonus: 5
+- Preis: 1140GM
+- ZB: +5
 - Dauer: VE KR
-- Reichweite: VE x 10 Meter
+- Distanz: VE x 10 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Ein Wirbelsturm mit einem Durchmesser von VE in Metern und VE x 2 Meter Höhe entsteht und verursacht jede Runde durch aufgewirbelte Kleinteile abwehrbaren Schaden in Höhe des Probenergebnisses an jedem in seinem Wirkungsbereich. Außerdem muss jeder im Wirkungsbereich KÖR+ST - halbe Stufe des ZAW würfeln. Bei Misslingen wird er von dem Wirbelsturm VE Meter in eine zufällige Richtung geschleudert, wofür er Sturzschaden entsprechend der Distanz erleidet.
 

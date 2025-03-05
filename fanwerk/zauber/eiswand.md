@@ -1,18 +1,16 @@
-# Eiswand
+### Eiswand
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 14
-- Kosten: 510
-- Zauberbonus: 0
+- Preis: 510GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Zauberwirker erschafft eine Eiswand, die Ausmaße von bis zu 1 Meter x VE Meter x VE Meter annehmen kann. Dabei ist die Eiswand beliebig formbar und muss nicht auf festem Boden erschaffen werden (s.u.). Allerdings kann sie nicht an einem Ort erschaffen werden, an dem sich bereits etwas befindet (wobei sie aber sehr wohl etwas einschließen kann).
 

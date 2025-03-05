@@ -1,18 +1,16 @@
-# Rune des Lebens
+### Rune des Lebens
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 160
-- Zauberbonus: 0
+- Preis: 160GM
+- ZB: +0
 - Dauer: Bis ausgelöst, dann PE x 2 KR
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der Heiler hinterlässt an einer festen Oberfläche eine deutlich sichtbare glühende persönliche Rune, und er kann beim Wirken bis zu VE/2 Verbündete benennen, die die Rune auslösen können und von ihrem Effekt betroffen werden.
 

@@ -1,21 +1,18 @@
-# Feuerstrahl
+### Feuerstrahl
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: 1
-- Kosten: 10
-- Zauberbonus: 1
+- Preis: 10GM
+- ZB: +1
 - Dauer: Augenblicklich
-- Reichweite: VE x 5 m
-- Abklingzeit: 0 KR
+- Distanz: VE x 5 m
+- Abklingzeit: 0 Kampfrunden
 - Art: Zielzauber
 
-## Beschreibung
-
 Der ZAW schießt einen Feuerstrahl auf einen Feind, dessen Schaden dem Probenergebnis entspricht.
-
 
 ---
 

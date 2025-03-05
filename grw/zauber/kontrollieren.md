@@ -1,18 +1,16 @@
-# Kontrollieren
+### Kontrollieren
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 4
-- Kosten: 205
-- Zauberbonus: -(GEI+AU)/2 des Ziels
+- Preis: 205GM
+- ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Bis erlöst
-- Reichweite: VE x 2 m
-- Abklingzeit: 10 KR
+- Distanz: VE x 2 m
+- Abklingzeit: 10 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Bei Erfolg bringt der ZAW eine maximale Anzahl untoter Ziele gleich seiner Stufe unter Kontrolle, selbst wenn diese einem anderen ZAW unterstehen.
 

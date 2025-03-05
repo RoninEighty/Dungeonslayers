@@ -1,18 +1,16 @@
-# Wolke des Todes
+### Wolke des Todes
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 13
-- Kosten: 790
-- Zauberbonus: -4
+- Preis: 790GM
+- ZB: -4
 - Dauer: Probenergebnis x 2 KR
-- Reichweite: VE x 5 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 5 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Eine schwarze, qualmende Wolke des Todes mit einem Radius von maximal VE in Metern entsteht.
 

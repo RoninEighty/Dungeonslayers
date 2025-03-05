@@ -1,18 +1,16 @@
-# Hast
+### Hast
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 9
   - Schwarzmagier: 11
-- Kosten: 325
-- Zauberbonus: -2
+- Preis: 325GM
+- ZB: -2
 - Dauer: VE KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Das Ziel erhält während der Wirkungsdauer in jeder Runde eine ExtraAktion.
 

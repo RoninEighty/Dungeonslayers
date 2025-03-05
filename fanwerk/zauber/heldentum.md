@@ -1,18 +1,16 @@
-# Heldentum
+### Heldentum
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 17
   - Schwarzmagier: -
-- Kosten: 650
-- Zauberbonus: 0
+- Preis: 650GM
+- ZB: +0
 - Dauer: VE Stunden
-- Reichweite: Selbst
+- Distanz: Selbst
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW und bis zu VE x2 Kameraden in VE x 2 Meter Umkreis werden von Heldenmut erfüllt.
 

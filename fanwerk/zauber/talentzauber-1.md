@@ -1,18 +1,16 @@
-# Talentzauber 1
+### Talentzauber 1
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 5
   - Schwarzmagier: 11
-- Kosten: 210
-- Zauberbonus: 0
+- Preis: 210GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW verleiht dem berührten Charakter einen zusätzlichen Talentrang. Handelt es sich dabei um ein Talent, das dieser beherrscht (und von dem der ZAW weiß, dass er es beherrscht), bleibt die Zauberprobe unmodifiziert.
 

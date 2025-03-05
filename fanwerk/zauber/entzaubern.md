@@ -1,18 +1,16 @@
-# Entzaubern
+### Entzaubern
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 20
   - Zauberer: 18
   - Schwarzmagier: 20
-- Kosten: 2025
-- Zauberbonus: -Wirkerstufe des Erschaffers
+- Preis: 2025GM
+- ZB: -Wirkerstufe des Erschaffers
 - Dauer: Augenblicklich
-- Reichweite: Berühren
+- Distanz: Berühren
 - Abklingzeit: W20 Tage
 - Art: Zaubern
-
-## Beschreibung
 
 Der berührte Gegenstand verliert augenblicklich und dauerhaft jegliche innewohnende Magie. Der Zauber wirkt nicht auf Artefakte, die durch das Wirken höherer Mächte geschaffen wurde.
 

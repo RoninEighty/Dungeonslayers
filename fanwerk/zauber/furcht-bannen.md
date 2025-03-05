@@ -1,18 +1,16 @@
-# Furcht bannen
+### Furcht bannen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 6
   - Schwarzmagier: -
-- Kosten: 45
-- Zauberbonus: 0
+- Preis: 45GM
+- ZB: +0
 - Dauer: Augenblicklich
-- Reichweite: Berühren
-- Abklingzeit: 0 KR
+- Distanz: Berühren
+- Abklingzeit: 0 Kampfrunden
 - Art: geistesbeeinflussende Zauber
-
-## Beschreibung
 
 Jegliche Furcht- oder Angsteffekte, die auf dem Ziel liegen, werden augenblicklich gebannt.
 

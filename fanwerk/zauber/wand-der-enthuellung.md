@@ -1,18 +1,16 @@
-# Wand der Enthüllung
+### Wand der Enthüllung
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 13
   - Schwarzmagier: 14
-- Kosten: 1070
-- Zauberbonus: -2
+- Preis: 1070GM
+- ZB: -2
 - Dauer: VE Stunden
-- Reichweite: VE x 2 Meter
+- Distanz: VE x 2 Meter
 - Abklingzeit: 24 Stunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW erschafft eine schwach schillernde Barriere, die je bis zu VE Meter lang und hoch sein kann. Ein Bemerken-Wurf ist erforderlich, um die Barriere zu erkennen.
 

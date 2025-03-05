@@ -1,18 +1,16 @@
-# Manakratzer
+### Manakratzer
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 4
   - Schwarzmagier: 4
-- Kosten: 115
-- Zauberbonus: 0
+- Preis: 115GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: Berühren
-- Abklingzeit: 5 KR
+- Distanz: Berühren
+- Abklingzeit: 5 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Die Waffe des Zieles beginnt vor Magie an zu flirren. Solange der Zauber wirkt fügt die Waffe des Verzauberten keinen Schaden an den LK des Gegners zu.
 

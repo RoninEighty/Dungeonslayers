@@ -1,18 +1,16 @@
-# Todesschutz
+### Todesschutz
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: -
   - Schwarzmagier: -
-- Kosten: 290
-- Zauberbonus: 0
+- Preis: 290GM
+- ZB: +0
 - Dauer: VE KR
-- Reichweite: Selbst
-- Abklingzeit: 100 KR
+- Distanz: Selbst
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Der ZAW und VE x 2 Gefährten im Umkreis von VE x 2 Metern sind für die Dauer des Zaubers komplett geschützt gegen Alterung und Werteverlust.
 

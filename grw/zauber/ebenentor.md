@@ -1,18 +1,16 @@
-# Ebenentor
+### Ebenentor
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 18
   - Schwarzmagier: 16
-- Kosten: 2580
-- Zauberbonus: -8
+- Preis: 2580GM
+- ZB: -8
 - Dauer: VE Minuten
-- Reichweite: VE m
+- Distanz: VE m
 - Abklingzeit: W20 Tage
 - Art: Zaubern
-
-## Beschreibung
 
 Öffnet ein Tor zu einer anderen Existenzebene, die der ZAW namentlich nennen muss. Das Tor schließt sich, sobald VE/2 Wesen es durchschritten haben, oder die Spruchdauer abgelaufen ist.
 

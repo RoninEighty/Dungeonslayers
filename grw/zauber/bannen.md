@@ -1,18 +1,16 @@
-# Bannen
+### Bannen
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 18
   - Schwarzmagier: 14
-- Kosten: 255
-- Zauberbonus: -(KÖR+AU)/2 der Wesenheit
+- Preis: 255GM
+- ZB: -(KÖR+AU)/2 der Wesenheit
 - Dauer: Augenblicklich
-- Reichweite: Radius von VE x 2 m
-- Abklingzeit: 100 KR
+- Distanz: Radius von VE x 2 m
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Dieser Zauber vernichtet feindliche Dämonen, Elementare und Untote im Wirkungsradius. Maximal wird eine Anzahl von Wesenheiten vernichtet, die der halbierten Stufe des ZAW entspricht. Bei zu vielen Wesenheiten entscheidet der Zufall, welche betroffen sind.
 

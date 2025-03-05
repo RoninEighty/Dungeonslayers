@@ -1,18 +1,16 @@
-# Waffe des Lichts
+### Waffe des Lichts
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 8
   - Schwarzmagier: -
-- Kosten: 220
-- Zauberbonus: 0
+- Preis: 220GM
+- ZB: +0
 - Dauer: Probenergebnis in KR
-- Reichweite: VE x 2 Meter
-- Abklingzeit: 100 KR
+- Distanz: VE x 2 Meter
+- Abklingzeit: 100 Kampfrunden
 - Art: Zielzauber
-
-## Beschreibung
 
 Die anvisierte Waffe erstrahlt mit der heiligen Kraft des Lichts.
 

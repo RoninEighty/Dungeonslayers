@@ -1,18 +1,16 @@
-# Verschlinger 3
+### Verschlinger 3
 
 - Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 11
-- Kosten: 660
-- Zauberbonus: 0
+- Preis: 660GM
+- ZB: +0
 - Dauer: VE Minuten
-- Reichweite: Berühren
-- Abklingzeit: 100 KR
+- Distanz: Berühren
+- Abklingzeit: 100 Kampfrunden
 - Art: Zaubern
-
-## Beschreibung
 
 Ausreichender Schaden von der Innenseite lässt die dimensionale Membran zusammenbrechen und befördert den Inhalt der Dimensionstasche wieder in die normale physische Realität.
 
