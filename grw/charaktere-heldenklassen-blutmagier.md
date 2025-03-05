@@ -1,24 +1,24 @@
 ## Blutmagier
 
-Blutmagier können ihre Magie mit der Kraft des eigenen Blutes verstärken, der Preis dafür sind schmerzhafte, innere Verletzungen die an ihrer Lebenskraft zehren.
+[Blutmagier](charaktere-heldenklassen-blutmagier.md) können ihre Magie mit der Kraft des eigenen Blutes verstärken, der Preis dafür sind schmerzhafte, innere Verletzungen die an ihrer Lebenskraft zehren.
 
 ### VORAUSSETZUNGEN
 
-Schwarzmagier der Stufe 10+
+[Schwarzmagier](charaktere-klasse-schwarzmagier.md) der Stufe 10+
 
 ### TALENTE
 
-| TALENTE                        |
-| ------------------------------ |
-| Abklingendes Blut 12 (V)       |
-| Blutige Heilung 12 (III)       |
-| Blutschild 10 (V)              |
-| Einstecker 10 (V)              |
-| Macht des Blutes 14 (III)      |
-| Ritual der Narben 10 (III)     |
-| Schmerzhafter Wechsel 12 (III) |
-| Zauberqual 10 (III)            |
-| Zehrender Spurt 10 (III)       |
+| TALENTE                                                            |
+| ------------------------------------------------------------------ |
+| [Abklingendes Blut](talente/abklingendes-blut.md) 12 (V)           |
+| [Blutige Heilung](talente/blutige-heilung.md) 12 (III)             |
+| [Blutschild](talente/blutschild.md) 10 (V)                         |
+| [Einstecker](talente/einstecker.md) 10 (V)                         |
+| [Macht des Blutes](talente/macht-des-blutes.md) 14 (III)           |
+| [Ritual der Narben](talente/ritual-der-narben.md) 10 (III)         |
+| [Schmerzhafter Wechsel](talente/schmerzhafter-wechsel.md) 12 (III) |
+| [Zauberqual](talente/zauberqual.md) 10 (III)                       |
+| [Zehrender Spurt](talente/zehrender-spurt.md) 10 (III)             |
 
 ---
 

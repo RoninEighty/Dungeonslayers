@@ -1,25 +1,25 @@
 ## Dämonologe
 
-Dämonologen spezialisieren sich auf das Beschwören und Kontrollieren von mächtigen Dämonen.
+Dämonologen spezialisieren sich auf das Beschwören und [Kontrollieren](zauber/kontrollieren.md) von mächtigen Dämonen.
 
 ### VORAUSSETZUNGEN
 
-Schwarzmagier der Stufe 10+
+[Schwarzmagier](charaktere-klasse-schwarzmagier.md) der Stufe 10+
 
 ### TALENTE
 
-| TALENTE                            |
-| ---------------------------------- |
-| Bändiger 10 (III)                  |
-| Beschwörer 10 (V)                  |
-| Dämonenbrut 16 (III)               |
-| Dämonenzauber 16 (III)             |
-| Knechtschaft 16 (V)                |
-| Kreiszeichner 12 (III)             |
-| Mächtige Beschwörung 16 (III)      |
-| Ritual der Narben 12 (III)         |
-| Teufelchen 10 (III)                |
-| Unersättliches Beschwören 14 (III) |
+| TALENTE                                                                      |
+| ---------------------------------------------------------------------------- |
+| [Bändiger](talente/baendiger.md) 10 (III)                                    |
+| [Beschwörer](talente/beschwoerer.md) 10 (V)                                  |
+| [Dämonenbrut](talente/daemonenbrut.md) 16 (III)                              |
+| [Dämonenzauber](talente/daemonenzauber.md) 16 (III)                          |
+| [Knechtschaft](talente/knechtschaft.md) 16 (V)                               |
+| [Kreiszeichner](talente/kreiszeichner.md) 12 (III)                           |
+| [Mächtige Beschwörung](talente/maechtige-beschwoerung.md) 16 (III)           |
+| [Ritual der Narben](talente/ritual-der-narben.md) 12 (III)                   |
+| [Teufelchen](talente/teufelchen.md) 10 (III)                                 |
+| [Unersättliches Beschwören](talente/unersaettliches-beschwoeren.md) 14 (III) |
 
 ---
 

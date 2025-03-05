@@ -4,30 +4,30 @@ Mönche stählen ihren Geist durch Meditation und ihren Körper im waffenlosen K
 
 ### VORAUSSETZUNGEN
 
-Heiler der Stufe 10+
+[Heiler](charaktere-klasse-heiler.md) der Stufe 10+
 
 Ordensmitgliedschaft
 
 ### TALENTE
 
-| TALENTE                        |
-| ------------------------------ |
-| Akrobat 10 (V)                 |
-| Ausweichen 10 (V)              |
-| Brutaler Hieb 14 (III)         |
-| Dämonen zerschmettern 14 (III) |
-| Friedvoller Hieb 16 (III)      |
-| Heimlichkeit 10 (V)            |
-| Ich muss weg! 12 (III)         |
-| In Deckung 10 (V)              |
-| Manipulator 14 (V)             |
-| Rundumschlag 16 (III)          |
-| Schnelle Reflexe 10 (V)        |
-| Schutz vor Elementen 12 (III)  |
-| Tiermeister 14 (III)           |
-| Untote zerschmettern 14 (III)  |
-| Verdrücken 12 (III)            |
-| Waffenloser Meister 10 (V)     |
+| TALENTE                                                             |
+| ------------------------------------------------------------------- |
+| [Akrobat](talente/akrobat.md) 10 (V)                                |
+| [Ausweichen](talente/ausweichen.md) 10 (V)                          |
+| [Brutaler Hieb](talente/brutaler-hieb.md) 14 (III)                  |
+| [Dämonen zerschmettern](talente/daemonen-zerschmettern.md) 14 (III) |
+| [Friedvoller Hieb](talente/friedvoller-hieb.md) 16 (III)            |
+| [Heimlichkeit](talente/heimlichkeit.md) 10 (V)                      |
+| [Ich muss weg!](talente/ich-muss-weg.md) 12 (III)                   |
+| [In Deckung](talente/in-deckung.md) 10 (V)                          |
+| [Manipulator](talente/manipulator.md) 14 (V)                        |
+| [Rundumschlag](talente/rundumschlag.md) 16 (III)                    |
+| [Schnelle Reflexe](talente/schnelle-reflexe.md) 10 (V)              |
+| [Schutz vor Elementen](talente/schutz-vor-elementen.md) 12 (III)    |
+| [Tiermeister](talente/tiermeister.md) 14 (III)                      |
+| [Untote zerschmettern](talente/untote-zerschmettern.md) 14 (III)    |
+| [Verdrücken](talente/verdruecken.md) 12 (III)                       |
+| [Waffenloser Meister](talente/waffenloser-meister.md) 10 (V)        |
 
 ---
 

@@ -1,6 +1,6 @@
 # Zaubersprüche
 
-Zu jedem Zauberspruch ist aufgelistet, ob es sich um einen normalen **Zauber** (Za) oder um einen **Zielzauber** (ZZ) handelt, und ab welcher Stufe Heiler, Zauberer und Schwarzmagier den Zauberspruch erlernen können. **Geistesbeeinflussende Zauber**, gegen die Untote u.ä. immun sind, sind gesondert mit (G[!]) gekennzeichnet.
+Zu jedem Zauberspruch ist aufgelistet, ob es sich um einen normalen **Zauber** (Za) oder um einen **Zielzauber** (ZZ) handelt, und ab welcher Stufe [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) und [Schwarzmagier](charaktere-klasse-schwarzmagier.md) den Zauberspruch erlernen können. **Geistesbeeinflussende Zauber**, gegen die Untote u.ä. immun sind, sind gesondert mit (G[!]) gekennzeichnet.
 
 #### Darstellungsschema der Zaubersprüche
 
@@ -19,70 +19,70 @@ _Wenn nicht anders erwähnt, gelten die VE-Werte des Zauberwirkers für aufgefü
 |                                                                                           SPRÜCHE DER HEILER                                                                                            |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                               **STUFE 1**                                                                                               |
-| Blenden, Duftnote, Giftschutz, Heilbeeren, Heilende Aura, Heilende Hand, Licht, Magie entdecken, Magische Waffe, Niesanfall, Tiere besänftigen, Verteidigung, Vertreiben, Wasser weihen, Wolke der Reue |
+| [Blenden](zauber/blenden.md), [Duftnote](zauber/duftnote.md), [Giftschutz](zauber/giftschutz.md), [Heilbeeren](zauber/heilbeeren.md), [Heilende Aura](zauber/heilende-aura.md), [Heilende Hand](zauber/heilende-hand.md), [Licht](zauber/licht.md), [Magie entdecken](zauber/magie-entdecken.md), [Magische Waffe](zauber/magische-waffe.md), [Niesanfall](zauber/niesanfall.md), [Tiere besänftigen](zauber/tiere-besaenftigen.md), [Verteidigung](zauber/verteidigung.md), [Vertreiben](zauber/vertreiben.md), [Wasser weihen](zauber/wasser-weihen.md), [Wolke der Reue](zauber/wolke-der-reue.md) |
 |                                                                                               **STUFE 2**                                                                                               |
-|                                                  Balancieren, Einschläfern, Flackern, Halt, Kleiner Terror, Lichtpfeil, Nahrung zaubern, Öffnen, Segen                                                  |
+|                                                  [Balancieren](zauber/balancieren.md), [Einschläfern](zauber/einschlaefern.md), [Flackern](zauber/flackern.md), [Halt](zauber/halt.md), [Kleiner Terror](zauber/kleiner-terror.md), [Lichtpfeil](zauber/lichtpfeil.md), [Nahrung zaubern](zauber/nahrung-zaubern.md), [Öffnen](zauber/oeffnen.md), [Segen](zauber/segen.md)                                                  |
 |                                                                                               **STUFE 3**                                                                                               |
-|                                                                           Giftbann, Magisches Schloss, Reinigen, Verlangsamen                                                                           |
+|                                                                           [Giftbann](zauber/giftbann.md), [Magisches Schloss](zauber/magisches-schloss.md), [Reinigen](zauber/reinigen.md), [Verlangsamen](zauber/verlangsamen.md)                                                                           |
 |                                                                                               **STUFE 4**                                                                                               |
-|                                 Geben und Nehmen, Heilendes Licht, Magische Rüstung, Netz, Schutzfeld, Schutzschild, Schutzschild dehnen, Schutzschild stärken, Wächter                                 |
+|                                 [Geben und Nehmen](zauber/geben-und-nehmen.md), [Heilendes Licht](zauber/heilendes-licht.md), [Magische Rüstung](zauber/magische-ruestung.md), [Netz](zauber/netz.md), [Schutzfeld](zauber/schutzfeld.md), [Schutzschild](zauber/schutzschild.md), [Schutzschild](zauber/schutzschild.md) dehnen, [Schutzschild](zauber/schutzschild.md) stärken, [Wächter](zauber/waechter.md)                                 |
 |                                                                                               **STUFE 5**                                                                                               |
-|                                                          Federgleich, Magie identifizieren, Rost, Springen, Stossgebet, Terror, Wasserwandeln                                                           |
+|                                                          [Federgleich](zauber/federgleich.md), [Magie identifizieren](zauber/magie-identifizieren.md), [Rost](zauber/rost.md), [Springen](zauber/springen.md), [Stossgebet](zauber/stossgebet.md), [Terror](zauber/terror.md), [Wasserwandeln](zauber/wasserwandeln.md)                                                           |
 |                                                                                               **STUFE 6**                                                                                               |
-|                                                                                   Freund, Glühender Glaube, Lauschen                                                                                    |
+|                                                                                   [Freund](zauber/freund.md), [Glühender Glaube](zauber/gluehender-glaube.md), [Lauschen](zauber/lauschen.md)                                                                                    |
 |                                                                                               **STUFE 7**                                                                                               |
-|                                                                              Durchsicht, Schweben, Spurt, Waffe des Lichts                                                                              |
+|                                                                              [Durchsicht](zauber/durchsicht.md), [Schweben](zauber/schweben.md), [Spurt](zauber/spurt.md), [Waffe des Lichts](zauber/waffe-des-lichts.md)                                                                              |
 |                                                                                               **STUFE 8**                                                                                               |
-|                                                          Bannen, Botschaft, Schutzkuppel, Spionage, Verborgenes sehen, Verwirren, Zauberleiter                                                          |
+|                                                          [Bannen](zauber/bannen.md), [Botschaft](zauber/botschaft.md), [Schutzkuppel](zauber/schutzkuppel.md), [Spionage](zauber/spionage.md), [Verborgenes sehen](zauber/verborgenes-sehen.md), [Verwirren](zauber/verwirren.md), [Zauberleiter](zauber/zauberleiter.md)                                                          |
 |                                                                                              **STUFE 10**                                                                                               |
-|                                         Allheilung, Blitz, Erdspalt, Heiliger Hammer, Lichtlanze, Unsichtbares sehen, Versetzen, Wiederbelebung, Zauberabklang                                          |
+|                                         Allheilung, [Blitz](zauber/blitz.md), [Erdspalt](zauber/erdspalt.md), [Heiliger Hammer](zauber/heiliger-hammer.md), [Lichtlanze](zauber/lichtlanze.md), Unsichtbares sehen, [Versetzen](zauber/versetzen.md), [Wiederbelebung](zauber/wiederbelebung.md), [Zauberabklang](zauber/zauberabklang.md)                                          |
 |                                                                                              **STUFE 12**                                                                                               |
-|                                                                 Heilende Strahlen, Magie bannen, Schweig, Wasser teilen, Wechselzauber                                                                  |
+|                                                                 [Heilende Strahlen](zauber/heilende-strahlen.md), [Magie bannen](zauber/magie-bannen.md), [Schweig](zauber/schweig.md), [Wasser teilen](zauber/wasser-teilen.md), [Wechselzauber](zauber/wechselzauber.md)                                                                  |
 |                                                                                              **STUFE 14**                                                                                               |
-|                                                                                            Magische Barriere                                                                                            |
+|                                                                                            [Magische Barriere](zauber/magische-barriere.md)                                                                                            |
 |                                                                                              **STUFE 16**                                                                                               |
-|                                                                                         Kettenblitz, Lichtsäule                                                                                         |
+|                                                                                         [Kettenblitz](zauber/kettenblitz.md), [Lichtsäule](zauber/lichtsaeule.md)                                                                                         |
 |                                                                                              **STUFE 18**                                                                                               |
-|                                                                                       Heilendes Feld, Schleudern                                                                                        |
+|                                                                                       [Heilendes Feld](zauber/heilendes-feld.md), [Schleudern](zauber/schleudern.md)                                                                                        |
 |                                                                                              **STUFE 20**                                                                                               |
-|                                                                                    Fliegen, Teleport, Unsichtbarkeit                                                                                    |
+|                                                                                    [Fliegen](zauber/fliegen.md), [Teleport](zauber/teleport.md), [Unsichtbarkeit](zauber/unsichtbarkeit.md)                                                                                    |
 
 ---
 
 |                                                                                              SPRÜCHE DER ZAUBERER                                                                                              |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                  **STUFE 1**                                                                                                   |
-|                                             Duftnote, Feuerstrahl, Licht, Magie entdecken/ identifizieren, Magische Waffe, Magisches Schloss, Öffnen, Zaubertrick                                              |
+|                                             [Duftnote](zauber/duftnote.md), [Feuerstrahl](zauber/feuerstrahl.md), [Licht](zauber/licht.md), Magie entdecken/ identifizieren, [Magische Waffe](zauber/magische-waffe.md), [Magisches Schloss](zauber/magisches-schloss.md), [Öffnen](zauber/oeffnen.md), [Zaubertrick](zauber/zaubertrick.md)                                              |
 |                                                                                                  **STUFE 2**                                                                                                   |
-|                                                                                Giftschutz, Lauschen, Springen, Versetzte Stimme                                                                                |
+|                                                                                [Giftschutz](zauber/giftschutz.md), [Lauschen](zauber/lauschen.md), [Springen](zauber/springen.md), [Versetzte Stimme](zauber/versetzte-stimme.md)                                                                                |
 |                                                                                                  **STUFE 3**                                                                                                   |
-|                                                                                Balancieren, Durchsicht, Federgleich, Niesanfall                                                                                |
+|                                                                                [Balancieren](zauber/balancieren.md), [Durchsicht](zauber/durchsicht.md), [Federgleich](zauber/federgleich.md), [Niesanfall](zauber/niesanfall.md)                                                                                |
 |                                                                                                  **STUFE 4**                                                                                                   |
-|                                                           Flackern, Flammenklinge, Frostwaffe, Tarnender Nebel, Stolpern, Verteidigung, Zauberleiter                                                           |
+|                                                           [Flackern](zauber/flackern.md), [Flammenklinge](zauber/flammenklinge.md), [Frostwaffe](zauber/frostwaffe.md), [Tarnender Nebel](zauber/tarnender-nebel.md), [Stolpern](zauber/stolpern.md), [Verteidigung](zauber/verteidigung.md), [Zauberleiter](zauber/zauberleiter.md)                                                           |
 |                                                                                                  **STUFE 5**                                                                                                   |
-|                                  Blenden, Einschläfern, Feuerlanze, Lichtpfeil, Manabrot, Putzteufel, Schweben, Trugbild, Verwandlung, Verwirren, Volksgestalt, Zauberabklang                                  |
+|                                  [Blenden](zauber/blenden.md), [Einschläfern](zauber/einschlaefern.md), [Feuerlanze](zauber/feuerlanze.md), [Lichtpfeil](zauber/lichtpfeil.md), [Manabrot](zauber/manabrot.md), [Putzteufel](zauber/putzteufel.md), [Schweben](zauber/schweben.md), [Trugbild](zauber/trugbild.md), [Verwandlung](zauber/verwandlung.md), [Verwirren](zauber/verwirren.md), [Volksgestalt](zauber/volksgestalt.md), [Zauberabklang](zauber/zauberabklang.md)                                  |
 |                                                                                                  **STUFE 6**                                                                                                   |
-|                                Botschaft, Fluch, Giftbann, Halt, Kleiner Terror, Schatten, Schattenpfeil, Spionage, Telekinese, Versetzen, Wächter, Wolke der Reue, Wandöffnung                                |
+|                                [Botschaft](zauber/botschaft.md), [Fluch](zauber/fluch.md), [Giftbann](zauber/giftbann.md), [Halt](zauber/halt.md), [Kleiner Terror](zauber/kleiner-terror.md), [Schatten](zauber/schatten.md), [Schattenpfeil](zauber/schattenpfeil.md), [Spionage](zauber/spionage.md), [Telekinese](zauber/telekinese.md), [Versetzen](zauber/versetzen.md), [Wächter](zauber/waechter.md), [Wolke der Reue](zauber/wolke-der-reue.md), [Wandöffnung](zauber/wandoeffnung.md)                                |
 |                                                                                                  **STUFE 7**                                                                                                   |
-|                                                             Blitz, Freund, Magie bannen, Nahrung zaubern, Reinigen, Rost, Spurt, Tiere besänftigen                                                             |
+|                                                             [Blitz](zauber/blitz.md), [Freund](zauber/freund.md), [Magie bannen](zauber/magie-bannen.md), [Nahrung zaubern](zauber/nahrung-zaubern.md), [Reinigen](zauber/reinigen.md), [Rost](zauber/rost.md), [Spurt](zauber/spurt.md), [Tiere besänftigen](zauber/tiere-besaenftigen.md)                                                             |
 |                                                                                                  **STUFE 8**                                                                                                   |
-|                                 Feuerwand, Kontrollieren, Magische Rüstung, Schattenklinge, Schutzfeld, Schutzschild, Tanz, Verborgenes sehen, Verlangsamen, Waffe des Lichts                                  |
+|                                 [Feuerwand](zauber/feuerwand.md), [Kontrollieren](zauber/kontrollieren.md), [Magische Rüstung](zauber/magische-ruestung.md), [Schattenklinge](zauber/schattenklinge.md), [Schutzfeld](zauber/schutzfeld.md), [Schutzschild](zauber/schutzschild.md), [Tanz](zauber/tanz.md), [Verborgenes sehen](zauber/verborgenes-sehen.md), [Verlangsamen](zauber/verlangsamen.md), [Waffe des Lichts](zauber/waffe-des-lichts.md)                                  |
 |                                                                                                  **STUFE 9**                                                                                                   |
-|                                                                                 Netz, Terror, Tierbeherrschung, Wasserwandeln                                                                                  |
+|                                                                                 [Netz](zauber/netz.md), [Terror](zauber/terror.md), [Tierbeherrschung](zauber/tierbeherrschung.md), [Wasserwandeln](zauber/wasserwandeln.md)                                                                                  |
 |                                                                                                  **STUFE 10**                                                                                                  |
-| Arkanes Schwert, Durchlässig, Elementar herbeirufen, Erdspalt, Feueratem, Feuerball, Fliegen, Heilbeeren, Kettenblitz, Magische Barriere, Schweig, Steinwand, Teleport, Vergrößern, Verkleinern, Wechselzauber |
+| [Arkanes Schwert](zauber/arkanes-schwert.md), [Durchlässig](zauber/durchlaessig.md), [Elementar herbeirufen](zauber/elementar-herbeirufen.md), [Erdspalt](zauber/erdspalt.md), [Feueratem](zauber/feueratem.md), [Feuerball](zauber/feuerball.md), [Fliegen](zauber/fliegen.md), [Heilbeeren](zauber/heilbeeren.md), [Kettenblitz](zauber/kettenblitz.md), [Magische Barriere](zauber/magische-barriere.md), [Schweig](zauber/schweig.md), [Steinwand](zauber/steinwand.md), [Teleport](zauber/teleport.md), Vergrößern, [Verkleinern](zauber/verkleinern.md), [Wechselzauber](zauber/wechselzauber.md) |
 |                                                                                                  **STUFE 12**                                                                                                  |
-|                                                        Frostschock, Gehorche, Lichtlanze, Schleudern, Schutzkuppel, Unsichtbares sehen, Unsichtbarkeit                                                         |
+|                                                        [Frostschock](zauber/frostschock.md), [Gehorche](zauber/gehorche.md), [Lichtlanze](zauber/lichtlanze.md), [Schleudern](zauber/schleudern.md), [Schutzkuppel](zauber/schutzkuppel.md), Unsichtbares sehen, [Unsichtbarkeit](zauber/unsichtbarkeit.md)                                                         |
 |                                                                                                  **STUFE 15**                                                                                                  |
-|                                                                              Flammeninferno, Gasgestalt, Schattenlanze, Zeitstop                                                                               |
+|                                                                              [Flammeninferno](zauber/flammeninferno.md), [Gasgestalt](zauber/gasgestalt.md), [Schattenlanze](zauber/schattenlanze.md), [Zeitstop](zauber/zeitstop.md)                                                                               |
 |                                                                                                  **STUFE 17**                                                                                                  |
-|                                                                                        Blut kochen, Dämonen beschwören                                                                                         |
+|                                                                                        [Blut kochen](zauber/blut-kochen.md), [Dämonen beschwören](zauber/daemonen-beschwoeren.md)                                                                                         |
 |                                                                                                  **STUFE 18**                                                                                                  |
-|                                                                                               Bannen, Ebenentor                                                                                                |
+|                                                                                               [Bannen](zauber/bannen.md), [Ebenentor](zauber/ebenentor.md)                                                                                                |
 |                                                                                                  **STUFE 19**                                                                                                  |
-|                                                                                                   Lichtsäule                                                                                                   |
+|                                                                                                   [Lichtsäule](zauber/lichtsaeule.md)                                                                                                   |
 |                                                                                                  **STUFE 20**                                                                                                  |
-|                                                                                           Schattensäule, Verdampfen                                                                                            |
+|                                                                                           [Schattensäule](zauber/schattensaeule.md), [Verdampfen](zauber/verdampfen.md)                                                                                            |
 
 ---
 
@@ -90,39 +90,39 @@ _Wenn nicht anders erwähnt, gelten die VE-Werte des Zauberwirkers für aufgefü
 SCHWARZMAGIER |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **STUFE 1** |
-| Feuerstrahl, Magie entdecken/identifizieren, Magische Waffe, Magisches Schloss, Öffnen, Zaubertrick |
+| [Feuerstrahl](zauber/feuerstrahl.md), Magie entdecken/identifizieren, [Magische Waffe](zauber/magische-waffe.md), [Magisches Schloss](zauber/magisches-schloss.md), [Öffnen](zauber/oeffnen.md), [Zaubertrick](zauber/zaubertrick.md) |
 | **STUFE 2** |
-| Duftnote, Fluch, Lauschen, Schatten, Schattenpfeil |
+| [Duftnote](zauber/duftnote.md), [Fluch](zauber/fluch.md), [Lauschen](zauber/lauschen.md), [Schatten](zauber/schatten.md), [Schattenpfeil](zauber/schattenpfeil.md) |
 | **STUFE 3** |
-| Durchsicht, Federgleich, Niesanfall, Springen, Stolpern, Tarnender Nebel, Versetzte Stimme |
+| [Durchsicht](zauber/durchsicht.md), [Federgleich](zauber/federgleich.md), [Niesanfall](zauber/niesanfall.md), [Springen](zauber/springen.md), [Stolpern](zauber/stolpern.md), [Tarnender Nebel](zauber/tarnender-nebel.md), [Versetzte Stimme](zauber/versetzte-stimme.md) |
 | **STUFE 4** |
-| Flackern, Flammenklinge, Kleiner Terror, Kontrollieren, Spionage, Verteidigung, Zauberleiter |
+| [Flackern](zauber/flackern.md), [Flammenklinge](zauber/flammenklinge.md), [Kleiner Terror](zauber/kleiner-terror.md), [Kontrollieren](zauber/kontrollieren.md), [Spionage](zauber/spionage.md), [Verteidigung](zauber/verteidigung.md), [Zauberleiter](zauber/zauberleiter.md) |
 | **STUFE 5** |
-| Einschläfern, Feuerlanze, Licht, Manabrot, Putzteufel, Schweben, Verwirren, Volksgestalt, Wächter |
+| [Einschläfern](zauber/einschlaefern.md), [Feuerlanze](zauber/feuerlanze.md), [Licht](zauber/licht.md), [Manabrot](zauber/manabrot.md), [Putzteufel](zauber/putzteufel.md), [Schweben](zauber/schweben.md), [Verwirren](zauber/verwirren.md), [Volksgestalt](zauber/volksgestalt.md), [Wächter](zauber/waechter.md) |
 | **STUFE 6** |
-| Balancieren, Halt, Skelette erwecken, Versetzen |
+| [Balancieren](zauber/balancieren.md), [Halt](zauber/halt.md), [Skelette erwecken](zauber/skelette-erwecken.md), [Versetzen](zauber/versetzen.md) |
 | **STUFE 7** |
-| Blitz, Schattenklinge, Spurt, Terror, Trugbild |
+| [Blitz](zauber/blitz.md), [Schattenklinge](zauber/schattenklinge.md), [Spurt](zauber/spurt.md), [Terror](zauber/terror.md), [Trugbild](zauber/trugbild.md) |
 | **STUFE 8** |
-| Arkanes Schwert, Botschaft, Freund, Giftschutz, Magische Rüstung, Rost, Schutzfeld, Schutzschild, Schweig, Telekinese, Tierbeherrschung, Verborgenes sehen, Verkleinern, Verlangsamen, Zombies erwecken |
+| [Arkanes Schwert](zauber/arkanes-schwert.md), [Botschaft](zauber/botschaft.md), [Freund](zauber/freund.md), [Giftschutz](zauber/giftschutz.md), [Magische Rüstung](zauber/magische-ruestung.md), [Rost](zauber/rost.md), [Schutzfeld](zauber/schutzfeld.md), [Schutzschild](zauber/schutzschild.md), [Schweig](zauber/schweig.md), [Telekinese](zauber/telekinese.md), [Tierbeherrschung](zauber/tierbeherrschung.md), [Verborgenes sehen](zauber/verborgenes-sehen.md), [Verkleinern](zauber/verkleinern.md), [Verlangsamen](zauber/verlangsamen.md), [Zombies erwecken](zauber/zombies-erwecken.md)Attentäter=[Attentäter](charaktere-heldenklassen-attentaeter.md) |
 | **STUFE 9** |
-| Totengespräch, Netz, Wasserwandeln, Zauberabklang |
+| [Totengespräch](zauber/totengespraech.md), [Netz](zauber/netz.md), [Wasserwandeln](zauber/wasserwandeln.md), [Zauberabklang](zauber/zauberabklang.md) |
 | **STUFE 10** |
-| Dämonen beschwören, Feueratem, Feuerball, Feuerwand, Fliegen, Gehorche, Kettenblitz, Schattenlanze, Schleudern, Tanz, Teleport, Verwandlung |
+| [Dämonen beschwören](zauber/daemonen-beschwoeren.md), [Feueratem](zauber/feueratem.md), [Feuerball](zauber/feuerball.md), [Feuerwand](zauber/feuerwand.md), [Fliegen](zauber/fliegen.md), [Gehorche](zauber/gehorche.md), [Kettenblitz](zauber/kettenblitz.md), [Schattenlanze](zauber/schattenlanze.md), [Schleudern](zauber/schleudern.md), [Tanz](zauber/tanz.md), [Teleport](zauber/teleport.md), [Verwandlung](zauber/verwandlung.md) |
 | **STUFE 12** |
-| Durchlässig, Giftbann, Magie bannen, Magische Barriere, Schutzkuppel, Unsichtbares sehen, Unsichtbarkeit, Vergrößern, Wechselzauber |
+| [Durchlässig](zauber/durchlaessig.md), [Giftbann](zauber/giftbann.md), [Magie bannen](zauber/magie-bannen.md), [Magische Barriere](zauber/magische-barriere.md), [Schutzkuppel](zauber/schutzkuppel.md), Unsichtbares sehen, [Unsichtbarkeit](zauber/unsichtbarkeit.md), Vergrößern, [Wechselzauber](zauber/wechselzauber.md) |
 | **STUFE 13** |
-| Blut kochen, Schatten erwecken, Wolke des Todes |
+| [Blut kochen](zauber/blut-kochen.md), [Schatten](zauber/schatten.md) erwecken, [Wolke des Todes](zauber/wolke-des-todes.md) |
 | **STUFE 14** |
-| Bannen, Erdspalt, Steinwand, Wandöffnung |
+| [Bannen](zauber/bannen.md), [Erdspalt](zauber/erdspalt.md), [Steinwand](zauber/steinwand.md), [Wandöffnung](zauber/wandoeffnung.md) |
 | **STUFE 15** |
-| Flammeninferno, Schattensäule, Wahnsinn |
+| [Flammeninferno](zauber/flammeninferno.md), [Schattensäule](zauber/schattensaeule.md), [Wahnsinn](zauber/wahnsinn.md) |
 | **STUFE 16** |
-| Ebenentor, Elementar herbeirufen, Frostschock |
+| [Ebenentor](zauber/ebenentor.md), [Elementar herbeirufen](zauber/elementar-herbeirufen.md), [Frostschock](zauber/frostschock.md) |
 | **STUFE 18** |
-| Gasgestalt, Verdampfen |
+| [Gasgestalt](zauber/gasgestalt.md), [Verdampfen](zauber/verdampfen.md) |
 | **STUFE 20** |
-| Körperexplosion, Zeitstop |
+| [Körperexplosion](zauber/koerperexplosion.md), [Zeitstop](zauber/zeitstop.md) |
 
 ---
 

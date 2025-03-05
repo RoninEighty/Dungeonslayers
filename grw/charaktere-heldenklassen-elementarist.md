@@ -1,29 +1,29 @@
 ## Elementarist
 
-Diese Zauberer haben sich auf die Beherrschung der Elemente und das Herbeirufen von Elementaren spezialisiert.
+Diese [Zauberer](charaktere-klasse-zauberer.md) haben sich auf die Beherrschung der Elemente und das Herbeirufen von Elementaren spezialisiert.
 
 ### VORAUSSETZUNGEN
 
-Zauberer der Stufe 10+
+[Zauberer](charaktere-klasse-zauberer.md) der Stufe 10+
 
 ### TALENTE
 
-| TALENTE                              |
-| ------------------------------------ |
-| Bändiger 10 (III)                    |
-| Blitzmacher 10 (V)                   |
-| Elementare bündeln 10 (X)            |
-| Elementen trotzen 10 (X)             |
-| Explosionskontrolle 10 (V)           |
-| Feuermagier 10 (V)                   |
-| Herausforderer der Elemente 14 (III) |
-| Herr der Elemente 10 (V)             |
-| Knechtschaft 16 (V)                  |
-| Mächtige Herbeirufung 16 (III)       |
-| Schutz vor Elementen 10 (V)          |
-| Schütze 16 (V)                       |
-| Verheerer 12 (V)                     |
-| Zaubermacht 10 (V)                   |
+| TALENTE                                                                        |
+| ------------------------------------------------------------------------------ |
+| [Bändiger](talente/baendiger.md) 10 (III)                                      |
+| [Blitzmacher](talente/blitzmacher.md) 10 (V)                                   |
+| [Elementare Bündeln](talente/elementare-buendeln.md) 10 (X)                    |
+| [Elementen Trotzen](talente/elementen-trotzen.md) 10 (X)                       |
+| [Explosionskontrolle](talente/explosionskontrolle.md) 10 (V)                   |
+| [Feuermagier](talente/feuermagier.md) 10 (V)                                   |
+| [Herausforderer der Elemente](talente/herausforderer-der-elemente.md) 14 (III) |
+| [Herr der Elemente](talente/herr-der-elemente.md) 10 (V)                       |
+| [Knechtschaft](talente/knechtschaft.md) 16 (V)                                 |
+| [Mächtige Herbeirufung](talente/maechtige-herbeirufung.md) 16 (III)            |
+| [Schutz vor Elementen](talente/schutz-vor-elementen.md) 10 (V)                 |
+| [Schütze](talente/schuetze.md) 16 (V)                                          |
+| [Verheerer](talente/verheerer.md) 12 (V)                                       |
+| [Zaubermacht](talente/zaubermacht.md) 10 (V)                                   |
 
 ---
 

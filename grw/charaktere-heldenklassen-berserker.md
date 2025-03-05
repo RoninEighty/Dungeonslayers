@@ -1,24 +1,24 @@
 ## Berserker
 
-Die rohen Berserker steigern sich in eine Kampfeswut, können gut einstecken und richten unter ihren Feinden verheerenden Schaden an.
+Die rohen [Berserker](charaktere-heldenklassen-berserker.md) steigern sich in eine Kampfeswut, können gut einstecken und richten unter ihren Feinden verheerenden Schaden an.
 
 ### VORAUSSETZUNGEN
 
-Krieger der Stufe 10+
+[Krieger](charaktere-klasse-krieger.md) der Stufe 10+
 
 ### TALENTE
 
-| TALENTE                        |
-| ------------------------------ |
-| Brutaler Hieb 10 (V)           |
-| Einstecker 10 (X)              |
-| Kämpfer 10 (V)                 |
-| Panzerung zerschmettern 12 (V) |
-| Raserei 10 (V)                 |
-| Rundumschlag 14 (III)          |
-| Schlachtruf 10 (III)           |
-| Schnelle Reflexe 12 (V)        |
-| Verletzen 14 (V)               |
+| TALENTE                                                              |
+| -------------------------------------------------------------------- |
+| [Brutaler Hieb](talente/brutaler-hieb.md) 10 (V)                     |
+| [Einstecker](talente/einstecker.md) 10 (X)                           |
+| [Kämpfer](talente/kaempfer.md) 10 (V)                                |
+| [Panzerung zerschmettern](talente/panzerung-zerschmettern.md) 12 (V) |
+| [Raserei](talente/raserei.md) 10 (V)                                 |
+| [Rundumschlag](talente/rundumschlag.md) 14 (III)                     |
+| [Schlachtruf](talente/schlachtruf.md) 10 (III)                       |
+| [Schnelle Reflexe](talente/schnelle-reflexe.md) 12 (V)               |
+| [Verletzen](talente/verletzen.md) 14 (V)                             |
 
 ---
 
