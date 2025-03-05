@@ -73,11 +73,13 @@ body {
 
 .content a {
 	color: var(--text-color);
+	text-decoration: none;
 	border-bottom: 1px dashed var(--text-color);
 }
 
 .content a:visited {
 	color: var(--text-color);
+	text-decoration: none;
 	border-bottom: 1px dashed var(--text-color);
 }
 
