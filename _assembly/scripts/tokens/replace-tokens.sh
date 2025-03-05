@@ -21,4 +21,6 @@
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-klasse-spaeher.md
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-klasse-zauberer.md
 
-./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/zaubersprueche.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/zaubersprueche.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-klasse-zauberwirker.md
+./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-charaktererschaffung.md

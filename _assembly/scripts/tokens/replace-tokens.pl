@@ -28,6 +28,7 @@ close $text_fh;
 my @keys_sorted = sort { length($b) <=> length($a) } keys %tokens;
 
 foreach my $line (@lines) {
+    # No not replace in headers
     next if (index($line, '#') == 0);
 
     foreach my $key (@keys_sorted) {
