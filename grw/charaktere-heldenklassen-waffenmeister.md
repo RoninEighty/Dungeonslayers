@@ -1,4 +1,4 @@
-## WAFFENMEISTER
+## Waffenmeister
 
 Waffenmeister setzen auf Schnelligkeit und fatale Treffer mit ihren zahlreichen Waffen.
 

@@ -1,4 +1,4 @@
-## CHARAKTERERSCHAFFUNG
+## Charaktererschaffung
 
 Bevor man einen Charakter erstellt, sollte geklärt sein, welchem Volk und welcher Klasse er (oder sie) angehören soll.
 

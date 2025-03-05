@@ -1,4 +1,4 @@
-## ATTENTÄTER
+## Attentäter
 
 Diese treffsicheren Mörder schlagen schnell und tödlich zu, sei es aus sicherer Entfernung oder mit einer vergifteten Dolchklinge.
 

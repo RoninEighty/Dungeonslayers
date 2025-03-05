@@ -1,4 +1,4 @@
-## DRUIDE
+## Druide
 
 Druiden sind Bewahrer der Natur , die sich mit Tieren verständigen oder sogar deren Gestalt annehmen können.
 

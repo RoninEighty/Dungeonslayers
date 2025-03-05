@@ -1,4 +1,4 @@
-## KRIEGER
+## Krieger
 
 Krieger sind die Charaktere fürs Grobe. Im Nahkampf meist ganz weit vorne zu finden und gut am schweren Rüstzeug und der Anzahl an brutalen Waffen zu erkennen.
 

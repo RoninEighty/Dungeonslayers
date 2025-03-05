@@ -1,4 +1,4 @@
-## SCHÄTZE
+## Schätze
 
 Ohne ordentliche Schätze macht auch der einfallsreichste Dungeon nicht sonderlich viel Spaß. Von einfachen Heilmitteln (mit denen man gerade Dungeons für neue Charaktere gut bestücken sollte) oder Gold und Schmuck über hochwertige oder magische Gegenstände, die Attribute, Eigenschaften, Waffen oder Rüstungen mit Boni versehen, bis hin zu exotischen Artefakten, die mit wundersamen Effekten versehen sind, reicht die Palette an Möglichkeiten.
 

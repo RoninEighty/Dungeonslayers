@@ -1,4 +1,4 @@
-## DÄMONOLOGE
+## Dämonologe
 
 Dämonologen spezialisieren sich auf das Beschwören und Kontrollieren von mächtigen Dämonen.
 

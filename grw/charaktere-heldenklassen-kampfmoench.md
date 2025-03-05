@@ -1,4 +1,4 @@
-## KAMPFMÖNCH
+## Kampfmönch
 
 Mönche stählen ihren Geist durch Meditation und ihren Körper im waffenlosen Kampf.
 

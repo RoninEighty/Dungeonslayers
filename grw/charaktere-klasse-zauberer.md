@@ -1,4 +1,4 @@
-## HEILER
+## Zauberer
 
 Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtgetümmel aber besser hinten aufhalten. Zauberer nutzen defensive und offensive Zauber.
 

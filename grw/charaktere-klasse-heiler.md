@@ -1,4 +1,4 @@
-## HEILER
+## Heiler
 
 Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtgetümmel aber besser hinten aufhalten. Heiler nutzen überwiegend defensive Zauber.
 

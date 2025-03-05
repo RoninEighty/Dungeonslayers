@@ -1,4 +1,4 @@
-# VÖLKERBAUKASTEN
+# Völkerbaukasten
 
 Wem die drei Völker der Elfen, Menschen und Zwerge für sein Setting nicht reichen, kann mit diesem Baukasten eigene Spielercharaktervölker entwerfen.
 

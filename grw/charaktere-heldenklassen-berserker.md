@@ -1,4 +1,4 @@
-## BERSERKER
+## Berserker
 
 Die rohen Berserker steigern sich in eine Kampfeswut, können gut einstecken und richten unter ihren Feinden verheerenden Schaden an.
 

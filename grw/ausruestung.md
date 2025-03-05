@@ -1,4 +1,4 @@
-# AUSRÜSTUNG
+# Ausrüstung
 
 Alle gelisteten Preise sollten (da "gebraucht") halbiert werden, wenn sie von den Charakteren an Händler u.ä. verkauft werden. Zur groben Orientierung gibt es die Angabe (Ort), ob man eine Ware in (D)örfern oder Handelsposten, erst in (K)leinstädten oder vermutlich nur in (G)roßstädten erwerben kann. Anderes gibt es nur in (E)lfen- oder (Z)wergensiedlungen.
 

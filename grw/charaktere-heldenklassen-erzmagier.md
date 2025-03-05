@@ -1,4 +1,4 @@
-## ERZMAGIER
+## Erzmagier
 
 Erzmagier verfügen über umfangreiches magisches Wissen und ihr Können umfaßt eine breite Palette an arkanen Fähigkeiten.
 

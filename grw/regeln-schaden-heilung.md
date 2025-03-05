@@ -1,4 +1,4 @@
-## SCHADEN UND HEILUNG
+## Schaden und Heilung
 
 Da Kämpfe schnell tödlich enden können, haben Heiler bei Dungeonslayers alle Hände voll zu tun. Gerade Gruppen ohne Heiler sollten sich immer mit Hilfsmitteln wie Heilkräutern oder -tränken ausstatten.
 

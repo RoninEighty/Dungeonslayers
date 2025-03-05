@@ -1,4 +1,4 @@
-## NEKROMANT
+## Nekromant
 
 Spezialisiert auf das Erwecken Kontrollieren von Untoten.
 

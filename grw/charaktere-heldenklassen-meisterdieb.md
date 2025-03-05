@@ -1,4 +1,4 @@
-## MEISTERDIEB
+## Meisterdieb
 
 Wahre Meister im Schlösser knacken, Bestehlen und die Flucht ergreifen.
 

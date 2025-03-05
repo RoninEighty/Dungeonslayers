@@ -1,4 +1,4 @@
-# FEUERWAFFEN
+# Feuerwaffen
 
 Wer auf einer Fantasywelt mit Schwarzpulverwaffen spielt oder Lust auf ein Mantel & Degen- oder Western-Setting hat, kann die folgenden Zusatzregeln verwenden:
 

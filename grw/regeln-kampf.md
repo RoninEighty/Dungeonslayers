@@ -1,4 +1,4 @@
-## KAMPF
+## Kampf
 
 Kommt es zu einem Kampf, wird in **Kampfrunden** weitergespielt, die jeweils 5 Sekunden dauern.
 

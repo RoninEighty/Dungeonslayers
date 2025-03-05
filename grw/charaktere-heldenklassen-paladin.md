@@ -1,7 +1,6 @@
-## PALADIN
+## Paladin
 
-Paladine dienen einem heiligen Orden,
-können aber die Vorzüge ihrer Heldenklasse verlieren, sollten sie gegen den Willen ihrer Gottheit handeln.
+Paladine dienen einem heiligen Orden, können aber die Vorzüge ihrer Heldenklasse verlieren, sollten sie gegen den Willen ihrer Gottheit handeln.
 
 ### VORAUSSETZUNGEN
 

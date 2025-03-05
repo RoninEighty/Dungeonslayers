@@ -1,4 +1,4 @@
-# SPIELLEITUNG
+# Spielleitung
 
 Dungeonslayers ist ein sehr schnelles System - Charaktere können hier wild herumhacken, aber auch schnell das Zeitliche segnen, also gönne man ihnen jeden Ruhm.
 

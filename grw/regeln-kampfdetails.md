@@ -1,4 +1,4 @@
-## KAMPFDETAILS
+## Kampfdetails
 
 Sobald man mit den Grundregeln des Kampfes vertraut ist, kann man mit den Regeln in diesem Abschnitt bestimmte Aspekte des Kampfes erweitern.
 

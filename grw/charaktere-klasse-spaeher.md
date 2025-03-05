@@ -1,4 +1,4 @@
-## SPÄHER
+## Späher
 
 Schnelligkeit und Heimlichkeit sind die Gebiete des Spähers. Bevorzugt wird der Kampf aus der Entfernung und Bogen oder Armbrust sind unentbehrliche Begleiter.
 

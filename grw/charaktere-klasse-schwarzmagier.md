@@ -1,4 +1,4 @@
-## SCHWARZMAGIER
+## Schwarzmagier
 
 Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtgetümmel aber besser hinten aufhalten. Schwarzmagier nutzen überwiegend offensive Zauber.
 

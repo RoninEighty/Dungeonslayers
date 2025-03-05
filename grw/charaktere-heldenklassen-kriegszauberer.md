@@ -1,4 +1,4 @@
-## KRIEGSZAUBERER
+## Kriegszauberer
 
 Mit Schwert und Magie begeben sich die Kriegszauberer in die Schlacht.
 

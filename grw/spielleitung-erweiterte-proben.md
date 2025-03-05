@@ -1,4 +1,4 @@
-## ERWEITERTE PROBEN
+## Erweiterte Proben
 
 Dieser Abschnitt vertieft bei Bedarf die Regeln und deckt die typischsten Proben einer Runde Dungeonslayers ab.
 

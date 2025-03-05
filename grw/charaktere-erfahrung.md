@@ -1,4 +1,4 @@
-## ERFAHRUNG
+## Erfahrung
 
 Charaktere erhalten durch das Bezwingen von Gegnern, Lösen von Aufgaben und Bestehen von Abenteuern Erfahrungspunkte, abgekürzt mit EP.
 

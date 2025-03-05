@@ -1,4 +1,4 @@
-## KLERIKER
+## Kleriker
 
 Kleriker heilen im Namen ihree Gottheit, helfen aber auch in Wehr und Waffen.
 

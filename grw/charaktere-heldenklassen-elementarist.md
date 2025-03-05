@@ -1,4 +1,4 @@
-## ELEMENTARIST
+## Elementarist
 
 Diese Zauberer haben sich auf die Beherrschung der Elemente und das Herbeirufen von Elementaren spezialisiert.
 
