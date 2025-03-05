@@ -66,7 +66,7 @@ ST oder HÄ +1
 | [Waffenkenner](talente/waffenkenner.md) 8 (III)                                          |
 | [Wahrnehmung](talente/wahrnehmung.md) 1 (V)                                              |
 | [Wissensgebiet](talente/wissensgebiet.md) 1 (III)                                        |
-| [Zwei Waffen](talente/zwei-waffen.md)Allheilung=[Allheilung](zauber/allheilung.md) 1 (V) |
+| [Zwei Waffen](talente/zwei-waffen.md) 1 (V) |
 
 ---
 

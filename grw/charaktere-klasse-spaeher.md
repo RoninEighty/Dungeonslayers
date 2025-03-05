@@ -66,7 +66,7 @@ BE oder GE +1
 | [Waffenkenner](talente/waffenkenner.md) 12 (III)                                         |
 | [Wahrnehmung](talente/wahrnehmung.md) 1 (V)                                              |
 | [Wissensgebiet](talente/wissensgebiet.md) 1 (III)                                        |
-| [Zwei Waffen](talente/zwei-waffen.md)Allheilung=[Allheilung](zauber/allheilung.md) 8 (V) |
+| [Zwei Waffen](talente/zwei-waffen.md) 8 (V) |
 
 ---
 
