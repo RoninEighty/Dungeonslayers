@@ -1,6 +1,6 @@
 ## Späher
 
-Schnelligkeit und [Heimlichkeit](talente/heimlichkeit.md) sind die Gebiete des Spähers. Bevorzugt wird der Kampf aus der Entfernung und Bogen oder Armbrust sind unentbehrliche Begleiter.
+Schnelligkeit und Heimlichkeit sind die Gebiete des Spähers. Bevorzugt wird der Kampf aus der Entfernung und Bogen oder Armbrust sind unentbehrliche Begleiter.
 
 ### KLASSENBONUS
 

@@ -214,7 +214,7 @@ Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit a
 
 ##### FÜR SCHWARZMAGIER
 
-- Feuermagier=[Feuermagier](talente/feuermagier.md)
+- [Feuermagier](talente/feuermagier.md)
 
 ### 10. LETZTE SCHLIFFE
 
