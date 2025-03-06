@@ -27,11 +27,14 @@ sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
 #BASE_URL=https://ronineighty.github.io/Dungeonslayers
+#BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
 BASE_URL=https://fschne.github.io/Dungeonslayers
-#BASE_URL=https://www.f-space.de/ds4srd-neuton
-#BASE_URL=https://www.f-space.de/ds4srd-gelasio
+BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
 #BASE_URL=http://localhost/f-space/ds4srd
+#BASE_URL_ESCAPED=http:\\\/\\\/localhost\\\/f-space\\\/ds4srd
 
+# Inject BASE_URL_ESCAPED in style.css
+perl -pi -e "s/BASE_URL/${BASE_URL_ESCAPED}/g" styles/fonts.css
 
 # Transform all markdown files into .md.html files
 find . -name "*.md" -exec \
@@ -46,8 +49,9 @@ find . -name "*.md" -exec \
                     --metadata title="DS4 SRD+" \
                     --metadata lang:de-DE \
                     --variable base-url:"${BASE_URL}" \
-                    --css ${BASE_URL}/styles/style.css \
+                    --css ${BASE_URL}/styles/fonts.css \
                     --css ${BASE_URL}/styles/layout.css \
+                    --css ${BASE_URL}/styles/style.css \
                     --include-in-header ../_assembly/templates/javascript.html \
                     -o "{}.html" \
                     "{}" \;

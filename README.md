@@ -61,4 +61,4 @@ Bitte stellt sicher, dass die entsprechenden Pakete auf eurem Linuxsystem vorhan
 Wenn ihr die HTML-Seiten auf eurem eigenen Server bereitstellen wollt, dann müsst ihr die Base URL eures Servers im Buildprozess anpassen. Die Base URL findet sich an folgenden Stellen:
 
 - ```_assembly/scripts/make-html.sh```: BASE_URL=...
-- ```_assembly/styles/style.css```: Absolute Links für eingebettete Fonts.
+- ```_assembly/scripts/make-html.sh```: BASE_URL_ESCAPED=..., bitte alle slashes '/' ersetzen durch '\\\/'.

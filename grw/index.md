@@ -45,7 +45,7 @@ Dessen Texte und Regelmechaniken stehen unter der Lizenz [CC BY-NC-SA 3.0 DE](ht
 ## Zaubersprüche
 
 - [Zaubersprüche](zaubersprueche.md)
-- TODO Liste der Zaubersprüche
+- [Liste der Zaubersprüche](../index-zauber.md)
 
 ## Ausrüstung
 

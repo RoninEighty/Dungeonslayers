@@ -18,6 +18,7 @@ body {
 #sidebar {
   flex: 0 0 auto;
   padding-top: 0;
+  width: 100%;
 }
 
 #sidebar .site-title {
@@ -85,10 +86,6 @@ body {
   justify-content: space-between;
 }
 
-table {
-  min-width: 30rem;
-}
-
 @media print {
   #sidebar {
     display: none;
@@ -127,22 +124,24 @@ table {
     overflow-y: auto;
   }
 
-  #sidebar {
-    text-align: left;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    padding-bottom: 1rem;
-    width: 18rem;
-  }
-
-  #sidebar > *:last-child {
-    margin-bottom: 0;
+  table {
+    min-width: 30rem;
   }
 
   #sidebar {
     position: fixed;
     top: 0;
     left: 0;
+    text-align: left;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    width: 18rem;
+    height: 100%;
+  }
+
+  #sidebar > *:last-child {
+    margin-bottom: 0;
   }
 
   #sidebar .back-arrow {
