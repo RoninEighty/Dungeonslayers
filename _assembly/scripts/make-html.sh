@@ -26,10 +26,10 @@ find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p
 sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
-#BASE_URL=https://ronineighty.github.io/Dungeonslayers
-#BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
-BASE_URL=https://fschne.github.io/Dungeonslayers
-BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
+BASE_URL=https://ronineighty.github.io/Dungeonslayers
+BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
+#BASE_URL=https://fschne.github.io/Dungeonslayers
+#BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
 #BASE_URL=http://localhost/f-space/ds4srd
 #BASE_URL_ESCAPED=http:\\\/\\\/localhost\\\/f-space\\\/ds4srd
 
