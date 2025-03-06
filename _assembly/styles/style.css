@@ -10,39 +10,6 @@
    */
 }
 
-@font-face {
-	font-family: "Woodstamp";
-	src: url("https://www.f-space.de/fonts/woodstamp-webfont.ttf") format("truetype");
-}
-
-@font-face {
-	font-family: "Gelasio";
-	src: url("https://www.f-space.de/fonts/Gelasio-Regular.ttf") format("truetype");
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: "Gelasio";
-	src: url("https://www.f-space.de/fonts/Gelasio-Bold.ttf") format("truetype");
-	font-weight: bold;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: "Gelasio";
-	src: url("https://www.f-space.de/fonts/Gelasio-BoldItalic.ttf") format("truetype");
-	font-weight: bold;
-	font-style: italic;
-}
-
-@font-face {
-	font-family: "Gelasio";
-	src: url("https://www.f-space.de/fonts/Gelasio-Italic.ttf") format("truetype");
-	font-weight: normal;
-	font-style: italic;
-}
-
 * {
 	box-sizing: border-box;
 }
@@ -55,7 +22,6 @@ html {
 
 body {
 	text-size-adjust: 100%;
-	background-color: var(--sidebar-bg-color);
 	color: var(--sidebar-text-color);
 	/*background-color: #202020;*/
 	/*background-image: linear-gradient(to bottom, #323232, #0e0e0e);*/
@@ -81,6 +47,11 @@ body {
 	color: var(--text-color);
 	text-decoration: none;
 	border-bottom: 1px dashed var(--text-color);
+}
+
+#sidebar {
+	background-color: var(--sidebar-bg-color);
+	overflow-y: hidden;
 }
 
 #sidebar li {
