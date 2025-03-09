@@ -1,0 +1,2196 @@
+DE,DS4Armor.abwehr,Abwehr
+DE,DS4Armor.armor-select.title,Rüstung kaufen
+DE,DS4Armor.chainmail.description,
+DE,DS4Armor.chainmail,Kettenpanzer
+DE,DS4Armor.costs,Kosten
+DE,DS4Armor.description,Besonderes
+DE,DS4Armor.helmet.description,
+DE,DS4Armor.helmet,Metallhelm
+DE,DS4Armor.ini,INI
+DE,DS4Armor.isActive,
+DE,DS4Armor.la,LA
+DE,DS4Armor.leatherapps.description,
+DE,DS4Armor.leatherapps,Lederschienen (Arm & Bein)
+DE,DS4Armor.leather.description,
+DE,DS4Armor.leather,Lederpanzer
+DE,DS4Armor.metalshield.description,
+DE,DS4Armor.metalshield,Metallschild
+DE,DS4Armor.name,Rüstung
+DE,DS4Armor.names,Rüstungen
+DE,DS4Armor.pa,PA
+DE,DS4Armor.platearms.description,
+DE,DS4Armor.platearms,Plattenarmschienen
+DE,DS4Armor.plate.description,
+DE,DS4Armor.platelegs.description,
+DE,DS4Armor.platelegs,Plattenbeinschienen
+DE,DS4Armor.plate,Plattenpanzer
+DE,DS4Armor.robe.description,
+DE,DS4Armor.robe,Robe
+DE,DS4Armor.roberunes.description,Aura +1
+DE,DS4Armor.roberunes,Robe (runenbestickt)
+DE,DS4Armor.select,
+DE,DS4Armor.towershield.description,
+DE,DS4Armor.towershield,Turmschild
+DE,DS4Armor.woodenshield.description,Zerbricht bei Abwehr-Patzer.
+DE,DS4Armor.woodenshield,Holzschild
+DE,DS4Attribute.agi,Agilität
+DE,DS4Attribute.agi.short,AGI
+DE,DS4Attribute.gei,Geist
+DE,DS4Attribute.gei.short,GEI
+DE,DS4Attribute.kor,Körper
+DE,DS4Attribute.kor.short,KÖR
+DE,DS4Attribute.names,Attribute
+DE,DS4Buy.actualGold,Dein Goldvorrat
+DE,DS4Buy.actualTp,Deine verfügbaren Talentpunkte
+DE,DS4Buy.notEnoughGold,Du hast nicht genug Gold.
+DE,DS4Buy.notEnoughTp,Du hast nicht genug Talentpunkte.
+DE,DS4Character.abilities,Fähigkeiten
+DE,DS4Character.akyna,Akyna
+DE,DS4Character.alnuzzran,Al-Nuzzran
+DE,DS4Character.Anarioth,Anarioth 'Der Sturmrufer'
+DE,DS4Character.ankmatur,Ankmatur
+DE,DS4Character.arkenbeijl,Arken Beijl
+DE,DS4Character.armor,Panzerung
+DE,DS4Character.bandit1,Räuber
+DE,DS4Character.bandit,Wegelagerer
+DE,DS4Character.barex,Barex
+DE,DS4Character.belgor,Belgor
+DE,DS4Character.brambel,Brambel
+DE,DS4Character.brutac,Brutac
+DE,DS4Character.captaintomb,Grufthauptmann
+DE,DS4Character.casius,Casius
+DE,DS4Character.chalog,Chalog Omesch
+DE,DS4Character.cheapmercenary,Billiger Söldner
+DE,DS4Character.chienkwan,Chien Kwan
+DE,DS4CharacterClass.archmage,Erzmagier
+DE,DS4CharacterClass.archmage.short,ERZ
+DE,DS4CharacterClass.berserk,Berserker
+DE,DS4CharacterClass.berserk.short,BER
+DE,DS4CharacterClass.bloodmage,Blutmagier
+DE,DS4CharacterClass.bloodmage.short,BLU
+DE,DS4.characterClassBonus,Bonus
+DE,DS4CharacterClass.cleric,Kleriker
+DE,DS4CharacterClass.cleric.short,KLE
+DE,DS4CharacterClass.daemonmage,Dämonologe
+DE,DS4CharacterClass.daemonmage.short,DÄM
+DE,DS4CharacterClass.darkmage,Schwarzmagier
+DE,DS4CharacterClass.darkmage.short,Sch
+DE,DS4CharacterClass.druid,Druide
+DE,DS4CharacterClass.druid.short,DRU
+DE,DS4CharacterClass.elementarist,Elementarist
+DE,DS4CharacterClass.elementarist.short,ELE
+DE,DS4CharacterClass.fighter,Krieger
+DE,DS4CharacterClass.fighter.short,KRI
+DE,DS4CharacterClass.healer,Heiler
+DE,DS4CharacterClass.healer.short,Hei
+DE,DS4CharacterClass.killer,Attentäter
+DE,DS4CharacterClass.killer.short,ATT
+DE,DS4.characterClass,Klasse
+DE,DS4CharacterClass.monk,Kampfmönch
+DE,DS4CharacterClass.monk.short,KMÖ
+DE,DS4CharacterClass.names,Klassen
+DE,DS4CharacterClass.necromant,Nekromant
+DE,DS4CharacterClass.necromant.short,NEK
+DE,DS4CharacterClass.paladin,Paladin
+DE,DS4CharacterClass.paladin.short,PAL
+DE,DS4CharacterClass.ranger.short,WDL
+DE,DS4CharacterClass.ranger,Waldläufer
+DE,DS4CharacterClass.scout.short,SPÄ
+DE,DS4CharacterClass.scout,Späher
+DE,DS4CharacterClass.thief,Meisterdieb
+DE,DS4CharacterClass.thief.short,MDB
+DE,DS4CharacterClass.warmage,Kriegszauberer
+DE,DS4CharacterClass.warmage.short,KRZ
+DE,DS4CharacterClass.weaponmaster.short,WAM
+DE,DS4CharacterClass.weaponmaster,Waffenmeister
+DE,DS4CharacterClass.wizard.short,Zau
+DE,DS4CharacterClass.wizard,Zauberer
+DE,DS4Character.complice,Komplize
+DE,DS4Character.cultistofshadows,Schattenkultist
+DE,DS4Character.darksoldier,Dunkler Krieger
+DE,DS4Character.Dirion,Dirion
+DE,DS4Character.drac,Drac
+DE,DS4Character.dwarvenslave,Zwergensklave
+DE,DS4Character.eldvyn,Eldvyn
+DE,DS4Character.emrich,Emrich
+DE,DS4Character.Enural,Enural
+DE,DS4Character.ep,Erfahrungspunkte
+DE,DS4Character.equipment,Ausrüstung
+DE,DS4Character.Erald,Erald
+DE,DS4Character.Erindor,Erindor
+DE,DS4Character.faria,Faria (Feuermagierin)
+DE,DS4Character.Fenya,Fenya
+DE,DS4Character.Floragon,Floragon
+DE,DS4Character.galen,Galen
+DE,DS4Character.glitzerhand,Glitzerhand (Dieb)
+DE,DS4Character.Gloriel,Gloriel 'Die Kräuterhexe'
+DE,DS4Character.gold,Gold
+DE,DS4Character.gorla,Großmutter Gorla
+DE,DS4Character.harringer,Harringer
+DE,DS4Character.hartmund,Hartmund
+DE,DS4Character.healer12,Heiler/Schütze 12
+DE,DS4Character.healer1,Heiler/Schütze 01
+DE,DS4Character.healer4,Heiler/Schütze 04
+DE,DS4Character.healer8,Heiler/Schütze 08
+DE,DS4Character.heob,Heob (Ordensheiler)
+DE,DS4Character.humanslave,Menschensklave
+DE,DS4Character.icequeen,Die Eiskönigin
+DE,DS4Character.Iglorion,Iglorion
+DE,DS4Character.jokwalderson,Jok von Walderson
+DE,DS4Character.josip,Josip
+DE,DS4Character.jostrotweiden,Jost Rotweiden
+DE,DS4Character.kaholguard,Kaholwächter
+DE,DS4Character.kamp,Kamp
+DE,DS4Character.knight12,Ritter 12
+DE,DS4Character.knight1,Ritter 01
+DE,DS4Character.knight4,Ritter 04
+DE,DS4Character.knight8,Ritter 08
+DE,DS4Character.knighttomb,Gruftritter
+DE,DS4Character.level,Stufe
+DE,DS4Character.lios,Lios
+DE,DS4Character.lp,LP
+DE,DS4Character.Lydenia,Lydenia
+DE,DS4Character.nicomavelli,Nico Mavelli
+DE,DS4Character.noname,-Kein Name-
+DE,DS4Character.noviceoftarr,Tarr-Novize
+DE,DS4Character.rogg,Rogg (Umbar-Barbar)
+DE,DS4Character.ryandougal,Ryan Dougal
+DE,DS4Character.Sanuriel,Sanuriel
+DE,DS4Character.schnabbler,Rattenkönig Schnabbler
+DE,DS4Character.schnarkel,Meister Schnarkel
+DE,DS4Character.shadowpriest,Schattenpriester
+DE,DS4Character.shekz,Shekz
+DE,DS4Character.sinda,Sinda
+DE,DS4Character.slayerforum10,Caerner Freibeuter
+DE,DS4Character.slayerforum11,Chio-Puan Wandermönch
+DE,DS4Character.slayerforum12,Copperntaler Milizionär
+DE,DS4Character.slayerforum13,Duldgnomischer Zaubertechniker
+DE,DS4Character.slayerforum14,Einbrecher
+DE,DS4Character.slayerforum15,Eisenhaller Armbrustschütze
+DE,DS4Character.slayerforum16,Fahlstepper Grenzwächter
+DE,DS4Character.slayerforum17,Falschspieler
+DE,DS4Character.slayerforum18,Fjordinger Wikinger
+DE,DS4Character.slayerforum19,Fjordorzwergischer Kaperfahrer
+DE,DS4Character.slayerforum1,Aensteiner Soldat
+DE,DS4Character.slayerforum20,Freiländer Dämonenjäger
+DE,DS4Character.slayerforum21,Gärtner
+DE,DS4Character.slayerforum22,Gnomischer Illusionist
+DE,DS4Character.slayerforum23,Hellweiter Diplomat
+DE,DS4Character.slayerforum24,Hilaner Priester
+DE,DS4Character.slayerforum25,Hilanischer Peltast
+DE,DS4Character.slayerforum26,Jödländer Schamanin
+DE,DS4Character.slayerforum27,Kait Jadedrache
+DE,DS4Character.slayerforum28,Kait Ninja
+DE,DS4Character.slayerforum29,Kait Schwertgelehrter
+DE,DS4Character.slayerforum2,Aensteiner Wilderer
+DE,DS4Character.slayerforum30,Kultist in Mautmoreen
+DE,DS4Character.slayerforum31,Lehrling in Aenk`Mator
+DE,DS4Character.slayerforum32,Mardossani Kavalier
+DE,DS4Character.slayerforum33,Maskentänzerin
+DE,DS4Character.slayerforum34,Mokaner Fährtenleser
+DE,DS4Character.slayerforum35,Nafuri Söldner
+DE,DS4Character.slayerforum36,Narrländer Alchemist
+DE,DS4Character.slayerforum37,Nordeker Ritter
+DE,DS4Character.slayerforum38,Rekrut der Reiter der Morgenröte
+DE,DS4Character.slayerforum39,Stadtwache in den Freien Landen
+DE,DS4Character.slayerforum3,Angischer Clanskrieger
+DE,DS4Character.slayerforum40,Sternheider Forscher
+DE,DS4Character.slayerforum41,Umbar Barbar
+DE,DS4Character.slayerforum42,Vandrianischer Minnesänger
+DE,DS4Character.slayerforum43,Vandrianischer Ordensheiler
+DE,DS4Character.slayerforum44,Vandrianischer Ordensritter
+DE,DS4Character.slayerforum45,Vestracher Einbrecher
+DE,DS4Character.slayerforum46,Walküre von Wyndstett
+DE,DS4Character.slayerforum47,Wyndländischer Schwarzmagier
+DE,DS4Character.slayerforum48,Ynnari (Schwester des Waldes)
+DE,DS4Character.slayerforum49,Zasarischer Feuermagier
+DE,DS4Character.slayerforum4,Ascheelf Krieger
+DE,DS4Character.slayerforum50,Zasarischer Kauffahrer
+DE,DS4Character.slayerforum51,Zasarischer Märchenerzähler
+DE,DS4Character.slayerforum52,Zwergischer Minenarbeiter
+DE,DS4Character.slayerforum5,Ascheelf Rächer
+DE,DS4Character.slayerforum6,Ascheelf Späher
+DE,DS4Character.slayerforum7,Bergzwergischer Söldner
+DE,DS4Character.slayerforum8,Berna-Priesterin
+DE,DS4Character.slayerforum9,Bosker Sturmkrähe (Söldner)
+DE,DS4Character.sorcerer12,Kampfmagier 12
+DE,DS4Character.sorcerer1,Kampfmagier 01
+DE,DS4Character.sorcerer4,Kampfmagier 04
+DE,DS4Character.sorcerer8,Kampfmagier 08
+DE,DS4Character.spellsZa,Zauber
+DE,DS4Character.spellsZZ,Zielzauber
+DE,DS4Character.stig,Stig
+DE,DS4Character.talents,Talente
+DE,DS4Character.tp.short,TP
+DE,DS4Character.tp,TP
+DE,DS4Character.vandrianmanatarms1,Vandrianischer Waffenknecht
+DE,DS4Character.vandrianmanatarms2,Vandrianischer Waffenknecht
+DE,DS4Character.Varissa,Varissa
+DE,DS4Character.virgil,Virgil
+DE,DS4Character.vladekcrumm,Vladek Crumm
+DE,DS4Character.weapons,Waffen
+DE,DS4Character.wilbert,Ritter Wilbert
+DE,DS4Character.wilfriedeibenhoeh,Wilfried von Eibenhöh
+DE,DS4Character.wolfbart,Wolfbart
+DE,DS4Character.worker,Arbeiter
+DE,DS4.coppercoin.short,KM
+DE,DS4Creature.airdaemon1,Luftdämon I
+DE,DS4Creature.airdaemon2,Luftdämon II
+DE,DS4Creature.airdaemon3,Luftdämon III
+DE,DS4Creature.airigh,Airigh
+DE,DS4Creature.alligator,Alligator
+DE,DS4Creature.arcuna,Arcuna
+DE,DS4CreatureArmor.burningfur,Brennendes Fell
+DE,DS4CreatureArmor.crystalcreature,Kristallwesen
+DE,DS4CreatureArmor.daemonscale,Dämonenhaut
+DE,DS4CreatureArmor.darklumps,Dunkler Lumpenumhang
+DE,DS4CreatureArmor.dragonscale,Drachenschuppen
+DE,DS4CreatureArmor.elephant,Dickhäuter
+DE,DS4CreatureArmor.feathers,Federkleid
+DE,DS4CreatureArmor.fur,Fell
+DE,DS4CreatureArmor.furflicks,Felle
+DE,DS4CreatureArmor.furskirt,Fellschurz
+DE,DS4CreatureArmor.icefur,Frostfell
+DE,DS4CreatureArmor.lumps,Lumpen
+DE,DS4CreatureArmor.magicrobe,mag. Robe
+DE,DS4CreatureArmor.metalcreature,Metallwesen
+DE,DS4CreatureArmor.mumy,Bandagen
+DE,DS4CreatureArmor.names,Panzerung
+DE,DS4CreatureArmor.nohardshape,Keine feste Gestalt
+DE,DS4CreatureArmor.painless,Merkt nichts
+DE,DS4CreatureArmor.rustlouse,Chitinpanzer
+DE,DS4CreatureArmor.scalearmor,Schuppenpanzer
+DE,DS4CreatureArmor.scales,Schuppen
+DE,DS4CreatureArmor.shadowarmor,Schattenrüstung
+DE,DS4CreatureArmor.shadowbody,Schattenkörper
+DE,DS4CreatureArmor.shadowfur,Schattenpelz
+DE,DS4CreatureArmor.spider,Dicke Spinnenhaut
+DE,DS4CreatureArmor.stonecreature,Steinwesen
+DE,DS4CreatureArmor.thickfur,Dicke Borstenhaut
+DE,DS4CreatureArmor.thickskin,Dicke Haut
+DE,DS4CreatureArmor.thickwood,Dicke Rinde
+DE,DS4CreatureArmor.warts,Warzenhaut
+DE,DS4CreatureArmor.withoutbody,Körperlos
+DE,DS4CreatureArmor.wolf,Wolfspelz
+DE,DS4CreatureArmor.wood,Gehölz
+DE,DS4Creature.arrowmushroom,Pfeilsporenpilz
+DE,DS4Creature.babydragondeformed,Deformierter Drachenwelpe
+DE,DS4Creature.babydragon,Drachenwelpe
+DE,DS4Creature.badger,Schreckensdachs
+DE,DS4Creature.balsaminator,Blasaminator
+DE,DS4Creature.basilik,Basilisk
+DE,DS4Creature.bear,Bär
+DE,DS4Creature.bigowl,Eulerich
+DE,DS4Creature.blob,Blob
+DE,DS4Creature.boar,Keiler
+DE,DS4Creature.brasko,Brasko
+DE,DS4Creature.bulegor,Bulegor
+DE,DS4Creature.catofprey,Raubkatze
+DE,DS4Creature.cavegnome,Grottenschrat
+DE,DS4Creature.corpse,Leichnam
+DE,DS4Creature.cranag,Cranag der Wanderer
+DE,DS4Creature.daemon,Hoher Dämon
+DE,DS4Creature.daemonofwar,Kriegsdämon
+DE,DS4Creature.daemonprince,Dämonenfürst
+DE,DS4Creature.decayedbuldge,Faulbauch
+DE,DS4Creature.decayedmaggot,Faulbauchmade
+DE,DS4Creature.dog,Hund
+DE,DS4Creature.donnerechse,Donnerechse
+DE,DS4Creature.donnervogel,Donnervogel
+DE,DS4Creature.dragon,Erwachsener Drache
+DE,DS4Creature.drazuul,Drazuul die Verderberin
+DE,DS4Creature.eagle,Adler
+DE,DS4Creature.eel,Schnappaal
+DE,DS4Creature.elementarairiii,Luftelementar III
+DE,DS4Creature.elementarairii,Luftelementar II
+DE,DS4Creature.elementarairi,Luftelementar I
+DE,DS4Creature.elementarearthi,Erdelementar I
+DE,DS4Creature.elementarearthii,Erdelementar II
+DE,DS4Creature.elementarearthiii,Erdelementar III
+DE,DS4Creature.elementarfirei,Feuerelementar I
+DE,DS4Creature.elementarfireii,Feuerelementar II
+DE,DS4Creature.elementarfireiii,Feuerelementar III
+DE,DS4Creature.elementariceiii,Eiselementar III
+DE,DS4Creature.elementarwateriii,Wasserelementar III
+DE,DS4Creature.elementarwaterii,Wasserelementar II
+DE,DS4Creature.elementarwateri,Wasserelementar I
+DE,DS4Creature.elephant,Kriegselefant
+DE,DS4Creature.ep,Erfahrungspunkte
+DE,DS4Creature.ep.short,EP
+DE,DS4Creature.ettin,Ettin
+DE,DS4Creature.eyeball,Augenball
+DE,DS4Creature.eyeballsmall,Kleiner Augenball
+DE,DS4Creature.fatgoblinguard,Fetter Goblin-Aufseher
+DE,DS4Creature.fayofdeath,Todesfee
+DE,DS4Creature.fenfire,Irrlicht
+DE,DS4Creature.fightingdaemon,Kampfdämon
+DE,DS4Creature.flyingsword,Fliegendes Schwert
+DE,DS4Creature.Funkenfieper,Funkenfieper
+DE,DS4Creature.gargyl,Gargyl
+DE,DS4Creature.gh,Gegnerhärte
+DE,DS4Creature.ghost,Geist
+DE,DS4Creature.gh.short,GH
+DE,DS4Creature.giantape,Riesenaffe
+DE,DS4Creature.giantoctopus,Riesenkrake
+DE,DS4Creature.giantotter,Riesensumpfotter
+DE,DS4Creature.giantrat,Riesenratte
+DE,DS4Creature.giant,Riese
+DE,DS4Creature.giantsaurian,Riesenechse
+DE,DS4Creature.giantsnake,Riesenschlange
+DE,DS4Creature.gisamor,Gisamor
+DE,DS4Creature.gk,Größenkategorie
+DE,DS4Creature.gk.short,GK
+DE,DS4creature.goblinavenger,Goblinrächer
+DE,DS4Creature.goblinberserker,Goblin Berserker
+DE,DS4Creature.goblinbomber,Goblin Bomber
+DE,DS4Creature.goblincityrat,Goblin Stadtratte
+DE,DS4Creature.goblinfighter,Goblin Krieger
+DE,DS4Creature.goblin,Goblin
+DE,DS4Creature.goblinleader,Goblin Häuptling
+DE,DS4Creature.goblinmurderer,Goblin Giftmörder
+DE,DS4Creature.goblinschamane,Goblin Schamane
+DE,DS4Creature.goblinscout,Goblin Späher
+DE,DS4Creature.golemargil,Tonkriegergolem
+DE,DS4Creature.golembone,"Golem, Knochen-"
+DE,DS4Creature.golembonesmall,Kleiner Knochengolem
+DE,DS4Creature.golemcrystal,"Golem, Kristall-"
+DE,DS4Creature.golemiron,"Golem, Eisen-"
+DE,DS4Creature.golemmud,"Golem, Lehm-"
+DE,DS4Creature.golemstone,"Golem, Stein-"
+DE,DS4Creature.golemtree,Baumgolem
+DE,DS4Creature.gralbor,Gralbor Weißauge
+DE,DS4Creature.group,Gruppe
+DE,DS4Creature.halflingskeleton,Halblingskelett
+DE,DS4Creature.harpyie,Harpyie
+DE,DS4Creature.heretic,Der Ketzer
+DE,DS4Creature.hobgoblin,Hobgoblin
+DE,DS4Creature.horse,Pferd
+DE,DS4Creature.humansaurian,Echsenmensch
+DE,DS4Creature.hydra,Hydra
+DE,DS4Creature.icedwarf,Eiszwerg
+DE,DS4Creature.icewolf,Eiswolf
+DE,DS4Creature.katvija,Kavija die Uralte
+DE,DS4Creature.kerberos,Kerberos
+DE,DS4Creature.kobold,Kobold
+DE,DS4Creature.kral,Kral der Schreckliche
+DE,DS4Creature.kruga,Kruga
+DE,DS4Creature.livingarmor,Lebende Rüstung
+DE,DS4Creature.livingroots,Lebende Wurzel
+DE,DS4Creature.lorddammenhall,Lord Dammenhall
+DE,DS4Creature.Lufrelementardiener,Lufrelementardiener
+DE,DS4Creature.Luftelementarbote,Luftelementarbote
+DE,DS4Creature.mammut,Mammut
+DE,DS4Creature.medusa,Medusa
+DE,DS4Creature.megaskeleton,Mega-Skelett
+DE,DS4Creature.miniondammenhall,Getreuer Dammenhalls
+DE,DS4Creature.minortaur,Minotaurus
+DE,DS4Creature.monstrousspiderbaby,Baby Monsterspinne
+DE,DS4Creature.monstrousspider,Monsterspinne
+DE,DS4Creature.monstrousspidersmall,Kleine Monsterspinne
+DE,DS4Creature.morg,Morg Bulgash
+DE,DS4Creature.mudaks,"Mudaks, die Grünhaut"
+DE,DS4Creature.mumy,Mumie
+DE,DS4Creature.mutantrat,Mutierte Riesenratte
+DE,DS4Creature.name,Name
+DE,DS4Creature.names,Monster
+DE,DS4Creature.nancor,Nancor der Bärenwüter
+DE,DS4Creature.octopusink,Tintenkraken
+DE,DS4Creature.ogre,Oger
+DE,DS4Creature.orcbandit,Orkräuber
+DE,DS4Creature.orc,Ork
+DE,DS4Creature.pony,Pony
+DE,DS4Creature.ratlingexperienced,Erfahrener Rattling
+DE,DS4Creature.rat,Ratte
+DE,DS4Creature.rattlingking,Rattenkönig
+DE,DS4Creature.rattlingleader,Rattling Kriegshäuptling
+DE,DS4Creature.rattlingogre,Rattenoger
+DE,DS4Creature.rattlingpriest,Rattling Seuchenpriester
+DE,DS4Creature.rattling,Rattling
+DE,DS4Creature.rattlingwizard,Rattling Giftzauberer
+DE,DS4Creature.remnaton,Remnaton
+DE,DS4Creature.ridingboar,Reitkeiler
+DE,DS4Creature.riesenpterodactylus,Riesenpterodactylus
+DE,DS4Creature.rustlouse,Rostassel
+DE,DS4Creature.sabretiger,Säbelzahntiger
+DE,DS4Creature.shadow,Schatten
+DE,DS4Creature.shadowwolf,Schattenwolf
+DE,DS4Creature.shark,Hai
+DE,DS4Creature.shimmeringhorse,Schimmerross
+DE,DS4Creature.simpledaemon,Niederer Dämon
+DE,DS4CreatureSize.0,normal
+DE,DS4CreatureSize.0.short,no
+DE,DS4CreatureSize.1,groß
+DE,DS4CreatureSize.-1,klein
+DE,DS4CreatureSize.1.short,gr
+DE,DS4CreatureSize.-1.short,kl
+DE,DS4CreatureSize.2,riesig
+DE,DS4CreatureSize.2.short,ri
+DE,DS4CreatureSize.-2.short,wi
+DE,DS4CreatureSize.-2,winzig
+DE,DS4CreatureSize.3,gewaltig
+DE,DS4CreatureSize.3.short,ge
+DE,DS4Creature.skeleton,Skelett
+DE,DS4Creature.slingingbush,Schlingwurzelbusch
+DE,DS4Creature.smallhairyworm,Kleiner Borstenwurm
+DE,DS4Creature.smallmurdermidge,Kleine Mordmücke
+DE,DS4Creature.snowgiant,Schneeriese
+DE,DS4Creature.source,Quelle
+DE,DS4Creature.specialmorelegs,Mehr als 2 Beine?
+DE,DS4Creature.stats.administration.increase,Gesteigert
+DE,DS4Creature.stats.administration.lp,LP-Verwaltung
+DE,DS4Creature.stats.administration.startMax,Start / Max.
+DE,DS4Creature.stats.administration.total,Gesamt
+DE,DS4Creature.stats.investmentArmor,Gold investiert in Rüstungen
+DE,DS4Creature.stats.investmentItems,Gold investiert in Ausrüstung
+DE,DS4Creature.stats.investmentOverall,Gold investiert gesamt
+DE,DS4Creature.stats.investmentSpells,Gold investiert in Zaubersprüche
+DE,DS4Creature.stats.investmentWeapons,Gold investiert in Waffen
+DE,DS4Creature.stats.levelestimated,(geschätzt)
+DE,DS4Creature.stats.name,Statistiken
+DE,DS4Creature.stats.overall_lp,Lernpunkte gesamt
+DE,DS4Creature.stats.overall_tp,Talentpunkte gesamt
+DE,DS4Creature.stats.rest_lp,Lernpunkte übrig
+DE,DS4Creature.stats.spentlp_classEigenschaften,Lernpunkte ausgegeben für Eigenschaften (Klasse)
+DE,DS4Creature.stats.spentlp_nonClassEigenschaften,Lernpunkte ausgegeben für Eigenschaften (Andere)
+DE,DS4Creature.stats.spentlp_overall,Lernpunkte ausgegeben
+DE,DS4Creature.stats.sumAttribute,Summe Attribute
+DE,DS4Creature.stats.sum_classEigenschaften,Summe Eigenschaften (Klasse)
+DE,DS4Creature.stats.sum_eigenschaften,Summe Eigenschaften
+DE,DS4Creature.stats.sum_nonClassEigenschaften,Summe Eigenschaften (Andere)
+DE,DS4Creature.stats.tpRest,Talentpunkte übrig
+DE,DS4Creature.stats.tpSpent,Talentpunkte ausgegeben
+DE,DS4Creature.steamcoach,Dampfkutsche
+DE,DS4Creature.sturmmeerkatze,Sturmmeerkatze
+DE,DS4Creature.sturmsegler,Sturmsegler
+DE,DS4Creature.swamplizard,Sumpfechse
+DE,DS4CreatureTalent.aging1,Alterung
+DE,DS4CreatureTalent.aging1.description,Bei einem Treffer altert das Ziel um 1 Jahr.
+DE,DS4CreatureTalent.aging1.short,Alterung (+1 Jahr pro Treffer)
+DE,DS4CreatureTalent.agingx,Alterung
+DE,DS4CreatureTalent.agingx.description,Bei einem Treffer altert das Ziel pro erlittenen Schadenspunkt um 1 Jahr.
+DE,DS4CreatureTalent.agingx.short,Alterung (+1 Jahr pro Schadenspunkt)
+DE,DS4CreatureTalent.antimagie,Antimagie
+DE,DS4CreatureTalent.antimagie.description,Sämtliche Magie in einem Radius von 10m Metern um den großen Augenball herum ist wirkungslos. Dies gilt nicht für die eigene Magie der Kreatur oder deren Zauber.
+DE,DS4CreatureTalent.antimagie.short,Antimagie
+DE,DS4CreatureTalent.attackflatfooted,Bodenkampf
+DE,DS4CreatureTalent.attackflatfooted.description,"Erhält Schlagen + KÖR, wenn ein Gegner angegriffen wird, der am Boden liegt."
+DE,DS4CreatureTalent.attackflatfooted.short,Bodenkampf
+DE,DS4CreatureTalent.charge.description,"Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen."
+DE,DS4CreatureTalent.charge.short,Sturmangriff
+DE,DS4CreatureTalent.charge,Sturmangriff
+DE,DS4CreatureTalent.charm,Bezaubern
+DE,DS4CreatureTalent.charmcontrol,Bezaubern
+DE,DS4CreatureTalent.charmcontrol.description,"Kann Untote bezaubern wie durch den Zauber ""Kontrollieren"" (Stufe 9)"
+DE,DS4CreatureTalent.charmcontrol.short,Bezaubern (Zauber: Kontrollieren)
+DE,DS4CreatureTalent.charm.description,Kann Gegner mit ihrem 'Lockruf' (siehe Zauber) bezaubern.
+DE,DS4CreatureTalent.charm.short,Bezaubern (Zauber: Gehorche)
+DE,DS4CreatureTalent.climb.description,Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern.
+DE,DS4CreatureTalent.climb,Kletterläufer
+DE,DS4CreatureTalent.climb.short,Kletterläufer
+DE,DS4CreatureTalent.creatureofdarkness.description,Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+DE,DS4CreatureTalent.creatureofdarkness.short,Wesen der Dunkelheit (Settingoption)
+DE,DS4CreatureTalent.creatureofdarkness,Wesen der Dunkelheit (Settingoption)
+DE,DS4CreatureTalent.creatureoflight.description,Gilt in den meisten Settings als ein Wesen des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur.
+DE,DS4CreatureTalent.creatureoflightordarkness.description,Gilt in den meisten Settings als ein Wesen der Dunkelheit bzw. des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur.
+DE,DS4CreatureTalent.creatureoflightordarkness.short,Wesen der Dunkelheit / Wesen des Lichts (Settingoption)
+DE,DS4CreatureTalent.creatureoflightordarkness,Wesen der Dunkelheit / Wesen des Lichts (Settingoption)
+DE,DS4CreatureTalent.creatureoflight.short,Wesen des Lichts (Settingoption)
+DE,DS4CreatureTalent.creatureoflight,Wesen des Lichts (Settingoption)
+DE,DS4CreatureTalent.darkvision.description,Kann selbst in völliger Dunkelheit noch sehen.
+DE,DS4CreatureTalent.darkvision,Dunkelsicht
+DE,DS4CreatureTalent.darkvision.short,Dunkelsicht
+DE,DS4CreatureTalentDescription.names,Beschreibungen der Monsterfähigkeiten
+DE,DS4CreatureTalent.destroyingstrike.description,"Kann einen Angriff pro Runde mit -6 ausführen, um an einem  Ziel (sofern nicht mehr als 1  Größenkategorie Unterschied) nicht abwehrbaren Schaden zu verursachen."
+DE,DS4CreatureTalent.destroyingstrike.short,Vernichtender Schlag
+DE,DS4CreatureTalent.destroyingstrike,Vernichtender Schlag
+DE,DS4CreatureTalent.elementareaufzehrung.description,"Kann pro Runde ein Elementar aufzehren (sofortiger Tod), in dieser Runde aber nichts anderes machen. Jede Aufzehrung bringt eine Aufladung von <i>Elementare Freisetzung</i>."
+DE,DS4CreatureTalent.elementareaufzehrung,Elementare Aufzehrung
+DE,DS4CreatureTalent.elementareaufzehrung.short,Elementare Aufzehrung
+DE,DS4CreatureTalent.elementarefreisetzung.description,Kann alle 5 Runden mit einer Aufladung aus <i>Elementare Aufzehrung</i> detonieren: Alle Umstehenden erhalten abwehrbaren Schaden auf PW:20 und ein wahnsinniges Lufrelementar wird freigesetzt.
+DE,DS4CreatureTalent.elementarefreisetzung,Elementare Freisetzung
+DE,DS4CreatureTalent.elementarefreisetzung.short,Elementare Freisetzung
+DE,DS4CreatureTalent.entangle2.description,"Schlagen-Immersieg umklammert Ziel, welches fortan ST Punkte abwehrb. Schaden erleidet und einen Malus von -1 auf alle Proben pro 2 festgeklammerter Kreaturen erhält. Befreien: Opfer mit KÖR+ST vergleichende Probe gegen KÖR+ST des Umklammerers."
+DE,DS4CreatureTalent.entangle2.short,Umklammern
+DE,DS4CreatureTalent.entangle2,Umklammern
+DE,DS4CreatureTalent.entangle.description,"Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers."
+DE,DS4CreatureTalent.entangle.short,Umschlingen
+DE,DS4CreatureTalent.entangle,Umschlingen
+DE,DS4CreatureTalent.evilaura.description,-2 LK/Runde für jedes Lebewesen im Radius von 4 Metern.
+DE,DS4CreatureTalent.evilaura.short,Verdorrende Aura
+DE,DS4CreatureTalent.evilaura,Verdorrende Aura
+DE,DS4CreatureTalent.fear1,Angst
+DE,DS4CreatureTalent.fear1.description,"Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht."
+DE,DS4CreatureTalent.fear1.short,Angst (-1)
+DE,DS4CreatureTalent.fear2,Angst
+DE,DS4CreatureTalent.fear2.description,"Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht."
+DE,DS4CreatureTalent.fear2.short,Angst (-2)
+DE,DS4CreatureTalent.fear3,Angst
+DE,DS4CreatureTalent.fear3.description,"Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -3 auf alle Proben. Bei einem Patzer ergreift man die Flucht."
+DE,DS4CreatureTalent.fear3.short,Angst (-3)
+DE,DS4CreatureTalent.fear5.description,"Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -5 auf alle Proben. Bei einem Patzer ergreift man die Flucht."
+DE,DS4CreatureTalent.float.description,"Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2."
+DE,DS4CreatureTalent.float,Schweben
+DE,DS4CreatureTalent.float.short,Schweben
+DE,DS4CreatureTalent.fly.description,"Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4."
+DE,DS4CreatureTalent.fly,Fliegen
+DE,DS4CreatureTalent.fly.short,Fliegen
+DE,DS4CreatureTalent.forceofdeath.description,Erhält GEI+AU als Bonus auf Stärke und Härte.
+DE,DS4CreatureTalent.forceofdeath.short,Totenkraft
+DE,DS4CreatureTalent.forceofdeath,Totenkraft
+DE,DS4CreatureTalent.geladenfunkenfieper.description,Ist immun gegen jegliche Art von Blitzschaden. Laufende Abklingzeiten von Zaubern werden durch eintreffenden Blitzschaden auf 0 gesetzt.
+DE,DS4CreatureTalent.geladenfunkenfieper,Geladen
+DE,DS4CreatureTalent.geladenfunkenfieper.short,Geladen
+DE,DS4CreatureTalent.gulp.description,"Schlagen-Immersieg (Biss) verschlingt Ziel (sofern 2+ Größenkategorien kleiner), welches fortan einen nicht abwehrbaren Schadenspunkt pro Kampfrunde und einen Malus von -8 auf alle Proben erhält. Befreien: Nur mit einem Schlagen-Immersieg, der Schaden verursacht, kann sich der Verschlungene augenblicklich aus dem Leib seines Verschlingers befreien, wenn dieser noch lebt."
+DE,DS4CreatureTalent.gulp.short,Verschlingen
+DE,DS4CreatureTalent.gulp,Verschlingen
+DE,DS4CreatureTalent.lossgei.description,Pro schadensverursachenden Treffer mit dem Gedankenzehrerstrahl-Zauber wird GEI um 1 gesenkt (bei GEI Null ist das Opfer wahnsinnig). Pro Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert.
+DE,DS4CreatureTalent.lossgeilaugh.description,Pro erfolgreich angewandtem Lachen wird GEI um 1 gesenkt (bei GEI 0 ist das Opfer wahnsinnig). Pro Tag und Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert.
+DE,DS4CreatureTalent.lossgei.short,"Werteverlust (GEI -1, durch Gedankenverzehrer)"
+DE,DS4CreatureTalent.lossgei,Werteverlust
+DE,DS4CreatureTalent.losskor.description,Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖR Null ist das Opfer tot). Pro Tag oder Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert.
+DE,DS4CreatureTalent.losskor.short,"Werteverlust (KÖR -1, falls Schaden)"
+DE,DS4CreatureTalent.losskor,Werteverlust
+DE,DS4CreatureTalent.magicload.description,"Kann sich für eine Runde magisch aufladen (zählt als Aktion), um in der nächsten Runde einen Bonus von +GEI auf Zielzauber zu erhalten."
+DE,DS4CreatureTalent.magicload,Magische Aufladung
+DE,DS4CreatureTalent.magicload.short,Magische Aufladung
+DE,DS4CreatureTalent.mentalimmunity.description,"Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind."
+DE,DS4CreatureTalent.mentalimmunity,Geistesimmun
+DE,DS4CreatureTalent.mentalimmunity.short,Geistesimmun
+DE,DS4CreatureTalent.multipleattacks1.description,Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks1,Mehrere Angriffe (+1)
+DE,DS4CreatureTalent.multipleattacks1.short,Mehrere Angriffe (+1)
+DE,DS4CreatureTalent.multipleattacks2.description,Kann 2 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks2,Mehrere Angriffe (+2)
+DE,DS4CreatureTalent.multipleattacks3.description,Kann 3 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks3,Mehrere Angriffe (+3)
+DE,DS4CreatureTalent.multipleattacks4.description,Kann 4 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks4,Mehrere Angriffe (+4)
+DE,DS4CreatureTalent.multipleattacks5.description,Kann 5 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks5,Mehrere Angriffe (+5)
+DE,DS4CreatureTalent.multipleattacks6.description,Kann 6 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks6,Mehrere Angriffe (+6)
+DE,DS4CreatureTalent.multipleattacks7.description,Kann 7 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks7,Mehrere Angriffe (+7)
+DE,DS4CreatureTalent.multipleattacks8.description,Kann 8 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks8,Mehrere Angriffe (+8)
+DE,DS4CreatureTalent.multipleattacks9.description,Kann 9 zusätzlichn Angriffe in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacks9,Mehrere Angriffe (+9)
+DE,DS4CreatureTalent.multipleattacks9.short,Mehrere Angriffe (+9)
+DE,DS4CreatureTalent.multipleattackscat.description,Kann 1 zusätzlichen Angriff (Pranke oder Biss) in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattackscat,Mehrere Angriffe (+1)
+DE,DS4CreatureTalent.multipleattackscat.short,Mehrere Angriffe (+1 Pranke oder Biss)
+DE,DS4CreatureTalent.multipleattacksdragon.description,"Kann 1 zusätzlichen Angriff (Biss, Klaue, Odem oder Schwanzhieb) in jeder Runde aktionsfrei ausführen. Bis auf die Klauen dürfen alle Angriffsarten nur einmal pro Runde angewendet werden."
+DE,DS4CreatureTalent.multipleattacksdragon,Mehrere Angriffe (+1)
+DE,DS4CreatureTalent.multipleattacksdragon.short,"Mehrere Angriffe (+1 Biss, Klaue, Odem oder Schwanzhieb)"
+DE,DS4CreatureTalent.multipleattackseyeball.description,"Kann 4 zusätzliche Zaubersprüche in jeder Runde aktionsfrei wirken, keinen einzelnen Zauberspruch jedoch mehr als einmal. Abklingzeiten müssen weiterhin berücksichtigt werden."
+DE,DS4CreatureTalent.multipleattackseyeball,Mehrere Angriffe (+4)
+DE,DS4CreatureTalent.multipleattackseyeball.short,Mehrere Angriffe (+4 Augen; Zauber)
+DE,DS4CreatureTalent.multipleattackseyeballsmall.description,"Kann 3 zusätzliche Zaubersprüche in jeder Runde aktionsfrei wirken, keinen einzelnen Zauberspruch jedoch mehr als einmal. Abklingzeiten müssen weiterhin berücksichtigt werden."
+DE,DS4CreatureTalent.multipleattackseyeballsmall,Mehrere Angriffe (+4)
+DE,DS4CreatureTalent.multipleattackseyeballsmall.short,Mehrere Angriffe (+3 Augen; Zauber)
+DE,DS4CreatureTalent.multipleattacksgolem.description,Kann mit seinen insgesamt vier Armen 3 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacksgolem,Mehrere Angriffe (+3)
+DE,DS4CreatureTalent.multipleattacksgolem.short,Mehrere Angriffe (+3 Arme)
+DE,DS4CreatureTalent.multipleattackshydra.description,Kann mit seinen insgesamt sechs Köpfen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattackshydra,Mehrere Angriffe (+5)
+DE,DS4CreatureTalent.multipleattackshydra.short,Mehrere Angriffe (+5 Köpfe)
+DE,DS4CreatureTalent.multipleattacksmedusa.description,Von den zahlreichen Schlangen auf ihrem Kopf können jeweils 5 in jeder Runde Nahkampfgegner angreifen.
+DE,DS4CreatureTalent.multipleattacksmedusa,Mehrere Angriffe (+5)
+DE,DS4CreatureTalent.multipleattacksmedusa.short,Mehrere Angriffe (+5 Schlagenköpfe; nur Nahkampf)
+DE,DS4CreatureTalent.multipleattacksoctopus.description,Kann mit seinen insgesamt sechs Fangarmen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacksoctopus,Mehrere Angriffe (+5)
+DE,DS4CreatureTalent.multipleattacksoctopus.short,Mehrere Angriffe (+5 Fangarme)
+DE,DS4CreatureTalent.multipleattacksrust.description,Kann mit seinen insgesamt vier Tentakelfühler 3 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacksrust,Mehrere Angriffe (+3)
+DE,DS4CreatureTalent.multipleattacksrust.short,Mehrere Angriffe (+3 Fühler)
+DE,DS4CreatureTalent.multipleattacksslingingbush.description,Kann 4 zusätzliche Hiebe mit seinen unzähligen Wurzeln in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacksslingingbush,Mehrere Angriffe (+4)
+DE,DS4CreatureTalent.multipleattacksslingingbush.short,Mehrere Angriffe (+4 Wurzeln)
+DE,DS4CreatureTalent.multipleattackstree.description,Kann 3 zusätzliche Asthiebe in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattackstree,Mehrere Angriffe (+3)
+DE,DS4CreatureTalent.multipleattackstree.short,Mehrere Angriffe (+3 Asthiebe)
+DE,DS4CreatureTalent.multipleattacksunicorn.description,Kann 1 zusätzlichen Angriff (Horn oder Hufe) in jeder Runde aktionsfrei ausführen.
+DE,DS4CreatureTalent.multipleattacksunicorn,Mehrere Angriffe (+1)
+DE,DS4CreatureTalent.multipleattacksunicorn.short,Mehrere Angriffe (+1 Horn oder Hufe)
+DE,DS4CreatureTalent.multipleweapons1.description,"Greift mit 1 zusätzlichem Angriffsglied an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons1,Mehrere Angriffsglieder (+1)
+DE,DS4CreatureTalent.multipleweapons1.short,Mehrere Angriffsglieder (+1)
+DE,DS4CreatureTalent.multipleweapons2.description,"Greift mit 2 zusätzlichen Angriffsgliedern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons2,Mehrere Angriffsglieder (+2)
+DE,DS4CreatureTalent.multipleweapons2.short,Mehrere Angriffsglieder (+2)
+DE,DS4CreatureTalent.multipleweapons3.description,"Greift mit 3 zusätzlichen Angriffsgliedern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons3,Mehrere Angriffsglieder (+3)
+DE,DS4CreatureTalent.multipleweapons3.short,Mehrere Angriffsglieder (+3)
+DE,DS4CreatureTalent.multipleweapons4.description,"Greift mit 4 zusätzlichen Angriffsgliedern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons4,Mehrere Angriffsglieder (+4)
+DE,DS4CreatureTalent.multipleweapons4.short,Mehrere Angriffsglieder (+4)
+DE,DS4CreatureTalent.multipleweapons5.description,"Greift mit 5 zusätzlichen Angriffsgliedern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons5,Mehrere Angriffsglieder (+5)
+DE,DS4CreatureTalent.multipleweapons5.short,Mehrere Angriffsglieder (+5)
+DE,DS4CreatureTalent.multipleweapons6.description,"Greift mit 6 zusätzlichen Angriffsgliedern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons6,Mehrere Angriffsglieder (+6)
+DE,DS4CreatureTalent.multipleweapons6.short,Mehrere Angriffsglieder (+6)
+DE,DS4CreatureTalent.multipleweapons7.description,"Greift mit 7 zusätzlichen Angriffsgliedern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons7,Mehrere Angriffsglieder (+7)
+DE,DS4CreatureTalent.multipleweapons7.short,Mehrere Angriffsglieder (+7)
+DE,DS4CreatureTalent.multipleweapons8.description,"Greift mit 8 zusätzlichen Angriffsgliedern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons8,Mehrere Angriffsglieder (+8)
+DE,DS4CreatureTalent.multipleweapons8.short,Mehrere Angriffsglieder (+8)
+DE,DS4CreatureTalent.multipleweapons9.description,"Greift mit 9 zusätzlichen Angriffsgliedern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen / zertrümmern, wodurch die Angriffszahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweapons9,Mehrere Angriffsglieder (+9)
+DE,DS4CreatureTalent.multipleweapons9.short,Mehrere Angriffsglieder (+9)
+DE,DS4CreatureTalent.multipleweaponseyeball.description,"Greift mit 5 von insgesamt 10 Augen gleichzeitig an, die Gegner mit einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffsanzahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweaponseyeball,Mehrere Angriffsglieder
+DE,DS4CreatureTalent.multipleweaponseyeball.short,Mehrere Angriffsglieder (5/10 Augen)
+DE,DS4CreatureTalent.multipleweaponseyeballsmall.description,"Greift mit 4 von insgesamt 8 Augen gleichzeitig an, die Gegner mit einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffsanzahl letztendlich sinkt."
+DE,DS4CreatureTalent.multipleweaponseyeballsmall,Mehrere Angriffsglieder
+DE,DS4CreatureTalent.multipleweaponseyeballsmall.short,Mehrere Angriffsglieder (4/8 Augen)
+DE,DS4CreatureTalent.multipleweaponsgolem.description,"Greift mit insgesamt vier Armen an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt."
+DE,DS4CreatureTalent.multipleweaponsgolem,Mehrere Angriffsglieder
+DE,DS4CreatureTalent.multipleweaponsgolem.short,Mehrere Angriffsglieder (4 Arme)
+DE,DS4CreatureTalent.multipleweaponshydra.description,"Greift mit insgesamt 6 Köpfen an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt."
+DE,DS4CreatureTalent.multipleweaponshydra,Mehrere Angriffsglieder
+DE,DS4CreatureTalent.multipleweaponshydra.short,Mehrere Angriffsglieder (6 Köpfe)
+DE,DS4CreatureTalent.multipleweaponsoctopus.description,"Greift mit insgesamt 6 Fangarmen an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt."
+DE,DS4CreatureTalent.multipleweaponsoctopus,Mehrere Angriffsglieder
+DE,DS4CreatureTalent.multipleweaponsoctopus.short,Mehrere Angriffsglieder (6 Fangarme)
+DE,DS4CreatureTalent.multipleweaponsrust,Mehrere Angriffsglieder
+DE,DS4CreatureTalent.multipleweaponsrust.short,Mehrere Angriffsglieder (4 Fühler)
+DE,DS4CreatureTalent.names,Monsterfähigkeiten
+DE,DS4CreatureTalent.naturalweapons.description,Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+DE,DS4CreatureTalent.naturalweapons,Natürliche Waffen
+DE,DS4CreatureTalent.naturalweapons.short,Natürliche Waffen
+DE,DS4CreatureTalent.nightvision.description,Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+DE,DS4CreatureTalent.nightvision,Nachtsicht
+DE,DS4CreatureTalent.nightvision.short,Nachtsicht
+DE,DS4CreatureTalent.odem.description,Nur alle W20 Runden einsetzbar. Erzeugt nicht abwehrbaren Schaden (Schießen-Angriff) - nur für magische Abwehrboni wird gewürfelt (PW: Bonushöhe). GE x 5m langer Kegel (am Ende GE x 3m breit).
+DE,DS4CreatureTalent.odem,Odem
+DE,DS4CreatureTalent.odem.short,Odem
+DE,DS4CreatureTalent.paralyse.description,"Netzflüssigkeit (nur alle 10 Kampfrunden einsetzbar) macht Ziel für Probenergebnis in Kamprunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt."
+DE,DS4CreatureTalent.paralyse,Lähmungseffekt
+DE,DS4CreatureTalent.paralyse.short,Lähmungseffekt (alle 10 Runden)
+DE,DS4CreatureTalent.paralysetouch.description,"Lähmende Berührung macht Ziel für Probenergebnis in Kampfrunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt."
+DE,DS4CreatureTalent.paralysetouch,Lähmungseffekt
+DE,DS4CreatureTalent.paralysetouch.short,Lähmungseffekt (Berührungsangriff)
+DE,DS4CreatureTalent.petrify.description,"Bei einem erfolgreichen Blickangriff versteinert das Ziel, sofern diesem KÖR+AU misslingt. Eine Versteinerung kann durch den Zauber Allheilung aufgehoben werden."
+DE,DS4CreatureTalent.petrify.short,Versteinern
+DE,DS4CreatureTalent.petrify,Versteinern
+DE,DS4CreatureTalent.poison,Gift
+DE,DS4CreatureTalent.poison.short,Gift
+DE,DS4CreatureTalent.regeneration1lk.description,Regeneriert jede Kampfrunde 1LK.
+DE,DS4CreatureTalent.regeneration1lk,Regeneration
+DE,DS4CreatureTalent.regeneration1lk.short,Regeneration (1LK/Runde)
+DE,DS4CreatureTalent.regeneration.description,Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Säure verlorene LK können nicht regeneriert werden.
+DE,DS4CreatureTalent.regenerationholywater.description,Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Weihwasser verlorene LK können nicht regeneriert werden.
+DE,DS4CreatureTalent.regenerationholywater,Regeneration
+DE,DS4CreatureTalent.regenerationholywater.short,"Regeneration (PW: KÖR; Feuer, Weihwasser)"
+DE,DS4CreatureTalent.regenerationhydra.description,Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Ein Immersieg lässt einen bereits abgeschlagenen Kopf vollständig nachwachsen. Durch Feuer oder Säure verlorene LK können nicht regeneriert werden.
+DE,DS4CreatureTalent.regenerationhydra,Regeneration
+DE,DS4CreatureTalent.regenerationhydra.short,"Regeneration (PW: KÖR, Kopf wächst nach bei Immersieg)"
+DE,DS4CreatureTalent.regeneration,Regeneration
+DE,DS4CreatureTalent.regeneration.short,"Regeneration (PW: KÖR; Feuer, Säure)"
+DE,DS4CreatureTalent.resistenz2.description,"Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet"
+DE,DS4CreatureTalent.resistenz2,Resistenz
+DE,DS4CreatureTalent.resistenz2.short,Resistenz (-2)
+DE,DS4CreatureTalent.resistenz8.description,"Kontrollieren und Vertreiben zusätzlich -8, wenn gegen diese Kreatur gerichtet"
+DE,DS4CreatureTalent.resistenz8,Resistenz
+DE,DS4CreatureTalent.resistenz8.short,Resistenz (-8)
+DE,DS4CreatureTalent.revive,Auferstehung
+DE,DS4CreatureTalent.revive.description,"Erhebt sich, wenn getötet, nach W20 Tagen mit 1 LK, sofern Probe auf GEI+AU gelingt. Verliert dabei jedes Mal 1 GEI."
+DE,DS4CreatureTalent.revive.short,Auferstehung
+DE,DS4CreatureTalent.rust.description,"Jeder Treffer der Tentakelfühler reduziert die PA eines zufälligen, metallischen, nichtmagischen Rüstungsstückes des Ziels um 1. Gleiches gilt für den WB nichtmagischer Metallwaffen, die die Rostassel treffen."
+DE,DS4CreatureTalent.rust,Rost
+DE,DS4CreatureTalent.rust.short,Rost
+DE,DS4CreatureTalent.sightattack,Blickangriff
+DE,DS4CreatureTalent.sightattack.description,"Greift mit seinem Blick aktionsfrei jeden an, dem GEI+AU misslingt. Wer gegen die Kreatur vorgeht, ohne ihr in die Augen zu sehen, erhält -4 auf alle Proben, ist aber nicht mehr Ziel ihrer Blickangriffe."
+DE,DS4CreatureTalent.sightattack.short,Blickangriff
+DE,DS4CreatureTalent.sonar.description,'Sieht' per Sonar.
+DE,DS4CreatureTalent.sonar.short,Sonar
+DE,DS4CreatureTalent.sonar,Sonar
+DE,DS4CreatureTalent.stuka.description,"Wird fliegend mindestens eine Distanz in Höhe von Laufen x 2 'rennend' geflogen, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen, während der Bewegung, also nicht nur davor oder danach."
+DE,DS4CreatureTalent.stuka.short,Sturzangriff
+DE,DS4CreatureTalent.stuka,Sturzangriff
+DE,DS4CreatureTalent.swim.description,"Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2."
+DE,DS4CreatureTalent.swim,Schwimmen
+DE,DS4CreatureTalent.swim.short,Schwimmen
+DE,DS4CreatureTalent.targeting.description,Kann nach einer Runde zielen (zählt als Aktion) AGI auf Schiessen hinzuzählen (nicht kumulativ).
+DE,DS4CreatureTalent.targeting.short,Zielen
+DE,DS4CreatureTalent.targeting,Zielen
+DE,DS4CreatureTalent._template,
+DE,DS4CreatureTalent._template.description,
+DE,DS4CreatureTalent._template.short,
+DE,DS4CreatureTalent.thievery.description,"Erhält +4 auf alle Proben zum Fallen entdecken und entschärfen sowie Schlösser öffnen, Taschendiebstahl oder Falschspiel."
+DE,DS4CreatureTalent.thievery,Diebeskunst
+DE,DS4CreatureTalent.thievery.short,Diebeskunst (+4)
+DE,DS4CreatureTalent.throw.description,"Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden."
+DE,DS4CreatureTalent.throw,Schleudern
+DE,DS4CreatureTalent.throw.short,Schleudern
+DE,DS4CreatureTalent.trample.description,"Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht."
+DE,DS4CreatureTalent.trample.short,Zerstampfen
+DE,DS4CreatureTalent.trample,Zerstampfen
+DE,DS4CreatureTalent.vulnerablewithmagic.description,"Nur Angriffe mit magischen Waffen oder durch Zauber richten Schaden an. Ausgenommen sind eventuelle Anfälligkeiten, durch die ebenfalls Schaden erlitten wird."
+DE,DS4CreatureTalent.vulnerablewithmagic,Nur durch Magie verletzbar
+DE,DS4CreatureTalent.vulnerablewithmagic.short,Nur durch Magie verletzbar
+DE,DS4CreatureTalent.weaknessair,Anfällig
+DE,DS4CreatureTalent.weaknessair.description,"Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe."
+DE,DS4CreatureTalent.weaknessair.short,"Anfällig (Blitz, Sturm, Wind)"
+DE,DS4CreatureTalent.weaknessearth,Anfällig
+DE,DS4CreatureTalent.weaknessearth.description,"Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe."
+DE,DS4CreatureTalent.weaknessearth.short,"Anfällig (Erd, Fels, Stein)"
+DE,DS4CreatureTalent.weaknessfire,Anfällig
+DE,DS4CreatureTalent.weaknessfire.description,Erhält doppelten Schaden durch Feuer.
+DE,DS4CreatureTalent.weaknessfire.short,Anfällig (Feuer)
+DE,DS4CreatureTalent.weaknesslight,Anfällig
+DE,DS4CreatureTalent.weaknesslight.description,Erhält doppelten Schaden durch Lichtangriffe.
+DE,DS4CreatureTalent.weaknesslight.short,Anfällig (Licht)
+DE,DS4CreatureTalent.weaknessriesenpterodactylus,Anfällig
+DE,DS4CreatureTalent.weaknessriesenpterodactylus.description,"Erhält doppelten Schaden und um 4 verminderte Abwehr und Angriff, sofern am Boden. Ausserdem wird Laufen auf 4 reduziert."
+DE,DS4CreatureTalent.weaknessriesenpterodactylus.short,Anfällig (am Boden)
+DE,DS4CreatureTalent.weaknesswater,Anfällig
+DE,DS4CreatureTalent.weaknesswater.description,"Erhält doppelten Schaden durch Eis-, Frost- und Wasserangriffe."
+DE,DS4CreatureTalent.weaknesswater.short,"Anfällig (Eis, Frost, Wasser)"
+DE,DS4CreatureTalent.withoutbody.description,"Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos."
+DE,DS4CreatureTalent.withoutbody,Körperlos
+DE,DS4CreatureTalent.withoutbody.short,Körperlos
+DE,DS4Creature.tarctrepios,Tarc Trepios
+DE,DS4Creature.tentaclebrain,Tentakelhirn
+DE,DS4Creature.tigerskeleton,Tigerskelett
+DE,DS4Creature.tool,Werkzeug
+DE,DS4Creature.tree,Baumherr
+DE,DS4Creature.troll,Troll
+DE,DS4Creature.tumblebird,Stolpervogel
+DE,DS4CreatureType.animal.image,/images/ds4/animal.png
+DE,DS4CreatureType.animal,Tiere
+DE,DS4CreatureType.construct.image,/images/ds4/construct.png
+DE,DS4CreatureType.construct,Konstrukte
+DE,DS4CreatureType.humaniod,Humanoide
+DE,DS4CreatureType.humaniod.image,/images/ds4/humanoid.png
+DE,DS4CreatureType.magic.image,/images/ds4/magic.png
+DE,DS4CreatureType.magic,Magische Wesen
+DE,DS4CreatureType.names,Monsterarten
+DE,DS4CreatureType.plant.image,/images/ds4/plant.png
+DE,DS4CreatureType.plant,Pflanzenwesen
+DE,DS4CreatureType.undead.image,/images/ds4/undead.png
+DE,DS4CreatureType.undead,Untote
+DE,DS4Creature.umbarlavulture,Umbarlageier
+DE,DS4Creature.undeadgoblin,Untoter Goblin
+DE,DS4Creature.undeadguard,Untoter Wächter
+DE,DS4Creature.undeadogre,Untoter Oger
+DE,DS4Creature.undeadorc,Untoter Ork
+DE,DS4Creature.undeadpriest,Untoter Priester
+DE,DS4Creature.undeadrat,Untote Werratte
+DE,DS4Creature.unicorn,Einhorn
+DE,DS4Creature.unwolf,Unwolf
+DE,DS4Creature.upgrade.bonus,Bonus
+DE,DS4Creature.upgrade,Upgrade
+DE,DS4Creature.vampirebat,Vampirfledermaus
+DE,DS4Creature.verzauberterbesen,Verzauberter Besen
+DE,DS4Creature.warhorse,Schlachtross
+DE,DS4CreatureWeapon.acidburst,Säurestoß
+DE,DS4CreatureWeapon.acidjet,Säurestrahl
+DE,DS4CreatureWeapon.airburst,Luftstoß
+DE,DS4CreatureWeapon.arrowofdarkness,Schattenpfeil
+DE,DS4CreatureWeapon.arrowspore,Pfeilsporen
+DE,DS4CreatureWeapon.bite,Biss
+DE,DS4CreatureWeapon.bladeofdarkness,Schattenklinge
+DE,DS4CreatureWeapon.boar,Hauer
+DE,DS4CreatureWeapon.bonebow,Knochenbogen
+DE,DS4CreatureWeapon.boneclaws,Kochenklauen
+DE,DS4CreatureWeapon.bonepawns,Knochenpranke
+DE,DS4CreatureWeapon.branch,Asthiebe
+DE,DS4CreatureWeapon.broomstick,Besenstiel
+DE,DS4CreatureWeapon.catofprey,Pranke/Biss
+DE,DS4CreatureWeapon.clawpawns,Krallenklaue
+DE,DS4CreatureWeapon.claws,Krallen
+DE,DS4CreatureWeapon.clawtongue,Klauen/Zunge
+DE,DS4CreatureWeapon.clutches,Klauen
+DE,DS4CreatureWeapon.crystalpawns,Kristallpranke
+DE,DS4CreatureWeapon.deadlymosquito,Blutsaug. Stachel
+DE,DS4CreatureWeapon.dragon2,"Biss, Klaue oder Schwanzhieb"
+DE,DS4CreatureWeapon.dragon,"Biss, Klaue, Odem oder Schwanzhieb"
+DE,DS4CreatureWeapon.elephant,Rammen
+DE,DS4CreatureWeapon.firebomb,Brandbombe
+DE,DS4CreatureWeapon.fireodem,Feuerodem
+DE,DS4CreatureWeapon.firestrike,Flammenhieb
+DE,DS4CreatureWeapon.flail,Flegel
+DE,DS4CreatureWeapon.ghostpawns,Geisterklaue
+DE,DS4CreatureWeapon.greatclub,Massive Keule
+DE,DS4CreatureWeapon.greatebite,Großer Biss
+DE,DS4CreatureWeapon.greaterbite,Kräftiger Biss
+DE,DS4CreatureWeapon.horns,Hörner
+DE,DS4CreatureWeapon.horse,Huf
+DE,DS4CreatureWeapon.icejet,Eisstrahl
+DE,DS4CreatureWeapon.iceodem,Eisodem
+DE,DS4CreatureWeapon.ironpawns,Eisenpranke
+DE,DS4CreatureWeapon.lanceoffire,Feuerlanze
+DE,DS4CreatureWeapon.machete,Machete
+DE,DS4CreatureWeapon.maw,Zahnschlund
+DE,DS4CreatureWeapon.medusa,Klauen/Schlangen
+DE,DS4CreatureWeapon.minotaurus,"Massive Keule, Horn oder Huf"
+DE,DS4CreatureWeapon.mudpawns,Lehmpranke
+DE,DS4CreatureWeapon.names,Waffen
+DE,DS4CreatureWeapon.octopus,Fangarme
+DE,DS4CreatureWeapon.paralysetouch,Lähmende Berührung
+DE,DS4CreatureWeapon.pawns,Pranke
+DE,DS4CreatureWeapon.peckergiant,Grausamer Schnabel
+DE,DS4CreatureWeapon.peckerlarge,Großer Schnabel
+DE,DS4CreatureWeapon.pecker,Schnabel
+DE,DS4CreatureWeapon.rock,Geworf. Fels
+DE,DS4CreatureWeapon.rocks,Felsen
+DE,DS4CreatureWeapon.roots,Wurzelhiebe
+DE,DS4CreatureWeapon.rustlouse,Tentakelfühler
+DE,DS4CreatureWeapon.sandodem,Sandstrahlodem
+DE,DS4CreatureWeapon.saurianbite,Grausamer Biss
+DE,DS4CreatureWeapon.scythe,Sense
+DE,DS4CreatureWeapon.shadowclaws,Schattenklaue
+DE,DS4CreatureWeapon.sharpteeth,Spitze Zähne
+DE,DS4CreatureWeapon.spiderbite,Spinnenbiss
+DE,DS4CreatureWeapon.spidernet,Netzflüssigkeit
+DE,DS4CreatureWeapon.stoneclub,Steinkeule
+DE,DS4CreatureWeapon.stonepawns,Steinpranke
+DE,DS4CreatureWeapon.stonesthrow,Stein
+DE,DS4CreatureWeapon.thunderbolt,Blitzstrahl
+DE,DS4CreatureWeapon.tool,Werkzeug
+DE,DS4CreatureWeapon.tree,Baumstamm
+DE,DS4CreatureWeapon.tusks,Stoßzähne
+DE,DS4CreatureWeapon.undeadclaws,Fäulnispranke
+DE,DS4CreatureWeapon.unicorn,Horn oder Hufe
+DE,DS4CreatureWeapon.waraxe,Kriegsaxt
+DE,DS4CreatureWeapon.warhorse,Huf/Rammen
+DE,DS4CreatureWeapon.waterjet,Wasserstrahl
+DE,DS4CreatureWeapon.whip,Peitsche
+DE,DS4Creature.weltenfresser,Der Weltenfresser
+DE,DS4Creature.wildrattling,Wilder Rattling
+DE,DS4Creature.wolf,Wolf
+DE,DS4Creature.woollyrhino,Wollnashorn
+DE,DS4Creature.youngdragon,Jungdrache
+DE,DS4Creature.zombiesecretary,Zombie Sekretärin
+DE,DS4Creature.zombie,Zombie
+DE,DS4.culture,Kultur
+DE,DS4Data.MagicItem.COOLDOWN_LABELS.0,---
+DE,DS4Data.MagicItem.COOLDOWN_LABELS.12,3x täglich
+DE,DS4Data.MagicItem.COOLDOWN_LABELS.25,permanent
+DE,DS4Data.MagicItem.COOLDOWN_LABELS.3,1x täglich
+DE,DS4Data.MagicItem.COOLDOWN_LABELS.5,2x täglich
+DE,DS4Data.MagicItem.COOLDOWN_TYPES.ITEM,Zauber im Gegenstand
+DE,DS4Data.MagicItem.COOLDOWN_TYPES.OWNER,Zauber des Trägers
+DE,DS4Data.MagicItem.RENDERER.freeactions,${rank}x aktionsfrei R(${type})
+DE,DS4Data.MagicItem.RENDERER.spell.charges,mit ${charges} Ladungen
+DE,DS4Data.MagicItem.RENDERER.spell.embedded,eingebettet
+DE,DS4Data.MagicItem.RENDERER.spell.ignorecooldown,Abklingzeit ${type} ignorieren
+DE,DS4Data.MagicItem.RENDERER.spell.reducecooldownrounds.item,Abklingzeit im Gegenstand verkürzt um ${reducecooldownrounds} Runden
+DE,DS4Data.MagicItem.RENDERER.spell.reducecooldownrounds.owner,Abklingzeit bei Träger verkürzt um ${reducecooldownrounds} Runden
+DE,DS4Data.MagicItem.RENDERER.spell.scroll,Spruchrolle
+DE,DS4Data.MagicItem.RENDERER.spell.spellcooldownall,Abklingzeit aller Zauber des Trägers verkürzt um ${spellcooldownall} Runden
+DE,DS4Data.MagicItem.RENDERER.spell.stick,als Zauberstab
+DE,DS4Eigenschaft.be,Bewegung
+DE,DS4Eigenschaft.be.short,BE
+DE,DS4Eigenschaft.ge,Geschick
+DE,DS4Eigenschaft.ge.short,GE
+DE,DS4Eigenschaft.ha,Härte
+DE,DS4Eigenschaft.ha.short,HÄ
+DE,DS4Eigenschaft.names,Eigenschaften
+DE,DS4Eigenschaft.st.short,ST
+DE,DS4Eigenschaft.st,Stärke
+DE,DS4Eigenschaft.ve.short,VE
+DE,DS4Eigenschaft.ve,Verstand
+DE,DS4ExtraItem.beltoftrollstrength,Gürtel der Trollstärke
+DE,DS4ExtraItem.braceletofshoot,Armreif des Bogners
+DE,DS4ExtraItem.cardsofgambler,Karten des Schummlers
+DE,DS4ExtraItem.chainofrecreation,Kette der Regeneration
+DE,DS4ExtraItem.coatofseeing,Mantel der Augen
+DE,DS4ExtraItem.crystalorb,Kristallkugel
+DE,DS4ExtraItem.dustofsleep,Schlafstaub
+DE,DS4ExtraItem.elvenboots,Elfenstiefel
+DE,DS4ExtraItem.elvencoat,Elfischer Tarnumhang
+DE,DS4ExtraItem.elvensattle,Elfischer Sattel
+DE,DS4ExtraItem.emeraldkey,Smaragd-Schlüssel
+DE,DS4ExtraItem.floatingchain,Schwebenamulett
+DE,DS4ExtraItem.flyingcarpet,Fliegender Teppich
+DE,DS4ExtraItem.ghostmessenger,Geisterbote
+DE,DS4ExtraItem.handkerchiefsofdeath,Fäustlinge der Verstümmelung
+DE,DS4ExtraItem.hornofwar,Kriegshorn
+DE,DS4ExtraItem.magicquiver,Zauberköcher
+DE,DS4ExtraItem.magicstaff,Zauberstab
+DE,DS4ExtraItem.names,Besondere Ausrüstung
+DE,DS4ExtraItem.rememberedspell,Spruchspeicherring
+DE,DS4ExtraItem.ringofchange,Wechselring
+DE,DS4ExtraItem.ringofcooldown,Abklingring
+DE,DS4ExtraItem.ringofinvisibility,Unsichtbarkeitsring
+DE,DS4ExtraItem.ringofprotection,Schutzring
+DE,DS4ExtraItem.szepteroffire,Feuerballzepter
+DE,DS4Fightvalue.abwehr,Abwehr
+DE,DS4Fightvalue.abwehr.formula,KÖR+HÄ+PA
+DE,DS4Fightvalue.abwehr.short,AB
+DE,DS4Fightvalue.ini.formula,AGI+BE
+DE,DS4Fightvalue.ini,Initiative
+DE,DS4Fightvalue.ini.short,INI
+DE,DS4Fightvalue.laufen.formula,(AGI/2)+1
+DE,DS4Fightvalue.laufen,Laufen
+DE,DS4Fightvalue.laufen.short,LA
+DE,DS4Fightvalue.lk.formula,KÖR+HÄ+10
+DE,DS4Fightvalue.lk,Lebenskraft
+DE,DS4Fightvalue.lk.short,LK
+DE,DS4Fightvalue.schiessen.formula,AGI+GE
+DE,DS4Fightvalue.schiessen,Schiessen
+DE,DS4Fightvalue.schiessen.short,FK
+DE,DS4Fightvalue.schlagen.formula,KÖR+ST
+DE,DS4Fightvalue.schlagen,Schlagen
+DE,DS4Fightvalue.schlagen.short,NK
+DE,DS4Fightvalue.zaubern.formula,GEI+AU-PA
+DE,DS4Fightvalue.zaubern.short,ZA
+DE,DS4Fightvalue.zaubern,Zaubern
+DE,DS4Fightvalue.zielzauber.formula,GEI+GE-PA
+DE,DS4Fightvalue.zielzauber.short,ZZ
+DE,DS4Fightvalue.zielzauber,Zielzauber
+DE,DS4FolkAbility.allergylight.description,"Mitglieder dieses Volkes erhalten -1 auf sämtliche Proben in hellem Sonnenlicht, bei denen die Sicht eine Rolle spielt."
+DE,DS4FolkAbility.allergylight,Lichtempfindlich
+DE,DS4FolkAbility.allergymetal,Allergie gegen Metall
+DE,DS4FolkAbility.allergymetal.description,Mitglieder dieses Volkes können kein Metall nutzen (auch keine Waffen und Rüstungen aus Metall) und erhalten auf Abwehr -1 bei Schaden durch Metallwaffen.
+DE,DS4FolkAbility.arrogant,Arrogant
+DE,DS4FolkAbility.arrogant.description,"Mitglieder dieses Volkes wirken arrogant und nehmen nur ungern Hilfe von anderen an, so auch Heilmagie nur im aller größten Notfall."
+DE,DS4FolkAbility.big.description,"Lebenskraft x 2, aber auch leichter zu treffen(siehe Seite 44)."
+DE,DS4FolkAbility.big,Groß
+DE,DS4FolkAbility.creepy.description,Das Volk erhält bei Schleichen und ähnlichen Proben einen Bonus von +1.
+DE,DS4FolkAbility.creepy,Leichtfüßig
+DE,DS4FolkAbility.darkvision.description,Mitglieder dieses Volkes erhalten die Volksfähigkeit Dunkelsicht (siehe Seite 83).
+DE,DS4FolkAbility.darkvision,Dunkelsicht
+DE,DS4FolkAbilityDescription.names,Beschreibungen der Volksfähigkeiten
+DE,DS4FolkAbility.dumb.description,Tollpatschige Völker sind sehr ungeschickt und grobmotorisch - sie erhalten auf alle Proben mit Agilität einen Malus von -4.
+DE,DS4FolkAbility.dumb,Tollpatschig
+DE,DS4FolkAbility.eternal.description,"Mitglieder dieses Volkes altern, nachdem sie erwachsen sind, nicht wie Normalsterbliche. Das Alter rafft sie nicht dahin, sie sterben nur durch Gewalt oder aus Lebenüberdruß."
+DE,DS4FolkAbility.eternal,Unsterblich
+DE,DS4.folkAbility,Fähigkeit
+DE,DS4FolkAbility.fast.description,Dieses flinke Volk erhält +1 auf Laufen.
+DE,DS4FolkAbility.fast,Schnell
+DE,DS4FolkAbility.fragile.description,Dieses zartbesaitete Volk erhält -1 auf Abwehr.
+DE,DS4FolkAbility.fragile,Fragil
+DE,DS4FolkAbility.greedy.description,"Immer wenn ein Mitglied dieses Volkes etwas Wertvolles bemerkt, muss es GEI+VE+4 schaffen, oder es will es unbedingt besitzen."
+DE,DS4FolkAbility.greedy,Goldgier
+DE,DS4FolkAbility.hard.description,Mitglieder dieses Volkes erhalten einen Bonus von +1 auf Abwehr.
+DE,DS4FolkAbility.harder.description,Mitglieder eines kleinen Volkes können den LK-Malus auf Grund ihrer Größe mit dieser Volksfähigkeit ignorieren.
+DE,DS4FolkAbility.harder,Zäher als sie aussehen
+DE,DS4FolkAbility.hard,Zäh
+DE,DS4FolkAbility.hated.description,Mitglieder dieses Volkes werden von anderen Völkern verabscheut und gemieden. Sie verkaufen Waren nur zögerlich oder gegen extremen Aufpreis an dieses Volk. Ausrüstung und andere Dienstleistungenkosten das Doppelte.
+DE,DS4FolkAbility.hated,Verabscheuungswürdig
+DE,DS4FolkAbility.longlived.description,"Mitglieder dieses Volkes altern nur noch langsam, sobald sie erwachsen sind."
+DE,DS4FolkAbility.longlived,Langlebig
+DE,DS4FolkAbility.magicdumb.description,Mitglieder dieses Volkes können überhaupt nicht zaubern.
+DE,DS4FolkAbility.magicdumb,Magisch unbegabt
+DE,DS4FolkAbility.magicknowledge.description,"Mitglieder dieses Volkes sind von der Magie berührt - es fällt ihnen unheimlich leicht, Zauber zu verstehen und zu wirken. Sie erhalten +1 auf Zaubern."
+DE,DS4FolkAbility.magicknowledge,Magisch begabt
+DE,DS4FolkAbility.magicresistent.description,"Mitglieder dieses Volkes sind weniger betroffen durch Zauber und Magie. Sämtliche magischen Auswirkungen (Schaden,aber auch Heilung, Trankeffekte oder die Zauberdauer u.ä.) werden bei ihnen halbiert, außer erlittener Elementarschaden."
+DE,DS4FolkAbility.magicresistent,Magieresistent
+DE,DS4FolkAbility.names,Volksfähigkeiten
+DE,DS4Character.subclass,Heldenklasse
+DE,DS4Character.kp,KP
+DE,DS4FolkAbility.nightvision.description,Mitglieder dieses Volkes erhalten die Volksfähigkeit Nachtsicht (siehe Seite 83).
+DE,DS4FolkAbility.nightvision,Nachtsicht
+DE,DS4FolkAbility.oneeyed.description,Das Volk erhält -1 auf Schießen und Zielzauber.
+DE,DS4FolkAbility.oneeyed,Einäugig
+DE,DS4FolkAbility.quick.description,Das Volk erhält +2 auf Initiative.
+DE,DS4FolkAbility.quick,Geschwind
+DE,DS4FolkAbility.resistence.description,
+DE,DS4FolkAbility.resistence,Resistenz gegen Krankheiten und Gifte
+DE,DS4FolkAbility.scruffy.description,Mitglieder dieses Volkes erhalten auf alle Proben sozialer Interaktion mit Vertretern anderer Völker einen Malus von -2.
+DE,DS4FolkAbility.scruffy,Ungepflegt
+DE,DS4FolkAbility.slow.description,Vertreter dieses Volkes sind langsam underhalten -1 auf Laufen.
+DE,DS4FolkAbility.slow,Langsam
+DE,DS4FolkAbility.small.description,"Lebenskraft halbiert, aber auch schwerer zu treffen (siehe Seite 44). Waffen sind zu groß, ein Kurzschwert wird zur Zweihandwaffe."
+DE,DS4FolkAbility.small,Klein
+DE,DS4FolkAbility.talented.description,Mitglieder dieses Volkes erhalten einen zusätzlichen Talentpunkt bei der Charaktererschaffung.
+DE,DS4FolkAbility.talented,Talentiert
+DE,DS4FolkAbility.unerring.description,Mitglieder dieses Volkes erhalten einen Bonus von +1 auf Fernkampf und Zielzauber.
+DE,DS4FolkAbility.unerring,Zielsicher
+DE,DS4FolkAbility.untalented.description,Der erste Rang eines Talentes kostet diesesVolk jeweils einen Talentpunkt mehr.
+DE,DS4FolkAbility.untalented,Untalentiert
+DE,DS4.folkBonus,Bonus
+DE,DS4Folk.dwarf.image,/images/ds4/humanoid.png
+DE,DS4Folk.dwarf,Zwerg
+DE,DS4Folk.elf,Elf
+DE,DS4Folk.elf.image,/images/ds4/humanoid.png
+DE,DS4Folk.gnome,Gnom
+DE,DS4Folk.gnome.image,/images/ds4/humanoid.png
+DE,DS4Folk.halfling,Halbling
+DE,DS4Folk.halfling.image,/images/ds4/humanoid.png
+DE,DS4Folk.human.image,/images/ds4/humanoid.png
+DE,DS4Folk.human,Mensch
+DE,DS4Folk.names,Völker
+DE,DS4Folk.rattling.image,/images/ds4/humanoid.png
+DE,DS4Folk.rattling,Rattling
+DE,DS4.folk,Volk
+DE,DS4Freeaction.changespell,Zauber wechseln
+DE,DS4Freeaction.concentrate,Konzentrieren
+DE,DS4Freeaction.drawweapon,Waffe ziehen
+DE,DS4Freeaction.pickupweapon,Waffe aufheben
+DE,DS4Freeaction.run,Rennen
+DE,DS4Freeaction.shoot,Schießen
+DE,DS4Freeaction.spell,Zaubern
+DE,DS4Freeaction.standup,Aufstehen
+DE,DS4Freeaction.strike,Schlagen
+DE,DS4Freeaction.targetspell,Zielzauber
+DE,DS4Gods.tooltip,<b>?['${name2}'==''|${name}|${name2}]</b>?['${alignment}'=='light'| (Licht)]?['${alignment}'=='dark'| (Dunkelheit)]?['${description}'!=''|<br/>${description}]?['${culture}'!=''|<br/>${culture}]
+DE,DS4.goldcoin.short,GM
+DE,DS4Item.alchemielab,Alchemielabor
+DE,DS4Item.amulett,Amulett
+DE,DS4Item.backpack,Rucksack
+DE,DS4Item.bag,Umhängetasche
+DE,DS4Item.bangle,Armreif
+DE,DS4Item.beartrap,Bärenfalle (Angriff 30)
+DE,DS4Item.belt,Gürtel
+DE,DS4Item.blanket,Decke
+DE,DS4Item.blanketthick,Dicke Reisedecke
+DE,DS4Itembonus.attribute,Attribut
+DE,DS4Itembonus.eigenschaft,Eigenschaft
+DE,DS4Itembonus.fight,Kampfwert
+DE,DS4Itembonus.magic.short,mag.
+DE,DS4Itembonus.pa,Rüstungsbonus
+DE,DS4Itembonus.spellgroup,Zaubergruppe
+DE,DS4Itembonus.spell,Zauberspruch
+DE,DS4Itembonus.test,Einfache Probe
+DE,DS4Itembonus.wb,Waffenbonus
+DE,DS4Item.boots,Stiefel
+DE,DS4Item.bowl,Schale
+DE,DS4Item.bracelet,Armband
+DE,DS4Item.brooch,Brosche
+DE,DS4Item.bullseye,Blendlaterne
+DE,DS4Item.candlestick,Kerzenständer
+DE,DS4Item.candletallow,Talgkerze (6h)
+DE,DS4Item.candlewax,Wachskerze (10h)
+DE,DS4Item.cape,Umhang
+DE,DS4Item.carddeck,Kartenspiel
+DE,DS4Item.carriage,Wagen (4 Räder)
+DE,DS4Item.cart,Karren (2 Räder)
+DE,DS4Item.carvedfigure,Schnitzfigur
+DE,DS4Item.chain,Kette
+DE,DS4Item.chalice,Kelch
+DE,DS4Item.claw,Kralle
+DE,DS4Item.climbingtools,Kletterausrüstung
+DE,DS4Item.coat,Mantel
+DE,DS4Item.comb,Kamm
+DE,DS4Item.compass,Kompass
+DE,DS4Item.costs,Wert
+DE,DS4Item.crowbar,Brechstange (WB+1)
+DE,DS4Item.crown,Krone
+DE,DS4Item.crowsfeet,Krähenfuß
+DE,DS4Item.crystal,funkelnder Kristall
+DE,DS4Item.daemontongue,Dämonenzunge
+DE,DS4Item.description,Besonderes
+DE,DS4Item.diadem,Diadem
+DE,DS4Item.dice,Würfel
+DE,DS4Item.dragonscale,Drachenschuppe
+DE,DS4Item.driedeyeball,getrocknetes Auge
+DE,DS4Item.drinkinghorn,Trinkhorn
+DE,DS4Item.drum,Trommel
+DE,DS4Item.earring,Ohrring
+DE,DS4Item.feather,bunte Feder
+DE,DS4Item.firewood,Brennholz
+DE,DS4Item.fishhook,Angelhaken und Schnur
+DE,DS4Item.flagon,Krug
+DE,DS4Item.flintstone,Feuerstein und Zunder
+DE,DS4Item.flute,Flöte
+DE,DS4Item.gem,Edelstein
+DE,DS4Item.gloves,Handschuhe
+DE,DS4Item.handcuff,Handschelle (ohne Schloss)
+DE,DS4Item.handkerchief,Halstuch
+DE,DS4Item.harp,Harfe
+DE,DS4Item.hat,Hut
+DE,DS4Item.head,Schädel
+DE,DS4Item.heart,getrocknetes Herz
+DE,DS4Item.hoody,Kapuzenumhang
+DE,DS4Item.ink,Tinte (für 50 Seiten)
+DE,DS4Item.item-select.title,Ausrüstung kaufen
+DE,DS4Item.lantern,Laterne
+DE,DS4Item.lanternoil,Laternenöl (4h)
+DE,DS4Item.leatherbracelet,Lederband
+DE,DS4Item.leathermug,Lederbecher
+DE,DS4Item.lockdwarfen,"Schloss, Zwergenarbeit (SW:12)"
+DE,DS4Item.lockgood,"Schloss, Gut (SW: 2)"
+DE,DS4Item.lockmasterpiece,"Schloss, Meisterarbeit (SW: 8)"
+DE,DS4Item.locksimple,"Schloss, Einfach (SW: 0)"
+DE,DS4Item.locksolide,"Schloss, Solide (SW: 4)"
+DE,DS4Item.mask,Maske
+DE,DS4Item.medicinicalherb,Heilkraut (PW: 10)
+DE,DS4Item.metalcan,Metallkrug
+DE,DS4Item.metalcutlery,Metallbesteck
+DE,DS4Item.mirror,Spiegel
+DE,DS4Item.name,Ausrüstung
+DE,DS4Item.names,Ausrüstung
+DE,DS4Item.oldroot,knorrige Astwurzel
+DE,DS4Item.orb,Kugel
+DE,DS4Item.paddedanimal,ausgestopftes Tier
+DE,DS4Item.pan,Topf/Pfanne
+DE,DS4Item.parchment,Pergamentblatt
+DE,DS4Item.parfume,"Parfüm (Bonus +1, 50x)"
+DE,DS4Item.paw,Tatze
+DE,DS4Item.picklock,Dietrich
+DE,DS4Item.pinfeather,Federkiel
+DE,DS4Item.pipe,Pfeife
+DE,DS4Item.puppet,Puppe
+DE,DS4Item.quiver,Köcher
+DE,DS4Item.ring,Ring
+DE,DS4Item.rope,Seil (10m)
+DE,DS4Item.rowboat,Ruderboot (2 Mann)
+DE,DS4Item.sack,Sack
+DE,DS4Item.sandals,Sandalen
+DE,DS4Item.sandglass,Sanduhr
+DE,DS4Items.basiccosts,Grundkosten
+DE,DS4Item.scarf,Schal
+DE,DS4Item.sheath,Waffenscheide
+DE,DS4Item.shrunkenhead,Schrumpfkopf
+DE,DS4Item.soap,Seife
+DE,DS4Item.specialFamiliar,Vertrauter
+DE,DS4Item.staff,Stab
+DE,DS4Item.statuette,Statuette
+DE,DS4Item.surcoat,Waffenrock
+DE,DS4Item.szepter,Zepter
+DE,DS4Item.tent,Zelt (2 Mann)
+DE,DS4Item.tiara,Stirnreif
+DE,DS4Item.toolbox,Werkzeugset
+DE,DS4Item.tool,"Ein Werkzeug (Pickel,...)"
+DE,DS4Item.tooth,Zahn
+DE,DS4Item.torch,"Fackel (2h, WB+1)"
+DE,DS4Item.vase,Vase
+DE,DS4Item.vest,Weste
+DE,DS4Item.walkingstaff,Wanderstab
+DE,DS4Item.wams,Wams
+DE,DS4Item.waterhose,Wasserschlauch (5l)
+DE,DS4Item.weaponpaste,"Waffenpaste (WB+1, W20 Angriffe)"
+DE,DS4Item.wooddendice,Holzwürfel
+DE,DS4Item.woodencutlery,Holzbesteck
+DE,DS4Item.woodenmug,Holzbecher
+DE,DS4Language.name,Sprache/Schrift
+DE,DS4Loot.A,Münzen
+DE,DS4Loot.B,Primitive Humanoide
+DE,DS4Loot.C,Zivilisierte Humanoide (Wildnis)
+DE,DS4Loot.D,Zivilisierte Humanoide (Urban)
+DE,DS4Loot.G,Besondere magische Gegenstände
+DE,DS4Loot.M,Magische Gegenstände
+DE,DS4Loot.R,Rüstungen
+DE,DS4Loot.T,Tränke
+DE,DS4Loot.W,Waffen
+DE,DS4Loot.X,Einzigartige Gegenstände
+DE,DS4Loot.Z,Zauber
+DE,Ds4\\Model\\DS4Armor,Rüstungen
+DE,Ds4\\Model\\DS4Attribute,Attribute
+DE,Ds4\\Model\\DS4Character,Charaktere
+DE,Ds4\\Model\\DS4CharacterClass,Klassen
+DE,Ds4\\Model\\DS4Creature,Kreaturen
+DE,Ds4\\Model\\DS4CreatureTalent,Kreaturenfähigkeiten
+DE,Ds4\\Model\\DS4Eigenschaft,Eigenschaften
+DE,Ds4\\Model\\DS4ExtraItem,Einzigartige Gegenstände
+DE,Ds4\\Model\\DS4Fightvalue,Kampfwerte
+DE,Ds4\\Model\\DS4FolkAbility,Volksfähigkeiten
+DE,Ds4\\Model\\DS4Folk,Völker
+DE,Ds4\\Model\\DS4Item,Gegenstände
+DE,Ds4\\Model\\DS4Potion,Tränke
+DE,Ds4\\Model\\DS4Special,Sonderregeln
+DE,Ds4\\Model\\DS4Spellgroup,Zauberspruchgruppen
+DE,Ds4\\Model\\DS4Spell,Zaubersprüche
+DE,Ds4\\Model\\DS4TypicalTest,Typische Proben
+DE,Ds4\\Model\\DS4Upgrade,Anführer
+DE,Ds4\\Model\\DS4Weapon,Waffen
+DE,DS4Modifier.eigenschaft.au,AU +1
+DE,DS4Modifier.eigenschaft.be,BE +1
+DE,DS4Modifier.eigenschaft.ge,GE +1
+DE,DS4Modifier.eigenschaft.ha,HÄ +1
+DE,DS4Modifier.eigenschaft.st,ST +1
+DE,DS4Modifier.eigenschaft.ve,VE +1
+DE,DS4Month.0,Fryrmond
+DE,DS4Month.10,Wyntern
+DE,DS4Month.11,Frostnacht
+DE,DS4Month.1,Tauzeit
+DE,DS4Month.2,Schauern
+DE,DS4Month.3,Blühn
+DE,DS4Month.4,Waidsummen
+DE,DS4Month.5,Scheynen
+DE,DS4Month.6,Hochstrauch
+DE,DS4Month.7,Erntezeit
+DE,DS4Month.8,Laubfall
+DE,DS4Month.9,Stürmen
+DE,DS4Month.name,Monat
+DE,DS4NamedItem.mudaksdagger,Mudaks Schlitzer
+DE,DS4NamedItem.mudakshelmet,Mudaks Schädel
+DE,DS4NamedItem.mudaksleather,Mudaks Schuppen
+DE,DS4Potion.aging,Alterungstrank
+DE,DS4Potion.aging.description,augenblicklich W20 Jahre älter
+DE,DS4Potion.banpoison.description,Wirkt Giftbann (ohne Probe)
+DE,DS4Potion.banpoison,Giftbanntrank
+DE,DS4Potion.battle.description,Schlagen und Abwehr +1 für einen Kampf
+DE,DS4Potion.battle,Kampftrank
+DE,DS4Potion.berserk,Berserkertrank
+DE,DS4Potion.berserk.description,"heilt 3 Runden W20LK, danach Explosion, Heilung=Schaden"
+DE,DS4Potion.breathe,Atemfreitrank
+DE,DS4Potion.breathe.description,atmen nicht nötig für KÖR h
+DE,DS4Potion.changespell.description,Wechseln von Zaubern +10 für einen Kampf
+DE,DS4Potion.changespell,Zauberwechseltrank
+DE,DS4Potion.clearsight,Allsichtstrank
+DE,DS4Potion.clearsight.description,"Magie, Unsichtbares, Verborgenes erkennen für W20 Minuten"
+DE,DS4Potion.climb.description,Klettern wie Spinne für W20 Runden
+DE,DS4Potion.climb,Klettertrank
+DE,DS4Potion.concentrate.description,GEI x2 für GEI Runden
+DE,DS4Potion.concentrate,Konzentrationstrank
+DE,DS4Potion.constantheal.description,Heilt 2W20 Runden je 1LK
+DE,DS4Potion.constantheal,"Heiltrank, andauernd"
+DE,DS4Potion.cooldown,Abklingtrank
+DE,DS4Potion.cooldown.description,Halbiert Abklingzeit aller Zauber in einem Kampf
+DE,DS4Potion.costs,Kosten
+DE,DS4Potion.description,Wirkung
+DE,DS4Potion.dwarvensight.description,Dunkelsicht für W20h
+DE,DS4Potion.dwarvensight,Trank der Zwergensicht
+DE,DS4Potion.enlarge.description,"Größe, KÖR, ST und HÄ x2 für W20/2 Minuten"
+DE,DS4Potion.enlarge,Vergrößerungstrank
+DE,DS4Potion.floating.description,Wirkt Schweben (PW20; kein Patzer)
+DE,DS4Potion.floating,Schwebetrank
+DE,DS4Potion.fly.description,Wirkt Fliegen (PW20; kein Patzer)
+DE,DS4Potion.fly,Fliegentrank
+DE,DS4Potion.gasshape.description,Wirkt Gasgestalt (PW20; kein Patzer)
+DE,DS4Potion.gasshape,Trank der Gasgestalt
+DE,DS4Potion.greaterheal.description,Heilt 2W20LK
+DE,DS4Potion.greaterheal,"Heiltrank, groß"
+DE,DS4Potion.healall,Allheilungstrank
+DE,DS4Potion.healall.description,Wirkt Allheilung (ohne Probe)
+DE,DS4Potion.heal.description,Heilt W20LK
+DE,DS4Potion.heal,Heiltrank
+DE,DS4Potion.holyweapon.description,Magische Waffe für einen Kampf
+DE,DS4Potion.holyweapon,Waffenweih
+DE,DS4Potion.invincible.description,"Abwehr +20 für W20 Runden, gegen alle Schäden(!)"
+DE,DS4Potion.invincible,Unverwundbarkeitstrank
+DE,DS4Potion.invisibility.description,Wirkt Unsichtbarkeit (PW20; kein Patzer)
+DE,DS4Potion.invisibility,Unsichtbarkeitstrank
+DE,DS4Potion.largerprotection.description,Abwehr +3 für W20 Runden
+DE,DS4Potion.largerprotection,"Schutztrank, groß"
+DE,DS4Potion.luck.description,Patzer ignorieren für W20h
+DE,DS4Potion.luck,Glückstrank
+DE,DS4Potion.names,Tränke
+DE,DS4Potion.name,Trank
+DE,DS4Potion.perception.description,Wahrnehmung +5 für W20h
+DE,DS4Potion.perception,Wachsamkeitstrank
+DE,DS4Potion.protection.description,Abwehr +2 für W20 Runden
+DE,DS4Potion.protection,Schutztrank
+DE,DS4Potion.quick.description,Laufen x2 für W20 Runden
+DE,DS4Potion.quick,Schnelligkeitstrank
+DE,DS4Potion.smaller.description,"Größe/10, KÖR, ST und HÄ /2 für W20 Minuten"
+DE,DS4Potion.smaller,Verkleinerungstrank
+DE,DS4Potion.specialHolywater,Weihwasser
+DE,DS4Potion.specialPoisonPW20,"Gift (PW:20, keine Abwehr)"
+DE,DS4Potion.spell.description,Zaubern und Zielzaubern +1 für einen Kampf
+DE,DS4Potion.spell,Zaubertrank
+DE,DS4Potion.strength.description,ST x2 für ST Runden
+DE,DS4Potion.strength,Stärketrank
+DE,DS4Potion.talent.description,ein vorhandenes Talent +I für W20 Runden
+DE,DS4Potion.talent,Talenttrank
+DE,DS4Potion.targeting.description,Schießen und Zielzauber +1 für einen Kampf
+DE,DS4Potion.targeting,Zieltrank
+DE,DS4Potion.teleport.description,Wirkt Teleport (ohne Probe)
+DE,DS4Potion.teleport,Teleporttrank
+DE,DS4Potion.vitality.description,W20LK für W20h
+DE,DS4Potion.vitality,Trank der Lebenskraft
+DE,DS4Potion.walkonwater.description,Wirkt Wasserwandel (PW20; kein Patzer)
+DE,DS4Potion.walkonwater,Wasserwandeltrank
+DE,DS4Potion.younger.description,augenblicklich W20 Jahre jünger
+DE,DS4Potion.younger,Verjüngungstrank
+DE,DS4.silvercoin.short,SM
+DE,DS4.slot.arms,Arme
+DE,DS4.slot.body,Torso
+DE,DS4.slot.hand1,Haupthand
+DE,DS4.slot.hand2,Nebenhand
+DE,DS4.slot.head,Kopf
+DE,DS4.slot.inUseBy,mehrfach belegt durch
+DE,DS4.slot.legs,Beine
+DE,DS4Source.airships.author,Kelly 'Dextolen' Davis
+DE,DS4Source.airships,Die Luftschiffe der Vestrach-Flotte
+DE,DS4Source.airships.link,<a href='http://www.dungeonslayers.net/download/kalender2015/121215Dextolen_Kelly_Davis_DS_Luftschiffe_Vestrach.pdf' target='_blank'>Luftschiffe</a>
+DE,DS4Source.author,Autor
+DE,DS4Source.avakar.author,avakar
+DE,DS4Source.avakar,Avakars Runde
+DE,DS4Source.avakar.link,Avakars Runde
+DE,DS4Source.blackknight.author,Daniel 'Detritus' Bublitz
+DE,DS4Source.blackknight,Der schwarze Ritter
+DE,DS4Source.blackknight.link,<a href='http://dungeonslayers.net/download/kalender2014/221214Der_schwarze_Ritter.pdf' target='_blank'>Schwarzer Ritter</a>
+DE,DS4Source.callfromdarkness.author,Sphärenwanderer
+DE,DS4Source.callfromdarkness.link,<a href='http://dungeonslayers.net/download/DS4FWLockrufausderFinsternis.pdf' target='_blank'>Lockruf</a>
+DE,DS4Source.callfromdarkness,Lockruf aus der Finsternis
+DE,DS4Source.chalog.author,Waylander
+DE,DS4Source.chalog,Chalog Omesch
+DE,DS4Source.chalog.link,<a href='http://dungeonslayers.net/download/kalender2014/241214NSC2Play_Chalog_Omesch.pdf' target='_blank'>Chalog Omesch</a>
+DE,DS4Source.childsofshadow.author,Christoph 'mad_eminenz' Balles
+DE,DS4Source.childsofshadow,Die Kinder der Schatten
+DE,DS4Source.childsofshadow.link,<a href='http://dungeonslayers.net/download/DS4FWKinderderSchatten.pdf' target='_blank'>KdS</a>
+DE,DS4Source.corerules.author,Christian Kennig
+DE,DS4Source.corerules,Dungeonslayers Basisbox
+DE,DS4Source.corerules.link,<a href='http://dungeonslayers.net/' target='_blank'>DS</a>
+DE,DS4Source.d2go17.author,A. Melhorn
+DE,DS4Source.d2go17,D2GO #17
+DE,DS4Source.d2go17.link,<a href='http://dungeonslayers.net/download/Dungeon2Go17.pdf' target='_blank'>D2GO #17</a>
+DE,DS4Source.d2go1.author,Christian Kennig
+DE,DS4Source.d2go1,D2GO #1
+DE,DS4Source.d2go1.link,<a href='http://dungeonslayers.net/download/Dungeon2Go1.pdf' target='_blank'>D2GO #1</a>
+DE,DS4Source.d2go20.author,Christian Kennig
+DE,DS4Source.d2go20,D2GO #20
+DE,DS4Source.d2go20.link,<a href='http://dungeonslayers.net/download/Dungeon2Go20.pdf' target='_blank'>D2GO #20</a>
+DE,DS4Source.d2go4.author,Christian Kennig
+DE,DS4Source.d2go4,D2GO #4
+DE,DS4Source.d2go4.link,<a href='http://dungeonslayers.net/download/Dungeon2Go4.pdf' target='_blank'>D2GO #4</a>
+DE,DS4Source.d2go5.author,Christian Kennig
+DE,DS4Source.d2go5,D2GO #5
+DE,DS4Source.d2go5.link,<a href='http://dungeonslayers.net/download/Dungeon2Go5.pdf' target='_blank'>D2GO #5</a>
+DE,DS4Source.d2go6.author,Christian Kennig
+DE,DS4Source.d2go6,D2GO #6
+DE,DS4Source.d2go6.link,<a href='http://dungeonslayers.net/download/Dungeon2Go6.pdf' target='_blank'>D2GO #6</a>
+DE,DS4Source.d2go7.author,Christian Kennig
+DE,DS4Source.d2go7,D2GO #7
+DE,DS4Source.d2go7.link,<a href='http://dungeonslayers.net/download/Dungeon2Go7.pdf' target='_blank'>D2GO #7</a>
+DE,DS4Source.giantproblem.author,Kelly 'Dextolen' Davis
+DE,DS4Source.giantproblem,Ein Riesenproblem
+DE,DS4Source.giantproblem.link,<a href='http://dungeonslayers.net/download/kalender2014/201214Ein_Riesen_Problem.pdf' target='_blank'>Riesenproblem</a>
+DE,DS4Source.goblinarena.author,Waylander
+DE,DS4Source.goblinarena,Die Goblinarena
+DE,DS4Source.goblinarena.link,<a href='http://www.dungeonslayers.net/download/adventskalender2012/t22a.pdf' target='_blank'>Goblinarena</a>
+DE,DS4Source.hdr.author,Jonas H.
+DE,DS4Source.hdr,Die Hallen der Reinigung
+DE,DS4Source.hdr.link,<a href='http://dungeonslayers.net/download/DS4FWHallenderReinigung.pdf' target='_blank'>HdR</a>
+DE,DS4Source.holyspring.author,Radulf St. Germain
+DE,DS4Source.holyspring,Das Geheimnis der heiligen Quelle
+DE,DS4Source.holyspring.link,<a href='http://dungeonslayers.net/download/kalender2013/081213D2GDasGeheimnisderheiligenQuelle.pdf' target='_blank'>Heilige Quelle</a>
+DE,DS4Source.houseofbones.author,"Paythan, Ursus Piscis"
+DE,DS4Source.houseofbones,Das Geheimnis des Knochenbaus
+DE,DS4Source.houseofbones.link,<a href='http://dungeonslayers.net/download/DS4FWDasGeheimnisdesKnochenbaus.pdf' target='_blank'>Knochenbau</a>
+DE,DS4Source.huetteimspinnensumpf.author,Agonira
+DE,DS4Source.huetteimspinnensumpf,Die verlassene Hütte im Spinnensumpf
+DE,DS4Source.huetteimspinnensumpf.link,<a href='http://www.dungeonslayers.de/download/kalender2016/Agonira_05_DS_Dungeon2Go_Die_verlassene_Huette_im_Spinnensumpf.pdf' target='_blank'>Hütte im Spinnensumpf</a>
+DE,DS4Source.icequeen.author,Christoph 'mad_eminenz' Balles
+DE,DS4Source.icequeen,Das Geschenk der Eiskönigin
+DE,DS4Source.icequeen.link,<a href='http://dungeonslayers.net/download/kalender2013/151213DieEiskoenigin.pdf' target='_blank'>Eiskönigin</a>
+DE,DS4Source.kingofgnomes.author,Waylander
+DE,DS4Source.kingofgnomes,Der König von Gnommewahn
+DE,DS4Source.kingofgnomes.link,<a href='http://dungeonslayers.net/download/kalender2014/061214DS4FWDerKoenigvonGnommewahn.pdf' target='_blank'>König von Gnommewahn</a>
+DE,DS4Source.link,Link
+DE,DS4Source.nestofroots,Angriff auf das Wurzelnest
+DE,DS4Source.nestofroots.author,"Paythan, Ursus Piscis"
+DE,DS4Source.nestofroots.link,<a href='http://dungeonslayers.net/download/DS4FWAngriffaufdasWurzelnest.pdf' target='_blank'>Wurzelnest</a>
+DE,DS4Source.pyramideckwan.author,Christoph 'mad_eminenz' Balles
+DE,DS4Source.pyramideckwan,Die Pyramide des Eck Wan
+DE,DS4Source.pyramideckwan.link,<a href='http://dungeonslayers.net/download/DS4FWPyramidedesEckWan.pdf' target='_blank'>Pyramide des Eck Wan</a>
+DE,DS4Source.sc2go.author,Christian Kennig
+DE,DS4Source.sc2go.link,<a href='http://dungeonslayers.net/download/DS4SC2Go.pdf' target='_blank'>SC2GO</a>
+DE,DS4Source.sc2go,SC2GO
+DE,DS4Source.shadowsovervestrach.author,Waylander
+DE,DS4Source.shadowsovervestrach.link,<a href='http://dungeonslayers.net/download/kalender2014/241214Schatten_ueber_Vestrach.pdf' target='_blank'>Schatten über Vestrach</a>
+DE,DS4Source.shadowsovervestrach,Schatten über Vestrach
+DE,DS4Source.slay1.author,"Sphärenwanderer, Greifenklaue, u.a."
+DE,DS4Source.slay1.link,<a href='http://dungeonslayers.net/download/Slay01.pdf' target='_blank'>Slay! #1</a>
+DE,DS4Source.slay1,Slay! #1
+DE,DS4Source.slay2.author,"Sphärenwanderer, Greifenklaue, u.a."
+DE,DS4Source.slay2.link,<a href='http://dungeonslayers.net/download/Slay02.pdf' target='_blank'>Slay! #2</a>
+DE,DS4Source.slay2,Slay! #2
+DE,DS4Source.slay3.author,"Greifenklaue, Agonira, sico72, u.a."
+DE,DS4Source.slay3.link,<a href='http://dungeonslayers.net/download/Slay03.pdf' target='_blank'>Slay! #3</a>
+DE,DS4Source.slay3,Slay! #3
+DE,DS4Source.slayerforum.author,-n/a-
+DE,DS4Source.slayerforum,Slayerforum
+DE,DS4Source.snarkkizz.author,"Paythan, Ursus Piscis, mad_eminenz"
+DE,DS4Source.snarkkizz,Der Kult des Snarrk'Izz
+DE,DS4Source.snarkkizz.link,Der Kult des Snarrk'Izz
+DE,DS4Source.source,Quelle
+DE,DS4Source.sturmelfen.author,Agonira
+DE,DS4Source.sturmelfen,Das Volk der Sturmelfen
+DE,DS4Source.sturmelfen.link,<a href='http://www.dungeonslayers.de/download/kalender2016/Agonira_01_DS_Volk2Go_Sturmelfen.pdf' target='_blank'>Sturmelfen</a>
+DE,DS4Source.treemaster.author,-n/a-
+DE,DS4Source.treemaster,Der verdorbene Baumherr
+DE,DS4Source.treemaster.link,<a href='http://dungeonslayers.net/download/kalender2014/191214DS4FWDer_verdorbene_Baumherr.pdf' target='_blank'>Baumherr</a>
+DE,DS4Source.turmdessturmrufers.author,Agonira
+DE,DS4Source.turmdessturmrufers,Der Turm des Sturmrufers
+DE,DS4Source.turmdessturmrufers.link,<a href='http://www.dungeonslayers.de/download/kalender2016/Agonira_04_DS_Dungeon2Go_Der%20Turm%20des%20Sturmrufers.pdf' target='_blank'>Turm des Sturmrufers</a>
+DE,DS4Source.umbarlabecken.author,"Christoph Weiß, Bernhard Dittrich, Horst H. Adams, Christoph Balles"
+DE,DS4Source.umbarlabecken,Das Umbarla-Becken
+DE,DS4Source.umbarlabecken.link,<a href='http://dungeonslayers.net/download/DS4FWUmbarlaBecken.pdf' target='_blank'>Umbarla-Becken</a>
+DE,DS4Source.undeadgoblins.author,Felix 'Thorwald' Lilje
+DE,DS4Source.undeadgoblins.link,<a href='http://dungeonslayers.net/download/kalender2013/091213UntoteGoblinoide.pdf' target='_blank'>Untote Goblinoide</a>
+DE,DS4Source.undeadgoblins,Untote Goblinoide
+DE,DS4Source.unknown.author,-n/a-
+DE,DS4Source.unknown.link,-unbekannt-
+DE,DS4Source.unknown,-unbekannt-
+DE,DS4Source.valencoladris.author,Agonira
+DE,DS4Source.valencoladriscity.author,Agonira
+DE,DS4Source.valencoladriscity.link,<a href='http://www.dungeonslayers.de/download/kalender2016/Agonira_03_DS_City2Go_Valen_Coladris.pdf' target='_blank'>Valen Coladris</a>
+DE,DS4Source.valencoladriscity,Valen Coladris
+DE,DS4Source.valencoladris,Die Insel der Stürme
+DE,DS4Source.valencoladris.link,<a href='http://www.dungeonslayers.de/download/kalender2016/Agonira_02_DS_Insel2Go_Die_Insel_der_Stuerme.pdf' target='_blank'>Insel der Stürme</a>
+DE,DS4Source.vikavakartemplate.author,"avakar, vikleroy"
+DE,DS4Source.vikavakartemplate,Beispiele
+DE,DS4Source.vikavakartemplate.link,Beispiele
+DE,DS4Source.weltenfresser.author,Christoph 'mad_eminenz' Balles
+DE,DS4Source.weltenfresser.link,<a href='http://www.dungeonslayers.net/download/kalender2015/081215mad_eminenz_Christoph_Balles_DS_Monster2go_Weltenfresser.pdf' target='_blank'>Weltenfresser</a>
+DE,DS4Source.weltenfresser,Weltenfresser
+DE,DS4Source.wildsooinn.author,-n/a-
+DE,DS4Source.wildsooinn.link,<a href='https://dl.dropboxusercontent.com/u/110685050/Dungeon%202Go%20Im%20Wirtshaus%20zur%20tr%C3%A4chtigen%20Wildsau.pdf' target='_blank'>Trächtige Wildsau</a>
+DE,DS4Source.wildsooinn,Trächtige Wildsau
+DE,DS4Source.wolfhunt.author,"Eismaid, Bat"
+DE,DS4Source.wolfhunt.link,<a href='http://dungeonslayers.net/download/kalender2013/041213SoTWolfshatz.pdf' target='_blank'>Wolfshatz</a>
+DE,DS4Source.wolfhunt,Wolfshatz im Wargenwald
+DE,DS4Special._additionalTalent,Zusätzlicher Talentpunkt
+DE,DS4Special._attributeMaximum,ein beliebiges Attribut
+DE,DS4Special._classAttributeMaximum,ein Klassenattribut
+DE,DS4Special.josipsset,Des Schnitzers Gewandt (Set)
+DE,DS4Special._malusPa,Verringerung PA-Malus
+DE,DS4Special.nicomavelliamulett,Kette des Leids
+DE,DS4Special.nicomavellibelt,Scherpe des Leid
+DE,DS4Special.nicomavellibody,Mantel der Leids
+DE,DS4Special.nicomavellihead,Halskrause des Leids
+DE,DS4Special.spell.fayofdeath,Wehklagen (ZB: -(KÖR+AU)/2 des Ziels; Abklingzeit: 10 Kampfrunden; Jeder in Umkreis von 9m um die Todesfee erleidet nicht abwehrbaren Schaden in Höhe des Probenergebnisses)
+DE,DS4Special.spell.flyingscullcry,"Totenlachen (-GEI+AU auf VE Ziele im Umkreis von VEx2 Metern, sofern diese das Lachen hören können; Erfolg führt zu Werteverlust.)"
+DE,DS4Special.spell.harpyie,Lockruf (funktioniert wie der Zauberspruch Gehorche; Abklingzeit des Lockrufs: 10 Kampfrunden)
+DE,DS4Special.spell.tentacle,Gedankenzehrerstrahl (nicht sichtbar; verursacht mental Schaden und führt zu Werteverlust)
+DE,DS4Special.wolfbartamulett,Knochenfußkette
+DE,DS4Special.wolfbartbody,Haut des Eiswyrms
+DE,DS4Special.wolfbarthand,Handschuhe der Hammerkunst
+DE,DS4Special.wolfbarthead,Fluch des Berserkers
+DE,DS4Spell.accesslevel,Stufe
+DE,DS4Spell.accesslevels,Zugangsstufen
+DE,DS4Spell.animalcontrol,Tierbeherrschung
+DE,DS4Spell.arcanesword,Arkanes Schwert
+DE,DS4Spell.arrowofdarkness,Schattenpfeil
+DE,DS4Spell.awakeskeletons,Skelette erwecken
+DE,DS4Spell.awakezombies,Zombies erwecken
+DE,DS4Spell.balance,Balancieren
+DE,DS4Spell.ban,Bannen
+DE,DS4Spell.bane,Fluch
+DE,DS4Spell.banish,Vertreiben
+DE,DS4Spell.banmagic,Magie bannen
+DE,DS4Spell.banpoison,Giftbann
+DE,DS4Spell.bemuse,Verwirren
+DE,DS4Spell.bladeofdarkness,Schattenklinge
+DE,DS4Spell.bladeoffire,Flammenklinge
+DE,DS4Spell.blessing,Segen
+DE,DS4Spell.blind,Blenden
+DE,DS4Spell.bodyexplosion,Körperexplosion
+DE,DS4Spell.boilingblood,Blut kochen
+DE,DS4Spell.bolt,Blitz
+DE,DS4Spell.breadofmana,Manabrot
+DE,DS4Spell.calmbeasts,Tiere besänftigen
+DE,DS4Spell.camouflagenebular,Tarnender Nebel
+DE,DS4Spell.centrifuge,Schleudern
+DE,DS4Spell.chainbolt,Kettenblitz
+DE,DS4Spell.changespell,Wechselzauber
+DE,DS4Spell.cleaning,Reinigen
+DE,DS4Spell.cloudofdeath,Wolke des Todes
+DE,DS4Spell.cloudofsorrow,Wolke der Reue
+DE,DS4Spell.commonshape,Volksgestalt
+DE,DS4Spell.control,Kontrollieren
+DE,DS4Spell.cooldown,Abkling.
+DE,DS4Spell.costs,Kosten
+DE,DS4Spell.dance,Tanz
+DE,DS4Spell.defense,Verteidigung
+DE,DS4Spell.description,Beschreibung
+DE,DS4Spell.detecthidden,Verborgenes sehen
+DE,DS4Spell.detectinvisible,Unsichtbares sehen
+DE,DS4Spell.detectmagic,Magie entdecken
+DE,DS4Spell.devidewater,Wasser teilen
+DE,DS4Spell.devout,Stossgebet
+DE,DS4Spell.dirtdevil,Putzteufel
+DE,DS4Spell.domeofprotection,Schutzkuppel
+DE,DS4Spell.enlarge,Vergrößern
+DE,DS4Spell.evokedaemons,Dämonen beschwören
+DE,DS4Spell.evokeelementars,Elementar herbeirufen
+DE,DS4Spell.extendzoneofprotection,Schutzschild dehnen
+DE,DS4Spell.feather,Federgleich
+DE,DS4Spell.range,Reichw.
+DE,DS4Spell.firearrow,Feuerstrahl
+DE,DS4Spell.fireball,Feuerball
+DE,DS4Spell.fireodem,Feueratem
+DE,DS4Spell.firewall,Feuerwand
+DE,DS4Spell.flameinferno,Flammeninferno
+DE,DS4Spell.flickering,Flackern
+DE,DS4Spell.float,Schweben
+DE,DS4Spell.fly,Fliegen
+DE,DS4Spell.friend,Freund
+DE,DS4Spell.frostshock,Frostschock
+DE,DS4Spell.gasshape,Gasgestalt
+DE,DS4Spell.G!,G[!]
+DE,DS4Spell.globbedvoice,Versetzte Stimme
+DE,DS4Spell.globbing,Versetzen
+DE,DS4Spell.glowingfaith,Glühender Glaube
+DE,DS4Spell.gorge,Erdspalt
+DE,DS4Spellgroup.damage,Schadenszauber
+DE,DS4Spellgroup.earth,"Erd-, Fels- & Steinzauber"
+DE,DS4Spellgroup.elementdamage,Zauber mit Elementarschaden
+DE,DS4Spellgroup.fire,Feuerzauber
+DE,DS4Spellgroup.heal,Heilzauber
+DE,DS4Spellgroup.ice,"Eis-, Frost- & Wasserzauber"
+DE,DS4Spellgroup.light,Lichtzauber
+DE,DS4Spellgroup.lightning,Blitzzauber
+DE,DS4Spellgroup.manipulation,Geistesbeeinflussende Zauber
+DE,DS4Spellgroup.necromancy,Nekromantiezauber
+DE,DS4Spellgroup.protection,Schutzzauber
+DE,DS4Spell.groups,Gruppen
+DE,DS4Spellgroup.shadow,Schattenzauber
+DE,DS4Spellgroup.transport,Luft- & Transportzauber
+DE,DS4Spell.guardian,Wächter
+DE,DS4Spell.healall,Allheilung
+DE,DS4Spell.healingberries,Heilbeeren
+DE,DS4Spell.healingfield,Heilende Aura
+DE,DS4Spell.healinghand,Heilende Hand
+DE,DS4Spell.healinglight,Heilendes Licht
+DE,DS4Spell.healingrays,Heilende Strahlen
+DE,DS4Spell.healingzone,Heilendes Feld
+DE,DS4Spell.holyhammer,Heiliger Hammer
+DE,DS4Spell.holywater,Wasser weihen
+DE,DS4Spell.icearrow,Kältestrahl
+DE,DS4Spell.icebomb,Eisbombe
+DE,DS4Spell.iceodem,Eishauch
+DE,DS4Spell.icewall,Kältefront
+DE,DS4Spell.identifymagic,Magie identifizieren
+DE,DS4Spell.illusion,Trugbild
+DE,DS4Spell.invisibility,Unsichtbarkeit
+DE,DS4Spell.jump,Springen
+DE,DS4Spell.lanceofdarkness,Schattenlanze
+DE,DS4Spell.lanceoffire,Feuerlanze
+DE,DS4Spell.lanceofice,Kältekegel
+DE,DS4Spell.lanceoflight,Lichtlanze
+DE,DS4Spell.lightarrow,Lichtpfeil
+DE,DS4Spell.light,Licht
+DE,DS4Spell.listen,Lauschen
+DE,DS4Spell.lucent,Durchsicht
+DE,DS4Spell.madness,Wahnsinn
+DE,DS4Spell.magicarmor,Magische Rüstung
+DE,DS4Spell.magicbarrier,Magische Barriere
+DE,DS4Spell.magicladder,Zauberleiter
+DE,DS4Spell.magiclock,Magisches Schloss
+DE,DS4Spell.magictrick,Zaubertrick
+DE,DS4Spell.magicweapon,Magische Waffe
+DE,DS4Spell.message,Botschaft
+DE,DS4Spell.metamorphosis,Verwandlung
+DE,DS4Spell.names,Zaubersprüche
+DE,DS4Spell.name,Zauber
+DE,DS4Spell.net,Netz
+DE,DS4Spell.N,Za
+DE,DS4Spell.obey,Gehorche
+DE,DS4Spell.odor,Duftnote
+DE,DS4Spell.open,Öffnen
+DE,DS4Spell.openwall,Wandöffnung
+DE,DS4Spell.pillarofdarkness,Schattensäule
+DE,DS4Spell.pillaroflight,Lichtsäule
+DE,DS4Spell.planegate,Ebenentor
+DE,DS4Spell.porous,Durchlässig
+DE,DS4Spell.protectpoison,Giftschutz
+DE,DS4Spell.revive,Wiederbelebung
+DE,DS4Spell.run,Spurt
+DE,DS4Spell.rust,Rost
+DE,DS4Spell.shadow,Schatten
+DE,DS4Spell.shield,Schutzschild
+DE,DS4Spell.shrink,Verkleinern
+DE,DS4Spell.silence,Schweig
+DE,DS4Spell.sleep,Einschläfern
+DE,DS4Spell.slowdown,Verlangsamen
+DE,DS4Spell.smallterror,Kleiner Terror
+DE,DS4Spell.sneeze,Niesanfall
+DE,DS4Spell.speakwithdead,Totengespräch
+DE,DS4Spell.spellfading,Zauberabklang
+DE,DS4Spell.spell-select.title,Zaubersprüche kaufen
+DE,DS4Spell.spionage,Spionage
+DE,DS4Spell.stop,Halt
+DE,DS4Spell.strenghtentoneofprotection,Schutzschild stärken
+DE,DS4Spell.stumble,Stolpern
+DE,DS4Spell.takeandgive,Geben und Nehmen
+DE,DS4Spell.telekinesis,Telekinese
+DE,DS4Spell.teleport,Teleport
+DE,DS4Spell.terror,Terror
+DE,DS4Spell.timestop,Zeitstop
+DE,DS4Spell.type,Art
+DE,DS4Spell.valencoladrisshock.description,"Der Zauberwirker schießt einen Blitzstrahl auf einen Feind, dessen Schaden dem Probenergebnis entspricht. Gegner in Metallrüstung erhalten GA-5 bei ihrem Abwehrwurf gegen Blitzschaden. (Option Sturmelfen)"
+DE,DS4Spell.valencoladrisshock,Schock
+DE,DS4Spell.vaporize,Verdampfen
+DE,DS4Spell.walkonwater,Wasserwandeln
+DE,DS4Spell.wallofstone,Steinwand
+DE,DS4Spell.weaponoffrost,Frostwaffe
+DE,DS4Spell.weaponoflight,Waffe des Lichts
+DE,DS4Spell.zb,ZB
+DE,DS4Spell.zoneofprotection,Schutzfeld
+DE,DS4Spell.ZZ,ZZ
+DE,DS4Talent.abscond.description,Rennen +1m; Befreien aus Fesseln mit AGI+BE
+DE,DS4Talent.abscond,Verdrücken
+DE,DS4Talent.accesslevel,Stufe
+DE,DS4Talent.accurateshot.description,Nicht abwehrbarer Fernangriff
+DE,DS4Talent.accurateshot,Präziser Schuss
+DE,DS4Talent.acrobatic,Akrobat
+DE,DS4Talent.acrobatic.description,"Athletik, Balancieren, Klettern, Springen +2 pro Talentrang."
+DE,DS4Talent.acrobatic.description.orig,"Der Charakter ist ein geübter Kletterer und Turner. Auf alle Proben, bei denen es um athletisches Geschick, Balancieren oder Kletterkunst geht, erhält der Charakter einen Bonus von +2 pro Talentrang."
+DE,DS4Talent.alchemie,Alchemie
+DE,DS4Talent.alchemie.description.orig,"Dieses Talent wird benötigt, um magische Tränke zu brauen (siehe Seite 101). Jeder Talentrang reduziert die Zubereitungsdauer von Tränken und gibt +1 auf Proben, um diese herzustellen oder zu identifizieren (siehe Seite 47)."
+DE,DS4Talent.alchemie.description,Tränke identifizieren und herstellen +1 pro Talentrang.
+DE,DS4Talent.allroundstrike.description,"Schlagen -1, Abwehr -2 pro Gegner, mit 2h-Waffe/waffenlos"
+DE,DS4Talent.allroundstrike,Rundumschlag
+DE,DS4Talent.animalshape.description,Verwandlung in normal großes Tier
+DE,DS4Talent.animalshape,Tiergestalt
+DE,DS4Talent.arcanceexplosion,Arkane Explosion
+DE,DS4Talent.arcanceexplosion.description,Schaden PW: Rang x10; Durchmesser Stufe/2m pro Tag und Rang.
+DE,DS4Talent.armorbearer.description,"+0,5m Laufen-Malus durch Rüstung"
+DE,DS4Talent.armorbearer,Rüstträger
+DE,DS4Talent.armored.description,Klassenfremde Rüstung tragen
+DE,DS4Talent.armored,Gerüstet
+DE,DS4Talent.armormage.description.orig,"Pro Talentrang kann ein Panzerungsmalus (PA) in Höhe von 2 beim Zaubern/Zielzaubern ignoriert werden. Beispielsweise benötigt es 2 Talentränge, um ungehindert in einem Plattenpanzer (PA 3) samt Metallhelm (PA 1) zaubern zu können."
+DE,DS4Talent.armormage.description,PA-Malus -2 pro Talentrang ignorieren.
+DE,DS4Talent.armormage,Rüstzauberer
+DE,DS4Talent.assasinate.description,GA-5 pro Talentrang in Verbindung mit hinterhätigem Angriff.
+DE,DS4Talent.assasinate,Meucheln
+DE,DS4Talent.bandofconfidant.description,+3 verteilen auf Eigenschaften eines Vertrauten; Stufenanstieg bei Vertrautem
+DE,DS4Talent.bandofconfidant,Vertrautenband
+DE,DS4Talent.battlecry.description,+1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
+DE,DS4Talent.battlecry,Schlachtruf
+DE,DS4Talent.bearshape,Bärengestalt
+DE,DS4Talent.bearshape.description,Verwandlung in Bär/großes Tier
+DE,DS4Talent.beastmaster.description,+3 Bonus auf Tierumgang; aggressive Tiere beruhigen (24h)
+DE,DS4Talent.beastmaster,Tiermeister
+DE,DS4Talent.beastpower.description,+2 Bonus auf alle Kampfwerte in Tiergestalt
+DE,DS4Talent.beastpower,Kraft der Bestie
+DE,DS4Talent.birching.description,GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen.
+DE,DS4Talent.birching,Prügler
+DE,DS4Talent.blocker,Blocker
+DE,DS4Talent.blocker.description,Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro Kampf und Talentrang einen Abwehrpatzer wiederholen.
+DE,DS4Talent.blocker.description.orig,"Der Charakter versteht es, im Kampf seinen Schild geschickt einzusetzen. In jeder Kampfrunde, in der er keine offensive Handlung unternimmt, dabei einen Schild führt und sich nicht einen Schritt bewegt, erhält er pro Talentrang +2 auf seine Abwehr gegen alle Angriffe, derer er sich bewusst ist und die nicht von hinten erfolgen. Zusätzlich kann er mit demselben Bonus KÖR+HÄ aktionsfrei würfeln, um im Kampf nicht zurückgedrängt zu werden (siehe Seite 44). Einmal pro Kampf kann ein Blocker pro Talentrang einen Patzer bei der Abwehr wiederholen, auch wenn er gerade eine offensiv Handlung unternimmt."
+DE,DS4Talent.bloodshield,Blutschild
+DE,DS4Talent.bloodshield.description,Abwehr +2 für W20 Runden/2LK
+DE,DS4Talent.bloodyhealing,Blutige Heilung
+DE,DS4Talent.bloodyhealing.description,Heilung PW: Stufe; Erfolg +LK 2xErgebnis; Bei Misserfolg nicht abwehrbarer Schaden.
+DE,DS4Talent.boltthrower,Blitzmacher
+DE,DS4Talent.boltthrower.description,+1 Bonus auf Blitzzauber
+DE,DS4Talent.bowstringcutter.description,"Abwehr/2, Angriff verursacht Schaden/2 und -0,5m Laufen"
+DE,DS4Talent.bowstringcutter,Sehnenschneider
+DE,DS4Talent.brutalstrike,Brutaler Hieb
+DE,DS4Talent.brutalstrike.description,Schlagen +KÖR
+DE,DS4Talent.calldead.description,Abklingzeit eines Untoten-Erwecken-Zaubers ignorieren
+DE,DS4Talent.calldead,Totenrufer
+DE,DS4Talent.challengerofelements.description,Abklingzeit von Elementarzaubern ignorieren
+DE,DS4Talent.challengerofelements,Herausforderer der Elemente
+DE,DS4Talent.changer.description.orig,"Der Charakter hat gelernt, sich auf das Auswechseln seines aktiven Zaubers zu konzentrieren: Er erhält auf Proben, um seine Zauber zu wechseln, pro Talentrang einen Bonus von +2."
+DE,DS4Talent.changer.description,Zauber wechseln +2 pro Talentrang.
+DE,DS4Talent.changer,Wechsler
+DE,DS4Talent.charmant,Charmant
+DE,DS4Talent.charmant.description.orig,"Auf sämtliche Proben sozialer Interaktion, beispielsweise um sympathisch aufzutreten oder eine Geschichte glaubhafter zu berichten, erhält der Charakter pro Talentrang einen Bonus von +2 (bei Vertretern des anderen Geschlechts sogar +3)."
+DE,DS4Talent.charmant.description,"Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang."
+DE,DS4Talent.circledrawer.description,+1 Bonus auf Beschwören; schneller Kreise zeichnen
+DE,DS4Talent.circledrawer,Kreiszeichner
+DE,DS4Talent.climb.description,+2 Bonus auf Klettern; +1m Klettern; Klettern auch kopfüber
+DE,DS4Talent.climb,Kletterass
+DE,DS4Talent.concentrateelements.description,+1 Elementar zusätzlich beschwören
+DE,DS4Talent.concentrateelements,Elementare bündeln
+DE,DS4Talent.confidant.description,"ein Vertrauter mit VE+1, Bonus +1 auf speziellen Kampfwert"
+DE,DS4Talent.confidant,Vertrauter
+DE,DS4Talent.controlexplosion.description,Eine Person aus Flächenzaubereffekt ausnehmen
+DE,DS4Talent.controlexplosion,Explosionskontrolle
+DE,DS4Talent.cooldown,Abklingen
+DE,DS4Talent.cooldownblood,Abklingendens Blut
+DE,DS4Talent.cooldownblood.description,Abklingzeit -1 Runde/1LK
+DE,DS4Talent.cooldown.description,Abklingzeit aller Zauber -1 Runde
+DE,DS4Talent.craft.description,+3 pro Talentrang auf ausgewähltes Handwerk.
+DE,DS4Talent.craft.description.orig,"Dieses Talent wird für jede Handwerksart (Bogenbauer, Schreiner, Steinmetz, Waffenschmied usw.) individuell erlernt, kann also mehrmals bis Höchstrang III erworben werden. Man beherrscht das jeweilige Handwerk und erhält auf alle diesbezüglichen Proben, sei es um Gegenstände herzustellen oder beschädigte Ausrüstung zu reparieren (siehe Seite 88), einen Bonus von +3 pro Talentrang, den man für dieses Handwerk erworben hat."
+DE,DS4Talent.craft,Handwerk
+DE,DS4Talent.creepy.description.orig,"Der Charakter ist ein geübter Schleicher und versteht sich darauf, nicht bemerkt zu werden. Er erhält +2 auf alle Proben, bei denen es darum geht, leise zu sein, sich zu verbergen, nicht bemerkt zu werden oder etwas heimlich zu tun, wie beispielsweise Taschendiebstahl."
+DE,DS4Talent.creepy.description,"Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang."
+DE,DS4Talent.creepy,Heimlichkeit
+DE,DS4Talent.cutter,Aderschlitzer
+DE,DS4Talent.cutter.description,"GA-5 pro Talentrang, falls Angriff mit Klingenwaffe <= Rang"
+DE,DS4Talent.daemonmage,Dämonenzauber
+DE,DS4Talent.daemonmage.description,Einem Dämon einen Zauber beibringen
+DE,DS4Talent.daemonspawn,Dämonenbrut
+DE,DS4Talent.daemonspawn.description,+1 Dämonen zusätzlich beschwören
+DE,DS4Talent.description,Beschreibung
+DE,DS4TalentDescription.names,Beschreibungen der Talente
+DE,DS4Talent.destoydaemons,Dämonen zerschmettern
+DE,DS4Talent.destoydaemons.description,Nicht abwehrbarer Nahkampfangriff gegen Dämonen
+DE,DS4Talent.destroyarmor.description,PA-1 bei zufälligem nichtmagischem Rüstungsteil
+DE,DS4Talent.destroyarmor,Panzerung zerschmettern
+DE,DS4Talent.destroyundead.description,Nicht abwehrbarer Nahkampfangriff gegen Untote
+DE,DS4Talent.destroyundead,Untote zerschmettern
+DE,DS4Talent.devastatestrike.description,Nicht abwehrbarer Nahkampfangriff
+DE,DS4Talent.devastatestrike,Vernichtender Schlag
+DE,DS4Talent.devil.description,Kampfunterstützung durch Teufelchen
+DE,DS4Talent.devil,Teufelchen
+DE,DS4Talent.eagleshape,Adlergestalt
+DE,DS4Talent.eagleshape.description,Verwandlung in Adler/Vogel
+DE,DS4Talent.education,Bildung
+DE,DS4Talent.education.description,"Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang."
+DE,DS4Talent.education.description.orig,"Der Charakter hat einen gewissen Grad an Bildung erworben. Im Gegensatz zu dem Talent Wissensgebiet, welches nur einzelne Themengebiete umfasst, erhält man durch das Talent Bildung einen +2 Bonus pro Talentrang auf alle Proben, bei denen es um Allgemeinwissen oder das Lösen von Rätseln geht."
+DE,DS4Talent.embed.description,"+1 Bonus auf Herstellung mag. Gegenstände, Tränke, Schriftrollen."
+DE,DS4Talent.embed,Einbetten
+DE,DS4Talent.endurance.description,Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+DE,DS4Talent.endurance.description.orig,"Der Charakter versteht es, ordentlich Schaden einzustecken. Pro Talentrang steigt die Lebenskraft (LK) um +3."
+DE,DS4Talent.endurance,Einstecker
+DE,DS4Talent.escapedeath.description,"+1LK pro Runde bis 1LK, falls bewusstlos und nicht tot"
+DE,DS4Talent.escapedeath,Tod entrinnen
+DE,DS4Talent.estimate,Beute Schätzen
+DE,DS4Talent.estimate.description,+3 Bonus auf Werte schätzen und Magie erspüren pro Rang.
+DE,DS4Talent.evasion,Ausweichen
+DE,DS4Talent.evasion.description.orig,"Pro Talentrang kann der Charakter einmal pro Kampf einen gegen ihn gerichteten Nahkampfangriff komplett ignorieren (zählt als freie Aktion). Dass der Charakter einem Angriff ausweichen will, muss angesagt werden, bevor feststeht, ob dieser Schlag ihn trifft oder nicht. Gegen Angriffe von Gegnern, die 2+ Größenkategorien (siehe Seite 104) größer sind, ist das Talent wirkungslos."
+DE,DS4Talent.evasion.description,Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+DE,DS4Talent.evocator,Beschwörer
+DE,DS4Talent.evocator.description,+2 Bonus auf Dämonen beschwören & kontrollieren
+DE,DS4Talent.fast.description,Laufen +1m pro Talentrang.
+DE,DS4Talent.fast.description.orig,Der Charakter ist schnell und gut zu Fuß. Der Wert für Laufen wird pro Erwerb des Talents um 1m erhöht.
+DE,DS4Talent.fast,Flink
+DE,DS4Talent.fighter.description.orig,Der Charakter ist ein geübter Nahkämpfer: Er erhält pro Talentrang auf Schlagen einen Bonus von +1.
+DE,DS4Talent.fighter.description,Schlagen +1 pro Talentrang.
+DE,DS4Talent.fighter,Kämpfer
+DE,DS4Talent.firemage.description,Feuerzauber +1 pro Talentrang.
+DE,DS4Talent.firemage.description.orig,"Der Zauberwirker ist geübt im Umgang mit Feuermagie. Er erhält auf alle Zauber, die einen Feuereffekt haben, einen Bonus von +1 pro Talentrang."
+DE,DS4Talent.firemage,Feuermagier
+DE,DS4Talent.fury,Raserei
+DE,DS4Talent.healatfront.description,Abklingzeit eines Heilzaubers ignorieren
+DE,DS4Talent.healatfront,Frontheiler
+DE,DS4Talent.homunkulus.description,+2 Bonus auf VE und/oder AU durch Hilfswesen
+DE,DS4Talent.homunkulus,Homunkulus
+DE,DS4Talent.hunter.description,"Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden."
+DE,DS4Talent.hunter.description.orig,"Der Charakter wandert oft durch die Wildnis und erhält durch dieses Talent +2 auf Proben, mit denen Spuren gelesen, Wild gejagt oder die richtige Marschrichtung wiedergefunden werden soll. Pro Talentrang kann außerdem eine Mahlzeit (von denen 3 einer Tagesration entsprechen) problemlos beschafft werden (Beeren pflücken, Kleintier erlegen usw.)."
+DE,DS4Talent.hunter,Jäger
+DE,DS4Talent.icemage.description,Eiszauber +1 pro Talentrang.
+DE,DS4Talent.icemage.description.orig,"Der Zauberwirker ist geübt im Umgang mit Eismagie. Er erhält auf alle Zauber, die einen Eis- oder Kälteeffekt haben, einen Bonus von +1 pro Talentrang."
+DE,DS4Talent.icemage,Eismagier
+DE,DS4Talent.ihavetogo.description,Alle Nahkampfangriffe durch Flucht eine Runde ignorieren
+DE,DS4Talent.ihavetogo,Ich muss weg!
+DE,DS4Talent.insatiablevocation.description,Abklingzeit von Dämonen beschwören ignorieren
+DE,DS4Talent.insatiablevocation,Unersättliches Beschwören
+DE,DS4Talent.instrument.description,+3 pro Talentrang auf ausgewähltes Instrument.
+DE,DS4Talent.instrument.description.orig,"Dieses Talent wird für jedes Instrument (Flöte, Mandoline, Harfe, Trommel usw.) individuell erlernt, kann also mehrmals bis Höchstrang III erworben werden. Man beherrscht das jeweilige Instrument und erhält auf alle diesbezüglichen Proben einen Bonus von +3 pro Talentrang, den man für dieses Instrument erworben hat."
+DE,DS4Talent.instrument,Instrument
+DE,DS4Talent.knowledge.description,+3 pro Talentrang auf ausgewähltes Wissensgebiet.
+DE,DS4Talent.knowledge.description.orig,"Dieses Talent wird für jedes Wissensgebiet (Alte Sagen, Mathematik, Naturkunde, Sternenkunde, Zwergische Religion usw.) individuell erlernt, kann also mehrmals bis Höchstrang III erworben werden. Man beherrscht das jeweilige Wissensgebiet und erhält auf alle diesbezüglichen Proben einen Bonus von +3 pro Talentrang, den man für dieses Wissensgebiet erworben hat."
+DE,DS4Talent.knowledge,Wissensgebiet
+DE,DS4Talent.luckofheroes.description,Würfelwurf wiederholen
+DE,DS4Talent.luckofheroes,Heldenglück
+DE,DS4Talent.lucky.description,Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen.
+DE,DS4Talent.lucky.description.orig,"Der Charakter ist ein wahrer Glückspilz, kann er doch einmal pro Talentrang alle 24 Stunden einen Patzer ignorieren und den jeweiligen Wurf wiederholen. Sollte der neue Wurf ebenfalls ein Patzer sein, man aber über mehr als einen Talentrang verfügt, kann dieser ebenfalls ausgeglichen werden."
+DE,DS4Talent.lucky,Glückspilz
+DE,DS4Talent.magicpain.description,Zaubern/Zielzauber +2 für 1 Runde/1LK
+DE,DS4Talent.magicpain,Zauberqual
+DE,DS4Talent.magicresistent.description.orig,"Gegen den Charakter gerichtete Zauber werden um +2 pro Talentrang erschwert. Dies gilt jedoch nicht für Zauber, die Elementarschaden (beispielsweise mit Blitzen, Eis oder Feuer) verursachen."
+DE,DS4Talent.magicresistent.description,Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+DE,DS4Talent.magicresistent,Magieresistent
+DE,DS4Talent.magicroutine.description,ein spezieller Zauber zusätzlich aktiv
+DE,DS4Talent.magicroutine,Zauberroutine
+DE,DS4Talent.magicweapon.description,"wie Talent Stabbindung, aber für spezielle Nahkampfwaffe"
+DE,DS4Talent.magicweapon,Zauberwaffe
+DE,DS4Talent.manipulator.description,Geistesbeeinflussende Zauber [!] +1 pro Talentrang.
+DE,DS4Talent.manipulator.description.orig,Der Charakter ist ein Meister der magischen Beeinflussung des Geistes. Er erhält auf alle geistesbeeinflussenden Zauber (mit gekennzeichnet) einen Bonus von +1.
+DE,DS4Talent.manipulator,Manipulator
+DE,DS4Talent.masterofallclasses.description,ein beliebiges Attribut +1
+DE,DS4Talent.masterofallclasses,Meister aller Klassen
+DE,DS4Talent.masterofblood.description,Für beliebige Probe PW +Attribut /2LK.
+DE,DS4Talent.masterofblood,Macht des Blutes
+DE,DS4Talent.masterofelements.description,+1 Bonus auf Elementarschadenszauber
+DE,DS4Talent.masterofelements,Herr der Elemente
+DE,DS4Talent.masterofhisclass.description,ein Klassenattribut +1
+DE,DS4Talent.masterofhisclass,Meister seiner Klasse
+DE,DS4Talent.masterofspells.description,Abklingzeit eines speziellen Zaubers ignorieren
+DE,DS4Talent.masterofspells,Spruchmeister
+DE,DS4Talent.masterofunarmed.description,"WB +1, GA-1 pro Rang. Abwehr+1, Ini+1 pro Rang, sofern ohne Schild und Rüstung gekämpft wird."
+DE,DS4Talent.masterofunarmed,Waffenloser Meister
+DE,DS4Talent.mayipass.description,Wahrnehmung -Stufe für Rang Runden durch Ablenkung
+DE,DS4Talent.mayipass,Kann ich mal vorbei?
+DE,DS4Talent.meanshot.description,Schießen +AGI
+DE,DS4Talent.meanshot,Fieser Schuss
+DE,DS4Talent.name,Talent
+DE,DS4Talent.necromancy.description,"+2 Bonus auf Untote erwecken, kontrollieren und bannen"
+DE,DS4Talent.necromancy,Nekromantie
+DE,DS4Talent.painfullchange.description,"Aktionsfreier Zauberwechsel, W20/2 Schaden"
+DE,DS4Talent.painfullchange,Schmerzhafter Wechsel
+DE,DS4Talent.parade.description,Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+DE,DS4Talent.parade.description.orig,"Der Charakter Nahkampfangriffe parieren. Sofern er eine Nahkampfwaffe gezogen hat, erhält der Charakter pro Talentrang +1 auf seine Abwehr gegen jeden Nahkampfangriff, dessen er sich bewusst ist und der nicht von hinten erfolgt."
+DE,DS4Talent.parade,Parade
+DE,DS4Talent.peacefulstrike.description,"lähmender, waffenloser Angriff"
+DE,DS4Talent.peacefulstrike,Friedvoller Hieb
+DE,DS4Talent.perception.description,"Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang."
+DE,DS4Talent.perception.description.orig,Der Charakter ist ein aufmerksamer Beobachter. Auf alle Bemerken-Proben erhält er +2 pro Talentrang.
+DE,DS4Talent.perception,Wahrnehmung
+DE,DS4Talent.perfektion.description,"Schlagen +1, GA-1 für Talent Waffenkenner"
+DE,DS4Talent.perfektion,Perfektion
+DE,DS4Talent.picklock.description,+2 Bonus auf Schlösser Knacken; 2. Versuch möglich
+DE,DS4Talent.picklock,Schlossknacker
+DE,DS4Talent.pilferer.description,Taschendiebstahl +AGI
+DE,DS4Talent.pilferer,Langfinger
+DE,DS4Talent.placeholder.description,Talentpunkte zur freien Verfügung
+DE,DS4Talent.placeholder,Freie Talentpunkte
+DE,DS4Talent.polebinding.description,"Zielzauber +1, Stab als Zauberstab verwenden"
+DE,DS4Talent.polebinding,Stabbindung
+DE,DS4Talent.powerfulawake.description,+GEI/2 verteilen auf Kampfwerte von Untoten
+DE,DS4Talent.powerfulawake,Mächtige Erweckung
+DE,DS4Talent.powerfulevocation.description,+GEI verteilen auf Kampfwerte von Dämonen
+DE,DS4Talent.powerfulevocation,Mächtige Beschwörung
+DE,DS4Talent.powerfulsummon.description,+GEI verteilen auf Kampfwerte von Elementaren
+DE,DS4Talent.powerfulsummon,Mächtige Herbeirufung
+DE,DS4Talent.powerofdead.description,+2LK falls Wesen in 2+Rang Metern stirbt
+DE,DS4Talent.powerofdead,Todeskraft
+DE,DS4Talent.powerofmagic.description,"Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber"
+DE,DS4Talent.powerofmagic,Zaubermacht
+DE,DS4Talent.protectionforelements.description,"Abwehr +5 gegen abwehrbarem Elementarschaden; Umwelteinflüsse senken, auch für 2 Kameraden."
+DE,DS4Talent.protectionforelements,Schutz vor Elementen
+DE,DS4Talent.quickreflexes.description,Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+DE,DS4Talent.quickreflexes.description.orig,"Der Charakter kann schnell reagieren. Im Kampf erhält er pro Talentrang einen Bonus von +2 auf seine Initiative. Zusätzlich kann man pro Talentrang einmal im Kampf eine Waffe als freie Aktion ziehen, wechseln oder vom Boden aufheben."
+DE,DS4Talent.quickreflexes,Schnelle Reflexe
+DE,DS4Talent.rank,Rang
+DE,DS4Talent.rascal.description,"Handeln, Feilschen, Bluffen +3 pro Talentrang."
+DE,DS4Talent.rascal.description.orig,"Auf alle Proben sozialer Interaktion, bei denen geblufft, gefeilscht oder verhandelt wird, erhält der Charakter einen Bonus von +3 pro Talentrang."
+DE,DS4Talent.rascal,Schlitzohr
+DE,DS4Talent.ravage.description,GA-1 bei Schadenszauber
+DE,DS4Talent.ravage,Verheerer
+DE,DS4Talent.recovery.description,KÖR +1 nach Tod einmalig wiederherstellen pro Talentrang.
+DE,DS4Talent.recovery.description.orig,"War ein Charakter vorübergehend tot und hat dadurch Punkte des Attributs KÖR eingebüßt, kann pro Talentrang +1 KÖR wiederhergestellt werden. Es ist mit diesem Talent nicht möglich, KÖR über den ursprünglichen Wert zu steigern."
+DE,DS4Talent.recovery,Genesung
+DE,DS4Talent.resistelements.description,Elementarschaden für Rang x3 Runden ignorieren.
+DE,DS4Talent.resistelements,Elementen trotzen
+DE,DS4Talent.rethinking.description,Einmalig Zauber verlernen/lernen pro Talentrang.
+DE,DS4Talent.rethinking.description.orig,"Der Zauberwirker kann eine Anzahl von Zauberstufen gleich seiner eigenen Stufe einmalig pro Talentrang verlernen und durch andere Zaubersprüche der gleichen Stufensumme ersetzen. Durch das Umdenken können Zauberwirker, die mit ihrem Zauberrepertoire nicht zufrieden sind, dieses noch einmal umgestalten."
+DE,DS4Talent.rethinking,Umdenken
+DE,DS4Talent.rideandshoot.description,"beritten Schießen, +5 Malus"
+DE,DS4Talent.rideandshoot,Sattelschütze
+DE,DS4Talent.riding.description.orig,"Charaktere mit diesem Talent haben reiten gelernt, können also problemlos die Richtung oder Geschwindigkeit ihres Reittieres um einen Schritt ändern und vom Pferderücken aus angreifen (siehe Seite 92). Pro Talentrang erhalten sie bei Sprüngen oder Proben, um die Reitrichtung oder die Geschwindigkeit um mehr als einen Schritt zu wechseln, einen Bonus von +2. Im berittenen Kampf erhalten sie pro Talentrang +1 auf Schlagen-Proben gegen unberittene Gegner."
+DE,DS4Talent.riding.description,Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
+DE,DS4Talent.riding,Reiten
+DE,DS4Talent.ritualofscars.description,"Abwehr +2 permanent, -1LK, -1 Malus auf soziale Interaktion."
+DE,DS4Talent.ritualofscars,Ritual der Narben
+DE,DS4Talent.runeknowledge.description.orig,"Dieses Talent wird benötigt, will man Schriftrollen herstellen (siehe Seite 101). Jeder Talentrang reduziert die Zubereitungsdauer von Schriftrollen und gibt +1 auf Proben, um diese zu fertigen, oder gefundene Schriftrollen zu identifizieren. Es handelt sich bei den magischen Runen auf einer Schriftrolle um keine tatsächlichen Schriftzeichen, die man lesen, geschweige denn übersetzen könnte."
+DE,DS4Talent.runeknowledge.description,Schriftrollen identifizieren und herstellen +1 pro Talentrang.
+DE,DS4Talent.runeknowledge,Runenkunde
+DE,DS4Talent.salve.description,+1 Fernkampfangriff
+DE,DS4Talent.salve,Salve
+DE,DS4Talent.scythederider.description,"1 Runde handeln, obwohl schon tot aber nicht bewusstlos"
+DE,DS4Talent.scythederider,Sensenspötter
+DE,DS4Talent.select,
+DE,DS4Talent.servantofdarkness.description,Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+DE,DS4Talent.servantofdarkness.description.orig,Der Charakter dient den Mächten der Dunkelheit. Er erhält auf alle Angriffe gegen Wesen/Diener des Lichts einen Bonus von +1 pro Talentrang. Gleiches gilt für seine Abwehr gegen Schaden von Lichtzaubern. Charakter mit diesem Talent können nicht das Talent Diener des Lichts erlernen.
+DE,DS4Talent.servantofdarkness,Diener der Dunkelheit
+DE,DS4Talent.servantoflight.description,Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
+DE,DS4Talent.servantoflight.description.orig,"Der Charakter dient den Mächten des Lichts. Er erhält gegen alle Angriffe von Wesen/ Dienern der Dunkelheit einen Bonus von +1 pro Talentrang auf seine Abwehr. Gleiches gilt bei Schaden von Schattenzaubern. Charaktere, die gegen die Prinzipien des Lichts verstoßen (beispielsweise sinnlos Morden) verlieren Talentränge ersatzlos. Charaktere mit diesem Talent können nicht das Talent Diener der Dunkelheit erlernen."
+DE,DS4Talent.servantoflight,Diener des Lichts
+DE,DS4Talent.sharpshooter.description,GA-1 bei Fernkampfangriff
+DE,DS4Talent.sharpshooter,Scharfschütze
+DE,DS4Talent.shooter.description.orig,Der Charakter ist ein geübter Fernkämpfer: Er erhält auf Schießen und Zielzauber einen Bonus von +1 pro Talentrang.
+DE,DS4Talent.shooter.description,"Schiessen, Zielzauber +1 pro Talentrang."
+DE,DS4Talent.shooter,Schütze
+DE,DS4Talent.slavery.description,+1 Auftrag an Wesenheit; +1h Existenzdauer der Wesenheit
+DE,DS4Talent.slavery,Knechtschaft
+DE,DS4Talent.sneakattack.description,"Schlagen +GE mal Talentrang, falls Angriff hinterrücks mit Dolch."
+DE,DS4Talent.sneakattack,Hinterhältiger Angriff
+DE,DS4Talent.specialpoison.description,Giftwirkung bei Angriffen verstärken
+DE,DS4Talent.specialpoison,Gezieltes Gift
+DE,DS4Talent.steady.description,LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang.
+DE,DS4Talent.steady.description.orig,"Pro Talentrang sinkt die Lebenskraft- Grenze, ab der ein Charakter bewusstlos wird, um jeweils 3. Ein Charakter mit Standhaft III wird also erst mit -9 LK bewusstlos, statt schon bei Null. Alles natürlich nur unter der Voraussetzung, dass man so viele negative LK auch überleben kann (siehe Seite 42)."
+DE,DS4Talent.steady,Standhaft
+DE,DS4Talent.swimming.description.orig,Der Charakter kann schwimmen (siehe Seite 93) und erhält pro Talentrang auf alle diesbezüglichen Proben +3.
+DE,DS4Talent.swimming.description,Schwimmen +3 pro Talentrang.
+DE,DS4Talent.swimming,Schwimmen
+DE,DS4Talent.takecover.description,"-2 Malus auf Angriffe gegen den Charakter, falls in 'voller Abwehr'"
+DE,DS4Talent.takecover,In Deckung
+DE,DS4Talent.talent-add,+Hinzufügen
+DE,DS4Talent.talents-select.title,Talente auswählen
+DE,DS4Talent.tamer,Bändiger
+DE,DS4Talent.tamer.description,Mit GEI+AU Wesenheiten kontrollieren
+DE,DS4Talent.thief.description,"Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang."
+DE,DS4Talent.thief.description.orig,"Der Charakter erhält einen Bonus von +2 pro Talentrang auf alle Proben, bei denen es darum geht, Fallen zu entdecken und zu entschärfen, fremde Taschen zu leeren, Schlösser zu öffnen oder Glücksspiele zu manipulieren."
+DE,DS4Talent.thief,Diebeskunst
+DE,DS4Talent.triggerspells.description,Zauber einer speziellen Klasse von Schriftrollen auslösen
+DE,DS4Talent.triggerspells,Zauber auslösen
+DE,DS4Talent.twoweaponfighting.description,Bei Kampf mit zwei Waffen Malus -2 pro Talentrang.
+DE,DS4Talent.twoweaponfighting.description.orig,Pro Talentrang wird der Malus von -10 auf Schlagen und Abwehr beim Kampf mit zwei Waffen um jeweils 2 Punkte gemindert.
+DE,DS4Talent.twoweaponfighting,Zwei Waffen
+DE,DS4Talent.undeadlegions.description,+3 Untote erwecken und kontrollieren
+DE,DS4Talent.undeadlegions,Untote Horden
+DE,DS4Talent.vengeance.description,Schlagen + Rang Diener des Lichts/Dunkelheit x4
+DE,DS4Talent.vengeance,Vergeltung
+DE,DS4Talent.violator.description,GA-1 bei Nahkampfangriff
+DE,DS4Talent.violator,Verletzen
+DE,DS4Talent.wastingspurt.description,Laufen +2m für W20/2 Runden /1LK
+DE,DS4Talent.wastingspurt,Zehrender Spurt
+DE,DS4Talent.weaponsadept.description,"Schlagen +1, GA-1 für eine spezielle Waffengattung"
+DE,DS4Talent.weaponsadept,Waffenkenner
+DE,DS4Talent.welfare.description,Heil- und Schutzzauber +1 pro Talentrang.
+DE,DS4Talent.welfare.description.orig,Der Charakter ist geübt im Umgang mit heilender und schützender Magie. Er erhält auf alle Heil- und Schutzzauber +1 pro Talentrang.
+DE,DS4Talent.welfare,Fürsorger
+DE,DS4TypicalTest.bargaining.description,"Charmant, Schlitzohr"
+DE,DS4TypicalTest.bargaining,Feilschen
+DE,DS4TypicalTest.bargaining.formula,GEI+VE/+AU
+DE,DS4TypicalTest.bonus,Bonus
+DE,DS4TypicalTest.changespell.description,Wechsler
+DE,DS4TypicalTest.changespell.formula,GEI+VE
+DE,DS4TypicalTest.changespell,Zauber wechseln
+DE,DS4TypicalTest.climb.description,"Akrobat, Kletterass"
+DE,DS4TypicalTest.climb.formula,AGI+ST
+DE,DS4TypicalTest.climb,Klettern
+DE,DS4TypicalTest.communicate.description,Bildung
+DE,DS4TypicalTest.communicate.formula,GEI+GE
+DE,DS4TypicalTest.communicate,Verständigen
+DE,DS4TypicalTest.creep.description,Heimlichkeit
+DE,DS4TypicalTest.creep.formula,AGI+BE
+DE,DS4TypicalTest.creep,Schleichen
+DE,DS4TypicalTest.decipher.description,"Wahrnehmung, Bildung"
+DE,DS4TypicalTest.decipher.formula,GEI+VE
+DE,DS4TypicalTest.decipher,Inschrift entziffern
+DE,DS4TypicalTest.description,Nutzbare Talente
+DE,DS4TypicalTest.disarmtraps.description,Diebeskunst
+DE,DS4TypicalTest.disarmtraps,Fallen entschärfen
+DE,DS4TypicalTest.disarmtraps.formula,GEI+GE
+DE,DS4TypicalTest.estimate.description,Beute schätzen
+DE,DS4TypicalTest.estimate.formula,GEI+VE
+DE,DS4TypicalTest.estimate,Schätzen
+DE,DS4TypicalTest.flirt.description,Charmant
+DE,DS4TypicalTest.flirt,Flirten
+DE,DS4TypicalTest.flirt.formula,GEI+AU
+DE,DS4TypicalTest.formula,Grundwert
+DE,DS4TypicalTest.hide.description,Heimlichkeit
+DE,DS4TypicalTest.hide.formula,AGI+BE
+DE,DS4TypicalTest.hide,Verbergen
+DE,DS4TypicalTest.identifymagic.formula,GEI+VE
+DE,DS4TypicalTest.identifymagic,Magie identifizieren
+DE,DS4TypicalTest.id,Typische Proben
+DE,DS4TypicalTest.jump.description,Akrobat
+DE,DS4TypicalTest.jump.formula,AGI+BE
+DE,DS4TypicalTest.jump,Springen
+DE,DS4TypicalTest.knowledge.description,"Bildung, Wissensgebiet*"
+DE,DS4TypicalTest.knowledge.formula,GEI+VE
+DE,DS4TypicalTest.knowledge,Wissen
+DE,DS4TypicalTest.makefire.description,Jäger
+DE,DS4TypicalTest.makefire,Feuer machen
+DE,DS4TypicalTest.makefire.formula,GEI+GE
+DE,DS4TypicalTest.names,Typische Proben
+DE,DS4TypicalTest.name,Typische Proben
+DE,DS4TypicalTest.picklock.description,"Diebeskunst, Schlossknacker"
+DE,DS4TypicalTest.picklock.formula,GEI+GE
+DE,DS4TypicalTest.picklock,Schlösser öffnen
+DE,DS4TypicalTest.pickpocket.description,"Diebeskunst, Heimlichkeit, Kann ich mal vorbei?*, Langfinger*"
+DE,DS4TypicalTest.pickpocket.formula,AGI+GE
+DE,DS4TypicalTest.pickpocket,Taschendiebstahl
+DE,DS4TypicalTest.power.description,"Brutaler Hieb*, Vernichtender Schlag*"
+DE,DS4TypicalTest.power.formula,KÖR+ST
+DE,DS4TypicalTest.power,Kraftakt
+DE,DS4TypicalTest.resistillnes.description,Einstecker
+DE,DS4TypicalTest.resistillnes.formula,KÖR+HÄ
+DE,DS4TypicalTest.resistillnes,Krankheit trotzen
+DE,DS4TypicalTest.resistpoison.description,Einstecker
+DE,DS4TypicalTest.resistpoison.formula,KÖR+HÄ
+DE,DS4TypicalTest.resistpoison,Gift trotzen
+DE,DS4TypicalTest.ride.description,"Reiten, Tiermeister, Sattelschütze*"
+DE,DS4TypicalTest.ride.formula,AGI+BE/+AU
+DE,DS4TypicalTest.ride,Reiten
+DE,DS4TypicalTest.search.description,"Diebeskunst, Heimlichkeit, Wahrnehmung"
+DE,DS4TypicalTest.search.formula,GEI+VE oder 8
+DE,DS4TypicalTest.search,Suchen
+DE,DS4TypicalTest.spot,Bemerken
+DE,DS4TypicalTest.spot.description,"Diebeskunst, Wahrnehmung"
+DE,DS4TypicalTest.spot.formula,GEI+VE oder 8
+DE,DS4TypicalTest.spotmagic.description,Beute schätzen
+DE,DS4TypicalTest.spotmagic.formula,GEI+AU
+DE,DS4TypicalTest.spotmagic,Magie erspüren
+DE,DS4TypicalTest.swim.description,Schwimmen
+DE,DS4TypicalTest.swim.formula,AGI+ST
+DE,DS4TypicalTest.swim,Schwimmen
+DE,DS4TypicalTest.track.description,"Jäger, Wahrnehmung"
+DE,DS4TypicalTest.track.formula,GEI+VE
+DE,DS4TypicalTest.track,Spuren lesen
+DE,DS4TypicalTest.usemechanism.description,"Diebeskunst, Handwerk, Schlossknacker"
+DE,DS4TypicalTest.usemechanism.formula,GEI+GE/+VE
+DE,DS4TypicalTest.usemechanism,Mechanismus öffnen
+DE,DS4TypicalTest.value,PW
+DE,DS4TypicalTest.wakeup.description,"Wahrnehmung, Schnelle Reflexe*"
+DE,DS4TypicalTest.wakeup,Erwachen
+DE,DS4TypicalTest.wakeup.formula,GEI+VE
+DE,DS4Upgrade.epic,Episch
+DE,DS4Upgrade.heroic,Heroisch
+DE,DS4Upgrade.leader,Anführer
+DE,DS4Upgrade.level,Macht
+DE,DS4Upgrade.none,kein
+DE,DS4Weapon.axe,Axt
+DE,DS4Weapon.axe.description,
+DE,DS4Weapon.battleaxe.description,
+DE,DS4Weapon.battleaxe,Streitaxt (2h)
+DE,DS4Weapon.battlehammer.description,
+DE,DS4Weapon.battlehammer,Streithammer (2h)
+DE,DS4Weapon.broadsword,Breitschwert
+DE,DS4Weapon.broadsword.description,
+DE,DS4Weapon.claymore,Bihänder (2h)
+DE,DS4Weapon.claymore.description,
+DE,DS4Weapon.club.description,Zerbricht bei Patzer.
+DE,DS4Weapon.club,Keule
+DE,DS4Weapon.costs,Kosten
+DE,DS4Weapon.dagger.description,
+DE,DS4Weapon.dagger,Dolch
+DE,DS4Weapon.description,Besonderes
+DE,DS4Weapon.dwarfenaxe.description,
+DE,DS4Weapon.dwarfenaxe,Zwergenaxt (2h)
+DE,DS4Weapon.elvenbow.description,
+DE,DS4Weapon.elvenbow,Elfenbogen (2h)
+DE,DS4Weapon.flail.description,
+DE,DS4Weapon.flail,Flegel
+DE,DS4Weapon.ga,GA
+DE,DS4Weapon.halberd.description,Typische Stadtwachenwaffe; zerbricht bei Patzer.
+DE,DS4Weapon.halberd,Hellebarde (2h)
+DE,DS4Weapon.hammer.description,
+DE,DS4Weapon.hammer,Hammer
+DE,DS4Weapon.heavycrossbow,"Armbrust, schwer (2h)"
+DE,DS4Weapon.heavycrossbow.description,
+DE,DS4Weapon.ini,INI
+DE,DS4Weapon.initiative,Initiative
+DE,DS4Weapon.isActive,
+DE,DS4Weapon.knife.description,Distanzmalus -1 pro 2m; auch Nahkampf geeignet.
+DE,DS4Weapon.knife,Wurfmesser
+DE,DS4Weapon.lance.description,Im Galopp: WB +4; zerbricht bei Patzer.
+DE,DS4Weapon.lance,Lanze
+DE,DS4Weapon.lightcrossbow,"Armbrust, leicht (2h)"
+DE,DS4Weapon.lightcrossbow.description,
+DE,DS4Weapon.longbow.description,
+DE,DS4Weapon.longbow,Langbogen (2h)
+DE,DS4Weapon.longsword.description,
+DE,DS4Weapon.longsword,Langschwert
+DE,DS4Weapon.mace.description,
+DE,DS4Weapon.mace,Streitkolben
+DE,DS4Weapon.morningstar.description,Eigentreffer bei Schlagen-Patzer.
+DE,DS4Weapon.morningstar,Schlachtgeißel
+DE,DS4Weapon.names,Waffen
+DE,DS4Weapon.name,Waffe
+DE,DS4Weapon.poleaxe.description,
+DE,DS4Weapon.poleaxe,Schlachtbeil (2h)
+DE,DS4Weapon.pole.description,Zielzauber +1; zerbricht bei Patzer.
+DE,DS4Weapon.pole,Kampfstab (2h)
+DE,DS4Weapon.rapier,Degen
+DE,DS4Weapon.rapier.description,
+DE,DS4Weapon.rim.description,wie waffenlos
+DE,DS4Weapon.rim,Schlagring
+DE,DS4Weapon.sabre.description,
+DE,DS4Weapon.sabre,Krummsäbel
+DE,DS4Weapon.schiessen,Schiessen
+DE,DS4Weapon.schlagen,Schlagen
+DE,DS4Weapon.scimitar.description,
+DE,DS4Weapon.scimitar,Krummschwert
+DE,DS4Weapon.select,
+DE,DS4Weapon.shortbow.description,
+DE,DS4Weapon.shortbow,Kurzbogen (2h)
+DE,DS4Weapon.shortsword.description,
+DE,DS4Weapon.shortsword,Kurzschwert
+DE,DS4Weapon.sling.description,Distanzmalus -1 pro 2m.
+DE,DS4Weapon.sling,Schleuder
+DE,DS4Weapon.spear.description,Kann auch geworfen werden; zerbricht bei Schiessen-Patzer.
+DE,DS4Weapon.spear,Speer
+DE,DS4Weapon.unarmed.description,
+DE,DS4Weapon.unarmed,Waffenlos
+DE,DS4Weapon.wb,WB
+DE,DS4Weapon.weapons-select,+Hinzufügen
+DE,DS4Weapon.weapons-select.title,Waffen kaufen
+DE,DS4WeatherCtrl.level.0,Ebene / Flachland
+DE,DS4WeatherCtrl.level.1,Hügel
+DE,DS4WeatherCtrl.level.2,Gebirge
+DE,DS4WeatherCtrl.level.name,Höhenlage
+DE,sp.download-db.html.description,<p>Registiere dein eigenes Fanwerk mit diesem <a target='_blank' href='https://www.f-space.de/ds4/downloads-register.html'>Formular</a>.<br/><span class='small italic'>Hinweis: Der Eintrag erscheint erst nach einer redaktionellen Freigabe.</span></p><p>Änderungsvorschläge und Korrekturen kannst du uns vorerst in diesem <a href='https://docs.google.com/forms/d/e/1FAIpQLSe-PxYQ1fMDG18uKKm4sSiwRDKCBSwfeMDXWsH7dWceBOsMzQ/viewform'>Formular</a> zukommen lassen.</p>
+DE,sp.sidebar.ds4-knowledge.title,Wissenswertes
+DE,DS4Talent.fury.description,"Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar."
+DE,DS4CreatureWeapon.tentacle,Tentakel
+DE,DS4CreatureTalent.lossattribute.short,"Werteverlust (Attribut -1, durch Schaden)"
+DE,DS4CreatureTalent.lossattribute,Werteverlust
+DE,DS4CreatureTalent.lossgeilaugh,Werteverlust
+DE,DS4CreatureTalent.lossgeilaugh.short,"Werteverlust (GEI -1, durch Totenlachen)"
+DE,DS4CreatureTalent.multipleattacks2.short,Mehrere Angriffe (+2)
+DE,DS4CreatureTalent.multipleattacks3.short,Mehrere Angriffe (+3)
+DE,DS4CreatureTalent.multipleattacks4.short,Mehrere Angriffe (+4)
+DE,DS4CreatureTalent.multipleattacks5.short,Mehrere Angriffe (+5)
+DE,DS4CreatureTalent.multipleattacks6.short,Mehrere Angriffe (+6)
+DE,DS4CreatureTalent.multipleattacks7.short,Mehrere Angriffe (+7)
+DE,DS4CreatureTalent.multipleattacks8.short,Mehrere Angriffe (+8)
+DE,DS4.test.criticalsuccess,Krit
+DE,DS4.test.failure,Misserfolg
+DE,DS4.test.fumble,Patzer
+DE,DS4CreatureTalent.poison.description,"Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde."
+DE,DS4CreatureWeapon.mindstorm,Gedankensturm
+DE,DS4CreatureTalent.mindstorm,Gedankensturm
+DE,DS4CreatureTalent.mindstorm.short,Gedankensturm
+DE,DS4Creature.ApokalReiter1,Apokalpytischer Reiter der Pestilenz
+DE,DS4Creature.ApokalReiter2,Apokalpytischer Reiter des Hungers
+DE,DS4Creature.ApokalReiter3,Apokalpytischer Reiter des Kriegs
+DE,DS4Creature.ApokalReiter4,Apokalpytischer Reiter des Todes
+DE,DS4Creature.ApokalRoss,Apokalpytisches Ross
+DE,DS4CreatureArmor.cape,Umhang
+DE,DS4CreatureArmor.rottenbody,Verrottender Körper
+DE,DS4CreatureArmor.skeletionarmor,Skelettpanzer
+DE,DS4Creature.EngelderApokalypse,Engel der Apokalypse
+DE,DS4Creature.FliegenderSchädel,Fliegender Schädel
+DE,DS4Creature.MindererLeichnam,Minderer Leichnam
+DE,DS4Creature.Phantomhexer,Phantomhexer
+DE,DS4Creature.RitterGungart,Ritter Gungart
+DE,DS4Creature.Schlächter,Schlächter
+DE,DS4Creature.Sensenmann,Sensenmann
+DE,DS4Creature.Skelettdrache,Skelettdrache
+DE,DS4Creature.Skelettkrieger,Skelettkrieger
+DE,DS4Creature.Skelettmagier,Skelettmagier
+DE,DS4Creature.Skelettschütze,Skelettschütze
+DE,DS4CreatureTalent.fear5.short,Angst (-5)
+DE,DS4CreatureTalent.fear5,Angst
+DE,DS4Character.dermotmadal,Dermot Madal
+DE,DS4Eigenschaft.au,Aura
+DE,DS4Eigenschaft.au.short,AU
+DE,DS4Fightvalue.initiative,Initiative
+DE,DS4Fightvalue.names,Kampfwerte
+DE,DS4Talent.names,Talente
+DE,Ds4\\Model\\DS4Talent,Talente
+DE,DS4CreatureTalent.mindstorm.description,Nur alle W20 Runden einsetzbar. Erzeugt nicht abwehrbaren Schaden (Schießen-Angriff) - nur für magische Abwehrboni wird gewürfelt (PW:Bonushöhe).GE x 5m langer Kegel (am Ende GE x 3m breit)
+DE,DS4CreatureTalent.lossattribute.description,Pro schadensverursachenden Treffer wird Attribut um 1 gesenkt (bei Attribut Null ist das Opfer tot). Pro Tag oder Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert
+DE,DS4TypicalTest.identifymagic.description,
+DE,DS4Creature.Asphyx,Asphyx
+DE,DS4Creature.geistpeiniger,Geistpeiniger
+DE,DS4Creature.Gruftplünderer,Gruftplünderer
+DE,DS4Creature.Heimsucher,Heimsucher
+DE,DS4Creature.Krötenhaut,Krötenhaut
+DE,DS4Creature.Nekrolyth,Nekrolyth
+DE,DS4Creature.UntoteMannshand,Untote Mannshand
+DE,DS4Creature.Zombiebär,Zombiebär
+DE,DS4Creature.Zombiedrache,Zombiedrache
+DE,DS4Creature.Zombiegoblin,Zombiegoblin
+DE,DS4Creature.Zombiekeiler,Zombiekeiler
+DE,DS4Creature.Zombieoger,Zombieoger
+DE,DS4Creature.Zombieork,Zombieork
+DE,DS4Creature.Zombieriesenratte,Zombieriesenratte
+DE,DS4Creature.Zombietroll,Zombietroll
+DE,DS4Creature.Zombiewolf,Zombiewolf
+DE,DS4Armor.armor-add,+Hinzufügen
+DE,DS4Item.item-add,+Hinzufügen
+DE,DS4Spell.spell-add,+Hinzufügen
+DE,DS4Creature.character,Charakter
+DE,DS4Spell.mana,Mana
+DE,DS4Spell.awakeshadows,Schatten erwecken
+DE,DS4Spell.food,Nahrung zaubern
+DE,DS4Spell.duration,Dauer
+DE,DS4CreatureTalent.multipleweaponsrust.description,"Greift mit insgesamt vier Tentakelfühlern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt."
+DE,DS4Potion.specialHolywater.description,Als Waffe: W20 nicht abwehrbarer Schaden gegen Dämonen und Untote. Als Schutzlinie auf Boden: Kann nicht von Dämonen und Untoten übertreten werden.
+DE,DS4CreatureTalent.name,Monsterfähigkeit
+DE,DS4Creature.loot.short,Beute
+DE,DS4CreatureArmor.leatherskin,Lederhaut
+DE,DS4CreatureTalent.ansteckenderbiss,Ansteckender Biss
+DE,DS4CreatureTalent.hirntod,Hirntod
+DE,DS4CreatureTalent.intelligenz,Intelligenz
+DE,DS4CreatureTalent.kreischen,Kreischen
+DE,DS4CreatureTalent.sandschwimmen,Sand-Schwimmen
+DE,DS4CreatureTalent.schwerzutoeten,Schwer zu töten
+DE,DS4CreatureTalent.springer,Springer
+DE,DS4CreatureTalent.spruchrollenroulette,Spruchrollen-Roulette
+DE,DS4CreatureTalent.tarnung,Tarnung
+DE,DS4CreatureTalent.vampirismus,Vampirismus
+DE,DS4CreatureTalent.schwarm,"Schwarm (Käfer, Kanalratten, Schlangen o.ä.)"
+DE,DS4CreatureTalent.ansteckenderbiss.description,"Der Biss dieses Zombies ist ansteckend. Wird man gebissen, muss man eine Probe auf KÖR+HÄ bestehen oder infiziert sich."
+DE,DS4CreatureTalent.hirntod.description,Jeder Schaden am Gehirn tötet den Zombie sofort. Dies geschieht durch einen um -8 erschwerten Angriff.
+DE,DS4CreatureTalent.intelligenz.description,Dieser Zombie hat sich einen Ansatz von Intelligenz bewahrt. Im Gegensatz zu anderen Zombies kann er Türen öffnen oder sogar einfache Fallen stellen.
+DE,DS4CreatureTalent.kreischen.description,"Der Kreischer kann als Aktion einen hohen, schrillen Schrei ausstoßen. Dies führt bei Gegnern zu einem Malus von -2 auf alle Proben, wenn keine Probe auf GEI+HÄ gelingt. Außerdem können die Schreie weitere Zombies in der Gegend anlocken."
+DE,DS4CreatureTalent.sandschwimmen.description,"Kann, statt zu laufen, im Sand schwimmen. Wird die Aktion Rennen schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2."
+DE,DS4CreatureTalent.schwerzutoeten.description,"Der Zombie erhält +1 Lebenskraft und Abwehr pro Rang. Viel wichtiger noch: Dieser Zombie kann nicht auf normalem Wege zerstört werden, denn er regeneriert einfach."
+DE,DS4CreatureTalent.springer.description,Erhält einen Bonus von +3 auf sämtliche Sprungweiten.
+DE,DS4CreatureTalent.spruchrollenroulette.description,"Die Mumie verfügt über keine eigenen Zaubersprüche, dafür jedoch über angewachsene Spruchrollen, von denen sie jede Runde eine aktionsfrei sprechen kann (Beutetabelle Z, nach jedem Einsatz neu auswürfeln). (Zaubern: 8, Zielzaubern: 6)"
+DE,DS4CreatureTalent.tarnung.description,Kann jegliche tierische Form der Größenkategorie klein bis groß imitieren.
+DE,DS4CreatureTalent.vampirismus.description,"Das Ziel erhält 50% des Schadens, den es per Schlagen im Nahkampf verursacht (also abzüglich des Abwehrwurfes des Gegners), in Form von heilender Magie auf die eigene Lebenskraft gutgeschrieben."
+DE,DS4CreatureTalent.schwarm.description,"Schwarm (Käfer, Kanalratten, Schlangen o.ä.): Gilt als einzelner Gegner. Der Schwarmwert (SCW) entspricht seiner aktuellen Mitgliederanzahl/10 (zu Beginn und max. 200 Mitglieder pro Schwarm = SCW 20). Pro 1 LK Schaden sterben 10 Mitglieder (= SCW -1).  Schwärme können Mitglieder an benachbarte Felder abgeben und ihr eigenes sowie jedes angrenzende Feld gleichzeitig angreifen (mit jeweils vollen Schlagen-Wert).<br/><b>Schlagen/Abwehr/LK entsprechen dem aktuellen SCW</b>"
+DE,DS4Talent.accesslevels,Zugangsstufen
+DE,DS4Character.notes,Notizen
+DE,DS4Character.notes.description,Hier ist Platz für eine Charakterbeschreibung oder andere Notizen
+DE,DS4Character.itemstext,Weitere Ausrüstung
+DE,DS4Character.magicitems,Magische Ausrüstung
+DE,DS4Character.itemstext.description,Hier kannst du weitere Ausrüstung ohne besondere Effekte eingeben
+DE,DS4Character.talentspecializations,"Handwerk, Instrumente & Wissen"
+DE,DS4Talent.craft.abbr,HW
+DE,DS4Talent.knowledge.abbr,WG
+DE,DS4Talent.instrument.abbr,Inst
+DE,DS4Source.slayerforum.link,<a href='https://forum.burning-books.de/index.php?topic=6983.0' target='_blank'>Slayerforum</a>
+DE,sp.tools-nsc-2-roll.html.description,"<div> Dieser Generator basiert auf dem Fanwerk <a target='_blank' href='https://forum.burning-books.de/index.php?topic=2672'>NSC-2-Roll</a> von Andreas Melhorn. </div> <hr class='hr'/> <div class='small' > Zusätzlich zu den im NSC-2-Roll gegebenen Werten werden hier Initiative, Laufen und Mana berechnet: <div>  <span class='bold'>Krieger</span>  <dl style='margin-left:1em;'>  <dd>Initiative: Rechts minus Oben</dd>  <dd>Laufen: 1 + (Rechts minus Oben) / 2</dd>  </dl> </div> <div>  <span class='bold'>Späher</span>  <dl style='margin-left:1em;'>  <dd>Initiative: Links minus Oben</dd>  <dd>Laufen: (Unten minus Oben) / 2</dd>  </dl> </div> <div>  <span class='bold'>Zauberwirker</span>  <dl style='margin-left:1em;'>  <dd>Initiative: Unten minus Oben</dd>  <dd>Laufen: 1,5 + (Rechts minus Oben) / 2</dd>  <dd>Zaubern/Zielzauber: Rechts oder Links</dd>  <dd>Mana: Links minus Oben</dd>  </dl> </div> <div class='italic'>Der Generator erzeugt keine NSCs, welche sich mit den DS4-Regeln nachbauen lassen. Mana ist eine Option aus dem <a href='http://dungeonslayers.net/download/DS4FWZauberwerk.pdf'>Zauberwerk</a>.</div> </div>"
