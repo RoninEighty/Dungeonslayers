@@ -23,7 +23,7 @@ Drachenschuppen (PA+5)
 
 #### Fähigkeiten
 
-[Angst](drache-angst.md), [Mehrere Angriffe (+1)](drache-mehrere-angriffe.md), [Dunkelsicht](dunkelsicht.md), [Fliegen](fliegen4.md], [Natürliche Waffen}(natuerliche-waffen.md), [Odem](drache-odem.md), [Schleudern](schleudern.md), [Sturzangriff](sturzangriff.md), [Verschlingen](verschlingen.md), [Wesen der Dunkelheit / Wesen des Lichts (Settingoption)](wdwl.md), [Zerstampfen](zerstampfen.md)
+[Angst](drache-angst.md), [Mehrere Angriffe (+1)](drache-mehrere-angriffe.md), [Dunkelsicht](dunkelsicht.md), [Fliegen](fliegen4.md), [Natürliche Waffen](natuerliche-waffen.md), [Odem](drache-odem.md), [Schleudern](schleudern.md), [Sturzangriff](sturzangriff.md), [Verschlingen](verschlingen.md), [Wesen der Dunkelheit / Wesen des Lichts (Settingoption)](wdwl.md), [Zerstampfen](zerstampfen.md)
 
 Gegnerhärte: 65  
 Größe: ge  
