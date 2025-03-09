@@ -12,9 +12,8 @@ body {
 }
 
 table {
-  min-width: 20rem;
+  min-width: calc(100% - 1rem);
 }
-
 
 .container {
   display: block;
