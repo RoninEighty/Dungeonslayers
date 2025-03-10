@@ -14,7 +14,7 @@ Autor:        Zauberlehrling
 - Zugangsstufen:
   - NEK 10 (V)
 
-Immer wenn in Reichweite von 2+Talentrang in Metern ein Lebewesen, von mindestens “kleiner” Größenkategorie (siehe Seite 104), zu Tode kommt, regeneriert der Nekromant 2 LK pro Talentrang in Todeskraft.
+Immer wenn in Reichweite von 2+Talentrang in Metern ein Lebewesen, von mindestens “kleiner” Größenkategorie (siehe [Größenkategorien](bestiarium.md#grössenkategorien)), zu Tode kommt, regeneriert der Nekromant 2 LK pro Talentrang in Todeskraft.
 
 ---
 

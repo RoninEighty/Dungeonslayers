@@ -50,7 +50,7 @@ Charaktere, die erwachen, machen eine Bemerken-Probe (diese wird nicht modifizie
 
 Bei einem Erfolg können sie noch in der selben Runde handeln, in der sie aufgewacht sind.
 
-Ist ihre Initiative bereits verstrichen, wird wie bei einer Abwartehandlung (siehe Seite 43) vorgegangen.
+Ist ihre Initiative bereits verstrichen, wird wie bei einer Abwartehandlung (siehe [Abwartehandlungen](regeln-kampfdetails.md#abwartehandlungen)) vorgegangen.
 
 ### FALLEN ENTSCHÄRFEN (GEI+GE)
 
@@ -64,7 +64,7 @@ Misslingt die Probe, wird die Falle allerdings ausgelöst.
 
 **Nutzbare Talente**: Charmant, Schlitzohr
 
-Bei Verhandlungen - ob über Marktpreise, Questbelohnungen oder Kriege - werden vergleichende Proben (siehe Seite 39)
+Bei Verhandlungen - ob über Marktpreise, Questbelohnungen oder Kriege - werden vergleichende Proben (siehe [Vergleichende Proben](regeln-proben.md#vergleichende-proben))
 gewürfelt - am Spieltisch vorgetragene Worte können einen Bonus von -8 bis +8 geben. Verwendet wird VE oder AU, je nachdem, welcher Wert von beiden höher ist.
 
 Ein Sieg bei einer Feilschen-Probe kann allerdings nie dazu führen, dass jemand einem Handel eingeht, dessen Konditionen er niemals akzeptieren könnte. Bei Handelsgeschäften ist es deshalb hilfreich, wenn vorher festgelegt wird, wie hoch oder niedrig die Beteiligten gehen würden.
@@ -103,13 +103,13 @@ Mit einem erfolgreichen Wurf auf KÖR+HÄ können Charaktere der Wirkung eines G
 
 **Nutzbare Talente**: Wahrnehmung, Bildung
 
-Um eine alte, verwitterte Inschrift entziffern zu können, muss man ihre Sprache und ihre Schriftzeichen beherrschen (siehe Seite 88).
+Um eine alte, verwitterte Inschrift entziffern zu können, muss man ihre Sprache und ihre Schriftzeichen beherrschen (siehe [Sprachen & Schriftzeichen](spielleitung-sprachen-ep-vergabe.md)).
 
 ### KLETTERN (AGI+ST)
 
 **Nutzbare Talente**: Akrobat, Kletterass
 
-Beim Klettern bewegen sich Charaktere mit ihrem halben Laufen-Wert. Pro AGI x 2 in Metern, die ein Charakter erklimmen will, ist eine Klettern-Probe nötig. Bei einem Mißerfolg kann der Charakter es erneut versuchen, nur bei einem Patzer stürzt er auf halber Strecke ab (siehe Seite 85), sofern er nicht gesichert ist.
+Beim Klettern bewegen sich Charaktere mit ihrem halben Laufen-Wert. Pro AGI x 2 in Metern, die ein Charakter erklimmen will, ist eine Klettern-Probe nötig. Bei einem Mißerfolg kann der Charakter es erneut versuchen, nur bei einem Patzer stürzt er auf halber Strecke ab (siehe [Sturzschaden](spielleitung-slayergefahren.md#sturzschaden)), sofern er nicht gesichert ist.
 
 | KLETTERFLÄCHE PW        |
 | ----------------------- | :-------: |
@@ -171,7 +171,7 @@ Wollen Charaktere ohne das Talent Reiten vom Pferderücken aus einen Angriff mac
 
 ¹: KÖR des Reittieres
 
-Wer von seinem Pferd einen unberittenen Gegner schlägt, erhält einen Bonus von +1 auf Schlagen durch die erhöhte Position. Mit zweihändigen Waffen kann man beritten überhaupt nicht angreifen. Einzig und allein Charaktere, die das Talent **Sattelschütze** (siehe Seite 30) beherrschen, können Fernkampfwaffen einsetzen, die man beidhändig (beispielsweise Bögen) benutzt.
+Wer von seinem Pferd einen unberittenen Gegner schlägt, erhält einen Bonus von +1 auf Schlagen durch die erhöhte Position. Mit zweihändigen Waffen kann man beritten überhaupt nicht angreifen. Einzig und allein Charaktere, die das Talent **[Sattelschütze](talente/sattelschuetze.md)** beherrschen, können Fernkampfwaffen einsetzen, die man beidhändig (beispielsweise Bögen) benutzt.
 
 ### SCHÄTZEN (GEI+VE)
 
@@ -187,7 +187,7 @@ Bei einem ungeraden Probenergebnis schätzt der Charakter den Wert zu niedrig, b
 
 **Nutzbare Talente**: Heimlichkeit
 
-Geschlichen wird immer mit halbierten Laufen-Wert. Es handelt sich um eine vergleichende Probe (siehe Seite 39) gegen die Bemerken-Probe möglicher Hörer (wie Wachposten) in bis zu 15 - AGI Meter Entfernung verglichen wird. Alle AGI Meter wird eine neue SchleichenProbe nötig.
+Geschlichen wird immer mit halbierten Laufen-Wert. Es handelt sich um eine vergleichende Probe (siehe [Vergleichende Proben](regeln-proben.md#vergleichende-proben)) gegen die Bemerken-Probe möglicher Hörer (wie Wachposten) in bis zu 15 - AGI Meter Entfernung verglichen wird. Alle AGI Meter wird eine neue SchleichenProbe nötig.
 
 | SCHLEICHEN-MODIFIKATOREN        | PW  |
 | ------------------------------- | :-: |
@@ -218,7 +218,7 @@ Dieser kumulative Malus gegen dieses eine Schloss erlischt erst, wenn der Charak
 
 **Nutzbare Talente**: Schwimmen
 
-Charaktere ohne das Talent **Schwimmen** müssen jede Runde in tiefem Wasser eine Schwimmen-Probe würfeln, sonst drohen sie unterzugehen und zu ertrinken (siehe Seite 84).
+Charaktere ohne das Talent **Schwimmen** müssen jede Runde in tiefem Wasser eine Schwimmen-Probe würfeln, sonst drohen sie unterzugehen und zu ertrinken (siehe [Ertrinken](spielleitung-slayergefahren.md#ertrinken)).
 
 | SCHWIMMEN-PROBE                |   PW    |
 | ------------------------------ | :-----: |
@@ -287,7 +287,7 @@ Der Spieler wählt, ob er beispielsweise nur für einen Schrank, ein breites St�
 
 **Nutzbare Talente**: Diebeskunst, Heimlichkeit, Kann ich mal vorbei?,Langfinger
 
-Beim Taschendiebstahl handelt sich um eine vergleichende Probe (siehe Seite 39), gegen die der Bestohlene und mögliche Zeugen Bemerken-Proben würfeln.
+Beim Taschendiebstahl handelt sich um eine vergleichende Probe (siehe [Vergleichende Proben](regeln-proben.md#vergleichende-proben)), gegen die der Bestohlene und mögliche Zeugen Bemerken-Proben würfeln.
 
 | TASCHENDIEBSTAHL-MODIFIKATOREN | PW  |
 | ------------------------------ | :-: |
@@ -300,7 +300,7 @@ Beim Taschendiebstahl handelt sich um eine vergleichende Probe (siehe Seite 39),
 
 **Nutzbare Talente**: Heimlichkeit
 
-Wer sich versteckt - um Verfolgern zu entgehen oder jemanden aufzulauern - würfelt eine vergleichende Probe (siehe Seite 39) gegen die Bemerken-Probe der Charaktere, die es zu täuschen gilt.
+Wer sich versteckt - um Verfolgern zu entgehen oder jemanden aufzulauern - würfelt eine vergleichende Probe (siehe [Vergleichende Proben](regeln-proben.md#vergleichende-proben)) gegen die Bemerken-Probe der Charaktere, die es zu täuschen gilt.
 
 | VERBERGEN-MODIFIKATOREN            | PW  |
 | ---------------------------------- | :-: |

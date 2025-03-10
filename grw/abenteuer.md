@@ -6,8 +6,7 @@ Die hier vorgestellten drei Abenteuer sind alle an jeweils einem Spielabend gut 
 
 Wer gleich richtig loslegen will, spielt die drei Abenteuer am besten nacheinander in Folge - der ideale Auftakt für eine eigene Kampagne in der Welt von Caera, dem klassischen Dungeonslayers-Setting.
 
-Der Spielleiter sollte sich vorab mit den Informationen über Caera vertraut machen, speziell die Abschnitte über die Tannhügel sowie die Gemeinden Westheim und Cendor
-(siehe Seite 144).
+Der Spielleiter sollte sich vorab mit den Informationen über Caera vertraut machen, speziell die Abschnitte über die Tannhügel sowie die Gemeinden Westheim und Cendor (siehe [Die freien Lande](caera.md#die-freien-lande)).
 
 Nach dieser dreiteiligen Mini-Kampagne sollten die Charaktere die fünfte Stufe erreicht haben und sich in der Tannhügelregion schon einen gewissen Ruf erarbeitet haben.
 
@@ -29,7 +28,7 @@ Zwerge können von überall aus der Gegend am _Langstrom_ kommen, vielleicht sta
 
 Die Kampagne beginnt in der Stadt Westheim und führt im Verlauf der Handlung nach Norden in die Tannhügel, weshalb es praktisch ist, den Charakteren gleich einen Grund zu geben, warum sie in diese Richtung wollen:
 
-Vielleicht hat einer der Charaktere unter den Bewohnern Cendors (siehe Seite 144) einen Freund, dem er einen Besuch abstatten will. Ein anderer Charakter könnte beauftragt sein, einen Brief jemanden dort zu
+Vielleicht hat einer der Charaktere unter den Bewohnern Cendors (siehe [Die freien Lande](caera.md#cendor)) einen Freund, dem er einen Besuch abstatten will. Ein anderer Charakter könnte beauftragt sein, einen Brief jemanden dort zu
 überbringen.
 
 Ein Elf könnte einfach von Neugier getrieben sein oder gehört haben, dass offenbar Orkbanden den Dämmerwald unsicher machen sollen.

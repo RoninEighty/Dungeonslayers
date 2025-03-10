@@ -4,16 +4,16 @@ Um einen Text verstehen zu können, muss man die Schriftzeichen lesen können, i
 
 Sprachen und verwendete Schriftzeichen sind von Kultur zu Kultur unterschiedlich und werden durch das jeweilige Setting vorgegeben.
 
-Mehrere Sprachen verwenden oftmals die selben Schriftzeichen. Jeder Charakter beherrscht zu Spielbeginn zwei Sprachen und hat eventuell auch die dazugehörigen Schriftzeichen bereits erlernt, sofern er bei Spielbeginn in GEI einen Wert von 6 oder höher hatte (siehe Seite 6).
+Mehrere Sprachen verwenden oftmals die selben Schriftzeichen. Jeder Charakter beherrscht zu Spielbeginn zwei Sprachen und hat eventuell auch die dazugehörigen Schriftzeichen bereits erlernt, sofern er bei Spielbeginn in GEI einen Wert von 6 oder höher hatte (siehe [Letzte Schliffe](charaktere-charaktererschaffung.md#10-letzte-schliffe)).
 
 Für 1 Lernpunkt kann man eine neue Sprache oder neue Schriftzeichen erlernen
-(siehe Seite 8), ausreichend Zeit und Lernmöglichkeiten vorausgesetzt.
+(siehe [Lernpunkte](charaktere-erfahrung.md#lernpunkte)), ausreichend Zeit und Lernmöglichkeiten vorausgesetzt.
 
 **Settingoption**: Elfische Lettern und zwergische Runen werden in vielen Settings wohl gehütet und Vertretern anderer Völker nicht einfach beigebracht.
 
 ## WAREN HERSTELLEN
 
-Charaktere mit dem Talent **Handwerk** sind in der Lage, Gegenstände zu reparieren und herzustellen, sofern sie von der erlernten Handwerksart (siehe Seite 24) abgedeckt werden (beispielsweise Bögen und Pfeile bei Bogenbau). Die Herstellung kostet genau die Hälfte vom handelsüblichen Preis des Gegenstandes und dauert
+Charaktere mit dem Talent **Handwerk** sind in der Lage, Gegenstände zu reparieren und herzustellen, sofern sie von der erlernten Handwerksart (siehe [Handwerk](talente/handwerk.md)) abgedeckt werden (beispielsweise Bögen und Pfeile bei Bogenbau). Die Herstellung kostet genau die Hälfte vom handelsüblichen Preis des Gegenstandes und dauert
 
     Herstellungskosten in Gold x 10
     ------------------------------- Stunden.

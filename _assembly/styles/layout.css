@@ -19,19 +19,6 @@ table {
   display: block;
 }
 
-#sidebar {
-  flex: 0 0 auto;
-  padding-top: 0;
-  width: 100%;
-}
-
-#sidebar .site-title {
-  margin-top: 0;
-}
-
-#sidebar .back-arrow {
-}
-
 .container {
   display: flex;
   flex: 1 1 auto;
@@ -41,6 +28,20 @@ table {
 .container > .content {
   flex-grow: 1;
   padding-bottom: 4rem;
+}
+
+.content figure img {
+  max-width: calc(100% - 1rem);
+}
+
+#sidebar {
+  flex: 0 0 auto;
+  padding-top: 0;
+  width: 100%;
+}
+
+#sidebar .site-title {
+  margin-top: 0;
 }
 
 #sidebar header ~ *,
@@ -75,7 +76,6 @@ table {
   margin-top: 1rem;
   max-width: 100%;
 }
-
 
 #sidebar nav > * {
   display: block;
@@ -166,7 +166,7 @@ table {
   }
 
   #sidebar footer {
-    position:fixed;
+    position: fixed;
     bottom: 0;
     max-width: 18rem;
   }

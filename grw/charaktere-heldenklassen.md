@@ -4,7 +4,7 @@ Ab der 10. Stufe können Charaktere sich klassenabhängig einmalig spezialisiere
 
 Eine Heldenklasse gewährt Zugang zu höheren Talenträngen und gänzlich neuen Talenten.
 
-Dafür benötigen Heldenklassen allerdings auch mehr EP zum Erklimmen der Stufenleiter als zuvor (siehe Seite 8).
+Dafür benötigen Heldenklassen allerdings auch mehr EP zum Erklimmen der Stufenleiter als zuvor (siehe [Erfahrung](charaktere-erfahrung.md)).
 
 ### Heldenklasse annehmen
 

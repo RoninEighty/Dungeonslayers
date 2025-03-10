@@ -18,6 +18,8 @@ Nur Gegner, die 2 oder mehr m von einem ihrer getroffenen Mitstreiter entfernt s
 
 Getroffene Gegner in Metallrüstung dürfen keine Abwehr gegen einen Kettenblitz würfeln.
 
+![Kettenblitz springt auf Gegner](../images/kettenblitz.png)
+
 ---
 
 _Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: GRW | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_

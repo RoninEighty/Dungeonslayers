@@ -10,7 +10,7 @@ Erreichen die EP einen bestimmten Wert, steigt man in die nächste Stufe auf, vo
 
 Beim Aufstieg in eine neue Stufe erhält ein Charakter jedesmal **zwei Lernpunkte (LP)** und **1 Talentpunkt (TP)**. Zauberwirker können außerdem nach Erreichen einer neuen Stufe weitere **Zaubersprüche** erlernen. 
 
-Ab der 10. Stufe kann ein Charakter schließlich in eine **Heldenklasse** (siehe Seite 10) wechseln, benötigt dann zukünftig allerdings mehr EP, um in den Stufen aufzusteigen.
+Ab der 10. Stufe kann ein Charakter schließlich in eine **Heldenklasse** (siehe [Heldenklassen](charaktere-heldenklassen.md)) wechseln, benötigt dann zukünftig allerdings mehr EP, um in den Stufen aufzusteigen.
 
 ### LERNPUNKTE
 
@@ -71,7 +71,7 @@ Der maximal erreichbare Grundwert in jeder Eigenschaft beträgt 12, wird aber ab
 
 ### TALENTPUNKTE
 
-Jeder Charakter erhält bei Erreichen einer neuen Stufe einen **Talentpunkt (TP)**. Zu Beginn verfügt jeder Charakter über 1TP (Menschen sogar über 2TP), mit dem er ein Talent (siehe Seite 17) erlernen oder ausbauen kann.
+Jeder Charakter erhält bei Erreichen einer neuen Stufe einen **Talentpunkt (TP)**. Zu Beginn verfügt jeder Charakter über 1TP (Menschen sogar über 2TP), mit dem er ein Talent (siehe [Talente](talente.md)) erlernen oder ausbauen kann.
 
 ### TALENTVORAUSSETZUNGEN
 

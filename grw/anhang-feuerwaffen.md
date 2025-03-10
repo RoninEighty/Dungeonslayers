@@ -10,7 +10,7 @@ Feuerwaffen müssen nach jedem Schuß nachgeladen werden (verbaucht 1 Aktion pro
 
 #### ZWEI PISTOLEN GLEICHZEITIG ABFEUERN
 
-Das Abfeuern von zwei Pistolen gleichzeitig funktioniert rein regeltechnisch wie der Angriff mit zwei Nahkampfwaffen (siehe Seite 43).
+Das Abfeuern von zwei Pistolen gleichzeitig funktioniert rein regeltechnisch wie der Angriff mit zwei Nahkampfwaffen (siehe [Kampfdetails](regeln-kampfdetails.md)).
 
 #### ALLE LÄUFE GLEICHZEITIG ABFEUERN
 

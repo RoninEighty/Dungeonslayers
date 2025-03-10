@@ -34,7 +34,7 @@ Sobald ein Zauber erfolgreich gewirkt wurde, muss seine Abklingzeit abgewartet w
 
 ### ZUGANGSSTUFEN
 
-Die Zugangsstufe eines Zaubers gibt an, ab welcher Stufe die einzelnen Zauberwirker Heiler, Schwarzmagier oder Zauberer ihn erlernen können (siehe Seite 9), wobei nicht jeder Zauberspruch allen drei Klassen zur Verfügung steht.
+Die Zugangsstufe eines Zaubers gibt an, ab welcher Stufe die einzelnen Zauberwirker Heiler, Schwarzmagier oder Zauberer ihn erlernen können (), wobei nicht jeder Zauberspruch allen drei Klassen zur Verfügung steht.
 
 Heldenklassen erhalten weiterhin Zugang zu den Zaubersprüchen ihrer ursprünglichen Grundklasse.
 

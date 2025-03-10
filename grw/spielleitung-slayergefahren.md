@@ -4,7 +4,7 @@ Neben Monstern bedrohen noch vielerlei andere Dinge einen Dungeonslayer:
 
 ### FALLEN
 
-In jeden richtigen Dungeon gehören - sinnvoll platziert - ein paar ordentliche Fallen, die es zu entdecken und zu entschärfen gilt (siehe Seite 89), will man ihrem “Angriff” entgehen.
+In jeden richtigen Dungeon gehören - sinnvoll platziert - ein paar ordentliche Fallen, die es zu entdecken und zu entschärfen gilt (siehe [Fallen entschärfen](spielleitung-erweiterte-proben.md#fallen-entschärfen-geige)), will man ihrem “Angriff” entgehen.
 
 Fallen haben einen Tarnwert (TW), in der Regel zwischen 0 und 8.
 
@@ -12,11 +12,11 @@ Fallen haben einen Tarnwert (TW), in der Regel zwischen 0 und 8.
 
 #### Fallgruben (TW: 0-8)
 
-Verursachen Sturzschaden (siehe Seite 85) und können zusätzlich noch mit Speeren gespickt sein (Schlagen = Sturztiefe x 3) oder Säure enthalten.
+Verursachen Sturzschaden (siehe [Sturzschaden](spielleitung-slayergefahren.md#sturzschaden)) und können zusätzlich noch mit Speeren gespickt sein (Schlagen = Sturztiefe x 3) oder Säure enthalten.
 
 #### Giftnadel (TW: 4-8)
 
-Diese Fallen sichern oftmals Truhen u.ä. und greifen mit Gift (siehe Seite 85) an.
+Diese Fallen sichern oftmals Truhen u.ä. und greifen mit Gift (siehe [Gift](spielleitung-slayergefahren.md#gift)) an.
 
 #### Herabstürzende Steine (TW: 0-8)
 
@@ -54,7 +54,7 @@ nichtmagisches Rüstungsteil des Ziels zerstört.
 
 ### ERTRINKEN
 
-Untergehende Charaktere (siehe Seite 93) können noch KÖR+HÄ Kampfrunden lang die Luft anhalten, während sie dabei mit 2m pro Runde zu Boden sinken.
+Untergehende Charaktere (siehe [Schwimmen](../spielleitung-erweiterte-proben.md#schwimmen-agibe)) können noch KÖR+HÄ Kampfrunden lang die Luft anhalten, während sie dabei mit 2m pro Runde zu Boden sinken.
 
 Nach Ablauf dieser Zeit müssen sie jede Kampfrunde KÖR+HÄ erfolgreich würfeln,
 sonst geht ihnen endgültig die Luft aus und sie ertrinken.

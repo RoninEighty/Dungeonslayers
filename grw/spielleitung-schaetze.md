@@ -4,7 +4,7 @@ Ohne ordentliche Schätze macht auch der einfallsreichste Dungeon nicht sonderli
 
 ### BEUTETABELLEN
 
-Um die Zusammenstellung gefundener Beute und Schätze schnell und einfach zu ermitteln, verwendet Dungeonslayers sogenannte Beutetabellen (siehe Seite 148): Feinde und Schätze haben immer einen **Beutewert (BW)**, der dem PW entspricht, mit dem man auf der Beutetabelle würfelt.
+Um die Zusammenstellung gefundener Beute und Schätze schnell und einfach zu ermitteln, verwendet Dungeonslayers sogenannte Beutetabellen (siehe [Anhang A: Beutetabellen](anhang-beutetabellen.md)): Feinde und Schätze haben immer einen **Beutewert (BW)**, der dem PW entspricht, mit dem man auf der Beutetabelle würfelt.
 
 **Beispiel**: _Die Angabe **BW 2C:10** bedeutet, dass **zweimal** auf **Beutetabelle C** (zivilisierte Humanoide in der Wildnis) eine Probe mit **Probenwert 10** gewürfelt wird (Immersiege gelten hier nicht). Bei einem Erfolg entspricht das Probenergebnis der Beutenummer auf der jeweiligen Tabelle._
 
@@ -159,7 +159,7 @@ Diese meist blutroten Tränke erhöhen die Lebenskraft um W20 für W20 Stunden.
 
 ##### Trank der Zwergensicht (15GM)
 
-Dieses meist schwarze Getränk gewährt für W20 Stunden dem Trinker die zwergische Volksfähigkeit Dunkelsicht (siehe Seite 83).
+Dieses meist schwarze Getränk gewährt für W20 Stunden dem Trinker die zwergische Volksfähigkeit Dunkelsicht (siehe [Dunkel- & Nachtsicht](spielleitung-dungeons.md#dunkel---nachtsicht)).
 
 ##### Unsichtbarkeitstrank (500GM)
 
@@ -481,7 +481,7 @@ Wird nach Abarbeitung der Zeit erfolgreich GEI+GE+Runenkunde gewürfelt, gelingt
 
 Zum Brauen magischer Tränke (außer Weihwasser, für dessen Herstellung ein Zauber existiert) benötigt ein Zauberwirker zunächst das Talent **Alchemie**.
 
-Desweiteren benötigt der Zauberwirker die nötigen Zutaten, welche die Hälfte des Tranks kosten (siehe Seite 96), der aus ihnen gebraut werden soll. Schließlich kann der Brauvorgang beginnen, der diverse Arbeitsschritte und Gärprozesse erfordert, die insgesamt
+Desweiteren benötigt der Zauberwirker die nötigen Zutaten, welche die Hälfte des Tranks kosten (siehe [Schwimmen](spielleitung-schaetze.md#tränke)), der aus ihnen gebraut werden soll. Schließlich kann der Brauvorgang beginnen, der diverse Arbeitsschritte und Gärprozesse erfordert, die insgesamt
 
     Goldpreis des Tranks
     -------------------------------- Tage
@@ -605,7 +605,7 @@ Die Anzahl der maximalen Ladungen des Gegenstandes kann dadurch nicht erhöht we
 
 #### D3. ZAUBERSTÄBE FERTIGEN
 
-Die Kosten für Zauberstäbe (siehe Seite 47) errechnen sich wie folgt:
+Die Kosten für Zauberstäbe (siehe [Zauberstäbe](regeln-magie.md#zauberstäbe)) errechnen sich wie folgt:
 
 | ZAUBERSTABKOSTEN            |
 | --------------------------- |

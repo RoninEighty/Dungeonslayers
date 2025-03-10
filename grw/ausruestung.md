@@ -117,7 +117,7 @@ Schlechte Warenqualität halbiert den Preis, während besonders gute Qualität i
 | Solide (SW: 4)                     |  K  | 10GM  |
 | Meisterarbeit (SW: 8)              |  K  | 50GM  |
 | Zwergenarbeit (SW: 12)             |  G  | 250GM |
-| SW = Schloss-Wert (siehe Seite 93) |     |       |
+| SW = Schloss-Wert (siehe [Schlösser öffnen](spielleitung-erweiterte-proben.md#schlösser-öffnen-geige)) |     |       |
 
 | MAGISCHE DIENSTE             |     PREIS      |
 | ---------------------------- | :------------: |

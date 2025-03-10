@@ -13,7 +13,7 @@ Im Kampf werden Proben überwiegend mittels der **Kampfwerte** gewürfelt, welch
 
 **Beispiel**: _Der Krieger Kalthor (**Schlagen** 15) greift mit seinem Bihänder einen Ork an und würfelt dafür einen W20. Bei einem Wurfergebnis von 1 bis 15 trifft Kalthor seinen Gegner._
 
-Desweiteren gewährt ein Großteil der **Talente** (siehe Seite 17) ebenfalls einen Bonus auf bestimmte Proben, sofern man sie beherrscht.
+Desweiteren gewährt ein Großteil der **[Talente](talente.md)** ebenfalls einen Bonus auf bestimmte Proben, sofern man sie beherrscht.
 
 **Beispiel**: _Der Späher Andur hält mit einer Bemerken-Probe (GEI+VE) Ausschau nach Feinden. Sein Talent Wahrnehmung II gewährt ihm pro Talentrang +2 auf den PW, insgesamt also +4._
 

@@ -19,7 +19,7 @@ Jede Kreatur wird bei Dungeonslayers einer Größenkategorie zugeordnet:
 | riesig (6m - 12m) |    Riese, Schlundwurm, Wal     |
 | gewaltig (12+ m)  |             Drache             |
 
-Zwar sind größere Monster leichter (+2) zu treffen als kleinere (siehe Seite 44), verfügen dafür aber auch über deutlich mehr Lebenskraft.
+Zwar sind größere Monster leichter (+2) zu treffen als kleinere (siehe [Position und Größe](regeln-kampfdetails.md#position-und-grösse)), verfügen dafür aber auch über deutlich mehr Lebenskraft.
 
 ### GEGNERHÄRTE
 

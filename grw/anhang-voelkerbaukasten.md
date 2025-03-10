@@ -4,7 +4,7 @@ Wem die drei Völker der Elfen, Menschen und Zwerge für sein Setting nicht reic
 
 ## 1. DER VOLKSBONUS
 
-Genau wie Elfen, Menschen und Zwerge verfügt auch jedes andere Volk über einen Volksbonus (siehe Seite 4) von +1 auf eine Eigenschaft.
+Genau wie Elfen, Menschen und Zwerge verfügt auch jedes andere Volk über einen Volksbonus (siehe [Volks & Klassenbonus](charaktere-charaktererschaffung.md#5-volks---klassenbonus)) von +1 auf eine Eigenschaft.
 
 Wie viel Eigenschaften dafür zur Wahl stehen und welche dies sind, wird anhand der Volksbeschreibung festgelegt.
 
@@ -24,7 +24,7 @@ Mitglieder dieses Volkes wirken arrogant und nehmen nur ungern Hilfe von anderen
 
 #### DUNKELSICHT +1VP
 
-Mitglieder dieses Volkes erhalten die Volksfähigkeit Dunkelsicht (siehe Seite 83).
+Mitglieder dieses Volkes erhalten die Volksfähigkeit Dunkelsicht (siehe [Dunkel- & Nachtsicht](spielleitung-dungeons.md#dunkel---nachtsicht)).
 
 #### EINÄUGIG -1VP
 
@@ -44,11 +44,11 @@ Immer wenn ein Mitglied dieses Volkes etwas Wertvolles bemerkt, muss es GEI+VE+4
 
 #### GROSS +4VP
 
-Lebenskraft x 2, aber auch leichter zu treffen (siehe Seite 44).
+Lebenskraft x 2, aber auch leichter zu treffen (siehe [Position und Größe](regeln-kampfdetails.md#position-und-grösse)).
 
 #### KLEIN -4VP
 
-Lebenskraft halbiert, aber auch schwerer zu treffen (siehe Seite 44). Waffen sind zu groß, ein Kurzschwert wird zur Zweihandwaffe.
+Lebenskraft halbiert, aber auch schwerer zu treffen (siehe [Position und Größe](regeln-kampfdetails.md#position-und-grösse)). Waffen sind zu groß, ein Kurzschwert wird zur Zweihandwaffe.
 
 #### LANGLEBIG +0VP
 
@@ -80,7 +80,7 @@ Mitglieder dieses Volkes können überhaupt nicht zaubern.
 
 #### NACHTSICHT +1VP
 
-Mitglieder dieses Volkes erhalten die Volksfähigkeit Nachtsicht (siehe Seite 83).
+Mitglieder dieses Volkes erhalten die Volksfähigkeit Nachtsicht (siehe [Dunkel- & Nachtsicht](spielleitung-dungeons.md#dunkel---nachtsicht)).
 
 #### SCHNELL\* +1VP
 

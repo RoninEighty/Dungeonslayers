@@ -32,7 +32,7 @@ Die zähen, oftmals grummeligen Bartträger bevorzugen ein Kriegerleben, eignen 
 
 **Volksfähigkeiten**: Dunkelsicht, Langlebig (verlangsamtes Altern, sobald erwachsen), Zäh (Abwehr +1)
 
-Elfen und Zwerge notieren ihre jeweiligen Volksfähigkeiten, Menschen erhalten stattdessen ihren ersten Talentpunkt (siehe Seite 9). Der Volksbonus wird für die spätere Attributsverteilung benötigt.
+Elfen und Zwerge notieren ihre jeweiligen Volksfähigkeiten, Menschen erhalten stattdessen ihren ersten Talentpunkt (siehe [Talentpunkte](charaktere-erfahrung.md#talentpunkte)). Der Volksbonus wird für die spätere Attributsverteilung benötigt.
 
 | VOLK   | VOLKSFÄHIGKEITEN                     |
 | ------ | ------------------------------------ |
@@ -156,7 +156,7 @@ _Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du 
 
 ### 9. TALENT WÄHLEN
 
-Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit also schon über 2TP. TP werden gespart oder in [Talente](talente.md) (siehe Seite 17) investiert, sofern der Charaktere die jeweiligen Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt. Jedes der [Talente](talente.md) kostet 1TP.
+Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit also schon über 2TP. TP werden gespart oder in [Talente](talente.md) investiert, sofern der Charaktere die jeweiligen Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt. Jedes der [Talente](talente.md) kostet 1TP.
 
 **Beispiel**: Für einen Talentpunkt erwirbt unser Elfenzauberer das Talent [Bildung](talente/bildung.md), das jeder Charakter ab der 1. Stufe erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig, was noch fehlt, ist etwas Persönlichkeit.
 
@@ -220,7 +220,7 @@ Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit a
 
 Zu guter Letzt muss das Geschlecht bestimmt und ein Name für den Charakter gefunden werden.
 
-Jeder Charakter beherrscht seine Muttersprache und erhält einen weiteren Punkt für eine Sprache oder Schriftzeichen, wobei man die Gemeinsprache des Settings nicht vergessen sollte.Charaktere mit GEI 6+ beherrschen automatisch die Schriftzeichen aller Sprachen, die sie zu Beginn sprechen können (siehe Seite 88).
+Jeder Charakter beherrscht seine Muttersprache und erhält einen weiteren Punkt für eine Sprache oder Schriftzeichen, wobei man die Gemeinsprache des Settings nicht vergessen sollte.Charaktere mit GEI 6+ beherrschen automatisch die Schriftzeichen aller Sprachen, die sie zu Beginn sprechen können (siehe [Sprachen & Schriftzeichen](spielleitung-sprachen-ep-vergabe.md#sprachen--schriftzeichen)).
 
 Abschließend wird notiert, dass der Charakter in der ersten Stufe ist, über Null Erfahrungspunkte (EP) und Lernpunkte (LP) verfügt und wieviel Talentpunkte (TP) er derzeit noch besitzt.
 

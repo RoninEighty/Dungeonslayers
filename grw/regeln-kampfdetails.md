@@ -53,7 +53,7 @@ Wer mit zwei Einhandwaffen gleichzeitig angreift, würfelt für jede Waffe einen
 
 ### POSITION UND GRÖSSE
 
-Von oben auf Feinde zu schießen oder dem Gegner in den Rücken zu fallen, hat seine Vorteile, während man am Boden liegend eher schlechte Karten hat. Jedes Wesen ist zudem einer Größenkategorie (siehe Seite 104) zugeordnet, beispielsweise gelten die Spielervölker alle als normal groß. Bei Gegnern unterschiedlicher Größe wirken ebenfalls Modifikatoren.
+Von oben auf Feinde zu schießen oder dem Gegner in den Rücken zu fallen, hat seine Vorteile, während man am Boden liegend eher schlechte Karten hat. Jedes Wesen ist zudem einer Größenkategorie (siehe [Größenkategorien](bestiarium.md#grössenkategorien)) zugeordnet, beispielsweise gelten die Spielervölker alle als normal groß. Bei Gegnern unterschiedlicher Größe wirken ebenfalls Modifikatoren.
 
 | POSITION / GRÖSSE         | MODIFIKATOREN         |
 | ------------------------- | --------------------- |
@@ -77,7 +77,7 @@ Wer einfach blindlings in solch eine Menge schießt, erhält pro Individuum in d
 
 Pro Hindernis (Bäume, Gegner, Kameraden oder Wandstücke), an dem man vorbei schießt, um ein Ziel zu treffen (und pro Kameraden mit dem Ziel im Nakampf), wird Schießen bzw. Zielzauber um -1 gesenkt.
 
-![Vorbei an Hindernissen schiessen](vorbei-an-hindernissen-schiessen.png)
+![Vorbei an Hindernissen schiessen](images/vorbei-an-hindernissen-schiessen.png)
 
 Mißerfolge sind lediglich Fehlschüsse, nur bei einem Patzer wird eines der Hindernisse getroffen. Dieses wird zufällig ermittelt und ein individueller Angriff neu gewürfelt, bei dem Patzer ausgeschlossen sind.
 
@@ -98,7 +98,7 @@ Bei einem erfolgreichen Nahkampfangriff kann man seinen Gegner (sofern gleiche o
 
 **Hinweis**: _Durch Slayende Würfel werden Kämpfe weitaus unberechenbarer und tödlicher. Es wird empfohlen, sie nicht ohne die optionalen Slayerpunkte zu verwenden. Im Gegensatz zu den Slayerpunkten haben auf Slayende Würfel auch NSC ein Anrecht._
 
-Wird bei einem Angriff ein Immersieg gewürfelt (bei Werten über 20 gilt dies nur bei einem Immersieg des ersten Würfels - siehe Seite 39), führt der Angreifer augenblicklich einen zweiten Angriffswurf aus (Patzer sind hierbei ausgeschlossen).
+Wird bei einem Angriff ein Immersieg gewürfelt (bei Werten über 20 gilt dies nur bei einem Immersieg des ersten Würfels - siehe [Immersiege und Patzer](regeln-proben.md#immersiege-und-patzer)), führt der Angreifer augenblicklich einen zweiten Angriffswurf aus (Patzer sind hierbei ausgeschlossen).
 
 Ist dieser zweite Angriff erfolgreich, wird sein Schadenswert zum Ergebnis des ersten Wurfes hinzuaddiert. Wird dabei wieder eine Immersieg gewürfelt, wird die Prozedur wiederholt.
 Slayende Würfel gelten umgekehrt auch bei Abwehr-Proben, sofern auch hier ein Immersieg erzielt wird.

@@ -16,7 +16,7 @@ Autor:        Zauberlehrling
   - SPÄ 1 (III)
   - ZAW 1 (III)
 
-Der Charakter kann schwimmen (siehe Seite 93) und erhält pro Talentrang auf alle diesbezüglichen Proben +3.
+Der Charakter kann schwimmen (siehe [Schwimmen](../spielleitung-erweiterte-proben.md#schwimmen-agibe)) und erhält pro Talentrang auf alle diesbezüglichen Proben +3.
 
 ---
 
