@@ -1,4 +1,4 @@
-# ABENTEUER
+# Abenteuer
 
 Die hier vorgestellten drei Abenteuer sind alle an jeweils einem Spielabend gut zu schaffen. Neben dem für das neue Dungeonslayers überarbeiteten “[Herr der Ratten](abenteuer-herr-der-ratten.md)” gibt es auch ein rollenspiellastigeres [Reiseabenteuer](abenteuer-reise-des-verrats.md) und abschließend die äußerst tödliche “[Festung des Unheils](abenteuer-festung-des-unheils.md)”.
 

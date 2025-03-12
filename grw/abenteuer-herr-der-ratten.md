@@ -1,4 +1,4 @@
-# ABENTEUER 1: HERR DER RATTEN
+## Abenteuer 1: Herr der Ratten
 
 **für 2+ Charaktere der 1. Stufe**
 
@@ -119,9 +119,13 @@ Wird der Steinaltar mit entsprechendem Werkzeug zertrümmert (LK 20; Abwehr:
 |        |     |          |     |            |     |
 | GH     |  6  | GK       | no  | EP         | 107 |
 
-**Bewaffnung**: Spinnenbiss (WB+1; GA-1), Netzflüssigkeit (WB+1)
+|                    Bewaffnung                    |
+| :----------------------------------------------: |
+| Spinnenbiss (WB+1; GA-1), Netzflüssigkeit (WB+1) |
 
-**Panzerung**: Dicke Spinnenhaut (PA+1)
+|        Panzerung         |
+| :----------------------: |
+| Dicke Spinnenhaut (PA+1) |
 
 **Kletterläufer**: Kann mit normaler Laufen-Geschwindigkeit an Wänden und Decken aktionsfrei klettern. Kann auf Gegner herabfallen, wobei Schlagen um KÖR erhöht wird.
 
@@ -129,7 +133,7 @@ Wird der Steinaltar mit entsprechendem Werkzeug zertrümmert (LK 20; Abwehr:
 
 **Natürliche Waffen**: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-**Gruppe**: Tiere 
+**Gruppe**: Tiere
 
 **Beute**: Trophäe (BW 1A:10)
 
