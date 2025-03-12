@@ -1,5 +1,7 @@
 ### Erwachsener Drache
 
+  Magische Wesen, Anführer, Mensch Krieger 10
+
 | KÖR    | 124  | AGI      | 16  | GEI        | 10  |
 | :----- | :--: | :------- | :-: | :--------- | :-: |
 | ST     |  6   | BE       |  4  | VE         |  2  |
