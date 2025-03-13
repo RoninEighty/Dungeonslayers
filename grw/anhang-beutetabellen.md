@@ -7,7 +7,7 @@ Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtl
 Autor:        Zauberlehrling
 -->
 
-## Anhang A : Beutetabellen
+# Anhang A : Beutetabellen
 
 In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 
@@ -186,7 +186,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 1-5  | Fernkampfwaffe (WF) |
 | 6-20 | Nahkampfwaffe (WN)  |
 
-#### Beutetabelle WF
+### Beutetabelle WF
 
 | W20   | WF: Fernkampfwaffe   |
 | ----- | -------------------- |
@@ -205,14 +205,14 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 
 ²: zerbricht nicht bei einem Patzer
 
-#### Beutetabelle WN
+### Beutetabelle WN
 
 | W20   | NAHKAMPFWAFFENART |
 | ----- | ----------------- |
 | 1-12  | mit Klinge (WN1)  |
 | 13-20 | ohne Klinge (WN2) |
 
-##### Beutetabelle WN1
+### Beutetabelle WN1
 
 | W20   | WN1: MIT KLINGE |
 | ----- | --------------- |
@@ -226,7 +226,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 18-19 | Streitaxt       |
 | 20    | Zwergenaxt      |
 
-##### Beutetabelle WN2
+### Beutetabelle WN2
 
 | W20   | WN2: OHNE KLINGE |
 | ----- | ---------------- |
@@ -253,7 +253,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 14-17 | Kettenpanzer        |
 | 18-20 | Plattenpanzer       |
 
-#### Beutetabelle ER: Ergänzende Rüstungen
+### Beutetabelle ER: Ergänzende Rüstungen
 
 | W20   | ERGÄNZENDE RÜSTUNG                            |
 | ----- | --------------------------------------------- |
@@ -265,7 +265,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 17-19 | Metallschild                                  |
 | 20    | Turmschild                                    |
 
-### Magische Waffen & Rüstungen
+## Magische Waffen & Rüstungen
 
 Nachdem ermittelt wurde, um was für eine Waffe bzw. Rüstung es sich handelt, werden auf Beutetabelle E der Bonus und sonstige Effekte nacheinander ausgewürfelt.
 
@@ -280,13 +280,13 @@ Nachdem ermittelt wurde, um was für eine Waffe bzw. Rüstung es sich handelt, w
 
 **Benutzung von Beutetabelle E:** Bei Waffen und Rüstungen erfolgen einzelne Würfe, um den Bonus und sonstige Effekte zu ermitteln. Alle anderen Gegenstände verfügen automatisch über 1 Effekt, zusätzlich wird auf "Sonstige Effekte" gewürfelt, nicht aber für den Bonus auf WB/PA.
 
-#### Art des Effekts I
+### Art des Effekts I
 
 Tabellen EA, EB+ & ET
 
 Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die wenig Sinn machen (beispielsweise ein +1 Bihänder mit dem Talent Waffenloser Meister +II). In solchen Fällen kann (SL Entscheidung) der unpassende Effekt neu ermittelt werden.
 
-##### Beutetabelle EA: Freiaktionen
+### Beutetabelle EA: Freiaktionen
 
 | W20   | AKTIONSFREI      |
 | ----- | ---------------- |
@@ -305,7 +305,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 
 ²: Nur W20Rd./Kampf
 
-##### Beutetabelle ET: Talent
+### Beutetabelle ET: Talent
 
 | W20   | TALENTRANG¹          |
 | ----- | -------------------- |
@@ -316,7 +316,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 
 ¹: Ein Talenteffekt kann nicht einen höheren Rang haben, als der höchstmögliche Rang, den eine Charakterklasse in diesem Talent erlangen kann.
 
-##### Beutetabelle EB: Bonus (2 Würfe)
+### Beutetabelle EB: Bonus (2 Würfe)
 
 |            |                      | BONUSHÖHE | (2. W20) |          |
 | ---------- | -------------------- | --------- | -------- | -------- |
@@ -328,7 +328,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 | 18-19      | Eigenschaft (EB4)    | 1-10      | 11-17    | 18-20    |
 | 20         | Attribut (EB5)       | 1-10      | 11-17    | 18-20    |
 
-###### Beutetabelle EB1: Einzelne Probe
+### Beutetabelle EB1: Einzelne Probe
 
 | 2W20  | EB1: EINZELNE PROBE |
 | ----- | ------------------- |
@@ -351,7 +351,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 | 39    | Schätzen            |
 | 40    | Gift trotzen        |
 
-###### Beutetabelle EB2: Zaubergruppe
+### Beutetabelle EB2: Zaubergruppe
 
 | W20   | EB2: ZAUBERGRUPPE           |
 | ----- | --------------------------- |
@@ -366,7 +366,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 | 16-17 | Schattenzauber              |
 | 18-20 | Schutzzauber                |
 
-###### Beutetabelle EB3: Kampfwert
+### Beutetabelle EB3: Kampfwert
 
 | W20   | EB3: KAMPFWERT |
 | ----- | -------------- |
@@ -380,7 +380,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 
 ¹: Bei Laufen entspricht ein +1 Bonus 0,5m.
 
-###### Beutetabellen EB4: Eigenschaft
+### Beutetabellen EB4: Eigenschaft
 
 | W20   | EB4: EIGENSCHAFT |
 | ----- | ---------------- |
@@ -391,7 +391,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 | 14-17 | Verstand         |
 | 18-20 | Aura             |
 
-###### Beutetabelle EB5: Attribut
+### Beutetabelle EB5: Attribut
 
 | W20   | EB5: ATTRIBUT |
 | ----- | ------------- |
@@ -399,11 +399,11 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 | 8-13  | Agilität      |
 | 14-20 | Geist         |
 
-#### Art des Effekts II
+### Art des Effekts II
 
 Tabellen EZ, ET1
 
-##### Beutetabelle EZ: Zaubereffekt
+### Beutetabelle EZ: Zaubereffekt
 
 | W20   | EZ: ZAUBEREFFEKT                                   |
 | ----- | -------------------------------------------------- |
@@ -414,7 +414,7 @@ Tabellen EZ, ET1
 | 19    | Abklingzeit aller Trägerzauber verkürzt (EZ1)      |
 | 20    | Abklingzeit ignorieren (EZ2 & Z)                   |
 
-###### Beutetabelle EZ1 & EZ2: Abklingzeit des Zaubereffekts
+### Beutetabelle EZ1 & EZ2: Abklingzeit des Zaubereffekts
 
 | W20   | EZ1: VERKÜRZT | W20 EZ2: IGNORIEREN |
 | ----- | ------------- | ------------------- |
@@ -424,7 +424,7 @@ Tabellen EZ, ET1
 | 18-19 | 4 Kampfrunden | 20 Permanent        |
 | 20    | 5 Kampfrunden |                     |
 
-##### Beutetabelle ET1: Talent
+### Beutetabelle ET1: Talent
 
 | 4W20 | ET1: TALENT         |
 | ---- | ------------------- |
@@ -514,7 +514,7 @@ Tabellen EZ, ET1
 | 15-18 | sehr selten (Z3)    |
 | 19-20 | äußerst selten (Z4) |
 
-#### Beutetabelle Z1: Gebräuchliche Zauber
+### Beutetabelle Z1: Gebräuchliche Zauber
 
 | 2W20  | GEBR. ZAUBER     |
 | ----- | ---------------- |
@@ -542,7 +542,7 @@ Tabellen EZ, ET1
 | 39    | Magische Rüstung |
 | 40    | Tarnender Nebel  |
 
-#### Beutetabelle Z2: Seltene Zauber
+### Beutetabelle Z2: Seltene Zauber
 
 | W20 | SELTENE ZAUBER    |
 | --- | ----------------- |
@@ -567,7 +567,7 @@ Tabellen EZ, ET1
 | 19  | Waffe des Lichts  |
 | 20  | Wasserwandeln     |
 
-#### Beutetabelle Z3: Sehr seltene Zauber
+### Beutetabelle Z3: Sehr seltene Zauber
 
 | 2W20 | SEHR SELTENE ZAUBER  |
 | ---- | -------------------- |
@@ -611,7 +611,7 @@ Tabellen EZ, ET1
 | 39   | Freund               |
 | 40   | Durchlässig          |
 
-#### Beutetabelle Z4: Äusserst seltene Zauber
+### Beutetabelle Z4: Äusserst seltene Zauber
 
 | 2W20 | ÄUSSERST SELTENE ZAUBER |
 | ---- | ----------------------- |
