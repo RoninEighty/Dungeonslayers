@@ -2,13 +2,13 @@
 
 [Kleriker](charaktere-heldenklassen-kleriker.md) heilen im Namen ihree Gottheit, helfen aber auch in Wehr und Waffen.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Heiler](charaktere-klasse-heiler.md) der Stufe 10+
 
 Ordensmitgliedschaft
 
-### TALENTE
+### Talente
 
 | TALENTE                                                             |
 | ------------------------------------------------------------------- |

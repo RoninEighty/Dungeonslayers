@@ -263,7 +263,7 @@ Dieses Langschwert +1 mit Flammenklinge kam schon in vielen Kriegen zum Einsatz.
 
 Ein schwerer, schlichter Streithammer +3, der einst einem Zwergenhelden gehörte.
 
-#### BEISPIELE MAGISCHER RÜSTUNGEN
+#### Beispiele magischer Rüstungen
 
 ##### Bärenpanzer
 
@@ -491,7 +491,7 @@ andauern. Der Charakter benötigt für die gesamte Zeit Zugang zu einem Labor (e
 
 Wird nach Ablauf der Zeit erfolgreich GEI+VE+Alchemie gewürfelt, gelingt der Brauvorgang.
 
-### GEGENSTÄNDE HERSTELLEN
+### Gegenstände herstellen
 
 Um magische Gegenstände wie flammende Schwerter, verzauberte Rüstungen oder Fliegenringe herzustellen, benötigt ein Zauberwirker zunächst das Talent **Einbetten**.
 

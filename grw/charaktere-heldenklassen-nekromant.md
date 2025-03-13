@@ -2,11 +2,11 @@
 
 Spezialisiert auf das Erwecken und [Kontrollieren](zauber/kontrollieren.md) von Untoten.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Schwarzmagier](charaktere-klasse-schwarzmagier.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                       |
 | ------------------------------------------------------------- |

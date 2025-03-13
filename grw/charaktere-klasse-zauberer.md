@@ -2,27 +2,27 @@
 
 Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtgetümmel aber besser hinten aufhalten. [Zauberer](charaktere-klasse-zauberer.md) nutzen defensive und offensive Zauber.
 
-### KLASSENBONUS
+### Klassenbonus
 
 VE oder AU +1
 
-### EIGENSCHAFTSHÖCHSTWERTE
+### Eigenschaftshöchstwerte
 
 VE oder AU +1
 
-### RÜSTUNG
+### Rüstung
 
 | STOFF | LEDER | KETTE | PLATTE | HELME | SCHIENEN | SCHILDE |
 | :---: | :---: | :---: | :----: | :---: | :------: | :-----: |
 |  Ja   | Nein  | Nein  |  Nein  | Nein  |   Nein   |  Alle   |
 
-### LP-KOSTEN FÜR STEIGERUNGEN
+### LP-Kosten für Steigerungen
 
 | ST  | HÄ  | GE  | BE  | VE  | AU  | LK  | TP  | Sprache/Schrift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-------------: |
 |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  3  |        1        |
 
-### TALENTE
+### Talente
 
 | TALENTE                                                           |
 | ----------------------------------------------------------------- |

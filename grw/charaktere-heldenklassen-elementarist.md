@@ -2,11 +2,11 @@
 
 Diese [Zauberer](charaktere-klasse-zauberer.md) haben sich auf die Beherrschung der Elemente und das Herbeirufen von Elementaren spezialisiert.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Zauberer](charaktere-klasse-zauberer.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                                        |
 | ------------------------------------------------------------------------------ |

@@ -2,11 +2,11 @@
 
 Mit Schwert und Magie begeben sich die [Kriegszauberer](charaktere-heldenklassen-kriegszauberer.md) in die Schlacht.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Zauberer](charaktere-klasse-zauberer.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                          |
 | ---------------------------------------------------------------- |

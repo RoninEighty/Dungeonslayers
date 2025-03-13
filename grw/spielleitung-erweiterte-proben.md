@@ -198,7 +198,7 @@ Geschlichen wird immer mit halbierten Laufen-Wert. Es handelt sich um eine vergl
 
 Elfen erhalten auf Grund ihrer Volksfähigkeit **Leichtfüßig** einen Bonus von +2 auf Schleichen-Proben.
 
-### SChlösser öffnen (GEI+GE)
+### Schlösser öffnen (GEI+GE)
 
 **Nutzbare Talente**: Diebeskunst, Schlossknacker
 

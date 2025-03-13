@@ -2,11 +2,11 @@
 
 [Blutmagier](charaktere-heldenklassen-blutmagier.md) können ihre Magie mit der Kraft des eigenen Blutes verstärken, der Preis dafür sind schmerzhafte, innere Verletzungen die an ihrer Lebenskraft zehren.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Schwarzmagier](charaktere-klasse-schwarzmagier.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                            |
 | ------------------------------------------------------------------ |

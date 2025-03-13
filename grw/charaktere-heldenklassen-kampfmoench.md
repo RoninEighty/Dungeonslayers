@@ -2,13 +2,13 @@
 
 Mönche stählen ihren Geist durch Meditation und ihren Körper im waffenlosen Kampf.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Heiler](charaktere-klasse-heiler.md) der Stufe 10+
 
 Ordensmitgliedschaft
 
-### TALENTE
+### Talente
 
 | TALENTE                                                             |
 | ------------------------------------------------------------------- |

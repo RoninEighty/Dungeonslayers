@@ -2,27 +2,27 @@
 
 Schnelligkeit und Heimlichkeit sind die Gebiete des Spähers. Bevorzugt wird der Kampf aus der Entfernung und Bogen oder Armbrust sind unentbehrliche Begleiter.
 
-### KLASSENBONUS
+### Klassenbonus
 
 BE oder GE +1
 
-### EIGENSCHAFTSHÖCHSTWERTE
+### Eigenschaftshöchstwerte
 
 BE oder GE +1
 
-### RÜSTUNG
+### Rüstung
 
 | STOFF | LEDER | KETTE | PLATTE | HELME | SCHIENEN | SCHILDE |
 | :---: | :---: | :---: | :----: | :---: | :------: | :-----: |
 |  Ja   |  Ja   |  Ja   |  Nein  |  Ja   |   Alle   |  Alle   |
 
-### LP-KOSTEN FÜR STEIGERUNGEN
+### LP-Kosten für Steigerungen
 
 | ST  | HÄ  | GE  | BE  | VE  | AU  | LK  | TP  | Sprache/Schrift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-------------: |
 |  3  |  3  |  2  |  2  |  3  |  3  |  1  |  3  |        1        |
 
-### TALENTE
+### Talente
 
 | TALENTE                                                                                  |
 | ---------------------------------------------------------------------------------------- |

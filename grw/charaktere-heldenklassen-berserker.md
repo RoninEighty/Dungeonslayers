@@ -2,11 +2,11 @@
 
 Die rohen [Berserker](charaktere-heldenklassen-berserker.md) steigern sich in eine Kampfeswut, können gut einstecken und richten unter ihren Feinden verheerenden Schaden an.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Krieger](charaktere-klasse-krieger.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                              |
 | -------------------------------------------------------------------- |

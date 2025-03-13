@@ -2,11 +2,11 @@
 
 Druiden sind Bewahrer der Natur, die sich mit Tieren verständigen oder sogar deren Gestalt annehmen können.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Heiler](charaktere-klasse-heiler.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                        |
 | -------------------------------------------------------------- |

@@ -2,11 +2,11 @@
 
 [Erzmagier](charaktere-heldenklassen-erzmagier.md) verfügen über umfangreiches magisches Wissen und ihr Können umfaßt eine breite Palette an arkanen Fähigkeiten.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Zauberer](charaktere-klasse-zauberer.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                          |
 | ---------------------------------------------------------------- |

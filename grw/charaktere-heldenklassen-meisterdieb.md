@@ -2,11 +2,11 @@
 
 Wahre Meister im Schlösser knacken, Bestehlen und die Flucht ergreifen.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Späher](charaktere-klasse-spaeher.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                         |
 | --------------------------------------------------------------- |

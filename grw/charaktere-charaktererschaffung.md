@@ -58,7 +58,7 @@ Schnelligkeit und Heimlichkeit sind die Gebiete des Spähers. Bevorzugt wird der
 
 **Klassenbonus**: BE oder GE
 
-#### ZAUBERWIRKER
+#### Zauberwirker
 
 Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtgetümmel aber besser hinten aufhalten.
 

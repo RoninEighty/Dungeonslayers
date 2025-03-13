@@ -2,11 +2,11 @@
 
 [Waldläufer](charaktere-heldenklassen-waldlaeufer.md) sind Kundschafter, die das Leben in der Wildnis bevorzugen und ausgezeichnete Bogenschützen abgeben.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Späher](charaktere-klasse-spaeher.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                             |
 | --------------------------------------------------- |

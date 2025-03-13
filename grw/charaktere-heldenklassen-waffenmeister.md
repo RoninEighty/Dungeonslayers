@@ -2,11 +2,11 @@
 
 [Waffenmeister](charaktere-heldenklassen-waffenmeister.md) setzen auf Schnelligkeit und fatale Treffer mit ihren zahlreichen Waffen.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Krieger](charaktere-klasse-krieger.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                |
 | ------------------------------------------------------ |

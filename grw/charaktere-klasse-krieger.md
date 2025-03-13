@@ -2,27 +2,27 @@
 
 [Krieger](charaktere-klasse-krieger.md) sind die Charaktere fürs Grobe. Im Nahkampf meist ganz weit vorne zu finden und gut am schweren Rüstzeug und der Anzahl an brutalen Waffen zu erkennen.
 
-### KLASSENBONUS
+### Klassenbonus
 
 ST oder HÄ +1
 
-### EIGENSCHAFTSHÖCHSTWERTE
+### Eigenschaftshöchstwerte
 
 ST oder HÄ +1
 
-### RÜSTUNG
+### Rüstung
 
 | STOFF | LEDER | KETTE | PLATTE | HELME | SCHIENEN | SCHILDE |
 | :---: | :---: | :---: | :----: | :---: | :------: | :-----: |
 |  Ja   |  Ja   |  Ja   |   Ja   |  Ja   |   Alle   |  Alle   |
 
-### LP-KOSTEN FÜR STEIGERUNGEN
+### LP-Kosten für Steigerungen
 
 | ST  | HÄ  | GE  | BE  | VE  | AU  | LK  | TP  | Sprache/Schrift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-------------: |
 |  2  |  2  |  3  |  3  |  3  |  3  |  1  |  3  |        1        |
 
-### TALENTE
+### Talente
 
 | TALENTE                                                                                  |
 | ---------------------------------------------------------------------------------------- |

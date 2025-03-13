@@ -2,11 +2,11 @@
 
 Dämonologen spezialisieren sich auf das Beschwören und [Kontrollieren](zauber/kontrollieren.md) von mächtigen Dämonen.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Schwarzmagier](charaktere-klasse-schwarzmagier.md) der Stufe 10+
 
-### TALENTE
+### Talente
 
 | TALENTE                                                                      |
 | ---------------------------------------------------------------------------- |

@@ -2,17 +2,17 @@
 
 Paladine dienen einem heiligen Orden, können aber die Vorzüge ihrer Heldenklasse verlieren, sollten sie gegen den Willen ihrer Gottheit handeln.
 
-### VORAUSSETZUNGEN
+### Voraussetzungen
 
 [Krieger](charaktere-klasse-krieger.md) der Stufe 10+
 
 Ordensmitgliedschaft
 
-### ZAUBERZUGANG
+### Zauberzugang
 
 Paladine können Heilersprüche wirken. Die Spruchzugangsstufen entsprechen denen des Heilers +9 (beispielsweise [Heilende Hand](zauber/heilende-hand.md) ab Stufe 10, [Wiederbelebung](zauber/wiederbelebung.md) ab 19).
 
-### TALENTE
+### Talente
 
 | TALENTE                                                             |
 | ------------------------------------------------------------------- |

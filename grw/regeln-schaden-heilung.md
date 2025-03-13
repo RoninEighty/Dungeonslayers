@@ -9,7 +9,7 @@ Charaktere, deren Lebenskraft auf Null oder niedriger sinkt, werden bewusstlos u
 
 **Beispiel**: _Ein Orkhäuptling verpasst Laros (28 LK) 30 Schaden, der Söldner verpatzt seine Abwehr und geht mit -2 LK bewusstlos zu Boden._
 
-### TOD
+### Tod
 
 Ist die verlorene Lebenskraft unter Null größer als das Attribut Körper (also -9 LK bei KÖR 8), ist der Charakter tot.
 
