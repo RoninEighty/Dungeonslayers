@@ -27,27 +27,27 @@ Die folgende Tabelle listet auf, wie weit eine Reisegruppe durchschnittlich in 1
 | Segelboot    | 100 | (W20-10) x 15% |
 | Kriegsschiff | 130 | (W20-5) x 15%  |
 
-### TRANSPORT
+### Transport
 
 Fahrzeuge und Schiffe haben eigenständige Geschwindigkeiten. Karren, Wagen, Kutschen und andere Landfahrzeuge bewegen sich auf offener Ebene ohne Straße nur mit halbierter Geschwindigkeit voran, auf unwegsamerem Gelände können sie (bis auf Karren) überhaupt nicht fahren. Auf offener See beeinträchtigt das Wetter mit Flauten und Winden die Geschwindigkeit.
 
-### REISEN ZU PFERD
+### Reisen zu Pferd
 
 Charaktere, die das Talent **Reiten** nicht beherrschen, können sich nur in der Geschwindigkeit **Schritt** (= Laufen x 1) ohne Probleme fortbewegen. Während dauerhaftes Galopp ihnen überhaupt nicht möglich ist, können sie mit einer ReitenProbe pro Stunde versuchen zu traben.
 
 Hat ein Charakter das Talent **Reiten** erlernt, kann er mit seinem Pferd problemlos im **Trab** (=Laufen x 1,5) reiten und sogar für eine Anzahl von Stunden gleich dem halbierten KÖR-Wert des Reittieres **galoppieren** (Laufen x 2). Auf unwegsamem Gelände wird diese Zeit halbiert, während in schwierigen Gelände ein Galopp überhaupt nicht möglich ist. Wird ein Reittier über die erlaubte Zeit hinaus zum Galopp angetrieben, würfelt es pro Viertelstunde KÖR+HÄ, um nicht vor Erschöpfung zu verenden.
 
-### REISETEMPO (OPTIONAL)
+### Reisetempo (OPTIONAL)
 
 Wer es genauer mag oder bei Verfolgung oder unter Zeitdruck die Reisegeschwindigkeit ganz genau wissen muss, verwendet die folgenden, detaillierteren Regeln:
 
-### GELÄNDE
+### Gelände
 
 Wer nicht auf **offener Ebene oder einer Straße** reist, sondern bewaldetes oder hügeliges Gebiet durchquert, befindet sich auf **unwegsamen Gelände**.
 
 Bei **schwierigem Gelände** handelt es sich dagegen um bewaldete Hügel, tückische Sümpfe oder schroffe Gebirgslandschaften.
 
-### SCHWER BELADENE CHARAKTERE
+### Schwer beladene Charaktere
 
 Während man im Kampf Ranzen und Gepäck schnell fallen lassen kann, wirkt sich die Traglast auf die Reisegeschwindigkeit aus.
 
@@ -55,7 +55,7 @@ Bei Charakteren, die schwer beladen sind (sei es, weil sie mit Schatztruhen, ges
 
 Reittiere mit mehr als einem (ausgerüsteten) Reiter gelten ebenfalls als schwer beladen
 
-### TATSÄCHLICHES REISETEMPO
+### Tatsächliches Reisetempo
 
 Die folgende Tabelle verrät, wieviel **Kilometer in einer Stunde**, abhängig vom Gelände, zurückgelegt werden.
 
@@ -84,7 +84,7 @@ Berittene Charaktere verwenden immer den Laufen-Wert ihres Reittieres.
 |  9,5m  | 10,3km / h | 6,8km / h | 3,4km / h |
 |  10m   | 10,8km / h | 7,2km / h | 3,6km / h |
 
-### EILMÄRSCHE
+### Eilmärsche
 
 Wer es besonders eilig hat, versucht sich so oft wie möglich im Dauerlauf fortzubewegen.
 
@@ -92,7 +92,7 @@ Dadurch kann man täglich für maximal eine Anzahl von Stunden gleich dem halbie
 
 Allerdings wird anschliessend für jede Stunde, die man geeilt ist, die sonstige Reisegeschwindigkeit für eine halbe Stunde halbiert.
 
-### GEWALTMÄRSCHE
+### Gewaltmärsche
 
 Eine typische Reisegruppe reist im Durchschnitt 12 Stunden pro Tag, in denen insgesamt 2 Stunden gerastet wird (also 10 Stunden reine Reisezeit täglich).
 

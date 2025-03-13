@@ -4,13 +4,13 @@ Bei Dungeonslayers unterscheidet man zwischen zwei Arten von Zaubersprüchen:
 
 **(N)ormale Zauber** und **(Z)ielzauber**
 
-### ZAUBERSPRÜCHE WIRKEN
+### Zaubersprüche wirken
 
 Meist reicht beim Wirken von normalen Zaubersprüchen ein erfolgreicher Wurf auf **Zaubern**, damit der Spruch gelingt, aber es gibt auch Zaubereffekte, bei denen ein möglichst hohes Probenergebnis wichtig ist (beispielsweise um eine lange Wirkungsdauer zu erzielen). Bei **Zielzaubern** entspricht das mit dem Kampfwert Zielzauber ermittelte Probenergebnis in der Regel dem verursachten Schaden, genau wie beim Kampf mit Waffen.
 
 **Beispiel**: _Der Schwarzmagier Miroslav schießt einen Feuerstrahl (Zielzauber) auf den Elfenheiler Lios. Das erfolgreiche Probenergebnis von 14 stellt zugleich den verursachten Schaden dar, gegen den Lios ganz normal seine Abwehr würfelt. Anschließend zaubert Lios Einschläfern (normaler Zauber) – die Zaubern-Probe gelingt mit einer 4 und Miroslav geht schnarchend zu Boden._
 
-### ZAUBERBONUS
+### Zauberbonus
 
 Jeder Zauberspruch verfügt über einen positiven oder negativen **Zauberbonus (ZB)**, der den PW der Zaubern- bzw. Zielzauber-Probe modifiziert, ähnlich dem WB von Waffen. Bei einigen Zaubersprüchen setzt sich der ZB aus einem Attribut und einer Eigenschaft des Opfers zusammen.
 
@@ -18,7 +18,7 @@ Jeder Zauberspruch verfügt über einen positiven oder negativen **Zauberbonus (
 
 Betrifft solch ein Zauber Ziele mit unterschiedlichen Attributs- und/oder Eigenschaftswerten (und somit unterschiedlichen ZB-Mali), würfelt der Charakter eine (noch) unmodifizierte Probe, deren Ergebnis im Anschluß mit den unterschiedlichen ZB-Mali abgeglichen wird, um festzustellen, bei welchen Zielen der Spruch erfolgreich wirkt.
 
-### ZAUBER WECHSELN
+### Zauber wechseln
 
 Ein Zauberwirker kann immer nur einen bestimmten Zauberspruch **aktiv** haben und auslösen, diesen dafür aber beliebig oft. Lediglich die Abklingzeit (siehe unten) schränkt seine Anwendung ein.
 
@@ -28,17 +28,17 @@ Bei Erfolg wurde der Zauber gewechselt, bei einem Immersieg hat das Wechseln sog
 
 **Beispiel**: _Nachdem Miroslav am Boden liegt, will sich Lios zunächst heilen und tauscht innerhalb einer Runde mit einer erfolgreichen Probe GEI+VE den Zauber Einschläfern gegen Heilende Hand aus, den er nun jede Runde wirken kann._
 
-### ABKLINGZEIT
+### Abklingzeit
 
 Sobald ein Zauber erfolgreich gewirkt wurde, muss seine Abklingzeit abgewartet werden, bevor er erneut gezaubert werden kann. In der Zwischenzeit kann man allerdings zu anderen Zaubern wechseln und diese auslösen.
 
-### ZUGANGSSTUFEN
+### Zugangsstufen
 
 Die Zugangsstufe eines Zaubers gibt an, ab welcher Stufe die einzelnen Zauberwirker Heiler, Schwarzmagier oder Zauberer ihn erlernen können (), wobei nicht jeder Zauberspruch allen drei Klassen zur Verfügung steht.
 
 Heldenklassen erhalten weiterhin Zugang zu den Zaubersprüchen ihrer ursprünglichen Grundklasse.
 
-### GESTEN- & WORTLOS ZAUBERN
+### Gesten- & wortlos zaubern
 
 Normalerweise machen Zauberwirker beim Zaubern Gesten mit ihren Händen und murmeln arkane Formeln. Gefesselt und geknebelt stellt sie das vor ein Problem:
 
@@ -48,7 +48,7 @@ Es ist mit dem Talent **Wissensgebiet** möglich, das gesten- und wortlose Zaube
 
 Pro Talentrang (von denen es in diesem Fall nur II gibt) wählt man aus, ob man den Malus für gestenloses Zaubern oder den Malus für wortloses Zaubern ignorieren kann.
 
-### MAGIE ANALYSIEREN
+### Magie analysieren
 
 Zauberwirker können mit GEI+AU spüren, ob ein Gegenstand, ein Phänomen oder eine Örtlichkeit in einer Reichweite von Stufe in Metern magisch ist. Sofern eine Magie erfolgreich erspürt wird, kann der Charakter mit GEI+VE versuchen zu erkennen, was sie bewirkt, muss sie dafür aber berühren.
 
@@ -60,7 +60,7 @@ Bei magischen Tränken kann zudem jeder Charakter - ob Zauberwirker oder nicht -
 
 Nur sollte es sich dabei nicht um ein Gift handeln, welches auch genippt seine gefährliche Wirkung entfalten kann.
 
-### ZAUBERSTÄBE
+### Zauberstäbe
 
 Ein Zauberstab ist immer für einen bestimmten Zauberspruch gefertigt.
 

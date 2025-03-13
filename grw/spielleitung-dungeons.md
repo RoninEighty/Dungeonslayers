@@ -4,19 +4,19 @@ Dungeonslayers ist ein sehr schnelles System - Charaktere können hier wild heru
 
 Ob nun spaßige Dungeonschlachten und knackige Kämpfe im Vordergrund stehen, oder man lieber reiselastige Wildnisoder detektivische Stadtabenteuer bevorzugt - Dungeonslayers kann jeden Kampagnenstil bedienen.
 
-## DUNGEONS
+## Dungeons
 
 Ein Dungeon ist ein verliesartiges Gewölbe, vollgestopft mit Fallen, Geheimgängen, Monstern und jeder Menge Schätze.
 
 Einem ungeschriebenen Gesetz zur Folge werden die Herausforderungen eines Dungeons umso höher, je weiter man sich vom Eingang entfernt.
 
-### DUNGEONPLANUNG
+### Dungeonplanung
 
 Zwar versteht man unter einem klassischen Dungeon in der Regel ein dunkles, gegnergefülltes Verlies, doch letztendlich ist er einfach eine Ansammlung unterschiedlicher, miteinander verbundener Räume, die vieles sein können:
 
 Verlassene Minenstollen, ein altes Hügelgrab, die Kanäle unter einer Stadt, düstere Friedhofskatakomben, eine ganze Festung, der Turm eines Magiers oder gar die Frachträume einer Galeere.
 
-#### DIE ERBAUER DES DUNGEONS
+#### Die Erbauer des Dungeons
 
 Zunächst ist immer zu klären, wer den Dungeon ursprünglich wozu errichtet hat, wie lange das her ist und was aus seinen Erbauern oder ihren Nachfolgern wurde, falls sie nicht mehr hier leben. All diese Fragen verschaffen dem Dungeon Geschichte und Authenzität, geben Anhaltspunkte zur Architektur und der allgemeinen Optik des Dungeons – handelt es sich um eine grobgehauene Höhle oder gar um verwinkelte, reichverzierte Gangsysteme feinster zwergischer Steinmetzkunst, die in vielen Jahrzehnten geschaffen und vorher ausgiebig geplant wurden?
 
@@ -24,7 +24,7 @@ Warum befindet sich der Eingang dort, wo er ist? Gibt es einen Hinterausgang? H�
 
 Hierbei ist es sehr hilfreich (und deckt Logikfehler auf), wenn man im Geiste einen Rundgang macht und die alltäglichen Wege der (ehemaligen) Bewohner abschreitet.
 
-#### DER AUFBAU DES DUNGEONS
+#### Der Aufbau des Dungeons
 
 Ein abwechslungsreicher Dungeon sollte nicht linear aufgebaut sein, sondern immer auch Abzweigungen oder Kreuzungen enthalten.
 
@@ -32,18 +32,18 @@ Dies sorgt für mehr taktische Möglichkeiten, mehr Dynamik und mehr Spannung (�
 
 Natürlich gibt es auch viele Bereiche, die quasi nur in einer “Linie” verbunden sind, dennoch sollten ein paar Wahlmöglichkeiten und alternative Wege für die Charaktere in keinem größeren Dungeon fehlen. Auch können bestimmte Bereiche erst betretbar werden, wenn man in einem anderen Bereich etwas Bestimmtes unternimmt oder an einen entsprechenden “Schlüssel” gelangt.
 
-#### DIE GEFAHREN DES DUNGEONS
+#### Die Gefahren des Dungeons
 
 Ist der Dungeon derzeit bewohnt? Von wem? Seit wann und warum? Wie versorgen sich die Bewohner? Schließlich sollte geklärt werden, ob es hinter dem Eingang noch Wachen gibt, sich diese an festen Wegpunkten aufhalten oder sogar in zeitlichen Abständen eine bestimmte Route ablaufen. Was für Fallen gibt es? Und wo sind sie sinnvoll platziert? Ein Stolperseil vor dem Abort ist in bewohnten Dungeons nicht unbedingt sinnvoll und in einer Trollhöhle sollte man nicht unbedingt auf eine magische Selbstschußanlage treffen.
 
-#### DER HINTERGRUND DES DUNGEONS
+#### Der Hintergrund des Dungeons
 
 Stolpern die Charaktere nicht durch Zufall in den Dungeon, führen sie oft Gerüchte oder ein Auftrag dorthin. Ob es nun gilt, ein Monster unschädlich zu machen, eine Entführte zu befreien oder ein sagenumwobenes Artefakt zu bergen - wichtig für die Glaubwürdigkeit ist hierbei vor allem: Wieso hat der Dungeon auf die Charaktere gewartet? Wieso hat sich nicht schon längst jemand anderes gefunden?
 
 Beispielsweise wartet eine Großstadt oder eine stark bemannte Burg nicht unbedingt erst darauf, dass ein paar Helden irgendwann einmal vorbei kommen, um die Bande von Strauchdieben endlich ausmerzen zu lassen,
 die in einer nahen Ruine ihr Lager haben.
 
-### LICHT & SICHT
+### Licht & Sicht
 
 Schlechte Beleuchtung, dichter Nebel oder heftiger Regen können die Sicht erschweren. Alle Proben, bei denen Sehen erforderlich ist, werden dadurch um 2 erschwert. Charaktere in völliger Dunkelheit (oder betroffen durch Zauber wie Blenden) erhalten -8 auf alle Proben, bei denen Sehen erforderlich ist. Die folgende Tabelle zeigt, wie groß der Bereich ist, den eine Lichtquelle effektiv erhellt:
 
@@ -53,7 +53,7 @@ Schlechte Beleuchtung, dichter Nebel oder heftiger Regen können die Sicht ersch
 | Fackel/Laterne |     10m     |
 | Lagerfeuer     |     15m     |
 
-### DUNKEL- & NACHTSICHT
+### Dunkel- & Nachtsicht
 
 Zwerge können durch die ihnen angeborene Dunkelsicht selbst in völliger Finsternis noch sehen, während die Nachtsicht der Elfen ein gewisses Mindestmaß an Licht erfordert (beispielsweise ein sternenklarer Himmel).
 
@@ -63,7 +63,7 @@ Zwerge können durch die ihnen angeborene Dunkelsicht selbst in völliger Finste
 | Menschen    |    10m     |      0m      |
 | Zwerge      | wie am Tag |     50m      |
 
-### TÜREN & WÄNDE
+### Türen & Wände
 
 Dungeonslayer können Türen eintreten und mit den richtigen Waffen auch Löcher und Öffnungen in Wände schlagen.
 
@@ -80,7 +80,7 @@ Dungeonslayer können Türen eintreten und mit den richtigen Waffen auch Löcher
 | Steinwand |   40   | 25  |
 | Tor       |   30   | 20  |
 
-#### ZERSTÖRBARE DUNGEONS
+#### Zerstörbare Dungeons
 
 Einbrechende Tunneldecken oder umstürzende Mauern, die noch dazu auf Gegner fallen, bringen noch mehr Action und Spaß in einen Kampf, doch sollten diese Mittel nur hin und wieder eingesetzt werden (1 bis 2 Bereiche alle paar Dungeons reichen völlig aus), sonst nutzen sie sich zu schnell ab.
 

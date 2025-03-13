@@ -2,25 +2,25 @@
 
 Wer auf einer Fantasywelt mit Schwarzpulverwaffen spielt oder Lust auf ein Mantel & Degen- oder Western-Setting hat, kann die folgenden Zusatzregeln verwenden:
 
-## REGELN FÜR FEUERWAFFEN
+## Regeln für Feuerwaffen
 
-#### NACHLADEN
+#### Nachladen
 
 Feuerwaffen müssen nach jedem Schuß nachgeladen werden (verbaucht 1 Aktion pro Lauf). Auch können bestimmte Situationen (Schießen-Patzer, feuchtes Pulver usw.) es erfordern, dass die Waffe vom Spieler mit GEI+GE erst wieder funktionstüchtig gemacht werden muß, was ebenfalls eine ganze Aktion kostet.
 
-#### ZWEI PISTOLEN GLEICHZEITIG ABFEUERN
+#### Zwei Pistolen gleichzeitg abfeuern
 
 Das Abfeuern von zwei Pistolen gleichzeitig funktioniert rein regeltechnisch wie der Angriff mit zwei Nahkampfwaffen (siehe [Kampfdetails](regeln-kampfdetails.md)).
 
-#### ALLE LÄUFE GLEICHZEITIG ABFEUERN
+#### Alle Läufe gleichzeitig abfeuern
 
 Bei mehrläufigen Waffen können alle Läufe gleichzeitig abgefeuert werden, wobei nur eine einzige Schießen-Probe gewürfelt wird, bei der die WB aller Läufe addiert werden.
 
-#### NASSES PULVER
+#### Nasses Pulver
 
 Fällt eine Feuerwaffe ins Wasser oder ist starkem Regen ausgesetzt, wird ihr Pulver naß. Dadurch muß die Waffe zunächst erst W20/2 Kampfrunden gereinigt werden (GEI+GE), bevor man sie neu laden kann.
 
-#### MEHRLÄUFIGE WAFFEN, REPETIERER, REVOLVER
+#### Mehrläufige Waffen, Repetierer, Revolver
 
 Mehrläufige Feuerwaffen, Repetierer oder Revolver können mehr als einmal abgefeuert werden, bevor man sie nachladen muß. Die Zahl der Läufe bzw. Trommelplätze wird im Format Mehrläufig (N), Repetierer (N) bzw. Trommel (N) angegeben.
 

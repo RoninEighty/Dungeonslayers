@@ -4,11 +4,11 @@ Bevor man einen Charakter erstellt, sollte geklärt sein, welchem Volk und welch
 
 **Beispiel**: _Als Beispielcharakter dient uns ein elfischer [Zauberer](charaktere-klasse-zauberer.md), da diese Kombination aus Volk und Klasse alle Bereiche der Charaktererschaffung abdeckt._
 
-### 1. VOLK WÄHLEN
+### 1. Volk wählen
 
 Jeder Charakter gehört standardmäßig einem der drei Völker der Elfen, Menschen oder Zwerge an. Letztendlich bestimmt aber immer das gespielte Setting die Auswahl der spielbaren Völker.
 
-#### ELFEN
+#### Elfen
 
 Die spitzohrigen, schlanken Elfen geben sowohl starke [Krieger](charaktere-klasse-krieger.md), geschickte [Späher](charaktere-klasse-spaeher.md) als auch talentierte [Zauberwirker](charaktere-klasse-zauberwirker.md) ab.
 
@@ -16,7 +16,7 @@ Die spitzohrigen, schlanken Elfen geben sowohl starke [Krieger](charaktere-klass
 
 **Volksfähigkeiten**: Leichtfüßig (Schleichen +2), Nachtsicht, Unsterblich (Altern kaum, sobald erwachsen; Tod nur durch Gewalt)
 
-#### MENSCHEN
+#### Menschen
 
 Die anpassungsfähigen Menschen bringen eine Vielzahl unterschiedlichster Kulturen hervor und eignen sich gleichermaßen als [Krieger](charaktere-klasse-krieger.md), [Späher](charaktere-klasse-spaeher.md) oder [Zauberwirker](charaktere-klasse-zauberwirker.md).
 
@@ -24,7 +24,7 @@ Die anpassungsfähigen Menschen bringen eine Vielzahl unterschiedlichster Kultur
 
 **Volksfähigkeiten**: 1 Talentpunkt gratis
 
-#### ZWERGE
+#### Zwerge
 
 Die zähen, oftmals grummeligen Bartträger bevorzugen ein Kriegerleben, eignen sich aber auch hervorragend für andere Klassen.
 
@@ -42,17 +42,17 @@ Elfen und Zwerge notieren ihre jeweiligen Volksfähigkeiten, Menschen erhalten s
 
 **Beispiel**: _Auf dem Charakterbogen notieren wir unter Volk “Elf” und vermerken die Volksfähigkeiten Leichtfüßig, Nachtsicht und Unsterblich_
 
-### 2. KLASSE WÄHLEN
+### 2. Klasse wählen
 
 Nun ist eine der drei Klassen [Krieger](charaktere-klasse-krieger.md), [Späher](charaktere-klasse-spaeher.md) oder [Zauberwirker](charaktere-klasse-zauberwirker.md) zu wählen. Spieler von Zauberwirkern müssen zudem festlegen, ob sie einen [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) oder [Schwarzmagier](charaktere-klasse-schwarzmagier.md) spielen möchten, wovon abhängt, welche Arten von Zaubersprüchen der Charakter benutzt.
 
-#### KRIEGER
+#### Krieger
 
 Dies sind die Charaktere fürs Grobe. Im Nahkampf meist ganz vorne zu finden und gut am schweren Rüstzeug und der Anzahl an brutalen Waffen zu erkennen.
 
 **Klassenbonus**: ST oder HÄ
 
-#### SPÄHER
+#### Späher
 
 Schnelligkeit und Heimlichkeit sind die Gebiete des Spähers. Bevorzugt wird der Kampf aus der Entfernung und Bogen oder Armbrust sind unentbehrliche Begleiter.
 
@@ -68,14 +68,14 @@ Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtget�
 - [Zauberer](charaktere-klasse-zauberer.md) - offensive und defensive Zauber
 - [Schwarzmagier](charaktere-klasse-schwarzmagier.md) - überwiegend offensive Zauber
 
-### 3. ATTRIBUTE FESTLEGEN
+### 3. Attribute festlegen
 
 Auf die Attribute Körper, Agilität und Geist werden nun 20 Punkte verteilt, wobei kein Wert über 8 sein darf.
 
 **Beispiel**:
 Geist ordnen wir Wert 8 zu. Dann verteilen wir auf Körper und auf Agilität jeweils 6 Punkte.
 
-### 4. EIGENSCHAFTEN FESTLEGEN
+### 4. Eigenschaften festlegen
 
 Nun werden 8 Punkte beliebig auf die sechs Eigenschaften verteilt. Werte von Null sind möglich, aber kein Eigenschaftswert darf zu diesem Zeitpunkt über einen Wert von 4 gesteigert werden.
 
@@ -85,7 +85,7 @@ Nun werden 8 Punkte beliebig auf die sechs Eigenschaften verteilt. Werte von Nul
     Stärke: 0   Bewegung: 0     Verstand: 1
     Härte:  2   Geschick: 3     Aura:     2
 
-### 5. VOLKS- & KLASSENBONUS
+### 5. Volks- & Klassenbonus
 
 Jeder Charakter erhält, abhängig von Volk und Klasse, zwei Gratispunkte auf seine Eigenschaften, wodurch nun auch Werte über 4 möglich sind:
 
@@ -107,25 +107,25 @@ Jeder Charakter erhält, abhängig von Volk und Klasse, zwei Gratispunkte auf se
     Stärke: 0   Bewegung: 0     Verstand: 1
     Härte:  2   Geschick: 4     Aura:     3
 
-### 6. DER ERSTE ZAUBERSPRUCH
+### 6. Der erste Zauberspruch
 
 [Zauberwirker](charaktere-klasse-zauberwirker.md) erlernen nun einen Zauberspruch der ersten Stufe. Die möglichen [Zaubersprüche](zaubersprueche.md), aus denen man wählen kann, hängen davon ab, ob der Charakter ein [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) oder [Schwarzmagier](charaktere-klasse-schwarzmagier.md) ist:
 
-#### HEILERSPRÜCHE DER 1. STUFE
+#### Heilersprüche der 1. Stufe
 
 [Blenden](zauber/blenden.md), [Giftschutz](zauber/giftschutz.md), [Heilbeeren](zauber/heilbeeren.md), [Heilende Aura](zauber/heilende-aura.md), [Heilende Hand](zauber/heilende-hand.md), [Licht](zauber/licht.md), [Magie entdecken](zauber/magie-entdecken.md), [Magische Waffe](zauber/magische-waffe.md), [Niesanfall](zauber/niesanfall.md), [Tiere besänftigen](zauber/tiere-besaenftigen.md), [Verteidigung](zauber/verteidigung.md), [Vertreiben](zauber/vertreiben.md), [Wasser weihen](zauber/wasser-weihen.md)
 
-#### ZAUBERERSPRÜCHE DER 1. STUFE
+#### Zauberersprüche der 1. Stufe
 
 [Duftnote](zauber/duftnote.md), [Feuerstrahl](zauber/feuerstrahl.md), [Licht](zauber/licht.md), Magie entdecken/identifizieren, [Magische Waffe](zauber/magische-waffe.md), [Magisches Schloss](zauber/magisches-schloss.md), [Öffnen](zauber/oeffnen.md), [Zaubertrick](zauber/zaubertrick.md)
 
-#### SCHWARZMAGIERSPRÜCHE DER 1. STUFE
+#### Schwarzmagiersprüche der 1. Stufe
 
 [Feuerstrahl](zauber/feuerstrahl.md), Magie entdecken/identifizieren, [Magische Waffe](zauber/magische-waffe.md), [Magisches Schloss](zauber/magisches-schloss.md), [Öffnen](zauber/oeffnen.md), [Zaubertrick](zauber/zaubertrick.md)
 
 **Beispiel**: _Unser Elfenzauberer erlernt den Zauberspruch [Feuerstrahl](zauber/feuerstrahl.md), der für [Zauberer](charaktere-klasse-zauberer.md) ab der ersten Stufe zugänglich ist._
 
-### 7. AUSRÜSTUNG
+### 7. Ausrüstung
 
 Jeder Charakter verfügt zu Beginn neben einfacher Kleidung, Feuerstein & Zunder, einem Wasserschlauch, zweimal Heilkraut, einer Decke und einem Rucksack oder einer Tragetasche auch über 10 Goldmünzen (GM), für die er nun mit weiterer Ausrüstung ausgestattet werden kann. Listen mit Waren und ihren Preisen beginnen ab Seite 78.
 
@@ -133,11 +133,11 @@ Jeder Charakter verfügt zu Beginn neben einfacher Kleidung, Feuerstein & Zunder
 
 Die restlichen Münzen sparen wir, schließlich kann etwas Kleingeld immer nützlich sein.
 
-### 8. KAMPFWERTE
+### 8. Kampfwerte
 
 Die Formeln, aus denen sich die Kampfwerte errechnen, beziehen sich immer auf die aktuellen Werte des Charakters und müssen bei Änderungen ebenfalls sofort angepasst werden:
 
-#### KAMPFWERTE
+#### Kampfwerte
 
     Lebenskraft = KÖR + HÄ + 10
     Abwehr      = KÖR + HÄ + PA
@@ -154,15 +154,15 @@ Die Formeln, aus denen sich die Kampfwerte errechnen, beziehen sich immer auf di
 
 _Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du auf Seite 7._
 
-### 9. TALENT WÄHLEN
+### 9. Talent wählen
 
 Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit also schon über 2TP. TP werden gespart oder in [Talente](talente.md) investiert, sofern der Charaktere die jeweiligen Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt. Jedes der [Talente](talente.md) kostet 1TP.
 
 **Beispiel**: Für einen Talentpunkt erwirbt unser Elfenzauberer das Talent [Bildung](talente/bildung.md), das jeder Charakter ab der 1. Stufe erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig, was noch fehlt, ist etwas Persönlichkeit.
 
-#### TALENTE IN DER ERSTEN STUFE
+#### Talente in der ersten Stufe
 
-##### FÜR ALLE KLASSEN
+##### Für alle Klassen
 
 - [Ausweichen](talente/ausweichen.md)
 - [Bildung](talente/bildung.md)
@@ -182,7 +182,7 @@ Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit a
 - [Wahrnehmung](talente/wahrnehmung.md)
 - [Wissensgebiet](talente/wissensgebiet.md)
 
-##### FÜR KRIEGER
+##### Für Krieger
 
 - [Blocker](talente/blocker.md)
 - [Kämpfer](talente/kaempfer.md)
@@ -190,7 +190,7 @@ Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit a
 - [Standhaft](talente/standhaft.md)
 - [Zwei Waffen](talente/zwei-waffen.md)
 
-##### FÜR SPÄHER
+##### Für Späher
 
 - [Akrobat](talente/akrobat.md)
 - [Diebeskunst](talente/diebeskunst.md)
@@ -199,24 +199,24 @@ Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit a
 - [Jäger](talente/jaeger.md)
 - [Schütze](talente/schuetze.md)
 
-##### FÜR ALLE ZAUBERWIRKER
+##### Für alle Zauberwirker
 
 - [Alchemie](talente/alchemie.md)
 - [Runenkunde](talente/runenkunde.md)
 - [Umdenken](talente/umdenken.md)
 - [Wechsler](talente/wechsler.md)
 
-##### FÜR HEILER
+##### Für Heiler
 
 - [Fürsorger](talente/fuersorger.md)
 - [Manipulator](talente/manipulator.md)
 - [Rüstzauberer](talente/ruestzauberer.md)
 
-##### FÜR SCHWARZMAGIER
+##### Für Schwarzmagier
 
 - [Feuermagier](talente/feuermagier.md)
 
-### 10. LETZTE SCHLIFFE
+### 10. Letzte Schliffe
 
 Zu guter Letzt muss das Geschlecht bestimmt und ein Name für den Charakter gefunden werden.
 

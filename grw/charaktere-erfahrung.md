@@ -2,7 +2,7 @@
 
 Charaktere erhalten durch das Bezwingen von Gegnern, Lösen von Aufgaben und Bestehen von Abenteuern Erfahrungspunkte, abgekürzt mit EP.
 
-### DIE STUFENLEITER
+### Die Stufenleiter
 
 Erreichen die EP einen bestimmten Wert, steigt man in die nächste Stufe auf, von denen es insgesamt 20 gibt.
 
@@ -12,7 +12,7 @@ Beim Aufstieg in eine neue Stufe erhält ein Charakter jedesmal **zwei Lernpunkt
 
 Ab der 10. Stufe kann ein Charakter schließlich in eine **Heldenklasse** (siehe [Heldenklassen](charaktere-heldenklassen.md)) wechseln, benötigt dann zukünftig allerdings mehr EP, um in den Stufen aufzusteigen.
 
-### LERNPUNKTE
+### Lernpunkte
 
 Für **Lernpunkte (LP)**, von denen man jede neue Stufe 2 erhält, kann man **Eigenschaften**, die **Lebenskraft** oder **TP** steigern. Die jeweiligen Kosten richten sich nach der Klasse des Charakters.
 
@@ -53,7 +53,7 @@ Pro LP-Zahlung +1 auf jeweilige Eigenschaft, LK oder TP
 
 **Beispiel:** _Mit Erreichen der vierten Stufe hat Jherrant 2 weitereLernpunkte erhalten, für die er Bewegung oder Geschick um +1 steigern könnte, doch seine Härte (und somit indirekt auch Lebenskraft und Abwehr) soll gesteigert werden, was ihn als Späher allerdings 3 Lernpunkte kostet. Erst mit Erreichen der 5. Stufe wird Jherrant die erforderlichen drei LP beisammen haben._
 
-### EIGENSCHAFTSHÖCHSTWERTE
+### Eigenschaftshöchstwerte
 
 Der maximal erreichbare Grundwert in jeder Eigenschaft beträgt 12, wird aber abhängig vom Volk und der Klasse des Charakters noch modifiziert:
 
@@ -69,21 +69,21 @@ Der maximal erreichbare Grundwert in jeder Eigenschaft beträgt 12, wird aber ab
 | Späher   | Bewegung und Geschick +1 |
 | Zauberw. | Verstand und Aura +1     |
 
-### TALENTPUNKTE
+### Talentpunkte
 
 Jeder Charakter erhält bei Erreichen einer neuen Stufe einen **Talentpunkt (TP)**. Zu Beginn verfügt jeder Charakter über 1TP (Menschen sogar über 2TP), mit dem er ein Talent (siehe [Talente](talente.md)) erlernen oder ausbauen kann.
 
-### TALENTVORAUSSETZUNGEN
+### Talentvoraussetzungen
 
 Zu beachten ist, dass Talente - nach Klassen sortierte - Voraussetzungen an die Stufe des Charakters haben (beispielsweise Krieger 6). Nicht aufgelistete Klassen können das jeweilige Talent überhaupt nicht lernen.
 
-### TALENTRÄNGE
+### Talentränge
 
-Alle Talente sind mit Rängen von I-X gekennzeichnet, die verraten, wie oft man sie erlernen kann. So bedeutet beispielsweise bei einem Talent Krieger 4 (III), dass Krieger ab Stufe 4 es bis zu 3x erlernen können. Die Effekte eines jeden Talents summieren sich dabei. Jedes Talent kostet 1TP pro Rang. Wurden mehrere TP gespart, kann ein Talent auch gleich mehrmals erworben werden.
+Alle Talente sind mit Talente von I-X gekennzeichnet, die verraten, wie oft man sie erlernen kann. So bedeutet beispielsweise bei einem Talent Krieger 4 (III), dass Krieger ab Stufe 4 es bis zu 3x erlernen können. Die Effekte eines jeden Talents summieren sich dabei. Jedes Talent kostet 1TP pro Rang. Wurden mehrere TP gespart, kann ein Talent auch gleich mehrmals erworben werden.
 
 **Beispiel:** _Jherrant erlernt in der 5. Stufe für seinen Talentpunkt das Talent Schütze II (was er erstmalig bereits in der 3. Stufe erwarb). Der Bonus von Schütze auf Jherrant’s Wert in Schießen erhöht sich damit von +1 auf +2._
 
-### NEUE ZAUBER LERNEN
+### Neue Zauber lernen
 
 Erreicht ein Zauberwirker eine neue Stufe, kann er neue Zauber erlernen, was weder Lernpunkte noch Talentpunkte kostet.
 

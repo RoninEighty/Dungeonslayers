@@ -1,4 +1,4 @@
-# DIE WELT CAERA
+# Die Welt Caera
 
 Caera ist ein klassisches Fantasy-Setting, das Abenteuern und Kampagnen von Dungeonslayers als Hintergrund dient und Charakteren eine Heimat bietet.
 
@@ -12,7 +12,7 @@ Trotz der geringen Größe bietet Caera also eine Vielzahl verschiedener Landsch
 
 Auf inhaltliche Tiefe muss dagegen nicht verzichtet werden.
 
-## SETTING-REGELN
+## Setting-Regeln
 
 1. Es gelten die im Regelwerk vorkommenden **Settingoptionen** von Dungeonslayers.
 2. Alle 3 DS-Grundvölker sind spielbar.
@@ -20,7 +20,7 @@ Auf inhaltliche Tiefe muss dagegen nicht verzichtet werden.
 4. Für das **Licht** steht die Göttin Helia, für die **Dunkelheit** der Schattenfürst Baarn.
 5. **Kulturen** gewähren einen Talentrang.
 
-### HELDENKLASSEN-SONDERREGELN
+### Heldenklassen-Sonderregeln
 
 **Berserker** können nur Barbaren, Wyndländer und Zwerge sein.
 
@@ -36,7 +36,7 @@ Auf inhaltliche Tiefe muss dagegen nicht verzichtet werden.
 
 **Paladine** sind immer menschliche Templer Helias und werden in Sunbrador geweiht.
 
-### KULTUREN
+### Kulturen
 
 Zu jedem Volk wählt man eine Kultur, durch die ein Charakter einen klassen- sowie stufenunabhängigen Talentrang gratis erhält.
 
@@ -54,7 +54,7 @@ Zu jedem Volk wählt man eine Kultur, durch die ein Charakter einen klassen- sow
 
 ¹: Freiwort ist die Gemeinsprache der Freien Lande
 
-## ÜBER CAERA
+## Über Caera
 
 Caera ähnelt vom technologischen Entwicklungsstand und seinen Kulturen dem irdischen Spätmittelalter, ergänzt durch nichtmenschliche Völker, phantastische Kreaturen und die Wunder der Magie. Schwarzpulver ist noch nicht erfunden, dafür gibt es seit wenigen Jahren erste, Segelschiffe, die sich mit Hilfe von Magie in die Lüfte erheben.
 
@@ -62,7 +62,7 @@ Keine 60 Jahre ist es her, da wütete noch der Nachtfeuerkrieg, durch den die As
 
 Caeras Pantheon setzt sich aus unzähligen Göttern zusammen - von verehrten Urgewalten bis hin zu unbekannten Kultgöttern. Dominiert werden Caera und seine Götterwelt vom ewigen Konflikt zwischen Licht und Dunkelheit, die in Form der Göttin Helia und dem Schattenfürsten Baarn in Erscheinung treten und auf die Hilfe der anderen Gottheiten angewiesen sind. Charaktere sind sich des gesamten Pantheons bewusst, auch wenn sie nur einen oder wenige Götter direkt anbeten.
 
-#### EINE KLEINE AUSWAHL DER GÖTTER VON CAERA
+#### Eine kleine Auswahl der Götter von Caera
 
 - **Baarn:** Schattenfürst, Herr der Dunkelheit
 - **Cor:** Schöpfer der Zwerge
@@ -75,7 +75,7 @@ Caeras Pantheon setzt sich aus unzähligen Göttern zusammen - von verehrten Urg
 - **Varos:** Hüter des Wissens und der Gerechtigkeit
 - **Zyzzran:** Herr der Schlangen und des Verrats
 
-## DIE FREIEN LANDE
+## Die Freien Lande
 
 Das Hauptaugenmerk richten wir einleitend auf die Freien Lande im Osten Caeras, die für den Einstieg in dieses Reich der Abenteuer ideal geeignet sind.
 
@@ -87,7 +87,7 @@ Haupthandelsmetropole ist die Stadt Sturmklippe, die über der Mondküste thront
 
 **Anmerkung:** _Auf der Karte (siehe nächste Seite) sind einige Einträge mit einem kleinen Schloss markiert, damit man weiß, welche Orte für spätere Ereignisse bereits “reserviert” sind. Andere Ortschaften können nach Belieben ausgeschmückt, gestaltet und verändert oder auch dem Erdboden gleichmacht werden. Es ist Deine Welt._
 
-## DER ALMANACH
+## Der Almanach
 
 Dieser kleine, indexhafte Almanach gibt einen ersten, groben Einblick über die Freien Lande und wird zukünftig um weitere Einträge ergänzt.
 

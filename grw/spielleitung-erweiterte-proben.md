@@ -4,7 +4,7 @@ Dieser Abschnitt vertieft bei Bedarf die Regeln und deckt die typischsten Proben
 
 Talente, die unter gewissen Umständen einen Bonus auf eine Probe geben könnten, sind mit aufgelistet.
 
-### BEMERKEN (GEI+VE BZW. 8)
+### Bemerken (GEI+VE BZW. 8)
 
 **Nutzbare Talente**: Diebeskunst, Wahrnehmung
 
@@ -25,13 +25,13 @@ Sollten die Charaktere nicht bewusst nach etwas Ausschau halten oder lauschen, s
 
 **Settingoption**: In vielen Settings wird Elfen eine besonders hohe Aufmerksamkeit zugestanden. Elfen in solchen Settings erhalten +3 auf jede ihrer BemerkenProben.
 
-### DARBIETUNG (\*)
+### Darbietung (\*)
 
 **Nutzbare Talente**: Akrobat, Bildung, Charmant, Instrument, Kletterass, Schnelle Reflexe
 
 Bei einer Darbietung kann es sich um ein vorgetragenes Gedicht, ein gespieltes Lied, ein waghalsiges Gauklerkunststück, einen einfachen Tanz u.ä. handeln. Der Spielleiter klärt, welche Talente in Frage kommen.
 
-### ERWACHEN (GEI+VE)
+### Erwachen (GEI+VE)
 
 **Nutzbare Talente**: Schnelle Reflexe, Wahrnehmung
 
@@ -52,7 +52,7 @@ Bei einem Erfolg können sie noch in der selben Runde handeln, in der sie aufgew
 
 Ist ihre Initiative bereits verstrichen, wird wie bei einer Abwartehandlung (siehe [Abwartehandlungen](regeln-kampfdetails.md#abwartehandlungen)) vorgegangen.
 
-### FALLEN ENTSCHÄRFEN (GEI+GE)
+### Fallen entschärfen (GEI+GE)
 
 **Nutzbare Talente**: Diebeskunst
 
@@ -60,7 +60,7 @@ Wenn man weiß, wo sich eine Falle befindet (sie also bemerkt hat), kann man ver
 
 Misslingt die Probe, wird die Falle allerdings ausgelöst.
 
-### FEILSCHEN (GEI+VE/+AU)
+### Feilschen (GEI+VE/+AU)
 
 **Nutzbare Talente**: Charmant, Schlitzohr
 
@@ -69,13 +69,13 @@ gewürfelt - am Spieltisch vorgetragene Worte können einen Bonus von -8 bis +8 
 
 Ein Sieg bei einer Feilschen-Probe kann allerdings nie dazu führen, dass jemand einem Handel eingeht, dessen Konditionen er niemals akzeptieren könnte. Bei Handelsgeschäften ist es deshalb hilfreich, wenn vorher festgelegt wird, wie hoch oder niedrig die Beteiligten gehen würden.
 
-### FEUER MACHEN (GEI+GE)
+### Feuer machen (GEI+GE)
 
 **Nutzbare Talente**: Jäger
 
 Wer auf die Schnelle ein Feuer benötigt, würfelt GEI+GE (zählt als ganze Aktion). Bei einem Erfolg entfacht man mit Stein, Stahl und Zunder in den Händen eine kleine Flamme.
 
-### FLIRTEN (GEI+AU)
+### Flirten (GEI+AU)
 
 **Nutzbare Talente**: Charmant
 
@@ -91,7 +91,7 @@ Wer durch sympatisches Auftreten und passende Komplimente beeindrucken will, wü
 | Spendabel            |  +1  |  -2  |
 | Ungepflegt           |  -4  |  -2  |
 
-### GIFT TROTZEN (KÖR+HÄ)
+### Gift trotzen (KÖR+HÄ)
 
 **Nutzbare Talente**: Einstecker
 
@@ -99,13 +99,13 @@ Mit einem erfolgreichen Wurf auf KÖR+HÄ können Charaktere der Wirkung eines G
 
 **Settingoption**: Zwerge sind in vielen Settings oft ein zähes Volk, welches einen Bonus von +2 gegen Gifte erhält.
 
-### INSCHRIFT ENTZIFFERN (GEI+VE)
+### Inschrift entziffern (GEI+VE)
 
 **Nutzbare Talente**: Wahrnehmung, Bildung
 
 Um eine alte, verwitterte Inschrift entziffern zu können, muss man ihre Sprache und ihre Schriftzeichen beherrschen (siehe [Sprachen & Schriftzeichen](spielleitung-sprachen-ep-vergabe.md)).
 
-### KLETTERN (AGI+ST)
+### Klettern (AGI+ST)
 
 **Nutzbare Talente**: Akrobat, Kletterass
 
@@ -128,13 +128,13 @@ Beim Klettern bewegen sich Charaktere mit ihrem halben Laufen-Wert. Pro AGI x 2 
 | Seil                     |  +8   |
 | Stürmisch                |  -2   |
 
-### KRAFTAKT (KÖR+ST)
+### Kraftakt (KÖR+ST)
 
 **Nutzbare Talente**: Brutaler Hieb, Vernichtender Schlag
 
 Wer eine Tür eintreten, Gitterstäbe verbiegen oder eine Truhe aufbrechen will, vollführt einen Kraftakt.
 
-### KRANKHEIT TROTZEN (KÖR+HÄ)
+### Krankheit trotzen (KÖR+HÄ)
 
 **Nutzbare Talente**: Einstecker
 
@@ -142,13 +142,13 @@ Mit einem erfolgreichen Wurf auf KÖR+HÄ können Charaktere der Wirkung einer K
 
 **Settingoption**: Elfen sind in vielen Settings gegen jegliche Art von Krankheiten immun. Zwerge gelten zudem oft als zähes Volk, welches einen Bonus von +2 gegen Krankheiten erhält.
 
-### MECHANISMUS ÖFFNEN (GEI+GE/+VE)
+### Mechanismus öffnen (GEI+GE/+VE)
 
 **Nutzbare Talente**: Diebeskunst, Handwerk, Schlossknacker
 
 Wurde ein Geheimtür o.ä. gefunden, muss man meistens noch einen verborgenen Schalter oder andere Mechanismen mit Hilfe von GEI+GE ertasten, mit denen man sie öffnet. Ist dagegen reine Denkarbeit gefordert, wird mit GEI+VE gewürfelt.
 
-### REITEN (AGI+BE/+AU)
+### Reiten (AGI+BE/+AU)
 
 **Nutzbare Talente**: Reiten, Sattelschütze, Tiermeister
 
@@ -160,7 +160,7 @@ Charaktere mit dem Talent **Reiten** können dies dagegen aktions- und probenfre
 
 Jeder Charakter (also auch jene mit dem Talent **Reiten**) muss dagegen eine aktionskostende Reiten-Probe würfeln, wenn das Reittier ein Hinderniss überspringen soll oder er die Geschwindigkeit innerhalb einer Runde um mehr als einen Schritt ändern will (beispielsweise um ein trabendes Pferd einfach zum Stillstand zu bringen).
 
-#### BERITTENER KAMPF
+#### Berittener Kampf
 
 Wollen Charaktere ohne das Talent Reiten vom Pferderücken aus einen Angriff machen, muss ihnen zuvor eine aktionsfreie Reiten-Probe gelingen, sonst können sie in dieser Runde nicht angreifen. Verfügt ein Charakter dagegen über das Talent Reiten, kann er jederzeit vom Pferderücken aus angreifen (ohne die Reiten-Probe). Je nach Reitgeschwindigkeit werden die Angriffe des Reiters noch modifiziert:
 
@@ -173,7 +173,7 @@ Wollen Charaktere ohne das Talent Reiten vom Pferderücken aus einen Angriff mac
 
 Wer von seinem Pferd einen unberittenen Gegner schlägt, erhält einen Bonus von +1 auf Schlagen durch die erhöhte Position. Mit zweihändigen Waffen kann man beritten überhaupt nicht angreifen. Einzig und allein Charaktere, die das Talent **[Sattelschütze](talente/sattelschuetze.md)** beherrschen, können Fernkampfwaffen einsetzen, die man beidhändig (beispielsweise Bögen) benutzt.
 
-### SCHÄTZEN (GEI+VE)
+### Schätzen (GEI+VE)
 
 **Nutzbare Talente**: Beute schätzen
 
@@ -183,7 +183,7 @@ Bei einem Mißerfolg verschätzt sich der Charakter um 10% pro Wert, den das Wü
 
 Bei einem ungeraden Probenergebnis schätzt der Charakter den Wert zu niedrig, bei einem geraden Probenergebnis zu hoch.
 
-### SCHLEICHEN (AGI+BE)
+### Schleichen (AGI+BE)
 
 **Nutzbare Talente**: Heimlichkeit
 
@@ -198,7 +198,7 @@ Geschlichen wird immer mit halbierten Laufen-Wert. Es handelt sich um eine vergl
 
 Elfen erhalten auf Grund ihrer Volksfähigkeit **Leichtfüßig** einen Bonus von +2 auf Schleichen-Proben.
 
-### SCHLÖSSER ÖFFNEN (GEI+GE)
+### SChlösser öffnen (GEI+GE)
 
 **Nutzbare Talente**: Diebeskunst, Schlossknacker
 
@@ -214,7 +214,7 @@ zusätzliche Dietriche (max. VE) je +1 Misslingt die Probe, kann der Charakter e
 
 Dieser kumulative Malus gegen dieses eine Schloss erlischt erst, wenn der Charakter eine neue Stufe erreicht.
 
-### SCHWIMMEN (AGI+BE)
+### Schwimmen (AGI+BE)
 
 **Nutzbare Talente**: Schwimmen
 
@@ -233,7 +233,7 @@ Im Anschluss würfelt der Charakter KÖR+HÄ+3 pro Rang in Schwimmen, sonst ertr
 
 Bei Erfolg muss er nach Härte in Minuten die Probe wiederholen. Bei Stürmen oder reissenden Flüssen muss auch ein Charakter mit Schwimmen jede Runde würfeln.
 
-### SPRINGEN (AGI+BE)
+### Springen (AGI+BE)
 
 **Nutzbare Talente**: Akrobat
 
@@ -248,7 +248,7 @@ in die Tiefe springen. Befindet sich darunter ein Gegner, kann man ihn aktionsfr
 
 **Settingoption**: Elfen erhalten einen Bonus von +1 Meter auf sämtliche Sprungweiten.
 
-### SPUREN LESEN (GEI+VE)
+### Spuren lesen (GEI+VE)
 
 **Nutzbare Talente**: Jäger, Wahrnehmung
 
@@ -267,7 +267,7 @@ Das Aufspüren und richtige Deuten von Spuren wird durch eine Vielzahl von Fakto
 
 Der Charakter erfährt nur die offensichtlichsten Informationen (“Mehrere, barfüßige, kleine Humanoide.”) - für jedes weitere Detail, dass er wissen möchte, ist eine neue Probe nötig.
 
-### SUCHEN (GEI+VE bzw. 8)
+### Suchen (GEI+VE bzw. 8)
 
 **Nutzbare Talente**: Diebeskunst, Heimlichkeit, Wahrnehmung
 
@@ -283,7 +283,7 @@ Der Spieler wählt, ob er beispielsweise nur für einen Schrank, ein breites St�
 | Schlechtes Licht (nur Menschen)       |    -2     |
 | Tarnwert einer Falle                  |    -TW    |
 
-### TASCHENDIEBSTAHL (AGI+GE)
+### Taschendiebstahl (AGI+GE)
 
 **Nutzbare Talente**: Diebeskunst, Heimlichkeit, Kann ich mal vorbei?,Langfinger
 
@@ -296,7 +296,7 @@ Beim Taschendiebstahl handelt sich um eine vergleichende Probe (siehe [Vergleich
 | Beute in Tragetasche getragen  | +0  |
 | Ablenkende Umgebung            | +4  |
 
-### VERBERGEN (AGI+BE)
+### Verbergen (AGI+BE)
 
 **Nutzbare Talente**: Heimlichkeit
 
@@ -309,13 +309,13 @@ Wer sich versteckt - um Verfolgern zu entgehen oder jemanden aufzulauern - würf
 | Tiefe Schatten                     | +4  |
 | Verbergender hier nicht vermutet   | +4  |
 
-### VERSTÄNDIGEN (GEI+GE)
+### Verständigen (GEI+GE)
 
 **Nutzbare Talente**: Bildung
 
 Dies stellt den Versuch dar, sich mit bloßen Gesten und Lauten verständlich zu machen. Pro beherrschter Sprache erhält man einen Bonus von +1.
 
-### WISSEN (GEI+VE)
+### Wissen (GEI+VE)
 
 **Nutzbare Talente**: Bildung, Wissensgebiet
 

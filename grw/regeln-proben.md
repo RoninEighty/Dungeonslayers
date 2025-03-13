@@ -1,6 +1,6 @@
 # Regeln
 
-## PROBEN
+## Proben
 
 Immer wenn nicht sicher ist, ob einem Charakter eine Handlung gelingen mag oder nicht, wird eine **Probe** gewürfelt. Dafür bildet man aus einem Attribut und einer Eigenschaft (die am ehesten zu der Probe passen) den **Probenwert (PW)**. Gelingt es, mit einem 20 seitigen Würfel (W20) gleich oder kleiner diesen Probenwert zu würfeln, ist die Probe erfolgreich.
 
@@ -17,7 +17,7 @@ Desweiteren gewährt ein Großteil der **[Talente](talente.md)** ebenfalls einen
 
 **Beispiel**: _Der Späher Andur hält mit einer Bemerken-Probe (GEI+VE) Ausschau nach Feinden. Sein Talent Wahrnehmung II gewährt ihm pro Talentrang +2 auf den PW, insgesamt also +4._
 
-### TYPISCHE PROBEN
+### Typische Proben
 
 - [Bemerken](spielleitung-erweiterte-proben.md#bemerken-geive-bzw-8): GEI+VE bzw. 8¹
 - [Erwachen](spielleitung-erweiterte-proben.md#erwachen-geive): GEI+VE
@@ -48,7 +48,7 @@ Desweiteren gewährt ein Großteil der **[Talente](talente.md)** ebenfalls einen
 
 _Detailliertere Regeln zu den hier aufgelisteten Proben werden im Bereich [erweitere Proben](spielleitung-erweiterte-proben.md) angeboten._
 
-### MODIFIKATOREN
+### Modifikatoren
 
 Situationsbedingt kann es zu positiven wie auch negativen Modifikatoren auf den Probenwert kommen, wodurch eine Probe leichter bzw. schwerer wird.
 
@@ -66,7 +66,7 @@ Folgende Modifikatoren sollen dabei als Richtlinie dienen:
 
 **Beispiel**: _Jherrant möchte Spuren von ein paar Fußabdrücken untersuchen. Da Jherrant (GEI 4, BE 2, sein Talent Jäger II gibt +2 auf die Probe) als Elfenspäher sich besser auf das Fährtenlesen versteht, als andere, stuft der Spielleiter die Probe für ihn als sehr leicht (+4) ein, wodurch der Probenwert von 8 auf 12 (= GEI 4 + VE 2 + Jäger II + 4) steigt._
 
-### VERGLEICHENDE PROBEN
+### Vergleichende Proben
 
 Hin und wieder kann es zu vergleichenden Proben kommen, bei denen das Können zweier Charaktere gemessen wird: Wer ist der Stärkere beim Armdrücken? Wer kann besser feilschen? Wie lautlos schleicht der Einbrecher bzw. wie aufmerksam ist der Wachposten?
 
@@ -80,7 +80,7 @@ Bei vergleichenden Proben würfelt jeder Charakter ganz normal seine Probe, die 
 
 **Beispiel**: _Gruffneck (Körper 8, Stärke 2) und Kalthor (KÖR 8, ST 4) messen sich im Armdrücken und würfeln vergleichend KÖR+ST. In der ersten Runde misslingt beiden ihr Wurf. Angestrengt geht es in die nächste Runde und diesmal würfeln beide einen Erfolg: Gruffneck erzielt eine 8, während Kalthor mit einer 12 den Arm des Zwergen niederdrückt, was dieser nur mit einem Immersieg hätte verhindern können._
 
-### IMMERSIEGE UND PATZER
+### Immersiege und Patzer
 
 Jede noch so unmögliche Aufgabe kann gelingen, jede noch so einfache Handlung misslingen, was durch Immersiege und Patzer dargestellt wird:
 
@@ -90,7 +90,7 @@ Bei solch einem Immersieg gilt das höchstmögliche Probenergebnis als Ergebnis.
 
 **Beispiel**: _Im Kampf gegen die Goblins würfelt der Zwergenkrieger Gruffneck (Schlagen 12) bei seinem nächsten Schlag eine 1 – ein Immersieg! Da Immersiege das höchstmögliche Probenergebnis bedeuten, beträgt Gruffnecks’ Ergebnis stolze 12._
 
-### PROBENWERTE ÜBER 20
+### Probenwerte über 20
 
 Sollte ein Probenwert über 20 liegen, kann die entsprechende Probe nur durch einen Patzer misslingen.
 
@@ -98,7 +98,7 @@ Wird das genaue Wurfergebnis (beispielsweise bei einem Angriff) benötigt, wird 
 
 Bei einem Probenwert von 25 würfelt man also einmal mit Probenwert 20 und einmal mit Probenwert 5. Alle erfolgreichen Probenergebnisse werden schließlich addiert und bilden zusammen das endgültige Ergebnis.
 
-### ERGEBNISSE ÜBER 20 ERMITTELN
+### Ergebnisse über 20 ermittelen
 
 Der Spieler würfelt nacheinander die für die Probe erforderlichen W20, wobei nur der zuerst geworfene Würfel die Probe verpatzen kann. Eine 20 bei den anderen Würfen wird dagegen nicht als Patzer gewertet.
 

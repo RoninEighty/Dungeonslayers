@@ -10,7 +10,7 @@ Der Spielleiter hat nicht nur die Aufgabe, im Vorfeld die Rahmenhandlung des Abe
 
 Aus dem Dialog zwischen Spielleiter und Spielern ergibt sich dann die eigentliche Spielhandlung und das Abenteuer nimmt seinen Lauf.
 
-## BEISPIEL EINER SPIELSITZUNG
+## Beispiel einer Spielsitzung
 
 Der folgende Dialog gibt Dir einen guten Einblick, wie solch eine Spielsitzung bei Dungeonslayers funktioniert. Das Spiel findet in gemütlicher Atmosphäre statt, Knabberzeug, Getränke und die Charakterbögen der Spieler bevölkern den Tisch. Folgende Personen sind beteiligt:
 

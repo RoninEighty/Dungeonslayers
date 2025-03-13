@@ -2,7 +2,7 @@
 
 Ohne ordentliche Schätze macht auch der einfallsreichste Dungeon nicht sonderlich viel Spaß. Von einfachen Heilmitteln (mit denen man gerade Dungeons für neue Charaktere gut bestücken sollte) oder Gold und Schmuck über hochwertige oder magische Gegenstände, die Attribute, Eigenschaften, Waffen oder Rüstungen mit Boni versehen, bis hin zu exotischen Artefakten, die mit wundersamen Effekten versehen sind, reicht die Palette an Möglichkeiten.
 
-### BEUTETABELLEN
+### Beutetabellen
 
 Um die Zusammenstellung gefundener Beute und Schätze schnell und einfach zu ermitteln, verwendet Dungeonslayers sogenannte Beutetabellen (siehe [Anhang A: Beutetabellen](anhang-beutetabellen.md)): Feinde und Schätze haben immer einen **Beutewert (BW)**, der dem PW entspricht, mit dem man auf der Beutetabelle würfelt.
 
@@ -16,11 +16,11 @@ Es ist sinnvoll, eigene Beutetabellen zu erstellen, die direkt auf ein Abenteuer
 
 Bei zu vielen Gegnern wird empfohlen, die Spieler ihre Beute selbst auswürfeln zu lassen oder die Funde mit einzelnen Würfen für mehrere Gegner zu vereinheitlichen.
 
-### MAGISCHE GEGENSTÄNDE
+### Magische Gegenstände
 
 Abgesehen von permanenten Boni und Wirkungen benötigt ein Charakter immer eine ganze Aktion (sofern nicht anders erwähnt), um einen Effekt eines magischen Gegenstands auszulösen.
 
-#### BONI VON GEGENSTÄNDEN
+#### Boni von Gegenständen
 
 Die verschiedensten magischen Gegenstände gewähren ihrem Träger magische Boni auf bestimmte Proben oder Werte.
 
@@ -28,11 +28,11 @@ Die Summe aller kombinierten Boni durch getragene, magische Ausrüstung auf eine
 
 **Beispiel**: _Ein Charakter mit einer magischen Rüstung +3, einem magischen Helm +1 und einem Schutzring +2 würde also nur einen magischen Bonus von +5 auf seine Abwehr erhalten, nicht +6._
 
-#### TALENTE DURCH GEGENSTÄNDE
+#### Talente durch Gegenstände
 
 Gewährt ein Gegenstand die Wirkung eines Talents, wird es behandelt, als ob der Träger des Gegenstandes das Talent selbst beherrscht - unabhängig von den Voraussetzungen des Talents oder ob es von dem Charakter vielleicht schon bis zum Maximalrang erlernt wurde (der durch den Gegenstand angehoben werden würde).
 
-#### ZAUBER IN GEGENSTÄNDEN
+#### Zauber durch Gegenstände
 
 Diese können unabhängig von Klasse und Stufe ausgelöst werden, was immer eine ganze Aktion in Anspruch nimmt.
 
@@ -44,7 +44,7 @@ Basiert die Dauer, die Distanz oder der Effekt des Zaubers auf VE, wird ein Grun
 
 Auch bei Zaubersprüchen aus Gegenständen muss - sofern nicht anders vermerkt - die Abklingzeit abgewartet werden, bevor sie wieder vom Gegenstand ausgelöst werden können.
 
-### SCHRIFTROLLEN
+### Schriftrollen
 
 Zaubersprüche findet oder erwirbt man auf Schriftrollen, in Zauberbüchern usw. Jeder Zauberwirker kann diese Zauber problemlos “lesen” (selbst ohne eine einzige Art von Schriftzeichen zu beherrschen), sofern sie von seiner Zauberwirkerklasse erlernt werden können.
 
@@ -55,11 +55,11 @@ Zum Ablesen muss der Zauberwirker nicht die Spruchzugangsstufe des Zaubers errei
 
 So kann beispielsweise nur ein Heiler den Zauberspruch Allheilung von einer Schriftrolle ablesen - dies allerdings schon ab der 1. Stufe.
 
-### TRÄNKE
+### Tränke
 
 Man kann immer nur von der Wirkung eines Trankes vom selben Typ gleichzeitig profitieren (zwei hintereinander getrunkene Abklingtränke wirken also nur wie ein einzelner Abklingtrank, ein Schutztrank und ein großer Schutztrank addieren sich hingegen).
 
-#### LISTE MAGISCHER TRÄNKE
+#### Liste magischer Tränke
 
 ##### Abklingtrank (50GM)
 
@@ -205,7 +205,7 @@ Diese meist blauen Tränke gewähren für die Dauer eines Kampfes +10 auf Zauber
 
 Erhöht die Werte von Schießen und Zielzauber für die Dauer eines Kampfes um +1.
 
-### MAGISCHE WAFFEN & RÜSTUNGEN
+### Magische Waffen & Rüstungen
 
 Magische Boni und Effekte von Waffen wirken nur, wenn man sie dabei in der Hand hält, Rüstungen müssen angelegt sein.
 
@@ -221,7 +221,7 @@ Neben eingebetten Talenten und Zaubersprüchen haben die meisten verzauberten Wa
 
 **Rüstungsbonus**: Der Bonus wird als magischer Bonus auf die PA addiert (ohne als Malus auf Zaubern/Zielzauber zu wirken), während die normalen Initiativebzw. Laufenmali pro Bonus um 1 bzw. 0.5m gemindert werden (wodurch sie aber nicht über 0 ansteigen können.
 
-#### BEISPIELE MAGISCHER WAFFEN
+#### Beispiele magischer Waffen
 
 ##### Aderschlitz
 
@@ -341,12 +341,12 @@ In diese aus Fellen zusammengenähte Lederrüstung +1 wurde der Zauber Tierbeher
 
 Diese Lederrüstung aus Wolfspelz verleiht ihrem Träger +3 auf sämtliche BemerkenProben. Ein ausgenommener Wolfskopf bildet die Kapuze.
 
-#### SET-GEGENSTÄNDE
+#### Set-Gegenstände
 
 Manche Gegenstände bilden zusammen ein sogenanntes Set.
 Bei solchen Set-Gegenständen werden zusätzliche Effekte freigeschaltet, je mehr Teile des entsprechenden Sets man trägt.
 
-##### SELCOR’S ROBE
+##### Selcors Robe
 
 Beispiel für einen Set-Gegenstand
 
@@ -359,7 +359,7 @@ Beispiel für einen Set-Gegenstand
 | Selcor’s Stirnreif  | 4 Teile: Zaubern +1    |
 | Selcor’s Zauberstab | 5 Teile: Zielzauber +1 |
 
-### DIVERSE MAGISCHE GEGENSTÄNDE
+### Diverse magische Gegenstände
 
 Neben Waffen und Rüstungen gibt es eine Vielzahl anderer magischer Gegenstände - die Möglichkeiten sind quasi endlos, weshalb hier nur eine begrenzte Auswahl vorgestellt werden kann.
 
@@ -455,7 +455,7 @@ Mittels Wechsler +V verleiht dieser Ring +10 auf Proben, um die eigenen Zauber z
 
 Jeder Pfeil, der aus diesem Köcher gezogen wird, hat für die Dauer einer Kampfrunde einen magischen Waffenbonus von +1.
 
-## HERSTELLUNG MAGISCHER GEGENSTÄNDE
+## Herstellung magischer Gegenstände
 
 Zauberwirker mit den Talenten **Alchemie**, **Einbetten** oder **Runenkunde** sind in der Lage, magische Gegenstände herzustellen.
 
@@ -463,7 +463,7 @@ Die Kosten zur Herstellung der magischen Gegenstände betragen immer genau die H
 
 Auch misslungene Herstellungsprozesse verbrauchen die Zutaten.
 
-### SCHRIFTROLLEN FERTIGEN
+### Schriftrollen fertigen
 
 Um Schriftrollen herzustellen, benötigt ein Zauberwirker zunächst das Talent **Runenkunde**. Außerdem muss er den Zauberspruch, den er zu Pergament bringen will, auch selbst beherrschen.
 
@@ -477,7 +477,7 @@ Schließlich kann die Herstellung beginnen, die akribische Genauigkeit, mehrmali
 
 Wird nach Abarbeitung der Zeit erfolgreich GEI+GE+Runenkunde gewürfelt, gelingt die Herstellung.
 
-### TRÄNKE BRAUEN
+### Tränke brauen
 
 Zum Brauen magischer Tränke (außer Weihwasser, für dessen Herstellung ein Zauber existiert) benötigt ein Zauberwirker zunächst das Talent **Alchemie**.
 
@@ -502,7 +502,7 @@ Das Talent Handwerk kann auch von einem anderen Charakter eingebracht werden, de
 
 Die folgenden Seiten behandeln Schritt für Schritt die Herstellung magischer Gegenstände.
 
-#### 1. GRUNDKOSTEN ERMITTELN
+#### 1. Grundkosten ermitteln
 
 Neben den Materialkosten des Gegenstandes (entsprechen seinem halben Neupreis) werden noch diverse Zutaten wie erlesene Kristalle, seltene Pflanzen oder gar das Blut gefährlicher Monster benötigt, um Magie dauerhaft in ihn zu betten. Die Kosten für diese Zutaten und die Materialkosten ergeben zusammen die **Grundkosten**:
 
@@ -510,7 +510,7 @@ Neben den Materialkosten des Gegenstandes (entsprechen seinem halben Neupreis) w
     - 125 GM
     = Grundkosten (in GM)
 
-#### 2. ZUSATZKOSTEN ERMITTELN
+#### 2. Zusatzkosten ermitteln
 
 Auf die Grundkosten werden nun **Zusatzkosten** addiert werden, je nachdem, was der Gegenstand alles können soll. Die Summe entspricht den endgültigen **Herstellungskosten**:
 
@@ -520,7 +520,7 @@ Auf die Grundkosten werden nun **Zusatzkosten** addiert werden, je nachdem, was 
 
 Es folgt eine Auflistung der möglichen Zusatzkosten:
 
-#### A. AKTIONEN EINBETTEN
+#### A. Aktionen einbetten
 
 Gegenstände können es ermöglichen, dass bestimmte Handlungen (beispielsweise das Ziehen eines magischen Schwertes) keine Aktion kosten. Die Kosten richten sich nach Art und Dauer der Aktionsfreiheit:
 
@@ -533,7 +533,7 @@ Gegenstände können es ermöglichen, dass bestimmte Handlungen (beispielsweise 
 
 ¹: Wird einmalig bei der Herstellung ermittelt.
 
-#### B. BONI EINBETTEN
+#### B. Boni einbetten
 
 Die Kosten für permanente Boni (von +1 bis +3) auf bestimmte Proben (dazu zählen auch Proben auf einzelne Zauber), Kampfwerte (oder auch Gruppen von Zaubern), Eigenschaften oder Attribute sind folgender Tabelle zu entnehmen:
 
@@ -557,7 +557,7 @@ Dieser Bonus wird auf den WB und die Initiative addiert und bei Treffern von der
 
 Der Bonus wird als magischer Bonus auf die PA addiert (ohne als Malus auf Zaubern/ Zielzauber zu wirken), während die normalen Initiative- bzw. Laufenmali pro Bonus um 1 bzw. 0.5m gemindert werden (wodurch sie aber nicht über 0 ansteigen können).
 
-#### C. TALENTE EINBETTEN
+#### C. Talente einbetten
 
 Talente können rangweise in Gegenstände eingebettet werden. Das Talent Einbetten kann man allerdings nicht einbetten.
 
@@ -573,13 +573,13 @@ Wird mehr als ein Talent eingebettet, erhöht sich der Faktor von 125 bei jedem 
 
 Beispielsweise würde bei vier Talenten jeder Rang jeweils die Talent-Zugangsstufe mal 275 (= 125 + 50 + 50 + 50) kosten.
 
-#### D. ZAUBER EINBETTEN
+#### D. Zauber einbetten
 
 Bei der Herstellung eines magischen Gegenstandes kann der Zauberwirker diesen mit Zaubersprüchen versehen, sofern er diese beherrscht.
 
 Die Zusatzkosten von Zaubern in magischen Gegenständen basieren immer auf dem Goldpreis, den ein Zauber normalerweise kostet (Zaubersprüche unter 125GM werden behandelt, als würden sie 125GM kosten).
 
-#### D1. ZAUBER EINBETTEN
+#### D1. Zauber einbetten
 
 Ein Zauberspruch kann in einen Gegenstand gebettet und nach den Regeln für Zauber in magischen Gegenständen ausgelöst werden.
 
@@ -589,7 +589,7 @@ Ein Zauberspruch kann in einen Gegenstand gebettet und nach den Regeln für Zaub
 
 ¹: Mindestens 125GM
 
-#### D2. ZAUBERLADUNGEN EINBETTEN
+#### D2. Zauberladungen einbetten
 
 Einzelne Ladungen von Zaubersprüchen (beispielsweise ein Ring, in dem 10x Feuerball eingebettet ist) brauchen sich nach Gebrauch zwar auf, sind dafür aber in der Herstellung weitaus günstiger:
 
@@ -603,7 +603,7 @@ Einzelne Ladungen von Zaubersprüchen (beispielsweise ein Ring, in dem 10x Feuer
 
 Die Anzahl der maximalen Ladungen des Gegenstandes kann dadurch nicht erhöht werden.
 
-#### D3. ZAUBERSTÄBE FERTIGEN
+#### D3. Zauberstäbe fertigen
 
 Die Kosten für Zauberstäbe (siehe [Zauberstäbe](regeln-magie.md#zauberstäbe)) errechnen sich wie folgt:
 
@@ -613,7 +613,7 @@ Die Kosten für Zauberstäbe (siehe [Zauberstäbe](regeln-magie.md#zauberstäbe)
 
 ¹: Mindestens 125GM
 
-#### D4. ABKLINGZEITEN VERKÜRZEN
+#### D4. Abklingzeiten verkürzen
 
 Die Abklingzeiten bestimmter Zaubereffekte eines Gegenstandes oder auch die eigenen Zaubersprüche desjenigen, der ihn bei sich trägt, können um bis zu VE/2 (des Zauberwirkers) Runden verkürzt werden:
 
@@ -623,7 +623,7 @@ Die Abklingzeiten bestimmter Zaubereffekte eines Gegenstandes oder auch die eige
 | Bestimmter Zauber seines Trägers |  125GM   |
 | Alle Zauber seines Trägers       | 2.500GM  |
 
-#### D5. ABKLINGZEITEN IGNORIEREN
+#### D5. Abklingzeiten ignorieren
 
 Abklingzeiten einzelner Zauber in Gegenständen können komplett ignoriert werden (beispielsweise für ein Teleportamulett, das jede Runde einsetzbar ist).
 
@@ -638,7 +638,7 @@ Abklingzeiten einzelner Zauber in Gegenständen können komplett ignoriert werde
 
 ²: Zusätzlich verliert der Zauberwirker permanent einen Punkt GEI.
 
-#### 3. GEGENSTAND HERSTELLEN
+#### 3. Gegenstand herstellen
 
 Während der Herstellung des Gegenstandes arbeiten Zauberwirker und Handwerker in einer entsprechenden Werkstatt gemeinsam (Pausen einkalkuliert) für
 
@@ -648,7 +648,7 @@ Während der Herstellung des Gegenstandes arbeiten Zauberwirker und Handwerker i
 
 Würfelt nach Ablauf der Zeit der Zauberwirker erfolgreich GEI+VE+Einbetten und der Handwerker (bei dem es sich auch um den Zauberwirker selbst handeln kann) erfolgreich GEI+GE+Handwerk, ist die Herstellung geglückt.
 
-### JUWELEN & EDELSTEINE
+### Juwelen & Edelsteine
 
 Kostbare Edelsteine und Juwelen können bei der Herstellung magischer Gegenstände (nicht bei Schriftrollen und Tränken) in diese eingearbeitet werden, was die Herstellung vereinfacht:
 

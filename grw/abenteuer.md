@@ -2,7 +2,7 @@
 
 Die hier vorgestellten drei Abenteuer sind alle an jeweils einem Spielabend gut zu schaffen. Neben dem für das neue Dungeonslayers überarbeiteten “[Herr der Ratten](abenteuer-herr-der-ratten.md)” gibt es auch ein rollenspiellastigeres [Reiseabenteuer](abenteuer-reise-des-verrats.md) und abschließend die äußerst tödliche “[Festung des Unheils](abenteuer-festung-des-unheils.md)”.
 
-## DIE CAERA KAMPAGNE
+## Die Caera Kampagne
 
 Wer gleich richtig loslegen will, spielt die drei Abenteuer am besten nacheinander in Folge - der ideale Auftakt für eine eigene Kampagne in der Welt von Caera, dem klassischen Dungeonslayers-Setting.
 
@@ -12,19 +12,19 @@ Nach dieser dreiteiligen Mini-Kampagne sollten die Charaktere die fünfte Stufe 
 
 Im Folgenden gibt es ein paar Hinweise, woher die Charaktere der Spieler stammen könnten. Zudem gibt es einige Vorschläge für Motivationen und Hintergründe, um die Charaktere besser einzubinden.
 
-#### ELFISCHE CHARAKTERE
+#### Elfische Charaktere
 
 Zwar können elfische Charaktere natürlich aus den kühlen Wäldern des Hynrur stammen, allerdings ist dieser Ort für einen noch unerfahrenen Elfen zu weit vom Kampagnenauftakt entfernt, weshalb _Dynomere_ als glaubhaftere Heimat empfohlen wird.
 
-#### MENSCHLICHE CHARAKTERE
+#### Menschliche Charaktere
 
 Diese sollten aus dem Gebiet zwischen _Volten_ und der _Kornheide_ stammen, gut passen würde eines der Gehöfte nahe _Westheim_ oder dem _Lennfelder Tal_.
 
-#### ZWERGISCHE CHARAKTERE
+#### Zwergische Charaktere
 
 Zwerge können von überall aus der Gegend am _Langstrom_ kommen, vielleicht stammen sie ursprünglich sogar direkt aus _Eisenhall_, wo sie jedoch schon länger nicht mehr gewesen sein sollten.
 
-#### MOTIVATIONEN & HINTERGRÜNDE
+#### Motivationen & Hintergründe
 
 Die Kampagne beginnt in der Stadt Westheim und führt im Verlauf der Handlung nach Norden in die Tannhügel, weshalb es praktisch ist, den Charakteren gleich einen Grund zu geben, warum sie in diese Richtung wollen:
 

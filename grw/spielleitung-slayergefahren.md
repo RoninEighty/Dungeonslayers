@@ -2,13 +2,13 @@
 
 Neben Monstern bedrohen noch vielerlei andere Dinge einen Dungeonslayer:
 
-### FALLEN
+### Fallen
 
 In jeden richtigen Dungeon gehören - sinnvoll platziert - ein paar ordentliche Fallen, die es zu entdecken und zu entschärfen gilt (siehe [Fallen entschärfen](spielleitung-erweiterte-proben.md#fallen-entschärfen-geige)), will man ihrem “Angriff” entgehen.
 
 Fallen haben einen Tarnwert (TW), in der Regel zwischen 0 und 8.
 
-### TYPISCHE FALLEN
+### Typische Fallen
 
 #### Fallgruben (TW: 0-8)
 
@@ -26,7 +26,7 @@ Solche Fallen greifen mit einem Steinschlag an, dessen Probenwert in der Regel z
 
 Ein oder mehrere aus den Wänden oder der Decke schießende Speere - durch Druckplatten oder Stolperschnüre ausgelöst - mit Schlagen 15 oder höher
 
-### FEUER & SÄURE
+### Feuer & Säure
 
 Bis auf wenige Ausnahmen - wie zum Beispiel der Zauber Feuerball oder Drachenodem - wird gegen Feuer- und Säureschaden ganz normal Abwehr gewürfelt.
 
@@ -52,7 +52,7 @@ nichtmagisches Rüstungsteil des Ziels zerstört.
 
 ¹: brennt bis Schadenssumme: 15; Ausklopfen kostet eine ganze Aktion
 
-### ERTRINKEN
+### Ertrinken
 
 Untergehende Charaktere (siehe [Schwimmen](../spielleitung-erweiterte-proben.md#schwimmen-agibe)) können noch KÖR+HÄ Kampfrunden lang die Luft anhalten, während sie dabei mit 2m pro Runde zu Boden sinken.
 
@@ -63,7 +63,7 @@ Ertrinkende Charaktere erhalten jede Runde W20 Schadenspunkte, gegen die sie gan
 
 Ertrunkene, die nicht mehr als KÖR x 2 Kampfrunden tot sind, können mit GEI+GE+Bildung+Fürsorger oder Heilmagie reanimiert werden.
 
-### ERSCHÖPFUNGSSCHADEN
+### Erschöpfungsschaden
 
 Durch extreme Umweltbedingungen oder auf Grund mangelnder Ernährung können Charaktere Erschöpfungsschaden erhalten.
 
@@ -77,11 +77,11 @@ Nur die nötigen Gegenmaßnahmen (Kühlen bzw. Wärmen, Nahrungsaufnahme usw.) v
 | Keine Nahrung       |  2 pro Tag  |
 | Kein Wasser         |  5 pro Tag  |
 
-### STURZSCHADEN
+### Sturzschaden
 
 Dungeonslayer neigen dazu, hin und wieder tief zu stürzen. Der Sturzschaden entspricht der Sturztiefe x 3 (also beispielsweise Schaden 12 bei 4m), gegen den Abwehr gewürfelt wird.
 
-### ZUFALLSBEGEGNUNGEN
+### Zufallsbegegnungen
 
 Gegen Spannungstiefs eingesetzt, verleihen sie jedem Dungeon eine Eigendynamik, die selbst den SL überrascht.
 
@@ -89,21 +89,21 @@ Neben der klassischen Methode, Zufallsbegegnungen in zeitlichen Abständen oder 
 
 Die Ergebnisse von Zufallsbegegnungen sollten individuell an den jeweiligen Dungeon angepasst werden und - sofern dies möglich ist - auch positive Begegnungen enthalten.
 
-### GIFT
+### Gift
 
 Luftdicht aufbewahrte Gifte können in Getränke gegeben, unter das Essen gemischt, auf Klingen geschmiert oder auf Pfeile und Bolzen aufgetragen werden, verlieren ab dann aber nach spätestens W20 x 10 Minuten ihre Wirkung.
 
 Bei beschmierten Waffen muss erst ein Treffer gelandet werden, der Schaden verursacht, bevor das Gift (einmalig) wirkt.
 
-#### VERGIFTUNG BEMERKEN
+#### Vergiftung bemerken
 
 Wer heimlich vergiftet wird (beispielsweise beim Essen) kann GEI+VE+Wahrnehmung würfeln, um das Gift noch rechtzeitig zu bemerken. Dieser PW kann durch den Tarnwert (TW) des Giftes gemindert werden.
 
-#### SCHADEN DURCH GIFT
+#### Schaden durch Gift
 
 Gifte, die Schaden verursachen, würfeln einen Angriff bzw. verursachen feststehenden Schaden. Nicht jedes Gift erlaubt einen Wurf auf Abwehr (wobei die Rüstung nicht zählt), um den Schaden zu mindern.
 
-#### BETÄUBUNGS- UND LÄHMUNGSGIFTE
+#### Betäugungs- und Lähmungseffekte
 
 Der Vergiftete würfelt KÖR+HÄ+Einstecker, sonst wird der Charakter durch solch ein Gift außer Gefecht gesetzt. Jede zusätzliche Dosis senkt den PW des Vergifteten um 1, ebenso aber auch den TW des Giftes (was zu einem Bonus zum Bemerken des Giftes führen kann).
 

@@ -6,13 +6,13 @@ In einer Kampfrunde agieren alle am Kampf beteiligten Charaktere in Reihenfolge 
 
 Haben alle Beteiligten gehandelt, beginnt die nächste Kampfrunde.
 
-#### 1. INITIATIVE
+#### 1. Initiative
 
 Alle Beteiligten kommen in Reihenfolge ihrer Initiative zum Zuge. Bei einem Gleichstand wird mit W20 einmalig pro Kampf ein Stechen gewürfelt, der höhere Wurf siegt.
 
 Gelingt es einer Partei, die andere zu überraschen, erhalten ihre Mitglieder in der ersten Kampfrunde +10 auf ihre Initiative.
 
-#### 2. LAUFEN
+#### 2. Laufen
 
 Ist ein Charakter an der Reihe, kann er sich seinen Laufen-Wert in Metern maximal bewegen.
 
@@ -20,14 +20,14 @@ Diese Bewegung kann er nur vor oder nach seiner Aktion machen, aber nicht aufspl
 
 Hindernisse am Boden wie Trümmer oder dichtes Unterholz können den Laufen-Wert mindern, halbieren oder gar vierteln.
 
-#### 3. AKTION
+#### 3. Aktion
 
 Vor oder nach dem Laufen kann jeder Charakter eine einzelne Aktion (beispielsweise mit Schlagen, Schießen,
 Zaubern oder Zielzauber angreifen) durchführen.
 
 Eine Aktion kann nicht gespart werden, sondern verfällt am Ende ihrer Kampfrunde.
 
-### BEISPIELE FÜR AKTIONEN
+### Beispiele für Aktionen
 
 - Abwartehandlung
 - Aufstehen1
@@ -53,7 +53,7 @@ Eine Aktion kann nicht gespart werden, sondern verfällt am Ende ihrer Kampfrund
 2: Wenn ein Nahkampfziel sich in gerader,
 ungehinderter Rennenreichweite (Laufen - Laufen x2) befindet, kann man zu ihm rennen und es noch schlagen.
 
-### ANGRIFF UND ABWEHR
+### Angriff und Abwehr
 
 Das Ergebnis eines erfolgreichen **Angriffs** (mittels Schlagen, Schießen oder Zielzauber) ist zugleich der Schaden, der von der Lebenskraft des Ziels abgezogen wird.
 
@@ -61,7 +61,7 @@ Immer wenn ein Ziel Schaden erleidet, würfelt es automatisch eine **Abwehr**-Pr
 
 **Beispiel**: _Der Zwergenkrieger Gruffneck (Schlagen 12) trifft einen Orkkrieger (Abwehr 15) erfolgreich mit einer 9. Der Ork würfelt augenblicklich eine Abwehr-Probe, die ihm mit 4 gelingt. Somit erhält der Orkkrieger lediglich 5 (= 9 - 4) Punkte Schaden, statt 9._
 
-### WAFFEN UND RÜSTUNGEN
+### Waffen und Rüstungen
 
 Waffen und Rüstungen geben durch ihren **Waffenbonus (WB)** bzw. ihre **Panzerung (PA)** Boni auf die Kampfwerte.
 
@@ -73,7 +73,7 @@ Jeder Charakter kann immer nur einen **Helm**, einen **Panzer** und eine Art von
 
 Die Rüstungsbeschränkungen der drei Grundklassen gelten auch für ihre jeweiligen Heldenklassen, wobei einige das Talente **Gerüstet** erwerben können, mit dem man weitere Rüstungsarten tragen kann.
 
-### KLASSENFREMDE RÜSTUNG TRAGEN
+### Klassenfremde Rüstung tragen
 
 Trägt ein Charakter eine Rüstung, die ihm von seiner Klasse her nicht gestattet ist, wird ihr PA-Malus auf Zaubern und Zielzauber vervierfacht und die Agilität um den PA-Wert gesenkt (dies gilt nicht für Rüstungen, die der Charakter durch das Talent **Gerüstet** tragen darf).
 

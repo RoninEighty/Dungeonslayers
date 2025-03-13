@@ -11,7 +11,7 @@ Für 1 Lernpunkt kann man eine neue Sprache oder neue Schriftzeichen erlernen
 
 **Settingoption**: Elfische Lettern und zwergische Runen werden in vielen Settings wohl gehütet und Vertretern anderer Völker nicht einfach beigebracht.
 
-## WAREN HERSTELLEN
+## Waren herstellen
 
 Charaktere mit dem Talent **Handwerk** sind in der Lage, Gegenstände zu reparieren und herzustellen, sofern sie von der erlernten Handwerksart (siehe [Handwerk](talente/handwerk.md)) abgedeckt werden (beispielsweise Bögen und Pfeile bei Bogenbau). Die Herstellung kostet genau die Hälfte vom handelsüblichen Preis des Gegenstandes und dauert
 
@@ -23,29 +23,29 @@ Eine **Reparatur** (sofern noch möglich) kostet in der Regel nichts und dauert 
 
 Keine Werkstatt (-8) oder auch kein Werkzeug (-4) erschweren jede Probe.
 
-## EP-VERGABE
+## EP-Vergabe
 
 Charaktere können auf verschiedene Arten Erfahrungspunkte verdienen. Dabei gelten die folgenden Richtlinien für die Vergabe von Erfahrungspunkten:
 
-### PUNKTE FÜR GEGNER
+### Punkte für Gegner
 
 Die EP für getötete oder überlistete Gegner errechnen sich aus der EP-Summe aller Gegner geteilt durch die Anzahl der beteiligten Charaktere.
 
 **Beispiel**: _Fünf Dungeonslayer haben 10 Goblinkrieger zu je 20EP besiegt. Jeder Charakter erhält anschließend 40EP (200/5)._
 
-### PUNKTE FÜR QUESTS
+### Punkte für Quests
 
 Erreichen von klar definierten Abenteuerzielen (das elfische Artefakt bergen, den Bösewicht ausschalten etc.) sollten mindestens einem Viertel aller Gegner-EP entsprechen.
 
 **Beispiel**: _Für die nun abgeschlossene Quest “Vernichtet die Goblinbande” erhält jeder Dungeonslayer 10EP (40/4)._
 
-### PUNKTE FÜR ROLLENSPIEL
+### Punkte für Rollenspiel
 
 Atmosphärisches, unterhaltsames und charaktergerechtes Rollenspiel sollte gefördert werden. Ein Charakter kann dadurch pro Situation bis zu Stufe x 2 EP verdienen.
 
 **Beispiel**: _Ein Charakter der 5. Stufe kann durch Rollenspiel pro Situation bis zu 10 EP verdienen._
 
-### WEITERE PUNKTE
+### Weitere Punkte
 
 Gute Ideen, clevere Vorangehensweisen, das Überwinden von Fallen und abgeschlossene Abenteuerabschnitte sollten mit 5-25 EP belohnt werden, pro erforschtem Dungeonraum oder 10 gereisten Kilometern durch die Wildnis gibt es 1EP.
 
