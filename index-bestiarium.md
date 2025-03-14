@@ -1,341 +1,341 @@
 [Adler](grw/bestiarium/adler.md)<br>
-[Aensteiner Soldat](fankwerk/bestiarium/aensteiner-soldat.md)<br>
-[Aensteiner Wilderer](fankwerk/bestiarium/aensteiner-wilderer.md)<br>
-[Airigh](fankwerk/bestiarium/airigh.md)<br>
-[Akyna](fankwerk/bestiarium/akyna.md)<br>
-[Al-Nuzzran](fankwerk/bestiarium/al-nuzzran.md)<br>
+[Aensteiner Soldat](fanwerk/bestiarium/aensteiner-soldat.md)<br>
+[Aensteiner Wilderer](fanwerk/bestiarium/aensteiner-wilderer.md)<br>
+[Airigh](fanwerk/bestiarium/airigh.md)<br>
+[Akyna](fanwerk/bestiarium/akyna.md)<br>
+[Al-Nuzzran](fanwerk/bestiarium/al-nuzzran.md)<br>
 [Alligator](grw/bestiarium/alligator.md)<br>
-[Anarioth 'Der Sturmrufer'](fankwerk/bestiarium/anarioth-der-sturmrufer.md)<br>
-[Angischer Clanskrieger](fankwerk/bestiarium/angischer-clanskrieger.md)<br>
+[Anarioth 'Der Sturmrufer'](fanwerk/bestiarium/anarioth-der-sturmrufer.md)<br>
+[Angischer Clanskrieger](fanwerk/bestiarium/angischer-clanskrieger.md)<br>
 [Ankmatur](grw/bestiarium/ankmatur.md)<br>
-[Apokalpytischer Reiter der Pestilenz](fankwerk/bestiarium/apokalpytischer-reiter-der-pestilenz.md)<br>
-[Apokalpytischer Reiter des Hungers](fankwerk/bestiarium/apokalpytischer-reiter-des-hungers.md)<br>
-[Apokalpytischer Reiter des Kriegs](fankwerk/bestiarium/apokalpytischer-reiter-des-kriegs.md)<br>
-[Apokalpytischer Reiter des Todes](fankwerk/bestiarium/apokalpytischer-reiter-des-todes.md)<br>
-[Apokalpytisches Ross](fankwerk/bestiarium/apokalpytisches-ross.md)<br>
-[Arbeiter](fankwerk/bestiarium/arbeiter.md)<br>
-[Arcuna](fankwerk/bestiarium/arcuna.md)<br>
-[Arken Beijl](fankwerk/bestiarium/arken-beijl.md)<br>
-[Ascheelf Krieger](fankwerk/bestiarium/ascheelf-krieger.md)<br>
-[Ascheelf Rächer](fankwerk/bestiarium/ascheelf-raecher.md)<br>
-[Ascheelf Späher](fankwerk/bestiarium/ascheelf-spaeher.md)<br>
-[Asphyx](fankwerk/bestiarium/asphyx.md)<br>
+[Apokalpytischer Reiter der Pestilenz](fanwerk/bestiarium/apokalpytischer-reiter-der-pestilenz.md)<br>
+[Apokalpytischer Reiter des Hungers](fanwerk/bestiarium/apokalpytischer-reiter-des-hungers.md)<br>
+[Apokalpytischer Reiter des Kriegs](fanwerk/bestiarium/apokalpytischer-reiter-des-kriegs.md)<br>
+[Apokalpytischer Reiter des Todes](fanwerk/bestiarium/apokalpytischer-reiter-des-todes.md)<br>
+[Apokalpytisches Ross](fanwerk/bestiarium/apokalpytisches-ross.md)<br>
+[Arbeiter](fanwerk/bestiarium/arbeiter.md)<br>
+[Arcuna](fanwerk/bestiarium/arcuna.md)<br>
+[Arken Beijl](fanwerk/bestiarium/arken-beijl.md)<br>
+[Ascheelf Krieger](fanwerk/bestiarium/ascheelf-krieger.md)<br>
+[Ascheelf Rächer](fanwerk/bestiarium/ascheelf-raecher.md)<br>
+[Ascheelf Späher](fanwerk/bestiarium/ascheelf-spaeher.md)<br>
+[Asphyx](fanwerk/bestiarium/asphyx.md)<br>
 [Augenball](grw/bestiarium/augenball.md)<br>
-[Baby Monsterspinne](fankwerk/bestiarium/baby-monsterspinne.md)<br>
-[Barex](fankwerk/bestiarium/barex.md)<br>
+[Baby Monsterspinne](fanwerk/bestiarium/baby-monsterspinne.md)<br>
+[Barex](fanwerk/bestiarium/barex.md)<br>
 [Basilisk](grw/bestiarium/basilisk.md)<br>
-[Baumgolem](fankwerk/bestiarium/baumgolem.md)<br>
+[Baumgolem](fanwerk/bestiarium/baumgolem.md)<br>
 [Baumherr](grw/bestiarium/baumherr.md)<br>
-[Belgor](fankwerk/bestiarium/belgor.md)<br>
-[Bergzwergischer Söldner](fankwerk/bestiarium/bergzwergischer-soeldner.md)<br>
-[Berna-Priesterin](fankwerk/bestiarium/berna-priesterin.md)<br>
-[Billiger Söldner](fankwerk/bestiarium/billiger-soeldner.md)<br>
-[Blasaminator](fankwerk/bestiarium/blasaminator.md)<br>
-[Blob](fankwerk/bestiarium/blob.md)<br>
-[Bosker Sturmkrähe (Söldner)](fankwerk/bestiarium/bosker-sturmkraehe-soeldner.md)<br>
-[Brambel](fankwerk/bestiarium/brambel.md)<br>
-[Brasko](fankwerk/bestiarium/brasko.md)<br>
-[Brutac](fankwerk/bestiarium/brutac.md)<br>
-[Bulegor](fankwerk/bestiarium/bulegor.md)<br>
+[Belgor](fanwerk/bestiarium/belgor.md)<br>
+[Bergzwergischer Söldner](fanwerk/bestiarium/bergzwergischer-soeldner.md)<br>
+[Berna-Priesterin](fanwerk/bestiarium/berna-priesterin.md)<br>
+[Billiger Söldner](fanwerk/bestiarium/billiger-soeldner.md)<br>
+[Blasaminator](fanwerk/bestiarium/blasaminator.md)<br>
+[Blob](fanwerk/bestiarium/blob.md)<br>
+[Bosker Sturmkrähe (Söldner)](fanwerk/bestiarium/bosker-sturmkraehe-soeldner.md)<br>
+[Brambel](fanwerk/bestiarium/brambel.md)<br>
+[Brasko](fanwerk/bestiarium/brasko.md)<br>
+[Brutac](fanwerk/bestiarium/brutac.md)<br>
+[Bulegor](fanwerk/bestiarium/bulegor.md)<br>
 [Bär](grw/bestiarium/baer.md)<br>
-[Caerner Freibeuter](fankwerk/bestiarium/caerner-freibeuter.md)<br>
-[Casius](fankwerk/bestiarium/casius.md)<br>
-[Chalog Omesch](fankwerk/bestiarium/chalog-omesch.md)<br>
-[Chien Kwan](fankwerk/bestiarium/chien-kwan.md)<br>
-[Chio-Puan Wandermönch](fankwerk/bestiarium/chio-puan-wandermoench.md)<br>
-[Copperntaler Milizionär](fankwerk/bestiarium/copperntaler-milizionaer.md)<br>
-[Cranag der Wanderer](fankwerk/bestiarium/cranag-der-wanderer.md)<br>
-[Dampfkutsche](fankwerk/bestiarium/dampfkutsche.md)<br>
-[Deformierter Drachenwelpe](fankwerk/bestiarium/deformierter-drachenwelpe.md)<br>
-[Der Ketzer](fankwerk/bestiarium/der-ketzer.md)<br>
-[Der Weltenfresser](fankwerk/bestiarium/der-weltenfresser.md)<br>
-[Dermot Madal](fankwerk/bestiarium/dermot-madal.md)<br>
-[Die Eiskönigin](fankwerk/bestiarium/die-eiskoenigin.md)<br>
-[Dirion](fankwerk/bestiarium/dirion.md)<br>
-[Donnerechse](fankwerk/bestiarium/donnerechse.md)<br>
-[Donnervogel](fankwerk/bestiarium/donnervogel.md)<br>
-[Drac](fankwerk/bestiarium/drac.md)<br>
+[Caerner Freibeuter](fanwerk/bestiarium/caerner-freibeuter.md)<br>
+[Casius](fanwerk/bestiarium/casius.md)<br>
+[Chalog Omesch](fanwerk/bestiarium/chalog-omesch.md)<br>
+[Chien Kwan](fanwerk/bestiarium/chien-kwan.md)<br>
+[Chio-Puan Wandermönch](fanwerk/bestiarium/chio-puan-wandermoench.md)<br>
+[Copperntaler Milizionär](fanwerk/bestiarium/copperntaler-milizionaer.md)<br>
+[Cranag der Wanderer](fanwerk/bestiarium/cranag-der-wanderer.md)<br>
+[Dampfkutsche](fanwerk/bestiarium/dampfkutsche.md)<br>
+[Deformierter Drachenwelpe](fanwerk/bestiarium/deformierter-drachenwelpe.md)<br>
+[Der Ketzer](fanwerk/bestiarium/der-ketzer.md)<br>
+[Der Weltenfresser](fanwerk/bestiarium/der-weltenfresser.md)<br>
+[Dermot Madal](fanwerk/bestiarium/dermot-madal.md)<br>
+[Die Eiskönigin](fanwerk/bestiarium/die-eiskoenigin.md)<br>
+[Dirion](fanwerk/bestiarium/dirion.md)<br>
+[Donnerechse](fanwerk/bestiarium/donnerechse.md)<br>
+[Donnervogel](fanwerk/bestiarium/donnervogel.md)<br>
+[Drac](fanwerk/bestiarium/drac.md)<br>
 [Drachenwelpe](grw/bestiarium/drachenwelpe.md)<br>
-[Drazuul die Verderberin](fankwerk/bestiarium/drazuul-die-verderberin.md)<br>
-[Duldgnomischer Zaubertechniker](fankwerk/bestiarium/duldgnomischer-zaubertechniker.md)<br>
-[Dunkler Krieger](fankwerk/bestiarium/dunkler-krieger.md)<br>
+[Drazuul die Verderberin](fanwerk/bestiarium/drazuul-die-verderberin.md)<br>
+[Duldgnomischer Zaubertechniker](fanwerk/bestiarium/duldgnomischer-zaubertechniker.md)<br>
+[Dunkler Krieger](fanwerk/bestiarium/dunkler-krieger.md)<br>
 [Dämonenfürst](grw/bestiarium/daemonenfuerst.md)<br>
 [Echsenmensch](grw/bestiarium/echsenmensch.md)<br>
-[Einbrecher](fankwerk/bestiarium/einbrecher.md)<br>
+[Einbrecher](fanwerk/bestiarium/einbrecher.md)<br>
 [Einhorn](grw/bestiarium/einhorn.md)<br>
-[Eiselementar III](fankwerk/bestiarium/eiselementar-iii.md)<br>
-[Eisenhaller Armbrustschütze](fankwerk/bestiarium/eisenhaller-armbrustschuetze.md)<br>
-[Eiswolf](fankwerk/bestiarium/eiswolf.md)<br>
-[Eiszwerg](fankwerk/bestiarium/eiszwerg.md)<br>
-[Eldvyn](fankwerk/bestiarium/eldvyn.md)<br>
+[Eiselementar III](fanwerk/bestiarium/eiselementar-iii.md)<br>
+[Eisenhaller Armbrustschütze](fanwerk/bestiarium/eisenhaller-armbrustschuetze.md)<br>
+[Eiswolf](fanwerk/bestiarium/eiswolf.md)<br>
+[Eiszwerg](fanwerk/bestiarium/eiszwerg.md)<br>
+[Eldvyn](fanwerk/bestiarium/eldvyn.md)<br>
 [Emrich](grw/bestiarium/emrich.md)<br>
-[Engel der Apokalypse](fankwerk/bestiarium/engel-der-apokalypse.md)<br>
-[Enural](fankwerk/bestiarium/enural.md)<br>
-[Erald](fankwerk/bestiarium/erald.md)<br>
+[Engel der Apokalypse](fanwerk/bestiarium/engel-der-apokalypse.md)<br>
+[Enural](fanwerk/bestiarium/enural.md)<br>
+[Erald](fanwerk/bestiarium/erald.md)<br>
 [Erdelementar I](grw/bestiarium/erdelementar-i.md)<br>
 [Erdelementar II](grw/bestiarium/erdelementar-ii.md)<br>
 [Erdelementar III](grw/bestiarium/erdelementar-iii.md)<br>
-[Erfahrener Rattling](fankwerk/bestiarium/erfahrener-rattling.md)<br>
-[Erindor](fankwerk/bestiarium/erindor.md)<br>
+[Erfahrener Rattling](fanwerk/bestiarium/erfahrener-rattling.md)<br>
+[Erindor](fanwerk/bestiarium/erindor.md)<br>
 [Erwachsener Drache](grw/bestiarium/erwachsener-drache.md)<br>
-[Ettin](fankwerk/bestiarium/ettin.md)<br>
+[Ettin](fanwerk/bestiarium/ettin.md)<br>
 [Eulerich](grw/bestiarium/eulerich.md)<br>
-[Fahlstepper Grenzwächter](fankwerk/bestiarium/fahlstepper-grenzwaechter.md)<br>
-[Falschspieler](fankwerk/bestiarium/falschspieler.md)<br>
-[Faria (Feuermagierin)](fankwerk/bestiarium/faria-feuermagierin.md)<br>
+[Fahlstepper Grenzwächter](fanwerk/bestiarium/fahlstepper-grenzwaechter.md)<br>
+[Falschspieler](fanwerk/bestiarium/falschspieler.md)<br>
+[Faria (Feuermagierin)](fanwerk/bestiarium/faria-feuermagierin.md)<br>
 [Faulbauch](grw/bestiarium/faulbauch.md)<br>
 [Faulbauchmade](grw/bestiarium/faulbauchmade.md)<br>
-[Fenya](fankwerk/bestiarium/fenya.md)<br>
-[Fetter Goblin-Aufseher](fankwerk/bestiarium/fetter-goblin-aufseher.md)<br>
+[Fenya](fanwerk/bestiarium/fenya.md)<br>
+[Fetter Goblin-Aufseher](fanwerk/bestiarium/fetter-goblin-aufseher.md)<br>
 [Feuerelementar I](grw/bestiarium/feuerelementar-i.md)<br>
 [Feuerelementar II](grw/bestiarium/feuerelementar-ii.md)<br>
 [Feuerelementar III](grw/bestiarium/feuerelementar-iii.md)<br>
-[Fjordinger Wikinger](fankwerk/bestiarium/fjordinger-wikinger.md)<br>
-[Fjordorzwergischer Kaperfahrer](fankwerk/bestiarium/fjordorzwergischer-kaperfahrer.md)<br>
-[Fliegender Schädel](fankwerk/bestiarium/fliegender-schaedel.md)<br>
+[Fjordinger Wikinger](fanwerk/bestiarium/fjordinger-wikinger.md)<br>
+[Fjordorzwergischer Kaperfahrer](fanwerk/bestiarium/fjordorzwergischer-kaperfahrer.md)<br>
+[Fliegender Schädel](fanwerk/bestiarium/fliegender-schaedel.md)<br>
 [Fliegendes Schwert](grw/bestiarium/fliegendes-schwert.md)<br>
-[Floragon](fankwerk/bestiarium/floragon.md)<br>
-[Freiländer Dämonenjäger](fankwerk/bestiarium/freilaender-daemonenjaeger.md)<br>
-[Funkenfieper](fankwerk/bestiarium/funkenfieper.md)<br>
-[Galen](fankwerk/bestiarium/galen.md)<br>
+[Floragon](fanwerk/bestiarium/floragon.md)<br>
+[Freiländer Dämonenjäger](fanwerk/bestiarium/freilaender-daemonenjaeger.md)<br>
+[Funkenfieper](fanwerk/bestiarium/funkenfieper.md)<br>
+[Galen](fanwerk/bestiarium/galen.md)<br>
 [Gargyl](grw/bestiarium/gargyl.md)<br>
 [Geist](grw/bestiarium/geist.md)<br>
-[Geistpeiniger](fankwerk/bestiarium/geistpeiniger.md)<br>
-[Getreuer Dammenhalls](fankwerk/bestiarium/getreuer-dammenhalls.md)<br>
-[Gisamor](fankwerk/bestiarium/gisamor.md)<br>
-[Glitzerhand (Dieb)](fankwerk/bestiarium/glitzerhand-dieb.md)<br>
-[Gloriel 'Die Kräuterhexe'](fankwerk/bestiarium/gloriel-die-kraeuterhexe.md)<br>
-[Gnomischer Illusionist](fankwerk/bestiarium/gnomischer-illusionist.md)<br>
+[Geistpeiniger](fanwerk/bestiarium/geistpeiniger.md)<br>
+[Getreuer Dammenhalls](fanwerk/bestiarium/getreuer-dammenhalls.md)<br>
+[Gisamor](fanwerk/bestiarium/gisamor.md)<br>
+[Glitzerhand (Dieb)](fanwerk/bestiarium/glitzerhand-dieb.md)<br>
+[Gloriel 'Die Kräuterhexe'](fanwerk/bestiarium/gloriel-die-kraeuterhexe.md)<br>
+[Gnomischer Illusionist](fanwerk/bestiarium/gnomischer-illusionist.md)<br>
 [Goblin](grw/bestiarium/goblin.md)<br>
-[Goblin Berserker](fankwerk/bestiarium/goblin-berserker.md)<br>
-[Goblin Bomber](fankwerk/bestiarium/goblin-bomber.md)<br>
-[Goblin Giftmörder](fankwerk/bestiarium/goblin-giftmoerder.md)<br>
-[Goblin Häuptling](fankwerk/bestiarium/goblin-haeuptling.md)<br>
-[Goblin Krieger](fankwerk/bestiarium/goblin-krieger.md)<br>
-[Goblin Schamane](fankwerk/bestiarium/goblin-schamane.md)<br>
-[Goblin Späher](fankwerk/bestiarium/goblin-spaeher.md)<br>
-[Goblin Stadtratte](fankwerk/bestiarium/goblin-stadtratte.md)<br>
-[Goblinrächer](fankwerk/bestiarium/goblinraecher.md)<br>
+[Goblin Berserker](fanwerk/bestiarium/goblin-berserker.md)<br>
+[Goblin Bomber](fanwerk/bestiarium/goblin-bomber.md)<br>
+[Goblin Giftmörder](fanwerk/bestiarium/goblin-giftmoerder.md)<br>
+[Goblin Häuptling](fanwerk/bestiarium/goblin-haeuptling.md)<br>
+[Goblin Krieger](fanwerk/bestiarium/goblin-krieger.md)<br>
+[Goblin Schamane](fanwerk/bestiarium/goblin-schamane.md)<br>
+[Goblin Späher](fanwerk/bestiarium/goblin-spaeher.md)<br>
+[Goblin Stadtratte](fanwerk/bestiarium/goblin-stadtratte.md)<br>
+[Goblinrächer](fanwerk/bestiarium/goblinraecher.md)<br>
 [Golem, Eisen-](grw/bestiarium/golem-eisen-.md)<br>
 [Golem, Knochen-](grw/bestiarium/golem-knochen-.md)<br>
 [Golem, Kristall-](grw/bestiarium/golem-kristall-.md)<br>
 [Golem, Lehm-](grw/bestiarium/golem-lehm-.md)<br>
 [Golem, Stein-](grw/bestiarium/golem-stein-.md)<br>
-[Gralbor Weißauge](fankwerk/bestiarium/gralbor-weißauge.md)<br>
-[Grottenschrat](fankwerk/bestiarium/grottenschrat.md)<br>
-[Großmutter Gorla](fankwerk/bestiarium/großmutter-gorla.md)<br>
-[Grufthauptmann](fankwerk/bestiarium/grufthauptmann.md)<br>
-[Gruftplünderer](fankwerk/bestiarium/gruftpluenderer.md)<br>
-[Gruftritter](fankwerk/bestiarium/gruftritter.md)<br>
-[Gärtner](fankwerk/bestiarium/gaertner.md)<br>
+[Gralbor Weißauge](fanwerk/bestiarium/gralbor-weißauge.md)<br>
+[Grottenschrat](fanwerk/bestiarium/grottenschrat.md)<br>
+[Großmutter Gorla](fanwerk/bestiarium/großmutter-gorla.md)<br>
+[Grufthauptmann](fanwerk/bestiarium/grufthauptmann.md)<br>
+[Gruftplünderer](fanwerk/bestiarium/gruftpluenderer.md)<br>
+[Gruftritter](fanwerk/bestiarium/gruftritter.md)<br>
+[Gärtner](fanwerk/bestiarium/gaertner.md)<br>
 [Hai](grw/bestiarium/hai.md)<br>
-[Halblingskelett](fankwerk/bestiarium/halblingskelett.md)<br>
+[Halblingskelett](fanwerk/bestiarium/halblingskelett.md)<br>
 [Harpyie](grw/bestiarium/harpyie.md)<br>
 [Harringer](grw/bestiarium/harringer.md)<br>
-[Hartmund](fankwerk/bestiarium/hartmund.md)<br>
-[Heiler (Schütze 01)](fankwerk/bestiarium/heiler-schuetze-01.md)<br>
-[Heiler (Schütze 04)](fankwerk/bestiarium/heiler-schuetze-04.md)<br>
-[Heiler (Schütze 08)](fankwerk/bestiarium/heiler-schuetze-08.md)<br>
-[Heiler (Schütze 12)](fankwerk/bestiarium/heiler-schuetze-12.md)<br>
-[Heimsucher](fankwerk/bestiarium/heimsucher.md)<br>
-[Hellweiter Diplomat](fankwerk/bestiarium/hellweiter-diplomat.md)<br>
-[Heob (Ordensheiler)](fankwerk/bestiarium/heob-ordensheiler.md)<br>
-[Hilaner Priester](fankwerk/bestiarium/hilaner-priester.md)<br>
-[Hilanischer Peltast](fankwerk/bestiarium/hilanischer-peltast.md)<br>
+[Hartmund](fanwerk/bestiarium/hartmund.md)<br>
+[Heiler (Schütze 01)](fanwerk/bestiarium/heiler-schuetze-01.md)<br>
+[Heiler (Schütze 04)](fanwerk/bestiarium/heiler-schuetze-04.md)<br>
+[Heiler (Schütze 08)](fanwerk/bestiarium/heiler-schuetze-08.md)<br>
+[Heiler (Schütze 12)](fanwerk/bestiarium/heiler-schuetze-12.md)<br>
+[Heimsucher](fanwerk/bestiarium/heimsucher.md)<br>
+[Hellweiter Diplomat](fanwerk/bestiarium/hellweiter-diplomat.md)<br>
+[Heob (Ordensheiler)](fanwerk/bestiarium/heob-ordensheiler.md)<br>
+[Hilaner Priester](fanwerk/bestiarium/hilaner-priester.md)<br>
+[Hilanischer Peltast](fanwerk/bestiarium/hilanischer-peltast.md)<br>
 [Hobgoblin](grw/bestiarium/hobgoblin.md)<br>
 [Hoher Dämon](grw/bestiarium/hoher-daemon.md)<br>
 [Hund](grw/bestiarium/hund.md)<br>
 [Hydra](grw/bestiarium/hydra.md)<br>
-[Iglorion](fankwerk/bestiarium/iglorion.md)<br>
-[Irrlicht](fankwerk/bestiarium/irrlicht.md)<br>
-[Jok von Walderson](fankwerk/bestiarium/jok-von-walderson.md)<br>
-[Josip](fankwerk/bestiarium/josip.md)<br>
-[Jost Rotweiden](fankwerk/bestiarium/jost-rotweiden.md)<br>
+[Iglorion](fanwerk/bestiarium/iglorion.md)<br>
+[Irrlicht](fanwerk/bestiarium/irrlicht.md)<br>
+[Jok von Walderson](fanwerk/bestiarium/jok-von-walderson.md)<br>
+[Josip](fanwerk/bestiarium/josip.md)<br>
+[Jost Rotweiden](fanwerk/bestiarium/jost-rotweiden.md)<br>
 [Jungdrache](grw/bestiarium/jungdrache.md)<br>
-[Jödländer Schamanin](fankwerk/bestiarium/joedlaender-schamanin.md)<br>
-[Kaholwächter](fankwerk/bestiarium/kaholwaechter.md)<br>
-[Kait Jadedrache](fankwerk/bestiarium/kait-jadedrache.md)<br>
-[Kait Ninja](fankwerk/bestiarium/kait-ninja.md)<br>
-[Kait Schwertgelehrter](fankwerk/bestiarium/kait-schwertgelehrter.md)<br>
+[Jödländer Schamanin](fanwerk/bestiarium/joedlaender-schamanin.md)<br>
+[Kaholwächter](fanwerk/bestiarium/kaholwaechter.md)<br>
+[Kait Jadedrache](fanwerk/bestiarium/kait-jadedrache.md)<br>
+[Kait Ninja](fanwerk/bestiarium/kait-ninja.md)<br>
+[Kait Schwertgelehrter](fanwerk/bestiarium/kait-schwertgelehrter.md)<br>
 [Kamp](grw/bestiarium/kamp.md)<br>
 [Kampfdämon](grw/bestiarium/kampfdaemon.md)<br>
-[Kampfmagier 01](fankwerk/bestiarium/kampfmagier-01.md)<br>
-[Kampfmagier 04](fankwerk/bestiarium/kampfmagier-04.md)<br>
-[Kampfmagier 08](fankwerk/bestiarium/kampfmagier-08.md)<br>
-[Kampfmagier 12](fankwerk/bestiarium/kampfmagier-12.md)<br>
-[Kavija die Uralte](fankwerk/bestiarium/kavija-die-uralte.md)<br>
+[Kampfmagier 01](fanwerk/bestiarium/kampfmagier-01.md)<br>
+[Kampfmagier 04](fanwerk/bestiarium/kampfmagier-04.md)<br>
+[Kampfmagier 08](fanwerk/bestiarium/kampfmagier-08.md)<br>
+[Kampfmagier 12](fanwerk/bestiarium/kampfmagier-12.md)<br>
+[Kavija die Uralte](fanwerk/bestiarium/kavija-die-uralte.md)<br>
 [Keiler](grw/bestiarium/keiler.md)<br>
-[Kerberos](fankwerk/bestiarium/kerberos.md)<br>
+[Kerberos](fanwerk/bestiarium/kerberos.md)<br>
 [Kleine Monsterspinne](grw/bestiarium/kleine-monsterspinne.md)<br>
-[Kleine Mordmücke](fankwerk/bestiarium/kleine-mordmuecke.md)<br>
-[Kleiner Augenball](fankwerk/bestiarium/kleiner-augenball.md)<br>
-[Kleiner Borstenwurm](fankwerk/bestiarium/kleiner-borstenwurm.md)<br>
-[Kleiner Knochengolem](fankwerk/bestiarium/kleiner-knochengolem.md)<br>
+[Kleine Mordmücke](fanwerk/bestiarium/kleine-mordmuecke.md)<br>
+[Kleiner Augenball](fanwerk/bestiarium/kleiner-augenball.md)<br>
+[Kleiner Borstenwurm](fanwerk/bestiarium/kleiner-borstenwurm.md)<br>
+[Kleiner Knochengolem](fanwerk/bestiarium/kleiner-knochengolem.md)<br>
 [Kobold](grw/bestiarium/kobold.md)<br>
-[Komplize](fankwerk/bestiarium/komplize.md)<br>
-[Kral der Schreckliche](fankwerk/bestiarium/kral-der-schreckliche.md)<br>
+[Komplize](fanwerk/bestiarium/komplize.md)<br>
+[Kral der Schreckliche](fanwerk/bestiarium/kral-der-schreckliche.md)<br>
 [Kriegsdämon](grw/bestiarium/kriegsdaemon.md)<br>
 [Kriegselefant](grw/bestiarium/kriegselefant.md)<br>
-[Kruga](fankwerk/bestiarium/kruga.md)<br>
-[Krötenhaut](fankwerk/bestiarium/kroetenhaut.md)<br>
-[Kultist in Mautmoreen](fankwerk/bestiarium/kultist-in-mautmoreen.md)<br>
+[Kruga](fanwerk/bestiarium/kruga.md)<br>
+[Krötenhaut](fanwerk/bestiarium/kroetenhaut.md)<br>
+[Kultist in Mautmoreen](fanwerk/bestiarium/kultist-in-mautmoreen.md)<br>
 [Lebende Rüstung](grw/bestiarium/lebende-ruestung.md)<br>
-[Lebende Wurzel](fankwerk/bestiarium/lebende-wurzel.md)<br>
-[Lehrling in Aenk`Mator](fankwerk/bestiarium/lehrling-in-aenk-mator.md)<br>
+[Lebende Wurzel](fanwerk/bestiarium/lebende-wurzel.md)<br>
+[Lehrling in Aenk`Mator](fanwerk/bestiarium/lehrling-in-aenk-mator.md)<br>
 [Leichnam](grw/bestiarium/leichnam.md)<br>
-[Lios](fankwerk/bestiarium/lios.md)<br>
-[Lord Dammenhall](fankwerk/bestiarium/lord-dammenhall.md)<br>
-[Lufrelementardiener](fankwerk/bestiarium/lufrelementardiener.md)<br>
-[Luftdämon I](fankwerk/bestiarium/luftdaemon-i.md)<br>
-[Luftdämon II](fankwerk/bestiarium/luftdaemon-ii.md)<br>
-[Luftdämon III](fankwerk/bestiarium/luftdaemon-iii.md)<br>
+[Lios](fanwerk/bestiarium/lios.md)<br>
+[Lord Dammenhall](fanwerk/bestiarium/lord-dammenhall.md)<br>
+[Lufrelementardiener](fanwerk/bestiarium/lufrelementardiener.md)<br>
+[Luftdämon I](fanwerk/bestiarium/luftdaemon-i.md)<br>
+[Luftdämon II](fanwerk/bestiarium/luftdaemon-ii.md)<br>
+[Luftdämon III](fanwerk/bestiarium/luftdaemon-iii.md)<br>
 [Luftelementar I](grw/bestiarium/luftelementar-i.md)<br>
 [Luftelementar II](grw/bestiarium/luftelementar-ii.md)<br>
 [Luftelementar III](grw/bestiarium/luftelementar-iii.md)<br>
-[Luftelementarbote](fankwerk/bestiarium/luftelementarbote.md)<br>
-[Lydenia](fankwerk/bestiarium/lydenia.md)<br>
-[Mammut](fankwerk/bestiarium/mammut.md)<br>
-[Mardossani Kavalier](fankwerk/bestiarium/mardossani-kavalier.md)<br>
-[Maskentänzerin](fankwerk/bestiarium/maskentaenzerin.md)<br>
+[Luftelementarbote](fanwerk/bestiarium/luftelementarbote.md)<br>
+[Lydenia](fanwerk/bestiarium/lydenia.md)<br>
+[Mammut](fanwerk/bestiarium/mammut.md)<br>
+[Mardossani Kavalier](fanwerk/bestiarium/mardossani-kavalier.md)<br>
+[Maskentänzerin](fanwerk/bestiarium/maskentaenzerin.md)<br>
 [Medusa](grw/bestiarium/medusa.md)<br>
-[Mega-Skelett](fankwerk/bestiarium/mega-skelett.md)<br>
-[Meister Schnarkel](fankwerk/bestiarium/meister-schnarkel.md)<br>
-[Menschensklave](fankwerk/bestiarium/menschensklave.md)<br>
-[Minderer Leichnam](fankwerk/bestiarium/minderer-leichnam.md)<br>
+[Mega-Skelett](fanwerk/bestiarium/mega-skelett.md)<br>
+[Meister Schnarkel](fanwerk/bestiarium/meister-schnarkel.md)<br>
+[Menschensklave](fanwerk/bestiarium/menschensklave.md)<br>
+[Minderer Leichnam](fanwerk/bestiarium/minderer-leichnam.md)<br>
 [Minotaurus](grw/bestiarium/minotaurus.md)<br>
-[Mokaner Fährtenleser](fankwerk/bestiarium/mokaner-faehrtenleser.md)<br>
+[Mokaner Fährtenleser](fanwerk/bestiarium/mokaner-faehrtenleser.md)<br>
 [Monsterspinne](grw/bestiarium/monsterspinne.md)<br>
-[Morg Bulgash](fankwerk/bestiarium/morg-bulgash.md)<br>
-[Mudaks, die Grünhaut](fankwerk/bestiarium/mudaks-die-gruenhaut.md)<br>
+[Morg Bulgash](fanwerk/bestiarium/morg-bulgash.md)<br>
+[Mudaks, die Grünhaut](fanwerk/bestiarium/mudaks-die-gruenhaut.md)<br>
 [Mumie](grw/bestiarium/mumie.md)<br>
-[Mutierte Riesenratte](fankwerk/bestiarium/mutierte-riesenratte.md)<br>
-[Nafuri Söldner](fankwerk/bestiarium/nafuri-soeldner.md)<br>
-[Nancor der Bärenwüter](fankwerk/bestiarium/nancor-der-baerenwueter.md)<br>
-[Narrländer Alchemist](fankwerk/bestiarium/narrlaender-alchemist.md)<br>
-[Nekrolyth](fankwerk/bestiarium/nekrolyth.md)<br>
-[Nico Mavelli](fankwerk/bestiarium/nico-mavelli.md)<br>
+[Mutierte Riesenratte](fanwerk/bestiarium/mutierte-riesenratte.md)<br>
+[Nafuri Söldner](fanwerk/bestiarium/nafuri-soeldner.md)<br>
+[Nancor der Bärenwüter](fanwerk/bestiarium/nancor-der-baerenwueter.md)<br>
+[Narrländer Alchemist](fanwerk/bestiarium/narrlaender-alchemist.md)<br>
+[Nekrolyth](fanwerk/bestiarium/nekrolyth.md)<br>
+[Nico Mavelli](fanwerk/bestiarium/nico-mavelli.md)<br>
 [Niederer Dämon](grw/bestiarium/niederer-daemon.md)<br>
-[Nordeker Ritter](fankwerk/bestiarium/nordeker-ritter.md)<br>
+[Nordeker Ritter](fanwerk/bestiarium/nordeker-ritter.md)<br>
 [Oger](grw/bestiarium/oger.md)<br>
 [Ork](grw/bestiarium/ork.md)<br>
 [Orkräuber](grw/bestiarium/orkraeuber.md)<br>
-[Pfeilsporenpilz](fankwerk/bestiarium/pfeilsporenpilz.md)<br>
+[Pfeilsporenpilz](fanwerk/bestiarium/pfeilsporenpilz.md)<br>
 [Pferd](grw/bestiarium/pferd.md)<br>
-[Phantomhexer](fankwerk/bestiarium/phantomhexer.md)<br>
+[Phantomhexer](fanwerk/bestiarium/phantomhexer.md)<br>
 [Pony](grw/bestiarium/pony.md)<br>
 [Ratte](grw/bestiarium/ratte.md)<br>
-[Rattenkönig](fankwerk/bestiarium/rattenkoenig.md)<br>
-[Rattenkönig Schnabbler](fankwerk/bestiarium/rattenkoenig-schnabbler.md)<br>
-[Rattenoger](fankwerk/bestiarium/rattenoger.md)<br>
-[Rattling](fankwerk/bestiarium/rattling.md)<br>
-[Rattling Giftzauberer](fankwerk/bestiarium/rattling-giftzauberer.md)<br>
-[Rattling Kriegshäuptling](fankwerk/bestiarium/rattling-kriegshaeuptling.md)<br>
-[Rattling Seuchenpriester](fankwerk/bestiarium/rattling-seuchenpriester.md)<br>
+[Rattenkönig](fanwerk/bestiarium/rattenkoenig.md)<br>
+[Rattenkönig Schnabbler](fanwerk/bestiarium/rattenkoenig-schnabbler.md)<br>
+[Rattenoger](fanwerk/bestiarium/rattenoger.md)<br>
+[Rattling](fanwerk/bestiarium/rattling.md)<br>
+[Rattling Giftzauberer](fanwerk/bestiarium/rattling-giftzauberer.md)<br>
+[Rattling Kriegshäuptling](fanwerk/bestiarium/rattling-kriegshaeuptling.md)<br>
+[Rattling Seuchenpriester](fanwerk/bestiarium/rattling-seuchenpriester.md)<br>
 [Raubkatze](grw/bestiarium/raubkatze.md)<br>
 [Reitkeiler](grw/bestiarium/reitkeiler.md)<br>
-[Rekrut der Reiter der Morgenröte](fankwerk/bestiarium/rekrut-der-reiter-der-morgenroete.md)<br>
-[Remnaton](fankwerk/bestiarium/remnaton.md)<br>
+[Rekrut der Reiter der Morgenröte](fanwerk/bestiarium/rekrut-der-reiter-der-morgenroete.md)<br>
+[Remnaton](fanwerk/bestiarium/remnaton.md)<br>
 [Riese](grw/bestiarium/riese.md)<br>
-[Riesenaffe](fankwerk/bestiarium/riesenaffe.md)<br>
+[Riesenaffe](fanwerk/bestiarium/riesenaffe.md)<br>
 [Riesenechse](grw/bestiarium/riesenechse.md)<br>
 [Riesenkrake](grw/bestiarium/riesenkrake.md)<br>
-[Riesenpterodactylus](fankwerk/bestiarium/riesenpterodactylus.md)<br>
+[Riesenpterodactylus](fanwerk/bestiarium/riesenpterodactylus.md)<br>
 [Riesenratte](grw/bestiarium/riesenratte.md)<br>
 [Riesenschlange](grw/bestiarium/riesenschlange.md)<br>
-[Riesensumpfotter](fankwerk/bestiarium/riesensumpfotter.md)<br>
-[Ritter 01](fankwerk/bestiarium/ritter-01.md)<br>
-[Ritter 04](fankwerk/bestiarium/ritter-04.md)<br>
-[Ritter 08](fankwerk/bestiarium/ritter-08.md)<br>
-[Ritter 12](fankwerk/bestiarium/ritter-12.md)<br>
-[Ritter Gungart](fankwerk/bestiarium/ritter-gungart.md)<br>
+[Riesensumpfotter](fanwerk/bestiarium/riesensumpfotter.md)<br>
+[Ritter 01](fanwerk/bestiarium/ritter-01.md)<br>
+[Ritter 04](fanwerk/bestiarium/ritter-04.md)<br>
+[Ritter 08](fanwerk/bestiarium/ritter-08.md)<br>
+[Ritter 12](fanwerk/bestiarium/ritter-12.md)<br>
+[Ritter Gungart](fanwerk/bestiarium/ritter-gungart.md)<br>
 [Ritter Wilbert](grw/bestiarium/ritter-wilbert.md)<br>
-[Rogg (Umbar-Barbar)](fankwerk/bestiarium/rogg-umbar-barbar.md)<br>
+[Rogg (Umbar-Barbar)](fanwerk/bestiarium/rogg-umbar-barbar.md)<br>
 [Rostassel](grw/bestiarium/rostassel.md)<br>
-[Ryan Dougal](fankwerk/bestiarium/ryan-dougal.md)<br>
-[Räuber](fankwerk/bestiarium/raeuber.md)<br>
-[Sanuriel](fankwerk/bestiarium/sanuriel.md)<br>
+[Ryan Dougal](fanwerk/bestiarium/ryan-dougal.md)<br>
+[Räuber](fanwerk/bestiarium/raeuber.md)<br>
+[Sanuriel](fanwerk/bestiarium/sanuriel.md)<br>
 [Schatten](grw/bestiarium/schatten.md)<br>
-[Schattenkultist](fankwerk/bestiarium/schattenkultist.md)<br>
-[Schattenpriester](fankwerk/bestiarium/schattenpriester.md)<br>
-[Schattenwolf](fankwerk/bestiarium/schattenwolf.md)<br>
+[Schattenkultist](fanwerk/bestiarium/schattenkultist.md)<br>
+[Schattenpriester](fanwerk/bestiarium/schattenpriester.md)<br>
+[Schattenwolf](fanwerk/bestiarium/schattenwolf.md)<br>
 [Schimmerross](grw/bestiarium/schimmerross.md)<br>
 [Schlachtross](grw/bestiarium/schlachtross.md)<br>
 [Schlingwurzelbusch](grw/bestiarium/schlingwurzelbusch.md)<br>
-[Schlächter](fankwerk/bestiarium/schlaechter.md)<br>
-[Schnappaal](fankwerk/bestiarium/schnappaal.md)<br>
-[Schneeriese](fankwerk/bestiarium/schneeriese.md)<br>
-[Schreckensdachs](fankwerk/bestiarium/schreckensdachs.md)<br>
-[Sensenmann](fankwerk/bestiarium/sensenmann.md)<br>
+[Schlächter](fanwerk/bestiarium/schlaechter.md)<br>
+[Schnappaal](fanwerk/bestiarium/schnappaal.md)<br>
+[Schneeriese](fanwerk/bestiarium/schneeriese.md)<br>
+[Schreckensdachs](fanwerk/bestiarium/schreckensdachs.md)<br>
+[Sensenmann](fanwerk/bestiarium/sensenmann.md)<br>
 [Shekz](grw/bestiarium/shekz.md)<br>
-[Sinda](fankwerk/bestiarium/sinda.md)<br>
+[Sinda](fanwerk/bestiarium/sinda.md)<br>
 [Skelett](grw/bestiarium/skelett.md)<br>
-[Skelettdrache](fankwerk/bestiarium/skelettdrache.md)<br>
-[Skelettkrieger](fankwerk/bestiarium/skelettkrieger.md)<br>
-[Skelettmagier](fankwerk/bestiarium/skelettmagier.md)<br>
-[Skelettschütze](fankwerk/bestiarium/skelettschuetze.md)<br>
-[Stadtwache in den Freien Landen](fankwerk/bestiarium/stadtwache-in-den-freien-landen.md)<br>
-[Sternheider Forscher](fankwerk/bestiarium/sternheider-forscher.md)<br>
-[Stig](fankwerk/bestiarium/stig.md)<br>
-[Stolpervogel](fankwerk/bestiarium/stolpervogel.md)<br>
-[Sturmmeerkatze](fankwerk/bestiarium/sturmmeerkatze.md)<br>
-[Sturmsegler](fankwerk/bestiarium/sturmsegler.md)<br>
-[Sumpfechse](fankwerk/bestiarium/sumpfechse.md)<br>
-[Säbelzahntiger](fankwerk/bestiarium/saebelzahntiger.md)<br>
-[Tarc Trepios](fankwerk/bestiarium/tarc-trepios.md)<br>
-[Tarr-Novize](fankwerk/bestiarium/tarr-novize.md)<br>
+[Skelettdrache](fanwerk/bestiarium/skelettdrache.md)<br>
+[Skelettkrieger](fanwerk/bestiarium/skelettkrieger.md)<br>
+[Skelettmagier](fanwerk/bestiarium/skelettmagier.md)<br>
+[Skelettschütze](fanwerk/bestiarium/skelettschuetze.md)<br>
+[Stadtwache in den Freien Landen](fanwerk/bestiarium/stadtwache-in-den-freien-landen.md)<br>
+[Sternheider Forscher](fanwerk/bestiarium/sternheider-forscher.md)<br>
+[Stig](fanwerk/bestiarium/stig.md)<br>
+[Stolpervogel](fanwerk/bestiarium/stolpervogel.md)<br>
+[Sturmmeerkatze](fanwerk/bestiarium/sturmmeerkatze.md)<br>
+[Sturmsegler](fanwerk/bestiarium/sturmsegler.md)<br>
+[Sumpfechse](fanwerk/bestiarium/sumpfechse.md)<br>
+[Säbelzahntiger](fanwerk/bestiarium/saebelzahntiger.md)<br>
+[Tarc Trepios](fanwerk/bestiarium/tarc-trepios.md)<br>
+[Tarr-Novize](fanwerk/bestiarium/tarr-novize.md)<br>
 [Tentakelhirn](grw/bestiarium/tentakelhirn.md)<br>
-[Tigerskelett](fankwerk/bestiarium/tigerskelett.md)<br>
-[Tintenkraken](fankwerk/bestiarium/tintenkraken.md)<br>
+[Tigerskelett](fanwerk/bestiarium/tigerskelett.md)<br>
+[Tintenkraken](fanwerk/bestiarium/tintenkraken.md)<br>
 [Todesfee](grw/bestiarium/todesfee.md)<br>
-[Tonkriegergolem](fankwerk/bestiarium/tonkriegergolem.md)<br>
+[Tonkriegergolem](fanwerk/bestiarium/tonkriegergolem.md)<br>
 [Troll](grw/bestiarium/troll.md)<br>
-[Umbar Barbar](fankwerk/bestiarium/umbar-barbar.md)<br>
-[Umbarlageier](fankwerk/bestiarium/umbarlageier.md)<br>
-[Untote Mannshand](fankwerk/bestiarium/untote-mannshand.md)<br>
-[Untote Werratte](fankwerk/bestiarium/untote-werratte.md)<br>
-[Untoter Goblin](fankwerk/bestiarium/untoter-goblin.md)<br>
-[Untoter Oger](fankwerk/bestiarium/untoter-oger.md)<br>
-[Untoter Ork](fankwerk/bestiarium/untoter-ork.md)<br>
-[Untoter Priester](fankwerk/bestiarium/untoter-priester.md)<br>
-[Untoter Wächter](fankwerk/bestiarium/untoter-waechter.md)<br>
+[Umbar Barbar](fanwerk/bestiarium/umbar-barbar.md)<br>
+[Umbarlageier](fanwerk/bestiarium/umbarlageier.md)<br>
+[Untote Mannshand](fanwerk/bestiarium/untote-mannshand.md)<br>
+[Untote Werratte](fanwerk/bestiarium/untote-werratte.md)<br>
+[Untoter Goblin](fanwerk/bestiarium/untoter-goblin.md)<br>
+[Untoter Oger](fanwerk/bestiarium/untoter-oger.md)<br>
+[Untoter Ork](fanwerk/bestiarium/untoter-ork.md)<br>
+[Untoter Priester](fanwerk/bestiarium/untoter-priester.md)<br>
+[Untoter Wächter](fanwerk/bestiarium/untoter-waechter.md)<br>
 [Unwolf](grw/bestiarium/unwolf.md)<br>
 [Vampirfledermaus](grw/bestiarium/vampirfledermaus.md)<br>
-[Vandrianischer Minnesänger](fankwerk/bestiarium/vandrianischer-minnesaenger.md)<br>
-[Vandrianischer Ordensheiler](fankwerk/bestiarium/vandrianischer-ordensheiler.md)<br>
-[Vandrianischer Ordensritter](fankwerk/bestiarium/vandrianischer-ordensritter.md)<br>
-[Vandrianischer Waffenknecht](fankwerk/bestiarium/vandrianischer-waffenknecht.md)<br>
-[Vandrianischer Waffenknecht](fankwerk/bestiarium/vandrianischer-waffenknecht.md)<br>
-[Varissa](fankwerk/bestiarium/varissa.md)<br>
-[Verzauberter Besen](fankwerk/bestiarium/verzauberter-besen.md)<br>
-[Vestracher Einbrecher](fankwerk/bestiarium/vestracher-einbrecher.md)<br>
-[Virgil](fankwerk/bestiarium/virgil.md)<br>
-[Vladek Crumm](fankwerk/bestiarium/vladek-crumm.md)<br>
-[Walküre von Wyndstett](fankwerk/bestiarium/walkuere-von-wyndstett.md)<br>
+[Vandrianischer Minnesänger](fanwerk/bestiarium/vandrianischer-minnesaenger.md)<br>
+[Vandrianischer Ordensheiler](fanwerk/bestiarium/vandrianischer-ordensheiler.md)<br>
+[Vandrianischer Ordensritter](fanwerk/bestiarium/vandrianischer-ordensritter.md)<br>
+[Vandrianischer Waffenknecht](fanwerk/bestiarium/vandrianischer-waffenknecht.md)<br>
+[Vandrianischer Waffenknecht](fanwerk/bestiarium/vandrianischer-waffenknecht.md)<br>
+[Varissa](fanwerk/bestiarium/varissa.md)<br>
+[Verzauberter Besen](fanwerk/bestiarium/verzauberter-besen.md)<br>
+[Vestracher Einbrecher](fanwerk/bestiarium/vestracher-einbrecher.md)<br>
+[Virgil](fanwerk/bestiarium/virgil.md)<br>
+[Vladek Crumm](fanwerk/bestiarium/vladek-crumm.md)<br>
+[Walküre von Wyndstett](fanwerk/bestiarium/walkuere-von-wyndstett.md)<br>
 [Wasserelementar I](grw/bestiarium/wasserelementar-i.md)<br>
 [Wasserelementar II](grw/bestiarium/wasserelementar-ii.md)<br>
 [Wasserelementar III](grw/bestiarium/wasserelementar-iii.md)<br>
 [Wegelagerer](grw/bestiarium/wegelagerer.md)<br>
-[Werkzeug](fankwerk/bestiarium/werkzeug.md)<br>
-[Wilder Rattling](fankwerk/bestiarium/wilder-rattling.md)<br>
-[Wilfried von Eibenhöh](fankwerk/bestiarium/wilfried-von-eibenhoeh.md)<br>
+[Werkzeug](fanwerk/bestiarium/werkzeug.md)<br>
+[Wilder Rattling](fanwerk/bestiarium/wilder-rattling.md)<br>
+[Wilfried von Eibenhöh](fanwerk/bestiarium/wilfried-von-eibenhoeh.md)<br>
 [Wolf](grw/bestiarium/wolf.md)<br>
-[Wolfbart](fankwerk/bestiarium/wolfbart.md)<br>
-[Wollnashorn](fankwerk/bestiarium/wollnashorn.md)<br>
-[Wyndländischer Schwarzmagier](fankwerk/bestiarium/wyndlaendischer-schwarzmagier.md)<br>
-[Ynnari (Schwester des Waldes)](fankwerk/bestiarium/ynnari-schwester-des-waldes.md)<br>
-[Zasarischer Feuermagier](fankwerk/bestiarium/zasarischer-feuermagier.md)<br>
-[Zasarischer Kauffahrer](fankwerk/bestiarium/zasarischer-kauffahrer.md)<br>
-[Zasarischer Märchenerzähler](fankwerk/bestiarium/zasarischer-maerchenerzaehler.md)<br>
+[Wolfbart](fanwerk/bestiarium/wolfbart.md)<br>
+[Wollnashorn](fanwerk/bestiarium/wollnashorn.md)<br>
+[Wyndländischer Schwarzmagier](fanwerk/bestiarium/wyndlaendischer-schwarzmagier.md)<br>
+[Ynnari (Schwester des Waldes)](fanwerk/bestiarium/ynnari-schwester-des-waldes.md)<br>
+[Zasarischer Feuermagier](fanwerk/bestiarium/zasarischer-feuermagier.md)<br>
+[Zasarischer Kauffahrer](fanwerk/bestiarium/zasarischer-kauffahrer.md)<br>
+[Zasarischer Märchenerzähler](fanwerk/bestiarium/zasarischer-maerchenerzaehler.md)<br>
 [Zombie](grw/bestiarium/zombie.md)<br>
-[Zombie Sekretärin](fankwerk/bestiarium/zombie-sekretaerin.md)<br>
-[Zombiebär](fankwerk/bestiarium/zombiebaer.md)<br>
-[Zombiedrache](fankwerk/bestiarium/zombiedrache.md)<br>
-[Zombiegoblin](fankwerk/bestiarium/zombiegoblin.md)<br>
-[Zombiekeiler](fankwerk/bestiarium/zombiekeiler.md)<br>
-[Zombieoger](fankwerk/bestiarium/zombieoger.md)<br>
-[Zombieork](fankwerk/bestiarium/zombieork.md)<br>
-[Zombieriesenratte](fankwerk/bestiarium/zombieriesenratte.md)<br>
-[Zombietroll](fankwerk/bestiarium/zombietroll.md)<br>
-[Zombiewolf](fankwerk/bestiarium/zombiewolf.md)<br>
-[Zwergensklave](fankwerk/bestiarium/zwergensklave.md)<br>
-[Zwergischer Minenarbeiter](fankwerk/bestiarium/zwergischer-minenarbeiter.md)<br>
+[Zombie Sekretärin](fanwerk/bestiarium/zombie-sekretaerin.md)<br>
+[Zombiebär](fanwerk/bestiarium/zombiebaer.md)<br>
+[Zombiedrache](fanwerk/bestiarium/zombiedrache.md)<br>
+[Zombiegoblin](fanwerk/bestiarium/zombiegoblin.md)<br>
+[Zombiekeiler](fanwerk/bestiarium/zombiekeiler.md)<br>
+[Zombieoger](fanwerk/bestiarium/zombieoger.md)<br>
+[Zombieork](fanwerk/bestiarium/zombieork.md)<br>
+[Zombieriesenratte](fanwerk/bestiarium/zombieriesenratte.md)<br>
+[Zombietroll](fanwerk/bestiarium/zombietroll.md)<br>
+[Zombiewolf](fanwerk/bestiarium/zombiewolf.md)<br>
+[Zwergensklave](fanwerk/bestiarium/zwergensklave.md)<br>
+[Zwergischer Minenarbeiter](fanwerk/bestiarium/zwergischer-minenarbeiter.md)<br>
