@@ -27,8 +27,18 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Bildung I, Einstecker I, Feuermagier I, Zaubermacht I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Feuermagier I: Feuerzauber +1 pro Talentrang. 
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
 
 **Zaubersprüche:**  
 Feuerstrahl (+2)

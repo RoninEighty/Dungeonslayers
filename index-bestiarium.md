@@ -5,7 +5,7 @@
 [Akyna](fankwerk/bestiarium/akyna.md)<br>
 [Al-Nuzzran](fankwerk/bestiarium/al-nuzzran.md)<br>
 [Alligator](grw/bestiarium/alligator.md)<br>
-[Anarioth 'Der Sturmrufer'](fankwerk/bestiarium/anarioth-'der-sturmrufer'.md)<br>
+[Anarioth 'Der Sturmrufer'](fankwerk/bestiarium/anarioth-der-sturmrufer.md)<br>
 [Angischer Clanskrieger](fankwerk/bestiarium/angischer-clanskrieger.md)<br>
 [Ankmatur](grw/bestiarium/ankmatur.md)<br>
 [Apokalpytischer Reiter der Pestilenz](fankwerk/bestiarium/apokalpytischer-reiter-der-pestilenz.md)<br>
@@ -32,7 +32,7 @@
 [Billiger Söldner](fankwerk/bestiarium/billiger-soeldner.md)<br>
 [Blasaminator](fankwerk/bestiarium/blasaminator.md)<br>
 [Blob](fankwerk/bestiarium/blob.md)<br>
-[Bosker Sturmkrähe (Söldner)](fankwerk/bestiarium/bosker-sturmkraehe-(soeldner).md)<br>
+[Bosker Sturmkrähe (Söldner)](fankwerk/bestiarium/bosker-sturmkraehe-soeldner.md)<br>
 [Brambel](fankwerk/bestiarium/brambel.md)<br>
 [Brasko](fankwerk/bestiarium/brasko.md)<br>
 [Brutac](fankwerk/bestiarium/brutac.md)<br>
@@ -82,7 +82,7 @@
 [Eulerich](grw/bestiarium/eulerich.md)<br>
 [Fahlstepper Grenzwächter](fankwerk/bestiarium/fahlstepper-grenzwaechter.md)<br>
 [Falschspieler](fankwerk/bestiarium/falschspieler.md)<br>
-[Faria (Feuermagierin)](fankwerk/bestiarium/faria-(feuermagierin).md)<br>
+[Faria (Feuermagierin)](fankwerk/bestiarium/faria-feuermagierin.md)<br>
 [Faulbauch](grw/bestiarium/faulbauch.md)<br>
 [Faulbauchmade](grw/bestiarium/faulbauchmade.md)<br>
 [Fenya](fankwerk/bestiarium/fenya.md)<br>
@@ -103,8 +103,8 @@
 [Geistpeiniger](fankwerk/bestiarium/geistpeiniger.md)<br>
 [Getreuer Dammenhalls](fankwerk/bestiarium/getreuer-dammenhalls.md)<br>
 [Gisamor](fankwerk/bestiarium/gisamor.md)<br>
-[Glitzerhand (Dieb)](fankwerk/bestiarium/glitzerhand-(dieb).md)<br>
-[Gloriel 'Die Kräuterhexe'](fankwerk/bestiarium/gloriel-'die-kraeuterhexe'.md)<br>
+[Glitzerhand (Dieb)](fankwerk/bestiarium/glitzerhand-dieb.md)<br>
+[Gloriel 'Die Kräuterhexe'](fankwerk/bestiarium/gloriel-die-kraeuterhexe.md)<br>
 [Gnomischer Illusionist](fankwerk/bestiarium/gnomischer-illusionist.md)<br>
 [Goblin](grw/bestiarium/goblin.md)<br>
 [Goblin Berserker](fankwerk/bestiarium/goblin-berserker.md)<br>
@@ -116,11 +116,11 @@
 [Goblin Späher](fankwerk/bestiarium/goblin-spaeher.md)<br>
 [Goblin Stadtratte](fankwerk/bestiarium/goblin-stadtratte.md)<br>
 [Goblinrächer](fankwerk/bestiarium/goblinraecher.md)<br>
-[Golem, Eisen-](grw/bestiarium/golem,-eisen-.md)<br>
-[Golem, Knochen-](grw/bestiarium/golem,-knochen-.md)<br>
-[Golem, Kristall-](grw/bestiarium/golem,-kristall-.md)<br>
-[Golem, Lehm-](grw/bestiarium/golem,-lehm-.md)<br>
-[Golem, Stein-](grw/bestiarium/golem,-stein-.md)<br>
+[Golem, Eisen-](grw/bestiarium/golem-eisen-.md)<br>
+[Golem, Knochen-](grw/bestiarium/golem-knochen-.md)<br>
+[Golem, Kristall-](grw/bestiarium/golem-kristall-.md)<br>
+[Golem, Lehm-](grw/bestiarium/golem-lehm-.md)<br>
+[Golem, Stein-](grw/bestiarium/golem-stein-.md)<br>
 [Gralbor Weißauge](fankwerk/bestiarium/gralbor-weißauge.md)<br>
 [Grottenschrat](fankwerk/bestiarium/grottenschrat.md)<br>
 [Großmutter Gorla](fankwerk/bestiarium/großmutter-gorla.md)<br>
@@ -133,13 +133,13 @@
 [Harpyie](grw/bestiarium/harpyie.md)<br>
 [Harringer](grw/bestiarium/harringer.md)<br>
 [Hartmund](fankwerk/bestiarium/hartmund.md)<br>
-[Heiler (Schütze 01)](fankwerk/bestiarium/heiler-(schuetze-01).md)<br>
-[Heiler (Schütze 04)](fankwerk/bestiarium/heiler-(schuetze-04).md)<br>
-[Heiler (Schütze 08)](fankwerk/bestiarium/heiler-(schuetze-08).md)<br>
-[Heiler (Schütze 12)](fankwerk/bestiarium/heiler-(schuetze-12).md)<br>
+[Heiler (Schütze 01)](fankwerk/bestiarium/heiler-schuetze-01.md)<br>
+[Heiler (Schütze 04)](fankwerk/bestiarium/heiler-schuetze-04.md)<br>
+[Heiler (Schütze 08)](fankwerk/bestiarium/heiler-schuetze-08.md)<br>
+[Heiler (Schütze 12)](fankwerk/bestiarium/heiler-schuetze-12.md)<br>
 [Heimsucher](fankwerk/bestiarium/heimsucher.md)<br>
 [Hellweiter Diplomat](fankwerk/bestiarium/hellweiter-diplomat.md)<br>
-[Heob (Ordensheiler)](fankwerk/bestiarium/heob-(ordensheiler).md)<br>
+[Heob (Ordensheiler)](fankwerk/bestiarium/heob-ordensheiler.md)<br>
 [Hilaner Priester](fankwerk/bestiarium/hilaner-priester.md)<br>
 [Hilanischer Peltast](fankwerk/bestiarium/hilanischer-peltast.md)<br>
 [Hobgoblin](grw/bestiarium/hobgoblin.md)<br>
@@ -181,7 +181,7 @@
 [Kultist in Mautmoreen](fankwerk/bestiarium/kultist-in-mautmoreen.md)<br>
 [Lebende Rüstung](grw/bestiarium/lebende-ruestung.md)<br>
 [Lebende Wurzel](fankwerk/bestiarium/lebende-wurzel.md)<br>
-[Lehrling in Aenk`Mator](fankwerk/bestiarium/lehrling-in-aenk`mator.md)<br>
+[Lehrling in Aenk`Mator](fankwerk/bestiarium/lehrling-in-aenk-mator.md)<br>
 [Leichnam](grw/bestiarium/leichnam.md)<br>
 [Lios](fankwerk/bestiarium/lios.md)<br>
 [Lord Dammenhall](fankwerk/bestiarium/lord-dammenhall.md)<br>
@@ -206,7 +206,7 @@
 [Mokaner Fährtenleser](fankwerk/bestiarium/mokaner-faehrtenleser.md)<br>
 [Monsterspinne](grw/bestiarium/monsterspinne.md)<br>
 [Morg Bulgash](fankwerk/bestiarium/morg-bulgash.md)<br>
-[Mudaks, die Grünhaut](fankwerk/bestiarium/mudaks,-die-gruenhaut.md)<br>
+[Mudaks, die Grünhaut](fankwerk/bestiarium/mudaks-die-gruenhaut.md)<br>
 [Mumie](grw/bestiarium/mumie.md)<br>
 [Mutierte Riesenratte](fankwerk/bestiarium/mutierte-riesenratte.md)<br>
 [Nafuri Söldner](fankwerk/bestiarium/nafuri-soeldner.md)<br>
@@ -249,7 +249,7 @@
 [Ritter 12](fankwerk/bestiarium/ritter-12.md)<br>
 [Ritter Gungart](fankwerk/bestiarium/ritter-gungart.md)<br>
 [Ritter Wilbert](grw/bestiarium/ritter-wilbert.md)<br>
-[Rogg (Umbar-Barbar)](fankwerk/bestiarium/rogg-(umbar-barbar).md)<br>
+[Rogg (Umbar-Barbar)](fankwerk/bestiarium/rogg-umbar-barbar.md)<br>
 [Rostassel](grw/bestiarium/rostassel.md)<br>
 [Ryan Dougal](fankwerk/bestiarium/ryan-dougal.md)<br>
 [Räuber](fankwerk/bestiarium/raeuber.md)<br>
@@ -322,7 +322,7 @@
 [Wolfbart](fankwerk/bestiarium/wolfbart.md)<br>
 [Wollnashorn](fankwerk/bestiarium/wollnashorn.md)<br>
 [Wyndländischer Schwarzmagier](fankwerk/bestiarium/wyndlaendischer-schwarzmagier.md)<br>
-[Ynnari (Schwester des Waldes)](fankwerk/bestiarium/ynnari-(schwester-des-waldes).md)<br>
+[Ynnari (Schwester des Waldes)](fankwerk/bestiarium/ynnari-schwester-des-waldes.md)<br>
 [Zasarischer Feuermagier](fankwerk/bestiarium/zasarischer-feuermagier.md)<br>
 [Zasarischer Kauffahrer](fankwerk/bestiarium/zasarischer-kauffahrer.md)<br>
 [Zasarischer Märchenerzähler](fankwerk/bestiarium/zasarischer-maerchenerzaehler.md)<br>

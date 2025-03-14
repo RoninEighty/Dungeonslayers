@@ -27,8 +27,18 @@ Kampfstab (2h) (WB+1, Zielzauber +1), Dolch (INI+1)
 **Panzerung:**  
 Robe
 
+**Ausrüstung:**  
+Robe
+
 **Talente:**  
-Diener der Dunkelheit II, Wissensgebiet II, Manipulator I, Zaubermacht I
+Diener der Dunkelheit II: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Manipulator I: Geistesbeeinflussende Zauber [!] +1 pro Talentrang. 
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
 
 **Zaubersprüche:**  
 Feuerstrahl (+1)

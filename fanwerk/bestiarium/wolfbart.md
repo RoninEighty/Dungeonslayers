@@ -29,10 +29,19 @@ mag. Streithammer (2h) +2 (WB+5, INI-2, GA-2, Stärke +2, Rundumschlag +I, Zaube
 mag. Plattenpanzer +2 (PA+5, Härte +2, Diener der Dunkelheit +II), mag. Plattenbeinschienen +1 (PA+2), mag. Plattenarmschienen +1 (PA+2), mag. Metallhelm +1 (PA+2)
 
 **Ausrüstung:**  
-Fluch des Berserkers (Brutaler Hieb +II, Diener der Dunkelheit +II, Raserei +II, Standhaft +II), Handschuhe der Hammerkunst (Perfektion +III, Schnelle Reflexe +II), Haut des Eiswyrms (Einstecker +III, Diener der Dunkelheit +I), Knochenfußkette (Ausweichen +II, Flink +I)
+mag. Plattenpanzer +2 (PA+5, Härte +2, Diener der Dunkelheit +II), mag. Plattenbeinschienen +1 (PA+2), mag. Plattenarmschienen +1 (PA+2), mag. Metallhelm +1 (PA+2)
 
 **Talente:**  
-Brutaler Hieb V, Raserei III, Ausweichen II, Schnelle Reflexe II, Rundumschlag I
+Brutaler Hieb V: Schlagen +KÖR 
+
+Raserei III: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar. 
+
+Ausweichen II: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Schnelle Reflexe II: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Rundumschlag I: Schlagen -1, Abwehr -2 pro Gegner, mit 2h-Waffe/waffenlos 
+
 
 Gegnerhärte: 26  
 Größe: Normal  

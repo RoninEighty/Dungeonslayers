@@ -28,7 +28,14 @@ Streitaxt (2h) (WB+3, INI-2)
 
 
 **Talente:**  
-Einstecker I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 3  
 Größe: Normal  

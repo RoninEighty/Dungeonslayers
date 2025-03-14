@@ -22,8 +22,12 @@ Pranke (WB+2)
 **Panzerung:**  
 Dickhäuter (PA+1)
 
+**Ausrüstung:**  
+Dickhäuter (PA+1)
+
 **Talente:**  
-Kletterläufer
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern. 
+
 
 Gegnerhärte: 8  
 Größe: Groß  

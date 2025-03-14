@@ -27,8 +27,18 @@ Hellebarde (2h) (WB+2, INI-2)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Einstecker I, Kämpfer I, Verletzen I, Wissensgebiet I
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Verletzen I: GA-1 bei Nahkampfangriff 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 4  
 Größe: Normal  

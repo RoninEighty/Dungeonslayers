@@ -27,8 +27,16 @@ Langschwert (WB+2), Dolch (INI+1)
 **Panzerung:**  
 Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 
+**Ausrüstung:**  
+Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
+
 **Talente:**  
-Diener der Dunkelheit II, Wissensgebiet II, Kämpfer I
+Diener der Dunkelheit II: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

@@ -22,8 +22,18 @@ Krallen (WB+2), Biss (WB+2)
 **Panzerung:**  
 Fell (PA+1)
 
+**Ausrüstung:**  
+Fell (PA+1)
+
 **Talente:**  
-Gift, Dunkelsicht, Kletterläufer, Natürliche Waffen
+Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde. 
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
 
 Gegnerhärte: 4  
 Größe: Normal  

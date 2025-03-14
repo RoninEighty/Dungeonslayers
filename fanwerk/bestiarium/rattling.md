@@ -27,8 +27,20 @@ Schleuder, Dolch (INI+1)
 **Panzerung:**  
 Lumpen (PA+1)
 
+**Ausrüstung:**  
+Lumpen (PA+1)
+
 **Talente:**  
-Fieser Schuss I, Flink I, Heimlichkeit I, Schwimmen I, Wahrnehmung I
+Fieser Schuss I: Schießen +AGI 
+
+Flink I: Laufen +1m pro Talentrang. 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Schwimmen I: Schwimmen +3 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

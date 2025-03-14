@@ -27,8 +27,16 @@ Krummschwert (WB+2), Krummschwert (WB+2)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Zwei Waffen III, Parade I, Wahrnehmung I
+Zwei Waffen III: Bei Kampf mit zwei Waffen Malus -2 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

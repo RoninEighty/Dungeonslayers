@@ -22,8 +22,20 @@ Knochenbogen (WB+4, INI+3, GA-2), Kochenklauen (WB+2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Dunkelsicht, Geistesimmun, Resistenz, Wesen der Dunkelheit (Settingoption), Zielen
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Resistenz: Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
+Zielen: Kann nach einer Runde zielen (zählt als Aktion) AGI auf Schiessen hinzuzählen (nicht kumulativ). 
+
 
 Gegnerhärte: 7  
 Größe: Normal  

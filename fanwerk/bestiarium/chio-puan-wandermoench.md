@@ -27,8 +27,20 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Bildung I, Fürsorger I, Waffenloser Meister I, Wahrnehmung I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Waffenloser Meister I: WB +1, GA-1 pro Rang. Abwehr+1, Ini+1 pro Rang, sofern ohne Schild und Rüstung gekämpft wird. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Heilende Hand (+2)

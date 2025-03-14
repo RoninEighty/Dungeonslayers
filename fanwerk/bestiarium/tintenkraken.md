@@ -23,7 +23,8 @@ Fangarme (WB+2)
 
 
 **Talente:**  
-Mehrere Angriffe (+5)
+Mehrere Angriffe (+5): Kann mit seinen insgesamt sechs Fangarmen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen. 
+
 
 Gegnerhärte: 12  
 Größe: Groß  

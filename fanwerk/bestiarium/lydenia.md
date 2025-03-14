@@ -28,7 +28,14 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 
 
 **Talente:**  
-Blitzmacher I, Wissensgebiet I, Wissensgebiet I, Zaubermacht I
+Blitzmacher I: +1 Bonus auf Blitzzauber 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
 
 **Zaubersprüche:**  
 Schock (+1)

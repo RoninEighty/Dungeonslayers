@@ -27,8 +27,20 @@ Dolch (INI+1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Bildung I, Fürsorger I, Instrument I, Wissensgebiet I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Instrument I: +3 pro Talentrang auf ausgewähltes Instrument. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Heilende Hand (+2)

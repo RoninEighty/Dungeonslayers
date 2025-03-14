@@ -28,10 +28,19 @@ mag. Bihänder (2h) +2 (WB+5, GA-6, Kämpfer +II), mag. Kurzschwert +1 (WB+2, IN
 mag. Plattenpanzer +1 (PA+4, LA-0.5), mag. Metallhelm +1 (PA+2), mag. Lederschienen (Arm & Bein) +1 (PA+2)
 
 **Ausrüstung:**  
-Kette (Abwehr +1)
+mag. Plattenpanzer +1 (PA+4, LA-0.5), mag. Metallhelm +1 (PA+2), mag. Lederschienen (Arm & Bein) +1 (PA+2)
 
 **Talente:**  
-Kämpfer III, Schnelle Reflexe II, Zwei Waffen II, Brutaler Hieb I, Ausweichen I
+Kämpfer III: Schlagen +1 pro Talentrang. 
+
+Schnelle Reflexe II: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Zwei Waffen II: Bei Kampf mit zwei Waffen Malus -2 pro Talentrang. 
+
+Brutaler Hieb I: Schlagen +KÖR 
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
 
 Gegnerhärte: 13  
 Größe: Normal  

@@ -27,8 +27,20 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Fürsorger III, Manipulator III, Zaubermacht III, Bildung I, Wissensgebiet I
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Manipulator III: Geistesbeeinflussende Zauber [!] +1 pro Talentrang. 
+
+Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Allheilung (+3), Blenden (-(AGI+AU)/2), Einschläfern (-(KÖR+VE)/2+3), Freund (-(GEI+VE)/2+3), Giftbann (0), Heilende Hand (+4), Heilendes Licht (+5), Kleiner Terror (-(GEI+VE)/2+3), Schutzschild (+3), Verlangsamen (-(KÖR+AU)/2), Verwirren (-(GEI+AU)/2+3)

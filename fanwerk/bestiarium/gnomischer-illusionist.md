@@ -27,8 +27,20 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Bildung I, Charmant I, Schlitzohr I, Wahrnehmung I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Zaubertrick (0)

@@ -22,8 +22,14 @@ Dolch (WB+1, INI+1)
 **Panzerung:**  
 Lumpen
 
+**Ausrüstung:**  
+Lumpen
+
 **Talente:**  
-Nachtsicht, Wesen der Dunkelheit (Settingoption)
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

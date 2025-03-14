@@ -22,8 +22,28 @@ Geisterklaue (WB+2, GA-2)
 **Panzerung:**  
 Körperlos (PA+8)
 
+**Ausrüstung:**  
+Körperlos (PA+8)
+
 **Talente:**  
-Angst, Alterung, Dunkelsicht, Fliegen, Geistesimmun, Körperlos, Nur durch Magie verletzbar, Totenkraft, Wesen der Dunkelheit / Wesen des Lichts (Settingoption)
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+
+Alterung: Bei einem Treffer altert das Ziel pro erlittenen Schadenspunkt um 1 Jahr. 
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos. 
+
+Nur durch Magie verletzbar: Nur Angriffe mit magischen Waffen oder durch Zauber richten Schaden an. Ausgenommen sind eventuelle Anfälligkeiten, durch die ebenfalls Schaden erlitten wird. 
+
+Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte. 
+
+Wesen der Dunkelheit / Wesen des Lichts (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit bzw. des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur. 
+
 
 **Zaubersprüche:**  
 Terror (-(GEI+VE)/2)

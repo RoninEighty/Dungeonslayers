@@ -27,8 +27,22 @@ Speer (WB+1), Dolch (INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Holzschild (PA+1)
+
 **Talente:**  
-Instrument I, Kämpfer I, Parade I, Schlitzohr I, Wissensgebiet I, Wissensgebiet I
+Instrument I: +3 pro Talentrang auf ausgewähltes Instrument. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

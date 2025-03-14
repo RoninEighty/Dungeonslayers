@@ -25,6 +25,7 @@ Keule (WB+1)
 **Talente:**  
 
 
+
 Gegnerhärte: 1  
 Größe: Klein  
 Erfahrungspunkte: 25  

@@ -23,8 +23,22 @@ Schattenklaue (WB+3)
 **Panzerung:**  
 Schattenkörper (PA+3)
 
+**Ausrüstung:**  
+Schattenkörper (PA+3)
+
 **Talente:**  
-Mehrere Angriffe (+1), Dunkelsicht, Geistesimmun, Bezaubern, Sturmangriff, Wesen der Dunkelheit (Settingoption)
+Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen. 
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Bezaubern: Kann Gegner mit ihrem 'Lockruf' (siehe Zauber) bezaubern. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 27  
 Größe: Normal  

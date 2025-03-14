@@ -27,8 +27,12 @@ Streitaxt (2h) (WB+3, INI-2), Armbrust, leicht (2h) (WB+2, INI-2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Einstecker I
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
 
 Gegnerhärte: 3  
 Größe: Normal  

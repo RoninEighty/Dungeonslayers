@@ -22,8 +22,12 @@ Langschwert (WB+2)
 **Panzerung:**  
 Metallwesen (PA+5)
 
+**Ausrüstung:**  
+Metallwesen (PA+5)
+
 **Talente:**  
-Fliegen
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
 
 Gegnerhärte: 8  
 Größe: Klein  

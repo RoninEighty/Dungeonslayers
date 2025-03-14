@@ -22,8 +22,16 @@ Axt (WB+1)
 **Panzerung:**  
 Felle (PA+1)
 
+**Ausrüstung:**  
+Felle (PA+1)
+
 **Talente:**  
-Diener der Dunkelheit V, Vergeltung I, Vernichtender Schlag I
+Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+
+Vergeltung I: Schlagen + Rang Diener des Lichts/Dunkelheit x4 
+
+Vernichtender Schlag I: Nicht abwehrbarer Nahkampfangriff 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

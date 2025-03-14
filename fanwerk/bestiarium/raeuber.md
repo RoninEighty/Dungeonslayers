@@ -27,7 +27,11 @@ Langschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
+
 
 
 Gegnerhärte: 1  

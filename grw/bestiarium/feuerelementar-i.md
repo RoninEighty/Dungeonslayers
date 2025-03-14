@@ -22,8 +22,16 @@ Flammenhieb (WB+2)
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
+**Ausrüstung:**  
+Keine feste Gestalt (PA+8)
+
 **Talente:**  
-Anfällig, Fliegen, Körperlos
+Anfällig: Erhält doppelten Schaden durch Eis-, Frost- und Wasserangriffe. 
+
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos. 
+
 
 Gegnerhärte: 9  
 Größe: Klein  

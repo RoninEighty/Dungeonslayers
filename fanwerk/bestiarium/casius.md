@@ -27,8 +27,14 @@ Streitkolben (WB+1, GA-1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Ausweichen I, Bildung I
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
 
 **Zaubersprüche:**  
 Heilende Hand (+1)

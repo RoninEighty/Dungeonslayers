@@ -23,7 +23,14 @@ Spitze Zähne (WB+2)
 
 
 **Talente:**  
-Dunkelsicht, Geladen, Kletterläufer, Natürliche Waffen
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Geladen: Ist immun gegen jegliche Art von Blitzschaden. Laufende Abklingzeiten von Zaubern werden durch eintreffenden Blitzschaden auf 0 gesetzt. 
+
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
 
 **Zaubersprüche:**  
 Blitz (+3), Kettenblitz (+3)

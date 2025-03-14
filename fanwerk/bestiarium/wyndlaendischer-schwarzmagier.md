@@ -27,8 +27,18 @@ Dolch (INI+1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Feuermagier II, Heimlichkeit I, Tiergestalt I, Wahrnehmung I
+Feuermagier II: Feuerzauber +1 pro Talentrang. 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Tiergestalt I: Verwandlung in normal großes Tier 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 **Zaubersprüche:**  
 Feuerstrahl (+3)

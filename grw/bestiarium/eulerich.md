@@ -22,8 +22,12 @@ Pranke (WB+2, GA-2)
 **Panzerung:**  
 Federkleid (PA+1)
 
+**Ausrüstung:**  
+Federkleid (PA+1)
+
 **Talente:**  
-Dunkelsicht
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
 
 Gegnerhärte: 11  
 Größe: Groß  

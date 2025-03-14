@@ -22,8 +22,16 @@ Asthiebe (WB+2)
 **Panzerung:**  
 Dicke Rinde (PA+4)
 
+**Ausrüstung:**  
+Dicke Rinde (PA+4)
+
 **Talente:**  
-Mehrere Angriffe (+1), Anfällig, Geistesimmun
+Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen. 
+
+Anfällig: Erhält doppelten Schaden durch Feuer. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
 
 Gegnerhärte: 9  
 Größe: Groß  

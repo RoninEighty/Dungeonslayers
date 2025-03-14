@@ -28,7 +28,14 @@ Krummsäbel (WB+1)
 
 
 **Talente:**  
-Reiten II, Parade I, Kämpfer I, Waffenkenner I
+Reiten II: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung 
+
 
 Gegnerhärte: 3  
 Größe: Klein  

@@ -27,8 +27,28 @@ mag. Langschwert +1 (WB+3, INI+1, GA-1, Dämonen zerschmettern +II)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), mag. Metallhelm +2 (PA+3, Zauber: Giftschutz eingebettet), mag. Metallschild +1 (PA+2, Standhaft +II)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), mag. Metallhelm +2 (PA+3, Zauber: Giftschutz eingebettet), mag. Metallschild +1 (PA+2, Standhaft +II)
+
 **Talente:**  
-Kämpfer III, Parade III, Brutaler Hieb II, Diener des Lichts II, Einstecker I, Panzerung zerschmettern I, Rüstträger I, Verletzen I, Waffenkenner I
+Kämpfer III: Schlagen +1 pro Talentrang. 
+
+Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Brutaler Hieb II: Schlagen +KÖR 
+
+Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Panzerung zerschmettern I: PA-1 bei zufälligem nichtmagischem Rüstungsteil 
+
+Rüstträger I: +0,5m Laufen-Malus durch Rüstung 
+
+Verletzen I: GA-1 bei Nahkampfangriff 
+
+Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung 
+
 
 Gegnerhärte: 12  
 Größe: Normal  

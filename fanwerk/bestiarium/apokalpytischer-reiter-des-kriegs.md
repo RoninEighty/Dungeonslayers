@@ -23,8 +23,12 @@ Kriegsaxt (WB+4, GA-8)
 **Panzerung:**  
 Plattenpanzer (PA+3, LA-1), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
+**Ausrüstung:**  
+Plattenpanzer (PA+3, LA-1), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
+
 **Talente:**  
-Wesen der Dunkelheit (Settingoption)
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 32  
 Größe: Groß  

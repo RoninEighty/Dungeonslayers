@@ -27,8 +27,18 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Blitzmacher I, Glückspilz I, Wahrnehmung I, Wissensgebiet I
+Blitzmacher I: +1 Bonus auf Blitzzauber 
+
+Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Schock (+1)

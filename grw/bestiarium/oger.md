@@ -22,8 +22,16 @@ Massive Keule (WB+2, GA-2)
 **Panzerung:**  
 Felle (PA+1)
 
+**Ausrüstung:**  
+Felle (PA+1)
+
 **Talente:**  
-Nachtsicht, Umschlingen, Wesen der Dunkelheit (Settingoption)
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 9  
 Größe: Groß  

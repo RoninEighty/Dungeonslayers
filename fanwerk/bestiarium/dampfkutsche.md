@@ -22,8 +22,14 @@ Rammen
 **Panzerung:**  
 Metallwesen (PA+2)
 
+**Ausrüstung:**  
+Metallwesen (PA+2)
+
 **Talente:**  
-Schleudern, Sturmangriff
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
 
 Gegnerhärte: 16  
 Größe: Groß  

@@ -27,8 +27,18 @@ Langschwert (WB+2)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Blocker II, Fürsorger I, Parade I, Rüstzauberer I
+Blocker II: Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro Kampf und Talentrang einen Abwehrpatzer wiederholen. 
+
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren. 
+
 
 **Zaubersprüche:**  
 Heilende Hand (+2)

@@ -27,11 +27,23 @@
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-Stab (Arkane Explosion +III), Umhang (GEI +1)
-
 **Talente:**  
-Fürsorger III, Magieresistent III, Wechsler III, Diener des Lichts II, Wissensgebiet II, Wissensgebiet II, Zaubermacht II, Wissensgebiet I
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden). 
+
+Wechsler III: Zauber wechseln +2 pro Talentrang. 
+
+Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Zaubermacht II: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Bannen (-(KÖR+AU)/2), Flackern (+1), Giftbann (0), Glühender Glaube (-2), Heilbeeren (+3), Heilende Aura (+3), Heilende Hand (+4), Schutzfeld (+3), Schutzkuppel (+3), Schutzschild (+3), Segen (0), Stossgebet (-(KÖR+AU)/2)

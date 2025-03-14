@@ -27,8 +27,22 @@ Schlachtgeißel (WB+3, INI-4, GA-4)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
+
 **Talente:**  
-Brutaler Hieb II, Einstecker II, Kämpfer II, Schlachtruf I, Wahrnehmung I, Wissensgebiet I
+Brutaler Hieb II: Schlagen +KÖR 
+
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Kämpfer II: Schlagen +1 pro Talentrang. 
+
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 9  
 Größe: Normal  

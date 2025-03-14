@@ -27,8 +27,14 @@ Bihänder (2h) (WB+3, INI-2, GA-4)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5)
+
 **Talente:**  
-Einstecker I, Kämpfer I
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
 
 Gegnerhärte: 6  
 Größe: Normal  

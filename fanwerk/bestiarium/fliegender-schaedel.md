@@ -23,7 +23,16 @@ Biss (WB+1)
 
 
 **Talente:**  
-Dunkelsicht, Fliegen, Geistesimmun, Werteverlust, Wesen der Dunkelheit (Settingoption)
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Werteverlust: Pro erfolgreich angewandtem Lachen wird GEI um 1 gesenkt (bei GEI 0 ist das Opfer wahnsinnig). Pro Tag und Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 **Zaubersprüche:**  
 Totenlachen (-GEI+AU auf VE Ziele im Umkreis von VEx2 Metern, sofern diese das Lachen hören können; Erfolg führt zu Werteverlust.) (undefined)

@@ -23,7 +23,14 @@ Krallen (WB+1)
 
 
 **Talente:**  
-Fliegen, Natürliche Waffen, Sonar, Sturzangriff
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Sonar: 'Sieht' per Sonar. 
+
+Sturzangriff: Wird fliegend mindestens eine Distanz in Höhe von Laufen x 2 'rennend' geflogen, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen, während der Bewegung, also nicht nur davor oder danach. 
+
 
 Gegnerhärte: 2  
 Größe: Winzig  

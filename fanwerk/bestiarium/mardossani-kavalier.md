@@ -28,10 +28,21 @@ Degen (WB+1, INI+2)
 Lederpanzer (PA+1)
 
 **Ausrüstung:**  
-Maske (Glückspilz +I)
+Lederpanzer (PA+1)
 
 **Talente:**  
-Charmant I, Kämpfer I, Parade I, Schlitzohr I, Waffenkenner I, Wissensgebiet I
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang. 
+
+Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

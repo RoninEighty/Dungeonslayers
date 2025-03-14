@@ -22,8 +22,12 @@ Biss (WB+1)
 **Panzerung:**  
 Fell (PA+1)
 
+**Ausrüstung:**  
+Fell (PA+1)
+
 **Talente:**  
-Natürliche Waffen
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

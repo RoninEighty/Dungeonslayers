@@ -27,8 +27,20 @@ Axt (WB+1), Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Kämpfer II, Wahrnehmung II, Jäger I, Ausweichen I, Raserei I
+Kämpfer II: Schlagen +1 pro Talentrang. 
+
+Wahrnehmung II: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden. 
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Raserei I: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

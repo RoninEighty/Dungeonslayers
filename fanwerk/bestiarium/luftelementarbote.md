@@ -22,8 +22,14 @@ Luftstoß
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
+**Ausrüstung:**  
+Keine feste Gestalt (PA+8)
+
 **Talente:**  
-Anfällig, Fliegen
+Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe. 
+
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
 
 Gegnerhärte: 1  
 Größe: Winzig  

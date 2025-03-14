@@ -27,8 +27,18 @@ Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Glückspilz I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
+Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen. 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

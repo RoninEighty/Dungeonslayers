@@ -22,8 +22,20 @@ Grausamer Biss (WB+4)
 **Panzerung:**  
 Schuppenpanzer (PA+2)
 
+**Ausrüstung:**  
+Schuppenpanzer (PA+2)
+
 **Talente:**  
-Kletterläufer, Nachtsicht, Natürliche Waffen, Sturmangriff, Verschlingen
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern. 
+
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
+Verschlingen: Schlagen-Immersieg (Biss) verschlingt Ziel (sofern 2+ Größenkategorien kleiner), welches fortan einen nicht abwehrbaren Schadenspunkt pro Kampfrunde und einen Malus von -8 auf alle Proben erhält. Befreien: Nur mit einem Schlagen-Immersieg, der Schaden verursacht, kann sich der Verschlungene augenblicklich aus dem Leib seines Verschlingers befreien, wenn dieser noch lebt. 
+
 
 Gegnerhärte: 25  
 Größe: Riesig  

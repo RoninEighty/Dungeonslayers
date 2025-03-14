@@ -27,8 +27,20 @@ Kurzbogen (2h) (WB+1, INI+1), Dolch (INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Jäger I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I, Zauber auslösen I
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Zauber auslösen I: Zauber einer speziellen Klasse von Schriftrollen auslösen 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

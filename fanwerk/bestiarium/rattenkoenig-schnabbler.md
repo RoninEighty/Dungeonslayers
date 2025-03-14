@@ -28,10 +28,23 @@ Breitschwert (WB+1, GA-2)
 Kettenpanzer (PA+2, LA-0.5)
 
 **Ausrüstung:**  
-Gürtel (Stärke +3)
+Kettenpanzer (PA+2, LA-0.5)
 
 **Talente:**  
-Kämpfer III, Brutaler Hieb II, Einstecker II, Raserei I, Reiten I, Schwimmen I, Wissensgebiet I
+Kämpfer III: Schlagen +1 pro Talentrang. 
+
+Brutaler Hieb II: Schlagen +KÖR 
+
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Raserei I: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar. 
+
+Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang. 
+
+Schwimmen I: Schwimmen +3 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 9  
 Größe: Normal  

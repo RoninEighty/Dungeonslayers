@@ -27,8 +27,22 @@ Dolch (INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Bildung I, Charmant I, Schlitzohr I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

@@ -28,7 +28,16 @@ Bihänder (2h) (WB+3, INI-2, GA-4)
 
 
 **Talente:**  
-Brutaler Hieb I, Kämpfer I, Parade I, Prügler I, Standhaft I
+Brutaler Hieb I: Schlagen +KÖR 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen. 
+
+Standhaft I: LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang. 
+
 
 Gegnerhärte: 4  
 Größe: Normal  

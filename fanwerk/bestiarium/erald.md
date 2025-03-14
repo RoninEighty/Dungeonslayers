@@ -27,8 +27,18 @@ Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Bildung I, Glückspilz I, Schütze I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen. 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

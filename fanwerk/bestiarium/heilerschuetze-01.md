@@ -1,4 +1,4 @@
-# Heiler (Schütze 01)  
+# HeilerSchütze 01  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -27,8 +27,14 @@ Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1), Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Lederschienen (Arm & Bein) (PA+1), Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Fürsorger III, Rüstzauberer I
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren. 
+
 
 **Zaubersprüche:**  
 Heilende Hand (+4)

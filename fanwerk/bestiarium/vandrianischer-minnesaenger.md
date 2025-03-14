@@ -27,8 +27,22 @@ Langschwert (WB+2), Lanze (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Charmant I, Instrument I, Kämpfer I, Parade I, Reiten I, Wissensgebiet I
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+
+Instrument I: +3 pro Talentrang auf ausgewähltes Instrument. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 3  
 Größe: Normal  

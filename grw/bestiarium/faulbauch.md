@@ -22,8 +22,18 @@ Knochenpranke (WB+2)
 **Panzerung:**  
 Merkt nichts (PA+2)
 
+**Ausrüstung:**  
+Merkt nichts (PA+2)
+
 **Talente:**  
-Dunkelsicht, Geistesimmun, Schleudern, Wesen der Dunkelheit (Settingoption)
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 17  
 Größe: Groß  

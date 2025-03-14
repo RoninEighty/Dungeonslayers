@@ -23,7 +23,20 @@ Horn oder Hufe (WB+1, GA-2)
 
 
 **Talente:**  
-Angst, Mehrere Angriffe (+1), Geistesimmun, Nachtsicht, Schleudern, Sturmangriff, Wesen des Lichts (Settingoption)
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+
+Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff (Horn oder Hufe) in jeder Runde aktionsfrei ausführen. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
+Wesen des Lichts (Settingoption): Gilt in den meisten Settings als ein Wesen des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur. 
+
 
 **Zaubersprüche:**  
 Spurt (-2)

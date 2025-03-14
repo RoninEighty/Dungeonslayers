@@ -1,4 +1,4 @@
-# Heiler (Schütze 04)  
+# HeilerSchütze 04  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -27,8 +27,18 @@ Langbogen (2h) (WB+2, INI+1)
 **Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Fürsorger III, Einstecker II, Abklingen I, Rüstzauberer I
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Abklingen I: Abklingzeit aller Zauber -1 Runde 
+
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren. 
+
 
 **Zaubersprüche:**  
 Flackern (+1), Heilende Hand (+4), Heilendes Licht (+5), Magische Waffe (0), Segen (0)

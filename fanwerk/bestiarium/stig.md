@@ -27,8 +27,20 @@ Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Fürsorger II, Ausweichen I, Alchemie I, Rüstzauberer I, Zaubermacht I
+Fürsorger II: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang. 
+
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren. 
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
 
 **Zaubersprüche:**  
 Federgleich (0), Giftbann (0), Heilbeeren (+2), Heilende Aura (+2), Heilende Hand (+3), Lichtpfeil (+2), Magische Waffe (0), Schutzschild (+2)

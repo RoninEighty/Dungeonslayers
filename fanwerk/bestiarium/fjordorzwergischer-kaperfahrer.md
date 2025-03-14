@@ -27,8 +27,18 @@ Axt (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Prügler I, Raserei I, Schlachtruf I, Wissensgebiet I
+Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen. 
+
+Raserei I: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar. 
+
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 3  
 Größe: Normal  

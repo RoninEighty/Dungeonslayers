@@ -27,8 +27,12 @@ Langschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Ausweichen I
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
 
 **Zaubersprüche:**  
 Heilende Hand (+1)

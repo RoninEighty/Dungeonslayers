@@ -28,10 +28,19 @@ Krummschwert (WB+2, Sehnenschneider +I, Verletzen +I)
 mag. Holzschild +1 (PA+2, Zauber: Flackern eingebettet)
 
 **Ausrüstung:**  
-Stirnreif (Aura +2, Charmant +I, Schlitzohr +I)
+mag. Holzschild +1 (PA+2, Zauber: Flackern eingebettet)
 
 **Talente:**  
-Parade III, Ausweichen I, Schlachtruf I, Wissensgebiet I, Wissensgebiet I
+Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 3  
 Größe: Normal  

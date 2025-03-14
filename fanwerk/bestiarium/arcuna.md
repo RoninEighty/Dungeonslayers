@@ -27,11 +27,19 @@
 **Panzerung:**  
 
 
-**Ausrüstung:**  
-Kette (Gift trotzen +3), Stab (Aura +1, Zauber: Wolke der Reue eingebettet)
-
 **Talente:**  
-Alchemie II, Fürsorger I, Magieresistent I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
+Alchemie II: Tränke identifizieren und herstellen +1 pro Talentrang. 
+
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Magieresistent I: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden). 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Giftschutz (+1), Heilbeeren (+1), Tiere besänftigen (-LK/5)

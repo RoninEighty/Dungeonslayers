@@ -22,8 +22,16 @@ Knochenpranke (WB+2)
 **Panzerung:**  
 Merkt nichts (PA+2)
 
+**Ausrüstung:**  
+Merkt nichts (PA+2)
+
 **Talente:**  
-Geistesimmun, Natürliche Waffen, Wesen der Dunkelheit (Settingoption)
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 7  
 Größe: Normal  

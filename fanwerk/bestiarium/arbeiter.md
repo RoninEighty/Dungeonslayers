@@ -30,6 +30,7 @@ Werkzeug (WB+2)
 **Talente:**  
 
 
+
 Gegnerhärte: 2  
 Größe: Normal  
 Erfahrungspunkte: 53  

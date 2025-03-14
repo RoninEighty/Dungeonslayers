@@ -27,8 +27,20 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Alchemie I, Glückspilz I, Runenkunde I, Wahrnehmung I, Wissensgebiet I
+Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang. 
+
+Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen. 
+
+Runenkunde I: Schriftrollen identifizieren und herstellen +1 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Magie entdecken (0)

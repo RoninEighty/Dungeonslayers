@@ -27,8 +27,18 @@ Streitaxt (2h) (WB+3, INI-2)
 **Panzerung:**  
 Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
+
 **Talente:**  
-Brutaler Hieb I, Einstecker I, Kämpfer I, Rundumschlag I
+Brutaler Hieb I: Schlagen +KÖR 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Rundumschlag I: Schlagen -1, Abwehr -2 pro Gegner, mit 2h-Waffe/waffenlos 
+
 
 Gegnerhärte: 4  
 Größe: Normal  

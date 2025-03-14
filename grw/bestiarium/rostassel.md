@@ -22,8 +22,20 @@ Tentakelfühler (WB+1)
 **Panzerung:**  
 Chitinpanzer (PA+3)
 
+**Ausrüstung:**  
+Chitinpanzer (PA+3)
+
 **Talente:**  
-Mehrere Angriffe (+3), Dunkelsicht, Mehrere Angriffsglieder, Natürliche Waffen, Rost
+Mehrere Angriffe (+3): Kann mit seinen insgesamt vier Tentakelfühler 3 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen. 
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Mehrere Angriffsglieder: Greift mit insgesamt vier Tentakelfühlern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Rost: Jeder Treffer der Tentakelfühler reduziert die PA eines zufälligen, metallischen, nichtmagischen Rüstungsstückes des Ziels um 1. Gleiches gilt für den WB nichtmagischer Metallwaffen, die die Rostassel treffen. 
+
 
 Gegnerhärte: 8  
 Größe: Normal  

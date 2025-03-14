@@ -28,7 +28,18 @@ Wurfmesser
 
 
 **Talente:**  
-Akrobat I, Charmant I, Flink I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang. 
+
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+
+Flink I: Laufen +1m pro Talentrang. 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Zaubertrick (0)

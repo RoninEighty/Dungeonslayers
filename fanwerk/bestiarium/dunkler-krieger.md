@@ -26,8 +26,16 @@ Langschwert (WB+2)
 **Panzerung:**  
 Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Diener der Dunkelheit II, Einstecker I, Kämpfer I
+Diener der Dunkelheit II: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
 
 Gegnerhärte: 5  
 Größe: Normal  

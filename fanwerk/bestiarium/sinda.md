@@ -27,8 +27,14 @@ Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Ausweichen I, Einstecker I
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

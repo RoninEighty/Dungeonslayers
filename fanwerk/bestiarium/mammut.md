@@ -22,8 +22,16 @@ Stoßzähne (WB+3, GA-1)
 **Panzerung:**  
 Fell (PA+2)
 
+**Ausrüstung:**  
+Fell (PA+2)
+
 **Talente:**  
-Natürliche Waffen, Sturmangriff, Umschlingen
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
+Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers. 
+
 
 Gegnerhärte: 19  
 Größe: Groß  

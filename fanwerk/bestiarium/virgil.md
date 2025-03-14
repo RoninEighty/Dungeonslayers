@@ -27,8 +27,14 @@ Schleuder
 **Panzerung:**  
 Lumpen
 
+**Ausrüstung:**  
+Lumpen
+
 **Talente:**  
-Heimlichkeit III, Schütze III
+Heimlichkeit III: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Schütze III: Schiessen, Zielzauber +1 pro Talentrang. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

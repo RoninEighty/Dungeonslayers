@@ -22,8 +22,12 @@ Steinpranke (WB+4)
 **Panzerung:**  
 Steinwesen (PA+4)
 
+**Ausrüstung:**  
+Steinwesen (PA+4)
+
 **Talente:**  
-Anfällig
+Anfällig: Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe. 
+
 
 Gegnerhärte: 15  
 Größe: Normal  

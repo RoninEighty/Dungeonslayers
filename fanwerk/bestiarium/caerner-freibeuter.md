@@ -27,8 +27,22 @@ Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Akrobat I, Einstecker I, Flink I, Kämpfer I, Schwimmen I, Wissensgebiet I
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang. 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Flink I: Laufen +1m pro Talentrang. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Schwimmen I: Schwimmen +3 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

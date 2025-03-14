@@ -22,8 +22,14 @@ Schattenklinge (WB+5, GA-5)
 **Panzerung:**  
 Umhang (PA+2)
 
+**Ausrüstung:**  
+Umhang (PA+2)
+
 **Talente:**  
-Fliegen, Wesen der Dunkelheit (Settingoption)
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 33  
 Größe: Riesig  

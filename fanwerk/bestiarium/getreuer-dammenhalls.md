@@ -23,8 +23,18 @@ mag. Langschwert +1 (WB+3, INI+1, GA-1)
 **Panzerung:**  
 mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2)
 
+**Ausrüstung:**  
+mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2)
+
 **Talente:**  
-Angst, Alterung, Geistesimmun, Wesen der Dunkelheit (Settingoption)
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+
+Alterung: Bei einem Treffer altert das Ziel um 1 Jahr. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 22  
 Größe: Normal  

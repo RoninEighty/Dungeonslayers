@@ -28,10 +28,11 @@ Waffen
 Panzerung
 
 **Ausrüstung:**  
-Ausrüstung
+Panzerung
 
 **Talente:**  
-Talente
+Fähigkeiten Schlüssel 
+
 
 **Zaubersprüche:**  
 Zaubersprüche

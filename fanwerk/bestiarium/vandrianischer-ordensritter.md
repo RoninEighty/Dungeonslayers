@@ -27,8 +27,20 @@ Langschwert (WB+2), Streitkolben (WB+1, GA-1)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Brutaler Hieb I, Diener des Lichts I, Flink I, Parade I, Waffenkenner I
+Brutaler Hieb I: Schlagen +KÖR 
+
+Diener des Lichts I: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+
+Flink I: Laufen +1m pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung 
+
 
 Gegnerhärte: 4  
 Größe: Normal  

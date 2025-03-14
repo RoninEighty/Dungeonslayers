@@ -27,8 +27,20 @@ Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Fieser Schuss I, Kämpfer I, Parade I, Schütze I, Wahrnehmung I
+Fieser Schuss I: Schießen +AGI 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

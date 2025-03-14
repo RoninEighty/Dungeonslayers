@@ -27,8 +27,22 @@ Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Charmant I, Einstecker I, Schlitzohr I, Schwimmen I, Schütze I, Wissensgebiet I
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang. 
+
+Schwimmen I: Schwimmen +3 pro Talentrang. 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

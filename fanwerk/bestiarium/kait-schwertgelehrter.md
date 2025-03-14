@@ -27,8 +27,22 @@ Langschwert (WB+2), Dolch (INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Bildung I, Einstecker I, Flink I, Parade I, Schnelle Reflexe I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Flink I: Laufen +1m pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

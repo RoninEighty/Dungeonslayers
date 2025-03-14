@@ -23,8 +23,12 @@ Flegel (WB+4, GA-3)
 **Panzerung:**  
 Dicke Haut (PA+2)
 
+**Ausrüstung:**  
+Dicke Haut (PA+2)
+
 **Talente:**  
-Wesen der Dunkelheit (Settingoption)
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 22  
 Größe: Groß  

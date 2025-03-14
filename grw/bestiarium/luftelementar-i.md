@@ -22,8 +22,16 @@ Luftstoß (WB+1)
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
+**Ausrüstung:**  
+Keine feste Gestalt (PA+8)
+
 **Talente:**  
-Anfällig, Fliegen, Körperlos
+Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe. 
+
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos. 
+
 
 Gegnerhärte: 4  
 Größe: Klein  

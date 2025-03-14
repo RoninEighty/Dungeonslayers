@@ -23,7 +23,14 @@ Säurestrahl (WB+4), Säurestoß (WB+2, GA-2)
 
 
 **Talente:**  
-Gift, Anfällig, Kletterläufer, Regeneration
+Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde. 
+
+Anfällig: Erhält doppelten Schaden durch Feuer. 
+
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern. 
+
+Regeneration: Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Säure verlorene LK können nicht regeneriert werden. 
+
 
 Gegnerhärte: 7  
 Größe: Normal  

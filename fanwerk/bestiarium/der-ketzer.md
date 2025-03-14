@@ -23,7 +23,14 @@ Klauen/Schlangen
 
 
 **Talente:**  
-Geistesimmun, Natürliche Waffen, Totenkraft, Wesen der Dunkelheit (Settingoption)
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 **Zaubersprüche:**  
 Feuerball (+3), Feuerlanze (+2), Flackern (-2), Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken (0), Schatten (-(AGI+AU)/2), Skelette erwecken (0), Terror (-(GEI+VE)/2), Versetzen (0), Zombies erwecken (0)

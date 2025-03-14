@@ -27,8 +27,22 @@ Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Diener des Lichts I, Magieresistent I, Schütze I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
+Diener des Lichts I: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+
+Magieresistent I: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden). 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

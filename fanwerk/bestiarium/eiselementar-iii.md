@@ -22,8 +22,14 @@ Eisstrahl (WB+4)
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
+**Ausrüstung:**  
+Keine feste Gestalt (PA+8)
+
 **Talente:**  
-Anfällig, Körperlos
+Anfällig: Erhält doppelten Schaden durch Feuer. 
+
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos. 
+
 
 Gegnerhärte: 15  
 Größe: Groß  

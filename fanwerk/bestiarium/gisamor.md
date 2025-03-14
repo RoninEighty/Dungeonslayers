@@ -23,8 +23,16 @@ Schattenklinge (WB+3, GA-4), Feuerlanze (WB+2)
 **Panzerung:**  
 Schattenrüstung (PA+4)
 
+**Ausrüstung:**  
+Schattenrüstung (PA+4)
+
 **Talente:**  
-Dunkelsicht, Sturmangriff, Wesen der Dunkelheit (Settingoption)
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 **Zaubersprüche:**  
 Feuerlanze (+2), Skelette erwecken (0)

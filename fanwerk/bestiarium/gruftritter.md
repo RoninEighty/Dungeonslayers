@@ -27,8 +27,14 @@ Langschwert (WB+2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Kämpfer III, Parade I
+Kämpfer III: Schlagen +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
 
 Gegnerhärte: 6  
 Größe: Normal  

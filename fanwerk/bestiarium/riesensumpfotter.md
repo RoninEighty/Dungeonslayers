@@ -22,8 +22,18 @@ Biss (WB+2, GA-2)
 **Panzerung:**  
 Schuppenpanzer (PA+2)
 
+**Ausrüstung:**  
+Schuppenpanzer (PA+2)
+
 **Talente:**  
-Gift, Lähmungseffekt, Natürliche Waffen, Umschlingen
+Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde. 
+
+Lähmungseffekt: Netzflüssigkeit (nur alle 10 Kampfrunden einsetzbar) macht Ziel für Probenergebnis in Kamprunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers. 
+
 
 Gegnerhärte: 20  
 Größe: Riesig  

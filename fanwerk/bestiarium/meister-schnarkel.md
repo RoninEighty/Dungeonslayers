@@ -28,10 +28,21 @@ mag. Kampfstab (2h) +2 (WB+3, INI+2, GA-2, Zielzauber +1, Zielzauber +1)
 Robe
 
 **Ausrüstung:**  
-Amulett (Wahrnehmung +II)
+Robe
 
 **Talente:**  
-Bildung III, Runenkunde II, Wissensgebiet II, Heimlichkeit I, Wahrnehmung I, Wissensgebiet I
+Bildung III: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Runenkunde II: Schriftrollen identifizieren und herstellen +1 pro Talentrang. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Blenden (-(AGI+AU)/2), Flackern (-2), Lauschen (-1/10m), Magie entdecken (0), Magie identifizieren (0), Magisches Schloss (0), Öffnen (-SW)

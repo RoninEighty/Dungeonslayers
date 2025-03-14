@@ -22,8 +22,16 @@ Netzflüssigkeit (WB+2), Spinnenbiss (WB+1)
 **Panzerung:**  
 Chitinpanzer (PA+1)
 
+**Ausrüstung:**  
+Chitinpanzer (PA+1)
+
 **Talente:**  
-Kletterläufer, Lähmungseffekt, Natürliche Waffen
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern. 
+
+Lähmungseffekt: Netzflüssigkeit (nur alle 10 Kampfrunden einsetzbar) macht Ziel für Probenergebnis in Kamprunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
 
 Gegnerhärte: 3  
 Größe: Klein  

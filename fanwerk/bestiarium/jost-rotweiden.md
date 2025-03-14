@@ -27,8 +27,18 @@ Bihänder (2h) (WB+3, INI-2, GA-4)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Kämpfer III, Einstecker II, Brutaler Hieb II, Vernichtender Schlag I
+Kämpfer III: Schlagen +1 pro Talentrang. 
+
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Brutaler Hieb II: Schlagen +KÖR 
+
+Vernichtender Schlag I: Nicht abwehrbarer Nahkampfangriff 
+
 
 Gegnerhärte: 11  
 Größe: Normal  

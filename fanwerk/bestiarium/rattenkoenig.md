@@ -22,8 +22,24 @@ Spitze Zähne (WB+2)
 **Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
+**Ausrüstung:**  
+Dicke Borstenhaut (PA+2)
+
 **Talente:**  
-Mehrere Angriffe (+9), Bezaubern, Dunkelsicht, Natürliche Waffen, Regeneration, Schwimmen, Wesen der Dunkelheit (Settingoption)
+Mehrere Angriffe (+9): Kann 9 zusätzlichn Angriffe in jeder Runde aktionsfrei ausführen. 
+
+Bezaubern: Kann Gegner mit ihrem 'Lockruf' (siehe Zauber) bezaubern. 
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Regeneration: Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Säure verlorene LK können nicht regeneriert werden. 
+
+Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 25  
 Größe: Groß  

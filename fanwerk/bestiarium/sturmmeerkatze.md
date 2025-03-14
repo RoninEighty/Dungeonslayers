@@ -23,7 +23,10 @@ Biss (WB+1), Stein (WB+1)
 
 
 **Talente:**  
-Kletterläufer, Natürliche Waffen
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

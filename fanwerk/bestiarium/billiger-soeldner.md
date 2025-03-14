@@ -27,8 +27,14 @@ Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Kämpfer I, Parade I
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

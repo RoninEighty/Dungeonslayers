@@ -1,4 +1,4 @@
-# Heiler (Schütze 12)  
+# HeilerSchütze 12  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -28,10 +28,27 @@ Elfenbogen (2h) (WB+3, INI+1)
 Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1)
 
 **Ausrüstung:**  
-Ring (Abwehr +3), Ring (Wechsler +V), Vertrauter (Zaubern +1)
+Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Fürsorger III, Schütze III, Abklingen II, Einstecker II, Rüstzauberer I, Schnelle Reflexe I, Scharfschütze I, Vertrauter I, Wissensgebiet I
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Schütze III: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Abklingen II: Abklingzeit aller Zauber -1 Runde 
+
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren. 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Scharfschütze I: GA-1 bei Fernkampfangriff 
+
+Vertrauter I: ein Vertrauter mit VE+1, Bonus +1 auf speziellen Kampfwert 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Flackern (+1), Glühender Glaube (-2), Heilbeeren (+3), Heilende Hand (+4), Heilende Strahlen (+3), Heilendes Licht (+5), Magische Rüstung (+3), Magische Waffe (0), Schutzschild (+3), Segen (0)

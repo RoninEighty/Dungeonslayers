@@ -22,8 +22,20 @@ Geworf. Fels (WB+4, GA-4), Massive Keule (WB+2, GA-2)
 **Panzerung:**  
 Warzenhaut (PA+2)
 
+**Ausrüstung:**  
+Warzenhaut (PA+2)
+
 **Talente:**  
-Anfällig, Dunkelsicht, Regeneration, Umschlingen, Wesen der Dunkelheit (Settingoption)
+Anfällig: Erhält doppelten Schaden durch Lichtangriffe. 
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Regeneration: Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Säure verlorene LK können nicht regeneriert werden. 
+
+Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 14  
 Größe: Groß  

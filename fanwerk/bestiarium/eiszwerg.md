@@ -22,8 +22,12 @@ Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Nachtsicht
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

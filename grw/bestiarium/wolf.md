@@ -22,8 +22,16 @@ Großer Biss (WB+2, GA-1)
 **Panzerung:**  
 Wolfspelz (PA+1)
 
+**Ausrüstung:**  
+Wolfspelz (PA+1)
+
 **Talente:**  
-Nachtsicht, Natürliche Waffen, Sturmangriff
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
 
 Gegnerhärte: 4  
 Größe: Normal  

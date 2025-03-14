@@ -25,6 +25,7 @@ Spitze Zähne (WB+4)
 **Talente:**  
 
 
+
 Gegnerhärte: 7  
 Größe: Groß  
 Erfahrungspunkte: 102  

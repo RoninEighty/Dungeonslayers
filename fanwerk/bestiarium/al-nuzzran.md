@@ -27,7 +27,22 @@
 
 
 **Talente:**  
-Diener der Dunkelheit V, Beschwörer III, Zaubermacht III, Verheerer II, Einstecker I, Bändiger I, Meister seiner Klasse I, Feuermagier I
+Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+
+Beschwörer III: +2 Bonus auf Dämonen beschwören & kontrollieren 
+
+Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
+Verheerer II: GA-1 bei Schadenszauber 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Bändiger I: Mit GEI+AU Wesenheiten kontrollieren 
+
+Meister seiner Klasse I: ein Klassenattribut +1 
+
+Feuermagier I: Feuerzauber +1 pro Talentrang. 
+
 
 **Zaubersprüche:**  
 Blut kochen (-(KÖR+AU)/2), Dämonen beschwören (-(KÖR+AU)+BB), Ebenentor (-8), Erdspalt (-4), Feuerstrahl (+2), Flammeninferno (+6), Halt (-(KÖR+AU)/2), Kontrollieren (-(GEI+AU)/2), Schattenlanze (+5), Schattenpfeil (+2), Trugbild (-2), Versetzte Stimme (-1/10m), Wächter (0), Zaubertrick (0), Zombies erwecken (0)

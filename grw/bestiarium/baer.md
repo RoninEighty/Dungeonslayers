@@ -22,8 +22,14 @@ Pranke (WB+2, GA-2)
 **Panzerung:**  
 Fell (PA+1)
 
+**Ausrüstung:**  
+Fell (PA+1)
+
 **Talente:**  
-Natürliche Waffen, Sturmangriff
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
 
 Gegnerhärte: 9  
 Größe: Groß  

@@ -22,8 +22,14 @@ Peitsche (WB-1, INI+1, GA-2)
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Parade II, Kämpfer I
+Parade II: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

@@ -28,7 +28,12 @@ Kurzschwert (WB+1)
 
 
 **Talente:**  
-Parade III, Kämpfer II, Wissensgebiet II
+Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Kämpfer II: Schlagen +1 pro Talentrang. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

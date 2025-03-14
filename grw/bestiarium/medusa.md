@@ -22,8 +22,18 @@ Klauen/Schlangen (WB+2)
 **Panzerung:**  
 Schuppen (PA+1)
 
+**Ausrüstung:**  
+Schuppen (PA+1)
+
 **Talente:**  
-Mehrere Angriffe (+5), Blickangriff, Schleudern, Versteinern
+Mehrere Angriffe (+5): Von den zahlreichen Schlangen auf ihrem Kopf können jeweils 5 in jeder Runde Nahkampfgegner angreifen. 
+
+Blickangriff: Greift mit seinem Blick aktionsfrei jeden an, dem GEI+AU misslingt. Wer gegen die Kreatur vorgeht, ohne ihr in die Augen zu sehen, erhält -4 auf alle Proben, ist aber nicht mehr Ziel ihrer Blickangriffe. 
+
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden. 
+
+Versteinern: Bei einem erfolgreichen Blickangriff versteinert das Ziel, sofern diesem KÖR+AU misslingt. Eine Versteinerung kann durch den Zauber Allheilung aufgehoben werden. 
+
 
 Gegnerhärte: 18  
 Größe: Normal  

@@ -27,8 +27,18 @@ Bihänder (2h) (WB+3, INI-2, GA-4), mag. Langschwert +1 (WB+3, INI+1, GA-1)
 **Panzerung:**  
 mag. Kettenpanzer +1 (PA+3), Metallhelm (PA+1, INI-1), Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 
+**Ausrüstung:**  
+mag. Kettenpanzer +1 (PA+3), Metallhelm (PA+1, INI-1), Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
+
 **Talente:**  
-Kämpfer III, Parade III, Brutaler Hieb II, Magieresistent II
+Kämpfer III: Schlagen +1 pro Talentrang. 
+
+Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Brutaler Hieb II: Schlagen +KÖR 
+
+Magieresistent II: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden). 
+
 
 Gegnerhärte: 13  
 Größe: Normal  

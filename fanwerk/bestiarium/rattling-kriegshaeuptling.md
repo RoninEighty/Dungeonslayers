@@ -27,8 +27,32 @@ Kurzbogen (2h) (WB+1, INI+1), mag. Krummsäbel +1 (WB+2, INI+1, GA-1)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Einstecker III, Kämpfer III, Ausweichen II, Flink II, Brutaler Hieb II, Parade II, Wissensgebiet II, Heimlichkeit I, Hinterhältiger Angriff I, Schwimmen I, Wahrnehmung I
+Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Kämpfer III: Schlagen +1 pro Talentrang. 
+
+Ausweichen II: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Flink II: Laufen +1m pro Talentrang. 
+
+Brutaler Hieb II: Schlagen +KÖR 
+
+Parade II: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Hinterhältiger Angriff I: Schlagen +GE mal Talentrang, falls Angriff hinterrücks mit Dolch. 
+
+Schwimmen I: Schwimmen +3 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 Gegnerhärte: 5  
 Größe: Klein  

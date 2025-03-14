@@ -27,8 +27,12 @@ Langschwert (WB+2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1)
+
 **Talente:**  
-Kämpfer I
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
 
 Gegnerhärte: 4  
 Größe: Normal  

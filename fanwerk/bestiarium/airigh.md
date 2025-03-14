@@ -27,8 +27,28 @@ Kampfstab (2h) (WB+1, Zielzauber +1, Zauber: Teleport eingebettet)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Magieresistent III, Feuermagier II, Bildung II, Wechsler II, Zaubermacht II, Runenkunde I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
+Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden). 
+
+Feuermagier II: Feuerzauber +1 pro Talentrang. 
+
+Bildung II: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Wechsler II: Zauber wechseln +2 pro Talentrang. 
+
+Zaubermacht II: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
+Runenkunde I: Schriftrollen identifizieren und herstellen +1 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Feuerlanze (+4), Feuerstrahl (+3), Flammenklinge (+2), Giftbann (0), Giftschutz (0), Licht (+5), Magie entdecken (0), Magie identifizieren (0), Tiere besänftigen (-LK/5)

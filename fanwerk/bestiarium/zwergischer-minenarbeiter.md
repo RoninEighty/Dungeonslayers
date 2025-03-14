@@ -28,7 +28,14 @@ Hammer (WB+1, GA-1)
 
 
 **Talente:**  
-Handwerk I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
+Handwerk I: +3 pro Talentrang auf ausgewähltes Handwerk. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  

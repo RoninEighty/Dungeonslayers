@@ -23,7 +23,10 @@ Huf (WB+2)
 
 
 **Talente:**  
-Nachtsicht, Natürliche Waffen
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
 
 Gegnerhärte: 4  
 Größe: Groß  

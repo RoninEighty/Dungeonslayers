@@ -22,8 +22,30 @@ Sense (WB+7, INI-1, GA-7)
 **Panzerung:**  
 Körperlos (PA+8)
 
+**Ausrüstung:**  
+Körperlos (PA+8)
+
 **Talente:**  
-Angst, Alterung, Dunkelsicht, Fliegen, Geistesimmun, Nur durch Magie verletzbar, Resistenz, Totenkraft, Vernichtender Schlag, Wesen der Dunkelheit (Settingoption)
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -5 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+
+Alterung: Bei einem Treffer altert das Ziel pro erlittenen Schadenspunkt um 1 Jahr. 
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Nur durch Magie verletzbar: Nur Angriffe mit magischen Waffen oder durch Zauber richten Schaden an. Ausgenommen sind eventuelle Anfälligkeiten, durch die ebenfalls Schaden erlitten wird. 
+
+Resistenz: Kontrollieren und Vertreiben zusätzlich -8, wenn gegen diese Kreatur gerichtet 
+
+Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte. 
+
+Vernichtender Schlag: Kann einen Angriff pro Runde mit -6 ausführen, um an einem  Ziel (sofern nicht mehr als 1  Größenkategorie Unterschied) nicht abwehrbaren Schaden zu verursachen. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 **Zaubersprüche:**  
 Ebenentor (-8), Geben und Nehmen (0), Halt (-(KÖR+AU)/2), Kontrollieren (-(GEI+AU)/2), Schatten erwecken (0), Skelette erwecken (0), Teleport (-1/Begleiter), Totengespräch (0), Unsichtbares sehen (0), Unsichtbarkeit (0), Verborgenes sehen (0), Verlangsamen (-(KÖR+AU)/2), Versetzen (0), Wiederbelebung (0), Zombies erwecken (0)

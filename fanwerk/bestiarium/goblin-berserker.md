@@ -22,8 +22,16 @@ Hammer (WB+1, GA-1)
 **Panzerung:**  
 Fellschurz
 
+**Ausrüstung:**  
+Fellschurz
+
 **Talente:**  
-Nachtsicht, Sturmangriff, Wesen der Dunkelheit (Settingoption)
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 2  
 Größe: Klein  

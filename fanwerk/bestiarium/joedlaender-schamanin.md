@@ -28,7 +28,18 @@ Speer (WB+1)
 
 
 **Talente:**  
-Fürsorger I, Jäger I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Heilende Hand (+2)

@@ -28,10 +28,15 @@
 Robe (runenbestickt) (Aura +1)
 
 **Ausrüstung:**  
-Ring (Schütze +III), Stiefel (Flink +III)
+Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Einstecker III, Zaubermacht III, Schnelle Reflexe I
+Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
 
 **Zaubersprüche:**  
 Feuerstrahl (+1), Flackern (-2), Schattenpfeil (+2)

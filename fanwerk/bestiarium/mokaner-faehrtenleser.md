@@ -27,8 +27,20 @@ Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Heimlichkeit I, Jäger I, Sattelschütze I, Schütze I, Wahrnehmung I
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden. 
+
+Sattelschütze I: beritten Schießen, +5 Malus 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

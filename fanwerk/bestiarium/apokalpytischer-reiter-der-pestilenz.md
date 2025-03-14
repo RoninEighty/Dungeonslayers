@@ -23,8 +23,12 @@ Peitsche (WB+4, GA-4)
 **Panzerung:**  
 Umhang (PA+3)
 
+**Ausrüstung:**  
+Umhang (PA+3)
+
 **Talente:**  
-Wesen der Dunkelheit (Settingoption)
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 17  
 Größe: Groß  

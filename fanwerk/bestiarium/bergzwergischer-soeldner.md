@@ -27,8 +27,18 @@ Streithammer (2h) (WB+3, INI-4)
 **Panzerung:**  
 Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Einstecker I, Kämpfer I, Schlachtruf I, Waffenkenner I
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden 
+
+Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung 
+
 
 Gegnerhärte: 5  
 Größe: Normal  

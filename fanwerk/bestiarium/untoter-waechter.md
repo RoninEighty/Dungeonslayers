@@ -22,8 +22,14 @@ Streitaxt (2h) (WB+3, INI-2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
+
 **Talente:**  
-Geistesimmun, Wesen der Dunkelheit (Settingoption)
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 13  
 Größe: Normal  

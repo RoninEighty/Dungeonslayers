@@ -22,8 +22,12 @@ Pranke (WB+2, GA-2)
 **Panzerung:**  
 Fell (PA+1)
 
+**Ausrüstung:**  
+Fell (PA+1)
+
 **Talente:**  
-Nachtsicht
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
 
 Gegnerhärte: 10  
 Größe: Normal  

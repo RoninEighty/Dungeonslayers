@@ -28,7 +28,16 @@ Langbogen (2h) (WB+2, INI+1)
 
 
 **Talente:**  
-Fieser Schuss I, Heimlichkeit I, Jäger I, Wahrnehmung I, Wissensgebiet I
+Fieser Schuss I: Schießen +AGI 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

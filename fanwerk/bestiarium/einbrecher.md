@@ -27,8 +27,22 @@ Kurzbogen (2h) (WB+1, INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Akrobat I, Diebeskunst I, Flink I, Heimlichkeit I, Schütze I, Wahrnehmung I
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang. 
+
+Diebeskunst I: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang. 
+
+Flink I: Laufen +1m pro Talentrang. 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

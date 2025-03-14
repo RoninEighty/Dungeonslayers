@@ -27,8 +27,20 @@ Speer (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Holzschild (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Holzschild (PA+1)
+
 **Talente:**  
-Ausweichen I, Flink I, Parade I, Schnelle Reflexe I, Schütze I
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Flink I: Laufen +1m pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

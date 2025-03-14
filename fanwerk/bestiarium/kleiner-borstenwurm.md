@@ -22,8 +22,16 @@ Biss (WB+2, GA-2)
 **Panzerung:**  
 Dicke Borstenhaut (PA+2)
 
+**Ausrüstung:**  
+Dicke Borstenhaut (PA+2)
+
 **Talente:**  
-Dunkelsicht, Sonar, Verschlingen
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Sonar: 'Sieht' per Sonar. 
+
+Verschlingen: Schlagen-Immersieg (Biss) verschlingt Ziel (sofern 2+ Größenkategorien kleiner), welches fortan einen nicht abwehrbaren Schadenspunkt pro Kampfrunde und einen Malus von -8 auf alle Proben erhält. Befreien: Nur mit einem Schlagen-Immersieg, der Schaden verursacht, kann sich der Verschlungene augenblicklich aus dem Leib seines Verschlingers befreien, wenn dieser noch lebt. 
+
 
 Gegnerhärte: 11  
 Größe: Groß  

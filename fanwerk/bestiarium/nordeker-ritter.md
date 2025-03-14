@@ -27,8 +27,18 @@ Breitschwert (WB+1, GA-2)
 **Panzerung:**  
 Holzschild (PA+1), Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Holzschild (PA+1), Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Kämpfer II, Brutaler Hieb I, Parade I, Wahrnehmung I
+Kämpfer II: Schlagen +1 pro Talentrang. 
+
+Brutaler Hieb I: Schlagen +KÖR 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 Gegnerhärte: 5  
 Größe: Normal  

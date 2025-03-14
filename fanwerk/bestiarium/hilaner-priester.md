@@ -28,7 +28,14 @@
 
 
 **Talente:**  
-Bildung II, Wissensgebiet II, Diener des Lichts I, Wissensgebiet I
+Bildung II: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Diener des Lichts I: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 **Zaubersprüche:**  
 Heilende Hand (+1)

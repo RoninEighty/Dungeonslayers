@@ -27,8 +27,14 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
 
+**Ausrüstung:**  
+mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
+
 **Talente:**  
-Einstecker III, Zaubermacht III
+Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
 
 **Zaubersprüche:**  
 Feuerlanze (+2), Feuerstrahl (+1), Verteidigung (0), Zaubertrick (0), Öffnen (-SW)

@@ -22,8 +22,14 @@ Langschwert (WB+2)
 **Panzerung:**  
 Metallwesen (PA+5)
 
+**Ausrüstung:**  
+Metallwesen (PA+5)
+
 **Talente:**  
-Dunkelsicht, Geistesimmun
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
 
 Gegnerhärte: 8  
 Größe: Normal  

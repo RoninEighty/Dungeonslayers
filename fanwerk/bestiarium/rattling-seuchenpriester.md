@@ -27,8 +27,28 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 Robe (runenbestickt) (Aura +1)
 
+**Ausrüstung:**  
+Robe (runenbestickt) (Aura +1)
+
 **Talente:**  
-Alchemie II, Einstecker II, Wissensgebiet II, Fürsorger I, Ausweichen I, Schwimmen I, Heimlichkeit I, Wahrnehmung I, Zaubermacht I
+Alchemie II: Tränke identifizieren und herstellen +1 pro Talentrang. 
+
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang. 
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Schwimmen I: Schwimmen +3 pro Talentrang. 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
 
 **Zaubersprüche:**  
 Blenden (-(AGI+AU)/2), Einschläfern (-(KÖR+VE)/2), Giftbann (0), Giftschutz (+1), Heilende Hand (+2), Magie entdecken (0), Netz (-(AGI+ST)/2), Rost (-Stufe), Segen (0), Tiere besänftigen (-LK/5), Vertreiben (-(KÖR+AU)/2)

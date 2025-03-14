@@ -22,8 +22,20 @@ Asthiebe (WB+2)
 **Panzerung:**  
 Dicke Rinde (PA+2)
 
+**Ausrüstung:**  
+Dicke Rinde (PA+2)
+
 **Talente:**  
-Mehrere Angriffe (+3), Anfällig, Nachtsicht, Natürliche Waffen, Schleudern
+Mehrere Angriffe (+3): Kann 3 zusätzliche Asthiebe in jeder Runde aktionsfrei ausführen. 
+
+Anfällig: Erhält doppelten Schaden durch Feuer. 
+
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden. 
+
 
 Gegnerhärte: 23  
 Größe: Groß  

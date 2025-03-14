@@ -27,8 +27,14 @@ Langschwert (WB+2)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5)
+
 **Talente:**  
-Einstecker II, Kämpfer II
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Kämpfer II: Schlagen +1 pro Talentrang. 
+
 
 Gegnerhärte: 5  
 Größe: Normal  

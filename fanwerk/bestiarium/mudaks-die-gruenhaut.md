@@ -22,8 +22,18 @@ Mudaks Schlitzer (INI+1, Glückspilz +I)
 **Panzerung:**  
 Mudaks Schuppen (PA+1, Schnelle Reflexe +I), Mudaks Schädel (PA+1, INI-1)
 
+**Ausrüstung:**  
+Mudaks Schuppen (PA+1, Schnelle Reflexe +I), Mudaks Schädel (PA+1, INI-1)
+
 **Talente:**  
-Ausweichen I, Kämpfer I, Nachtsicht, Wesen der Dunkelheit (Settingoption)
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Kämpfer I: Schlagen +1 pro Talentrang. 
+
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 1  
 Größe: Klein  

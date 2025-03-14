@@ -27,8 +27,18 @@ Dolch (INI+1), Schleuder
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Akrobat I, Heimlichkeit I, Schütze I, Wissensgebiet I
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang. 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

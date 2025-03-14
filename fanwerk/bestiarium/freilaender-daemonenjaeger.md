@@ -27,8 +27,20 @@ Armbrust, leicht (2h) (WB+2, INI-2), Kurzschwert (WB+1)
 **Panzerung:**  
 Lederpanzer (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1)
+
 **Talente:**  
-Diener des Lichts I, Fieser Schuss I, Schnelle Reflexe I, Schütze I, Wahrnehmung I
+Diener des Lichts I: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+
+Fieser Schuss I: Schießen +AGI 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+
 
 **Zaubersprüche:**  
 Wasser weihen (0)

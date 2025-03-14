@@ -27,8 +27,20 @@ Armbrust, leicht (2h) (WB+2, INI-2)
 **Panzerung:**  
 mag. Lederpanzer +1 (PA+2)
 
+**Ausrüstung:**  
+mag. Lederpanzer +1 (PA+2)
+
 **Talente:**  
-Ausweichen III, Heimlichkeit III, Schlitzohr III, Wissensgebiet II, Handwerk I
+Ausweichen III: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Heimlichkeit III: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Schlitzohr III: Handeln, Feilschen, Bluffen +3 pro Talentrang. 
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Handwerk I: +3 pro Talentrang auf ausgewähltes Handwerk. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

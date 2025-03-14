@@ -22,8 +22,18 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 **Panzerung:**  
 mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
 
+**Ausrüstung:**  
+mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
+
 **Talente:**  
-Dunkelsicht, Geistesimmun, Resistenz, Wesen der Dunkelheit (Settingoption)
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Resistenz: Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 **Zaubersprüche:**  
 Arkanes Schwert (0), Blitz (+3), Feuerball (+3), Feuerlanze (+2), Flackern (-2), Flammenklinge (0), Halt (-(KÖR+AU)/2), Magische Rüstung (0), Schutzschild (0), Spurt (-2)

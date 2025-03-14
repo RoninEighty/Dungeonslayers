@@ -22,8 +22,14 @@ Speer (WB+1)
 **Panzerung:**  
 Schuppenpanzer (PA+1)
 
+**Ausrüstung:**  
+Schuppenpanzer (PA+1)
+
 **Talente:**  
-Nachtsicht, Schleudern
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden. 
+
 
 Gegnerhärte: 3  
 Größe: Normal  

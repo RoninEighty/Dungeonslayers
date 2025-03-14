@@ -22,8 +22,22 @@ Knochenpranke (WB+2, GA-2)
 **Panzerung:**  
 Merkt nichts (PA+2)
 
+**Ausrüstung:**  
+Merkt nichts (PA+2)
+
 **Talente:**  
-Anfällig, Dunkelsicht, Geistesimmun, Natürliche Waffen, Regeneration, Wesen der Dunkelheit (Settingoption)
+Anfällig: Erhält doppelten Schaden durch Lichtangriffe. 
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+
+Regeneration: Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Säure verlorene LK können nicht regeneriert werden. 
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+
 
 Gegnerhärte: 18  
 Größe: Groß  

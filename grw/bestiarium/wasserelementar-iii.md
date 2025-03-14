@@ -22,8 +22,16 @@ Wasserstrahl (WB+4)
 **Panzerung:**  
 Keine feste Gestalt (PA+8)
 
+**Ausrüstung:**  
+Keine feste Gestalt (PA+8)
+
 **Talente:**  
-Anfällig, Körperlos, Schwimmen
+Anfällig: Erhält doppelten Schaden durch Feuer. 
+
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos. 
+
+Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2. 
+
 
 Gegnerhärte: 16  
 Größe: Groß  

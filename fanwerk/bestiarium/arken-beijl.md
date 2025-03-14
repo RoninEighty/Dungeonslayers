@@ -28,10 +28,17 @@ mag. Kampfstab (2h) +1 (WB+2, INI+1, GA-1, Zielzauber +1, Zielzauber +1)
 mag. Robe (runenbestickt) +2 (PA+2, Verstand +1, Aura +1)
 
 **Ausrüstung:**  
-Ring (Zauber: Versetzen eingebettet, Abklingzeit 3x täglich ignorieren), Stab (Zauber: Feuerball als Zauberstab)
+mag. Robe (runenbestickt) +2 (PA+2, Verstand +1, Aura +1)
 
 **Talente:**  
-Einstecker III, Zaubermacht III, Verheerer II, Abklingen I
+Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
+Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+
+Verheerer II: GA-1 bei Schadenszauber 
+
+Abklingen I: Abklingzeit aller Zauber -1 Runde 
+
 
 **Zaubersprüche:**  
 Feuerball (+3), Feuerlanze (+2), Flammeninferno (+5), Fliegen (0), Glühender Glaube (-2), Niesanfall (-(KÖR+AU)/2), Schutzschild (0), Terror (-(GEI+VE)/2)

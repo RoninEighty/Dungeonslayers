@@ -23,7 +23,12 @@ Besenstiel (WB+1)
 
 
 **Talente:**  
-Dunkelsicht, Geistesimmun, Schweben
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+
+Schweben: Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2. 
+
 
 **Zaubersprüche:**  
 Niesanfall (-(KÖR+AU)/2), Reinigen (0), Stolpern (-(AGI+AU)/2), Wolke der Reue (-2)

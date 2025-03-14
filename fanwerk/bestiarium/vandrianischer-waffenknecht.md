@@ -27,8 +27,14 @@ Armbrust, schwer (2h) (WB+3, INI-4, GA-2), Dolch (INI+1)
 **Panzerung:**  
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
+**Ausrüstung:**  
+Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
+
 **Talente:**  
-Schütze II, Einstecker I
+Schütze II: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+
 
 Gegnerhärte: 4  
 Größe: Normal  

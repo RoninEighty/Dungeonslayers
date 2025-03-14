@@ -28,7 +28,14 @@ Kurzbogen (2h) (WB+1, INI+1), Dolch (INI+1)
 
 
 **Talente:**  
-Jäger I, Schütze I, Wissensgebiet I, Wissensgebiet I
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden. 
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+
 
 Gegnerhärte: 1  
 Größe: Normal  

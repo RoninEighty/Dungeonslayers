@@ -27,8 +27,22 @@ Langschwert (WB+2), Dolch (INI+1)
 **Panzerung:**  
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
+**Ausrüstung:**  
+Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
+
 **Talente:**  
-Akrobat I, Ausweichen I, Flink I, Heimlichkeit I, Parade I, Schnelle Reflexe I
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang. 
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+
+Flink I: Laufen +1m pro Talentrang. 
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+
 
 Gegnerhärte: 2  
 Größe: Normal  
