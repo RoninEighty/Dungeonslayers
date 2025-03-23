@@ -15,6 +15,21 @@
 	--dark-sidebar-text-color: #e0e0e0;
 	--dark-footer-text-color: #e0e0e0;
 	--dark-footer-bg-color: #1a1a1a;
+
+	/* Additional color variables */
+	--h1-color: white;
+	--h1-text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+	--h2-bg-color: black;
+	--h2-color: white;
+	--th-border-color: black;
+	--th-bg-color: #ddd;
+	--td-border-color: black;
+	--container-bg-color: #fff;
+	--container-text-color: #515151;
+	--container-header-color: #313131;
+	--dark-container-bg-color: #333333;
+	--dark-container-text-color: #e0e0e0;
+	--dark-container-header-color: #e0e0e0;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,6 +40,9 @@
 		--sidebar-text-color: var(--dark-sidebar-text-color);
 		--footer-text-color: var(--dark-footer-text-color);
 		--footer-bg-color: var(--dark-footer-bg-color);
+		--container-bg-color: var(--dark-container-bg-color);
+		--container-text-color: var(--dark-container-text-color);
+		--container-header-color: var(--dark-container-header-color);
 	}
 }
 
@@ -161,9 +179,8 @@ h1 {
 	text-align: center;
 	font-size: 4rem;
 	font-weight: normal;
-	color: white;
-	text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
-		2px 2px 0 #000;
+	color: var(--h1-color);
+	text-shadow: var(--h1-text-shadow);
 	margin-top: 0;
 	margin-bottom: 0;
 }
@@ -174,8 +191,8 @@ h2 {
 	text-align: center;
 	font-size: 2rem;
 	font-weight: normal;
-	background-color: black;
-	color: white;
+	background-color: var(--h2-bg-color);
+	color: var(--h2-color);
 	text-align: center;
 	margin-bottom: 0;
 }
@@ -231,17 +248,17 @@ table + table {
 }
 
 th {
-	border: 1.5px solid black;
+	border: 1.5px solid var(--th-border-color);
 	font-family: "Woodstamp";
 	text-transform: uppercase;
 	font-weight: normal;
 	font-size: 1.5rem;
-	background-color: #ddd;
+	background-color: var(--th-bg-color);
 	padding: 0.2rem;
 }
 
 td {
-	border: 1.5px solid black;
+	border: 1.5px solid var(--td-border-color);
 	padding: 0.2rem;
 }
 
@@ -260,12 +277,12 @@ td {
 	}
 
 	.container {
-		background: #fff;
-		color: #515151;
+		background: var(--container-bg-color);
+		color: var(--container-text-color);
 	}
 
 	.container > header {
-		color: #313131;
+		color: var(--container-header-color);
 	}
 
 	.content > p {
