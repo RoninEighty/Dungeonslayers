@@ -8,6 +8,24 @@
 	/*
    --text-color: #515151;
    */
+	/* Dark theme variables */
+	--dark-bg-color: #202020;
+	--dark-text-color: #e0e0e0;
+	--dark-sidebar-bg-color: #333333;
+	--dark-sidebar-text-color: #e0e0e0;
+	--dark-footer-text-color: #e0e0e0;
+	--dark-footer-bg-color: #1a1a1a;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg-color: var(--dark-bg-color);
+		--text-color: var(--dark-text-color);
+		--sidebar-bg-color: var(--dark-sidebar-bg-color);
+		--sidebar-text-color: var(--dark-sidebar-text-color);
+		--footer-text-color: var(--dark-footer-text-color);
+		--footer-bg-color: var(--dark-footer-bg-color);
+	}
 }
 
 * {
