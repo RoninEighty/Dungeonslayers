@@ -6,20 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 0   |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| ST     | 2  | BE       | 2  | VE         | 2  |
+| HÄ     | 2  | GE       | 2  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 20 | Abwehr   | 12 | Initiative | 9  |
+| Laufen | 3  | Schlagen | 13 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 54 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 12       | 9          | 3          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 8        |            |            |
 
 **Bewaffnung:**  
 Langschwert (WB+2), Dolch (INI+1)
@@ -31,16 +26,13 @@ Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 
 **Talente:**  
-Diener der Dunkelheit II: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+Diener der Dunkelheit II: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Kämpfer I: Schlagen +1 pro Talentrang. 
+Kämpfer I: Schlagen +1 pro Talentrang.
 
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 54  
 
 
 

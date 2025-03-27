@@ -6,20 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 2   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 0   | 4   | 3   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| ST     | 2  | BE       | 0  | VE         | 2  |
+| HÄ     | 0  | GE       | 4  | AU         | 3  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 7  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 9  | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | kl | EP         | 60 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 16       | 7        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 10       | 12         |            |
 
 **Bewaffnung:**  
 Hammer (WB+1, GA-1)
@@ -31,23 +26,20 @@ Robe (runenbestickt) (Aura +1)
 Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Handwerk II: +3 pro Talentrang auf ausgewähltes Handwerk. 
+Handwerk II: +3 pro Talentrang auf ausgewähltes Handwerk.
 
-Diebeskunst I: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang. 
+Diebeskunst I: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Magisches Schloss (0)
+[Magisches Schloss](/grw/zauber/magisches-schloss.md) (0)
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 60  
 
 
 

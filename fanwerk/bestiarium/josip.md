@@ -7,20 +7,15 @@
 
 - Upgrade: Heroisch  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 8   | 8   |
-| ST  | BE  | VE  |  
-| 4   | 10  | 2   |
-| HÄ  | GE  | AU  |  
-| 4   | 5   | 0   |
+| KÖR    | 10 | AGI      | 8  | GEI        | 8   |
+| ST     | 4  | BE       | 10 | VE         | 2   |
+| HÄ     | 4  | GE       | 5  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 60 | Abwehr   | 19 | Initiative | 40  |
+| Laufen | 5  | Schlagen | 19 | Schiessen  | 13  |
+|        |    |          |    |            |     |
+| GH     | 10 | GK       | kl | EP         | 234 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 60       | 19       | 40         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 19       | 13       |            |            |
 
 **Bewaffnung:**  
 mag. Dolch +3 (WB+3, INI+4, GA-3, Aderschlitzer +V)
@@ -32,28 +27,25 @@ mag. Robe +3 (PA+3, Ausweichen +IV)
 mag. Robe +3 (PA+3, Ausweichen +IV)
 
 **Talente:**  
-Ausweichen V: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+Ausweichen V: Ausweichen.description
 
-Heimlichkeit V: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+Heimlichkeit V: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Schnelle Reflexe V: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+Schnelle Reflexe V: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
-Verletzen V: GA-1 bei Nahkampfangriff 
+Verletzen V: GA-1 bei Nahkampfangriff
 
-Wahrnehmung V: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung V: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Handwerk III: +3 pro Talentrang auf ausgewähltes Handwerk. 
+Handwerk III: +3 pro Talentrang auf ausgewähltes Handwerk.
 
-Diener der Dunkelheit III: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+Diener der Dunkelheit III: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-Meucheln III: GA-5 pro Talentrang in Verbindung mit hinterhätigem Angriff. 
+Meucheln III: GA-5 pro Talentrang in Verbindung mit hinterhätigem Angriff.
 
-Hinterhältiger Angriff III: Schlagen +GE mal Talentrang, falls Angriff hinterrücks mit Dolch. 
+Hinterhältiger Angriff III: Schlagen +GE mal Talentrang, falls Angriff hinterrücks mit Dolch.
 
 
-Gegnerhärte: 10  
-Größe: Klein  
-Erfahrungspunkte: 234  
 
 
 

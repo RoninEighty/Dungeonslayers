@@ -1,20 +1,15 @@
 # Donnerechse  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 7   | 3   |
-| ST  | BE  | VE  |  
-| 4   | 1   | 0   |
-| HÄ  | GE  | AU  |  
-| 5   | 3   | 0   |
+| KÖR    | 8   | AGI      | 7  | GEI        | 3   |
+| ST     | 4   | BE       | 1  | VE         | 0   |
+| HÄ     | 5   | GE       | 3  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 69  | Abwehr   | 15 | Initiative | 8   |
+| Laufen | 7.5 | Schlagen | 14 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 5   | GK       | gr | EP         | 151 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 69       | 15       | 8          | 7.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 10       |            | 9          |
 
 **Bewaffnung:**  
 Großer Biss (WB+2, GA-2)
@@ -26,17 +21,14 @@ Schuppenpanzer (PA+2)
 Schuppenpanzer (PA+2)
 
 **Talente:**  
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
 
 **Zaubersprüche:**  
-Blitz (+3)
+[Blitz](/grw/zauber/blitz.md) (+3)
 
-Gegnerhärte: 5  
-Größe: Groß  
-Erfahrungspunkte: 151  
 
 
 

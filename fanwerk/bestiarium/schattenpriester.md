@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 8   | 7   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 5   |
-| HÄ  | GE  | AU  |  
-| 0   | 6   | 2   |
+| KÖR    | 5  | AGI      | 8  | GEI        | 7  |
+| ST     | 0  | BE       | 0  | VE         | 5  |
+| HÄ     | 0  | GE       | 6  | AU         | 2  |
+|        |    |          |    |            |    |
+| LK     | 15 | Abwehr   | 5  | Initiative | 9  |
+| Laufen | 5  | Schlagen | 5  | Schiessen  | 14 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 62 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 15       | 5        | 9          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 5        | 14       | 9          | 13         |
 
 **Bewaffnung:**  
 Dolch (INI+1)
@@ -35,11 +30,8 @@ Robe (runenbestickt) (Aura +1)
 
 
 **Zaubersprüche:**  
-Niesanfall (-(KÖR+AU)/2), Schatten (-(AGI+AU)/2), Schattenpfeil (+2), Skelette erwecken (0), Verwirren (-(GEI+AU)/2)
+[Niesanfall](/grw/zauber/niesanfall.md) (-(KÖR+AU)/2), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Schatten](/grw/zauber/schatten.md)pfeil (+2), [Skelette erwecken](/grw/zauber/skelette-erwecken.md) (0), [Verwirren](/grw/zauber/verwirren.md) (-(GEI+AU)/2)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 62  
 
 
 

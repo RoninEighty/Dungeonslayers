@@ -1,20 +1,15 @@
 # Dämonenfürst  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 20  | 20  | 10  |
-| ST  | BE  | VE  |  
-| 10  | 10  | 5   |
-| HÄ  | GE  | AU  |  
-| 10  | 10  | 5   |
+| KÖR    | 20  | AGI      | 20 | GEI        | 10  |
+| ST     | 10  | BE       | 10 | VE         | 5   |
+| HÄ     | 10  | GE       | 10 | AU         | 5   |
+|        |     |          |    |            |     |
+| LK     | 400 | Abwehr   | 32 | Initiative | 30  |
+| Laufen | 16  | Schlagen | 35 | Schiessen  | 30  |
+|        |     |          |    |            |     |
+| GH     | 42  | GK       | ge | EP         | 579 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 400      | 32       | 30         | 16         |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 35       | 30       |            |            |
 
 **Bewaffnung:**  
 Pranke (WB+5, GA-5)
@@ -26,18 +21,15 @@ Dämonenhaut (PA+2)
 Dämonenhaut (PA+2)
 
 **Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 42  
-Größe: ge  
-Erfahrungspunkte: 579  
 
 
 

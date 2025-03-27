@@ -1,20 +1,15 @@
 # Pferd  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 11  | 1   |
-| ST  | BE  | VE  |  
-| 2   | 7   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 0   |
+| KÖR    | 10   | AGI      | 11 | GEI        | 1   |
+| ST     | 2    | BE       | 7  | VE         | 0   |
+| HÄ     | 2    | GE       | 0  | AU         | 0   |
+|        |      |          |    |            |     |
+| LK     | 66   | Abwehr   | 12 | Initiative | 18  |
+| Laufen | 10.5 | Schlagen | 14 | Schiessen  | 11  |
+|        |      |          |    |            |     |
+| GH     | 4    | GK       | gr | EP         | 101 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 66       | 12       | 18         | 10.5       |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 11       |            |            |
 
 **Bewaffnung:**  
 Huf (WB+2)
@@ -23,12 +18,9 @@ Huf (WB+2)
 
 
 **Talente:**  
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
 
-Gegnerhärte: 4  
-Größe: Groß  
-Erfahrungspunkte: 101  
 
 
 

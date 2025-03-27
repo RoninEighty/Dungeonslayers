@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 5   | 1   | 1   |
-| HÄ  | GE  | AU  |  
-| 4   | 2   | 1   |
+| KÖR    | 8   | AGI      | 6  | GEI        | 6  |
+| ST     | 5   | BE       | 1  | VE         | 1  |
+| HÄ     | 4   | GE       | 2  | AU         | 1  |
+|        |     |          |    |            |    |
+| LK     | 28  | Abwehr   | 14 | Initiative | 7  |
+| Laufen | 3.5 | Schlagen | 17 | Schiessen  | 8  |
+|        |     |          |    |            |    |
+| GH     | 5   | GK       | no | EP         | 66 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 28       | 14       | 7          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 17       | 8        |            |            |
 
 **Bewaffnung:**  
 Langschwert (WB+2)
@@ -31,14 +26,11 @@ Kettenpanzer (PA+2, LA-0.5)
 Kettenpanzer (PA+2, LA-0.5)
 
 **Talente:**  
-Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Kämpfer II: Schlagen +1 pro Talentrang. 
+Kämpfer II: Schlagen +1 pro Talentrang.
 
 
-Gegnerhärte: 5  
-Größe: Normal  
-Erfahrungspunkte: 66  
 
 
 

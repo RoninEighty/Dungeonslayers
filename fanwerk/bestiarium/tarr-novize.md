@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 7   | 1   | 0   |
-| HÄ  | GE  | AU  |  
-| 6   | 0   | 0   |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4   |
+| ST     | 7  | BE       | 1  | VE         | 0   |
+| HÄ     | 6  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 30 | Abwehr   | 18 | Initiative | 4   |
+| Laufen | 4  | Schlagen | 20 | Schiessen  | 8   |
+|        |    |          |    |            |     |
+| GH     | 9  | GK       | no | EP         | 111 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 30       | 18       | 4          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 20       | 8        |            |            |
 
 **Bewaffnung:**  
 Schlachtgeißel (WB+3, INI-4, GA-4)
@@ -31,22 +26,19 @@ Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
 **Talente:**  
-Brutaler Hieb II: Schlagen +KÖR 
+Brutaler Hieb II: Brutaler Hieb.description
 
-Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Kämpfer II: Schlagen +1 pro Talentrang. 
+Kämpfer II: Schlagen +1 pro Talentrang.
 
-Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden 
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
-Gegnerhärte: 9  
-Größe: Normal  
-Erfahrungspunkte: 111  
 
 
 

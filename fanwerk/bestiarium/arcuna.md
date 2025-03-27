@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 0   | 4   | 5   |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| ST     | 0   | BE       | 0  | VE         | 3  |
+| HÄ     | 0   | GE       | 4  | AU         | 5  |
+|        |     |          |    |            |    |
+| LK     | 15  | Abwehr   | 5  | Initiative | 7  |
+| Laufen | 4.5 | Schlagen | 5  | Schiessen  | 11 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 50 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 15       | 5        | 7          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 5        | 11       | 13         |            |
 
 **Bewaffnung:**  
 
@@ -28,25 +23,22 @@
 
 
 **Talente:**  
-Alchemie II: Tränke identifizieren und herstellen +1 pro Talentrang. 
+Alchemie II: Alchemie.description
 
-Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang. 
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang.
 
-Magieresistent I: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden). 
+Magieresistent I: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Giftschutz (+1), Heilbeeren (+1), Tiere besänftigen (-LK/5)
+[Giftschutz](/grw/zauber/giftschutz.md) (+1), [Heilbeeren](/grw/zauber/heilbeeren.md) (+1), [Tiere besänftigen](/grw/zauber/tiere-besaenftigen.md) (-LK/5)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 50  
 
 
 

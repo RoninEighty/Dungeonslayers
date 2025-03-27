@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 5   |
-| HÄ  | GE  | AU  |  
-| 1   | 2   | 3   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| ST     | 0  | BE       | 0  | VE         | 5  |
+| HÄ     | 1  | GE       | 2  | AU         | 3  |
+|        |    |          |    |            |    |
+| LK     | 17 | Abwehr   | 7  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 6  | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 50 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 17       | 7        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 8        | 11         |            |
 
 **Bewaffnung:**  
 
@@ -31,23 +26,20 @@ Robe (runenbestickt) (Aura +1)
 Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Bildung II: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+Bildung II: Bildung.description
 
-Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang. 
+Alchemie I: Alchemie.description
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Magie identifizieren (0)
+[Magie identifizieren](/grw/zauber/magie-identifizieren.md) (0)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 50  
 
 
 

@@ -6,20 +6,15 @@
 
 - Upgrade: Upgrade  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| KÖR | AGI | GEI |
-| ST  | BE  | VE  |  
-| ST  | BE  | VE  |
-| HÄ  | GE  | AU  |  
-| HÄ  | GE  | AU  |
+| KÖR    | KÖR         | AGI      | AGI      | GEI        | GEI        |
+| ST     | ST          | BE       | BE       | VE         | VE         |
+| HÄ     | HÄ          | GE       | GE       | AU         | AU         |
+|        |             |          |          |            |            |
+| LK     | Lebenskraft | Abwehr   | Abwehr   | Initiative | Initiative |
+| Laufen | Laufen      | Schlagen | Schlagen | Schiessen  | Schiessen  |
+|        |             |          |          |            |            |
+| GH     | GH          | GK       | GK       | EP         | EP         |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| Lebenskraft| Abwehr   | Initiative | Laufen     |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| Schlagen | Schiessen| Zauber     | Zielzauber |
 
 **Bewaffnung:**  
 Waffen
@@ -31,14 +26,12 @@ Panzerung
 Panzerung
 
 **Talente:**  
-Fähigkeiten Schlüssel 
+Fähigkeiten Schlüssel
 
 
 **Zaubersprüche:**  
-Zaubersprüche
+[Zauber](/fanwerk/zauber/zauber.md)sprüche
 
-Gegnerhärte: GH  
-Erfahrungspunkte: EP  
 
 
 

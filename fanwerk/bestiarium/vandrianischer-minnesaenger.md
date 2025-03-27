@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 3   |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| ST     | 4  | BE       | 0  | VE         | 0  |
+| HÄ     | 3  | GE       | 0  | AU         | 3  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 13 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 15 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | no | EP         | 54 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 13       | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 6        |            |            |
 
 **Bewaffnung:**  
 Langschwert (WB+2), Lanze (WB+1)
@@ -31,22 +26,19 @@ Lederpanzer (PA+1)
 Lederpanzer (PA+1)
 
 **Talente:**  
-Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+Charmant I: Charmant.description
 
-Instrument I: +3 pro Talentrang auf ausgewähltes Instrument. 
+Instrument I: +3 pro Talentrang auf ausgewähltes Instrument.
 
-Kämpfer I: Schlagen +1 pro Talentrang. 
+Kämpfer I: Schlagen +1 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang. 
+Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
-Gegnerhärte: 3  
-Größe: Normal  
-Erfahrungspunkte: 54  
 
 
 

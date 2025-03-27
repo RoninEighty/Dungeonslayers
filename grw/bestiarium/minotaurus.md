@@ -1,20 +1,15 @@
 # Minotaurus  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 14  | 6   | 4   |
-| ST  | BE  | VE  |  
-| 4   | 2   | 1   |
-| HÄ  | GE  | AU  |  
-| 3   | 1   | 1   |
+| KÖR    | 14  | AGI      | 6  | GEI        | 4   |
+| ST     | 4   | BE       | 2  | VE         | 1   |
+| HÄ     | 3   | GE       | 1  | AU         | 1   |
+|        |     |          |    |            |     |
+| LK     | 54  | Abwehr   | 18 | Initiative | 8   |
+| Laufen | 4.5 | Schlagen | 20 | Schiessen  | 7   |
+|        |     |          |    |            |     |
+| GH     | 12  | GK       | gr | EP         | 138 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 54       | 18       | 8          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 20       | 7        |            |            |
 
 **Bewaffnung:**  
 Massive Keule, Horn oder Huf (WB+2, GA-2)
@@ -26,14 +21,11 @@ Fell (PA+1)
 Fell (PA+1)
 
 **Talente:**  
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
-Zerstampfen: Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht. 
+Zerstampfen: Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
 
 
-Gegnerhärte: 12  
-Größe: Groß  
-Erfahrungspunkte: 138  
 
 
 

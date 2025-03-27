@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 5   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 0   |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| ST     | 5  | BE       | 3  | VE         | 0  |
+| HÄ     | 2  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 20 | Abwehr   | 12 | Initiative | 11 |
+| Laufen | 5  | Schlagen | 15 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 2  | GK       | no | EP         | 53 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 12       | 11         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 8        |            |            |
 
 **Bewaffnung:**  
 Krummschwert (WB+2), Krummschwert (WB+2)
@@ -31,16 +26,13 @@ Lederpanzer (PA+1)
 Lederpanzer (PA+1)
 
 **Talente:**  
-Zwei Waffen III: Bei Kampf mit zwei Waffen Malus -2 pro Talentrang. 
+Zwei Waffen III: Bei Kampf mit zwei Waffen Malus -2 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 53  
 
 
 

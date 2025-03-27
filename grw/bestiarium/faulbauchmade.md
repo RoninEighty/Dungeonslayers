@@ -1,20 +1,15 @@
 # Faulbauchmade  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 0   |
-| ST  | BE  | VE  |  
-| 2   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 0   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 0  |
+| ST     | 2  | BE       | 0  | VE         | 0  |
+| HÄ     | 4  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 10 | Abwehr   | 10 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 10 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | kl | EP         | 47 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 10       | 10       | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 10       | 6        |            |            |
 
 **Bewaffnung:**  
 Zahnschlund (WB+2)
@@ -23,16 +18,13 @@ Zahnschlund (WB+2)
 
 
 **Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 47  
 
 
 

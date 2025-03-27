@@ -6,20 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 3   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 5   | 2   | 0   |
+| KÖR    | 8   | AGI      | 8  | GEI        | 4  |
+| ST     | 3   | BE       | 0  | VE         | 0  |
+| HÄ     | 5   | GE       | 2  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 26  | Abwehr   | 17 | Initiative | 5  |
+| Laufen | 4.5 | Schlagen | 14 | Schiessen  | 12 |
+|        |     |          |    |            |    |
+| GH     | 3   | GK       | no | EP         | 64 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 26       | 17       | 5          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 12       |            |            |
 
 **Bewaffnung:**  
 Streitaxt (2h) (WB+3, INI-2), Armbrust, leicht (2h) (WB+2, INI-2)
@@ -31,12 +26,9 @@ Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1)
 
 **Talente:**  
-Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
 
-Gegnerhärte: 3  
-Größe: Normal  
-Erfahrungspunkte: 64  
 
 
 

@@ -1,20 +1,15 @@
 # Luftelementarbote  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 2   | 5   | 1   |
-| ST  | BE  | VE  |  
-| 0   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 1   | 0   |
+| KÖR    | 2   | AGI      | 5  | GEI        | 1  |
+| ST     | 0   | BE       | 3  | VE         | 0  |
+| HÄ     | 2   | GE       | 1  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 4   | Abwehr   | 12 | Initiative | 8  |
+| Laufen | 3.5 | Schlagen | 2  | Schiessen  | 6  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | wi | EP         | 41 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 4        | 12       | 8          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 2        | 6        |            |            |
 
 **Bewaffnung:**  
 Luftstoß
@@ -26,14 +21,11 @@ Keine feste Gestalt (PA+8)
 Keine feste Gestalt (PA+8)
 
 **Talente:**  
-Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe. 
+Anfällig: Anfällig.description
 
-Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
 
-Gegnerhärte: 1  
-Größe: Winzig  
-Erfahrungspunkte: 41  
 
 
 

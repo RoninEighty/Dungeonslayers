@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 7   | 5   |
-| ST  | BE  | VE  |  
-| 11  | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 6   | 0   | 0   |
+| KÖR    | 8  | AGI      | 7  | GEI        | 5  |
+| ST     | 11 | BE       | 2  | VE         | 0  |
+| HÄ     | 6  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 30 | Abwehr   | 16 | Initiative | 9  |
+| Laufen | 4  | Schlagen | 23 | Schiessen  | 7  |
+|        |    |          |    |            |    |
+| GH     | 9  | GK       | no | EP         | 92 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 30       | 16       | 9          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 23       | 7        |            |            |
 
 **Bewaffnung:**  
 Breitschwert (WB+1, GA-2)
@@ -31,24 +26,21 @@ Kettenpanzer (PA+2, LA-0.5)
 Kettenpanzer (PA+2, LA-0.5)
 
 **Talente:**  
-Kämpfer III: Schlagen +1 pro Talentrang. 
+Kämpfer III: Schlagen +1 pro Talentrang.
 
-Brutaler Hieb II: Schlagen +KÖR 
+Brutaler Hieb II: Brutaler Hieb.description
 
-Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Raserei I: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar. 
+Raserei I: Raserei.description
 
-Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang. 
+Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-Schwimmen I: Schwimmen +3 pro Talentrang. 
+Schwimmen I: Schwimmen +3 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
-Gegnerhärte: 9  
-Größe: Normal  
-Erfahrungspunkte: 92  
 
 
 

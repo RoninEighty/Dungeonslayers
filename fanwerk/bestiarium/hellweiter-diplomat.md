@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 4   |
-| HÄ  | GE  | AU  |  
-| 0   | 1   | 5   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| ST     | 0  | BE       | 0  | VE         | 4  |
+| HÄ     | 0  | GE       | 1  | AU         | 5  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 7  | Initiative | 7  |
+| Laufen | 4  | Schlagen | 6  | Schiessen  | 7  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 47 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 16       | 7        | 7          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 7        |            |            |
 
 **Bewaffnung:**  
 Dolch (INI+1)
@@ -31,22 +26,19 @@ Lederpanzer (PA+1)
 Lederpanzer (PA+1)
 
 **Talente:**  
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+Bildung I: Bildung.description
 
-Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+Charmant I: Charmant.description
 
-Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang. 
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 47  
 
 
 

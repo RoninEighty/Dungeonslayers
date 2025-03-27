@@ -1,20 +1,15 @@
 # Irrlicht  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 6   | 1   |
-| ST  | BE  | VE  |  
-| 0   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 3   | 0   |
+| KÖR    | 4 | AGI      | 6  | GEI        | 1   |
+| ST     | 0 | BE       | 2  | VE         | 0   |
+| HÄ     | 2 | GE       | 3  | AU         | 0   |
+|        |   |          |    |            |     |
+| LK     | 8 | Abwehr   | 14 | Initiative | 8   |
+| Laufen | 4 | Schlagen | 4  | Schiessen  | 10  |
+|        |   |          |    |            |     |
+| GH     | 9 | GK       | kl | EP         | 185 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 8        | 14       | 8          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 4        | 10       |            |            |
 
 **Bewaffnung:**  
 Blitzstrahl (WB+1, GA-5)
@@ -26,20 +21,17 @@ Keine feste Gestalt (PA+8)
 Keine feste Gestalt (PA+8)
 
 **Talente:**  
-Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+Angst: Angst.description
 
-Antimagie: Sämtliche Magie in einem Radius von 10m Metern um den großen Augenball herum ist wirkungslos. Dies gilt nicht für die eigene Magie der Kreatur oder deren Zauber. 
+Antimagie: Antimagie.description
 
-Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos. 
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos.
 
-Schweben: Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2. 
+Schweben: Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2.
 
-Sonar: 'Sieht' per Sonar. 
+Sonar: 'Sieht' per Sonar.
 
 
-Gegnerhärte: 9  
-Größe: Klein  
-Erfahrungspunkte: 185  
 
 
 

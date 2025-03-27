@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 7   | 5   |
-| ST  | BE  | VE  |  
-| 5   | 1   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 1   | 0   |
+| KÖR    | 8   | AGI      | 7  | GEI        | 5  |
+| ST     | 5   | BE       | 1  | VE         | 0  |
+| HÄ     | 3   | GE       | 1  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 21  | Abwehr   | 11 | Initiative | 8  |
+| Laufen | 4.5 | Schlagen | 15 | Schiessen  | 8  |
+|        |     |          |    |            |    |
+| GH     | 2   | GK       | no | EP         | 53 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 11       | 8          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 8        |            |            |
 
 **Bewaffnung:**  
 Werkzeug (WB+2)
@@ -31,9 +26,6 @@ Werkzeug (WB+2)
 
 
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 53  
 
 
 

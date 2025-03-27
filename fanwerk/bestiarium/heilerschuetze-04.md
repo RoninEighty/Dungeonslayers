@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 4   | 5   | 3   |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| ST     | 0   | BE       | 0  | VE         | 2  |
+| HÄ     | 4   | GE       | 5  | AU         | 3  |
+|        |     |          |    |            |    |
+| LK     | 25  | Abwehr   | 10 | Initiative | 8  |
+| Laufen | 4.5 | Schlagen | 5  | Schiessen  | 17 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 79 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 25       | 10       | 8          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 5        | 17       | 11         | 16         |
 
 **Bewaffnung:**  
 Langbogen (2h) (WB+2, INI+1)
@@ -31,21 +26,18 @@ Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1)
 Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang. 
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang.
 
-Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Abklingen I: Abklingzeit aller Zauber -1 Runde 
+Abklingen I: Abklingen.description
 
-Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren. 
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren.
 
 
 **Zaubersprüche:**  
-Flackern (+1), Heilende Hand (+4), Heilendes Licht (+5), Magische Waffe (0), Segen (0)
+[Flackern](/grw/zauber/flackern.md) (+1), [Heilende Hand](/grw/zauber/heilende-hand.md) (+4), [Heilendes [Licht](/grw/zauber/licht.md)](/grw/zauber/heilendes-licht.md) (+5), [Magische Waffe](/grw/zauber/magische-waffe.md) (0), [Segen](/grw/zauber/segen.md) (0)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 79  
 
 
 

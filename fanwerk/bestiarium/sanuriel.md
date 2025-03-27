@@ -6,20 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 4   | 3   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| ST     | 0  | BE       | 0  | VE         | 2  |
+| HÄ     | 2  | GE       | 4  | AU         | 3  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 8  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 11 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 53 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 8        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 11       |            | 15         |
 
 **Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
@@ -31,21 +26,18 @@ Robe (runenbestickt) (Aura +1)
 Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Blitzmacher I: +1 Bonus auf Blitzzauber 
+Blitzmacher I: Blitzmacher.description
 
-Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen. 
+Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Schock (+1)
+[Schock](/fanwerk/zauber/schock.md) (+1)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 53  
 
 
 

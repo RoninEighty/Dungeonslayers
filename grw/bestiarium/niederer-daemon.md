@@ -1,20 +1,15 @@
 # Niederer Dämon  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 5   | 5   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 2   |
+| KÖR    | 5   | AGI      | 5  | GEI        | 5  |
+| ST     | 2   | BE       | 2  | VE         | 2  |
+| HÄ     | 2   | GE       | 2  | AU         | 2  |
+|        |     |          |    |            |    |
+| LK     | 9   | Abwehr   | 9  | Initiative | 7  |
+| Laufen | 3.5 | Schlagen | 8  | Schiessen  | 7  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 71 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 9        | 9        | 7          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 7        |            |            |
 
 **Bewaffnung:**  
 Pranke (WB+1, GA-1)
@@ -26,18 +21,15 @@ Dämonenhaut (PA+2)
 Dämonenhaut (PA+2)
 
 **Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 71  
 
 
 

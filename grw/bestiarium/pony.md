@@ -1,20 +1,15 @@
 # Pony  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 9   | 8   | 1   |
-| ST  | BE  | VE  |  
-| 2   | 5   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 0   |
+| KÖR    | 9  | AGI      | 8  | GEI        | 1  |
+| ST     | 2  | BE       | 5  | VE         | 0  |
+| HÄ     | 2  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 63 | Abwehr   | 11 | Initiative | 13 |
+| Laufen | 8  | Schlagen | 13 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | gr | EP         | 92 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 63       | 11       | 13         | 8          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 8        |            |            |
 
 **Bewaffnung:**  
 Huf (WB+2)
@@ -23,12 +18,9 @@ Huf (WB+2)
 
 
 **Talente:**  
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
 
-Gegnerhärte: 3  
-Größe: Groß  
-Erfahrungspunkte: 92  
 
 
 

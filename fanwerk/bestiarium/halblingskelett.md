@@ -1,20 +1,15 @@
 # Halblingskelett  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 8   | 0   |
-| ST  | BE  | VE  |  
-| 3   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 4   |
+| KÖR    | 10 | AGI      | 8  | GEI        | 0  |
+| ST     | 3  | BE       | 2  | VE         | 0  |
+| HÄ     | 2  | GE       | 2  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 11 | Abwehr   | 12 | Initiative | 10 |
+| Laufen | 5  | Schlagen | 14 | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | kl | EP         | 58 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 11       | 12       | 10         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 10       |            |            |
 
 **Bewaffnung:**  
 Kochenklauen (WB+1)
@@ -23,14 +18,11 @@ Kochenklauen (WB+1)
 
 
 **Talente:**  
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 3  
-Größe: Klein  
-Erfahrungspunkte: 58  
 
 
 

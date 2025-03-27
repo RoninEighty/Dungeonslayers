@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 1   |
-| HÄ  | GE  | AU  |  
-| 4   | 5   | 1   |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| ST     | 0   | BE       | 0  | VE         | 1  |
+| HÄ     | 4   | GE       | 5  | AU         | 1  |
+|        |     |          |    |            |    |
+| LK     | 19  | Abwehr   | 10 | Initiative | 8  |
+| Laufen | 4.5 | Schlagen | 5  | Schiessen  | 13 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 58 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 19       | 10       | 8          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 5        | 13       | 13         |            |
 
 **Bewaffnung:**  
 Kurzbogen (2h) (WB+1, INI+1)
@@ -31,17 +26,14 @@ Lederschienen (Arm & Bein) (PA+1), Robe (runenbestickt) (Aura +1)
 Lederschienen (Arm & Bein) (PA+1), Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang. 
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang.
 
-Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren. 
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren.
 
 
 **Zaubersprüche:**  
-Heilende Hand (+4)
+[Heilende Hand](/grw/zauber/heilende-hand.md) (+4)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 58  
 
 
 

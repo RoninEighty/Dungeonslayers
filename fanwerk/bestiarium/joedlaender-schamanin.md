@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 4   | 4   |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| ST     | 0   | BE       | 0  | VE         | 0  |
+| HÄ     | 2   | GE       | 4  | AU         | 4  |
+|        |     |          |    |            |    |
+| LK     | 17  | Abwehr   | 7  | Initiative | 7  |
+| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 12 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 53 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 17       | 7        | 7          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 12       | 14         |            |
 
 **Bewaffnung:**  
 Speer (WB+1)
@@ -28,25 +23,22 @@ Speer (WB+1)
 
 
 **Talente:**  
-Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang. 
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang.
 
-Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden. 
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Heilende Hand (+2)
+[Heilende Hand](/grw/zauber/heilende-hand.md) (+2)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 53  
 
 
 

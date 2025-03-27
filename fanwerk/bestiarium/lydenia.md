@@ -6,20 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 2   | 3   | 2   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| ST     | 0  | BE       | 0  | VE         | 3  |
+| HÄ     | 2  | GE       | 3  | AU         | 2  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 8  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 52 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 8        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 10       |            | 14         |
 
 **Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
@@ -28,21 +23,18 @@ Kampfstab (2h) (WB+1, Zielzauber +1)
 
 
 **Talente:**  
-Blitzmacher I: +1 Bonus auf Blitzzauber 
+Blitzmacher I: Blitzmacher.description
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
 
 **Zaubersprüche:**  
-Schock (+1)
+[Schock](/fanwerk/zauber/schock.md) (+1)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 52  
 
 
 

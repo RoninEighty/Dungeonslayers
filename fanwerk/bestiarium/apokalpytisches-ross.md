@@ -1,20 +1,15 @@
 # Apokalpytisches Ross  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 10  | 2   |
-| ST  | BE  | VE  |  
-| 4   | 4   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR    | 12  | AGI      | 10 | GEI        | 2   |
+| ST     | 4   | BE       | 4  | VE         | 0   |
+| HÄ     | 3   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 75  | Abwehr   | 15 | Initiative | 14  |
+| Laufen | 9.5 | Schlagen | 18 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 13  | GK       | gr | EP         | 162 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 75       | 15       | 14         | 9.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 10       |            |            |
 
 **Bewaffnung:**  
 Huf (WB+2)
@@ -23,18 +18,15 @@ Huf (WB+2)
 
 
 **Talente:**  
-Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+Angst: Angst.description
 
-Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 13  
-Größe: Groß  
-Erfahrungspunkte: 162  
 
 
 

@@ -1,20 +1,15 @@
 # Mudaks, die Grünhaut  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 3   |
-| ST  | BE  | VE  |  
-| 3   | 2   | 2   |
-| HÄ  | GE  | AU  |  
-| 1   | 2   | 0   |
+| KÖR    | 5   | AGI      | 7  | GEI        | 3  |
+| ST     | 3   | BE       | 2  | VE         | 2  |
+| HÄ     | 1   | GE       | 2  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 8   | Abwehr   | 8  | Initiative | 11 |
+| Laufen | 4.5 | Schlagen | 9  | Schiessen  | 9  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 45 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 8        | 8        | 11         | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 9        |            |            |
 
 **Bewaffnung:**  
 Mudaks Schlitzer (INI+1, Glückspilz +I)
@@ -26,18 +21,15 @@ Mudaks Schuppen (PA+1, Schnelle Reflexe +I), Mudaks Schädel (PA+1, INI-1)
 Mudaks Schuppen (PA+1, Schnelle Reflexe +I), Mudaks Schädel (PA+1, INI-1)
 
 **Talente:**  
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+Ausweichen I: Ausweichen.description
 
-Kämpfer I: Schlagen +1 pro Talentrang. 
+Kämpfer I: Schlagen +1 pro Talentrang.
 
-Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 45  
 
 
 

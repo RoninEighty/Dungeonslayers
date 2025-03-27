@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 5   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 0   |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| ST     | 5  | BE       | 3  | VE         | 0  |
+| HÄ     | 2  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 20 | Abwehr   | 14 | Initiative | 12 |
+| Laufen | 5  | Schlagen | 15 | Schiessen  | 9  |
+|        |    |          |    |            |    |
+| GH     | 2  | GK       | no | EP         | 75 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 14       | 12         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 9        |            |            |
 
 **Bewaffnung:**  
 Speer (WB+1), Breitschwert (WB+1, GA-2)
@@ -31,20 +26,17 @@ Lederpanzer (PA+1), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
 Lederpanzer (PA+1), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
 
 **Talente:**  
-Kämpfer I: Schlagen +1 pro Talentrang. 
+Kämpfer I: Schlagen +1 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden 
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 75  
 
 
 

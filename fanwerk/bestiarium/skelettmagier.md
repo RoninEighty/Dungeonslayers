@@ -1,20 +1,15 @@
 # Skelettmagier  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 4   |
-| HÄ  | GE  | AU  |  
-| 2   | 7   | 5   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8   |
+| ST     | 2  | BE       | 2  | VE         | 4   |
+| HÄ     | 2  | GE       | 7  | AU         | 5   |
+|        |    |          |    |            |     |
+| LK     | 18 | Abwehr   | 9  | Initiative | 8   |
+| Laufen | 4  | Schlagen | 9  | Schiessen  | 13  |
+|        |    |          |    |            |     |
+| GH     | 4  | GK       | no | EP         | 109 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 9        | 8          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 13       | 13         | 19         |
 
 **Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
@@ -26,21 +21,18 @@ mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
 mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
 
 **Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Resistenz: Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet 
+Resistenz: Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
 **Zaubersprüche:**  
-Arkanes Schwert (0), Blitz (+3), Feuerball (+3), Feuerlanze (+2), Flackern (-2), Flammenklinge (0), Halt (-(KÖR+AU)/2), Magische Rüstung (0), Schutzschild (0), Spurt (-2)
+[Arkanes Schwert](/grw/zauber/arkanes-schwert.md) (0), [Blitz](/grw/zauber/blitz.md) (+3), [Feuerball](/grw/zauber/feuerball.md) (+3), [Feuerlanze](/grw/zauber/feuerlanze.md) (+2), [Flackern](/grw/zauber/flackern.md) (-2), [Flammenklinge](/grw/zauber/flammenklinge.md) (0), [Halt](/grw/zauber/halt.md) (-(KÖR+AU)/2), [Magische Rüstung](/grw/zauber/magische-ruestung.md) (0), [Schutz](/fanwerk/zauber/schutz.md)schild (0), [Spurt](/grw/zauber/spurt.md) (-2)
 
-Gegnerhärte: 4  
-Größe: Normal  
-Erfahrungspunkte: 109  
 
 
 

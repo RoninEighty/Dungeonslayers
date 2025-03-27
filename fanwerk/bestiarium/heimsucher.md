@@ -1,20 +1,15 @@
 # Heimsucher  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 9   | 7   |
-| ST  | BE  | VE  |  
-| 8   | 6   | 5   |
-| HÄ  | GE  | AU  |  
-| 8   | 7   | 1   |
+| KÖR    | 5   | AGI      | 9  | GEI        | 7   |
+| ST     | 8   | BE       | 6  | VE         | 5   |
+| HÄ     | 8   | GE       | 7  | AU         | 1   |
+|        |     |          |    |            |     |
+| LK     | 23  | Abwehr   | 21 | Initiative | 15  |
+| Laufen | 5.5 | Schlagen | 13 | Schiessen  | 17  |
+|        |     |          |    |            |     |
+| GH     | 14  | GK       | no | EP         | 180 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 23       | 21       | 15         | 5.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 17       |            |            |
 
 **Bewaffnung:**  
 Schattenpfeil (WB+1, GA-2)
@@ -26,24 +21,21 @@ Körperlos (PA+8)
 Körperlos (PA+8)
 
 **Talente:**  
-Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+Angst: Angst.description
 
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte. 
+Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte.
 
-Werteverlust: Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖR Null ist das Opfer tot). Pro Tag oder Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert. 
+Werteverlust: Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖR Null ist das Opfer tot). Pro Tag oder Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 14  
-Größe: Normal  
-Erfahrungspunkte: 180  
 
 
 

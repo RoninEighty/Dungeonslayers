@@ -1,20 +1,15 @@
 # Fetter Goblin-Aufseher  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 7   | 2   |
-| ST  | BE  | VE  |  
-| 3   | 2   | 1   |
-| HÄ  | GE  | AU  |  
-| 4   | 2   | 0   |
+| KÖR    | 6   | AGI      | 7  | GEI        | 2  |
+| ST     | 3   | BE       | 2  | VE         | 1  |
+| HÄ     | 4   | GE       | 2  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 20  | Abwehr   | 14 | Initiative | 10 |
+| Laufen | 4.5 | Schlagen | 10 | Schiessen  | 9  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 69 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 14       | 10         | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 10       | 9        |            |            |
 
 **Bewaffnung:**  
 Peitsche (WB-1, INI+1, GA-2)
@@ -26,14 +21,11 @@ Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Parade II: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade II: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Kämpfer I: Schlagen +1 pro Talentrang. 
+Kämpfer I: Schlagen +1 pro Talentrang.
 
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 69  
 
 
 

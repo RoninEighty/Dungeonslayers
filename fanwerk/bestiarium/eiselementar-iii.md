@@ -1,20 +1,15 @@
 # Eiselementar III  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 15  | 9   | 1   |
-| ST  | BE  | VE  |  
-| 5   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 6   | 4   | 0   |
+| KÖR    | 15 | AGI      | 9  | GEI        | 1   |
+| ST     | 5  | BE       | 0  | VE         | 0   |
+| HÄ     | 6  | GE       | 4  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 62 | Abwehr   | 29 | Initiative | 9   |
+| Laufen | 6  | Schlagen | 24 | Schiessen  | 17  |
+|        |    |          |    |            |     |
+| GH     | 15 | GK       | gr | EP         | 128 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 62       | 29       | 9          | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 24       | 17       |            |            |
 
 **Bewaffnung:**  
 Eisstrahl (WB+4)
@@ -26,14 +21,11 @@ Keine feste Gestalt (PA+8)
 Keine feste Gestalt (PA+8)
 
 **Talente:**  
-Anfällig: Erhält doppelten Schaden durch Feuer. 
+Anfällig: Anfällig.description
 
-Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos. 
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos.
 
 
-Gegnerhärte: 15  
-Größe: Groß  
-Erfahrungspunkte: 128  
 
 
 

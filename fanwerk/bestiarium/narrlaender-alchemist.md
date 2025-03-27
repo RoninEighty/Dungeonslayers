@@ -6,20 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 0   | 4   | 4   |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| ST     | 0   | BE       | 0  | VE         | 3  |
+| HÄ     | 0   | GE       | 4  | AU         | 4  |
+|        |     |          |    |            |    |
+| LK     | 15  | Abwehr   | 6  | Initiative | 7  |
+| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 11 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 49 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 15       | 6        | 7          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 11       | 13         |            |
 
 **Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
@@ -31,23 +26,20 @@ Robe (runenbestickt) (Aura +1)
 Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang. 
+Alchemie I: Alchemie.description
 
-Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen. 
+Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen.
 
-Runenkunde I: Schriftrollen identifizieren und herstellen +1 pro Talentrang. 
+Runenkunde I: Schriftrollen identifizieren und herstellen +1 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Magie entdecken (0)
+[Magie entdecken](/grw/zauber/magie-entdecken.md) (0)
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 49  
 
 
 

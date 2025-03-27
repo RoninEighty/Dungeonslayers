@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 5   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 4   |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| ST     | 5  | BE       | 0  | VE         | 0  |
+| HÄ     | 4  | GE       | 0  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 22 | Abwehr   | 21 | Initiative | 9  |
+| Laufen | 4  | Schlagen | 18 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 8  | GK       | no | EP         | 65 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 22       | 21       | 9          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 6        |            |            |
 
 **Bewaffnung:**  
 Langschwert (WB+2), Lanze (WB+1)
@@ -31,20 +26,17 @@ Plattenpanzer (PA+3, LA-1), Turmschild (PA+2, LA-1), Plattenbeinschienen (PA+1, 
 Plattenpanzer (PA+3, LA-1), Turmschild (PA+2, LA-1), Plattenbeinschienen (PA+1, LA-0.5), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I)
 
 **Talente:**  
-Kämpfer III: Schlagen +1 pro Talentrang. 
+Kämpfer III: Schlagen +1 pro Talentrang.
 
-Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+Charmant I: Charmant.description
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang. 
+Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
 
-Gegnerhärte: 8  
-Größe: Normal  
-Erfahrungspunkte: 65  
 
 
 

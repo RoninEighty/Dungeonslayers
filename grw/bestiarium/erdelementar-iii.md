@@ -1,20 +1,15 @@
 # Erdelementar III  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 22  | 2   | 1   |
-| ST  | BE  | VE  |  
-| 5   | 1   | 0   |
-| HÄ  | GE  | AU  |  
-| 7   | 0   | 0   |
+| KÖR    | 22  | AGI      | 2  | GEI        | 1   |
+| ST     | 5   | BE       | 1  | VE         | 0   |
+| HÄ     | 7   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 78  | Abwehr   | 33 | Initiative | 3   |
+| Laufen | 2.5 | Schlagen | 31 | Schiessen  | 2   |
+|        |     |          |    |            |     |
+| GH     | 23  | GK       | gr | EP         | 124 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 78       | 33       | 3          | 2.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 31       | 2        |            |            |
 
 **Bewaffnung:**  
 Steinpranke (WB+4)
@@ -26,12 +21,9 @@ Steinwesen (PA+4)
 Steinwesen (PA+4)
 
 **Talente:**  
-Anfällig: Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe. 
+Anfällig: Anfällig.description
 
 
-Gegnerhärte: 23  
-Größe: Groß  
-Erfahrungspunkte: 124  
 
 
 

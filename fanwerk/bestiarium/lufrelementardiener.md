@@ -1,20 +1,15 @@
 # Lufrelementardiener  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 5   | 2   |
-| ST  | BE  | VE  |  
-| 2   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 1   | 0   |
+| KÖR    | 5   | AGI      | 5  | GEI        | 2  |
+| ST     | 2   | BE       | 0  | VE         | 2  |
+| HÄ     | 2   | GE       | 1  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 9   | Abwehr   | 15 | Initiative | 5  |
+| Laufen | 3.5 | Schlagen | 8  | Schiessen  | 7  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 53 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 9        | 15       | 5          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 7        |            |            |
 
 **Bewaffnung:**  
 Luftstoß (WB+1)
@@ -26,14 +21,11 @@ Keine feste Gestalt (PA+8)
 Keine feste Gestalt (PA+8)
 
 **Talente:**  
-Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe. 
+Anfällig: Anfällig.description
 
-Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 53  
 
 
 

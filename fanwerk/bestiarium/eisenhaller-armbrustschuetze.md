@@ -6,20 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 4   | 6   | 0   |
+| KÖR    | 8   | AGI      | 8  | GEI        | 4  |
+| ST     | 0   | BE       | 0  | VE         | 0  |
+| HÄ     | 4   | GE       | 6  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 25  | Abwehr   | 15 | Initiative | 8  |
+| Laufen | 4.5 | Schlagen | 8  | Schiessen  | 17 |
+|        |     |          |    |            |    |
+| GH     | 2   | GK       | no | EP         | 59 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 25       | 15       | 8          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 17       |            |            |
 
 **Bewaffnung:**  
 Armbrust, leicht (2h) (WB+2, INI-2), Dolch (INI+1)
@@ -31,16 +26,13 @@ Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
 **Talente:**  
-Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden 
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 
-Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
 
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 59  
 
 
 

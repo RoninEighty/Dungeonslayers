@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 5   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| ST     | 5  | BE       | 2  | VE         | 0  |
+| HÄ     | 3  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 12 | Initiative | 8  |
+| Laufen | 5  | Schlagen | 17 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | no | EP         | 94 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 12       | 8          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 17       | 8        |            |            |
 
 **Bewaffnung:**  
 Bihänder (2h) (WB+3, INI-2, GA-4)
@@ -28,20 +23,17 @@ Bihänder (2h) (WB+3, INI-2, GA-4)
 
 
 **Talente:**  
-Brutaler Hieb I: Schlagen +KÖR 
+Brutaler Hieb I: Brutaler Hieb.description
 
-Kämpfer I: Schlagen +1 pro Talentrang. 
+Kämpfer I: Schlagen +1 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen. 
+Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen.
 
-Standhaft I: LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang. 
+Standhaft I: LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang.
 
 
-Gegnerhärte: 4  
-Größe: Normal  
-Erfahrungspunkte: 94  
 
 
 

@@ -1,20 +1,15 @@
 # Hund  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 6   | 1   |
-| ST  | BE  | VE  |  
-| 3   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 0   | 0   | 0   |
+| KÖR    | 5  | AGI      | 6  | GEI        | 1  |
+| ST     | 3  | BE       | 3  | VE         | 0  |
+| HÄ     | 0  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 11 | Abwehr   | 6  | Initiative | 9  |
+| Laufen | 6  | Schlagen | 9  | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | kl | EP         | 31 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 11       | 6        | 9          | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 6        |            |            |
 
 **Bewaffnung:**  
 Biss (WB+1)
@@ -26,12 +21,9 @@ Fell (PA+1)
 Fell (PA+1)
 
 **Talente:**  
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 31  
 
 
 

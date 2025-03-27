@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 9   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 7   |
-| HÄ  | GE  | AU  |  
-| 0   | 0   | 9   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 9  |
+| ST     | 0  | BE       | 0  | VE         | 7  |
+| HÄ     | 0  | GE       | 0  | AU         | 9  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 6  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 6  | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 73 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 16       | 6        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 6        | 18         |            |
 
 **Bewaffnung:**  
 
@@ -28,29 +23,26 @@
 
 
 **Talente:**  
-Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang. 
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang.
 
-Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden). 
+Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-Wechsler III: Zauber wechseln +2 pro Talentrang. 
+Wechsler III: Zauber wechseln +2 pro Talentrang.
 
-Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
 
-Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Zaubermacht II: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+Zaubermacht II: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Bannen (-(KÖR+AU)/2), Flackern (+1), Giftbann (0), Glühender Glaube (-2), Heilbeeren (+3), Heilende Aura (+3), Heilende Hand (+4), Schutzfeld (+3), Schutzkuppel (+3), Schutzschild (+3), Segen (0), Stossgebet (-(KÖR+AU)/2)
+[Bannen](/grw/zauber/bannen.md) (-(KÖR+AU)/2), [Flackern](/grw/zauber/flackern.md) (+1), [Giftbann](/grw/zauber/giftbann.md) (0), [Glühender Glaube](/grw/zauber/gluehender-glaube.md) (-2), [Heilbeeren](/grw/zauber/heilbeeren.md) (+3), [Heilende Aura](/grw/zauber/heilende-aura.md) (+3), [Heilende Hand](/grw/zauber/heilende-hand.md) (+4), [Schutz](/fanwerk/zauber/schutz.md)feld (+3), [Schutz](/fanwerk/zauber/schutz.md)kuppel (+3), [Schutz](/fanwerk/zauber/schutz.md)schild (+3), [Segen](/grw/zauber/segen.md) (0), [Stossgebet](/grw/zauber/stossgebet.md) (-(KÖR+AU)/2)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 73  
 
 
 

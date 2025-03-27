@@ -6,20 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 6   |
-| ST  | BE  | VE  |  
-| 0   | 4   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 3   | 0   |
+| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
+| ST     | 0  | BE       | 4  | VE         | 1  |
+| HÄ     | 2  | GE       | 3  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 9  | Initiative | 13 |
+| Laufen | 6  | Schlagen | 6  | Schiessen  | 11 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | kl | EP         | 49 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 9        | 13         | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 11       |            |            |
 
 **Bewaffnung:**  
 Schleuder, Dolch (INI+1)
@@ -31,20 +26,17 @@ Lumpen (PA+1)
 Lumpen (PA+1)
 
 **Talente:**  
-Fieser Schuss I: Schießen +AGI 
+Fieser Schuss I: Schießen +AGI
 
-Flink I: Laufen +1m pro Talentrang. 
+Flink I: Laufen +1m pro Talentrang.
 
-Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Schwimmen I: Schwimmen +3 pro Talentrang. 
+Schwimmen I: Schwimmen +3 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 49  
 
 
 

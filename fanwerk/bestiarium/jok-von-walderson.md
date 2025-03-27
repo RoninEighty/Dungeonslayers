@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 7   | 5   |
-| ST  | BE  | VE  |  
-| 9   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 0   |
+| KÖR    | 8  | AGI      | 7  | GEI        | 5  |
+| ST     | 9  | BE       | 2  | VE         | 0  |
+| HÄ     | 4  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 25 | Abwehr   | 22 | Initiative | 10 |
+| Laufen | 4  | Schlagen | 23 | Schiessen  | 7  |
+|        |    |          |    |            |    |
+| GH     | 12 | GK       | no | EP         | 70 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 25       | 22       | 10         | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 23       | 7        |            |            |
 
 **Bewaffnung:**  
 mag. Langschwert +1 (WB+3, INI+1, GA-1, Dämonen zerschmettern +II)
@@ -31,28 +26,25 @@ Kettenpanzer (PA+2, LA-0.5), mag. Metallhelm +2 (PA+3, Zauber: Giftschutz eingeb
 Kettenpanzer (PA+2, LA-0.5), mag. Metallhelm +2 (PA+3, Zauber: Giftschutz eingebettet), mag. Metallschild +1 (PA+2, Standhaft +II)
 
 **Talente:**  
-Kämpfer III: Schlagen +1 pro Talentrang. 
+Kämpfer III: Schlagen +1 pro Talentrang.
 
-Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Brutaler Hieb II: Schlagen +KÖR 
+Brutaler Hieb II: Brutaler Hieb.description
 
-Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
 
-Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Panzerung zerschmettern I: PA-1 bei zufälligem nichtmagischem Rüstungsteil 
+Panzerung zerschmettern I: PA-1 bei zufälligem nichtmagischem Rüstungsteil
 
-Rüstträger I: +0,5m Laufen-Malus durch Rüstung 
+Rüstträger I: +0,5m Laufen-Malus durch Rüstung
 
-Verletzen I: GA-1 bei Nahkampfangriff 
+Verletzen I: GA-1 bei Nahkampfangriff
 
-Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung 
+Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung
 
 
-Gegnerhärte: 12  
-Größe: Normal  
-Erfahrungspunkte: 70  
 
 
 

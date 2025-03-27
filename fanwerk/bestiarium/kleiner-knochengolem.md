@@ -1,20 +1,15 @@
 # Kleiner Knochengolem  
 - Gruppe: Konstrukte  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 9   | 0   |
-| ST  | BE  | VE  |  
-| 5   | 4   | 0   |
-| HÄ  | GE  | AU  |  
-| 0   | 0   | 0   |
+| KÖR    | 8  | AGI      | 9  | GEI        | 0   |
+| ST     | 5  | BE       | 4  | VE         | 0   |
+| HÄ     | 0  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 36 | Abwehr   | 8  | Initiative | 13  |
+| Laufen | 6  | Schlagen | 15 | Schiessen  | 9   |
+|        |    |          |    |            |     |
+| GH     | 7  | GK       | gr | EP         | 101 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 36       | 8        | 13         | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 9        |            |            |
 
 **Bewaffnung:**  
 Kochenklauen (WB+2)
@@ -23,18 +18,15 @@ Kochenklauen (WB+2)
 
 
 **Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden. 
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
 
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
 
-Gegnerhärte: 7  
-Größe: Groß  
-Erfahrungspunkte: 101  
 
 
 

@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 6   |
-| HÄ  | GE  | AU  |  
-| 0   | 4   | 6   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| ST     | 0  | BE       | 0  | VE         | 6  |
+| HÄ     | 0  | GE       | 4  | AU         | 6  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 6  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 72 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 16       | 6        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 10       | 14         | 13         |
 
 **Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1, Zauber: Teleport eingebettet)
@@ -31,31 +26,28 @@ Robe (runenbestickt) (Aura +1)
 Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden). 
+Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-Feuermagier II: Feuerzauber +1 pro Talentrang. 
+Feuermagier II: Feuerzauber +1 pro Talentrang.
 
-Bildung II: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+Bildung II: Bildung.description
 
-Wechsler II: Zauber wechseln +2 pro Talentrang. 
+Wechsler II: Zauber wechseln +2 pro Talentrang.
 
-Zaubermacht II: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+Zaubermacht II: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-Runenkunde I: Schriftrollen identifizieren und herstellen +1 pro Talentrang. 
+Runenkunde I: Schriftrollen identifizieren und herstellen +1 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Feuerlanze (+4), Feuerstrahl (+3), Flammenklinge (+2), Giftbann (0), Giftschutz (0), Licht (+5), Magie entdecken (0), Magie identifizieren (0), Tiere besänftigen (-LK/5)
+[Feuerlanze](/grw/zauber/feuerlanze.md) (+4), [Feuerstrahl](/grw/zauber/feuerstrahl.md) (+3), [Flammenklinge](/grw/zauber/flammenklinge.md) (+2), [Giftbann](/grw/zauber/giftbann.md) (0), [Giftschutz](/grw/zauber/giftschutz.md) (0), [Licht](/grw/zauber/licht.md) (+5), [Magie entdecken](/grw/zauber/magie-entdecken.md) (0), [Magie identifizieren](/grw/zauber/magie-identifizieren.md) (0), [Tiere besänftigen](/grw/zauber/tiere-besaenftigen.md) (-LK/5)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 72  
 
 
 

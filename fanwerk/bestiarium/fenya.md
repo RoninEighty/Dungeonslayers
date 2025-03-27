@@ -6,20 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 8   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 3   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 3   | 0   |
+| KÖR    | 4  | AGI      | 8  | GEI        | 8  |
+| ST     | 0  | BE       | 3  | VE         | 2  |
+| HÄ     | 2  | GE       | 3  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 7  | Initiative | 12 |
+| Laufen | 5  | Schlagen | 4  | Schiessen  | 13 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 47 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 16       | 7        | 12         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 4        | 13       |            |            |
 
 **Bewaffnung:**  
 Dolch (INI+1), Schleuder
@@ -31,18 +26,15 @@ Lederpanzer (PA+1)
 Lederpanzer (PA+1)
 
 **Talente:**  
-Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang. 
+Akrobat I: Akrobat.description
 
-Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 47  
 
 
 

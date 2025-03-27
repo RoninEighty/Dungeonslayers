@@ -2,20 +2,15 @@
 - Gruppe: Untote  
 - Upgrade: Heroisch  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 8   | 0   |
-| ST  | BE  | VE  |  
-| 8   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 8   | 2   | 0   |
+| KÖR    | 10  | AGI      | 8  | GEI        | 0   |
+| ST     | 8   | BE       | 2  | VE         | 0   |
+| HÄ     | 8   | GE       | 2  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 140 | Abwehr   | 27 | Initiative | 11  |
+| Laufen | 5   | Schlagen | 23 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 22  | GK       | no | EP         | 428 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 140      | 27       | 11         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 23       | 10       |            |            |
 
 **Bewaffnung:**  
 mag. Langschwert +1 (WB+3, INI+1, GA-1)
@@ -27,18 +22,15 @@ mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA
 mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2)
 
 **Talente:**  
-Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+Angst: Angst.description
 
-Alterung: Bei einem Treffer altert das Ziel um 1 Jahr. 
+Alterung: Alterung.description
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 22  
-Größe: Normal  
-Erfahrungspunkte: 428  
 
 
 

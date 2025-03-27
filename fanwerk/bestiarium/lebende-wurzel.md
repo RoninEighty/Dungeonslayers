@@ -1,20 +1,15 @@
 # Lebende Wurzel  
 - Gruppe: Pflanzenwesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 9   | 8   | 0   |
-| ST  | BE  | VE  |  
-| 4   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 0   |
+| KÖR    | 9   | AGI      | 8  | GEI        | 0   |
+| ST     | 4   | BE       | 2  | VE         | 0   |
+| HÄ     | 2   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 42  | Abwehr   | 11 | Initiative | 10  |
+| Laufen | 5.5 | Schlagen | 15 | Schiessen  | 8   |
+|        |     |          |    |            |     |
+| GH     | 8   | GK       | gr | EP         | 114 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 42       | 11       | 10         | 5.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 8        |            |            |
 
 **Bewaffnung:**  
 Wurzelhiebe (WB+2)
@@ -23,18 +18,15 @@ Wurzelhiebe (WB+2)
 
 
 **Talente:**  
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Lähmungseffekt: Netzflüssigkeit (nur alle 10 Kampfrunden einsetzbar) macht Ziel für Probenergebnis in Kamprunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt. 
+Lähmungseffekt: Netzflüssigkeit (nur alle 10 Kampfrunden einsetzbar) macht Ziel für Probenergebnis in Kamprunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers. 
+Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers.
 
 
-Gegnerhärte: 8  
-Größe: Groß  
-Erfahrungspunkte: 114  
 
 
 

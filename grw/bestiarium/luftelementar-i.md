@@ -1,20 +1,15 @@
 # Luftelementar I  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 1   |
-| ST  | BE  | VE  |  
-| 2   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 3   | 0   |
+| KÖR    | 6  | AGI      | 8  | GEI        | 1  |
+| ST     | 2  | BE       | 0  | VE         | 0  |
+| HÄ     | 3  | GE       | 3  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 10 | Abwehr   | 17 | Initiative | 8  |
+| Laufen | 5  | Schlagen | 9  | Schiessen  | 12 |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | kl | EP         | 68 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 10       | 17       | 8          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 12       |            |            |
 
 **Bewaffnung:**  
 Luftstoß (WB+1)
@@ -26,16 +21,13 @@ Keine feste Gestalt (PA+8)
 Keine feste Gestalt (PA+8)
 
 **Talente:**  
-Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe. 
+Anfällig: Anfällig.description
 
-Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
-Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos. 
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos.
 
 
-Gegnerhärte: 4  
-Größe: Klein  
-Erfahrungspunkte: 68  
 
 
 

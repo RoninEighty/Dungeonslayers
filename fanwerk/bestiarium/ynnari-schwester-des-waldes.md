@@ -6,20 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 4   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 4   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 5   |
+| KÖR    | 8  | AGI      | 4  | GEI        | 8  |
+| ST     | 0  | BE       | 0  | VE         | 4  |
+| HÄ     | 2  | GE       | 0  | AU         | 5  |
+|        |    |          |    |            |    |
+| LK     | 20 | Abwehr   | 10 | Initiative | 4  |
+| Laufen | 3  | Schlagen | 9  | Schiessen  | 5  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 55 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 10       | 4          | 3          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 5        | 13         |            |
 
 **Bewaffnung:**  
 Speer (WB+1)
@@ -31,21 +26,18 @@ Robe (runenbestickt) (Aura +1)
 Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Instrument I: +3 pro Talentrang auf ausgewähltes Instrument. 
+Instrument I: +3 pro Talentrang auf ausgewähltes Instrument.
 
-Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden. 
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Tiere besänftigen (-LK/5)
+[Tiere besänftigen](/grw/zauber/tiere-besaenftigen.md) (-LK/5)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 55  
 
 
 

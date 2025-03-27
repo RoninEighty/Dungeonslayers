@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 5   | 5   | 0   |
-| HÄ  | GE  | AU  |  
-| 0   | 0   | 0   |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| ST     | 5  | BE       | 5  | VE         | 0  |
+| HÄ     | 0  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 11 | Initiative | 16 |
+| Laufen | 6  | Schlagen | 15 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 2  | GK       | no | EP         | 52 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 11       | 16         | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 8        |            |            |
 
 **Bewaffnung:**  
 Langschwert (WB+2), Dolch (INI+1)
@@ -31,22 +26,19 @@ Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang. 
+Akrobat I: Akrobat.description
 
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+Ausweichen I: Ausweichen.description
 
-Flink I: Laufen +1m pro Talentrang. 
+Flink I: Laufen +1m pro Talentrang.
 
-Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 52  
 
 
 

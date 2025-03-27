@@ -1,20 +1,15 @@
 # Riesenschlange  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 9   | 12  | 1   |
-| ST  | BE  | VE  |  
-| 5   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR    | 9  | AGI      | 12 | GEI        | 1   |
+| ST     | 5  | BE       | 3  | VE         | 0   |
+| HÄ     | 3  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 66 | Abwehr   | 14 | Initiative | 15  |
+| Laufen | 11 | Schlagen | 16 | Schiessen  | 12  |
+|        |    |          |    |            |     |
+| GH     | 8  | GK       | gr | EP         | 143 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 66       | 14       | 15         | 11         |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 16       | 12       |            |            |
 
 **Bewaffnung:**  
 Großer Biss (WB+2, GA-2)
@@ -26,16 +21,13 @@ Schuppenpanzer (PA+2)
 Schuppenpanzer (PA+2)
 
 **Talente:**  
-Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde. 
+Gift: Gift.description
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers. 
+Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers.
 
 
-Gegnerhärte: 8  
-Größe: Groß  
-Erfahrungspunkte: 143  
 
 
 

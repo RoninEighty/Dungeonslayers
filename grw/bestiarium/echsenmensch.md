@@ -1,20 +1,15 @@
 # Echsenmensch  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 9   | 8   | 3   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 0   |
+| KÖR    | 9  | AGI      | 8  | GEI        | 3  |
+| ST     | 4  | BE       | 0  | VE         | 2  |
+| HÄ     | 2  | GE       | 2  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 12 | Initiative | 8  |
+| Laufen | 5  | Schlagen | 14 | Schiessen  | 11 |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | no | EP         | 69 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 12       | 8          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 11       |            |            |
 
 **Bewaffnung:**  
 Speer (WB+1)
@@ -26,14 +21,11 @@ Schuppenpanzer (PA+1)
 Schuppenpanzer (PA+1)
 
 **Talente:**  
-Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden. 
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
 
 
-Gegnerhärte: 3  
-Größe: Normal  
-Erfahrungspunkte: 69  
 
 
 

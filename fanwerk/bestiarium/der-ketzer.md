@@ -1,20 +1,15 @@
 # Der Ketzer  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 6   | 9   |
-| ST  | BE  | VE  |  
-| 13  | 0   | 4   |
-| HÄ  | GE  | AU  |  
-| 17  | 5   | 4   |
+| KÖR    | 4  | AGI      | 6  | GEI        | 9   |
+| ST     | 13 | BE       | 0  | VE         | 4   |
+| HÄ     | 17 | GE       | 5  | AU         | 4   |
+|        |    |          |    |            |     |
+| LK     | 31 | Abwehr   | 21 | Initiative | 6   |
+| Laufen | 4  | Schlagen | 17 | Schiessen  | 11  |
+|        |    |          |    |            |     |
+| GH     | 9  | GK       | no | EP         | 141 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 31       | 21       | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 17       | 11       | 13         | 17         |
 
 **Bewaffnung:**  
 Klauen/Schlangen
@@ -23,21 +18,18 @@ Klauen/Schlangen
 
 
 **Talente:**  
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte. 
+Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
 **Zaubersprüche:**  
-Feuerball (+3), Feuerlanze (+2), Flackern (-2), Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken (0), Schatten (-(AGI+AU)/2), Skelette erwecken (0), Terror (-(GEI+VE)/2), Versetzen (0), Zombies erwecken (0)
+[Feuerball](/grw/zauber/feuerball.md) (+3), [Feuerlanze](/grw/zauber/feuerlanze.md) (+2), [Flackern](/grw/zauber/flackern.md) (-2), [Fluch](/grw/zauber/fluch.md) (-(GEI+AU)/2), [Kontrollieren](/grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Magie entdecken](/grw/zauber/magie-entdecken.md) (0), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Skelette erwecken](/grw/zauber/skelette-erwecken.md) (0), [Terror](/grw/zauber/terror.md) (-(GEI+VE)/2), [Versetzen](/grw/zauber/versetzen.md) (0), [Zombies erwecken](/grw/zauber/zombies-erwecken.md) (0)
 
-Gegnerhärte: 9  
-Größe: Normal  
-Erfahrungspunkte: 141  
 
 
 

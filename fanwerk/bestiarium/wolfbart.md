@@ -7,20 +7,15 @@
 
 - Upgrade: Heroisch  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 9   | 4   | 8   |
-| ST  | BE  | VE  |  
-| 10  | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 12  | 5   | 0   |
+| KÖR    | 9   | AGI      | 4  | GEI        | 8   |
+| ST     | 10  | BE       | 2  | VE         | 0   |
+| HÄ     | 12  | GE       | 5  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 164 | Abwehr   | 35 | Initiative | 12  |
+| Laufen | 4   | Schlagen | 26 | Schiessen  | 9   |
+|        |     |          |    |            |     |
+| GH     | 26  | GK       | no | EP         | 460 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 164      | 35       | 12         | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 26       | 9        |            |            |
 
 **Bewaffnung:**  
 mag. Streithammer (2h) +2 (WB+5, INI-2, GA-2, Stärke +2, Rundumschlag +I, Zauber: Schleudern eingebettet, Abklingzeit permanent ignorieren)
@@ -32,20 +27,17 @@ mag. Plattenpanzer +2 (PA+5, Härte +2, Diener der Dunkelheit +II), mag. Platten
 mag. Plattenpanzer +2 (PA+5, Härte +2, Diener der Dunkelheit +II), mag. Plattenbeinschienen +1 (PA+2), mag. Plattenarmschienen +1 (PA+2), mag. Metallhelm +1 (PA+2)
 
 **Talente:**  
-Brutaler Hieb V: Schlagen +KÖR 
+Brutaler Hieb V: Brutaler Hieb.description
 
-Raserei III: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar. 
+Raserei III: Raserei.description
 
-Ausweichen II: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+Ausweichen II: Ausweichen.description
 
-Schnelle Reflexe II: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+Schnelle Reflexe II: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
-Rundumschlag I: Schlagen -1, Abwehr -2 pro Gegner, mit 2h-Waffe/waffenlos 
+Rundumschlag I: Schlagen -1, Abwehr -2 pro Gegner, mit 2h-Waffe/waffenlos
 
 
-Gegnerhärte: 26  
-Größe: Normal  
-Erfahrungspunkte: 460  
 
 
 

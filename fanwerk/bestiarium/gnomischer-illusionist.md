@@ -6,20 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 0   | 4   | 5   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| ST     | 0  | BE       | 0  | VE         | 2  |
+| HÄ     | 0  | GE       | 4  | AU         | 5  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 7  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | kl | EP         | 50 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 16       | 7        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 10       | 14         |            |
 
 **Bewaffnung:**  
 Kampfstab (2h) (WB+1, Zielzauber +1)
@@ -31,23 +26,20 @@ Robe (runenbestickt) (Aura +1)
 Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang. 
+Bildung I: Bildung.description
 
-Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang. 
+Charmant I: Charmant.description
 
-Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang. 
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
 **Zaubersprüche:**  
-Zaubertrick (0)
+[Zauber](/fanwerk/zauber/zauber.md)trick (0)
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 50  
 
 
 

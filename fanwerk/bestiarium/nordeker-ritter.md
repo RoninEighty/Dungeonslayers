@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 5   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 2   |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| ST     | 5  | BE       | 0  | VE         | 0  |
+| HÄ     | 3  | GE       | 0  | AU         | 2  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 15 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 16 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 5  | GK       | no | EP         | 75 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 15       | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 16       | 6        |            |            |
 
 **Bewaffnung:**  
 Breitschwert (WB+1, GA-2)
@@ -31,18 +26,15 @@ Holzschild (PA+1), Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 Holzschild (PA+1), Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Kämpfer II: Schlagen +1 pro Talentrang. 
+Kämpfer II: Schlagen +1 pro Talentrang.
 
-Brutaler Hieb I: Schlagen +KÖR 
+Brutaler Hieb I: Brutaler Hieb.description
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
 
-Gegnerhärte: 5  
-Größe: Normal  
-Erfahrungspunkte: 75  
 
 
 

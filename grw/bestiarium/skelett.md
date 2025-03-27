@@ -1,20 +1,15 @@
 # Skelett  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 8   | 0   |
-| ST  | BE  | VE  |  
-| 3   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 0   |
+| KÖR    | 10 | AGI      | 8  | GEI        | 0  |
+| ST     | 3  | BE       | 2  | VE         | 0  |
+| HÄ     | 2  | GE       | 2  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 22 | Abwehr   | 12 | Initiative | 10 |
+| Laufen | 5  | Schlagen | 14 | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | no | EP         | 72 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 22       | 12       | 10         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 10       |            |            |
 
 **Bewaffnung:**  
 Kochenklauen (WB+1)
@@ -23,16 +18,13 @@ Kochenklauen (WB+1)
 
 
 **Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 4  
-Größe: Normal  
-Erfahrungspunkte: 72  
 
 
 

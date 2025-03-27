@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 6   | 7   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 4   |
+| KÖR    | 7  | AGI      | 6  | GEI        | 7  |
+| ST     | 4  | BE       | 0  | VE         | 2  |
+| HÄ     | 4  | GE       | 0  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 16 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 13 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | no | EP         | 59 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 16       | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 6        |            |            |
 
 **Bewaffnung:**  
 Krummschwert (WB+2, Sehnenschneider +I, Verletzen +I)
@@ -31,20 +26,17 @@ mag. Holzschild +1 (PA+2, Zauber: Flackern eingebettet)
 mag. Holzschild +1 (PA+2, Zauber: Flackern eingebettet)
 
 **Talente:**  
-Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+Ausweichen I: Ausweichen.description
 
-Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden 
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet. 
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 
-Gegnerhärte: 3  
-Größe: Normal  
-Erfahrungspunkte: 59  
 
 
 

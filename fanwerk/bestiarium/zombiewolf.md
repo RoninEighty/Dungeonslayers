@@ -1,20 +1,15 @@
 # Zombiewolf  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 6   | 0   |
-| ST  | BE  | VE  |  
-| 4   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 1   | 0   | 0   |
+| KÖR    | 10 | AGI      | 6  | GEI        | 0  |
+| ST     | 4  | BE       | 3  | VE         | 0  |
+| HÄ     | 1  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 32 | Abwehr   | 12 | Initiative | 9  |
+| Laufen | 6  | Schlagen | 16 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 7  | GK       | no | EP         | 99 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 32       | 12       | 9          | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 16       | 6        |            |            |
 
 **Bewaffnung:**  
 Kräftiger Biss (WB+2, GA-1)
@@ -26,20 +21,17 @@ Wolfspelz (PA+1)
 Wolfspelz (PA+1)
 
 **Talente:**  
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 7  
-Größe: Normal  
-Erfahrungspunkte: 99  
 
 
 

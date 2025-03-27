@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 5   | 8   |
-| ST  | BE  | VE  |  
-| 1   | 0   | 7   |
-| HÄ  | GE  | AU  |  
-| 0   | 3   | 9   |
+| KÖR    | 7   | AGI      | 5  | GEI        | 8  |
+| ST     | 1   | BE       | 0  | VE         | 7  |
+| HÄ     | 0   | GE       | 3  | AU         | 9  |
+|        |     |          |    |            |    |
+| LK     | 17  | Abwehr   | 7  | Initiative | 9  |
+| Laufen | 3.5 | Schlagen | 11 | Schiessen  | 8  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 84 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 17       | 7        | 9          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 11       | 8        | 17         | 11         |
 
 **Bewaffnung:**  
 mag. Dolch +3 (WB+3, INI+4, GA-3)
@@ -28,21 +23,18 @@ mag. Dolch +3 (WB+3, INI+4, GA-3)
 
 
 **Talente:**  
-Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-Beschwörer II: +2 Bonus auf Dämonen beschwören & kontrollieren 
+Beschwörer II: Beschwörer.description
 
-Genesung II: KÖR +1 nach Tod einmalig wiederherstellen pro Talentrang. 
+Genesung II: KÖR +1 nach Tod einmalig wiederherstellen pro Talentrang.
 
-Feuermagier I: Feuerzauber +1 pro Talentrang. 
+Feuermagier I: Feuerzauber +1 pro Talentrang.
 
 
 **Zaubersprüche:**  
-Feuerball (+4), Flammenklinge (+1), Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Netz (-(AGI+ST)/2), Schattenpfeil (+2), Skelette erwecken (0), Tarnender Nebel (-2), Terror (-(GEI+VE)/2), Totengespräch (0), Verteidigung (0), Verwirren (-(GEI+AU)/2), Öffnen (-SW)
+[Feuerball](/grw/zauber/feuerball.md) (+4), [Flammenklinge](/grw/zauber/flammenklinge.md) (+1), [Fluch](/grw/zauber/fluch.md) (-(GEI+AU)/2), [Kontrollieren](/grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Netz](/grw/zauber/netz.md) (-(AGI+ST)/2), [Schatten](/grw/zauber/schatten.md)pfeil (+2), [Skelette erwecken](/grw/zauber/skelette-erwecken.md) (0), [Tarnender Nebel](/grw/zauber/tarnender-nebel.md) (-2), [Terror](/grw/zauber/terror.md) (-(GEI+VE)/2), [Totengespräch](/grw/zauber/totengespraech.md) (0), [Verteidigung](/grw/zauber/verteidigung.md) (0), [Verwirren](/grw/zauber/verwirren.md) (-(GEI+AU)/2), [Öffnen](/grw/zauber/oeffnen.md) (-SW)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 84  
 
 
 

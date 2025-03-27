@@ -1,20 +1,15 @@
 # Goblinrächer  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 3   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 1   |
-| HÄ  | GE  | AU  |  
-| 1   | 2   | 0   |
+| KÖR    | 5   | AGI      | 7  | GEI        | 3  |
+| ST     | 2   | BE       | 2  | VE         | 1  |
+| HÄ     | 1   | GE       | 2  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 8   | Abwehr   | 7  | Initiative | 9  |
+| Laufen | 4.5 | Schlagen | 8  | Schiessen  | 10 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 34 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 8        | 7        | 9          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 10       |            |            |
 
 **Bewaffnung:**  
 Axt (WB+1)
@@ -26,16 +21,13 @@ Felle (PA+1)
 Felle (PA+1)
 
 **Talente:**  
-Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-Vergeltung I: Schlagen + Rang Diener des Lichts/Dunkelheit x4 
+Vergeltung I: Schlagen + Rang Diener des Lichts/Dunkelheit x4
 
-Vernichtender Schlag I: Nicht abwehrbarer Nahkampfangriff 
+Vernichtender Schlag I: Nicht abwehrbarer Nahkampfangriff
 
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 34  
 
 
 

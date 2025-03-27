@@ -1,20 +1,15 @@
 # Pfeilsporenpilz  
 - Gruppe: Pflanzenwesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 2   | 3   | 1   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 5   | 0   |
+| KÖR    | 2   | AGI      | 3  | GEI        | 1  |
+| ST     | 0   | BE       | 0  | VE         | 0  |
+| HÄ     | 2   | GE       | 5  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 4   | Abwehr   | 4  | Initiative | 3  |
+| Laufen | 2.5 | Schlagen | 2  | Schiessen  | 9  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | wi | EP         | 38 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 4        | 4        | 3          | 2.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 2        | 9        |            |            |
 
 **Bewaffnung:**  
 Pfeilsporen (WB+1)
@@ -23,14 +18,11 @@ Pfeilsporen (WB+1)
 
 
 **Talente:**  
-Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde. 
+Gift: Gift.description
 
-Sonar: 'Sieht' per Sonar. 
+Sonar: 'Sieht' per Sonar.
 
 
-Gegnerhärte: 1  
-Größe: Winzig  
-Erfahrungspunkte: 38  
 
 
 

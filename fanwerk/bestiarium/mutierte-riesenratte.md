@@ -1,20 +1,15 @@
 # Mutierte Riesenratte  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 18  | 2   |
-| ST  | BE  | VE  |  
-| 3   | 9   | 1   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR    | 12   | AGI      | 18 | GEI        | 2   |
+| ST     | 3    | BE       | 9  | VE         | 1   |
+| HÄ     | 3    | GE       | 0  | AU         | 0   |
+|        |      |          |    |            |     |
+| LK     | 50   | Abwehr   | 15 | Initiative | 27  |
+| Laufen | 10.5 | Schlagen | 19 | Schiessen  | 18  |
+|        |      |          |    |            |     |
+| GH     | 7    | GK       | gr | EP         | 102 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 50       | 15       | 27         | 10.5       |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 19       | 18       |            |            |
 
 **Bewaffnung:**  
 Spitze Zähne (WB+4)
@@ -26,9 +21,6 @@ Spitze Zähne (WB+4)
 
 
 
-Gegnerhärte: 7  
-Größe: Groß  
-Erfahrungspunkte: 102  
 
 
 

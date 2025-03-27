@@ -1,20 +1,15 @@
 # Sensenmann  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 7   | 8   |
-| ST  | BE  | VE  |  
-| 20  | 3   | 4   |
-| HÄ  | GE  | AU  |  
-| 20  | 5   | 6   |
+| KÖR    | 10  | AGI      | 7  | GEI        | 8   |
+| ST     | 20  | BE       | 3  | VE         | 4   |
+| HÄ     | 20  | GE       | 5  | AU         | 6   |
+|        |     |          |    |            |     |
+| LK     | 40  | Abwehr   | 38 | Initiative | 9   |
+| Laufen | 4.5 | Schlagen | 37 | Schiessen  | 12  |
+|        |     |          |    |            |     |
+| GH     | 36  | GK       | no | EP         | 430 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 40       | 38       | 9          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 37       | 12       | 14         | 13         |
 
 **Bewaffnung:**  
 Sense (WB+7, INI-1, GA-7)
@@ -26,33 +21,30 @@ Körperlos (PA+8)
 Körperlos (PA+8)
 
 **Talente:**  
-Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -5 auf alle Proben. Bei einem Patzer ergreift man die Flucht. 
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -5 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Alterung: Bei einem Treffer altert das Ziel pro erlittenen Schadenspunkt um 1 Jahr. 
+Alterung: Alterung.description
 
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4. 
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind. 
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Nur durch Magie verletzbar: Nur Angriffe mit magischen Waffen oder durch Zauber richten Schaden an. Ausgenommen sind eventuelle Anfälligkeiten, durch die ebenfalls Schaden erlitten wird. 
+Nur durch Magie verletzbar: Nur Angriffe mit magischen Waffen oder durch Zauber richten Schaden an. Ausgenommen sind eventuelle Anfälligkeiten, durch die ebenfalls Schaden erlitten wird.
 
-Resistenz: Kontrollieren und Vertreiben zusätzlich -8, wenn gegen diese Kreatur gerichtet 
+Resistenz: Kontrollieren und Vertreiben zusätzlich -8, wenn gegen diese Kreatur gerichtet
 
-Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte. 
+Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte.
 
-Vernichtender Schlag: Kann einen Angriff pro Runde mit -6 ausführen, um an einem  Ziel (sofern nicht mehr als 1  Größenkategorie Unterschied) nicht abwehrbaren Schaden zu verursachen. 
+Vernichtender Schlag: Kann einen Angriff pro Runde mit -6 ausführen, um an einem  Ziel (sofern nicht mehr als 1  Größenkategorie Unterschied) nicht abwehrbaren Schaden zu verursachen.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
 **Zaubersprüche:**  
-Ebenentor (-8), Geben und Nehmen (0), Halt (-(KÖR+AU)/2), Kontrollieren (-(GEI+AU)/2), Schatten erwecken (0), Skelette erwecken (0), Teleport (-1/Begleiter), Totengespräch (0), Unsichtbares sehen (0), Unsichtbarkeit (0), Verborgenes sehen (0), Verlangsamen (-(KÖR+AU)/2), Versetzen (0), Wiederbelebung (0), Zombies erwecken (0)
+[Ebenentor](/grw/zauber/ebenentor.md) (-8), [Geben und Nehmen](/grw/zauber/geben-und-nehmen.md) (0), [Halt](/grw/zauber/halt.md) (-(KÖR+AU)/2), [Kontrollieren](/grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Schatten](/grw/zauber/schatten.md) erwecken (0), [Skelette erwecken](/grw/zauber/skelette-erwecken.md) (0), [Teleport](/grw/zauber/teleport.md) (-1/Begleiter), [Totengespräch](/grw/zauber/totengespraech.md) (0), Unsichtbares sehen (0), [Unsichtbarkeit](/grw/zauber/unsichtbarkeit.md) (0), [Verborgenes sehen](/grw/zauber/verborgenes-sehen.md) (0), [Verlangsamen](/grw/zauber/verlangsamen.md) (-(KÖR+AU)/2), [Versetzen](/grw/zauber/versetzen.md) (0), [Wiederbelebung](/grw/zauber/wiederbelebung.md) (0), [Zombies erwecken](/grw/zauber/zombies-erwecken.md) (0)
 
-Gegnerhärte: 36  
-Größe: Normal  
-Erfahrungspunkte: 430  
 
 
 

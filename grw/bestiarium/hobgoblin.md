@@ -1,20 +1,15 @@
 # Hobgoblin  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 11  | 6   | 3   |
-| ST  | BE  | VE  |  
-| 2   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 3   | 3   | 0   |
+| KÖR    | 11  | AGI      | 6  | GEI        | 3  |
+| ST     | 2   | BE       | 0  | VE         | 2  |
+| HÄ     | 3   | GE       | 3  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 24  | Abwehr   | 18 | Initiative | 6  |
+| Laufen | 3.5 | Schlagen | 15 | Schiessen  | 10 |
+|        |     |          |    |            |    |
+| GH     | 4   | GK       | no | EP         | 71 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 24       | 18       | 6          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 10       |            |            |
 
 **Bewaffnung:**  
 Langschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
@@ -26,14 +21,11 @@ Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Holzschild (PA+1)
 Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Holzschild (PA+1)
 
 **Talente:**  
-Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag. 
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur. 
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 
-Gegnerhärte: 4  
-Größe: Normal  
-Erfahrungspunkte: 71  
 
 
 

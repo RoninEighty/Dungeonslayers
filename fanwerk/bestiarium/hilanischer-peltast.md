@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 8   | 5   |
-| ST  | BE  | VE  |  
-| 1   | 1   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 6   | 0   |
+| KÖR    | 7  | AGI      | 8  | GEI        | 5  |
+| ST     | 1  | BE       | 1  | VE         | 0  |
+| HÄ     | 2  | GE       | 6  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 19 | Abwehr   | 12 | Initiative | 11 |
+| Laufen | 6  | Schlagen | 9  | Schiessen  | 16 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 53 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 19       | 12       | 11         | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 16       |            |            |
 
 **Bewaffnung:**  
 Speer (WB+1)
@@ -31,20 +26,17 @@ Lederpanzer (PA+1), Holzschild (PA+1)
 Lederpanzer (PA+1), Holzschild (PA+1)
 
 **Talente:**  
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren. 
+Ausweichen I: Ausweichen.description
 
-Flink I: Laufen +1m pro Talentrang. 
+Flink I: Laufen +1m pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
-Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
 
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 53  
 
 
 

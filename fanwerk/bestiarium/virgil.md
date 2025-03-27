@@ -6,20 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 6   |
-| ST  | BE  | VE  |  
-| 0   | 6   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 5   | 0   |
+| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
+| ST     | 0  | BE       | 6  | VE         | 2  |
+| HÄ     | 2  | GE       | 5  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 9  | Initiative | 14 |
+| Laufen | 5  | Schlagen | 6  | Schiessen  | 16 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 53 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 9        | 14         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 16       |            |            |
 
 **Bewaffnung:**  
 Schleuder
@@ -31,14 +26,11 @@ Lumpen
 Lumpen
 
 **Talente:**  
-Heimlichkeit III: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang. 
+Heimlichkeit III: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Schütze III: Schiessen, Zielzauber +1 pro Talentrang. 
+Schütze III: Schiessen, Zielzauber +1 pro Talentrang.
 
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 53  
 
 
 

@@ -1,20 +1,15 @@
 # Donnervogel  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 9   | 1   |
-| ST  | BE  | VE  |  
-| 4   | 6   | 0   |
-| HÄ  | GE  | AU  |  
-| 1   | 2   | 0   |
+| KÖR    | 8  | AGI      | 9  | GEI        | 1  |
+| ST     | 4  | BE       | 6  | VE         | 0  |
+| HÄ     | 1  | GE       | 2  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 38 | Abwehr   | 10 | Initiative | 15 |
+| Laufen | 6  | Schlagen | 14 | Schiessen  | 11 |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | gr | EP         | 82 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 38       | 10       | 15         | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 11       |            |            |
 
 **Bewaffnung:**  
 Großer Schnabel (WB+2)
@@ -26,14 +21,11 @@ Federkleid (PA+1)
 Federkleid (PA+1)
 
 **Talente:**  
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
 
-Gegnerhärte: 4  
-Größe: Groß  
-Erfahrungspunkte: 82  
 
 
 

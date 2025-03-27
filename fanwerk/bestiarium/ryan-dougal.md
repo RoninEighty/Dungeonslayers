@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 5   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 0   | 5   | 0   |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| ST     | 5  | BE       | 0  | VE         | 0  |
+| HÄ     | 0  | GE       | 5  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 11 | Initiative | 8  |
+| Laufen | 5  | Schlagen | 13 | Schiessen  | 13 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 50 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 11       | 8          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 13       |            |            |
 
 **Bewaffnung:**  
 Schlagring, Wurfmesser
@@ -31,18 +26,15 @@ Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Brutaler Hieb I: Schlagen +KÖR 
+Brutaler Hieb I: Brutaler Hieb.description
 
-Fieser Schuss I: Schießen +AGI 
+Fieser Schuss I: Schießen +AGI
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe. 
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen. 
+Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen.
 
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 50  
 
 
 

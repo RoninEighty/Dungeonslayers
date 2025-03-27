@@ -1,20 +1,15 @@
 # Riesenkrake  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 22  | 10  | 1   |
-| ST  | BE  | VE  |  
-| 5   | 8   | 0   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 0   |
+| KÖR    | 22  | AGI      | 10 | GEI        | 1   |
+| ST     | 5   | BE       | 8  | VE         | 0   |
+| HÄ     | 4   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 270 | Abwehr   | 26 | Initiative | 18  |
+| Laufen | 11  | Schlagen | 29 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 35  | GK       | ri | EP         | 397 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 270      | 26       | 18         | 11         |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 29       | 10       |            |            |
 
 **Bewaffnung:**  
 Fangarme (WB+2)
@@ -23,20 +18,17 @@ Fangarme (WB+2)
 
 
 **Talente:**  
-Mehrere Angriffe (+5): Kann mit seinen insgesamt sechs Fangarmen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen. 
+Mehrere Angriffe (+5): Kann mit seinen insgesamt sechs Fangarmen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
 
-Mehrere Angriffsglieder: Greift mit insgesamt 6 Fangarmen an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt. 
+Mehrere Angriffsglieder: Greift mit insgesamt 6 Fangarmen an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2. 
+Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2.
 
-Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers. 
+Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers.
 
 
-Gegnerhärte: 35  
-Größe: Riesig  
-Erfahrungspunkte: 397  
 
 
 

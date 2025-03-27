@@ -1,20 +1,15 @@
 # Alligator  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 10  | 1   |
-| ST  | BE  | VE  |  
-| 2   | 5   | 0   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 0   |
+| KÖR    | 12  | AGI      | 10 | GEI        | 1   |
+| ST     | 2   | BE       | 5  | VE         | 0   |
+| HÄ     | 4   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 78  | Abwehr   | 18 | Initiative | 15  |
+| Laufen | 9.5 | Schlagen | 16 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 10  | GK       | gr | EP         | 151 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 78       | 18       | 15         | 9.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 16       | 10       |            |            |
 
 **Bewaffnung:**  
 Großer Biss (WB+2, GA-2)
@@ -26,16 +21,13 @@ Schuppenpanzer (PA+2)
 Schuppenpanzer (PA+2)
 
 **Talente:**  
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur. 
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2. 
+Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2.
 
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen. 
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
 
-Gegnerhärte: 10  
-Größe: Groß  
-Erfahrungspunkte: 151  
 
 
 

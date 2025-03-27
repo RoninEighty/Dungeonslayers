@@ -6,20 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 5   | 2   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| ST     | 0  | BE       | 0  | VE         | 1  |
+| HÄ     | 2  | GE       | 5  | AU         | 2  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 9  | Initiative | 8  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 14 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 54 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 9        | 8          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 14       | 9          |            |
 
 **Bewaffnung:**  
 Armbrust, leicht (2h) (WB+2, INI-2), Kurzschwert (WB+1)
@@ -31,23 +26,20 @@ Lederpanzer (PA+1)
 Lederpanzer (PA+1)
 
 **Talente:**  
-Diener des Lichts I: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber. 
+Diener des Lichts I: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
 
-Fieser Schuss I: Schießen +AGI 
+Fieser Schuss I: Schießen +AGI
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion. 
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
-Schütze I: Schiessen, Zielzauber +1 pro Talentrang. 
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang. 
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
 
 **Zaubersprüche:**  
-Wasser weihen (0)
+[Wasser weihen](/grw/zauber/wasser-weihen.md) (0)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 54  
 
 
 

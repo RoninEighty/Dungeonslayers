@@ -5,20 +5,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 9   |
-| ST  | BE  | VE  |  
-| 2   | 8   | 5   |
-| HÄ  | GE  | AU  |  
-| 0   | 0   | 7   |
+| KÖR    | 6  | AGI      | 6  | GEI        | 9   |
+| ST     | 2  | BE       | 8  | VE         | 5   |
+| HÄ     | 0  | GE       | 0  | AU         | 7   |
+|        |    |          |    |            |     |
+| LK     | 19 | Abwehr   | 6  | Initiative | 14  |
+| Laufen | 4  | Schlagen | 8  | Schiessen  | 6   |
+|        |    |          |    |            |     |
+| GH     | 1  | GK       | no | EP         | 100 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 19       | 6        | 14         | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 6        | 16         | 9          |
 
 **Bewaffnung:**  
 
@@ -27,29 +22,26 @@
 
 
 **Talente:**  
-Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber. 
+Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-Beschwörer III: +2 Bonus auf Dämonen beschwören & kontrollieren 
+Beschwörer III: Beschwörer.description
 
-Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber 
+Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-Verheerer II: GA-1 bei Schadenszauber 
+Verheerer II: GA-1 bei Schadenszauber
 
-Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang. 
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Bändiger I: Mit GEI+AU Wesenheiten kontrollieren 
+Bändiger I: Bändiger.description
 
-Meister seiner Klasse I: ein Klassenattribut +1 
+Meister seiner Klasse I: ein Klassenattribut +1
 
-Feuermagier I: Feuerzauber +1 pro Talentrang. 
+Feuermagier I: Feuerzauber +1 pro Talentrang.
 
 
 **Zaubersprüche:**  
-Blut kochen (-(KÖR+AU)/2), Dämonen beschwören (-(KÖR+AU)+BB), Ebenentor (-8), Erdspalt (-4), Feuerstrahl (+2), Flammeninferno (+6), Halt (-(KÖR+AU)/2), Kontrollieren (-(GEI+AU)/2), Schattenlanze (+5), Schattenpfeil (+2), Trugbild (-2), Versetzte Stimme (-1/10m), Wächter (0), Zaubertrick (0), Zombies erwecken (0)
+[Blut kochen](/grw/zauber/blut-kochen.md) (-(KÖR+AU)/2), [Dämonen beschwören](/grw/zauber/daemonen-beschwoeren.md) (-(KÖR+AU)+BB), [Ebenentor](/grw/zauber/ebenentor.md) (-8), [Erdspalt](/grw/zauber/erdspalt.md) (-4), [Feuerstrahl](/grw/zauber/feuerstrahl.md) (+2), [Flammeninferno](/grw/zauber/flammeninferno.md) (+6), [Halt](/grw/zauber/halt.md) (-(KÖR+AU)/2), [Kontrollieren](/grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Schatten](/grw/zauber/schatten.md)lanze (+5), [Schatten](/grw/zauber/schatten.md)pfeil (+2), [Trugbild](/grw/zauber/trugbild.md) (-2), [Versetzte Stimme](/grw/zauber/versetzte-stimme.md) (-1/10m), [Wächter](/grw/zauber/waechter.md) (0), [Zauber](/fanwerk/zauber/zauber.md)trick (0), [Zombies erwecken](/grw/zauber/zombies-erwecken.md) (0)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 100  
 
 
 

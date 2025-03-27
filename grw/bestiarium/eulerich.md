@@ -1,20 +1,15 @@
 # Eulerich  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 14  | 6   | 1   |
-| ST  | BE  | VE  |  
-| 4   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR    | 14  | AGI      | 6  | GEI        | 1   |
+| ST     | 4   | BE       | 3  | VE         | 0   |
+| HÄ     | 3   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 54  | Abwehr   | 18 | Initiative | 9   |
+| Laufen | 4.5 | Schlagen | 20 | Schiessen  | 6   |
+|        |     |          |    |            |     |
+| GH     | 11  | GK       | gr | EP         | 115 |
 
-
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 54       | 18       | 9          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 20       | 6        |            |            |
 
 **Bewaffnung:**  
 Pranke (WB+2, GA-2)
@@ -26,12 +21,9 @@ Federkleid (PA+1)
 Federkleid (PA+1)
 
 **Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen. 
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
 
-Gegnerhärte: 11  
-Größe: Groß  
-Erfahrungspunkte: 115  
 
 
 
