@@ -1,4 +1,4 @@
-# Schattenkultist  
+### Schattenkultist  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 7   | AGI      | 7  | GEI        | 6  |
-| ST     | 3   | BE       | 1  | VE         | 0  |
-| HÄ     | 2   | GE       | 2  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 19  | Abwehr   | 9  | Initiative | 8  |
-| Laufen | 4.5 | Schlagen | 11 | Schiessen  | 9  |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 48 |
+| KÖR | 7 | AGI | 7 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 1 | VE | 0 |
+| HÄ | 2 | GE | 2 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 19 | Abwehr | 9 | Initiative | 8 |
+| Laufen | 4.5 | Schlagen | 11 | Schiessen | 9 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 48 |
 
 
-**Bewaffnung:**  
-Kurzschwert (WB+1)
+| Bewaffnung |
+| --- |
+| Kurzschwert (WB+1) |
 
-**Panzerung:**  
-Robe
 
-**Ausrüstung:**  
-Robe
+| Panzerung |
+| --- |
+| Robe |
+
 
 **Talente:**  
 

@@ -1,24 +1,26 @@
-# Kerberos  
+### Kerberos  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 14 | AGI      | 8  | GEI        | 0   |
-| ST     | 6  | BE       | 2  | VE         | 1   |
-| HÄ     | 2  | GE       | 2  | AU         | 2   |
-|        |    |          |    |            |     |
-| LK     | 78 | Abwehr   | 20 | Initiative | 10  |
-| Laufen | 8  | Schlagen | 23 | Schiessen  | 10  |
-|        |    |          |    |            |     |
-| GH     | 19 | GK       | gr | EP         | 180 |
+| KÖR | 14 | AGI | 8 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 6 | BE | 2 | VE | 1 |
+| HÄ | 2 | GE | 2 | AU | 2 |
+|  |  |  |  |  |  |
+| LK | 78 | Abwehr | 20 | Initiative | 10 |
+| Laufen | 8 | Schlagen | 23 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 19 | GK | gr | EP | 180 |
 
 
-**Bewaffnung:**  
-Biss (WB+3)
+| Bewaffnung |
+| --- |
+| Biss (WB+3) |
 
-**Panzerung:**  
-Wolfspelz (PA+4)
 
-**Ausrüstung:**  
-Wolfspelz (PA+4)
+| Panzerung |
+| --- |
+| Wolfspelz (PA+4) |
+
 
 **Talente:**  
 Mehrere Angriffe (+2): Kann 2 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.

@@ -1,4 +1,4 @@
-# Wilfried von Eibenhöh  
+### Wilfried von Eibenhöh  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8   | AGI      | 6  | GEI        | 6  |
-| ST     | 7   | BE       | 0  | VE         | 0  |
-| HÄ     | 5   | GE       | 0  | AU         | 4  |
-|        |     |          |    |            |    |
-| LK     | 29  | Abwehr   | 21 | Initiative | 7  |
-| Laufen | 1.5 | Schlagen | 20 | Schiessen  | 6  |
-|        |     |          |    |            |    |
-| GH     | 10  | GK       | no | EP         | 74 |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 7 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 4 |
+|  |  |  |  |  |  |
+| LK | 29 | Abwehr | 21 | Initiative | 7 |
+| Laufen | 1.5 | Schlagen | 20 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 10 | GK | no | EP | 74 |
 
 
-**Bewaffnung:**  
-Langschwert (WB+2), Lanze (WB+1)
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2), Lanze (WB+1) |
 
-**Panzerung:**  
-Plattenpanzer (PA+3, LA-1), Metallschild (PA+1, LA-0.5), Metallhelm (PA+1, INI-1), Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
 
-**Ausrüstung:**  
-Plattenpanzer (PA+3, LA-1), Metallschild (PA+1, LA-0.5), Metallhelm (PA+1, INI-1), Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5)
+| Panzerung |
+| --- |
+| Plattenpanzer (PA+3, LA-1), Metallschild (PA+1, LA-0.5), Metallhelm (PA+1, INI-1), Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5) |
+
 
 **Talente:**  
 Kämpfer III: Schlagen +1 pro Talentrang.

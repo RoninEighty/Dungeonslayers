@@ -1,24 +1,26 @@
-# Alligator  
+### Alligator  
 - Gruppe: Tiere  
 
-| KÖR    | 12  | AGI      | 10 | GEI        | 1   |
-| ST     | 2   | BE       | 5  | VE         | 0   |
-| HÄ     | 4   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 78  | Abwehr   | 18 | Initiative | 15  |
-| Laufen | 9.5 | Schlagen | 16 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 10  | GK       | gr | EP         | 151 |
+| KÖR | 12 | AGI | 10 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 2 | BE | 5 | VE | 0 |
+| HÄ | 4 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 78 | Abwehr | 18 | Initiative | 15 |
+| Laufen | 9.5 | Schlagen | 16 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 10 | GK | gr | EP | 151 |
 
 
-**Bewaffnung:**  
-Großer Biss (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Großer Biss (WB+2, GA-2) |
 
-**Panzerung:**  
-Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-Schuppenpanzer (PA+2)
+| Panzerung |
+| --- |
+| Schuppenpanzer (PA+2) |
+
 
 **Talente:**  
 Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.

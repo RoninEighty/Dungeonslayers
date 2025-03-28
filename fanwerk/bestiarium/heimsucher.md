@@ -1,24 +1,26 @@
-# Heimsucher  
+### Heimsucher  
 - Gruppe: Untote  
 
-| KÖR    | 5   | AGI      | 9  | GEI        | 7   |
-| ST     | 8   | BE       | 6  | VE         | 5   |
-| HÄ     | 8   | GE       | 7  | AU         | 1   |
-|        |     |          |    |            |     |
-| LK     | 23  | Abwehr   | 21 | Initiative | 15  |
-| Laufen | 5.5 | Schlagen | 13 | Schiessen  | 17  |
-|        |     |          |    |            |     |
-| GH     | 14  | GK       | no | EP         | 180 |
+| KÖR | 5 | AGI | 9 | GEI | 7 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 8 | BE | 6 | VE | 5 |
+| HÄ | 8 | GE | 7 | AU | 1 |
+|  |  |  |  |  |  |
+| LK | 23 | Abwehr | 21 | Initiative | 15 |
+| Laufen | 5.5 | Schlagen | 13 | Schiessen | 17 |
+|  |  |  |  |  |  |
+| GH | 14 | GK | no | EP | 180 |
 
 
-**Bewaffnung:**  
-Schattenpfeil (WB+1, GA-2)
+| Bewaffnung |
+| --- |
+| Schattenpfeil (WB+1, GA-2) |
 
-**Panzerung:**  
-Körperlos (PA+8)
 
-**Ausrüstung:**  
-Körperlos (PA+8)
+| Panzerung |
+| --- |
+| Körperlos (PA+8) |
+
 
 **Talente:**  
 Angst: Angst.description

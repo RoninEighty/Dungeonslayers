@@ -1,4 +1,4 @@
-# Heob (Ordensheiler)  
+### Heob (Ordensheiler)  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,24 +6,29 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8   | AGI      | 5  | GEI        | 7  |
-| ST     | 4   | BE       | 0  | VE         | 3  |
-| HÄ     | 4   | GE       | 0  | AU         | 4  |
-|        |     |          |    |            |    |
-| LK     | 22  | Abwehr   | 16 | Initiative | 5  |
-| Laufen | 3.5 | Schlagen | 13 | Schiessen  | 5  |
-|        |     |          |    |            |    |
-| GH     | 3   | GK       | no | EP         | 84 |
+| KÖR | 8 | AGI | 5 | GEI | 7 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 3 |
+| HÄ | 4 | GE | 0 | AU | 4 |
+|  |  |  |  |  |  |
+| LK | 22 | Abwehr | 16 | Initiative | 5 |
+| Laufen | 3.5 | Schlagen | 13 | Schiessen | 5 |
+|  |  |  |  |  |  |
+| GH | 3 | GK | no | EP | 84 |
 
 
-**Bewaffnung:**  
-Streitkolben (WB+1, GA-1)
+| Bewaffnung |
+| --- |
+| Streitkolben (WB+1, GA-1) |
 
-**Panzerung:**  
-Lederpanzer (PA+1, Parade +II, 1x aktionsfrei Waffe ziehen, Zauber: Bannen mit 12 Ladungen), Holzschild (PA+1, Blocker +III)
+
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1, Parade +II, 1x aktionsfrei Waffe ziehen, Zauber: Bannen mit 12 Ladungen), Holzschild (PA+1, Blocker +III) |
+
 
 **Ausrüstung:**  
-Lederpanzer (PA+1, Parade +II, 1x aktionsfrei Waffe ziehen, Zauber: Bannen mit 12 Ladungen), Holzschild (PA+1, Blocker +III)
+Krug (Zauber: Segen eingebettet)
 
 **Talente:**  
 Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang.

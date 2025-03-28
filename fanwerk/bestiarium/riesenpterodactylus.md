@@ -1,24 +1,26 @@
-# Riesenpterodactylus  
+### Riesenpterodactylus  
 - Gruppe: Tiere  
 
-| KÖR    | 14  | AGI      | 16 | GEI        | 2   |
-| ST     | 3   | BE       | 6  | VE         | 0   |
-| HÄ     | 4   | GE       | 3  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 140 | Abwehr   | 20 | Initiative | 22  |
-| Laufen | 11  | Schlagen | 21 | Schiessen  | 19  |
-|        |     |          |    |            |     |
-| GH     | 22  | GK       | ri | EP         | 264 |
+| KÖR | 14 | AGI | 16 | GEI | 2 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 6 | VE | 0 |
+| HÄ | 4 | GE | 3 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 140 | Abwehr | 20 | Initiative | 22 |
+| Laufen | 11 | Schlagen | 21 | Schiessen | 19 |
+|  |  |  |  |  |  |
+| GH | 22 | GK | ri | EP | 264 |
 
 
-**Bewaffnung:**  
-Grausamer Schnabel (WB+4)
+| Bewaffnung |
+| --- |
+| Grausamer Schnabel (WB+4) |
 
-**Panzerung:**  
-Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-Schuppenpanzer (PA+2)
+| Panzerung |
+| --- |
+| Schuppenpanzer (PA+2) |
+
 
 **Talente:**  
 Angst: Angst.description

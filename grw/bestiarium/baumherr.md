@@ -1,24 +1,26 @@
-# Baumherr  
+### Baumherr  
 - Gruppe: Pflanzenwesen  
 
-| KÖR    | 20 | AGI      | 1  | GEI        | 1   |
-| ST     | 5  | BE       | 0  | VE         | 0   |
-| HÄ     | 5  | GE       | 0  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 70 | Abwehr   | 27 | Initiative | 1   |
-| Laufen | 2  | Schlagen | 27 | Schiessen  | 1   |
-|        |    |          |    |            |     |
-| GH     | 23 | GK       | gr | EP         | 157 |
+| KÖR | 20 | AGI | 1 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 70 | Abwehr | 27 | Initiative | 1 |
+| Laufen | 2 | Schlagen | 27 | Schiessen | 1 |
+|  |  |  |  |  |  |
+| GH | 23 | GK | gr | EP | 157 |
 
 
-**Bewaffnung:**  
-Asthiebe (WB+2)
+| Bewaffnung |
+| --- |
+| Asthiebe (WB+2) |
 
-**Panzerung:**  
-Dicke Rinde (PA+2)
 
-**Ausrüstung:**  
-Dicke Rinde (PA+2)
+| Panzerung |
+| --- |
+| Dicke Rinde (PA+2) |
+
 
 **Talente:**  
 Mehrere Angriffe (+3): Kann 3 zusätzliche Asthiebe in jeder Runde aktionsfrei ausführen.

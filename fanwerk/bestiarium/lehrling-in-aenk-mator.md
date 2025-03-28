@@ -1,4 +1,4 @@
-# Lehrling in Aenk`Mator  
+### Lehrling in Aenk`Mator  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Zauberer  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
-| ST     | 0  | BE       | 0  | VE         | 5  |
-| HÄ     | 1  | GE       | 2  | AU         | 3  |
-|        |    |          |    |            |    |
-| LK     | 17 | Abwehr   | 7  | Initiative | 6  |
-| Laufen | 4  | Schlagen | 6  | Schiessen  | 8  |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 50 |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 5 |
+| HÄ | 1 | GE | 2 | AU | 3 |
+|  |  |  |  |  |  |
+| LK | 17 | Abwehr | 7 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 6 | Schiessen | 8 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 50 |
 
 
-**Bewaffnung:**  
+| Bewaffnung |
+| --- |
+|  |
 
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
 Bildung II: Bildung.description

@@ -1,4 +1,4 @@
-# Tarr-Novize  
+### Tarr-Novize  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8  | AGI      | 8  | GEI        | 4   |
-| ST     | 7  | BE       | 1  | VE         | 0   |
-| HÄ     | 6  | GE       | 0  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 30 | Abwehr   | 18 | Initiative | 4   |
-| Laufen | 4  | Schlagen | 20 | Schiessen  | 8   |
-|        |    |          |    |            |     |
-| GH     | 9  | GK       | no | EP         | 111 |
+| KÖR | 8 | AGI | 8 | GEI | 4 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 7 | BE | 1 | VE | 0 |
+| HÄ | 6 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 30 | Abwehr | 18 | Initiative | 4 |
+| Laufen | 4 | Schlagen | 20 | Schiessen | 8 |
+|  |  |  |  |  |  |
+| GH | 9 | GK | no | EP | 111 |
 
 
-**Bewaffnung:**  
-Schlachtgeißel (WB+3, INI-4, GA-4)
+| Bewaffnung |
+| --- |
+| Schlachtgeißel (WB+3, INI-4, GA-4) |
 
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
 
-**Ausrüstung:**  
-Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5)
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Metallschild (PA+1, LA-0.5) |
+
 
 **Talente:**  
 Brutaler Hieb II: Brutaler Hieb.description

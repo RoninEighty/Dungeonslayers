@@ -1,24 +1,26 @@
-# Harpyie  
+### Harpyie  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 8  | AGI      | 6  | GEI        | 6   |
-| ST     | 2  | BE       | 2  | VE         | 1   |
-| HÄ     | 2  | GE       | 1  | AU         | 2   |
-|        |    |          |    |            |     |
-| LK     | 20 | Abwehr   | 11 | Initiative | 8   |
-| Laufen | 4  | Schlagen | 12 | Schiessen  | 7   |
-|        |    |          |    |            |     |
-| GH     | 5  | GK       | no | EP         | 108 |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 2 | BE | 2 | VE | 1 |
+| HÄ | 2 | GE | 1 | AU | 2 |
+|  |  |  |  |  |  |
+| LK | 20 | Abwehr | 11 | Initiative | 8 |
+| Laufen | 4 | Schlagen | 12 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 5 | GK | no | EP | 108 |
 
 
-**Bewaffnung:**  
-Krallenklaue (WB+2)
+| Bewaffnung |
+| --- |
+| Krallenklaue (WB+2) |
 
-**Panzerung:**  
-Federkleid (PA+1)
 
-**Ausrüstung:**  
-Federkleid (PA+1)
+| Panzerung |
+| --- |
+| Federkleid (PA+1) |
+
 
 **Talente:**  
 Bezaubern: Bezaubern.description

@@ -1,4 +1,4 @@
-# Erindor  
+### Erindor  
 - Gruppe: Elf  
 - Volk: Elf  
 - Klasse: Zauberer  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
-| ST     | 0   | BE       | 0  | VE         | 3  |
-| HÄ     | 1   | GE       | 5  | AU         | 2  |
-|        |     |          |    |            |    |
-| LK     | 16  | Abwehr   | 6  | Initiative | 7  |
-| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 13 |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 51 |
+| KÖR | 5 | AGI | 7 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 3 |
+| HÄ | 1 | GE | 5 | AU | 2 |
+|  |  |  |  |  |  |
+| LK | 16 | Abwehr | 6 | Initiative | 7 |
+| Laufen | 4.5 | Schlagen | 6 | Schiessen | 13 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 51 |
 
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Bildung I: Bildung.description

@@ -1,24 +1,26 @@
-# Phantomhexer  
+### Phantomhexer  
 - Gruppe: Untote  
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 9   |
-| ST     | 0  | BE       | 3  | VE         | 6   |
-| HÄ     | 0  | GE       | 6  | AU         | 7   |
-|        |    |          |    |            |     |
-| LK     | 16 | Abwehr   | 14 | Initiative | 9   |
-| Laufen | 4  | Schlagen | 8  | Schiessen  | 12  |
-|        |    |          |    |            |     |
-| GH     | 9  | GK       | no | EP         | 177 |
+| KÖR | 6 | AGI | 6 | GEI | 9 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 3 | VE | 6 |
+| HÄ | 0 | GE | 6 | AU | 7 |
+|  |  |  |  |  |  |
+| LK | 16 | Abwehr | 14 | Initiative | 9 |
+| Laufen | 4 | Schlagen | 8 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 9 | GK | no | EP | 177 |
 
 
-**Bewaffnung:**  
-Geisterklaue (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Geisterklaue (WB+2, GA-2) |
 
-**Panzerung:**  
-Körperlos (PA+8)
 
-**Ausrüstung:**  
-Körperlos (PA+8)
+| Panzerung |
+| --- |
+| Körperlos (PA+8) |
+
 
 **Talente:**  
 Alterung: Alterung.description

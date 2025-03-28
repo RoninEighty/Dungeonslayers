@@ -1,24 +1,26 @@
-# Riesenechse  
+### Riesenechse  
 - Gruppe: Tiere  
 
-| KÖR    | 15   | AGI      | 12 | GEI        | 1   |
-| ST     | 5    | BE       | 5  | VE         | 0   |
-| HÄ     | 4    | GE       | 0  | AU         | 0   |
-|        |      |          |    |            |     |
-| LK     | 218  | Abwehr   | 21 | Initiative | 17  |
-| Laufen | 12.5 | Schlagen | 24 | Schiessen  | 12  |
-|        |      |          |    |            |     |
-| GH     | 25   | GK       | ri | EP         | 316 |
+| KÖR | 15 | AGI | 12 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 5 | VE | 0 |
+| HÄ | 4 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 218 | Abwehr | 21 | Initiative | 17 |
+| Laufen | 12.5 | Schlagen | 24 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 25 | GK | ri | EP | 316 |
 
 
-**Bewaffnung:**  
-Grausamer Biss (WB+4)
+| Bewaffnung |
+| --- |
+| Grausamer Biss (WB+4) |
 
-**Panzerung:**  
-Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-Schuppenpanzer (PA+2)
+| Panzerung |
+| --- |
+| Schuppenpanzer (PA+2) |
+
 
 **Talente:**  
 Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern.

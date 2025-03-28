@@ -1,4 +1,4 @@
-# Arcuna  
+### Arcuna  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,21 +6,29 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
-| ST     | 0   | BE       | 0  | VE         | 3  |
-| HÄ     | 0   | GE       | 4  | AU         | 5  |
-|        |     |          |    |            |    |
-| LK     | 15  | Abwehr   | 5  | Initiative | 7  |
-| Laufen | 4.5 | Schlagen | 5  | Schiessen  | 11 |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 50 |
+| KÖR | 5 | AGI | 7 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 3 |
+| HÄ | 0 | GE | 4 | AU | 5 |
+|  |  |  |  |  |  |
+| LK | 15 | Abwehr | 5 | Initiative | 7 |
+| Laufen | 4.5 | Schlagen | 5 | Schiessen | 11 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 50 |
 
 
-**Bewaffnung:**  
+| Bewaffnung |
+| --- |
+|  |
 
 
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
+
+**Ausrüstung:**  
+Kette (Gift trotzen +3), Stab (Aura +1, Zauber: Wolke der Reue eingebettet)
 
 **Talente:**  
 Alchemie II: Alchemie.description

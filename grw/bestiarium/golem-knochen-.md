@@ -1,20 +1,25 @@
-# Golem, Knochen-  
+### Golem, Knochen-  
 - Gruppe: Konstrukte  
 
-| KÖR    | 10  | AGI      | 12 | GEI        | 0   |
-| ST     | 5   | BE       | 6  | VE         | 0   |
-| HÄ     | 0   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 40  | Abwehr   | 10 | Initiative | 18  |
-| Laufen | 7.5 | Schlagen | 17 | Schiessen  | 12  |
-|        |     |          |    |            |     |
-| GH     | 12  | GK       | gr | EP         | 148 |
+| KÖR | 10 | AGI | 12 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 6 | VE | 0 |
+| HÄ | 0 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 40 | Abwehr | 10 | Initiative | 18 |
+| Laufen | 7.5 | Schlagen | 17 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 12 | GK | gr | EP | 148 |
 
 
-**Bewaffnung:**  
-Knochenpranke (WB+2)
+| Bewaffnung |
+| --- |
+| Knochenpranke (WB+2) |
 
-**Panzerung:**  
+
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  

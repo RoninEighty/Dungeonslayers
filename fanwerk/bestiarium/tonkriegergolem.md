@@ -1,20 +1,25 @@
-# Tonkriegergolem  
+### Tonkriegergolem  
 - Gruppe: Konstrukte  
 
-| KÖR    | 11 | AGI      | 6  | GEI        | 3   |
-| ST     | 4  | BE       | 0  | VE         | 2   |
-| HÄ     | 5  | GE       | 3  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 26 | Abwehr   | 16 | Initiative | 6   |
-| Laufen | 4  | Schlagen | 18 | Schiessen  | 9   |
-|        |    |          |    |            |     |
-| GH     | 10 | GK       | no | EP         | 100 |
+| KÖR | 11 | AGI | 6 | GEI | 3 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 2 |
+| HÄ | 5 | GE | 3 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 26 | Abwehr | 16 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 18 | Schiessen | 9 |
+|  |  |  |  |  |  |
+| GH | 10 | GK | no | EP | 100 |
 
 
-**Bewaffnung:**  
-Pranke (WB+3)
+| Bewaffnung |
+| --- |
+| Pranke (WB+3) |
 
-**Panzerung:**  
+
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  

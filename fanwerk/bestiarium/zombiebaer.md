@@ -1,24 +1,26 @@
-# Zombiebär  
+### Zombiebär  
 - Gruppe: Untote  
 
-| KÖR    | 14  | AGI      | 7  | GEI        | 0   |
-| ST     | 4   | BE       | 4  | VE         | 0   |
-| HÄ     | 4   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 84  | Abwehr   | 19 | Initiative | 11  |
-| Laufen | 7.5 | Schlagen | 20 | Schiessen  | 7   |
-|        |     |          |    |            |     |
-| GH     | 14  | GK       | gr | EP         | 165 |
+| KÖR | 14 | AGI | 7 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 4 | VE | 0 |
+| HÄ | 4 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 84 | Abwehr | 19 | Initiative | 11 |
+| Laufen | 7.5 | Schlagen | 20 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 14 | GK | gr | EP | 165 |
 
 
-**Bewaffnung:**  
-Pranke (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Pranke (WB+2, GA-2) |
 
-**Panzerung:**  
-Fell (PA+1)
 
-**Ausrüstung:**  
-Fell (PA+1)
+| Panzerung |
+| --- |
+| Fell (PA+1) |
+
 
 **Talente:**  
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.

@@ -1,4 +1,4 @@
-# Meister Schnarkel  
+### Meister Schnarkel  
 - Gruppe: Rattling  
 - Volk: Rattling  
 - Klasse: Zauberer  
@@ -6,24 +6,29 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
-| ST     | 0  | BE       | 0  | VE         | 2  |
-| HÄ     | 1  | GE       | 2  | AU         | 6  |
-|        |    |          |    |            |    |
-| LK     | 17 | Abwehr   | 7  | Initiative | 8  |
-| Laufen | 4  | Schlagen | 9  | Schiessen  | 8  |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 55 |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 1 | GE | 2 | AU | 6 |
+|  |  |  |  |  |  |
+| LK | 17 | Abwehr | 7 | Initiative | 8 |
+| Laufen | 4 | Schlagen | 9 | Schiessen | 8 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 55 |
 
 
-**Bewaffnung:**  
-mag. Kampfstab (2h) +2 (WB+3, INI+2, GA-2, Zielzauber +1, Zielzauber +1)
+| Bewaffnung |
+| --- |
+| mag. Kampfstab (2h) +2 (WB+3, INI+2, GA-2, Zielzauber +1, Zielzauber +1) |
 
-**Panzerung:**  
-Robe
+
+| Panzerung |
+| --- |
+| Robe |
+
 
 **Ausrüstung:**  
-Robe
+Amulett (Wahrnehmung +II)
 
 **Talente:**  
 Bildung III: Bildung.description

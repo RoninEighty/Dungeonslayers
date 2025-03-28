@@ -1,24 +1,26 @@
-# Kleiner Augenball  
+### Kleiner Augenball  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 8  | AGI      | 6  | GEI        | 8   |
-| ST     | 0  | BE       | 0  | VE         | 2   |
-| HÄ     | 3  | GE       | 2  | AU         | 2   |
-|        |    |          |    |            |     |
-| LK     | 21 | Abwehr   | 13 | Initiative | 6   |
-| Laufen | 4  | Schlagen | 8  | Schiessen  | 8   |
-|        |    |          |    |            |     |
-| GH     | 9  | GK       | no | EP         | 183 |
+| KÖR | 8 | AGI | 6 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 3 | GE | 2 | AU | 2 |
+|  |  |  |  |  |  |
+| LK | 21 | Abwehr | 13 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 8 | Schiessen | 8 |
+|  |  |  |  |  |  |
+| GH | 9 | GK | no | EP | 183 |
 
 
-**Bewaffnung:**  
+| Bewaffnung |
+| --- |
+|  |
 
 
-**Panzerung:**  
-Warzenhaut (PA+2)
+| Panzerung |
+| --- |
+| Warzenhaut (PA+2) |
 
-**Ausrüstung:**  
-Warzenhaut (PA+2)
 
 **Talente:**  
 Mehrere Angriffe (+4): Mehrere Angriffe (+4)small.description

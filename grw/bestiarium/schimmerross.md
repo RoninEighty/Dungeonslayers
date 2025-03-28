@@ -1,20 +1,25 @@
-# Schimmerross  
+### Schimmerross  
 - Gruppe: Tiere  
 
-| KÖR    | 9  | AGI      | 12 | GEI        | 1   |
-| ST     | 2  | BE       | 6  | VE         | 0   |
-| HÄ     | 3  | GE       | 0  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 66 | Abwehr   | 12 | Initiative | 18  |
-| Laufen | 11 | Schlagen | 13 | Schiessen  | 12  |
-|        |    |          |    |            |     |
-| GH     | 4  | GK       | gr | EP         | 106 |
+| KÖR | 9 | AGI | 12 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 2 | BE | 6 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 66 | Abwehr | 12 | Initiative | 18 |
+| Laufen | 11 | Schlagen | 13 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 4 | GK | gr | EP | 106 |
 
 
-**Bewaffnung:**  
-Huf (WB+2)
+| Bewaffnung |
+| --- |
+| Huf (WB+2) |
 
-**Panzerung:**  
+
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  

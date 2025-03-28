@@ -1,24 +1,26 @@
-# Kleiner Borstenwurm  
+### Kleiner Borstenwurm  
 - Gruppe: Tiere  
 
-| KÖR    | 12 | AGI      | 4  | GEI        | 2   |
-| ST     | 1  | BE       | 3  | VE         | 1   |
-| HÄ     | 2  | GE       | 1  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 72 | Abwehr   | 16 | Initiative | 7   |
-| Laufen | 5  | Schlagen | 15 | Schiessen  | 5   |
-|        |    |          |    |            |     |
-| GH     | 11 | GK       | gr | EP         | 164 |
+| KÖR | 12 | AGI | 4 | GEI | 2 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 1 | BE | 3 | VE | 1 |
+| HÄ | 2 | GE | 1 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 72 | Abwehr | 16 | Initiative | 7 |
+| Laufen | 5 | Schlagen | 15 | Schiessen | 5 |
+|  |  |  |  |  |  |
+| GH | 11 | GK | gr | EP | 164 |
 
 
-**Bewaffnung:**  
-Biss (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Biss (WB+2, GA-2) |
 
-**Panzerung:**  
-Dicke Borstenhaut (PA+2)
 
-**Ausrüstung:**  
-Dicke Borstenhaut (PA+2)
+| Panzerung |
+| --- |
+| Dicke Borstenhaut (PA+2) |
+
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.

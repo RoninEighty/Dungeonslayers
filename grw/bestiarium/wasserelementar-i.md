@@ -1,24 +1,26 @@
-# Wasserelementar I  
+### Wasserelementar I  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 6  | AGI      | 8  | GEI        | 1  |
-| ST     | 3  | BE       | 0  | VE         | 0  |
-| HÄ     | 3  | GE       | 2  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 10 | Abwehr   | 17 | Initiative | 8  |
-| Laufen | 5  | Schlagen | 11 | Schiessen  | 12 |
-|        |    |          |    |            |    |
-| GH     | 3  | GK       | kl | EP         | 60 |
+| KÖR | 6 | AGI | 8 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 3 | GE | 2 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 10 | Abwehr | 17 | Initiative | 8 |
+| Laufen | 5 | Schlagen | 11 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 3 | GK | kl | EP | 60 |
 
 
-**Bewaffnung:**  
-Wasserstrahl (WB+2)
+| Bewaffnung |
+| --- |
+| Wasserstrahl (WB+2) |
 
-**Panzerung:**  
-Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**  
-Keine feste Gestalt (PA+8)
+| Panzerung |
+| --- |
+| Keine feste Gestalt (PA+8) |
+
 
 **Talente:**  
 Anfällig: Anfällig.description

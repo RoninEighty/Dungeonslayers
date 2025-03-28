@@ -1,4 +1,4 @@
-# Kruga  
+### Kruga  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Kriegszauberer  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 7   | AGI      | 5  | GEI        | 8   |
-| ST     | 4   | BE       | 0  | VE         | 8   |
-| HÄ     | 2   | GE       | 6  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 19  | Abwehr   | 11 | Initiative | 7   |
-| Laufen | 3.5 | Schlagen | 18 | Schiessen  | 11  |
-|        |     |          |    |            |     |
-| GH     | 2   | GK       | no | EP         | 110 |
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 8 |
+| HÄ | 2 | GE | 6 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 19 | Abwehr | 11 | Initiative | 7 |
+| Laufen | 3.5 | Schlagen | 18 | Schiessen | 11 |
+|  |  |  |  |  |  |
+| GH | 2 | GK | no | EP | 110 |
 
 
-**Bewaffnung:**  
-mag. Breitschwert +2 (WB+3, INI+2, GA-4, Zauber: Feuerball eingebettet)
+| Bewaffnung |
+| --- |
+| mag. Breitschwert +2 (WB+3, INI+2, GA-4, Zauber: Feuerball eingebettet) |
 
-**Panzerung:**  
-Lederpanzer (PA+1, Ausweichen +III), Lederschienen (Arm & Bein) (PA+1, Kämpfer +III)
 
-**Ausrüstung:**  
-Lederpanzer (PA+1, Ausweichen +III), Lederschienen (Arm & Bein) (PA+1, Kämpfer +III)
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1, Ausweichen +III), Lederschienen (Arm & Bein) (PA+1, Kämpfer +III) |
+
 
 **Talente:**  
 Feuermagier III: Feuerzauber +1 pro Talentrang.

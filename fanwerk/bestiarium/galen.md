@@ -1,4 +1,4 @@
-# Galen  
+### Galen  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Zauberer  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
-| ST     | 0   | BE       | 0  | VE         | 2  |
-| HÄ     | 0   | GE       | 5  | AU         | 5  |
-|        |     |          |    |            |    |
-| LK     | 15  | Abwehr   | 5  | Initiative | 9  |
-| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 12 |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 52 |
+| KÖR | 5 | AGI | 7 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 0 | GE | 5 | AU | 5 |
+|  |  |  |  |  |  |
+| LK | 15 | Abwehr | 5 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 6 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 52 |
 
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Bildung I: Bildung.description

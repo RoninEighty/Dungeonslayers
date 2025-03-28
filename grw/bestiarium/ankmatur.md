@@ -1,4 +1,4 @@
-# Ankmatur  
+### Ankmatur  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Nekromant  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 4  | AGI      | 8  | GEI        | 8  |
-| ST     | 0  | BE       | 0  | VE         | 6  |
-| HÄ     | 4  | GE       | 2  | AU         | 5  |
-|        |    |          |    |            |    |
-| LK     | 18 | Abwehr   | 10 | Initiative | 9  |
-| Laufen | 5  | Schlagen | 7  | Schiessen  | 10 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 83 |
+| KÖR | 4 | AGI | 8 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 6 |
+| HÄ | 4 | GE | 2 | AU | 5 |
+|  |  |  |  |  |  |
+| LK | 18 | Abwehr | 10 | Initiative | 9 |
+| Laufen | 5 | Schlagen | 7 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 83 |
 
 
-**Bewaffnung:**  
-mag. Langschwert +1 (WB+3, INI+1, GA-1)
+| Bewaffnung |
+| --- |
+| mag. Langschwert +1 (WB+3, INI+1, GA-1) |
 
-**Panzerung:**  
-mag. Robe +2 (PA+2)
 
-**Ausrüstung:**  
-mag. Robe +2 (PA+2)
+| Panzerung |
+| --- |
+| mag. Robe +2 (PA+2) |
+
 
 **Talente:**  
 

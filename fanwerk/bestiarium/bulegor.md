@@ -1,4 +1,4 @@
-# Bulegor  
+### Bulegor  
 - Gruppe: Zwerg  
 - Volk: Zwerg  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR    | 8   | AGI      | 6  | GEI        | 6  |
-| ST     | 2   | BE       | 0  | VE         | 2  |
-| HÄ     | 9   | GE       | 1  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 27  | Abwehr   | 27 | Initiative | 7  |
-| Laufen | 3.5 | Schlagen | 14 | Schiessen  | 7  |
-|        |     |          |    |            |    |
-| GH     | 10  | GK       | no | EP         | 79 |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 2 | BE | 0 | VE | 2 |
+| HÄ | 9 | GE | 1 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 27 | Abwehr | 27 | Initiative | 7 |
+| Laufen | 3.5 | Schlagen | 14 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 10 | GK | no | EP | 79 |
 
 
-**Bewaffnung:**  
-mag. Hammer +1 (WB+2, INI+1, GA-2)
+| Bewaffnung |
+| --- |
+| mag. Hammer +1 (WB+2, INI+1, GA-2) |
 
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5), mag. Metallschild +1 (PA+2), mag. Metallhelm +1 (PA+2)
 
-**Ausrüstung:**  
-Kettenpanzer (PA+2, LA-0.5), mag. Metallschild +1 (PA+2), mag. Metallhelm +1 (PA+2)
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5), mag. Metallschild +1 (PA+2), mag. Metallhelm +1 (PA+2) |
+
 
 **Talente:**  
 Ausweichen III: Ausweichen.description

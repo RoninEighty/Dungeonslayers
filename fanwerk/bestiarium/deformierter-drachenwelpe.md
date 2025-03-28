@@ -1,24 +1,26 @@
-# Deformierter Drachenwelpe  
+### Deformierter Drachenwelpe  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 5  | AGI      | 5  | GEI        | 2   |
-| ST     | 1  | BE       | 1  | VE         | 1   |
-| HÄ     | 2  | GE       | 2  | AU         | 2   |
-|        |    |          |    |            |     |
-| LK     | 51 | Abwehr   | 10 | Initiative | 6   |
-| Laufen | 6  | Schlagen | 9  | Schiessen  | 10  |
-|        |    |          |    |            |     |
-| GH     | 4  | GK       | gr | EP         | 126 |
+| KÖR | 5 | AGI | 5 | GEI | 2 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 1 | BE | 1 | VE | 1 |
+| HÄ | 2 | GE | 2 | AU | 2 |
+|  |  |  |  |  |  |
+| LK | 51 | Abwehr | 10 | Initiative | 6 |
+| Laufen | 6 | Schlagen | 9 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 4 | GK | gr | EP | 126 |
 
 
-**Bewaffnung:**  
-Biss, Klaue, Odem oder Schwanzhieb (WB+3, GA-2)
+| Bewaffnung |
+| --- |
+| Biss, Klaue, Odem oder Schwanzhieb (WB+3, GA-2) |
 
-**Panzerung:**  
-Drachenschuppen (PA+3)
 
-**Ausrüstung:**  
-Drachenschuppen (PA+3)
+| Panzerung |
+| --- |
+| Drachenschuppen (PA+3) |
+
 
 **Talente:**  
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff (Biss, Klaue, Odem oder Schwanzhieb) in jeder Runde aktionsfrei ausführen. Bis auf die Klauen dürfen alle Angriffsarten nur einmal pro Runde angewendet werden.

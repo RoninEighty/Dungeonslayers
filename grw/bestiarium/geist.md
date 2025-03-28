@@ -1,24 +1,26 @@
-# Geist  
+### Geist  
 - Gruppe: Untote  
 
-| KÖR    | 1   | AGI      | 11 | GEI        | 10  |
-| ST     | 16  | BE       | 0  | VE         | 3   |
-| HÄ     | 16  | GE       | 2  | AU         | 6   |
-|        |     |          |    |            |     |
-| LK     | 27  | Abwehr   | 25 | Initiative | 11  |
-| Laufen | 6.5 | Schlagen | 19 | Schiessen  | 13  |
-|        |     |          |    |            |     |
-| GH     | 24  | GK       | no | EP         | 279 |
+| KÖR | 1 | AGI | 11 | GEI | 10 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 16 | BE | 0 | VE | 3 |
+| HÄ | 16 | GE | 2 | AU | 6 |
+|  |  |  |  |  |  |
+| LK | 27 | Abwehr | 25 | Initiative | 11 |
+| Laufen | 6.5 | Schlagen | 19 | Schiessen | 13 |
+|  |  |  |  |  |  |
+| GH | 24 | GK | no | EP | 279 |
 
 
-**Bewaffnung:**  
-Geisterklaue (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Geisterklaue (WB+2, GA-2) |
 
-**Panzerung:**  
-Körperlos (PA+8)
 
-**Ausrüstung:**  
-Körperlos (PA+8)
+| Panzerung |
+| --- |
+| Körperlos (PA+8) |
+
 
 **Talente:**  
 Angst: Angst.description

@@ -1,4 +1,4 @@
-# Kultist in Mautmoreen  
+### Kultist in Mautmoreen  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Schwarzmagier  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 7   | AGI      | 5  | GEI        | 8  |
-| ST     | 1   | BE       | 1  | VE         | 2  |
-| HÄ     | 1   | GE       | 3  | AU         | 3  |
-|        |     |          |    |            |    |
-| LK     | 18  | Abwehr   | 8  | Initiative | 6  |
-| Laufen | 3.5 | Schlagen | 10 | Schiessen  | 8  |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 53 |
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 1 | BE | 1 | VE | 2 |
+| HÄ | 1 | GE | 3 | AU | 3 |
+|  |  |  |  |  |  |
+| LK | 18 | Abwehr | 8 | Initiative | 6 |
+| Laufen | 3.5 | Schlagen | 10 | Schiessen | 8 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 53 |
 
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1), Kurzschwert (WB+1)
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1), Kurzschwert (WB+1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Bildung I: Bildung.description

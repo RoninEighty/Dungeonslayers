@@ -1,24 +1,26 @@
-# Oger  
+### Oger  
 - Gruppe: Humanoide  
 
-| KÖR    | 12  | AGI      | 4  | GEI        | 2   |
-| ST     | 3   | BE       | 2  | VE         | 1   |
-| HÄ     | 3   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 50  | Abwehr   | 16 | Initiative | 6   |
-| Laufen | 3.5 | Schlagen | 17 | Schiessen  | 4   |
-|        |     |          |    |            |     |
-| GH     | 9   | GK       | gr | EP         | 120 |
+| KÖR | 12 | AGI | 4 | GEI | 2 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 2 | VE | 1 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 50 | Abwehr | 16 | Initiative | 6 |
+| Laufen | 3.5 | Schlagen | 17 | Schiessen | 4 |
+|  |  |  |  |  |  |
+| GH | 9 | GK | gr | EP | 120 |
 
 
-**Bewaffnung:**  
-Massive Keule (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Massive Keule (WB+2, GA-2) |
 
-**Panzerung:**  
-Felle (PA+1)
 
-**Ausrüstung:**  
-Felle (PA+1)
+| Panzerung |
+| --- |
+| Felle (PA+1) |
+
 
 **Talente:**  
 Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.

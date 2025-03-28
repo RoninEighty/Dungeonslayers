@@ -1,4 +1,4 @@
-# Arken Beijl  
+### Arken Beijl  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Dämonologe  
@@ -6,24 +6,29 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 4  | AGI      | 6  | GEI        | 8   |
-| ST     | 0  | BE       | 1  | VE         | 7   |
-| HÄ     | 4  | GE       | 4  | AU         | 8   |
-|        |    |          |    |            |     |
-| LK     | 27 | Abwehr   | 10 | Initiative | 8   |
-| Laufen | 4  | Schlagen | 6  | Schiessen  | 10  |
-|        |    |          |    |            |     |
-| GH     | 1  | GK       | no | EP         | 108 |
+| KÖR | 4 | AGI | 6 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 1 | VE | 7 |
+| HÄ | 4 | GE | 4 | AU | 8 |
+|  |  |  |  |  |  |
+| LK | 27 | Abwehr | 10 | Initiative | 8 |
+| Laufen | 4 | Schlagen | 6 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 108 |
 
 
-**Bewaffnung:**  
-mag. Kampfstab (2h) +1 (WB+2, INI+1, GA-1, Zielzauber +1, Zielzauber +1)
+| Bewaffnung |
+| --- |
+| mag. Kampfstab (2h) +1 (WB+2, INI+1, GA-1, Zielzauber +1, Zielzauber +1) |
 
-**Panzerung:**  
-mag. Robe (runenbestickt) +2 (PA+2, Verstand +1, Aura +1)
+
+| Panzerung |
+| --- |
+| mag. Robe (runenbestickt) +2 (PA+2, Verstand +1, Aura +1) |
+
 
 **Ausrüstung:**  
-mag. Robe (runenbestickt) +2 (PA+2, Verstand +1, Aura +1)
+Ring (Zauber: Versetzen eingebettet, Abklingzeit 3x täglich ignorieren), Stab (Zauber: Feuerball als Zauberstab)
 
 **Talente:**  
 Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.

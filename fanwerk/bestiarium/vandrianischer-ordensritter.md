@@ -1,4 +1,4 @@
-# Vandrianischer Ordensritter  
+### Vandrianischer Ordensritter  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8   | AGI      | 4  | GEI        | 8  |
-| ST     | 3   | BE       | 0  | VE         | 0  |
-| HÄ     | 3   | GE       | 0  | AU         | 4  |
-|        |     |          |    |            |    |
-| LK     | 21  | Abwehr   | 16 | Initiative | 3  |
-| Laufen | 3.5 | Schlagen | 13 | Schiessen  | 4  |
-|        |     |          |    |            |    |
-| GH     | 4   | GK       | no | EP         | 67 |
+| KÖR | 8 | AGI | 4 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 4 |
+|  |  |  |  |  |  |
+| LK | 21 | Abwehr | 16 | Initiative | 3 |
+| Laufen | 3.5 | Schlagen | 13 | Schiessen | 4 |
+|  |  |  |  |  |  |
+| GH | 4 | GK | no | EP | 67 |
 
 
-**Bewaffnung:**  
-Langschwert (WB+2), Streitkolben (WB+1, GA-1)
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2), Streitkolben (WB+1, GA-1) |
 
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Metallhelm (PA+1, INI-1) |
+
 
 **Talente:**  
 Brutaler Hieb I: Brutaler Hieb.description

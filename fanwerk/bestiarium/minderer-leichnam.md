@@ -1,24 +1,26 @@
-# Minderer Leichnam  
+### Minderer Leichnam  
 - Gruppe: Untote  
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 9   |
-| ST     | 0  | BE       | 0  | VE         | 6   |
-| HÄ     | 2  | GE       | 4  | AU         | 7   |
-|        |    |          |    |            |     |
-| LK     | 18 | Abwehr   | 10 | Initiative | 6   |
-| Laufen | 4  | Schlagen | 11 | Schiessen  | 10  |
-|        |    |          |    |            |     |
-| GH     | 9  | GK       | no | EP         | 153 |
+| KÖR | 6 | AGI | 6 | GEI | 9 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 6 |
+| HÄ | 2 | GE | 4 | AU | 7 |
+|  |  |  |  |  |  |
+| LK | 18 | Abwehr | 10 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 11 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 9 | GK | no | EP | 153 |
 
 
-**Bewaffnung:**  
-Lähmende Berührung (WB+5)
+| Bewaffnung |
+| --- |
+| Lähmende Berührung (WB+5) |
 
-**Panzerung:**  
-mag. Robe +2 (PA+2)
 
-**Ausrüstung:**  
-mag. Robe +2 (PA+2)
+| Panzerung |
+| --- |
+| mag. Robe +2 (PA+2) |
+
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.

@@ -1,24 +1,26 @@
-# Zombiewolf  
+### Zombiewolf  
 - Gruppe: Untote  
 
-| KÖR    | 10 | AGI      | 6  | GEI        | 0  |
-| ST     | 4  | BE       | 3  | VE         | 0  |
-| HÄ     | 1  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 32 | Abwehr   | 12 | Initiative | 9  |
-| Laufen | 6  | Schlagen | 16 | Schiessen  | 6  |
-|        |    |          |    |            |    |
-| GH     | 7  | GK       | no | EP         | 99 |
+| KÖR | 10 | AGI | 6 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 3 | VE | 0 |
+| HÄ | 1 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 32 | Abwehr | 12 | Initiative | 9 |
+| Laufen | 6 | Schlagen | 16 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 7 | GK | no | EP | 99 |
 
 
-**Bewaffnung:**  
-Kräftiger Biss (WB+2, GA-1)
+| Bewaffnung |
+| --- |
+| Kräftiger Biss (WB+2, GA-1) |
 
-**Panzerung:**  
-Wolfspelz (PA+1)
 
-**Ausrüstung:**  
-Wolfspelz (PA+1)
+| Panzerung |
+| --- |
+| Wolfspelz (PA+1) |
+
 
 **Talente:**  
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.

@@ -1,24 +1,26 @@
-# Hydra  
+### Hydra  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 14  | AGI      | 10 | GEI        | 1   |
-| ST     | 5   | BE       | 2  | VE         | 0   |
-| HÄ     | 6   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 90  | Abwehr   | 22 | Initiative | 12  |
-| Laufen | 9.5 | Schlagen | 21 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 23  | GK       | gr | EP         | 246 |
+| KÖR | 14 | AGI | 10 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 2 | VE | 0 |
+| HÄ | 6 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 90 | Abwehr | 22 | Initiative | 12 |
+| Laufen | 9.5 | Schlagen | 21 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 23 | GK | gr | EP | 246 |
 
 
-**Bewaffnung:**  
-Großer Biss (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Großer Biss (WB+2, GA-2) |
 
-**Panzerung:**  
-Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-Schuppenpanzer (PA+2)
+| Panzerung |
+| --- |
+| Schuppenpanzer (PA+2) |
+
 
 **Talente:**  
 Mehrere Angriffe (+5): Kann mit seinen insgesamt sechs Köpfen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.

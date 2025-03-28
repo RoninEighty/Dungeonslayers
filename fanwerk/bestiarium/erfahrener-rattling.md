@@ -1,4 +1,4 @@
-# Erfahrener Rattling  
+### Erfahrener Rattling  
 - Gruppe: Rattling  
 - Volk: Rattling  
 - Klasse: Späher  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
-| ST     | 0  | BE       | 4  | VE         | 1  |
-| HÄ     | 3  | GE       | 6  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 22 | Abwehr   | 12 | Initiative | 12 |
-| Laufen | 6  | Schlagen | 7  | Schiessen  | 17 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | kl | EP         | 61 |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 4 | VE | 1 |
+| HÄ | 3 | GE | 6 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 22 | Abwehr | 12 | Initiative | 12 |
+| Laufen | 6 | Schlagen | 7 | Schiessen | 17 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | kl | EP | 61 |
 
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1)
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1) |
 
-**Panzerung:**  
-Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
+| Panzerung |
+| --- |
+| Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1) |
+
 
 **Talente:**  
 Schütze II: Schiessen, Zielzauber +1 pro Talentrang.

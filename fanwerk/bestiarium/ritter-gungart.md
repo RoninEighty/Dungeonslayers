@@ -1,25 +1,27 @@
-# Ritter Gungart  
+### Ritter Gungart  
 - Gruppe: Untote  
 - Upgrade: Heroisch  
 
-| KÖR    | 7   | AGI      | 6  | GEI        | 9   |
-| ST     | 17  | BE       | 0  | VE         | 8   |
-| HÄ     | 21  | GE       | 4  | AU         | 8   |
-|        |     |          |    |            |     |
-| LK     | 190 | Abwehr   | 33 | Initiative | 6   |
-| Laufen | 4   | Schlagen | 24 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 23  | GK       | no | EP         | 690 |
+| KÖR | 7 | AGI | 6 | GEI | 9 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 17 | BE | 0 | VE | 8 |
+| HÄ | 21 | GE | 4 | AU | 8 |
+|  |  |  |  |  |  |
+| LK | 190 | Abwehr | 33 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 24 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 23 | GK | no | EP | 690 |
 
 
-**Bewaffnung:**  
+| Bewaffnung |
+| --- |
+|  |
 
 
-**Panzerung:**  
-mag. Robe +3 (PA+3)
+| Panzerung |
+| --- |
+| mag. Robe +3 (PA+3) |
 
-**Ausrüstung:**  
-mag. Robe +3 (PA+3)
 
 **Talente:**  
 Angst: Angst.description

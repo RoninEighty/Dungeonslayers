@@ -1,24 +1,26 @@
-# Kriegsdämon  
+### Kriegsdämon  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 15  | AGI      | 10 | GEI        | 10  |
-| ST     | 7   | BE       | 5  | VE         | 5   |
-| HÄ     | 7   | GE       | 5  | AU         | 5   |
-|        |     |          |    |            |     |
-| LK     | 160 | Abwehr   | 24 | Initiative | 15  |
-| Laufen | 8   | Schlagen | 26 | Schiessen  | 15  |
-|        |     |          |    |            |     |
-| GH     | 23  | GK       | ri | EP         | 297 |
+| KÖR | 15 | AGI | 10 | GEI | 10 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 7 | BE | 5 | VE | 5 |
+| HÄ | 7 | GE | 5 | AU | 5 |
+|  |  |  |  |  |  |
+| LK | 160 | Abwehr | 24 | Initiative | 15 |
+| Laufen | 8 | Schlagen | 26 | Schiessen | 15 |
+|  |  |  |  |  |  |
+| GH | 23 | GK | ri | EP | 297 |
 
 
-**Bewaffnung:**  
-Pranke (WB+4, GA-4)
+| Bewaffnung |
+| --- |
+| Pranke (WB+4, GA-4) |
 
-**Panzerung:**  
-Dämonenhaut (PA+2)
 
-**Ausrüstung:**  
-Dämonenhaut (PA+2)
+| Panzerung |
+| --- |
+| Dämonenhaut (PA+2) |
+
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.

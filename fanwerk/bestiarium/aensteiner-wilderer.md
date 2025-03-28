@@ -1,4 +1,4 @@
-# Aensteiner Wilderer  
+### Aensteiner Wilderer  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Späher  
@@ -6,20 +6,25 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
-| ST     | 2  | BE       | 1  | VE         | 1  |
-| HÄ     | 1  | GE       | 5  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 17 | Abwehr   | 7  | Initiative | 10 |
-| Laufen | 5  | Schlagen | 8  | Schiessen  | 15 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 49 |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 2 | BE | 1 | VE | 1 |
+| HÄ | 1 | GE | 5 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 17 | Abwehr | 7 | Initiative | 10 |
+| Laufen | 5 | Schlagen | 8 | Schiessen | 15 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 49 |
 
 
-**Bewaffnung:**  
-Langbogen (2h) (WB+2, INI+1)
+| Bewaffnung |
+| --- |
+| Langbogen (2h) (WB+2, INI+1) |
 
-**Panzerung:**  
+
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  

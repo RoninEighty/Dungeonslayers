@@ -1,4 +1,4 @@
-# Chio-Puan Wandermönch  
+### Chio-Puan Wandermönch  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 7   | AGI      | 5  | GEI        | 8  |
-| ST     | 3   | BE       | 0  | VE         | 2  |
-| HÄ     | 1   | GE       | 1  | AU         | 4  |
-|        |     |          |    |            |    |
-| LK     | 18  | Abwehr   | 8  | Initiative | 5  |
-| Laufen | 3.5 | Schlagen | 11 | Schiessen  | 6  |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 54 |
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 0 | VE | 2 |
+| HÄ | 1 | GE | 1 | AU | 4 |
+|  |  |  |  |  |  |
+| LK | 18 | Abwehr | 8 | Initiative | 5 |
+| Laufen | 3.5 | Schlagen | 11 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 54 |
 
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Bildung I: Bildung.description

@@ -1,20 +1,25 @@
-# Einhorn  
+### Einhorn  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 9  | AGI      | 13 | GEI        | 1   |
-| ST     | 2  | BE       | 6  | VE         | 1   |
-| HÄ     | 2  | GE       | 0  | AU         | 1   |
-|        |    |          |    |            |     |
-| LK     | 63 | Abwehr   | 11 | Initiative | 19  |
-| Laufen | 12 | Schlagen | 12 | Schiessen  | 13  |
-|        |    |          |    |            |     |
-| GH     | 5  | GK       | gr | EP         | 194 |
+| KÖR | 9 | AGI | 13 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 2 | BE | 6 | VE | 1 |
+| HÄ | 2 | GE | 0 | AU | 1 |
+|  |  |  |  |  |  |
+| LK | 63 | Abwehr | 11 | Initiative | 19 |
+| Laufen | 12 | Schlagen | 12 | Schiessen | 13 |
+|  |  |  |  |  |  |
+| GH | 5 | GK | gr | EP | 194 |
 
 
-**Bewaffnung:**  
-Horn oder Hufe (WB+1, GA-2)
+| Bewaffnung |
+| --- |
+| Horn oder Hufe (WB+1, GA-2) |
 
-**Panzerung:**  
+
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  

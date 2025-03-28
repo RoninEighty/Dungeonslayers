@@ -1,24 +1,26 @@
-# Shekz  
+### Shekz  
 - Gruppe: Humanoide  
 
-| KÖR    | 3   | AGI      | 5  | GEI        | 7  |
-| ST     | 0   | BE       | 0  | VE         | 4  |
-| HÄ     | 1   | GE       | 2  | AU         | 4  |
-|        |     |          |    |            |    |
-| LK     | 7   | Abwehr   | 5  | Initiative | 5  |
-| Laufen | 3.5 | Schlagen | 3  | Schiessen  | 7  |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | kl | EP         | 49 |
+| KÖR | 3 | AGI | 5 | GEI | 7 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 4 |
+| HÄ | 1 | GE | 2 | AU | 4 |
+|  |  |  |  |  |  |
+| LK | 7 | Abwehr | 5 | Initiative | 5 |
+| Laufen | 3.5 | Schlagen | 3 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | kl | EP | 49 |
 
 
-**Bewaffnung:**  
-Wurfmesser
+| Bewaffnung |
+| --- |
+| Wurfmesser |
 
-**Panzerung:**  
-Felle (PA+1)
 
-**Ausrüstung:**  
-Felle (PA+1)
+| Panzerung |
+| --- |
+| Felle (PA+1) |
+
 
 **Talente:**  
 Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.

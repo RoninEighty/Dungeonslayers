@@ -1,24 +1,26 @@
-# Grottenschrat  
+### Grottenschrat  
 - Gruppe: Humanoide  
 
-| KÖR    | 11 | AGI      | 6  | GEI        | 3  |
-| ST     | 3  | BE       | 2  | VE         | 1  |
-| HÄ     | 4  | GE       | 1  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 25 | Abwehr   | 18 | Initiative | 8  |
-| Laufen | 4  | Schlagen | 18 | Schiessen  | 7  |
-|        |    |          |    |            |    |
-| GH     | 8  | GK       | no | EP         | 70 |
+| KÖR | 11 | AGI | 6 | GEI | 3 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 2 | VE | 1 |
+| HÄ | 4 | GE | 1 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 25 | Abwehr | 18 | Initiative | 8 |
+| Laufen | 4 | Schlagen | 18 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 8 | GK | no | EP | 70 |
 
 
-**Bewaffnung:**  
-Biss (WB+4)
+| Bewaffnung |
+| --- |
+| Biss (WB+4) |
 
-**Panzerung:**  
-Dicke Haut (PA+3)
 
-**Ausrüstung:**  
-Dicke Haut (PA+3)
+| Panzerung |
+| --- |
+| Dicke Haut (PA+3) |
+
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.

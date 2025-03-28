@@ -1,4 +1,4 @@
-# Rattenkönig Schnabbler  
+### Rattenkönig Schnabbler  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,29 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8  | AGI      | 7  | GEI        | 5  |
-| ST     | 11 | BE       | 2  | VE         | 0  |
-| HÄ     | 6  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 30 | Abwehr   | 16 | Initiative | 9  |
-| Laufen | 4  | Schlagen | 23 | Schiessen  | 7  |
-|        |    |          |    |            |    |
-| GH     | 9  | GK       | no | EP         | 92 |
+| KÖR | 8 | AGI | 7 | GEI | 5 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 11 | BE | 2 | VE | 0 |
+| HÄ | 6 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 30 | Abwehr | 16 | Initiative | 9 |
+| Laufen | 4 | Schlagen | 23 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 9 | GK | no | EP | 92 |
 
 
-**Bewaffnung:**  
-Breitschwert (WB+1, GA-2)
+| Bewaffnung |
+| --- |
+| Breitschwert (WB+1, GA-2) |
 
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5)
+
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5) |
+
 
 **Ausrüstung:**  
-Kettenpanzer (PA+2, LA-0.5)
+Gürtel (Stärke +3)
 
 **Talente:**  
 Kämpfer III: Schlagen +1 pro Talentrang.

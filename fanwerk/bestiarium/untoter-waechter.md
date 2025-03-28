@@ -1,24 +1,26 @@
-# Untoter Wächter  
+### Untoter Wächter  
 - Gruppe: Untote  
 
-| KÖR    | 13 | AGI      | 5  | GEI        | 0  |
-| ST     | 5  | BE       | 0  | VE         | 0  |
-| HÄ     | 5  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 28 | Abwehr   | 23 | Initiative | 2  |
-| Laufen | 3  | Schlagen | 21 | Schiessen  | 5  |
-|        |    |          |    |            |    |
-| GH     | 13 | GK       | no | EP         | 79 |
+| KÖR | 13 | AGI | 5 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 28 | Abwehr | 23 | Initiative | 2 |
+| Laufen | 3 | Schlagen | 21 | Schiessen | 5 |
+|  |  |  |  |  |  |
+| GH | 13 | GK | no | EP | 79 |
 
 
-**Bewaffnung:**  
-Streitaxt (2h) (WB+3, INI-2)
+| Bewaffnung |
+| --- |
+| Streitaxt (2h) (WB+3, INI-2) |
 
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5), Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-Kettenpanzer (PA+2, LA-0.5), Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5), Merkt nichts (PA+2), Metallhelm (PA+1, INI-1) |
+
 
 **Talente:**  
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.

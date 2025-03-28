@@ -1,4 +1,4 @@
-# Brambel  
+### Brambel  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Späher  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
-| ST     | 0  | BE       | 3  | VE         | 1  |
-| HÄ     | 2  | GE       | 10 | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 18 | Abwehr   | 10 | Initiative | 9  |
-| Laufen | 5  | Schlagen | 6  | Schiessen  | 20 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 58 |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 3 | VE | 1 |
+| HÄ | 2 | GE | 10 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 18 | Abwehr | 10 | Initiative | 9 |
+| Laufen | 5 | Schlagen | 6 | Schiessen | 20 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 58 |
 
 
-**Bewaffnung:**  
-Armbrust, leicht (2h) (WB+2, INI-2)
+| Bewaffnung |
+| --- |
+| Armbrust, leicht (2h) (WB+2, INI-2) |
 
-**Panzerung:**  
-mag. Lederpanzer +1 (PA+2)
 
-**Ausrüstung:**  
-mag. Lederpanzer +1 (PA+2)
+| Panzerung |
+| --- |
+| mag. Lederpanzer +1 (PA+2) |
+
 
 **Talente:**  
 Ausweichen III: Ausweichen.description

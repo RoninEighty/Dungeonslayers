@@ -1,24 +1,26 @@
-# Goblin Berserker  
+### Goblin Berserker  
 - Gruppe: Humanoide  
 
-| KÖR    | 6   | AGI      | 7  | GEI        | 2  |
-| ST     | 4   | BE       | 2  | VE         | 0  |
-| HÄ     | 2   | GE       | 1  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 9   | Abwehr   | 8  | Initiative | 9  |
-| Laufen | 4.5 | Schlagen | 11 | Schiessen  | 8  |
-|        |     |          |    |            |    |
-| GH     | 2   | GK       | kl | EP         | 64 |
+| KÖR | 6 | AGI | 7 | GEI | 2 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 2 | VE | 0 |
+| HÄ | 2 | GE | 1 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 9 | Abwehr | 8 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 11 | Schiessen | 8 |
+|  |  |  |  |  |  |
+| GH | 2 | GK | kl | EP | 64 |
 
 
-**Bewaffnung:**  
-Hammer (WB+1, GA-1)
+| Bewaffnung |
+| --- |
+| Hammer (WB+1, GA-1) |
 
-**Panzerung:**  
-Fellschurz
 
-**Ausrüstung:**  
-Fellschurz
+| Panzerung |
+| --- |
+| Fellschurz |
+
 
 **Talente:**  
 Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.

@@ -1,20 +1,25 @@
-# Schlachtross  
+### Schlachtross  
 - Gruppe: Tiere  
 
-| KÖR    | 12  | AGI      | 10 | GEI        | 1   |
-| ST     | 4   | BE       | 4  | VE         | 0   |
-| HÄ     | 3   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 75  | Abwehr   | 15 | Initiative | 14  |
-| Laufen | 9.5 | Schlagen | 18 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 9   | GK       | gr | EP         | 121 |
+| KÖR | 12 | AGI | 10 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 4 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 75 | Abwehr | 15 | Initiative | 14 |
+| Laufen | 9.5 | Schlagen | 18 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 9 | GK | gr | EP | 121 |
 
 
-**Bewaffnung:**  
-Huf/Rammen (WB+2)
+| Bewaffnung |
+| --- |
+| Huf/Rammen (WB+2) |
 
-**Panzerung:**  
+
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  

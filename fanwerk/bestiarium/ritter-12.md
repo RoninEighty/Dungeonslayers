@@ -1,4 +1,4 @@
-# Ritter 12  
+### Ritter 12  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,29 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
-| ST     | 9  | BE       | 0  | VE         | 0  |
-| HÄ     | 8  | GE       | 0  | AU         | 7  |
-|        |    |          |    |            |    |
-| LK     | 35 | Abwehr   | 27 | Initiative | 12 |
-| Laufen | 4  | Schlagen | 25 | Schiessen  | 6  |
-|        |    |          |    |            |    |
-| GH     | 16 | GK       | no | EP         | 92 |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 9 | BE | 0 | VE | 0 |
+| HÄ | 8 | GE | 0 | AU | 7 |
+|  |  |  |  |  |  |
+| LK | 35 | Abwehr | 27 | Initiative | 12 |
+| Laufen | 4 | Schlagen | 25 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 16 | GK | no | EP | 92 |
 
 
-**Bewaffnung:**  
-mag. Langschwert +3 (WB+5, INI+3, GA-3), Lanze (WB+1)
+| Bewaffnung |
+| --- |
+| mag. Langschwert +3 (WB+5, INI+3, GA-3), Lanze (WB+1) |
 
-**Panzerung:**  
-Plattenpanzer (PA+3, LA-1, Einstecker +III), Turmschild (PA+2, LA-1), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I), Plattenbeinschienen (PA+1, LA-0.5)
+
+| Panzerung |
+| --- |
+| Plattenpanzer (PA+3, LA-1, Einstecker +III), Turmschild (PA+2, LA-1), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I), Plattenbeinschienen (PA+1, LA-0.5) |
+
 
 **Ausrüstung:**  
-Plattenpanzer (PA+3, LA-1, Einstecker +III), Turmschild (PA+2, LA-1), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I), Plattenbeinschienen (PA+1, LA-0.5)
+Diadem (Aura +3), Stiefel (Flink +III)
 
 **Talente:**  
 Brutaler Hieb III: Brutaler Hieb.description

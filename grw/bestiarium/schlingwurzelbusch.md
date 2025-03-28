@@ -1,24 +1,26 @@
-# Schlingwurzelbusch  
+### Schlingwurzelbusch  
 - Gruppe: Pflanzenwesen  
 
-| KÖR    | 6   | AGI      | 8  | GEI        | 0   |
-| ST     | 3   | BE       | 0  | VE         | 0   |
-| HÄ     | 4   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 30  | Abwehr   | 11 | Initiative | 8   |
-| Laufen | 7.5 | Schlagen | 11 | Schiessen  | 8   |
-|        |     |          |    |            |     |
-| GH     | 8   | GK       | no | EP         | 122 |
+| KÖR | 6 | AGI | 8 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 4 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 30 | Abwehr | 11 | Initiative | 8 |
+| Laufen | 7.5 | Schlagen | 11 | Schiessen | 8 |
+|  |  |  |  |  |  |
+| GH | 8 | GK | no | EP | 122 |
 
 
-**Bewaffnung:**  
-Wurzelhiebe (WB+2)
+| Bewaffnung |
+| --- |
+| Wurzelhiebe (WB+2) |
 
-**Panzerung:**  
-Gehölz (PA+1)
 
-**Ausrüstung:**  
-Gehölz (PA+1)
+| Panzerung |
+| --- |
+| Gehölz (PA+1) |
+
 
 **Talente:**  
 Mehrere Angriffe (+4): Kann 4 zusätzliche Hiebe mit seinen unzähligen Wurzeln in jeder Runde aktionsfrei ausführen.

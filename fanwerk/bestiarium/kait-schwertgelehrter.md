@@ -1,4 +1,4 @@
-# Kait Schwertgelehrter  
+### Kait Schwertgelehrter  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8  | AGI      | 4  | GEI        | 8  |
-| ST     | 4  | BE       | 0  | VE         | 3  |
-| HÄ     | 0  | GE       | 0  | AU         | 3  |
-|        |    |          |    |            |    |
-| LK     | 21 | Abwehr   | 11 | Initiative | 7  |
-| Laufen | 4  | Schlagen | 14 | Schiessen  | 4  |
-|        |    |          |    |            |    |
-| GH     | 2  | GK       | no | EP         | 55 |
+| KÖR | 8 | AGI | 4 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 3 |
+| HÄ | 0 | GE | 0 | AU | 3 |
+|  |  |  |  |  |  |
+| LK | 21 | Abwehr | 11 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 14 | Schiessen | 4 |
+|  |  |  |  |  |  |
+| GH | 2 | GK | no | EP | 55 |
 
 
-**Bewaffnung:**  
-Langschwert (WB+2), Dolch (INI+1)
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2), Dolch (INI+1) |
 
-**Panzerung:**  
-Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1) |
+
 
 **Talente:**  
 Bildung I: Bildung.description

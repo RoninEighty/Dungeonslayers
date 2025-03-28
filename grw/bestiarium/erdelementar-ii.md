@@ -1,24 +1,26 @@
-# Erdelementar II  
+### Erdelementar II  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 17 | AGI      | 2  | GEI        | 1  |
-| ST     | 4  | BE       | 1  | VE         | 0  |
-| HÄ     | 5  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 32 | Abwehr   | 26 | Initiative | 3  |
-| Laufen | 2  | Schlagen | 25 | Schiessen  | 2  |
-|        |    |          |    |            |    |
-| GH     | 15 | GK       | no | EP         | 70 |
+| KÖR | 17 | AGI | 2 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 1 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 32 | Abwehr | 26 | Initiative | 3 |
+| Laufen | 2 | Schlagen | 25 | Schiessen | 2 |
+|  |  |  |  |  |  |
+| GH | 15 | GK | no | EP | 70 |
 
 
-**Bewaffnung:**  
-Steinpranke (WB+4)
+| Bewaffnung |
+| --- |
+| Steinpranke (WB+4) |
 
-**Panzerung:**  
-Steinwesen (PA+4)
 
-**Ausrüstung:**  
-Steinwesen (PA+4)
+| Panzerung |
+| --- |
+| Steinwesen (PA+4) |
+
 
 **Talente:**  
 Anfällig: Anfällig.description

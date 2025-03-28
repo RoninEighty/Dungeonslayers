@@ -1,4 +1,4 @@
-# Brasko  
+### Brasko  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,29 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 7  | AGI      | 6  | GEI        | 7  |
-| ST     | 4  | BE       | 0  | VE         | 2  |
-| HÄ     | 4  | GE       | 0  | AU         | 4  |
-|        |    |          |    |            |    |
-| LK     | 21 | Abwehr   | 16 | Initiative | 6  |
-| Laufen | 4  | Schlagen | 13 | Schiessen  | 6  |
-|        |    |          |    |            |    |
-| GH     | 3  | GK       | no | EP         | 59 |
+| KÖR | 7 | AGI | 6 | GEI | 7 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 2 |
+| HÄ | 4 | GE | 0 | AU | 4 |
+|  |  |  |  |  |  |
+| LK | 21 | Abwehr | 16 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 13 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 3 | GK | no | EP | 59 |
 
 
-**Bewaffnung:**  
-Krummschwert (WB+2, Sehnenschneider +I, Verletzen +I)
+| Bewaffnung |
+| --- |
+| Krummschwert (WB+2, Sehnenschneider +I, Verletzen +I) |
 
-**Panzerung:**  
-mag. Holzschild +1 (PA+2, Zauber: Flackern eingebettet)
+
+| Panzerung |
+| --- |
+| mag. Holzschild +1 (PA+2, Zauber: Flackern eingebettet) |
+
 
 **Ausrüstung:**  
-mag. Holzschild +1 (PA+2, Zauber: Flackern eingebettet)
+Stirnreif (Aura +2, Charmant +I, Schlitzohr +I)
 
 **Talente:**  
 Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.

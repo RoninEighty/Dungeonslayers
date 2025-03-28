@@ -1,4 +1,4 @@
-# Die Eiskönigin  
+### Die Eiskönigin  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Elementarist  
@@ -7,24 +7,29 @@
 
 - Upgrade: Episch  
 
-| KÖR    | 6   | AGI      | 6  | GEI        | 8   |
-| ST     | 0   | BE       | 0  | VE         | 10  |
-| HÄ     | 4   | GE       | 4  | AU         | 14  |
-|        |     |          |    |            |     |
-| LK     | 209 | Abwehr   | 17 | Initiative | 9   |
-| Laufen | 4   | Schlagen | 10 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 14  | GK       | no | EP         | 628 |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 10 |
+| HÄ | 4 | GE | 4 | AU | 14 |
+|  |  |  |  |  |  |
+| LK | 209 | Abwehr | 17 | Initiative | 9 |
+| Laufen | 4 | Schlagen | 10 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 14 | GK | no | EP | 628 |
 
 
-**Bewaffnung:**  
-mag. Kampfstab (2h) +3 (WB+4, INI+3, GA-3, Zielzauber +1, Eismagier +V)
+| Bewaffnung |
+| --- |
+| mag. Kampfstab (2h) +3 (WB+4, INI+3, GA-3, Zielzauber +1, Eismagier +V) |
 
-**Panzerung:**  
-mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I)
+
+| Panzerung |
+| --- |
+| mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I) |
+
 
 **Ausrüstung:**  
-mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I)
+Diadem (Diener der Dunkelheit +II, Zauber: Halt eingebettet), Ring (Aura +3, Zauber: Gehorche eingebettet, Zauber: Freund eingebettet)
 
 **Talente:**  
 Diener der Dunkelheit III: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.

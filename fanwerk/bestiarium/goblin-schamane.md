@@ -1,25 +1,27 @@
-# Goblin Schamane  
+### Goblin Schamane  
 - Gruppe: Humanoide  
 - Upgrade: Anführer  
 
-| KÖR    | 4  | AGI      | 6  | GEI        | 5   |
-| ST     | 0  | BE       | 1  | VE         | 2   |
-| HÄ     | 1  | GE       | 3  | AU         | 5   |
-|        |    |          |    |            |     |
-| LK     | 15 | Abwehr   | 7  | Initiative | 7   |
-| Laufen | 4  | Schlagen | 5  | Schiessen  | 9   |
-|        |    |          |    |            |     |
-| GH     | 1  | GK       | kl | EP         | 112 |
+| KÖR | 4 | AGI | 6 | GEI | 5 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 1 | VE | 2 |
+| HÄ | 1 | GE | 3 | AU | 5 |
+|  |  |  |  |  |  |
+| LK | 15 | Abwehr | 7 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 5 | Schiessen | 9 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | kl | EP | 112 |
 
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.

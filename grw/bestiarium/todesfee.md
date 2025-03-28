@@ -1,24 +1,26 @@
-# Todesfee  
+### Todesfee  
 - Gruppe: Untote  
 
-| KÖR    | 6   | AGI      | 9  | GEI        | 10  |
-| ST     | 19  | BE       | 0  | VE         | 3   |
-| HÄ     | 19  | GE       | 0  | AU         | 9   |
-|        |     |          |    |            |     |
-| LK     | 35  | Abwehr   | 33 | Initiative | 9   |
-| Laufen | 5.5 | Schlagen | 27 | Schiessen  | 9   |
-|        |     |          |    |            |     |
-| GH     | 31  | GK       | no | EP         | 287 |
+| KÖR | 6 | AGI | 9 | GEI | 10 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 19 | BE | 0 | VE | 3 |
+| HÄ | 19 | GE | 0 | AU | 9 |
+|  |  |  |  |  |  |
+| LK | 35 | Abwehr | 33 | Initiative | 9 |
+| Laufen | 5.5 | Schlagen | 27 | Schiessen | 9 |
+|  |  |  |  |  |  |
+| GH | 31 | GK | no | EP | 287 |
 
 
-**Bewaffnung:**  
-Geisterklaue (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Geisterklaue (WB+2, GA-2) |
 
-**Panzerung:**  
-Körperlos (PA+8)
 
-**Ausrüstung:**  
-Körperlos (PA+8)
+| Panzerung |
+| --- |
+| Körperlos (PA+8) |
+
 
 **Talente:**  
 Angst: Angst.description

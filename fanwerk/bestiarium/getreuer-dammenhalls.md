@@ -1,25 +1,27 @@
-# Getreuer Dammenhalls  
+### Getreuer Dammenhalls  
 - Gruppe: Untote  
 - Upgrade: Heroisch  
 
-| KÖR    | 10  | AGI      | 8  | GEI        | 0   |
-| ST     | 8   | BE       | 2  | VE         | 0   |
-| HÄ     | 8   | GE       | 2  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 140 | Abwehr   | 27 | Initiative | 11  |
-| Laufen | 5   | Schlagen | 23 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 22  | GK       | no | EP         | 428 |
+| KÖR | 10 | AGI | 8 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 8 | BE | 2 | VE | 0 |
+| HÄ | 8 | GE | 2 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 140 | Abwehr | 27 | Initiative | 11 |
+| Laufen | 5 | Schlagen | 23 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 22 | GK | no | EP | 428 |
 
 
-**Bewaffnung:**  
-mag. Langschwert +1 (WB+3, INI+1, GA-1)
+| Bewaffnung |
+| --- |
+| mag. Langschwert +1 (WB+3, INI+1, GA-1) |
 
-**Panzerung:**  
-mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2)
 
-**Ausrüstung:**  
-mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2)
+| Panzerung |
+| --- |
+| mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2) |
+
 
 **Talente:**  
 Angst: Angst.description

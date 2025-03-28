@@ -1,4 +1,4 @@
-# Zasarischer Feuermagier  
+### Zasarischer Feuermagier  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Zauberer  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
-| ST     | 0  | BE       | 0  | VE         | 1  |
-| HÄ     | 2  | GE       | 4  | AU         | 4  |
-|        |    |          |    |            |    |
-| LK     | 21 | Abwehr   | 8  | Initiative | 6  |
-| Laufen | 4  | Schlagen | 7  | Schiessen  | 10 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 57 |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 1 |
+| HÄ | 2 | GE | 4 | AU | 4 |
+|  |  |  |  |  |  |
+| LK | 21 | Abwehr | 8 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 7 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 57 |
 
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Bildung I: Bildung.description

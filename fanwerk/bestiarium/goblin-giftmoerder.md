@@ -1,24 +1,26 @@
-# Goblin Giftmörder  
+### Goblin Giftmörder  
 - Gruppe: Humanoide  
 
-| KÖR    | 6   | AGI      | 7  | GEI        | 2  |
-| ST     | 4   | BE       | 2  | VE         | 0  |
-| HÄ     | 1   | GE       | 2  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 9   | Abwehr   | 7  | Initiative | 9  |
-| Laufen | 4.5 | Schlagen | 10 | Schiessen  | 9  |
-|        |     |          |    |            |    |
-| GH     | 2   | GK       | kl | EP         | 63 |
+| KÖR | 6 | AGI | 7 | GEI | 2 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 2 | VE | 0 |
+| HÄ | 1 | GE | 2 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 9 | Abwehr | 7 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 10 | Schiessen | 9 |
+|  |  |  |  |  |  |
+| GH | 2 | GK | kl | EP | 63 |
 
 
-**Bewaffnung:**  
-Dolch
+| Bewaffnung |
+| --- |
+| Dolch |
 
-**Panzerung:**  
-Dunkler Lumpenumhang
 
-**Ausrüstung:**  
-Dunkler Lumpenumhang
+| Panzerung |
+| --- |
+| Dunkler Lumpenumhang |
+
 
 **Talente:**  
 Gift: Gift.description

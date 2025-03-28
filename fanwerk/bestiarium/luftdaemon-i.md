@@ -1,24 +1,26 @@
-# Luftdämon I  
+### Luftdämon I  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 7  | AGI      | 8  | GEI        | 6   |
-| ST     | 5  | BE       | 3  | VE         | 3   |
-| HÄ     | 3  | GE       | 3  | AU         | 3   |
-|        |    |          |    |            |     |
-| LK     | 20 | Abwehr   | 14 | Initiative | 11  |
-| Laufen | 5  | Schlagen | 14 | Schiessen  | 13  |
-|        |    |          |    |            |     |
-| GH     | 6  | GK       | no | EP         | 106 |
+| KÖR | 7 | AGI | 8 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 3 | VE | 3 |
+| HÄ | 3 | GE | 3 | AU | 3 |
+|  |  |  |  |  |  |
+| LK | 20 | Abwehr | 14 | Initiative | 11 |
+| Laufen | 5 | Schlagen | 14 | Schiessen | 13 |
+|  |  |  |  |  |  |
+| GH | 6 | GK | no | EP | 106 |
 
 
-**Bewaffnung:**  
-Klauen (WB+2, GA-1), Luftstoß (WB+2)
+| Bewaffnung |
+| --- |
+| Klauen (WB+2, GA-1), Luftstoß (WB+2) |
 
-**Panzerung:**  
-Keine feste Gestalt (PA+4)
 
-**Ausrüstung:**  
-Keine feste Gestalt (PA+4)
+| Panzerung |
+| --- |
+| Keine feste Gestalt (PA+4) |
+
 
 **Talente:**  
 Anfällig: Anfällig.description

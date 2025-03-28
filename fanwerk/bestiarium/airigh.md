@@ -1,4 +1,4 @@
-# Airigh  
+### Airigh  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Zauberer  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
-| ST     | 0  | BE       | 0  | VE         | 6  |
-| HÄ     | 0  | GE       | 4  | AU         | 6  |
-|        |    |          |    |            |    |
-| LK     | 16 | Abwehr   | 6  | Initiative | 6  |
-| Laufen | 4  | Schlagen | 7  | Schiessen  | 10 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 72 |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 6 |
+| HÄ | 0 | GE | 4 | AU | 6 |
+|  |  |  |  |  |  |
+| LK | 16 | Abwehr | 6 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 7 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 72 |
 
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1, Zauber: Teleport eingebettet)
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1, Zauber: Teleport eingebettet) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).

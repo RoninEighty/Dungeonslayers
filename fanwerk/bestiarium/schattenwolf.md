@@ -1,24 +1,26 @@
-# Schattenwolf  
+### Schattenwolf  
 - Gruppe: Tiere  
 
-| KÖR    | 9  | AGI      | 7  | GEI        | 1  |
-| ST     | 3  | BE       | 4  | VE         | 0  |
-| HÄ     | 2  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 32 | Abwehr   | 14 | Initiative | 11 |
-| Laufen | 7  | Schlagen | 14 | Schiessen  | 7  |
-|        |    |          |    |            |    |
-| GH     | 5  | GK       | no | EP         | 88 |
+| KÖR | 9 | AGI | 7 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 4 | VE | 0 |
+| HÄ | 2 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 32 | Abwehr | 14 | Initiative | 11 |
+| Laufen | 7 | Schlagen | 14 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 5 | GK | no | EP | 88 |
 
 
-**Bewaffnung:**  
-Kräftiger Biss (WB+2, GA-1)
+| Bewaffnung |
+| --- |
+| Kräftiger Biss (WB+2, GA-1) |
 
-**Panzerung:**  
-Schattenpelz (PA+3)
 
-**Ausrüstung:**  
-Schattenpelz (PA+3)
+| Panzerung |
+| --- |
+| Schattenpelz (PA+3) |
+
 
 **Talente:**  
 Anfällig: Anfällig.description

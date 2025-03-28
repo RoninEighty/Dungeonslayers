@@ -1,24 +1,26 @@
-# Riese  
+### Riese  
 - Gruppe: Humanoide  
 
-| KÖR    | 27  | AGI      | 6  | GEI        | 2   |
-| ST     | 7   | BE       | 3  | VE         | 1   |
-| HÄ     | 7   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 220 | Abwehr   | 35 | Initiative | 9   |
-| Laufen | 6   | Schlagen | 38 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 29  | GK       | ri | EP         | 347 |
+| KÖR | 27 | AGI | 6 | GEI | 2 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 7 | BE | 3 | VE | 1 |
+| HÄ | 7 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 220 | Abwehr | 35 | Initiative | 9 |
+| Laufen | 6 | Schlagen | 38 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 29 | GK | ri | EP | 347 |
 
 
-**Bewaffnung:**  
-Baumstamm (WB+4, GA-4), Geworf. Fels (WB+4, GA-4)
+| Bewaffnung |
+| --- |
+| Baumstamm (WB+4, GA-4), Geworf. Fels (WB+4, GA-4) |
 
-**Panzerung:**  
-Felle (PA+1)
 
-**Ausrüstung:**  
-Felle (PA+1)
+| Panzerung |
+| --- |
+| Felle (PA+1) |
+
 
 **Talente:**  
 Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers.

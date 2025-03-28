@@ -1,4 +1,4 @@
-# Rattling Kriegshäuptling  
+### Rattling Kriegshäuptling  
 - Gruppe: Rattling  
 - Volk: Rattling  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR    | 7   | AGI      | 8  | GEI        | 5  |
-| ST     | 5   | BE       | 3  | VE         | 1  |
-| HÄ     | 6   | GE       | 1  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 32  | Abwehr   | 19 | Initiative | 11 |
-| Laufen | 6.5 | Schlagen | 17 | Schiessen  | 10 |
-|        |     |          |    |            |    |
-| GH     | 5   | GK       | kl | EP         | 75 |
+| KÖR | 7 | AGI | 8 | GEI | 5 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 3 | VE | 1 |
+| HÄ | 6 | GE | 1 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 32 | Abwehr | 19 | Initiative | 11 |
+| Laufen | 6.5 | Schlagen | 17 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 5 | GK | kl | EP | 75 |
 
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1), mag. Krummsäbel +1 (WB+2, INI+1, GA-1)
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1), mag. Krummsäbel +1 (WB+2, INI+1, GA-1) |
 
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1)
 
-**Ausrüstung:**  
-Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1)
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5), Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1) |
+
 
 **Talente:**  
 Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.

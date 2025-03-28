@@ -1,24 +1,26 @@
-# Sensenmann  
+### Sensenmann  
 - Gruppe: Untote  
 
-| KÖR    | 10  | AGI      | 7  | GEI        | 8   |
-| ST     | 20  | BE       | 3  | VE         | 4   |
-| HÄ     | 20  | GE       | 5  | AU         | 6   |
-|        |     |          |    |            |     |
-| LK     | 40  | Abwehr   | 38 | Initiative | 9   |
-| Laufen | 4.5 | Schlagen | 37 | Schiessen  | 12  |
-|        |     |          |    |            |     |
-| GH     | 36  | GK       | no | EP         | 430 |
+| KÖR | 10 | AGI | 7 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 20 | BE | 3 | VE | 4 |
+| HÄ | 20 | GE | 5 | AU | 6 |
+|  |  |  |  |  |  |
+| LK | 40 | Abwehr | 38 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 37 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 36 | GK | no | EP | 430 |
 
 
-**Bewaffnung:**  
-Sense (WB+7, INI-1, GA-7)
+| Bewaffnung |
+| --- |
+| Sense (WB+7, INI-1, GA-7) |
 
-**Panzerung:**  
-Körperlos (PA+8)
 
-**Ausrüstung:**  
-Körperlos (PA+8)
+| Panzerung |
+| --- |
+| Körperlos (PA+8) |
+
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -5 auf alle Proben. Bei einem Patzer ergreift man die Flucht.

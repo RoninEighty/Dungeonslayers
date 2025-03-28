@@ -1,24 +1,26 @@
-# Rattenoger  
+### Rattenoger  
 - Gruppe: Humanoide  
 
-| KÖR    | 11  | AGI      | 6  | GEI        | 3   |
-| ST     | 5   | BE       | 2  | VE         | 1   |
-| HÄ     | 3   | GE       | 1  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 48  | Abwehr   | 15 | Initiative | 8   |
-| Laufen | 4.5 | Schlagen | 18 | Schiessen  | 7   |
-|        |     |          |    |            |     |
-| GH     | 11  | GK       | gr | EP         | 142 |
+| KÖR | 11 | AGI | 6 | GEI | 3 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 2 | VE | 1 |
+| HÄ | 3 | GE | 1 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 48 | Abwehr | 15 | Initiative | 8 |
+| Laufen | 4.5 | Schlagen | 18 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 11 | GK | gr | EP | 142 |
 
 
-**Bewaffnung:**  
-Krallen (WB+2, GA-2), Spitze Zähne (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Krallen (WB+2, GA-2), Spitze Zähne (WB+2, GA-2) |
 
-**Panzerung:**  
-Fell (PA+1)
 
-**Ausrüstung:**  
-Fell (PA+1)
+| Panzerung |
+| --- |
+| Fell (PA+1) |
+
 
 **Talente:**  
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.

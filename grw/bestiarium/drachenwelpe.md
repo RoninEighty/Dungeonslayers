@@ -1,24 +1,26 @@
-# Drachenwelpe  
+### Drachenwelpe  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 9    | AGI      | 11 | GEI        | 5   |
-| ST     | 2    | BE       | 3  | VE         | 1   |
-| HÄ     | 2    | GE       | 3  | AU         | 2   |
-|        |      |          |    |            |     |
-| LK     | 63   | Abwehr   | 14 | Initiative | 14  |
-| Laufen | 10.5 | Schlagen | 14 | Schiessen  | 17  |
-|        |      |          |    |            |     |
-| GH     | 20   | GK       | gr | EP         | 270 |
+| KÖR | 9 | AGI | 11 | GEI | 5 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 2 | BE | 3 | VE | 1 |
+| HÄ | 2 | GE | 3 | AU | 2 |
+|  |  |  |  |  |  |
+| LK | 63 | Abwehr | 14 | Initiative | 14 |
+| Laufen | 10.5 | Schlagen | 14 | Schiessen | 17 |
+|  |  |  |  |  |  |
+| GH | 20 | GK | gr | EP | 270 |
 
 
-**Bewaffnung:**  
-Biss, Klaue, Odem oder Schwanzhieb (WB+3, GA-2)
+| Bewaffnung |
+| --- |
+| Biss, Klaue, Odem oder Schwanzhieb (WB+3, GA-2) |
 
-**Panzerung:**  
-Drachenschuppen (PA+3)
 
-**Ausrüstung:**  
-Drachenschuppen (PA+3)
+| Panzerung |
+| --- |
+| Drachenschuppen (PA+3) |
+
 
 **Talente:**  
 Angst: Angst.description

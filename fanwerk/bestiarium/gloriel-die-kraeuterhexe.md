@@ -1,4 +1,4 @@
-# Gloriel 'Die Kräuterhexe'  
+### Gloriel 'Die Kräuterhexe'  
 - Gruppe: Elf  
 - Volk: Elf  
 - Klasse: Schwarzmagier  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR    | 7   | AGI      | 5  | GEI        | 8  |
-| ST     | 0   | BE       | 0  | VE         | 3  |
-| HÄ     | 2   | GE       | 3  | AU         | 3  |
-|        |     |          |    |            |    |
-| LK     | 19  | Abwehr   | 9  | Initiative | 6  |
-| Laufen | 3.5 | Schlagen | 7  | Schiessen  | 9  |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 54 |
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 0 | VE | 3 |
+| HÄ | 2 | GE | 3 | AU | 3 |
+|  |  |  |  |  |  |
+| LK | 19 | Abwehr | 9 | Initiative | 6 |
+| Laufen | 3.5 | Schlagen | 7 | Schiessen | 9 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 54 |
 
 
-**Bewaffnung:**  
-Dolch (INI+1)
+| Bewaffnung |
+| --- |
+| Dolch (INI+1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Alchemie I: Alchemie.description

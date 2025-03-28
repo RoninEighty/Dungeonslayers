@@ -1,24 +1,26 @@
-# Dämonenfürst  
+### Dämonenfürst  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 20  | AGI      | 20 | GEI        | 10  |
-| ST     | 10  | BE       | 10 | VE         | 5   |
-| HÄ     | 10  | GE       | 10 | AU         | 5   |
-|        |     |          |    |            |     |
-| LK     | 400 | Abwehr   | 32 | Initiative | 30  |
-| Laufen | 16  | Schlagen | 35 | Schiessen  | 30  |
-|        |     |          |    |            |     |
-| GH     | 42  | GK       | ge | EP         | 579 |
+| KÖR | 20 | AGI | 20 | GEI | 10 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 10 | BE | 10 | VE | 5 |
+| HÄ | 10 | GE | 10 | AU | 5 |
+|  |  |  |  |  |  |
+| LK | 400 | Abwehr | 32 | Initiative | 30 |
+| Laufen | 16 | Schlagen | 35 | Schiessen | 30 |
+|  |  |  |  |  |  |
+| GH | 42 | GK | ge | EP | 579 |
 
 
-**Bewaffnung:**  
-Pranke (WB+5, GA-5)
+| Bewaffnung |
+| --- |
+| Pranke (WB+5, GA-5) |
 
-**Panzerung:**  
-Dämonenhaut (PA+2)
 
-**Ausrüstung:**  
-Dämonenhaut (PA+2)
+| Panzerung |
+| --- |
+| Dämonenhaut (PA+2) |
+
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.

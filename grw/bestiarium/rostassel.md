@@ -1,24 +1,26 @@
-# Rostassel  
+### Rostassel  
 - Gruppe: Tiere  
 
-| KÖR    | 8  | AGI      | 7  | GEI        | 1   |
-| ST     | 4  | BE       | 0  | VE         | 0   |
-| HÄ     | 4  | GE       | 0  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 33 | Abwehr   | 15 | Initiative | 7   |
-| Laufen | 7  | Schlagen | 13 | Schiessen  | 7   |
-|        |    |          |    |            |     |
-| GH     | 8  | GK       | no | EP         | 111 |
+| KÖR | 8 | AGI | 7 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 4 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 33 | Abwehr | 15 | Initiative | 7 |
+| Laufen | 7 | Schlagen | 13 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 8 | GK | no | EP | 111 |
 
 
-**Bewaffnung:**  
-Tentakelfühler (WB+1)
+| Bewaffnung |
+| --- |
+| Tentakelfühler (WB+1) |
 
-**Panzerung:**  
-Chitinpanzer (PA+3)
 
-**Ausrüstung:**  
-Chitinpanzer (PA+3)
+| Panzerung |
+| --- |
+| Chitinpanzer (PA+3) |
+
 
 **Talente:**  
 Mehrere Angriffe (+3): Kann mit seinen insgesamt vier Tentakelfühler 3 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.

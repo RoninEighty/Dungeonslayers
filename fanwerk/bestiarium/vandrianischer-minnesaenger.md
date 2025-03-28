@@ -1,4 +1,4 @@
-# Vandrianischer Minnesänger  
+### Vandrianischer Minnesänger  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
-| ST     | 4  | BE       | 0  | VE         | 0  |
-| HÄ     | 3  | GE       | 0  | AU         | 3  |
-|        |    |          |    |            |    |
-| LK     | 21 | Abwehr   | 13 | Initiative | 6  |
-| Laufen | 4  | Schlagen | 15 | Schiessen  | 6  |
-|        |    |          |    |            |    |
-| GH     | 3  | GK       | no | EP         | 54 |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 3 |
+|  |  |  |  |  |  |
+| LK | 21 | Abwehr | 13 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 15 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 3 | GK | no | EP | 54 |
 
 
-**Bewaffnung:**  
-Langschwert (WB+2), Lanze (WB+1)
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2), Lanze (WB+1) |
 
-**Panzerung:**  
-Lederpanzer (PA+1)
 
-**Ausrüstung:**  
-Lederpanzer (PA+1)
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
+
 
 **Talente:**  
 Charmant I: Charmant.description

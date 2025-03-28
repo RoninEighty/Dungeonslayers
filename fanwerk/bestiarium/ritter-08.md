@@ -1,4 +1,4 @@
-# Ritter 08  
+### Ritter 08  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,29 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
-| ST     | 7  | BE       | 0  | VE         | 0  |
-| HÄ     | 6  | GE       | 0  | AU         | 4  |
-|        |    |          |    |            |    |
-| LK     | 33 | Abwehr   | 25 | Initiative | 12 |
-| Laufen | 4  | Schlagen | 23 | Schiessen  | 6  |
-|        |    |          |    |            |    |
-| GH     | 13 | GK       | no | EP         | 83 |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 7 | BE | 0 | VE | 0 |
+| HÄ | 6 | GE | 0 | AU | 4 |
+|  |  |  |  |  |  |
+| LK | 33 | Abwehr | 25 | Initiative | 12 |
+| Laufen | 4 | Schlagen | 23 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 13 | GK | no | EP | 83 |
 
 
-**Bewaffnung:**  
-mag. Langschwert +3 (WB+5, INI+3, GA-3), Lanze (WB+1)
+| Bewaffnung |
+| --- |
+| mag. Langschwert +3 (WB+5, INI+3, GA-3), Lanze (WB+1) |
 
-**Panzerung:**  
-Plattenpanzer (PA+3, LA-1, Einstecker +III), Turmschild (PA+2, LA-1), Plattenbeinschienen (PA+1, LA-0.5), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I)
+
+| Panzerung |
+| --- |
+| Plattenpanzer (PA+3, LA-1, Einstecker +III), Turmschild (PA+2, LA-1), Plattenbeinschienen (PA+1, LA-0.5), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I) |
+
 
 **Ausrüstung:**  
-Plattenpanzer (PA+3, LA-1, Einstecker +III), Turmschild (PA+2, LA-1), Plattenbeinschienen (PA+1, LA-0.5), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I)
+Stiefel (Flink +III)
 
 **Talente:**  
 Kämpfer III: Schlagen +1 pro Talentrang.

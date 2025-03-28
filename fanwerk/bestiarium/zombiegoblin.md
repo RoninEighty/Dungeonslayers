@@ -1,24 +1,26 @@
-# Zombiegoblin  
+### Zombiegoblin  
 - Gruppe: Untote  
 
-| KÖR    | 5   | AGI      | 7  | GEI        | 0  |
-| ST     | 4   | BE       | 0  | VE         | 0  |
-| HÄ     | 2   | GE       | 0  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 9   | Abwehr   | 9  | Initiative | 7  |
-| Laufen | 4.5 | Schlagen | 11 | Schiessen  | 7  |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | kl | EP         | 46 |
+| KÖR | 5 | AGI | 7 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 2 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 9 | Abwehr | 9 | Initiative | 7 |
+| Laufen | 4.5 | Schlagen | 11 | Schiessen | 7 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | kl | EP | 46 |
 
 
-**Bewaffnung:**  
-Knochenpranke (WB+2)
+| Bewaffnung |
+| --- |
+| Knochenpranke (WB+2) |
 
-**Panzerung:**  
-Merkt nichts (PA+2)
 
-**Ausrüstung:**  
-Merkt nichts (PA+2)
+| Panzerung |
+| --- |
+| Merkt nichts (PA+2) |
+
 
 **Talente:**  
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.

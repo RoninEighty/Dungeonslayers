@@ -1,4 +1,4 @@
-# Nico Mavelli  
+### Nico Mavelli  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Blutmagier  
@@ -7,24 +7,29 @@
 
 - Upgrade: Heroisch  
 
-| KÖR    | 7   | AGI      | 5  | GEI        | 8   |
-| ST     | 3   | BE       | 0  | VE         | 5   |
-| HÄ     | 6   | GE       | 5  | AU         | 10  |
-|        |     |          |    |            |     |
-| LK     | 130 | Abwehr   | 18 | Initiative | 8   |
-| Laufen | 4.5 | Schlagen | 16 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 11  | GK       | no | EP         | 436 |
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 3 | BE | 0 | VE | 5 |
+| HÄ | 6 | GE | 5 | AU | 10 |
+|  |  |  |  |  |  |
+| LK | 130 | Abwehr | 18 | Initiative | 8 |
+| Laufen | 4.5 | Schlagen | 16 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 11 | GK | no | EP | 436 |
 
 
-**Bewaffnung:**  
-mag. Keule +3 (WB+4, INI+3, GA-3)
+| Bewaffnung |
+| --- |
+| mag. Keule +3 (WB+4, INI+3, GA-3) |
 
-**Panzerung:**  
-mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
+
+| Panzerung |
+| --- |
+| mag. Robe (runenbestickt) +1 (PA+1, Aura +1) |
+
 
 **Ausrüstung:**  
-mag. Robe (runenbestickt) +1 (PA+1, Aura +1)
+Halskrause des Leids (Aura +2, Zauberqual +III), Kette des Leids (Zielzauber +2, Einstecker +II), Mantel der Leids (Verstand +1, Schmerzhafter Wechsel +I), Ring (Abklingzeit aller Zauber des Trägers verkürzt um 1 Runden), Ring (Abwehr +2), Scherpe des Leid (Körperexplosion +2, Stärke +2, Zauber: Körperexplosion eingebettet), Stab (Zauber: Schattenpfeil als Zauberstab)
 
 **Talente:**  
 Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.

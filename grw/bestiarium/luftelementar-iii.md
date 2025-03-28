@@ -1,24 +1,26 @@
-# Luftelementar III  
+### Luftelementar III  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 15 | AGI      | 9  | GEI        | 1   |
-| ST     | 2  | BE       | 0  | VE         | 0   |
-| HÄ     | 7  | GE       | 4  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 64 | Abwehr   | 30 | Initiative | 9   |
-| Laufen | 6  | Schlagen | 21 | Schiessen  | 17  |
-|        |    |          |    |            |     |
-| GH     | 16 | GK       | gr | EP         | 143 |
+| KÖR | 15 | AGI | 9 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 2 | BE | 0 | VE | 0 |
+| HÄ | 7 | GE | 4 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 64 | Abwehr | 30 | Initiative | 9 |
+| Laufen | 6 | Schlagen | 21 | Schiessen | 17 |
+|  |  |  |  |  |  |
+| GH | 16 | GK | gr | EP | 143 |
 
 
-**Bewaffnung:**  
-Luftstoß (WB+4)
+| Bewaffnung |
+| --- |
+| Luftstoß (WB+4) |
 
-**Panzerung:**  
-Keine feste Gestalt (PA+8)
 
-**Ausrüstung:**  
-Keine feste Gestalt (PA+8)
+| Panzerung |
+| --- |
+| Keine feste Gestalt (PA+8) |
+
 
 **Talente:**  
 Anfällig: Anfällig.description

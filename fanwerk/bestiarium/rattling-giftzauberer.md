@@ -1,4 +1,4 @@
-# Rattling Giftzauberer  
+### Rattling Giftzauberer  
 - Gruppe: Rattling  
 - Volk: Rattling  
 - Klasse: Schwarzmagier  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
-| ST     | 0   | BE       | 1  | VE         | 3  |
-| HÄ     | 1   | GE       | 6  | AU         | 5  |
-|        |     |          |    |            |    |
-| LK     | 19  | Abwehr   | 6  | Initiative | 8  |
-| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 13 |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | kl | EP         | 71 |
+| KÖR | 5 | AGI | 7 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 1 | VE | 3 |
+| HÄ | 1 | GE | 6 | AU | 5 |
+|  |  |  |  |  |  |
+| LK | 19 | Abwehr | 6 | Initiative | 8 |
+| Laufen | 4.5 | Schlagen | 6 | Schiessen | 13 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | kl | EP | 71 |
 
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Alchemie II: Alchemie.description

@@ -1,24 +1,26 @@
-# Riesensumpfotter  
+### Riesensumpfotter  
 - Gruppe: Tiere  
 
-| KÖR    | 12  | AGI      | 10 | GEI        | 1   |
-| ST     | 6   | BE       | 2  | VE         | 0   |
-| HÄ     | 3   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 188 | Abwehr   | 17 | Initiative | 12  |
-| Laufen | 11  | Schlagen | 20 | Schiessen  | 10  |
-|        |     |          |    |            |     |
-| GH     | 20  | GK       | ri | EP         | 291 |
+| KÖR | 12 | AGI | 10 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 6 | BE | 2 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 188 | Abwehr | 17 | Initiative | 12 |
+| Laufen | 11 | Schlagen | 20 | Schiessen | 10 |
+|  |  |  |  |  |  |
+| GH | 20 | GK | ri | EP | 291 |
 
 
-**Bewaffnung:**  
-Biss (WB+2, GA-2)
+| Bewaffnung |
+| --- |
+| Biss (WB+2, GA-2) |
 
-**Panzerung:**  
-Schuppenpanzer (PA+2)
 
-**Ausrüstung:**  
-Schuppenpanzer (PA+2)
+| Panzerung |
+| --- |
+| Schuppenpanzer (PA+2) |
+
 
 **Talente:**  
 Gift: Gift.description

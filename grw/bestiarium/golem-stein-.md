@@ -1,24 +1,26 @@
-# Golem, Stein-  
+### Golem, Stein-  
 - Gruppe: Konstrukte  
 
-| KÖR    | 18  | AGI      | 4  | GEI        | 4   |
-| ST     | 4   | BE       | 0  | VE         | 0   |
-| HÄ     | 5   | GE       | 2  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 66  | Abwehr   | 27 | Initiative | 4   |
-| Laufen | 3.5 | Schlagen | 26 | Schiessen  | 6   |
-|        |     |          |    |            |     |
-| GH     | 23  | GK       | gr | EP         | 163 |
+| KÖR | 18 | AGI | 4 | GEI | 4 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 2 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 66 | Abwehr | 27 | Initiative | 4 |
+| Laufen | 3.5 | Schlagen | 26 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 23 | GK | gr | EP | 163 |
 
 
-**Bewaffnung:**  
-Steinpranke (WB+4)
+| Bewaffnung |
+| --- |
+| Steinpranke (WB+4) |
 
-**Panzerung:**  
-Steinwesen (PA+4)
 
-**Ausrüstung:**  
-Steinwesen (PA+4)
+| Panzerung |
+| --- |
+| Steinwesen (PA+4) |
+
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.

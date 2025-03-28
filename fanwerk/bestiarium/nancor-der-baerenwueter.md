@@ -1,4 +1,4 @@
-# Nancor der Bärenwüter  
+### Nancor der Bärenwüter  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8  | AGI      | 6  | GEI        | 6   |
-| ST     | 8  | BE       | 1  | VE         | 0   |
-| HÄ     | 7  | GE       | 0  | AU         | 2   |
-|        |    |          |    |            |     |
-| LK     | 34 | Abwehr   | 18 | Initiative | 1   |
-| Laufen | 4  | Schlagen | 23 | Schiessen  | 6   |
-|        |    |          |    |            |     |
-| GH     | 11 | GK       | no | EP         | 119 |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 8 | BE | 1 | VE | 0 |
+| HÄ | 7 | GE | 0 | AU | 2 |
+|  |  |  |  |  |  |
+| LK | 34 | Abwehr | 18 | Initiative | 1 |
+| Laufen | 4 | Schlagen | 23 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 11 | GK | no | EP | 119 |
 
 
-**Bewaffnung:**  
-Schlachtbeil (2h) (WB+4, INI-6, GA-4, Raserei +I, Schlachtruf +I, Rundumschlag +I)
+| Bewaffnung |
+| --- |
+| Schlachtbeil (2h) (WB+4, INI-6, GA-4, Raserei +I, Schlachtruf +I, Rundumschlag +I) |
 
-**Panzerung:**  
-mag. Kettenpanzer +1 (PA+3)
 
-**Ausrüstung:**  
-mag. Kettenpanzer +1 (PA+3)
+| Panzerung |
+| --- |
+| mag. Kettenpanzer +1 (PA+3) |
+
 
 **Talente:**  
 Brutaler Hieb III: Brutaler Hieb.description

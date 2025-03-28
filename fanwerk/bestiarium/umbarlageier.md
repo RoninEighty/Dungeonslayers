@@ -1,24 +1,26 @@
-# Umbarlageier  
+### Umbarlageier  
 - Gruppe: Tiere  
 
-| KÖR    | 6  | AGI      | 9  | GEI        | 3   |
-| ST     | 4  | BE       | 3  | VE         | 2   |
-| HÄ     | 2  | GE       | 3  | AU         | 2   |
-|        |    |          |    |            |     |
-| LK     | 36 | Abwehr   | 9  | Initiative | 12  |
-| Laufen | 6  | Schlagen | 12 | Schiessen  | 12  |
-|        |    |          |    |            |     |
-| GH     | 3  | GK       | gr | EP         | 131 |
+| KÖR | 6 | AGI | 9 | GEI | 3 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 4 | BE | 3 | VE | 2 |
+| HÄ | 2 | GE | 3 | AU | 2 |
+|  |  |  |  |  |  |
+| LK | 36 | Abwehr | 9 | Initiative | 12 |
+| Laufen | 6 | Schlagen | 12 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 3 | GK | gr | EP | 131 |
 
 
-**Bewaffnung:**  
-Schnabel (WB+2, GA-1)
+| Bewaffnung |
+| --- |
+| Schnabel (WB+2, GA-1) |
 
-**Panzerung:**  
-Federkleid (PA+1)
 
-**Ausrüstung:**  
-Federkleid (PA+1)
+| Panzerung |
+| --- |
+| Federkleid (PA+1) |
+
 
 **Talente:**  
 Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.

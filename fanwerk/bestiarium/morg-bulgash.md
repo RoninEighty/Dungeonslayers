@@ -1,4 +1,4 @@
-# Morg Bulgash  
+### Morg Bulgash  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 8  | AGI      | 7  | GEI        | 5  |
-| ST     | 8  | BE       | 1  | VE         | 1  |
-| HÄ     | 8  | GE       | 1  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 26 | Abwehr   | 27 | Initiative | 12 |
-| Laufen | 5  | Schlagen | 23 | Schiessen  | 8  |
-|        |    |          |    |            |    |
-| GH     | 15 | GK       | no | EP         | 98 |
+| KÖR | 8 | AGI | 7 | GEI | 5 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 8 | BE | 1 | VE | 1 |
+| HÄ | 8 | GE | 1 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 26 | Abwehr | 27 | Initiative | 12 |
+| Laufen | 5 | Schlagen | 23 | Schiessen | 8 |
+|  |  |  |  |  |  |
+| GH | 15 | GK | no | EP | 98 |
 
 
-**Bewaffnung:**  
-mag. Breitschwert +2 (WB+3, INI+2, GA-4)
+| Bewaffnung |
+| --- |
+| mag. Breitschwert +2 (WB+3, INI+2, GA-4) |
 
-**Panzerung:**  
-mag. Plattenpanzer +1 (PA+4, LA-0.5, Parade +I), mag. Plattenbeinschienen +1 (PA+2, Flink +I), mag. Plattenarmschienen +1 (PA+2, Kämpfer +I), mag. Metallhelm +1 (PA+2, Schnelle Reflexe +I)
 
-**Ausrüstung:**  
-mag. Plattenpanzer +1 (PA+4, LA-0.5, Parade +I), mag. Plattenbeinschienen +1 (PA+2, Flink +I), mag. Plattenarmschienen +1 (PA+2, Kämpfer +I), mag. Metallhelm +1 (PA+2, Schnelle Reflexe +I)
+| Panzerung |
+| --- |
+| mag. Plattenpanzer +1 (PA+4, LA-0.5, Parade +I), mag. Plattenbeinschienen +1 (PA+2, Flink +I), mag. Plattenarmschienen +1 (PA+2, Kämpfer +I), mag. Metallhelm +1 (PA+2, Schnelle Reflexe +I) |
+
 
 **Talente:**  
 Ausweichen III: Ausweichen.description

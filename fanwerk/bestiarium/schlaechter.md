@@ -1,24 +1,26 @@
-# Schlächter  
+### Schlächter  
 - Gruppe: Untote  
 
-| KÖR    | 10 | AGI      | 6  | GEI        | 5   |
-| ST     | 8  | BE       | 4  | VE         | 0   |
-| HÄ     | 8  | GE       | 4  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 28 | Abwehr   | 21 | Initiative | 10  |
-| Laufen | 4  | Schlagen | 20 | Schiessen  | 12  |
-|        |    |          |    |            |     |
-| GH     | 11 | GK       | no | EP         | 124 |
+| KÖR | 10 | AGI | 6 | GEI | 5 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 8 | BE | 4 | VE | 0 |
+| HÄ | 8 | GE | 4 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 28 | Abwehr | 21 | Initiative | 10 |
+| Laufen | 4 | Schlagen | 20 | Schiessen | 12 |
+|  |  |  |  |  |  |
+| GH | 11 | GK | no | EP | 124 |
 
 
-**Bewaffnung:**  
-Machete (WB+2), Langbogen (2h) (WB+2, INI+1)
+| Bewaffnung |
+| --- |
+| Machete (WB+2), Langbogen (2h) (WB+2, INI+1) |
 
-**Panzerung:**  
-Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
 
-**Ausrüstung:**  
-Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
+| Panzerung |
+| --- |
+| Merkt nichts (PA+2), Metallhelm (PA+1, INI-1) |
+
 
 **Talente:**  
 Auferstehung: Auferstehung.description

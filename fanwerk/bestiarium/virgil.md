@@ -1,4 +1,4 @@
-# Virgil  
+### Virgil  
 - Gruppe: Zwerg  
 - Volk: Zwerg  
 - Klasse: Späher  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
-| ST     | 0  | BE       | 6  | VE         | 2  |
-| HÄ     | 2  | GE       | 5  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 18 | Abwehr   | 9  | Initiative | 14 |
-| Laufen | 5  | Schlagen | 6  | Schiessen  | 16 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 53 |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 6 | VE | 2 |
+| HÄ | 2 | GE | 5 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 18 | Abwehr | 9 | Initiative | 14 |
+| Laufen | 5 | Schlagen | 6 | Schiessen | 16 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 53 |
 
 
-**Bewaffnung:**  
-Schleuder
+| Bewaffnung |
+| --- |
+| Schleuder |
 
-**Panzerung:**  
-Lumpen
 
-**Ausrüstung:**  
-Lumpen
+| Panzerung |
+| --- |
+| Lumpen |
+
 
 **Talente:**  
 Heimlichkeit III: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.

@@ -1,4 +1,4 @@
-# Varissa  
+### Varissa  
 - Gruppe: Elf  
 - Volk: Elf  
 - Klasse: Heiler  
@@ -6,24 +6,26 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Magisch begabt  
 
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
-| ST     | 0  | BE       | 2  | VE         | 3  |
-| HÄ     | 1  | GE       | 0  | AU         | 5  |
-|        |    |          |    |            |    |
-| LK     | 17 | Abwehr   | 7  | Initiative | 9  |
-| Laufen | 4  | Schlagen | 6  | Schiessen  | 6  |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 52 |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 2 | VE | 3 |
+| HÄ | 1 | GE | 0 | AU | 5 |
+|  |  |  |  |  |  |
+| LK | 17 | Abwehr | 7 | Initiative | 9 |
+| Laufen | 4 | Schlagen | 6 | Schiessen | 6 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 52 |
 
 
-**Bewaffnung:**  
-Dolch (INI+1)
+| Bewaffnung |
+| --- |
+| Dolch (INI+1) |
 
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
-**Ausrüstung:**  
-Robe (runenbestickt) (Aura +1)
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
+
 
 **Talente:**  
 Bildung I: Bildung.description

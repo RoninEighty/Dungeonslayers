@@ -1,24 +1,26 @@
-# Untoter Oger  
+### Untoter Oger  
 - Gruppe: Untote  
 
-| KÖR    | 12  | AGI      | 4  | GEI        | 0   |
-| ST     | 5   | BE       | 0  | VE         | 0   |
-| HÄ     | 4   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 52  | Abwehr   | 18 | Initiative | 4   |
-| Laufen | 3.5 | Schlagen | 19 | Schiessen  | 4   |
-|        |     |          |    |            |     |
-| GH     | 11  | GK       | gr | EP         | 106 |
+| KÖR | 12 | AGI | 4 | GEI | 0 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 5 | BE | 0 | VE | 0 |
+| HÄ | 4 | GE | 0 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 52 | Abwehr | 18 | Initiative | 4 |
+| Laufen | 3.5 | Schlagen | 19 | Schiessen | 4 |
+|  |  |  |  |  |  |
+| GH | 11 | GK | gr | EP | 106 |
 
 
-**Bewaffnung:**  
-Knochenpranke (WB+2)
+| Bewaffnung |
+| --- |
+| Knochenpranke (WB+2) |
 
-**Panzerung:**  
-Merkt nichts (PA+2)
 
-**Ausrüstung:**  
-Merkt nichts (PA+2)
+| Panzerung |
+| --- |
+| Merkt nichts (PA+2) |
+
 
 **Talente:**  
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.

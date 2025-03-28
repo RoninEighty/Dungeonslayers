@@ -1,4 +1,4 @@
-# Chalog Omesch  
+### Chalog Omesch  
 - Gruppe: Elf  
 - Volk: Elf  
 - Klasse: Späher  
@@ -6,24 +6,29 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
 
 
-| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
-| ST     | 0   | BE       | 3  | VE         | 4  |
-| HÄ     | 2   | GE       | 8  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 17  | Abwehr   | 10 | Initiative | 14 |
-| Laufen | 4.5 | Schlagen | 5  | Schiessen  | 21 |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 61 |
+| KÖR | 5 | AGI | 7 | GEI | 8 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 0 | BE | 3 | VE | 4 |
+| HÄ | 2 | GE | 8 | AU | 0 |
+|  |  |  |  |  |  |
+| LK | 17 | Abwehr | 10 | Initiative | 14 |
+| Laufen | 4.5 | Schlagen | 5 | Schiessen | 21 |
+|  |  |  |  |  |  |
+| GH | 1 | GK | no | EP | 61 |
 
 
-**Bewaffnung:**  
-mag. Armbrust, leicht (2h) +2 (WB+4, GA-2, Verletzen +II)
+| Bewaffnung |
+| --- |
+| mag. Armbrust, leicht (2h) +2 (WB+4, GA-2, Verletzen +II) |
 
-**Panzerung:**  
-mag. Lederpanzer +2 (PA+3, Zauber: Balancieren eingebettet)
+
+| Panzerung |
+| --- |
+| mag. Lederpanzer +2 (PA+3, Zauber: Balancieren eingebettet) |
+
 
 **Ausrüstung:**  
-mag. Lederpanzer +2 (PA+3, Zauber: Balancieren eingebettet)
+Kompass (Zauber: Magie entdecken eingebettet, Zauber: Verborgenes sehen eingebettet)
 
 **Talente:**  
 Wahrnehmung V: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
