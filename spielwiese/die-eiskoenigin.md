@@ -1,4 +1,4 @@
-# Die Eiskönigin  
+### Die Eiskönigin  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Elementarist  
@@ -8,7 +8,7 @@
 - Upgrade: Episch  
 
 | KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
+| :-- | :--: | :-- | :-: | :-- | :-: |
 | ST | 0 | BE | 0 | VE | 10 |
 | HÄ | 4 | GE | 4 | AU | 14 |
 |  |  |  |  |  |  |
@@ -19,12 +19,12 @@
 
 
 | Bewaffnung |
-| --- |
+| :-- | :--: | :-- | :-: | :-- | :-: |
 | mag. Kampfstab (2h) +3 (WB+4, INI+3, GA-3, Zielzauber +1, Eismagier +V) |
 
 
 | Panzerung |
-| --- |
+| :-- | :--: | :-- | :-: | :-- | :-: |
 | mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I) |
 
 
