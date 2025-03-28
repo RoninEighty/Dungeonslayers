@@ -17,11 +17,15 @@
 | GH     | 14  | GK       | no | EP         | 628 |
 
 
-**Bewaffnung:**  
-mag. Kampfstab (2h) +3 (WB+4, INI+3, GA-3, Zielzauber +1, Eismagier +V)
+| Bewaffnung |
+| --- |
+| mag. Kampfstab (2h) +3 (WB+4, INI+3, GA-3, Zielzauber +1, Eismagier +V) |
 
-**Panzerung:**  
-mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I)
+
+| Panzerung |
+| --- |
+| mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I) |
+
 
 **Ausrüstung:**  
 mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I)

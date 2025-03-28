@@ -11,14 +11,15 @@
 | GH     | 1 | GK       | kl | EP         | 52 |
 
 
-**Bewaffnung:**  
-Krallen (WB+1)
+| Bewaffnung |
+| --- |
+| Krallen (WB+1) |
 
-**Panzerung:**  
-Federkleid (PA+1)
 
-**Ausrüstung:**  
-Federkleid (PA+1)
+| Panzerung |
+| --- |
+| Federkleid (PA+1) |
+
 
 **Talente:**  
 Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
