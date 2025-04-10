@@ -68,8 +68,8 @@ Dessen Texte und Regelmechaniken stehen unter der Lizenz [CC BY-NC-SA 3.0 DE](ht
 
 - [Die Caera Kampagne](abenteuer.md)
 - [Herr der Ratten](abenteuer-herr-der-ratten.md)
-- TODO Reise des Verrats 130
-- TODO Festung des Unheils
+- [Reise des Verrats](abenteuer-reise-des-verrats.md)
+- [Festung des Unheils](abenteuer-festung-des-unheils.md) 
 
 ## Die Welt Caera
 
