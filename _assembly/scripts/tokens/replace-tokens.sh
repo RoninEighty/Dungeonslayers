@@ -20,7 +20,13 @@
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-klasse-schwarzmagier.md
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-klasse-spaeher.md
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-klasse-zauberer.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-klasse-zauberwirker.md
 
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/zaubersprueche.md
-#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-klasse-zauberwirker.md
-./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-charaktererschaffung.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-charaktererschaffung.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-erfahrung.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-attribute-eigenschaften.md
+
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/abenteuer-festung-des-unheils.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/abenteuer-herr-der-ratten.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/abenteuer-reise-des-verrats.md

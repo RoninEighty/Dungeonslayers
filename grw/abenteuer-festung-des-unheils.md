@@ -24,15 +24,15 @@ Die Überreste der verrotteten Tore liegen im Staub, klaffende Risse durchziehen
 
 #### DERZEITIGE BEWOHNER
 
-Bis vor zwei Monaten herrschte eine Goblinbande unter der Führung des Schamanen Shekz über die Festung des Unheils, doch dies änderte sich, als der südländische Nekromant Ankmatur mit einer Bande Trolle auftauchte.
+Bis vor zwei Monaten herrschte eine Goblinbande unter der Führung des Schamanen Shekz über die Festung des Unheils, doch dies änderte sich, als der südländische [Nekromant](charaktere-heldenklassen-nekromant.md) Ankmatur mit einer Bande Trolle auftauchte.
 
-Inzwischen ist der Nekromant der neue Herrscher über die Festung des Unheils, während er die Goblins versklavt und ihren Anführer Shekz eingesperrt hat.
+Inzwischen ist der [Nekromant](charaktere-heldenklassen-nekromant.md) der neue Herrscher über die Festung des Unheils, während er die Goblins versklavt und ihren Anführer Shekz eingesperrt hat.
 
 Ankmatur hat einen Großteil der Keller bereits erkunden können, alte Fallen reaktiviert und aus den unzähligen Toten, die hier im Lauf der Jahrhunderte ums Leben kamen, Skelette und Schatten erschaffen.
 
 Zu seiner Verwunderung entdeckte Ankmatur seltsam leuchtende Erzadern eines ihm völlig unbekannten Metalls, welches anscheinend nur im Schmalstieg vorkommt.
 
-Während der Nekromant weiter die Rätsel der Kellergewölbe untersucht, zwingen seine Skelette die Goblins, das seltsame Erz abzubauen.
+Während der [Nekromant](charaktere-heldenklassen-nekromant.md) weiter die Rätsel der Kellergewölbe untersucht, zwingen seine Skelette die Goblins, das seltsame Erz abzubauen.
 
 Zwar ist der Hass auf den Nekromanten groß, am liebsten würden sie ihren Anführer Shekz befreien und Ankmatur den Garaus machen, doch die Furcht vor seiner schwarzen Magie und seinen Untoten hat die Goblins - zusammen mit der Kräfte zehrenden Arbeit - völlig entmutigt.
 
@@ -141,7 +141,7 @@ GEMÄLDE An einem Tisch mit verwesten Speisen und Bechern voll Staubfäden sitze
 
 #### 12. FLUCHTTUNNEL
 
-Früher wachte stets ein Paladin in diesem Raum, der den Zugang zum gut 30m langen Fluchttunnel bildet. Der Tunnel wurde bis jetzt von niemandem entdeckt. Eine unverschlossene Truhe enthält die staubigen Überreste von Trockenproviant, sowie 8 Heiltränke und 6 Holzschachteln mit (ausgetrockneter) Waffenpaste.
+Früher wachte stets ein [Paladin](charaktere-heldenklassen-paladin.md) in diesem Raum, der den Zugang zum gut 30m langen Fluchttunnel bildet. Der Tunnel wurde bis jetzt von niemandem entdeckt. Eine unverschlossene Truhe enthält die staubigen Überreste von Trockenproviant, sowie 8 Heiltränke und 6 Holzschachteln mit (ausgetrockneter) Waffenpaste.
 
 Im Waffenständer stehen 8 Langschwerter, zwei davon haben einen sonnenverzierten Griff und sind magisch +1.
 
@@ -173,7 +173,7 @@ Ein Faulbauch mit 0 LK zerplatzt spritzend und hinterlässt 3 Faulbauchmaden:
 
 Ein Gemälde an der gegenüberliegenden Wand zeigt die strahlende, stolze Festung zur Zeit der Paladine.
 
-Der zerfranste, magische Teppich halbiert die Abklingzeit von Zaubern, solange ein Zauberwirker mit **Diener des Lichts** auf ihm steht.
+Der zerfranste, magische Teppich halbiert die Abklingzeit von Zaubern, solange ein [Zauberwirker](charaktere-klasse-zauberwirker.md) mit **Diener des Lichts** auf ihm steht.
 
 #### 19. DER FOLIANT DES WISSENS
 
@@ -223,7 +223,7 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 | :----------------: |
 | Fellflicken (PA+1) |
 
-**Zauber**: Einschläfern, Feuerstrahl
+**Zauber**: [Einschläfern](zauber/einschlaefern.md), [Feuerstrahl](zauber/feuerstrahl.md)
 
 **Nachtsicht**: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
@@ -306,9 +306,9 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 | :-----------------: |
 | mag. Robe +2 (PA+2) |
 
-**Zauber**: Feuerball, Kontrollieren, Öffnen, Schattenpfeil, Skelette erwecken, Terror, Totengespräch, Verwirren, Zombies erwecken
+**Zauber**: [Feuerball](zauber/feuerball.md), [Kontrollieren](zauber/kontrollieren.md), [Öffnen](zauber/oeffnen.md), [Schattenpfeil](zauber/schattenpfeil.md), [Skelette erwecken](zauber/skelette-erwecken.md), [Terror](zauber/terror.md), [Totengespräch](zauber/totengespraech.md), [Verwirren](zauber/verwirren.md), [Zombies erwecken](zauber/zombies-erwecken.md)
 
-**Gruppe**: Humanoide, Mensch, Nekromant Stufe 10
+**Gruppe**: Humanoide, Mensch, [Nekromant](charaktere-heldenklassen-nekromant.md) Stufe 10
 
 ---
 

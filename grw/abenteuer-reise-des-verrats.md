@@ -85,7 +85,7 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am frÃ
 
 ### Kamp & Emrich
 
-    Mensch, Krieger Stufe 3
+    Mensch, [Krieger](charaktere-klasse-krieger.md) Stufe 3
 
 | KÃ–R    |  8  | AGI      |  7  | GEI        |  5  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
@@ -137,7 +137,7 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am frÃ
 
 ### Harringer
 
-    Mensch, Krieger Stufe 4
+    Mensch, [Krieger](charaktere-klasse-krieger.md) Stufe 4
 
 | KÃ–R    |  7  | AGI      |  6  | GEI        |  7  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
@@ -161,7 +161,7 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am frÃ
 
 ### Die Komplizen
 
-    Mensch, Krieger Stufe 2
+    Mensch, [Krieger](charaktere-klasse-krieger.md) Stufe 2
 
 | KÃ–R    |  8  | AGI      |  8  | GEI        |  4  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
@@ -185,7 +185,7 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am frÃ
 
 ### Ritter Wilbert
 
-    Mensch, Krieger Stufe 3
+    Mensch, [Krieger](charaktere-klasse-krieger.md) Stufe 3
 
 | KÃ–R    |  8  | AGI      |  6  | GEI        |  6  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
