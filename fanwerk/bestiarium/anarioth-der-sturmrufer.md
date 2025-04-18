@@ -6,16 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 0   | BE       | 0  | VE         | 2  |
-| HÄ     | 0   | GE       | 5  | AU         | 4  |
-|        |     |          |    |            |    |
-| LK     | 15  | Abwehr   | 5  | Initiative | 7  |
-| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 13 |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | no | EP         | 50 |
-
+| KÖR | 5 | AGI | 7 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 0 | GE | 5 | AU | 4 |
+|  |
+| LK | 4.5 | Abwehr | 5 | Initiative | 7 |
+| Laufen | 4.5 | Schlagen | 6 | Schiessen | 13 |
+|  |
+| GH | 1 | GK | no | EP | 50 |
 
 | Bewaffnung |
 | --- |

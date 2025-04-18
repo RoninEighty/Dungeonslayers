@@ -1,16 +1,15 @@
 # Untote Mannshand  
 - Gruppe: Untote  
 
-| KÖR    | 4 | AGI      | 10 | GEI        | 0  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 2 | BE       | 3  | VE         | 0  |
-| HÄ     | 2 | GE       | 1  | AU         | 0  |
-|        |   |          |    |            |    |
-| LK     | 4 | Abwehr   | 6  | Initiative | 13 |
-| Laufen | 6 | Schlagen | 8  | Schiessen  | 11 |
-|        |   |          |    |            |    |
-| GH     | 4 | GK       | wi | EP         | 83 |
-
+| KÖR | 4 | AGI | 10 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 3 | VE | 0 |
+| HÄ | 2 | GE | 1 | AU | 0 |
+|  |
+| LK | 6 | Abwehr | 6 | Initiative | 13 |
+| Laufen | 6 | Schlagen | 8 | Schiessen | 11 |
+|  |
+| GH | 4 | GK | wi | EP | 83 |
 
 | Bewaffnung |
 | --- |

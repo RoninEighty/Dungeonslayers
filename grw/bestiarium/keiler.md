@@ -1,16 +1,15 @@
 # Keiler  
 - Gruppe: Tiere  
 
-| KÖR    | 10 | AGI      | 7  | GEI        | 1  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 2  | BE       | 2  | VE         | 0  |
-| HÄ     | 5  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 38 | Abwehr   | 17 | Initiative | 9  |
-| Laufen | 7  | Schlagen | 14 | Schiessen  | 7  |
-|        |    |          |    |            |    |
-| GH     | 6  | GK       | no | EP         | 89 |
-
+| KÖR | 10 | AGI | 7 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 7 | Abwehr | 17 | Initiative | 9 |
+| Laufen | 7 | Schlagen | 14 | Schiessen | 7 |
+|  |
+| GH | 6 | GK | no | EP | 89 |
 
 | Bewaffnung |
 | --- |

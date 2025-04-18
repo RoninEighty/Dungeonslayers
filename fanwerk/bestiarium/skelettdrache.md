@@ -1,16 +1,15 @@
 # Skelettdrache  
 - Gruppe: Untote  
 
-| KÖR    | 15   | AGI      | 12 | GEI        | 3   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 8    | BE       | 9  | VE         | 1   |
-| HÄ     | 7    | GE       | 7  | AU         | 2   |
-|        |      |          |    |            |     |
-| LK     | 480  | Abwehr   | 25 | Initiative | 21  |
-| Laufen | 15.5 | Schlagen | 26 | Schiessen  | 19  |
-|        |      |          |    |            |     |
-| GH     | 46   | GK       | ge | EP         | 685 |
-
+| KÖR | 15 | AGI | 12 | GEI | 3 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 8 | BE | 9 | VE | 1 |
+| HÄ | 7 | GE | 7 | AU | 2 |
+|  |
+| LK | 15.5 | Abwehr | 25 | Initiative | 21 |
+| Laufen | 15.5 | Schlagen | 26 | Schiessen | 19 |
+|  |
+| GH | 46 | GK | ge | EP | 685 |
 
 | Bewaffnung |
 | --- |

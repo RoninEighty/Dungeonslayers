@@ -1,16 +1,15 @@
 # Untoter Wächter  
 - Gruppe: Untote  
 
-| KÖR    | 13 | AGI      | 5  | GEI        | 0  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 5  | BE       | 0  | VE         | 0  |
-| HÄ     | 5  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 28 | Abwehr   | 23 | Initiative | 2  |
-| Laufen | 3  | Schlagen | 21 | Schiessen  | 5  |
-|        |    |          |    |            |    |
-| GH     | 13 | GK       | no | EP         | 79 |
-
+| KÖR | 13 | AGI | 5 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 5 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 3 | Abwehr | 23 | Initiative | 2 |
+| Laufen | 3 | Schlagen | 21 | Schiessen | 5 |
+|  |
+| GH | 13 | GK | no | EP | 79 |
 
 | Bewaffnung |
 | --- |

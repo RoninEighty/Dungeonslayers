@@ -6,16 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR    | 4  | AGI      | 8  | GEI        | 8  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 0  | BE       | 0  | VE         | 6  |
-| HÄ     | 4  | GE       | 2  | AU         | 5  |
-|        |    |          |    |            |    |
-| LK     | 18 | Abwehr   | 10 | Initiative | 9  |
-| Laufen | 5  | Schlagen | 7  | Schiessen  | 10 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | no | EP         | 83 |
-
+| KÖR | 4 | AGI | 8 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 6 |
+| HÄ | 4 | GE | 2 | AU | 5 |
+|  |
+| LK | 5 | Abwehr | 10 | Initiative | 9 |
+| Laufen | 5 | Schlagen | 7 | Schiessen | 10 |
+|  |
+| GH | 1 | GK | no | EP | 83 |
 
 | Bewaffnung |
 | --- |

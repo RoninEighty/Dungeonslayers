@@ -1,16 +1,15 @@
 # Augenball  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 8   | AGI      | 4  | GEI        | 10  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 0   | BE       | 0  | VE         | 2   |
-| HÄ     | 4   | GE       | 2  | AU         | 3   |
-|        |     |          |    |            |     |
-| LK     | 44  | Abwehr   | 14 | Initiative | 4   |
-| Laufen | 3.5 | Schlagen | 8  | Schiessen  | 6   |
-|        |     |          |    |            |     |
-| GH     | 13  | GK       | gr | EP         | 218 |
-
+| KÖR | 8 | AGI | 4 | GEI | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 4 | GE | 2 | AU | 3 |
+|  |
+| LK | 3.5 | Abwehr | 14 | Initiative | 4 |
+| Laufen | 3.5 | Schlagen | 8 | Schiessen | 6 |
+|  |
+| GH | 13 | GK | gr | EP | 218 |
 
 | Bewaffnung |
 | --- |

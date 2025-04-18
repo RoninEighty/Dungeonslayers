@@ -1,16 +1,15 @@
 # Skelettkrieger  
 - Gruppe: Untote  
 
-| KÖR    | 8  | AGI      | 7  | GEI        | 5   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 6  | BE       | 2  | VE         | 0   |
-| HÄ     | 4  | GE       | 4  | AU         | 3   |
-|        |    |          |    |            |     |
-| LK     | 22 | Abwehr   | 15 | Initiative | 9   |
-| Laufen | 4  | Schlagen | 17 | Schiessen  | 13  |
-|        |    |          |    |            |     |
-| GH     | 9  | GK       | no | EP         | 115 |
-
+| KÖR | 8 | AGI | 7 | GEI | 5 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 2 | VE | 0 |
+| HÄ | 4 | GE | 4 | AU | 3 |
+|  |
+| LK | 4 | Abwehr | 15 | Initiative | 9 |
+| Laufen | 4 | Schlagen | 17 | Schiessen | 13 |
+|  |
+| GH | 9 | GK | no | EP | 115 |
 
 | Bewaffnung |
 | --- |

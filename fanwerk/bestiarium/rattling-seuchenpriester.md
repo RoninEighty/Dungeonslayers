@@ -6,16 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR    | 7   | AGI      | 5  | GEI        | 8  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 0   | BE       | 0  | VE         | 4  |
-| HÄ     | 2   | GE       | 1  | AU         | 8  |
-|        |     |          |    |            |    |
-| LK     | 25  | Abwehr   | 9  | Initiative | 5  |
-| Laufen | 3.5 | Schlagen | 8  | Schiessen  | 6  |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | kl | EP         | 73 |
-
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 4 |
+| HÄ | 2 | GE | 1 | AU | 8 |
+|  |
+| LK | 3.5 | Abwehr | 9 | Initiative | 5 |
+| Laufen | 3.5 | Schlagen | 8 | Schiessen | 6 |
+|  |
+| GH | 1 | GK | kl | EP | 73 |
 
 | Bewaffnung |
 | --- |

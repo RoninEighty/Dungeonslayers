@@ -1,16 +1,15 @@
 # Hund  
 - Gruppe: Tiere  
 
-| KÖR    | 5  | AGI      | 6  | GEI        | 1  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 3  | BE       | 3  | VE         | 0  |
-| HÄ     | 0  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 11 | Abwehr   | 6  | Initiative | 9  |
-| Laufen | 6  | Schlagen | 9  | Schiessen  | 6  |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | kl | EP         | 31 |
-
+| KÖR | 5 | AGI | 6 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 3 | VE | 0 |
+| HÄ | 0 | GE | 0 | AU | 0 |
+|  |
+| LK | 6 | Abwehr | 6 | Initiative | 9 |
+| Laufen | 6 | Schlagen | 9 | Schiessen | 6 |
+|  |
+| GH | 1 | GK | kl | EP | 31 |
 
 | Bewaffnung |
 | --- |

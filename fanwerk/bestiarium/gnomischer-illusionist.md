@@ -6,16 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen  
 
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 0  | BE       | 0  | VE         | 2  |
-| HÄ     | 0  | GE       | 4  | AU         | 5  |
-|        |    |          |    |            |    |
-| LK     | 16 | Abwehr   | 7  | Initiative | 6  |
-| Laufen | 4  | Schlagen | 7  | Schiessen  | 10 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | kl | EP         | 50 |
-
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 0 | GE | 4 | AU | 5 |
+|  |
+| LK | 4 | Abwehr | 7 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 7 | Schiessen | 10 |
+|  |
+| GH | 1 | GK | kl | EP | 50 |
 
 | Bewaffnung |
 | --- |

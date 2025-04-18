@@ -1,16 +1,15 @@
 # Mammut  
 - Gruppe: Tiere  
 
-| KÖR    | 17  | AGI      | 7  | GEI        | 1   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 6   | BE       | 1  | VE         | 0   |
-| HÄ     | 5   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 96  | Abwehr   | 24 | Initiative | 8   |
-| Laufen | 7.5 | Schlagen | 26 | Schiessen  | 7   |
-|        |     |          |    |            |     |
-| GH     | 19  | GK       | gr | EP         | 168 |
-
+| KÖR | 17 | AGI | 7 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 1 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 7.5 | Abwehr | 24 | Initiative | 8 |
+| Laufen | 7.5 | Schlagen | 26 | Schiessen | 7 |
+|  |
+| GH | 19 | GK | gr | EP | 168 |
 
 | Bewaffnung |
 | --- |

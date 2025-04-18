@@ -2,16 +2,15 @@
 - Gruppe: Magische Wesen  
 - Upgrade: Episch  
 
-| KÖR    | 32   | AGI      | 12 | GEI        | 4     |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 12   | BE       | 5  | VE         | 1     |
-| HÄ     | 10   | GE       | 0  | AU         | 10    |
-|        |      |          |    |            |       |
-| LK     | 5200 | Abwehr   | 50 | Initiative | 17    |
-| Laufen | 12   | Schlagen | 52 | Schiessen  | 14    |
-|        |      |          |    |            |       |
-| GH     | 261  | GK       | ge | EP         | 10812 |
-
+| KÖR | 32 | AGI | 12 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 12 | BE | 5 | VE | 1 |
+| HÄ | 10 | GE | 0 | AU | 10 |
+|  |
+| LK | 12 | Abwehr | 50 | Initiative | 17 |
+| Laufen | 12 | Schlagen | 52 | Schiessen | 14 |
+|  |
+| GH | 261 | GK | ge | EP | 10812 |
 
 | Bewaffnung |
 | --- |

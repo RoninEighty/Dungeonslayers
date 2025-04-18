@@ -1,16 +1,15 @@
 # Gargyl  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 7   | AGI      | 7  | GEI        | 1  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 2   | BE       | 1  | VE         | 0  |
-| HÄ     | 2   | GE       | 2  | AU         | 1  |
-|        |     |          |    |            |    |
-| LK     | 10  | Abwehr   | 13 | Initiative | 8  |
-| Laufen | 4.5 | Schlagen | 11 | Schiessen  | 9  |
-|        |     |          |    |            |    |
-| GH     | 6   | GK       | kl | EP         | 91 |
-
+| KÖR | 7 | AGI | 7 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 1 | VE | 0 |
+| HÄ | 2 | GE | 2 | AU | 1 |
+|  |
+| LK | 4.5 | Abwehr | 13 | Initiative | 8 |
+| Laufen | 4.5 | Schlagen | 11 | Schiessen | 9 |
+|  |
+| GH | 6 | GK | kl | EP | 91 |
 
 | Bewaffnung |
 | --- |

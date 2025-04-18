@@ -1,16 +1,15 @@
 # Luftdämon II  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 9  | AGI      | 9  | GEI        | 8   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 6  | BE       | 6  | VE         | 6   |
-| HÄ     | 5  | GE       | 5  | AU         | 5   |
-|        |    |          |    |            |     |
-| LK     | 48 | Abwehr   | 18 | Initiative | 15  |
-| Laufen | 6  | Schlagen | 18 | Schiessen  | 16  |
-|        |    |          |    |            |     |
-| GH     | 12 | GK       | gr | EP         | 153 |
-
+| KÖR | 9 | AGI | 9 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 6 | VE | 6 |
+| HÄ | 5 | GE | 5 | AU | 5 |
+|  |
+| LK | 6 | Abwehr | 18 | Initiative | 15 |
+| Laufen | 6 | Schlagen | 18 | Schiessen | 16 |
+|  |
+| GH | 12 | GK | gr | EP | 153 |
 
 | Bewaffnung |
 | --- |

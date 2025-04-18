@@ -2,16 +2,15 @@
 - Gruppe: Untote  
 - Upgrade: Anführer  
 
-| KÖR    | 20  | AGI      | 8  | GEI        | 10  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 7   | BE       | 5  | VE         | 5   |
-| HÄ     | 10  | GE       | 3  | AU         | 5   |
-|        |     |          |    |            |     |
-| LK     | 160 | Abwehr   | 37 | Initiative | 12  |
-| Laufen | 4   | Schlagen | 33 | Schiessen  | 11  |
-|        |     |          |    |            |     |
-| GH     | 32  | GK       | gr | EP         | 654 |
-
+| KÖR | 20 | AGI | 8 | GEI | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 7 | BE | 5 | VE | 5 |
+| HÄ | 10 | GE | 3 | AU | 5 |
+|  |
+| LK | 4 | Abwehr | 37 | Initiative | 12 |
+| Laufen | 4 | Schlagen | 33 | Schiessen | 11 |
+|  |
+| GH | 32 | GK | gr | EP | 654 |
 
 | Bewaffnung |
 | --- |

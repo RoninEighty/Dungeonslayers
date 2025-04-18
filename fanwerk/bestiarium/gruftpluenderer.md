@@ -1,16 +1,15 @@
 # Gruftplünderer  
 - Gruppe: Untote  
 
-| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 2  | BE       | 5  | VE         | 4  |
-| HÄ     | 1  | GE       | 5  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 17 | Abwehr   | 9  | Initiative | 14 |
-| Laufen | 5  | Schlagen | 9  | Schiessen  | 14 |
-|        |    |          |    |            |    |
-| GH     | 4  | GK       | no | EP         | 94 |
-
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 5 | VE | 4 |
+| HÄ | 1 | GE | 5 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 9 | Initiative | 14 |
+| Laufen | 5 | Schlagen | 9 | Schiessen | 14 |
+|  |
+| GH | 4 | GK | no | EP | 94 |
 
 | Bewaffnung |
 | --- |

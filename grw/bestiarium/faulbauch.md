@@ -1,16 +1,15 @@
 # Faulbauch  
 - Gruppe: Untote  
 
-| KÖR    | 16  | AGI      | 6  | GEI        | 0   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 6   | BE       | 0  | VE         | 0   |
-| HÄ     | 5   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 62  | Abwehr   | 23 | Initiative | 6   |
-| Laufen | 4.5 | Schlagen | 24 | Schiessen  | 6   |
-|        |     |          |    |            |     |
-| GH     | 17  | GK       | gr | EP         | 131 |
-
+| KÖR | 16 | AGI | 6 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 4.5 | Abwehr | 23 | Initiative | 6 |
+| Laufen | 4.5 | Schlagen | 24 | Schiessen | 6 |
+|  |
+| GH | 17 | GK | gr | EP | 131 |
 
 | Bewaffnung |
 | --- |

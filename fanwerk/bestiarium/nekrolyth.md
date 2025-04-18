@@ -1,16 +1,15 @@
 # Nekrolyth  
 - Gruppe: Untote  
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 0  | BE       | 1  | VE         | 5  |
-| HÄ     | 2  | GE       | 5  | AU         | 6  |
-|        |    |          |    |            |    |
-| LK     | 18 | Abwehr   | 8  | Initiative | 7  |
-| Laufen | 4  | Schlagen | 7  | Schiessen  | 11 |
-|        |    |          |    |            |    |
-| GH     | 3  | GK       | no | EP         | 94 |
-
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 1 | VE | 5 |
+| HÄ | 2 | GE | 5 | AU | 6 |
+|  |
+| LK | 4 | Abwehr | 8 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 7 | Schiessen | 11 |
+|  |
+| GH | 3 | GK | no | EP | 94 |
 
 | Bewaffnung |
 | --- |

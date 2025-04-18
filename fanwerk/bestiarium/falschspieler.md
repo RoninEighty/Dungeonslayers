@@ -6,16 +6,15 @@
 - Fähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen  
 
 
-| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 1  | BE       | 1  | VE         | 2  |
-| HÄ     | 1  | GE       | 4  | AU         | 1  |
-|        |    |          |    |            |    |
-| LK     | 17 | Abwehr   | 8  | Initiative | 14 |
-| Laufen | 5  | Schlagen | 7  | Schiessen  | 12 |
-|        |    |          |    |            |    |
-| GH     | 1  | GK       | kl | EP         | 48 |
-
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 1 | BE | 1 | VE | 2 |
+| HÄ | 1 | GE | 4 | AU | 1 |
+|  |
+| LK | 5 | Abwehr | 8 | Initiative | 14 |
+| Laufen | 5 | Schlagen | 7 | Schiessen | 12 |
+|  |
+| GH | 1 | GK | kl | EP | 48 |
 
 | Bewaffnung |
 | --- |

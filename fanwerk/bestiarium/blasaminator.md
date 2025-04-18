@@ -1,16 +1,15 @@
 # Blasaminator  
 - Gruppe: Konstrukte  
 
-| KÖR    | 18  | AGI      | 4  | GEI        | 4   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 4   | BE       | 0  | VE         | 0   |
-| HÄ     | 5   | GE       | 2  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 66  | Abwehr   | 28 | Initiative | 4   |
-| Laufen | 3.5 | Schlagen | 26 | Schiessen  | 6   |
-|        |     |          |    |            |     |
-| GH     | 26  | GK       | gr | EP         | 191 |
-
+| KÖR | 18 | AGI | 4 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 2 | AU | 0 |
+|  |
+| LK | 3.5 | Abwehr | 28 | Initiative | 4 |
+| Laufen | 3.5 | Schlagen | 26 | Schiessen | 6 |
+|  |
+| GH | 26 | GK | gr | EP | 191 |
 
 | Bewaffnung |
 | --- |

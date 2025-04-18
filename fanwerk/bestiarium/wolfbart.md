@@ -7,16 +7,15 @@
 
 - Upgrade: Heroisch  
 
-| KÖR    | 9   | AGI      | 4  | GEI        | 8   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 10  | BE       | 2  | VE         | 0   |
-| HÄ     | 12  | GE       | 5  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 164 | Abwehr   | 35 | Initiative | 12  |
-| Laufen | 4   | Schlagen | 26 | Schiessen  | 9   |
-|        |     |          |    |            |     |
-| GH     | 26  | GK       | no | EP         | 460 |
-
+| KÖR | 9 | AGI | 4 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 10 | BE | 2 | VE | 0 |
+| HÄ | 12 | GE | 5 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 35 | Initiative | 12 |
+| Laufen | 4 | Schlagen | 26 | Schiessen | 9 |
+|  |
+| GH | 26 | GK | no | EP | 460 |
 
 | Bewaffnung |
 | --- |

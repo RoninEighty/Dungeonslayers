@@ -1,16 +1,15 @@
 # Zombiedrache  
 - Gruppe: Untote  
 
-| KÖR    | 20   | AGI      | 8  | GEI        | 1   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 8    | BE       | 5  | VE         | 1   |
-| HÄ     | 10   | GE       | 5  | AU         | 1   |
-|        |      |          |    |            |     |
-| LK     | 600  | Abwehr   | 34 | Initiative | 13  |
-| Laufen | 12.5 | Schlagen | 32 | Schiessen  | 17  |
-|        |      |          |    |            |     |
-| GH     | 64   | GK       | ge | EP         | 907 |
-
+| KÖR | 20 | AGI | 8 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 8 | BE | 5 | VE | 1 |
+| HÄ | 10 | GE | 5 | AU | 1 |
+|  |
+| LK | 12.5 | Abwehr | 34 | Initiative | 13 |
+| Laufen | 12.5 | Schlagen | 32 | Schiessen | 17 |
+|  |
+| GH | 64 | GK | ge | EP | 907 |
 
 | Bewaffnung |
 | --- |

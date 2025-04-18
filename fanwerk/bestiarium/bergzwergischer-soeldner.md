@@ -6,16 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 4  | BE       | 1  | VE         | 0  |
-| HÄ     | 5  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 26 | Abwehr   | 16 | Initiative | 4  |
-| Laufen | 5  | Schlagen | 16 | Schiessen  | 8  |
-|        |    |          |    |            |    |
-| GH     | 5  | GK       | no | EP         | 61 |
-
+| KÖR | 8 | AGI | 8 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 1 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 16 | Initiative | 4 |
+| Laufen | 5 | Schlagen | 16 | Schiessen | 8 |
+|  |
+| GH | 5 | GK | no | EP | 61 |
 
 | Bewaffnung |
 | --- |

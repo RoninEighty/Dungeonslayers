@@ -1,16 +1,15 @@
 # Der Ketzer  
 - Gruppe: Untote  
 
-| KÖR    | 4  | AGI      | 6  | GEI        | 9   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 13 | BE       | 0  | VE         | 4   |
-| HÄ     | 17 | GE       | 5  | AU         | 4   |
-|        |    |          |    |            |     |
-| LK     | 31 | Abwehr   | 21 | Initiative | 6   |
-| Laufen | 4  | Schlagen | 17 | Schiessen  | 11  |
-|        |    |          |    |            |     |
-| GH     | 9  | GK       | no | EP         | 141 |
-
+| KÖR | 4 | AGI | 6 | GEI | 9 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 13 | BE | 0 | VE | 4 |
+| HÄ | 17 | GE | 5 | AU | 4 |
+|  |
+| LK | 4 | Abwehr | 21 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 17 | Schiessen | 11 |
+|  |
+| GH | 9 | GK | no | EP | 141 |
 
 | Bewaffnung |
 | --- |

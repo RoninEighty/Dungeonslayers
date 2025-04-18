@@ -1,16 +1,15 @@
 # Leichnam  
 - Gruppe: Untote  
 
-| KÖR    | 7  | AGI      | 6  | GEI        | 9   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 17 | BE       | 0  | VE         | 8   |
-| HÄ     | 21 | GE       | 4  | AU         | 8   |
-|        |    |          |    |            |     |
-| LK     | 38 | Abwehr   | 31 | Initiative | 6   |
-| Laufen | 4  | Schlagen | 24 | Schiessen  | 10  |
-|        |    |          |    |            |     |
-| GH     | 15 | GK       | no | EP         | 200 |
-
+| KÖR | 7 | AGI | 6 | GEI | 9 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 17 | BE | 0 | VE | 8 |
+| HÄ | 21 | GE | 4 | AU | 8 |
+|  |
+| LK | 4 | Abwehr | 31 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 24 | Schiessen | 10 |
+|  |
+| GH | 15 | GK | no | EP | 200 |
 
 | Bewaffnung |
 | --- |

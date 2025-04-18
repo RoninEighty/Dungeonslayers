@@ -1,16 +1,15 @@
 # Zombiekeiler  
 - Gruppe: Untote  
 
-| KÖR    | 11 | AGI      | 7  | GEI        | 0   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 4  | BE       | 2  | VE         | 0   |
-| HÄ     | 5  | GE       | 0  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 39 | Abwehr   | 18 | Initiative | 9   |
-| Laufen | 7  | Schlagen | 17 | Schiessen  | 7   |
-|        |    |          |    |            |     |
-| GH     | 10 | GK       | no | EP         | 107 |
-
+| KÖR | 11 | AGI | 7 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 2 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 7 | Abwehr | 18 | Initiative | 9 |
+| Laufen | 7 | Schlagen | 17 | Schiessen | 7 |
+|  |
+| GH | 10 | GK | no | EP | 107 |
 
 | Bewaffnung |
 | --- |

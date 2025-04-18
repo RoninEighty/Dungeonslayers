@@ -1,16 +1,15 @@
 # Geistpeiniger  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 14  | AGI      | 11 | GEI        | 19  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 3   | BE       | 0  | VE         | 5   |
-| HÄ     | 4   | GE       | 4  | AU         | 6   |
-|        |     |          |    |            |     |
-| LK     | 28  | Abwehr   | 20 | Initiative | 11  |
-| Laufen | 6.5 | Schlagen | 19 | Schiessen  | 22  |
-|        |     |          |    |            |     |
-| GH     | 29  | GK       | no | EP         | 323 |
-
+| KÖR | 14 | AGI | 11 | GEI | 19 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 0 | VE | 5 |
+| HÄ | 4 | GE | 4 | AU | 6 |
+|  |
+| LK | 6.5 | Abwehr | 20 | Initiative | 11 |
+| Laufen | 6.5 | Schlagen | 19 | Schiessen | 22 |
+|  |
+| GH | 29 | GK | no | EP | 323 |
 
 | Bewaffnung |
 | --- |

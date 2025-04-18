@@ -1,16 +1,15 @@
 # Schneeriese  
 - Gruppe: Humanoide  
 
-| KÖR    | 20  | AGI      | 6  | GEI        | 2   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 6   | BE       | 3  | VE         | 1   |
-| HÄ     | 6   | GE       | 0  | AU         | 0   |
-|        |     |          |    |            |     |
-| LK     | 180 | Abwehr   | 27 | Initiative | 9   |
-| Laufen | 6   | Schlagen | 29 | Schiessen  | 9   |
-|        |     |          |    |            |     |
-| GH     | 20  | GK       | ri | EP         | 276 |
-
+| KÖR | 20 | AGI | 6 | GEI | 2 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 3 | VE | 1 |
+| HÄ | 6 | GE | 0 | AU | 0 |
+|  |
+| LK | 6 | Abwehr | 27 | Initiative | 9 |
+| Laufen | 6 | Schlagen | 29 | Schiessen | 9 |
+|  |
+| GH | 20 | GK | ri | EP | 276 |
 
 | Bewaffnung |
 | --- |

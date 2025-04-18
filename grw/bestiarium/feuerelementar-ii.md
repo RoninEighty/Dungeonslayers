@@ -1,16 +1,15 @@
 # Feuerelementar II  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 13 | AGI      | 6  | GEI        | 1  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 4  | BE       | 0  | VE         | 0  |
-| HÄ     | 6  | GE       | 0  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 29 | Abwehr   | 27 | Initiative | 6  |
-| Laufen | 4  | Schlagen | 20 | Schiessen  | 6  |
-|        |    |          |    |            |    |
-| GH     | 15 | GK       | no | EP         | 95 |
-
+| KÖR | 13 | AGI | 6 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 6 | GE | 0 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 27 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 20 | Schiessen | 6 |
+|  |
+| GH | 15 | GK | no | EP | 95 |
 
 | Bewaffnung |
 | --- |

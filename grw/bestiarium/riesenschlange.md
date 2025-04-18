@@ -1,16 +1,15 @@
 # Riesenschlange  
 - Gruppe: Tiere  
 
-| KÖR    | 9  | AGI      | 12 | GEI        | 1   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 5  | BE       | 3  | VE         | 0   |
-| HÄ     | 3  | GE       | 0  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 66 | Abwehr   | 14 | Initiative | 15  |
-| Laufen | 11 | Schlagen | 16 | Schiessen  | 12  |
-|        |    |          |    |            |     |
-| GH     | 8  | GK       | gr | EP         | 143 |
-
+| KÖR | 9 | AGI | 12 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 5 | BE | 3 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |
+| LK | 11 | Abwehr | 14 | Initiative | 15 |
+| Laufen | 11 | Schlagen | 16 | Schiessen | 12 |
+|  |
+| GH | 8 | GK | gr | EP | 143 |
 
 | Bewaffnung |
 | --- |

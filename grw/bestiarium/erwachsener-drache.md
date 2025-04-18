@@ -1,16 +1,15 @@
 # Erwachsener Drache  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 24   | AGI      | 16 | GEI        | 10  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 6    | BE       | 4  | VE         | 2   |
-| HÄ     | 6    | GE       | 4  | AU         | 3   |
-|        |      |          |    |            |     |
-| LK     | 600  | Abwehr   | 35 | Initiative | 20  |
-| Laufen | 18.5 | Schlagen | 35 | Schiessen  | 25  |
-|        |      |          |    |            |     |
-| GH     | 65   | GK       | ge | EP         | 922 |
-
+| KÖR | 24 | AGI | 16 | GEI | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 4 | VE | 2 |
+| HÄ | 6 | GE | 4 | AU | 3 |
+|  |
+| LK | 18.5 | Abwehr | 35 | Initiative | 20 |
+| Laufen | 18.5 | Schlagen | 35 | Schiessen | 25 |
+|  |
+| GH | 65 | GK | ge | EP | 922 |
 
 | Bewaffnung |
 | --- |

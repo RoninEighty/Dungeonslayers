@@ -1,16 +1,15 @@
 # Baby Monsterspinne  
 - Gruppe: Tiere  
 
-| KÖR    | 6  | AGI      | 6  | GEI        | 1  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 2  | BE       | 4  | VE         | 0  |
-| HÄ     | 1  | GE       | 3  | AU         | 0  |
-|        |    |          |    |            |    |
-| LK     | 13 | Abwehr   | 8  | Initiative | 10 |
-| Laufen | 6  | Schlagen | 9  | Schiessen  | 11 |
-|        |    |          |    |            |    |
-| GH     | 3  | GK       | kl | EP         | 75 |
-
+| KÖR | 6 | AGI | 6 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 4 | VE | 0 |
+| HÄ | 1 | GE | 3 | AU | 0 |
+|  |
+| LK | 6 | Abwehr | 8 | Initiative | 10 |
+| Laufen | 6 | Schlagen | 9 | Schiessen | 11 |
+|  |
+| GH | 3 | GK | kl | EP | 75 |
 
 | Bewaffnung |
 | --- |

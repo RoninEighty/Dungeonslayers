@@ -1,16 +1,15 @@
 # Feuerelementar I  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 9   | AGI      | 5  | GEI        | 1  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 3   | BE       | 0  | VE         | 0  |
-| HÄ     | 5   | GE       | 0  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 12  | Abwehr   | 22 | Initiative | 5  |
-| Laufen | 3.5 | Schlagen | 14 | Schiessen  | 5  |
-|        |     |          |    |            |    |
-| GH     | 9   | GK       | kl | EP         | 70 |
-
+| KÖR | 9 | AGI | 5 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 3.5 | Abwehr | 22 | Initiative | 5 |
+| Laufen | 3.5 | Schlagen | 14 | Schiessen | 5 |
+|  |
+| GH | 9 | GK | kl | EP | 70 |
 
 | Bewaffnung |
 | --- |

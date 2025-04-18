@@ -1,16 +1,15 @@
 # Goblinrächer  
 - Gruppe: Humanoide  
 
-| KÖR    | 5   | AGI      | 7  | GEI        | 3  |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 2   | BE       | 2  | VE         | 1  |
-| HÄ     | 1   | GE       | 2  | AU         | 0  |
-|        |     |          |    |            |    |
-| LK     | 8   | Abwehr   | 7  | Initiative | 9  |
-| Laufen | 4.5 | Schlagen | 8  | Schiessen  | 10 |
-|        |     |          |    |            |    |
-| GH     | 1   | GK       | kl | EP         | 34 |
-
+| KÖR | 5 | AGI | 7 | GEI | 3 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 1 |
+| HÄ | 1 | GE | 2 | AU | 0 |
+|  |
+| LK | 4.5 | Abwehr | 7 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 8 | Schiessen | 10 |
+|  |
+| GH | 1 | GK | kl | EP | 34 |
 
 | Bewaffnung |
 | --- |

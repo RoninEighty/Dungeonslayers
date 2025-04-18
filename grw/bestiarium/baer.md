@@ -1,16 +1,15 @@
 # Bär  
 - Gruppe: Tiere  
 
-| KÖR    | 12 | AGI      | 8  | GEI        | 1   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 3  | BE       | 4  | VE         | 0   |
-| HÄ     | 3  | GE       | 0  | AU         | 0   |
-|        |    |          |    |            |     |
-| LK     | 75 | Abwehr   | 16 | Initiative | 12  |
-| Laufen | 8  | Schlagen | 17 | Schiessen  | 8   |
-|        |    |          |    |            |     |
-| GH     | 9  | GK       | gr | EP         | 139 |
-
+| KÖR | 12 | AGI | 8 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 4 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |
+| LK | 8 | Abwehr | 16 | Initiative | 12 |
+| Laufen | 8 | Schlagen | 17 | Schiessen | 8 |
+|  |
+| GH | 9 | GK | gr | EP | 139 |
 
 | Bewaffnung |
 | --- |

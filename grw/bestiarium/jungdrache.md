@@ -1,16 +1,15 @@
 # Jungdrache  
 - Gruppe: Magische Wesen  
 
-| KÖR    | 16   | AGI      | 12 | GEI        | 7   |
-| :-: | :-: | :-: | :-: | :-: | :-: ||
-| ST     | 4    | BE       | 3  | VE         | 2   |
-| HÄ     | 4    | GE       | 3  | AU         | 2   |
-|        |      |          |    |            |     |
-| LK     | 225  | Abwehr   | 24 | Initiative | 15  |
-| Laufen | 12.5 | Schlagen | 24 | Schiessen  | 19  |
-|        |      |          |    |            |     |
-| GH     | 37   | GK       | ri | EP         | 491 |
-
+| KÖR | 16 | AGI | 12 | GEI | 7 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 3 | VE | 2 |
+| HÄ | 4 | GE | 3 | AU | 2 |
+|  |
+| LK | 12.5 | Abwehr | 24 | Initiative | 15 |
+| Laufen | 12.5 | Schlagen | 24 | Schiessen | 19 |
+|  |
+| GH | 37 | GK | ri | EP | 491 |
 
 | Bewaffnung |
 | --- |
