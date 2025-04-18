@@ -6,33 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 6   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 6   | 0   | 0   |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 0 | VE | 0 |
+| HÄ | 6 | GE | 0 | AU | 0 |
+|  |
+| LK | 3 | Abwehr | 18 | Initiative | 3 |
+| Laufen | 3 | Schlagen | 17 | Schiessen | 6 |
+|  |
+| GH | 8 | GK | no | EP | 103 |
+
+| Bewaffnung |
+| --- |
+| Bihänder (2h) (WB+3, INI-2, GA-4) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 24       | 18       | 3          | 3          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 17       | 6        |            |            |
-
-**Bewaffnung:**  
-Bihänder (2h) (WB+3, INI-2, GA-4)
-
-**Panzerung:**  
-Plattenpanzer (PA+3, LA-1), Metallhelm (PA+1, INI-1)
-
-**Talente:**  
+| Panzerung |
+| --- |
+| Plattenpanzer (PA+3, LA-1), Metallhelm (PA+1, INI-1) |
 
 
-Gegnerhärte: 8  
-Größe: Normal  
-Erfahrungspunkte: 103  
 
 
 

@@ -1,36 +1,37 @@
 # Nekrolyth  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 1   | 5   |
-| HÄ  | GE  | AU  |  
-| 2   | 5   | 6   |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 1 | VE | 5 |
+| HÄ | 2 | GE | 5 | AU | 6 |
+|  |
+| LK | 4 | Abwehr | 8 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 7 | Schiessen | 11 |
+|  |
+| GH | 3 | GK | no | EP | 94 |
+
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 8        | 7          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 11       | 14         | 16         |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Dunkelsicht, Geistesimmun, Wesen der Dunkelheit (Settingoption)
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
 
 **Zaubersprüche:**  
-Flackern (-2), Fluch (-(GEI+AU)/2), Kleiner Terror (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken (0), Magische Waffe (0), Schatten (-(AGI+AU)/2), Schattenpfeil (+2), Schweben (0), Skelette erwecken (0), Spionage (0), Volksgestalt (-4), Öffnen (-SW)
+[Flackern](/grw/zauber/flackern.md) (-2), [Fluch](/grw/zauber/fluch.md) (-(GEI+AU)/2), [Kleiner [Terror](/grw/zauber/terror.md)](/grw/zauber/kleiner-terror.md) (-(GEI+VE)/2), [Kontrollieren](/grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Magie entdecken](/grw/zauber/magie-entdecken.md) (0), [Magische Waffe](/grw/zauber/magische-waffe.md) (0), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Schatten](/grw/zauber/schatten.md)pfeil (+2), [Schweben](/grw/zauber/schweben.md) (0), [Skelette erwecken](/grw/zauber/skelette-erwecken.md) (0), [Spionage](/grw/zauber/spionage.md) (0), [Volksgestalt](/grw/zauber/volksgestalt.md) (-4), [Öffnen](/grw/zauber/oeffnen.md) (-SW)
 
-Gegnerhärte: 3  
-Größe: Normal  
-Erfahrungspunkte: 94  
 
 
 

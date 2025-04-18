@@ -1,33 +1,32 @@
 # Schimmerross  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 9   | 12  | 1   |
-| ST  | BE  | VE  |  
-| 2   | 6   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR | 9 | AGI | 12 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 6 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |
+| LK | 11 | Abwehr | 12 | Initiative | 18 |
+| Laufen | 11 | Schlagen | 13 | Schiessen | 12 |
+|  |
+| GH | 4 | GK | gr | EP | 106 |
+
+| Bewaffnung |
+| --- |
+| Huf (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 66       | 12       | 18         | 11         |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 12       |            |            |
-
-**Bewaffnung:**  
-Huf (WB+2)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Nachtsicht, Natürliche Waffen
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Gegnerhärte: 4  
-Größe: Groß  
-Erfahrungspunkte: 106  
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+
 
 
 

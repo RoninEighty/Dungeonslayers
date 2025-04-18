@@ -6,36 +6,41 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 4   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 6   |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 4 |
+| HÄ | 4 | GE | 0 | AU | 6 |
+|  |
+| LK | 4 | Abwehr | 12 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 7 | Schiessen | 7 |
+|  |
+| GH | 1 | GK | no | EP | 71 |
+
+| Bewaffnung |
+| --- |
+| Speer (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 12       | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 7        | 14         | 8          |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1) |
 
-**Bewaffnung:**  
-Speer (WB+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Fürsorger II, Ausweichen I, Alchemie I, Rüstzauberer I, Zaubermacht I
+Fürsorger II: Heil- und Schutzzauber +1 pro Talentrang.
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+
+Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang.
+
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren.
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+
 
 **Zaubersprüche:**  
-Federgleich (0), Giftbann (0), Heilbeeren (+2), Heilende Aura (+2), Heilende Hand (+3), Lichtpfeil (+2), Magische Waffe (0), Schutzschild (+2)
+[Federgleich](/grw/zauber/federgleich.md) (0), [Giftbann](/grw/zauber/giftbann.md) (0), [Heilbeeren](/grw/zauber/heilbeeren.md) (+2), [Heilende Aura](/grw/zauber/heilende-aura.md) (+2), [Heilende Hand](/grw/zauber/heilende-hand.md) (+3), [Licht](/grw/zauber/licht.md)pfeil (+2), [Magische Waffe](/grw/zauber/magische-waffe.md) (0), [Schutz](/fanwerk/zauber/schutz.md)schild (+2)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 71  
 
 
 

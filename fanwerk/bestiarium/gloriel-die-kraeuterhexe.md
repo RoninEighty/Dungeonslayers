@@ -6,36 +6,39 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 5   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 2   | 3   | 3   |
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 3 |
+| HÄ | 2 | GE | 3 | AU | 3 |
+|  |
+| LK | 3.5 | Abwehr | 9 | Initiative | 6 |
+| Laufen | 3.5 | Schlagen | 7 | Schiessen | 9 |
+|  |
+| GH | 1 | GK | no | EP | 54 |
+
+| Bewaffnung |
+| --- |
+| Dolch (INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 19       | 9        | 6          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 9        |            | 14         |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Dolch (INI+1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Alchemie I, Feuermagier I, Wissensgebiet I, Zaubermacht I
+Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang.
+
+Feuermagier I: Feuerzauber +1 pro Talentrang.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+
 
 **Zaubersprüche:**  
-Feuerstrahl (+2)
+[Feuerstrahl](/grw/zauber/feuerstrahl.md) (+2)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 54  
 
 
 

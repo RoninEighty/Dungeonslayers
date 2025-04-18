@@ -1,33 +1,34 @@
 # Wasserelementar II  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 11  | 8   | 1   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 3   | 0   |
+| KÖR | 11 | AGI | 8 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 3 | GE | 3 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 22 | Initiative | 8 |
+| Laufen | 5 | Schlagen | 18 | Schiessen | 14 |
+|  |
+| GH | 9 | GK | no | EP | 83 |
+
+| Bewaffnung |
+| --- |
+| Wasserstrahl (WB+3) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 24       | 22       | 8          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 14       |            |            |
+| Panzerung |
+| --- |
+| Keine feste Gestalt (PA+8) |
 
-**Bewaffnung:**  
-Wasserstrahl (WB+3)
-
-**Panzerung:**  
-Keine feste Gestalt (PA+8)
 
 **Talente:**  
-Anfällig, Körperlos, Schwimmen
+Anfällig: Erhält doppelten Schaden durch Feuer.
 
-Gegnerhärte: 9  
-Größe: Normal  
-Erfahrungspunkte: 83  
+Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos.
+
+Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2.
+
+
 
 
 

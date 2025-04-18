@@ -6,33 +6,36 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 6   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 0   |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 2 |
+| HÄ | 2 | GE | 2 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 9 | Initiative | 11 |
+| Laufen | 5 | Schlagen | 8 | Schiessen | 12 |
+|  |
+| GH | 1 | GK | no | EP | 51 |
+
+| Bewaffnung |
+| --- |
+| Langbogen (2h) (WB+2, INI+1), Dolch (INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 9        | 11         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 12       |            |            |
+| Panzerung |
+| --- |
+| Lederschienen (Arm & Bein) (PA+1) |
 
-**Bewaffnung:**  
-Langbogen (2h) (WB+2, INI+1), Dolch (INI+1)
-
-**Panzerung:**  
-Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Diener der Dunkelheit II, Wissensgebiet II, Akrobat I, Heimlichkeit I
+Diener der Dunkelheit II: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 51  
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+
+
 
 
 

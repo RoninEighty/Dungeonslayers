@@ -6,36 +6,43 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 4   | 8   |
-| ST  | BE  | VE  |  
-| 5   | 0   | 1   |
-| HÄ  | GE  | AU  |  
-| 1   | 0   | 4   |
+| KÖR | 8 | AGI | 4 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 5 | BE | 0 | VE | 1 |
+| HÄ | 1 | GE | 0 | AU | 4 |
+|  |
+| LK | 4 | Abwehr | 10 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 16 | Schiessen | 4 |
+|  |
+| GH | 2 | GK | no | EP | 54 |
+
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2), Kampfstab (2h) (WB+1, Zielzauber +1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 19       | 10       | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 16       | 4        | 12         |            |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Langschwert (WB+2), Kampfstab (2h) (WB+1, Zielzauber +1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Bildung I, Flink I, Kämpfer I, Parade I, Schnelle Reflexe I, Wahrnehmung I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+
+Flink I: Laufen +1m pro Talentrang.
+
+Kämpfer I: Schlagen +1 pro Talentrang.
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
 
 **Zaubersprüche:**  
-Magische Waffe (0)
+[Magische Waffe](/grw/zauber/magische-waffe.md) (0)
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 54  
 
 
 

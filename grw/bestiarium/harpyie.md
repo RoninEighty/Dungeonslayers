@@ -1,36 +1,41 @@
 # Harpyie  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 1   | 2   |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 1 |
+| HÄ | 2 | GE | 1 | AU | 2 |
+|  |
+| LK | 4 | Abwehr | 11 | Initiative | 8 |
+| Laufen | 4 | Schlagen | 12 | Schiessen | 7 |
+|  |
+| GH | 5 | GK | no | EP | 108 |
+
+| Bewaffnung |
+| --- |
+| Krallenklaue (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 11       | 8          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 12       | 7        | 8          |            |
+| Panzerung |
+| --- |
+| Federkleid (PA+1) |
 
-**Bewaffnung:**  
-Krallenklaue (WB+2)
-
-**Panzerung:**  
-Federkleid (PA+1)
 
 **Talente:**  
-Bezaubern, Fliegen, Nachtsicht, Natürliche Waffen, Sturzangriff
+Bezaubern: Kann Gegner mit ihrem 'Lockruf' (siehe Zauber) bezaubern.
+
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
+
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+Sturzangriff: Wird fliegend mindestens eine Distanz in Höhe von Laufen x 2 'rennend' geflogen, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen, während der Bewegung, also nicht nur davor oder danach.
+
 
 **Zaubersprüche:**  
-Lockruf (funktioniert wie der Zauberspruch Gehorche; Abklingzeit des Lockrufs: 10 Kampfrunden) (undefined)
+[Lockruf](/fanwerk/zauber/lockruf.md) (funktioniert wie der [Zauber](/fanwerk/zauber/zauber.md)spruch [Gehorche](/grw/zauber/gehorche.md); Abklingzeit des [Lockruf](/fanwerk/zauber/lockruf.md)s: 10 Kampfrunden) (undefined)
 
-Gegnerhärte: 5  
-Größe: Normal  
-Erfahrungspunkte: 108  
 
 
 

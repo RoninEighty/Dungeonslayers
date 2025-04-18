@@ -6,33 +6,40 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 6   |
-| ST  | BE  | VE  |  
-| 0   | 2   | 4   |
-| HÄ  | GE  | AU  |  
-| 2   | 7   | 0   |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 2 | VE | 4 |
+| HÄ | 2 | GE | 7 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 10 | Initiative | 12 |
+| Laufen | 5 | Schlagen | 7 | Schiessen | 18 |
+|  |
+| GH | 1 | GK | no | EP | 58 |
+
+| Bewaffnung |
+| --- |
+| Langbogen (2h) (WB+2, INI+1), mag. Dolch +1 (WB+1, INI+2, GA-1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 10       | 12         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 18       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1) |
 
-**Bewaffnung:**  
-Langbogen (2h) (WB+2, INI+1), mag. Dolch +1 (WB+1, INI+2, GA-1)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Diebeskunst III, Wahrnehmung III, Genesung I, Fieser Schuss I, Jäger I, Schütze I
+Diebeskunst III: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 58  
+Wahrnehmung III: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+Genesung I: KÖR +1 nach Tod einmalig wiederherstellen pro Talentrang.
+
+Fieser Schuss I: Schießen +AGI
+
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
+
+
 
 
 

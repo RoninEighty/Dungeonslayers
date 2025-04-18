@@ -1,33 +1,26 @@
 # Zombie Sekretärin  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 13  | 3   | 0   |
-| ST  | BE  | VE  |  
-| 3   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 5   | 0   | 0   |
+| KÖR | 13 | AGI | 3 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 2.5 | Abwehr | 20 | Initiative | 3 |
+| Laufen | 2.5 | Schlagen | 18 | Schiessen | 3 |
+|  |
+| GH | 8 | GK | no | EP | 56 |
+
+| Bewaffnung |
+| --- |
+| Fäulnispranke (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 28       | 20       | 3          | 2.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 3        |            |            |
-
-**Bewaffnung:**  
-Fäulnispranke (WB+2)
-
-**Panzerung:**  
-Merkt nichts (PA+2)
-
-**Talente:**  
+| Panzerung |
+| --- |
+| Merkt nichts (PA+2) |
 
 
-Gegnerhärte: 8  
-Größe: Normal  
-Erfahrungspunkte: 56  
 
 
 

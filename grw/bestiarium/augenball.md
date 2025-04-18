@@ -1,36 +1,43 @@
 # Augenball  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 4   | 10  |
-| ST  | BE  | VE  |  
-| 0   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 4   | 2   | 3   |
+| KÖR | 8 | AGI | 4 | GEI | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 4 | GE | 2 | AU | 3 |
+|  |
+| LK | 3.5 | Abwehr | 14 | Initiative | 4 |
+| Laufen | 3.5 | Schlagen | 8 | Schiessen | 6 |
+|  |
+| GH | 13 | GK | gr | EP | 218 |
+
+| Bewaffnung |
+| --- |
+|  |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 44       | 14       | 4          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 6        | 13         | 12         |
+| Panzerung |
+| --- |
+| Warzenhaut (PA+2) |
 
-**Bewaffnung:**  
-
-
-**Panzerung:**  
-Warzenhaut (PA+2)
 
 **Talente:**  
-Mehrere Angriffe (+4), Antimagie, Dunkelsicht, Mehrere Angriffsglieder, Schweben, Wesen der Dunkelheit (Settingoption)
+Mehrere Angriffe (+4): Kann 4 zusätzliche Zaubersprüche in jeder Runde aktionsfrei wirken, keinen einzelnen Zauberspruch jedoch mehr als einmal. Abklingzeiten müssen weiterhin berücksichtigt werden.
+
+Antimagie: Sämtliche Magie in einem Radius von 10m Metern um den großen Augenball herum ist wirkungslos. Dies gilt nicht für die eigene Magie der Kreatur oder deren Zauber.
+
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
+
+Mehrere Angriffsglieder: Greift mit 5 von insgesamt 10 Augen gleichzeitig an, die Gegner mit einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffsanzahl letztendlich sinkt.
+
+Schweben: Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2.
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
 
 **Zaubersprüche:**  
-Blenden (-(AGI+AU)/2), Einschläfern (-(KÖR+VE)/2), Gehorche (-(GEI+VE)/2), Kettenblitz (+3), Schleudern (-(KÖR+AU)/2), Schutzfeld (0), Schutzschild (0), Telekinese (-1/Stufe x5 kg), Unsichtbarkeit (0), Verwirren (-(GEI+AU)/2)
+[Blenden](/grw/zauber/blenden.md) (-(AGI+AU)/2), [Einschläfern](/grw/zauber/einschlaefern.md) (-(KÖR+VE)/2), [Gehorche](/grw/zauber/gehorche.md) (-(GEI+VE)/2), [Kettenblitz](/grw/zauber/kettenblitz.md) (+3), [Schleudern](/grw/zauber/schleudern.md) (-(KÖR+AU)/2), [Schutz](/fanwerk/zauber/schutz.md)feld (0), [Schutz](/fanwerk/zauber/schutz.md)schild (0), [Telekinese](/grw/zauber/telekinese.md) (-1/Stufe x5 kg), [Unsichtbarkeit](/grw/zauber/unsichtbarkeit.md) (0), [Verwirren](/grw/zauber/verwirren.md) (-(GEI+AU)/2)
 
-Gegnerhärte: 13  
-Größe: Groß  
-Erfahrungspunkte: 218  
 
 
 

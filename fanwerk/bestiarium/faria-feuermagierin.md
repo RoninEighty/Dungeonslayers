@@ -6,39 +6,46 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 4   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 4   |
-| HÄ  | GE  | AU  |  
-| 4   | 4   | 5   |
+| KÖR | 8 | AGI | 4 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 4 |
+| HÄ | 4 | GE | 4 | AU | 5 |
+|  |
+| LK | 4 | Abwehr | 12 | Initiative | 4 |
+| Laufen | 4 | Schlagen | 9 | Schiessen | 8 |
+|  |
+| GH | 1 | GK | no | EP | 81 |
+
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 22       | 12       | 4          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 8        | 13         | 13         |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Ausrüstung:**  
 Armband (Verstand +1), Gürtel (1x aktionsfrei Zauber wechseln), Krähenfuß (Feuerzauber +1)
 
 **Talente:**  
-Feuermagier III, Wechsler II, Flink I, Ausweichen I, Wissensgebiet I, Zaubermacht I
+Feuermagier III: Feuerzauber +1 pro Talentrang.
+
+Wechsler II: Zauber wechseln +2 pro Talentrang.
+
+Flink I: Laufen +1m pro Talentrang.
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+
 
 **Zaubersprüche:**  
-Duftnote (0), Feuerlanze (+6), Flammenklinge (+4), Licht (+5), Niesanfall (-(KÖR+AU)/2), Öffnen (-SW)
+[Duftnote](/grw/zauber/duftnote.md) (0), [Feuerlanze](/grw/zauber/feuerlanze.md) (+6), [Flammenklinge](/grw/zauber/flammenklinge.md) (+4), [Licht](/grw/zauber/licht.md) (+5), [Niesanfall](/grw/zauber/niesanfall.md) (-(KÖR+AU)/2), [Öffnen](/grw/zauber/oeffnen.md) (-SW)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 81  
 
 
 

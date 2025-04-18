@@ -6,33 +6,36 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 6   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 0   |
+| KÖR | 8 | AGI | 8 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 0 | VE | 0 |
+| HÄ | 4 | GE | 0 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 17 | Initiative | 7 |
+| Laufen | 5 | Schlagen | 15 | Schiessen | 9 |
+|  |
+| GH | 3 | GK | no | EP | 58 |
+
+| Bewaffnung |
+| --- |
+| Axt (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 22       | 17       | 7          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 9        |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1) |
 
-**Bewaffnung:**  
-Axt (WB+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
 
 **Talente:**  
-Prügler I, Raserei I, Schlachtruf I, Wissensgebiet I
+Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen.
 
-Gegnerhärte: 3  
-Größe: Normal  
-Erfahrungspunkte: 58  
+Raserei I: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar.
+
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

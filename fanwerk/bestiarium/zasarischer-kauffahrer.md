@@ -6,33 +6,40 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 6   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 2   |
-| HÄ  | GE  | AU  |  
-| 0   | 4   | 0   |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 2 |
+| HÄ | 0 | GE | 4 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 7 | Initiative | 11 |
+| Laufen | 5 | Schlagen | 8 | Schiessen | 14 |
+|  |
+| GH | 1 | GK | no | EP | 51 |
+
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 19       | 7        | 11         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 14       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Charmant I, Einstecker I, Schlitzohr I, Schwimmen I, Schütze I, Wissensgebiet I
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 51  
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang.
+
+Schwimmen I: Schwimmen +3 pro Talentrang.
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

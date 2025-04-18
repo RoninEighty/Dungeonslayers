@@ -6,36 +6,43 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 7   |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 2 | GE | 0 | AU | 7 |
+|  |
+| LK | 4 | Abwehr | 8 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 7 | Schiessen | 6 |
+|  |
+| GH | 1 | GK | no | EP | 55 |
+
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 8        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 6        | 15         |            |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Charmant I, Einstecker I, Instrument I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
+
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+Instrument I: +3 pro Talentrang auf ausgewähltes Instrument.
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
 
 **Zaubersprüche:**  
-Zaubertrick (0)
+[Zauber](/fanwerk/zauber/zauber.md)trick (0)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 55  
 
 
 

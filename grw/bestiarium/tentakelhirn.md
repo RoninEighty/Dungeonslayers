@@ -1,36 +1,37 @@
 # Tentakelhirn  
 - Gruppe: Magische Wesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 6   | 1   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 1   | 0   | 0   |
+| KÖR | 4 | AGI | 6 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 0 |
+| HÄ | 1 | GE | 0 | AU | 0 |
+|  |
+| LK | 6 | Abwehr | 5 | Initiative | 8 |
+| Laufen | 6 | Schlagen | 6 | Schiessen | 6 |
+|  |
+| GH | 1 | GK | kl | EP | 59 |
+
+| Bewaffnung |
+| --- |
+|  |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 11       | 5        | 8          | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 6        | 1          |            |
-
-**Bewaffnung:**  
-
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Dunkelsicht, Schweben, Werteverlust
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
+
+Schweben: Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2.
+
+Werteverlust: Pro schadensverursachenden Treffer mit dem Gedankenzehrerstrahl-Zauber wird GEI um 1 gesenkt (bei GEI Null ist das Opfer wahnsinnig). Pro Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert.
+
 
 **Zaubersprüche:**  
-Gedankenzehrerstrahl (nicht sichtbar; verursacht mental Schaden und führt zu Werteverlust) (undefined)
+[Gedankenzehrerstrahl](/fanwerk/zauber/gedankenzehrerstrahl.md) (nicht sichtbar; verursacht mental Schaden und führt zu Werteverlust) (undefined)
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 59  
 
 
 

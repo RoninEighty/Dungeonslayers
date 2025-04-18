@@ -6,33 +6,36 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 6   |
-| ST  | BE  | VE  |  
-| 0   | 1   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 6   | 0   |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 1 | VE | 1 |
+| HÄ | 2 | GE | 6 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 9 | Initiative | 10 |
+| Laufen | 5 | Schlagen | 6 | Schiessen | 17 |
+|  |
+| GH | 1 | GK | no | EP | 50 |
+
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 9        | 10         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 17       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Bildung I, Glückspilz I, Schütze I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 50  
+Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen.
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

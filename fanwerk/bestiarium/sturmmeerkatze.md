@@ -1,33 +1,32 @@
 # Sturmmeerkatze  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 2   | 8   | 3   |
-| ST  | BE  | VE  |  
-| 0   | 5   | 0   |
-| HÄ  | GE  | AU  |  
-| 0   | 4   | 0   |
+| KÖR | 2 | AGI | 8 | GEI | 3 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 5 | VE | 0 |
+| HÄ | 0 | GE | 4 | AU | 0 |
+|  |
+| LK | 7.5 | Abwehr | 2 | Initiative | 13 |
+| Laufen | 7.5 | Schlagen | 3 | Schiessen | 13 |
+|  |
+| GH | 1 | GK | kl | EP | 43 |
+
+| Bewaffnung |
+| --- |
+| Biss (WB+1), Stein (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 9        | 2        | 13         | 7.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 3        | 13       |            |            |
-
-**Bewaffnung:**  
-Biss (WB+1), Stein (WB+1)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Kletterläufer, Natürliche Waffen
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern.
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 43  
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+
 
 
 

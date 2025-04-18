@@ -1,33 +1,34 @@
 # Untote Werratte  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 9   | 9   | 0   |
-| ST  | BE  | VE  |  
-| 5   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 4   | 2   | 0   |
+| KÖR | 9 | AGI | 9 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 5 | BE | 2 | VE | 0 |
+| HÄ | 4 | GE | 2 | AU | 0 |
+|  |
+| LK | 5.5 | Abwehr | 13 | Initiative | 11 |
+| Laufen | 5.5 | Schlagen | 16 | Schiessen | 11 |
+|  |
+| GH | 5 | GK | no | EP | 73 |
+
+| Bewaffnung |
+| --- |
+| Krallen (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 23       | 13       | 11         | 5.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 16       | 11       |            |            |
-
-**Bewaffnung:**  
-Krallen (WB+2)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Dunkelsicht, Geistesimmun, Natürliche Waffen
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Gegnerhärte: 5  
-Größe: Normal  
-Erfahrungspunkte: 73  
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+
 
 
 

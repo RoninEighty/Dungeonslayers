@@ -1,33 +1,36 @@
 # Goblin Giftmörder  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 7   | 2   |
-| ST  | BE  | VE  |  
-| 4   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 1   | 2   | 0   |
+| KÖR | 6 | AGI | 7 | GEI | 2 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 2 | VE | 0 |
+| HÄ | 1 | GE | 2 | AU | 0 |
+|  |
+| LK | 4.5 | Abwehr | 7 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 10 | Schiessen | 9 |
+|  |
+| GH | 2 | GK | kl | EP | 63 |
+
+| Bewaffnung |
+| --- |
+| Dolch |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 9        | 7        | 9          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 10       | 9        |            |            |
+| Panzerung |
+| --- |
+| Dunkler Lumpenumhang |
 
-**Bewaffnung:**  
-Dolch
-
-**Panzerung:**  
-Dunkler Lumpenumhang
 
 **Talente:**  
-Gift, Mehrere Angriffe (+1), Nachtsicht, Wesen der Dunkelheit (Settingoption)
+Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde.
 
-Gegnerhärte: 2  
-Größe: Klein  
-Erfahrungspunkte: 63  
+Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
+
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
+
 
 
 

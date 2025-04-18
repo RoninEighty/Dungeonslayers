@@ -2,33 +2,30 @@
 - Gruppe: Untote  
 - Upgrade: Anführer  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 15  | 10  | 10  |
-| ST  | BE  | VE  |  
-| 7   | 5   | 5   |
-| HÄ  | GE  | AU  |  
-| 7   | 5   | 5   |
+| KÖR | 15 | AGI | 10 | GEI | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 7 | BE | 5 | VE | 5 |
+| HÄ | 7 | GE | 5 | AU | 5 |
+|  |
+| LK | 6.5 | Abwehr | 26 | Initiative | 15 |
+| Laufen | 6.5 | Schlagen | 28 | Schiessen | 15 |
+|  |
+| GH | 22 | GK | gr | EP | 476 |
+
+| Bewaffnung |
+| --- |
+| Flegel (WB+4, GA-3) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 128      | 26       | 15         | 6.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 28       | 15       |            |            |
+| Panzerung |
+| --- |
+| Dicke Haut (PA+2) |
 
-**Bewaffnung:**  
-Flegel (WB+4, GA-3)
-
-**Panzerung:**  
-Dicke Haut (PA+2)
 
 **Talente:**  
-Wesen der Dunkelheit (Settingoption)
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-Gegnerhärte: 22  
-Größe: Groß  
-Erfahrungspunkte: 476  
+
 
 
 

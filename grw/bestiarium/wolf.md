@@ -1,33 +1,34 @@
 # Wolf  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 7   | 1   |
-| ST  | BE  | VE  |  
-| 3   | 4   | 0   |
-| HÄ  | GE  | AU  |  
-| 1   | 0   | 0   |
+| KÖR | 8 | AGI | 7 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 4 | VE | 0 |
+| HÄ | 1 | GE | 0 | AU | 0 |
+|  |
+| LK | 7 | Abwehr | 10 | Initiative | 11 |
+| Laufen | 7 | Schlagen | 13 | Schiessen | 7 |
+|  |
+| GH | 4 | GK | no | EP | 81 |
+
+| Bewaffnung |
+| --- |
+| Großer Biss (WB+2, GA-1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 29       | 10       | 11         | 7          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 7        |            |            |
+| Panzerung |
+| --- |
+| Wolfspelz (PA+1) |
 
-**Bewaffnung:**  
-Großer Biss (WB+2, GA-1)
-
-**Panzerung:**  
-Wolfspelz (PA+1)
 
 **Talente:**  
-Nachtsicht, Natürliche Waffen, Sturmangriff
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Gegnerhärte: 4  
-Größe: Normal  
-Erfahrungspunkte: 81  
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
+
+
 
 
 

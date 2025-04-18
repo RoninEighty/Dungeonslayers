@@ -1,33 +1,34 @@
 # Baumgolem  
 - Gruppe: Konstrukte  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 4   | 4   |
-| ST  | BE  | VE  |  
-| 6   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 0   |
+| KÖR | 10 | AGI | 4 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 0 | VE | 0 |
+| HÄ | 2 | GE | 0 | AU | 0 |
+|  |
+| LK | 3.5 | Abwehr | 16 | Initiative | 4 |
+| Laufen | 3.5 | Schlagen | 18 | Schiessen | 4 |
+|  |
+| GH | 9 | GK | gr | EP | 98 |
+
+| Bewaffnung |
+| --- |
+| Asthiebe (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 44       | 16       | 4          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 4        |            |            |
+| Panzerung |
+| --- |
+| Dicke Rinde (PA+4) |
 
-**Bewaffnung:**  
-Asthiebe (WB+2)
-
-**Panzerung:**  
-Dicke Rinde (PA+4)
 
 **Talente:**  
-Mehrere Angriffe (+1), Anfällig, Geistesimmun
+Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
 
-Gegnerhärte: 9  
-Größe: Groß  
-Erfahrungspunkte: 98  
+Anfällig: Erhält doppelten Schaden durch Feuer.
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+
+
 
 
 

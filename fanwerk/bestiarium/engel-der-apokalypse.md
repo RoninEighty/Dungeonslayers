@@ -1,33 +1,32 @@
 # Engel der Apokalypse  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 20  | 20  | 10  |
-| ST  | BE  | VE  |  
-| 10  | 10  | 5   |
-| HÄ  | GE  | AU  |  
-| 10  | 10  | 5   |
+| KÖR | 20 | AGI | 20 | GEI | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 10 | BE | 10 | VE | 5 |
+| HÄ | 10 | GE | 10 | AU | 5 |
+|  |
+| LK | 13 | Abwehr | 32 | Initiative | 30 |
+| Laufen | 13 | Schlagen | 35 | Schiessen | 30 |
+|  |
+| GH | 33 | GK | ri | EP | 377 |
+
+| Bewaffnung |
+| --- |
+| Schattenklinge (WB+5, GA-5) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 200      | 32       | 30         | 13         |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 35       | 30       |            |            |
+| Panzerung |
+| --- |
+| Umhang (PA+2) |
 
-**Bewaffnung:**  
-Schattenklinge (WB+5, GA-5)
-
-**Panzerung:**  
-Umhang (PA+2)
 
 **Talente:**  
-Fliegen, Wesen der Dunkelheit (Settingoption)
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
-Gegnerhärte: 33  
-Größe: Riesig  
-Erfahrungspunkte: 377  
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
+
 
 
 

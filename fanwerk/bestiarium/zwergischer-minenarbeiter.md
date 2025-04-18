@@ -6,33 +6,36 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 5   | 1   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 0   |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 5 | BE | 1 | VE | 0 |
+| HÄ | 2 | GE | 2 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 11 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 14 | Schiessen | 8 |
+|  |
+| GH | 2 | GK | no | EP | 61 |
+
+| Bewaffnung |
+| --- |
+| Hammer (WB+1, GA-1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 11       | 7          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 8        |            |            |
-
-**Bewaffnung:**  
-Hammer (WB+1, GA-1)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Handwerk I, Wissensgebiet I, Wissensgebiet I, Wissensgebiet I
+Handwerk I: +3 pro Talentrang auf ausgewähltes Handwerk.
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 61  
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

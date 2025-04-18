@@ -6,33 +6,38 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 4   | 8   |
-| ST  | BE  | VE  |  
-| 3   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 4   |
+| KÖR | 8 | AGI | 4 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 4 |
+|  |
+| LK | 3.5 | Abwehr | 16 | Initiative | 3 |
+| Laufen | 3.5 | Schlagen | 13 | Schiessen | 4 |
+|  |
+| GH | 4 | GK | no | EP | 67 |
+
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2), Streitkolben (WB+1, GA-1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 16       | 3          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 4        |            |            |
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Metallhelm (PA+1, INI-1) |
 
-**Bewaffnung:**  
-Langschwert (WB+2), Streitkolben (WB+1, GA-1)
-
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Metallhelm (PA+1, INI-1)
 
 **Talente:**  
-Brutaler Hieb I, Diener des Lichts I, Flink I, Parade I, Waffenkenner I
+Brutaler Hieb I: Schlagen +KÖR
 
-Gegnerhärte: 4  
-Größe: Normal  
-Erfahrungspunkte: 67  
+Diener des Lichts I: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
+
+Flink I: Laufen +1m pro Talentrang.
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+
+Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung
+
+
 
 
 

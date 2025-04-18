@@ -6,36 +6,35 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 1   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 5   |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 1 | BE | 0 | VE | 3 |
+| HÄ | 2 | GE | 0 | AU | 5 |
+|  |
+| LK | 4 | Abwehr | 8 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 8 | Schiessen | 6 |
+|  |
+| GH | 1 | GK | no | EP | 63 |
+
+| Bewaffnung |
+| --- |
+| Streitkolben (WB+1, GA-1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 8        | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 6        | 14         |            |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Streitkolben (WB+1, GA-1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Ausweichen I, Bildung I
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+
 
 **Zaubersprüche:**  
-Heilende Hand (+1)
+[Heilende Hand](/grw/zauber/heilende-hand.md) (+1)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 63  
 
 
 

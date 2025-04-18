@@ -6,33 +6,40 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 7   | 5   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 2   | 0   |
+| KÖR | 8 | AGI | 7 | GEI | 5 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 3 | GE | 2 | AU | 0 |
+|  |
+| LK | 4.5 | Abwehr | 13 | Initiative | 8 |
+| Laufen | 4.5 | Schlagen | 13 | Schiessen | 10 |
+|  |
+| GH | 1 | GK | no | EP | 57 |
+
+| Bewaffnung |
+| --- |
+| Speer (WB+1), Kurzbogen (2h) (WB+1, INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 24       | 13       | 8          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 10       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Holzschild (PA+1) |
 
-**Bewaffnung:**  
-Speer (WB+1), Kurzbogen (2h) (WB+1, INI+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Holzschild (PA+1)
 
 **Talente:**  
-Einstecker I, Jäger I, Schlachtruf I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 57  
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
+
+Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

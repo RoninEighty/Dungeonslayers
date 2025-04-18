@@ -1,33 +1,36 @@
 # Vampirfledermaus  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 4   | 1   |
-| ST  | BE  | VE  |  
-| 3   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 0   |
+| KÖR | 5 | AGI | 4 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 2 | GE | 0 | AU | 0 |
+|  |
+| LK | 3 | Abwehr | 7 | Initiative | 4 |
+| Laufen | 3 | Schlagen | 9 | Schiessen | 4 |
+|  |
+| GH | 2 | GK | wi | EP | 55 |
+
+| Bewaffnung |
+| --- |
+| Krallen (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 4        | 7        | 4          | 3          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 4        |            |            |
-
-**Bewaffnung:**  
-Krallen (WB+1)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Fliegen, Natürliche Waffen, Sonar, Sturzangriff
+Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
-Gegnerhärte: 2  
-Größe: Winzig  
-Erfahrungspunkte: 55  
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+Sonar: 'Sieht' per Sonar.
+
+Sturzangriff: Wird fliegend mindestens eine Distanz in Höhe von Laufen x 2 'rennend' geflogen, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen, während der Bewegung, also nicht nur davor oder danach.
+
+
 
 
 

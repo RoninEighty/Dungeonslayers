@@ -6,33 +6,38 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 4   | 0   |
+| KÖR | 8 | AGI | 8 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 0 |
+| HÄ | 2 | GE | 4 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 14 | Initiative | 11 |
+| Laufen | 5 | Schlagen | 12 | Schiessen | 14 |
+|  |
+| GH | 2 | GK | no | EP | 55 |
+
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 14       | 11         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 12       | 14       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1) |
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Fieser Schuss I, Kämpfer I, Parade I, Schütze I, Wahrnehmung I
+Fieser Schuss I: Schießen +AGI
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 55  
+Kämpfer I: Schlagen +1 pro Talentrang.
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+
 
 
 

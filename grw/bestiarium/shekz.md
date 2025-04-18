@@ -1,36 +1,35 @@
 # Shekz  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 3   | 5   | 7   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 4   |
-| HÄ  | GE  | AU  |  
-| 1   | 2   | 4   |
+| KÖR | 3 | AGI | 5 | GEI | 7 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 4 |
+| HÄ | 1 | GE | 2 | AU | 4 |
+|  |
+| LK | 3.5 | Abwehr | 5 | Initiative | 5 |
+| Laufen | 3.5 | Schlagen | 3 | Schiessen | 7 |
+|  |
+| GH | 1 | GK | kl | EP | 49 |
+
+| Bewaffnung |
+| --- |
+| Wurfmesser |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 7        | 5        | 5          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 3        | 7        | 11         | 9          |
+| Panzerung |
+| --- |
+| Felle (PA+1) |
 
-**Bewaffnung:**  
-Wurfmesser
-
-**Panzerung:**  
-Felle (PA+1)
 
 **Talente:**  
-Nachtsicht, Wesen der Dunkelheit (Settingoption)
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
 
 **Zaubersprüche:**  
-Einschläfern (-(KÖR+VE)/2), Feuerstrahl (+1)
+[Einschläfern](/grw/zauber/einschlaefern.md) (-(KÖR+VE)/2), [Feuerstrahl](/grw/zauber/feuerstrahl.md) (+1)
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 49  
 
 
 

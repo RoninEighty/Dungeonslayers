@@ -6,33 +6,40 @@
 - Fähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 6   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 1   | 5   | 0   |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 0 |
+| HÄ | 1 | GE | 5 | AU | 0 |
+|  |
+| LK | 6 | Abwehr | 8 | Initiative | 13 |
+| Laufen | 6 | Schlagen | 8 | Schiessen | 15 |
+|  |
+| GH | 1 | GK | kl | EP | 49 |
+
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 17       | 8        | 13         | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 15       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Akrobat I, Diebeskunst I, Flink I, Heimlichkeit I, Schütze I, Wahrnehmung I
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 49  
+Diebeskunst I: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
+
+Flink I: Laufen +1m pro Talentrang.
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+
 
 
 

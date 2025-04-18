@@ -1,36 +1,29 @@
 # Stolpervogel  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 6   | 3   |
-| ST  | BE  | VE  |  
-| 1   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 6   | 3   |
+| KÖR | 4 | AGI | 6 | GEI | 3 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 1 | BE | 3 | VE | 0 |
+| HÄ | 2 | GE | 6 | AU | 3 |
+|  |
+| LK | 4 | Abwehr | 7 | Initiative | 9 |
+| Laufen | 4 | Schlagen | 6 | Schiessen | 12 |
+|  |
+| GH | 1 | GK | kl | EP | 44 |
+
+| Bewaffnung |
+| --- |
+| Schnabel (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 8        | 7        | 9          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 12       |            | 9          |
-
-**Bewaffnung:**  
-Schnabel (WB+1)
-
-**Panzerung:**  
-Federkleid (PA+1)
-
-**Talente:**  
+| Panzerung |
+| --- |
+| Federkleid (PA+1) |
 
 
 **Zaubersprüche:**  
-Stolpern (-(AGI+AU)/2)
+[Stolpern](/grw/zauber/stolpern.md) (-(AGI+AU)/2)
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 44  
 
 
 

@@ -6,33 +6,32 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 7   | 5   |
-| ST  | BE  | VE  |  
-| 6   | 1   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 0   |
+| KÖR | 8 | AGI | 7 | GEI | 5 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 1 | VE | 1 |
+| HÄ | 2 | GE | 2 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 16 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 19 | Schiessen | 9 |
+|  |
+| GH | 6 | GK | no | EP | 59 |
+
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 16       | 7          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 19       | 9        |            |            |
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1) |
 
-**Bewaffnung:**  
-Langschwert (WB+2)
-
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1), Metallhelm (PA+1, INI-1)
 
 **Talente:**  
-Kämpfer III, Parade I
+Kämpfer III: Schlagen +1 pro Talentrang.
 
-Gegnerhärte: 6  
-Größe: Normal  
-Erfahrungspunkte: 59  
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+
+
 
 
 

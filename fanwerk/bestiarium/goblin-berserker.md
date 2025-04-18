@@ -1,33 +1,34 @@
 # Goblin Berserker  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 7   | 2   |
-| ST  | BE  | VE  |  
-| 4   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 1   | 0   |
+| KÖR | 6 | AGI | 7 | GEI | 2 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 2 | VE | 0 |
+| HÄ | 2 | GE | 1 | AU | 0 |
+|  |
+| LK | 4.5 | Abwehr | 8 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 11 | Schiessen | 8 |
+|  |
+| GH | 2 | GK | kl | EP | 64 |
+
+| Bewaffnung |
+| --- |
+| Hammer (WB+1, GA-1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 9        | 8        | 9          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 11       | 8        |            |            |
+| Panzerung |
+| --- |
+| Fellschurz |
 
-**Bewaffnung:**  
-Hammer (WB+1, GA-1)
-
-**Panzerung:**  
-Fellschurz
 
 **Talente:**  
-Nachtsicht, Sturmangriff, Wesen der Dunkelheit (Settingoption)
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Gegnerhärte: 2  
-Größe: Klein  
-Erfahrungspunkte: 64  
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
+
 
 
 

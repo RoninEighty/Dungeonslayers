@@ -6,33 +6,36 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 3   | 0   |
+| KÖR | 8 | AGI | 8 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 3 | GE | 3 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 14 | Initiative | 8 |
+| Laufen | 5 | Schlagen | 13 | Schiessen | 13 |
+|  |
+| GH | 2 | GK | no | EP | 56 |
+
+| Bewaffnung |
+| --- |
+| Speer (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 14       | 8          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 13       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1), Holzschild (PA+1) |
 
-**Bewaffnung:**  
-Speer (WB+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1), Holzschild (PA+1)
 
 **Talente:**  
-Blocker I, Jäger I, Wissensgebiet I, Wissensgebiet I
+Blocker I: Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro Kampf und Talentrang einen Abwehrpatzer wiederholen.
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 56  
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

@@ -2,33 +2,34 @@
 - Gruppe: Humanoide  
 - Upgrade: Anführer  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 3   |
-| ST  | BE  | VE  |  
-| 3   | 2   | 2   |
-| HÄ  | GE  | AU  |  
-| 3   | 2   | 1   |
+| KÖR | 5 | AGI | 7 | GEI | 3 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 2 | VE | 2 |
+| HÄ | 3 | GE | 2 | AU | 1 |
+|  |
+| LK | 4 | Abwehr | 12 | Initiative | 9 |
+| Laufen | 4 | Schlagen | 11 | Schiessen | 9 |
+|  |
+| GH | 2 | GK | kl | EP | 140 |
+
+| Bewaffnung |
+| --- |
+| Kurzschwert (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 12       | 9          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 11       | 9        |            |            |
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5) |
 
-**Bewaffnung:**  
-Kurzschwert (WB+1)
-
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5)
 
 **Talente:**  
-Mehrere Angriffe (+1), Nachtsicht, Wesen der Dunkelheit (Settingoption)
+Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
 
-Gegnerhärte: 2  
-Größe: Klein  
-Erfahrungspunkte: 140  
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
+
 
 
 

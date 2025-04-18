@@ -6,33 +6,26 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 2   | 2   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 1   |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 2 | VE | 1 |
+| HÄ | 2 | GE | 2 | AU | 1 |
+|  |
+| LK | 4 | Abwehr | 11 | Initiative | 5 |
+| Laufen | 4 | Schlagen | 11 | Schiessen | 8 |
+|  |
+| GH | 1 | GK | no | EP | 51 |
+
+| Bewaffnung |
+| --- |
+| Werkzeug (WB+1, INI-3) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 20       | 11       | 5          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 11       | 8        |            |            |
-
-**Bewaffnung:**  
-Werkzeug (WB+1, INI-3)
-
-**Panzerung:**  
-Lumpen
-
-**Talente:**  
+| Panzerung |
+| --- |
+| Lumpen |
 
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 51  
 
 
 

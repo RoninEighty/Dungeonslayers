@@ -6,36 +6,41 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Magisch begabt  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 2   | 3   |
-| HÄ  | GE  | AU  |  
-| 1   | 0   | 5   |
+| KÖR | 6 | AGI | 6 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 2 | VE | 3 |
+| HÄ | 1 | GE | 0 | AU | 5 |
+|  |
+| LK | 4 | Abwehr | 7 | Initiative | 9 |
+| Laufen | 4 | Schlagen | 6 | Schiessen | 6 |
+|  |
+| GH | 1 | GK | no | EP | 52 |
+
+| Bewaffnung |
+| --- |
+| Dolch (INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 17       | 7        | 9          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 6        | 16         |            |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Dolch (INI+1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Bildung I, Fürsorger I, Instrument I, Wissensgebiet I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang.
+
+Instrument I: +3 pro Talentrang auf ausgewähltes Instrument.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
 
 **Zaubersprüche:**  
-Heilende Hand (+2)
+[Heilende Hand](/grw/zauber/heilende-hand.md) (+2)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 52  
 
 
 

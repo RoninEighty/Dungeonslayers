@@ -6,33 +6,36 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 5   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 5   | 0   | 0   |
+| KÖR | 8 | AGI | 8 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 5 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 14 | Initiative | 6 |
+| Laufen | 5 | Schlagen | 16 | Schiessen | 8 |
+|  |
+| GH | 4 | GK | no | EP | 59 |
+
+| Bewaffnung |
+| --- |
+| Hellebarde (2h) (WB+2, INI-2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 26       | 14       | 6          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 16       | 8        |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Hellebarde (2h) (WB+2, INI-2)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Einstecker I, Kämpfer I, Verletzen I, Wissensgebiet I
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Gegnerhärte: 4  
-Größe: Normal  
-Erfahrungspunkte: 59  
+Kämpfer I: Schlagen +1 pro Talentrang.
+
+Verletzen I: GA-1 bei Nahkampfangriff
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

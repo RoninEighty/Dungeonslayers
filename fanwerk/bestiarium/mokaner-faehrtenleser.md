@@ -6,33 +6,38 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 8   | 5   |
-| ST  | BE  | VE  |  
-| 1   | 2   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 4   | 0   |
+| KÖR | 7 | AGI | 8 | GEI | 5 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 1 | BE | 2 | VE | 1 |
+| HÄ | 2 | GE | 4 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 10 | Initiative | 11 |
+| Laufen | 5 | Schlagen | 9 | Schiessen | 14 |
+|  |
+| GH | 1 | GK | no | EP | 52 |
+
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 19       | 10       | 11         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 9        | 14       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1), Speer (WB+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Heimlichkeit I, Jäger I, Sattelschütze I, Schütze I, Wahrnehmung I
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 52  
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
+
+Sattelschütze I: beritten Schießen, +5 Malus
+
+Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+
 
 
 

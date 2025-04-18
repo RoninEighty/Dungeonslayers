@@ -1,33 +1,32 @@
 # Schlachtross  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 10  | 1   |
-| ST  | BE  | VE  |  
-| 4   | 4   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR | 12 | AGI | 10 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 4 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |
+| LK | 9.5 | Abwehr | 15 | Initiative | 14 |
+| Laufen | 9.5 | Schlagen | 18 | Schiessen | 10 |
+|  |
+| GH | 9 | GK | gr | EP | 121 |
+
+| Bewaffnung |
+| --- |
+| Huf/Rammen (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 75       | 15       | 14         | 9.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 10       |            |            |
-
-**Bewaffnung:**  
-Huf/Rammen (WB+2)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Natürliche Waffen, Sturmangriff
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Gegnerhärte: 9  
-Größe: Groß  
-Erfahrungspunkte: 121  
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
+
+
 
 
 

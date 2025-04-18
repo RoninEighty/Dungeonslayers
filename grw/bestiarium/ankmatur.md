@@ -6,36 +6,29 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 8   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 6   |
-| HÄ  | GE  | AU  |  
-| 4   | 2   | 5   |
+| KÖR | 4 | AGI | 8 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 6 |
+| HÄ | 4 | GE | 2 | AU | 5 |
+|  |
+| LK | 5 | Abwehr | 10 | Initiative | 9 |
+| Laufen | 5 | Schlagen | 7 | Schiessen | 10 |
+|  |
+| GH | 1 | GK | no | EP | 83 |
+
+| Bewaffnung |
+| --- |
+| mag. Langschwert +1 (WB+3, INI+1, GA-1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 10       | 9          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 10       | 13         | 10         |
-
-**Bewaffnung:**  
-mag. Langschwert +1 (WB+3, INI+1, GA-1)
-
-**Panzerung:**  
-mag. Robe +2 (PA+2)
-
-**Talente:**  
+| Panzerung |
+| --- |
+| mag. Robe +2 (PA+2) |
 
 
 **Zaubersprüche:**  
-Feuerball (+3), Kontrollieren (-(GEI+AU)/2), Schattenpfeil (+2), Skelette erwecken (0), Terror (-(GEI+VE)/2), Totengespräch (0), Verwirren (-(GEI+AU)/2), Zombies erwecken (0), Öffnen (-SW)
+[Feuerball](/grw/zauber/feuerball.md) (+3), [Kontrollieren](/grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Schatten](/grw/zauber/schatten.md)pfeil (+2), [Skelette erwecken](/grw/zauber/skelette-erwecken.md) (0), [Terror](/grw/zauber/terror.md) (-(GEI+VE)/2), [Totengespräch](/grw/zauber/totengespraech.md) (0), [Verwirren](/grw/zauber/verwirren.md) (-(GEI+AU)/2), [Zombies erwecken](/grw/zauber/zombies-erwecken.md) (0), [Öffnen](/grw/zauber/oeffnen.md) (-SW)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 83  
 
 
 

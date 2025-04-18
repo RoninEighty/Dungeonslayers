@@ -1,33 +1,30 @@
 # Riesenaffe  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 12  | 0   |
-| ST  | BE  | VE  |  
-| 4   | 4   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 2   | 0   |
+| KÖR | 12 | AGI | 12 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 4 | VE | 0 |
+| HÄ | 2 | GE | 2 | AU | 0 |
+|  |
+| LK | 7.5 | Abwehr | 15 | Initiative | 16 |
+| Laufen | 7.5 | Schlagen | 18 | Schiessen | 14 |
+|  |
+| GH | 8 | GK | gr | EP | 97 |
+
+| Bewaffnung |
+| --- |
+| Pranke (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 48       | 15       | 16         | 7.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 14       |            |            |
+| Panzerung |
+| --- |
+| Dickhäuter (PA+1) |
 
-**Bewaffnung:**  
-Pranke (WB+2)
-
-**Panzerung:**  
-Dickhäuter (PA+1)
 
 **Talente:**  
-Kletterläufer
+Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern.
 
-Gegnerhärte: 8  
-Größe: Groß  
-Erfahrungspunkte: 97  
+
 
 
 

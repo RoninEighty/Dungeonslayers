@@ -1,33 +1,32 @@
 # Orkräuber  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 6   | 2   |
-| ST  | BE  | VE  |  
-| 3   | 0   | 1   |
-| HÄ  | GE  | AU  |  
-| 3   | 3   | 0   |
+| KÖR | 12 | AGI | 6 | GEI | 2 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 0 | VE | 1 |
+| HÄ | 3 | GE | 3 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 17 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 17 | Schiessen | 10 |
+|  |
+| GH | 5 | GK | no | EP | 70 |
+
+| Bewaffnung |
+| --- |
+| Krummschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 25       | 17       | 7          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 17       | 10       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Holzschild (PA+1) |
 
-**Bewaffnung:**  
-Krummschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Holzschild (PA+1)
 
 **Talente:**  
-Nachtsicht, Wesen der Dunkelheit (Settingoption)
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Gegnerhärte: 5  
-Größe: Normal  
-Erfahrungspunkte: 70  
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
+
 
 
 

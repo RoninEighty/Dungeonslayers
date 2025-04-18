@@ -6,33 +6,42 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 8   | 1   | 0   |
-| HÄ  | GE  | AU  |  
-| 7   | 0   | 2   |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 8 | BE | 1 | VE | 0 |
+| HÄ | 7 | GE | 0 | AU | 2 |
+|  |
+| LK | 4 | Abwehr | 18 | Initiative | 1 |
+| Laufen | 4 | Schlagen | 23 | Schiessen | 6 |
+|  |
+| GH | 11 | GK | no | EP | 119 |
+
+| Bewaffnung |
+| --- |
+| Schlachtbeil (2h) (WB+4, INI-6, GA-4, Raserei +I, Schlachtruf +I, Rundumschlag +I) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 34       | 18       | 1          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 23       | 6        |            |            |
+| Panzerung |
+| --- |
+| mag. Kettenpanzer +1 (PA+3) |
 
-**Bewaffnung:**  
-Schlachtbeil (2h) (WB+4, INI-6, GA-4, Raserei +I, Schlachtruf +I, Rundumschlag +I)
-
-**Panzerung:**  
-mag. Kettenpanzer +1 (PA+3)
 
 **Talente:**  
-Brutaler Hieb III, Einstecker III, Kämpfer III, Jäger I, Prügler I, Standhaft I, Wissensgebiet I
+Brutaler Hieb III: Schlagen +KÖR
 
-Gegnerhärte: 11  
-Größe: Normal  
-Erfahrungspunkte: 119  
+Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+Kämpfer III: Schlagen +1 pro Talentrang.
+
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
+
+Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen.
+
+Standhaft I: LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

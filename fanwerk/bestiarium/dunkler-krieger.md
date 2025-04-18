@@ -5,33 +5,34 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 6   | 6   |
-| ST  | BE  | VE  |  
-| 6   | 0   | 1   |
-| HÄ  | GE  | AU  |  
-| 5   | 2   | 0   |
+| KÖR | 8 | AGI | 6 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 0 | VE | 1 |
+| HÄ | 5 | GE | 2 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 15 | Initiative | 5 |
+| Laufen | 4 | Schlagen | 17 | Schiessen | 8 |
+|  |
+| GH | 5 | GK | no | EP | 64 |
+
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 26       | 15       | 5          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 17       | 8        |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Metallhelm (PA+1, INI-1) |
 
-**Bewaffnung:**  
-Langschwert (WB+2)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Metallhelm (PA+1, INI-1)
 
 **Talente:**  
-Diener der Dunkelheit II, Einstecker I, Kämpfer I
+Diener der Dunkelheit II: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-Gegnerhärte: 5  
-Größe: Normal  
-Erfahrungspunkte: 64  
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+Kämpfer I: Schlagen +1 pro Talentrang.
+
+
 
 
 

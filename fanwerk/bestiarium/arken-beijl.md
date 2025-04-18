@@ -6,39 +6,42 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 6   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 1   | 7   |
-| HÄ  | GE  | AU  |  
-| 4   | 4   | 8   |
+| KÖR | 4 | AGI | 6 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 1 | VE | 7 |
+| HÄ | 4 | GE | 4 | AU | 8 |
+|  |
+| LK | 4 | Abwehr | 10 | Initiative | 8 |
+| Laufen | 4 | Schlagen | 6 | Schiessen | 10 |
+|  |
+| GH | 1 | GK | no | EP | 108 |
+
+| Bewaffnung |
+| --- |
+| mag. Kampfstab (2h) +1 (WB+2, INI+1, GA-1, Zielzauber +1, Zielzauber +1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 27       | 10       | 8          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 10       | 16         | 14         |
+| Panzerung |
+| --- |
+| mag. Robe (runenbestickt) +2 (PA+2, Verstand +1, Aura +1) |
 
-**Bewaffnung:**  
-mag. Kampfstab (2h) +1 (WB+2, INI+1, GA-1, Zielzauber +1, Zielzauber +1)
-
-**Panzerung:**  
-mag. Robe (runenbestickt) +2 (PA+2, Verstand +1, Aura +1)
 
 **Ausrüstung:**  
 Ring (Zauber: Versetzen eingebettet, Abklingzeit 3x täglich ignorieren), Stab (Zauber: Feuerball als Zauberstab)
 
 **Talente:**  
-Einstecker III, Zaubermacht III, Verheerer II, Abklingen I
+Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+
+Verheerer II: GA-1 bei Schadenszauber
+
+Abklingen I: Abklingzeit aller Zauber -1 Runde
+
 
 **Zaubersprüche:**  
-Feuerball (+3), Feuerlanze (+2), Flammeninferno (+5), Fliegen (0), Glühender Glaube (-2), Niesanfall (-(KÖR+AU)/2), Schutzschild (0), Terror (-(GEI+VE)/2)
+[Feuerball](/grw/zauber/feuerball.md) (+3), [Feuerlanze](/grw/zauber/feuerlanze.md) (+2), [Flammeninferno](/grw/zauber/flammeninferno.md) (+5), [Fliegen](/grw/zauber/fliegen.md) (0), [Glühender Glaube](/grw/zauber/gluehender-glaube.md) (-2), [Niesanfall](/grw/zauber/niesanfall.md) (-(KÖR+AU)/2), [Schutz](/fanwerk/zauber/schutz.md)schild (0), [Terror](/grw/zauber/terror.md) (-(GEI+VE)/2)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 108  
 
 
 

@@ -6,36 +6,43 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 8   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 2   | 2   |
-| HÄ  | GE  | AU  |  
-| 0   | 2   | 4   |
+| KÖR | 4 | AGI | 8 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 2 | VE | 2 |
+| HÄ | 0 | GE | 2 | AU | 4 |
+|  |
+| LK | 6 | Abwehr | 4 | Initiative | 12 |
+| Laufen | 6 | Schlagen | 4 | Schiessen | 10 |
+|  |
+| GH | 1 | GK | no | EP | 46 |
+
+| Bewaffnung |
+| --- |
+| Wurfmesser |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 14       | 4        | 12         | 6          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 4        | 10       | 12         |            |
-
-**Bewaffnung:**  
-Wurfmesser
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Akrobat I, Charmant I, Flink I, Schnelle Reflexe I, Wissensgebiet I, Wissensgebiet I
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
+
+Flink I: Laufen +1m pro Talentrang.
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
 
 **Zaubersprüche:**  
-Zaubertrick (0)
+[Zauber](/fanwerk/zauber/zauber.md)trick (0)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 46  
 
 
 

@@ -6,33 +6,40 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 4   | 8   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 0   | 0   | 3   |
+| KÖR | 8 | AGI | 4 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 3 |
+| HÄ | 0 | GE | 0 | AU | 3 |
+|  |
+| LK | 4 | Abwehr | 11 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 14 | Schiessen | 4 |
+|  |
+| GH | 2 | GK | no | EP | 55 |
+
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2), Dolch (INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 11       | 7          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 14       | 4        |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1) |
 
-**Bewaffnung:**  
-Langschwert (WB+2), Dolch (INI+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1)
 
 **Talente:**  
-Bildung I, Einstecker I, Flink I, Parade I, Schnelle Reflexe I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 55  
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+Flink I: Laufen +1m pro Talentrang.
+
+Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+
 
 
 

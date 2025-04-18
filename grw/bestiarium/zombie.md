@@ -1,33 +1,36 @@
 # Zombie  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 13  | 3   | 0   |
-| ST  | BE  | VE  |  
-| 3   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 5   | 0   | 0   |
+| KÖR | 13 | AGI | 3 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 2.5 | Abwehr | 20 | Initiative | 3 |
+| Laufen | 2.5 | Schlagen | 18 | Schiessen | 3 |
+|  |
+| GH | 10 | GK | no | EP | 78 |
+
+| Bewaffnung |
+| --- |
+| Fäulnispranke (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 28       | 20       | 3          | 2.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 3        |            |            |
+| Panzerung |
+| --- |
+| Merkt nichts (PA+2) |
 
-**Bewaffnung:**  
-Fäulnispranke (WB+2)
-
-**Panzerung:**  
-Merkt nichts (PA+2)
 
 **Talente:**  
-Dunkelsicht, Geistesimmun, Natürliche Waffen, Wesen der Dunkelheit (Settingoption)
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Gegnerhärte: 10  
-Größe: Normal  
-Erfahrungspunkte: 78  
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
+
 
 
 

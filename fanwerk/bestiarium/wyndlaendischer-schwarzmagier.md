@@ -6,36 +6,39 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 5   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 1   | 5   | 3   |
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 1 | GE | 5 | AU | 3 |
+|  |
+| LK | 3.5 | Abwehr | 8 | Initiative | 6 |
+| Laufen | 3.5 | Schlagen | 7 | Schiessen | 10 |
+|  |
+| GH | 1 | GK | no | EP | 54 |
+
+| Bewaffnung |
+| --- |
+| Dolch (INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 8        | 6          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 7        | 10       |            | 16         |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Dolch (INI+1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Feuermagier II, Heimlichkeit I, Tiergestalt I, Wahrnehmung I
+Feuermagier II: Feuerzauber +1 pro Talentrang.
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+
+Tiergestalt I: Verwandlung in normal großes Tier
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
 
 **Zaubersprüche:**  
-Feuerstrahl (+3)
+[Feuerstrahl](/grw/zauber/feuerstrahl.md) (+3)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 54  
 
 
 

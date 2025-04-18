@@ -6,33 +6,32 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 8   | 5   |
-| ST  | BE  | VE  |  
-| 3   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 5   | 0   |
+| KÖR | 7 | AGI | 8 | GEI | 5 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 0 | VE | 0 |
+| HÄ | 2 | GE | 5 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 10 | Initiative | 9 |
+| Laufen | 5 | Schlagen | 11 | Schiessen | 14 |
+|  |
+| GH | 1 | GK | no | EP | 55 |
+
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 22       | 10       | 9          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 11       | 14       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Ausweichen I, Einstecker I
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 55  
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+
 
 
 

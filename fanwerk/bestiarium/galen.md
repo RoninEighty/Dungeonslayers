@@ -6,36 +6,45 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 0   | 5   | 5   |
+| KÖR | 5 | AGI | 7 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 2 |
+| HÄ | 0 | GE | 5 | AU | 5 |
+|  |
+| LK | 4.5 | Abwehr | 5 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 6 | Schiessen | 12 |
+|  |
+| GH | 1 | GK | no | EP | 52 |
+
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 15       | 5        | 9          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 12       | 13         |            |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Bildung I, Charmant I, Diebeskunst I, Heimlichkeit I, Schlitzohr I, Schnelle Reflexe I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
+
+Diebeskunst I: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+
+Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang.
+
+Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
 
 **Zaubersprüche:**  
-Versetzte Stimme (-1/10m), Zaubertrick (0)
+[Versetzte Stimme](/grw/zauber/versetzte-stimme.md) (-1/10m), [Zauber](/fanwerk/zauber/zauber.md)trick (0)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 52  
 
 
 

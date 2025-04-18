@@ -6,33 +6,36 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 6   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 2   | 0   | 0   |
+| KÖR | 8 | AGI | 8 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 6 | BE | 2 | VE | 0 |
+| HÄ | 2 | GE | 0 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 12 | Initiative | 8 |
+| Laufen | 5 | Schlagen | 18 | Schiessen | 8 |
+|  |
+| GH | 4 | GK | no | EP | 58 |
+
+| Bewaffnung |
+| --- |
+| Streitaxt (2h) (WB+3, INI-2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 23       | 12       | 8          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 8        |            |            |
+| Panzerung |
+| --- |
+| Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Streitaxt (2h) (WB+3, INI-2)
-
-**Panzerung:**  
-Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1)
 
 **Talente:**  
-Brutaler Hieb I, Einstecker I, Kämpfer I, Rundumschlag I
+Brutaler Hieb I: Schlagen +KÖR
 
-Gegnerhärte: 4  
-Größe: Normal  
-Erfahrungspunkte: 58  
+Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+Kämpfer I: Schlagen +1 pro Talentrang.
+
+Rundumschlag I: Schlagen -1, Abwehr -2 pro Gegner, mit 2h-Waffe/waffenlos
+
+
 
 
 

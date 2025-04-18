@@ -6,36 +6,39 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 5   | 7   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 1   | 5   | 2   |
+| KÖR | 5 | AGI | 7 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 3 |
+| HÄ | 1 | GE | 5 | AU | 2 |
+|  |
+| LK | 4.5 | Abwehr | 6 | Initiative | 7 |
+| Laufen | 4.5 | Schlagen | 6 | Schiessen | 13 |
+|  |
+| GH | 1 | GK | no | EP | 51 |
+
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 16       | 6        | 7          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 13       |            | 16         |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Bildung I, Blitzmacher I, Wissensgebiet I, Wissensgebiet I
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+
+Blitzmacher I: +1 Bonus auf Blitzzauber
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
 
 **Zaubersprüche:**  
-Schock (+1)
+[Schock](/fanwerk/zauber/schock.md) (+1)
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 51  
 
 
 

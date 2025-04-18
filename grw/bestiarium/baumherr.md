@@ -1,33 +1,38 @@
 # Baumherr  
 - Gruppe: Pflanzenwesen  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 20  | 1   | 1   |
-| ST  | BE  | VE  |  
-| 5   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 5   | 0   | 0   |
+| KÖR | 20 | AGI | 1 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 5 | BE | 0 | VE | 0 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 2 | Abwehr | 27 | Initiative | 1 |
+| Laufen | 2 | Schlagen | 27 | Schiessen | 1 |
+|  |
+| GH | 23 | GK | gr | EP | 157 |
+
+| Bewaffnung |
+| --- |
+| Asthiebe (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 70       | 27       | 1          | 2          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 27       | 1        |            |            |
+| Panzerung |
+| --- |
+| Dicke Rinde (PA+2) |
 
-**Bewaffnung:**  
-Asthiebe (WB+2)
-
-**Panzerung:**  
-Dicke Rinde (PA+2)
 
 **Talente:**  
-Mehrere Angriffe (+3), Anfällig, Nachtsicht, Natürliche Waffen, Schleudern
+Mehrere Angriffe (+3): Kann 3 zusätzliche Asthiebe in jeder Runde aktionsfrei ausführen.
 
-Gegnerhärte: 23  
-Größe: Groß  
-Erfahrungspunkte: 157  
+Anfällig: Erhält doppelten Schaden durch Feuer.
+
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
+
+
 
 
 

@@ -6,33 +6,38 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 8   | 4   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 3   | 0   |
+| KÖR | 8 | AGI | 8 | GEI | 4 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 0 |
+| HÄ | 3 | GE | 3 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 12 | Initiative | 8 |
+| Laufen | 5 | Schlagen | 15 | Schiessen | 12 |
+|  |
+| GH | 2 | GK | no | EP | 54 |
+
+| Bewaffnung |
+| --- |
+| Axt (WB+1), Speer (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 21       | 12       | 8          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 12       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Axt (WB+1), Speer (WB+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Kämpfer II, Wahrnehmung II, Jäger I, Ausweichen I, Raserei I
+Kämpfer II: Schlagen +1 pro Talentrang.
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 54  
+Wahrnehmung II: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+
+Raserei I: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar.
+
+
 
 
 

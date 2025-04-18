@@ -1,33 +1,40 @@
 # Schlächter  
 - Gruppe: Untote  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 6   | 5   |
-| ST  | BE  | VE  |  
-| 8   | 4   | 0   |
-| HÄ  | GE  | AU  |  
-| 8   | 4   | 0   |
+| KÖR | 10 | AGI | 6 | GEI | 5 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 8 | BE | 4 | VE | 0 |
+| HÄ | 8 | GE | 4 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 21 | Initiative | 10 |
+| Laufen | 4 | Schlagen | 20 | Schiessen | 12 |
+|  |
+| GH | 11 | GK | no | EP | 124 |
+
+| Bewaffnung |
+| --- |
+| Machete (WB+2), Langbogen (2h) (WB+2, INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 28       | 21       | 10         | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 20       | 12       |            |            |
+| Panzerung |
+| --- |
+| Merkt nichts (PA+2), Metallhelm (PA+1, INI-1) |
 
-**Bewaffnung:**  
-Machete (WB+2), Langbogen (2h) (WB+2, INI+1)
-
-**Panzerung:**  
-Merkt nichts (PA+2), Metallhelm (PA+1, INI-1)
 
 **Talente:**  
-Auferstehung, Dunkelsicht, Geistesimmun, Regeneration, Resistenz, Wesen der Dunkelheit (Settingoption)
+Auferstehung: Erhebt sich, wenn getötet, nach W20 Tagen mit 1 LK, sofern Probe auf GEI+AU gelingt. Verliert dabei jedes Mal 1 GEI.
 
-Gegnerhärte: 11  
-Größe: Normal  
-Erfahrungspunkte: 124  
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
+
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+
+Regeneration: Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Weihwasser verlorene LK können nicht regeneriert werden.
+
+Resistenz: Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
+
 
 
 

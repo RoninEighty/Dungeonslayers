@@ -1,33 +1,34 @@
 # Kleiner Borstenwurm  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 4   | 2   |
-| ST  | BE  | VE  |  
-| 1   | 3   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 1   | 0   |
+| KÖR | 12 | AGI | 4 | GEI | 2 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 1 | BE | 3 | VE | 1 |
+| HÄ | 2 | GE | 1 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 16 | Initiative | 7 |
+| Laufen | 5 | Schlagen | 15 | Schiessen | 5 |
+|  |
+| GH | 11 | GK | gr | EP | 164 |
+
+| Bewaffnung |
+| --- |
+| Biss (WB+2, GA-2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 72       | 16       | 7          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 15       | 5        |            |            |
+| Panzerung |
+| --- |
+| Dicke Borstenhaut (PA+2) |
 
-**Bewaffnung:**  
-Biss (WB+2, GA-2)
-
-**Panzerung:**  
-Dicke Borstenhaut (PA+2)
 
 **Talente:**  
-Dunkelsicht, Sonar, Verschlingen
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Gegnerhärte: 11  
-Größe: Groß  
-Erfahrungspunkte: 164  
+Sonar: 'Sieht' per Sonar.
+
+Verschlingen: Schlagen-Immersieg (Biss) verschlingt Ziel (sofern 2+ Größenkategorien kleiner), welches fortan einen nicht abwehrbaren Schadenspunkt pro Kampfrunde und einen Malus von -8 auf alle Proben erhält. Befreien: Nur mit einem Schlagen-Immersieg, der Schaden verursacht, kann sich der Verschlungene augenblicklich aus dem Leib seines Verschlingers befreien, wenn dieser noch lebt.
+
+
 
 
 

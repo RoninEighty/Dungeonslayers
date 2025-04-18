@@ -1,33 +1,34 @@
 # Oger  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 4   | 2   |
-| ST  | BE  | VE  |  
-| 3   | 2   | 1   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR | 12 | AGI | 4 | GEI | 2 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 2 | VE | 1 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |
+| LK | 3.5 | Abwehr | 16 | Initiative | 6 |
+| Laufen | 3.5 | Schlagen | 17 | Schiessen | 4 |
+|  |
+| GH | 9 | GK | gr | EP | 120 |
+
+| Bewaffnung |
+| --- |
+| Massive Keule (WB+2, GA-2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 50       | 16       | 6          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 17       | 4        |            |            |
+| Panzerung |
+| --- |
+| Felle (PA+1) |
 
-**Bewaffnung:**  
-Massive Keule (WB+2, GA-2)
-
-**Panzerung:**  
-Felle (PA+1)
 
 **Talente:**  
-Nachtsicht, Umschlingen, Wesen der Dunkelheit (Settingoption)
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Gegnerhärte: 9  
-Größe: Groß  
-Erfahrungspunkte: 120  
+Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers.
+
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+
+
 
 
 

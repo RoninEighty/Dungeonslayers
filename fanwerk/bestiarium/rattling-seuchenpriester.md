@@ -6,36 +6,49 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 5   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 0   | 4   |
-| HÄ  | GE  | AU  |  
-| 2   | 1   | 8   |
+| KÖR | 7 | AGI | 5 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 0 | VE | 4 |
+| HÄ | 2 | GE | 1 | AU | 8 |
+|  |
+| LK | 3.5 | Abwehr | 9 | Initiative | 5 |
+| Laufen | 3.5 | Schlagen | 8 | Schiessen | 6 |
+|  |
+| GH | 1 | GK | kl | EP | 73 |
+
+| Bewaffnung |
+| --- |
+| Kampfstab (2h) (WB+1, Zielzauber +1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 25       | 9        | 5          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 8        | 6        | 16         | 10         |
+| Panzerung |
+| --- |
+| Robe (runenbestickt) (Aura +1) |
 
-**Bewaffnung:**  
-Kampfstab (2h) (WB+1, Zielzauber +1)
-
-**Panzerung:**  
-Robe (runenbestickt) (Aura +1)
 
 **Talente:**  
-Alchemie II, Einstecker II, Wissensgebiet II, Fürsorger I, Ausweichen I, Schwimmen I, Heimlichkeit I, Wahrnehmung I, Zaubermacht I
+Alchemie II: Tränke identifizieren und herstellen +1 pro Talentrang.
+
+Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang.
+
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+
+Schwimmen I: Schwimmen +3 pro Talentrang.
+
+Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+
 
 **Zaubersprüche:**  
-Blenden (-(AGI+AU)/2), Einschläfern (-(KÖR+VE)/2), Giftbann (0), Giftschutz (+1), Heilende Hand (+2), Magie entdecken (0), Netz (-(AGI+ST)/2), Rost (-Stufe), Segen (0), Tiere besänftigen (-LK/5), Vertreiben (-(KÖR+AU)/2)
+[Blenden](/grw/zauber/blenden.md) (-(AGI+AU)/2), [Einschläfern](/grw/zauber/einschlaefern.md) (-(KÖR+VE)/2), [Giftbann](/grw/zauber/giftbann.md) (0), [Giftschutz](/grw/zauber/giftschutz.md) (+1), [Heilende Hand](/grw/zauber/heilende-hand.md) (+2), [Magie entdecken](/grw/zauber/magie-entdecken.md) (0), [Netz](/grw/zauber/netz.md) (-(AGI+ST)/2), [Rost](/grw/zauber/rost.md) (-Stufe), [Segen](/grw/zauber/segen.md) (0), [Tiere besänftigen](/grw/zauber/tiere-besaenftigen.md) (-LK/5), [Vertreiben](/grw/zauber/vertreiben.md) (-(KÖR+AU)/2)
 
-Gegnerhärte: 1  
-Größe: Klein  
-Erfahrungspunkte: 73  
 
 
 

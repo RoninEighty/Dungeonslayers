@@ -1,33 +1,34 @@
 # Ratte  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 2   | 4   | 1   |
-| ST  | BE  | VE  |  
-| 1   | 2   | 0   |
-| HÄ  | GE  | AU  |  
-| 0   | 0   | 0   |
+| KÖR | 2 | AGI | 4 | GEI | 1 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 1 | BE | 2 | VE | 0 |
+| HÄ | 0 | GE | 0 | AU | 0 |
+|  |
+| LK | 3 | Abwehr | 2 | Initiative | 6 |
+| Laufen | 3 | Schlagen | 4 | Schiessen | 4 |
+|  |
+| GH | 1 | GK | wi | EP | 26 |
+
+| Bewaffnung |
+| --- |
+| Spitze Zähne (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 3        | 2        | 6          | 3          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 4        | 4        |            |            |
-
-**Bewaffnung:**  
-Spitze Zähne (WB+1)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Dunkelsicht, Natürliche Waffen, Schwimmen
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Gegnerhärte: 1  
-Größe: Winzig  
-Erfahrungspunkte: 26  
+Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+
+Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2.
+
+
 
 
 

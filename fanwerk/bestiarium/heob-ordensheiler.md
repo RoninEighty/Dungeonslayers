@@ -6,39 +6,46 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 8   | 5   | 7   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 4   | 0   | 4   |
+| KÖR | 8 | AGI | 5 | GEI | 7 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 3 |
+| HÄ | 4 | GE | 0 | AU | 4 |
+|  |
+| LK | 3.5 | Abwehr | 16 | Initiative | 5 |
+| Laufen | 3.5 | Schlagen | 13 | Schiessen | 5 |
+|  |
+| GH | 3 | GK | no | EP | 84 |
+
+| Bewaffnung |
+| --- |
+| Streitkolben (WB+1, GA-1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 22       | 16       | 5          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 5        | 11         |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1, Parade +II, 1x aktionsfrei Waffe ziehen, Zauber: Bannen mit 12 Ladungen), Holzschild (PA+1, Blocker +III) |
 
-**Bewaffnung:**  
-Streitkolben (WB+1, GA-1)
-
-**Panzerung:**  
-Lederpanzer (PA+1, Parade +II, 1x aktionsfrei Waffe ziehen, Zauber: Bannen mit 12 Ladungen), Holzschild (PA+1, Blocker +III)
 
 **Ausrüstung:**  
 Krug (Zauber: Segen eingebettet)
 
 **Talente:**  
-Fürsorger III, Diener des Lichts II, Wechsler II, Wissensgebiet II, Charmant I, Rüstzauberer I
+Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang.
+
+Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
+
+Wechsler II: Zauber wechseln +2 pro Talentrang.
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
+
+Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren.
+
 
 **Zaubersprüche:**  
-Flackern (+1), Heilende Hand (+4), Schutzschild (+3), Stossgebet (-(KÖR+AU)/2), Vertreiben (-(KÖR+AU)/2), Wasser weihen (0)
+[Flackern](/grw/zauber/flackern.md) (+1), [Heilende Hand](/grw/zauber/heilende-hand.md) (+4), [Schutz](/fanwerk/zauber/schutz.md)schild (+3), [Stossgebet](/grw/zauber/stossgebet.md) (-(KÖR+AU)/2), [Vertreiben](/grw/zauber/vertreiben.md) (-(KÖR+AU)/2), [Wasser weihen](/grw/zauber/wasser-weihen.md) (0)
 
-Gegnerhärte: 3  
-Größe: Normal  
-Erfahrungspunkte: 84  
 
 
 

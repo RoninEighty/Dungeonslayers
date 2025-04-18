@@ -6,33 +6,38 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 6   | 8   | 6   |
-| ST  | BE  | VE  |  
-| 0   | 3   | 1   |
-| HÄ  | GE  | AU  |  
-| 2   | 10  | 0   |
+| KÖR | 6 | AGI | 8 | GEI | 6 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 3 | VE | 1 |
+| HÄ | 2 | GE | 10 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 10 | Initiative | 9 |
+| Laufen | 5 | Schlagen | 6 | Schiessen | 20 |
+|  |
+| GH | 1 | GK | no | EP | 58 |
+
+| Bewaffnung |
+| --- |
+| Armbrust, leicht (2h) (WB+2, INI-2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 18       | 10       | 9          | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 6        | 20       |            |            |
+| Panzerung |
+| --- |
+| mag. Lederpanzer +1 (PA+2) |
 
-**Bewaffnung:**  
-Armbrust, leicht (2h) (WB+2, INI-2)
-
-**Panzerung:**  
-mag. Lederpanzer +1 (PA+2)
 
 **Talente:**  
-Ausweichen III, Heimlichkeit III, Schlitzohr III, Wissensgebiet II, Handwerk I
+Ausweichen III: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 58  
+Heimlichkeit III: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+
+Schlitzohr III: Handeln, Feilschen, Bluffen +3 pro Talentrang.
+
+Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Handwerk I: +3 pro Talentrang auf ausgewähltes Handwerk.
+
+
 
 
 

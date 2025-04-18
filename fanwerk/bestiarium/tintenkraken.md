@@ -1,33 +1,30 @@
 # Tintenkraken  
 - Gruppe: Tiere  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 6   | 0   |
-| ST  | BE  | VE  |  
-| 3   | 3   | 0   |
-| HÄ  | GE  | AU  |  
-| 3   | 0   | 0   |
+| KÖR | 12 | AGI | 6 | GEI | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 3 | BE | 3 | VE | 0 |
+| HÄ | 3 | GE | 0 | AU | 0 |
+|  |
+| LK | 4.5 | Abwehr | 15 | Initiative | 9 |
+| Laufen | 4.5 | Schlagen | 17 | Schiessen | 6 |
+|  |
+| GH | 12 | GK | gr | EP | 139 |
+
+| Bewaffnung |
+| --- |
+| Fangarme (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 50       | 15       | 9          | 4.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 17       | 6        |            |            |
-
-**Bewaffnung:**  
-Fangarme (WB+2)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Mehrere Angriffe (+5)
+Mehrere Angriffe (+5): Kann mit seinen insgesamt sechs Fangarmen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
 
-Gegnerhärte: 12  
-Größe: Groß  
-Erfahrungspunkte: 139  
+
 
 
 

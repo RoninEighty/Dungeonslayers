@@ -6,33 +6,38 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 4   | 8   | 8   |
-| ST  | BE  | VE  |  
-| 0   | 1   | 4   |
-| HÄ  | GE  | AU  |  
-| 1   | 4   | 0   |
+| KÖR | 4 | AGI | 8 | GEI | 8 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 0 | BE | 1 | VE | 4 |
+| HÄ | 1 | GE | 4 | AU | 0 |
+|  |
+| LK | 5 | Abwehr | 6 | Initiative | 10 |
+| Laufen | 5 | Schlagen | 4 | Schiessen | 13 |
+|  |
+| GH | 1 | GK | no | EP | 47 |
+
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1), Dolch (INI+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 15       | 6        | 10         | 5          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 4        | 13       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1), Dolch (INI+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Jäger I, Wahrnehmung I, Wissensgebiet I, Wissensgebiet I, Zauber auslösen I
+Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
-Gegnerhärte: 1  
-Größe: Normal  
-Erfahrungspunkte: 47  
+Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+
+Zauber auslösen I: Zauber einer speziellen Klasse von Schriftrollen auslösen
+
+
 
 
 

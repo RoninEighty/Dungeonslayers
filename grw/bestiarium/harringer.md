@@ -6,33 +6,26 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 7   | 6   | 7   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 3   |
-| HÄ  | GE  | AU  |  
-| 5   | 0   | 0   |
+| KÖR | 7 | AGI | 6 | GEI | 7 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 3 |
+| HÄ | 5 | GE | 0 | AU | 0 |
+|  |
+| LK | 3.5 | Abwehr | 14 | Initiative | 6 |
+| Laufen | 3.5 | Schlagen | 13 | Schiessen | 6 |
+|  |
+| GH | 2 | GK | no | EP | 58 |
+
+| Bewaffnung |
+| --- |
+| Langschwert (WB+2) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 22       | 14       | 6          | 3.5        |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 6        |            |            |
-
-**Bewaffnung:**  
-Langschwert (WB+2)
-
-**Panzerung:**  
-Kettenpanzer (PA+2, LA-0.5)
-
-**Talente:**  
+| Panzerung |
+| --- |
+| Kettenpanzer (PA+2, LA-0.5) |
 
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 58  
 
 
 

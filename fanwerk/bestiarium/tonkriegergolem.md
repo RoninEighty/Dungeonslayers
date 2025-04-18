@@ -1,33 +1,36 @@
 # Tonkriegergolem  
 - Gruppe: Konstrukte  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 11  | 6   | 3   |
-| ST  | BE  | VE  |  
-| 4   | 0   | 2   |
-| HÄ  | GE  | AU  |  
-| 5   | 3   | 0   |
+| KÖR | 11 | AGI | 6 | GEI | 3 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 4 | BE | 0 | VE | 2 |
+| HÄ | 5 | GE | 3 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 16 | Initiative | 6 |
+| Laufen | 4 | Schlagen | 18 | Schiessen | 9 |
+|  |
+| GH | 10 | GK | no | EP | 100 |
+
+| Bewaffnung |
+| --- |
+| Pranke (WB+3) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 26       | 16       | 6          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 18       | 9        |            |            |
-
-**Bewaffnung:**  
-Pranke (WB+3)
-
-**Panzerung:**  
+| Panzerung |
+| --- |
+|  |
 
 
 **Talente:**  
-Dunkelsicht, Geistesimmun, Schleudern, Sturmangriff
+Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Gegnerhärte: 10  
-Größe: Normal  
-Erfahrungspunkte: 100  
+Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+
+Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
+
+Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
+
+
 
 
 

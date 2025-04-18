@@ -1,33 +1,30 @@
 # Eiszwerg  
 - Gruppe: Humanoide  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 10  | 6   | 2   |
-| ST  | BE  | VE  |  
-| 2   | 0   | 1   |
-| HÄ  | GE  | AU  |  
-| 3   | 3   | 0   |
+| KÖR | 10 | AGI | 6 | GEI | 2 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 2 | BE | 0 | VE | 1 |
+| HÄ | 3 | GE | 3 | AU | 0 |
+|  |
+| LK | 4 | Abwehr | 14 | Initiative | 7 |
+| Laufen | 4 | Schlagen | 13 | Schiessen | 10 |
+|  |
+| GH | 2 | GK | no | EP | 58 |
+
+| Bewaffnung |
+| --- |
+| Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 23       | 14       | 7          | 4          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 13       | 10       |            |            |
+| Panzerung |
+| --- |
+| Lederpanzer (PA+1) |
 
-**Bewaffnung:**  
-Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1)
-
-**Panzerung:**  
-Lederpanzer (PA+1)
 
 **Talente:**  
-Nachtsicht
+Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
-Gegnerhärte: 2  
-Größe: Normal  
-Erfahrungspunkte: 58  
+
 
 
 

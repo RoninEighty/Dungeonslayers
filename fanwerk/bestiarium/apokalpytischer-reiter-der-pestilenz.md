@@ -2,33 +2,30 @@
 - Gruppe: Untote  
 - Upgrade: Anführer  
 
-| KÖR | AGI | GEI |  
-| --- | --- | --- |  
-| 12  | 15  | 10  |
-| ST  | BE  | VE  |  
-| 5   | 7   | 5   |
-| HÄ  | GE  | AU  |  
-| 5   | 7   | 5   |
+| KÖR | 12 | AGI | 15 | GEI | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ST | 5 | BE | 7 | VE | 5 |
+| HÄ | 5 | GE | 7 | AU | 5 |
+|  |
+| LK | 9 | Abwehr | 22 | Initiative | 22 |
+| Laufen | 9 | Schlagen | 23 | Schiessen | 22 |
+|  |
+| GH | 17 | GK | gr | EP | 462 |
+
+| Bewaffnung |
+| --- |
+| Peitsche (WB+4, GA-4) |
 
 
-| Leben    | Abwehr   | Initiative | Laufen     |
-| -------- | -------- | ---------- | ---------- |
-| 108      | 22       | 22         | 9          |
-| Schlagen | Schießen | Zaubern    | Zielzauber |
-| 23       | 22       |            |            |
+| Panzerung |
+| --- |
+| Umhang (PA+3) |
 
-**Bewaffnung:**  
-Peitsche (WB+4, GA-4)
-
-**Panzerung:**  
-Umhang (PA+3)
 
 **Talente:**  
-Wesen der Dunkelheit (Settingoption)
+Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-Gegnerhärte: 17  
-Größe: Groß  
-Erfahrungspunkte: 462  
+
 
 
 
