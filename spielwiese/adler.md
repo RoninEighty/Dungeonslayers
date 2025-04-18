@@ -11,7 +11,6 @@
 |  |
 | GH | 1 | GK | kl | EP | 52 |
 
-
 | Bewaffnung |
 | --- |
 | Krallen (WB+1) |
