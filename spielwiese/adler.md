@@ -1,15 +1,15 @@
 # Adler  
 - Gruppe: Tiere  
 
-| KÖR    | 124  | AGI      | 16   | GEI        | 10   |
-| :----- | :--: | :------- | :--: | :--------- | :--: |
-| ST     | 6    | BE       | 4    | VE         | 2    |
-| HÄ     | 6    | GE       | 4    | AU         | 3    |
-|        |      |          |      |            |      |
-| LK     | 600  | Abwehr   | 35   | Initiative | 20   |
-| Laufen | 18.5 | Schlagen | 35   | Schiessen  | 24   |
-|        |      |          |      |            |      |
-| GH     | 65   | GK       | ge   | EP         | 922  |
+| KÖR | 3 | AGI | 8 | GEI | 1 |
+| --- | --- | --- | --- | --- | --- |
+| ST | 1 | BE | 3 | VE | 0 |
+| HÄ | 0 | GE | 1 | AU | 1 |
+|  |
+| LK | 5 | Abwehr | 4 | Initiative | 11 |
+| Laufen | 5 | Schlagen | 5 | Schiessen | 9 |
+|  |
+| GH | 1 | GK | kl | EP | 52 |
 
 
 | Bewaffnung |
