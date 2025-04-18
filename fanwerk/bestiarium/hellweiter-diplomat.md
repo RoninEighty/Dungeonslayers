@@ -1,4 +1,4 @@
-### Hellweiter Diplomat  
+# Hellweiter Diplomat  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Späher  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 4 |
-| HÄ | 0 | GE | 1 | AU | 5 |
-|  |  |  |  |  |  |
-| LK | 16 | Abwehr | 7 | Initiative | 7 |
-| Laufen | 4 | Schlagen | 6 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 47 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 4  |
+| HÄ     | 0  | GE       | 1  | AU         | 5  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 7  | Initiative | 7  |
+| Laufen | 4  | Schlagen | 6  | Schiessen  | 7  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 47 |
 
 
 | Bewaffnung |
@@ -28,9 +28,9 @@
 
 
 **Talente:**  
-Bildung I: Bildung.description
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Charmant I: Charmant.description
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
 Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang.
 

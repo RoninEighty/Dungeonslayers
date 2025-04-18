@@ -1,4 +1,4 @@
-### Rattling Seuchenpriester  
+# Rattling Seuchenpriester  
 - Gruppe: Rattling  
 - Volk: Rattling  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR | 7 | AGI | 5 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 4 |
-| HÄ | 2 | GE | 1 | AU | 8 |
-|  |  |  |  |  |  |
-| LK | 25 | Abwehr | 9 | Initiative | 5 |
-| Laufen | 3.5 | Schlagen | 8 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | kl | EP | 73 |
+| KÖR    | 7   | AGI      | 5  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 0  | VE         | 4  |
+| HÄ     | 2   | GE       | 1  | AU         | 8  |
+|        |     |          |    |            |    |
+| LK     | 25  | Abwehr   | 9  | Initiative | 5  |
+| Laufen | 3.5 | Schlagen | 8  | Schiessen  | 6  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 73 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Alchemie II: Alchemie.description
+Alchemie II: Tränke identifizieren und herstellen +1 pro Talentrang.
 
 Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
@@ -36,7 +36,7 @@ Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang.
 
-Ausweichen I: Ausweichen.description
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Schwimmen I: Schwimmen +3 pro Talentrang.
 

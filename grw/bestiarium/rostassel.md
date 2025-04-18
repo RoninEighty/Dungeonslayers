@@ -1,15 +1,15 @@
-### Rostassel  
+# Rostassel  
 - Gruppe: Tiere  
 
-| KÖR | 8 | AGI | 7 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 33 | Abwehr | 15 | Initiative | 7 |
-| Laufen | 7 | Schlagen | 13 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 8 | GK | no | EP | 111 |
+| KÖR    | 8  | AGI      | 7  | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 0  | VE         | 0   |
+| HÄ     | 4  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 33 | Abwehr   | 15 | Initiative | 7   |
+| Laufen | 7  | Schlagen | 13 | Schiessen  | 7   |
+|        |    |          |    |            |     |
+| GH     | 8  | GK       | no | EP         | 111 |
 
 
 | Bewaffnung |
@@ -27,7 +27,7 @@ Mehrere Angriffe (+3): Kann mit seinen insgesamt vier Tentakelfühler 3 zusätzl
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
-Mehrere Angriffsglieder: Mehrere Angriffsglieder.description
+Mehrere Angriffsglieder: Greift mit insgesamt vier Tentakelfühlern an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt.
 
 Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 

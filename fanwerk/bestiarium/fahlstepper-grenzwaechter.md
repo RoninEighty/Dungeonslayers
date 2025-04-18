@@ -1,4 +1,4 @@
-### Fahlstepper Grenzwächter  
+# Fahlstepper Grenzwächter  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 7 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 0 | VE | 0 |
-| HÄ | 3 | GE | 2 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 24 | Abwehr | 13 | Initiative | 8 |
-| Laufen | 4.5 | Schlagen | 13 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 57 |
+| KÖR    | 8   | AGI      | 7  | GEI        | 5  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4   | BE       | 0  | VE         | 0  |
+| HÄ     | 3   | GE       | 2  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 24  | Abwehr   | 13 | Initiative | 8  |
+| Laufen | 4.5 | Schlagen | 13 | Schiessen  | 10 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 57 |
 
 
 | Bewaffnung |

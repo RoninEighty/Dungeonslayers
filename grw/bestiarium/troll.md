@@ -1,15 +1,15 @@
-### Troll  
+# Troll  
 - Gruppe: Humanoide  
 
-| KÖR | 16 | AGI | 6 | GEI | 2 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 0 | VE | 1 |
-| HÄ | 4 | GE | 3 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 60 | Abwehr | 22 | Initiative | 6 |
-| Laufen | 4.5 | Schlagen | 22 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 14 | GK | gr | EP | 182 |
+| KÖR    | 16  | AGI      | 6  | GEI        | 2   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4   | BE       | 0  | VE         | 1   |
+| HÄ     | 4   | GE       | 3  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 60  | Abwehr   | 22 | Initiative | 6   |
+| Laufen | 4.5 | Schlagen | 22 | Schiessen  | 13  |
+|        |     |          |    |            |     |
+| GH     | 14  | GK       | gr | EP         | 182 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Anfällig: Anfällig.description
+Anfällig: Erhält doppelten Schaden durch Lichtangriffe.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

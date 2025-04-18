@@ -1,4 +1,4 @@
-### Rattling Kriegshäuptling  
+# Rattling Kriegshäuptling  
 - Gruppe: Rattling  
 - Volk: Rattling  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR | 7 | AGI | 8 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 3 | VE | 1 |
-| HÄ | 6 | GE | 1 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 32 | Abwehr | 19 | Initiative | 11 |
-| Laufen | 6.5 | Schlagen | 17 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 5 | GK | kl | EP | 75 |
+| KÖR    | 7   | AGI      | 8  | GEI        | 5  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5   | BE       | 3  | VE         | 1  |
+| HÄ     | 6   | GE       | 1  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 32  | Abwehr   | 19 | Initiative | 11 |
+| Laufen | 6.5 | Schlagen | 17 | Schiessen  | 10 |
+|        |     |          |    |            |    |
+| GH     | 5   | GK       | kl | EP         | 75 |
 
 
 | Bewaffnung |
@@ -32,11 +32,11 @@ Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro
 
 Kämpfer III: Schlagen +1 pro Talentrang.
 
-Ausweichen II: Ausweichen.description
+Ausweichen II: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Flink II: Laufen +1m pro Talentrang.
 
-Brutaler Hieb II: Brutaler Hieb.description
+Brutaler Hieb II: Schlagen +KÖR
 
 Parade II: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 

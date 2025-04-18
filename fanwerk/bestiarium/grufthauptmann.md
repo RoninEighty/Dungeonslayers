@@ -1,4 +1,4 @@
-### Grufthauptmann  
+# Grufthauptmann  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 7 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 10 | BE | 1 | VE | 1 |
-| HÄ | 5 | GE | 2 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 23 | Abwehr | 22 | Initiative | 8 |
-| Laufen | 3.5 | Schlagen | 24 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 13 | GK | no | EP | 111 |
+| KÖR    | 8   | AGI      | 7  | GEI        | 5   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 10  | BE       | 1  | VE         | 1   |
+| HÄ     | 5   | GE       | 2  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 23  | Abwehr   | 22 | Initiative | 8   |
+| Laufen | 3.5 | Schlagen | 24 | Schiessen  | 9   |
+|        |     |          |    |            |     |
+| GH     | 13  | GK       | no | EP         | 111 |
 
 
 | Bewaffnung |
@@ -32,7 +32,7 @@ Kämpfer III: Schlagen +1 pro Talentrang.
 
 Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Brutaler Hieb II: Brutaler Hieb.description
+Brutaler Hieb II: Schlagen +KÖR
 
 Magieresistent II: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 

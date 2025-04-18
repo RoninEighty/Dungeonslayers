@@ -1,15 +1,15 @@
-### Harpyie  
+# Harpyie  
 - Gruppe: Magische Wesen  
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 2 | VE | 1 |
-| HÄ | 2 | GE | 1 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 20 | Abwehr | 11 | Initiative | 8 |
-| Laufen | 4 | Schlagen | 12 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 5 | GK | no | EP | 108 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 2  | VE         | 1   |
+| HÄ     | 2  | GE       | 1  | AU         | 2   |
+|        |    |          |    |            |     |
+| LK     | 20 | Abwehr   | 11 | Initiative | 8   |
+| Laufen | 4  | Schlagen | 12 | Schiessen  | 7   |
+|        |    |          |    |            |     |
+| GH     | 5  | GK       | no | EP         | 108 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Bezaubern: Bezaubern.description
+Bezaubern: Kann Gegner mit ihrem 'Lockruf' (siehe Zauber) bezaubern.
 
 Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 

@@ -1,4 +1,4 @@
-### Kral der Schreckliche  
+# Kral der Schreckliche  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Beserker  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 7 | BE | 2 | VE | 3 |
-| HÄ | 6 | GE | 1 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 30 | Abwehr | 19 | Initiative | 10 |
-| Laufen | 4 | Schlagen | 22 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 10 | GK | no | EP | 77 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 7  | BE       | 2  | VE         | 3  |
+| HÄ     | 6  | GE       | 1  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 30 | Abwehr   | 19 | Initiative | 10 |
+| Laufen | 4  | Schlagen | 22 | Schiessen  | 7  |
+|        |    |          |    |            |    |
+| GH     | 10 | GK       | no | EP         | 77 |
 
 
 | Bewaffnung |
@@ -30,9 +30,9 @@
 **Talente:**  
 Kämpfer III: Schlagen +1 pro Talentrang.
 
-Raserei III: Raserei.description
+Raserei III: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar.
 
-Brutaler Hieb II: Brutaler Hieb.description
+Brutaler Hieb II: Schlagen +KÖR
 
 Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 

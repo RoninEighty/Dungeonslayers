@@ -1,4 +1,4 @@
-### Wolfbart  
+# Wolfbart  
 - Gruppe: Zwerg  
 - Volk: Zwerg  
 - Klasse: Waffenmeister  
@@ -7,15 +7,15 @@
 
 - Upgrade: Heroisch  
 
-| KÖR | 9 | AGI | 4 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 10 | BE | 2 | VE | 0 |
-| HÄ | 12 | GE | 5 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 164 | Abwehr | 35 | Initiative | 12 |
-| Laufen | 4 | Schlagen | 26 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 26 | GK | no | EP | 460 |
+| KÖR    | 9   | AGI      | 4  | GEI        | 8   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 10  | BE       | 2  | VE         | 0   |
+| HÄ     | 12  | GE       | 5  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 164 | Abwehr   | 35 | Initiative | 12  |
+| Laufen | 4   | Schlagen | 26 | Schiessen  | 9   |
+|        |     |          |    |            |     |
+| GH     | 26  | GK       | no | EP         | 460 |
 
 
 | Bewaffnung |
@@ -32,11 +32,11 @@
 Fluch des Berserkers (Brutaler Hieb +II, Diener der Dunkelheit +II, Raserei +II, Standhaft +II), Handschuhe der Hammerkunst (Perfektion +III, Schnelle Reflexe +II), Haut des Eiswyrms (Einstecker +III, Diener der Dunkelheit +I), Knochenfußkette (Ausweichen +II, Flink +I)
 
 **Talente:**  
-Brutaler Hieb V: Brutaler Hieb.description
+Brutaler Hieb V: Schlagen +KÖR
 
-Raserei III: Raserei.description
+Raserei III: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar.
 
-Ausweichen II: Ausweichen.description
+Ausweichen II: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Schnelle Reflexe II: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 

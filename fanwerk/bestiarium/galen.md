@@ -1,4 +1,4 @@
-### Galen  
+# Galen  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Zauberer  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 5 | AGI | 7 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 2 |
-| HÄ | 0 | GE | 5 | AU | 5 |
-|  |  |  |  |  |  |
-| LK | 15 | Abwehr | 5 | Initiative | 9 |
-| Laufen | 4.5 | Schlagen | 6 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 52 |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 0  | VE         | 2  |
+| HÄ     | 0   | GE       | 5  | AU         | 5  |
+|        |     |          |    |            |    |
+| LK     | 15  | Abwehr   | 5  | Initiative | 9  |
+| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 12 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 52 |
 
 
 | Bewaffnung |
@@ -28,9 +28,9 @@
 
 
 **Talente:**  
-Bildung I: Bildung.description
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Charmant I: Charmant.description
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
 Diebeskunst I: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
 

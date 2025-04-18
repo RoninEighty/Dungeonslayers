@@ -1,16 +1,16 @@
-### Lord Dammenhall  
+# Lord Dammenhall  
 - Gruppe: Untote  
 - Upgrade: Episch  
 
-| KÖR | 12 | AGI | 8 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 16 | BE | 2 | VE | 2 |
-| HÄ | 16 | GE | 2 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 380 | Abwehr | 40 | Initiative | 11 |
-| Laufen | 5 | Schlagen | 38 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 51 | GK | no | EP | 1130 |
+| KÖR    | 12  | AGI      | 8  | GEI        | 6    |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 16  | BE       | 2  | VE         | 2    |
+| HÄ     | 16  | GE       | 2  | AU         | 2    |
+|        |     |          |    |            |      |
+| LK     | 380 | Abwehr   | 40 | Initiative | 11   |
+| Laufen | 5   | Schlagen | 38 | Schiessen  | 10   |
+|        |     |          |    |            |      |
+| GH     | 51  | GK       | no | EP         | 1130 |
 
 
 | Bewaffnung |
@@ -24,9 +24,9 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Alterung: Alterung.description
+Alterung: Bei einem Treffer altert das Ziel pro erlittenen Schadenspunkt um 1 Jahr.
 
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 

@@ -1,4 +1,4 @@
-### Ritter 01  
+# Ritter 01  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 4 |
-|  |  |  |  |  |  |
-| LK | 22 | Abwehr | 21 | Initiative | 7 |
-| Laufen | 1 | Schlagen | 13 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 6 | GK | no | EP | 62 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 0  | VE         | 0  |
+| HÄ     | 4  | GE       | 0  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 22 | Abwehr   | 21 | Initiative | 7  |
+| Laufen | 1  | Schlagen | 13 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 6  | GK       | no | EP         | 62 |
 
 
 | Bewaffnung |

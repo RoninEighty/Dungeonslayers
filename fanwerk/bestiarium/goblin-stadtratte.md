@@ -1,15 +1,15 @@
-### Goblin Stadtratte  
+# Goblin Stadtratte  
 - Gruppe: Humanoide  
 
-| KÖR | 5 | AGI | 7 | GEI | 3 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 1 | VE | 3 |
-| HÄ | 1 | GE | 2 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 8 | Abwehr | 6 | Initiative | 9 |
-| Laufen | 4.5 | Schlagen | 6 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | kl | EP | 43 |
+| KÖR    | 5   | AGI      | 7  | GEI        | 3  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 1  | VE         | 3  |
+| HÄ     | 1   | GE       | 2  | AU         | 2  |
+|        |     |          |    |            |    |
+| LK     | 8   | Abwehr   | 6  | Initiative | 9  |
+| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 9  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 43 |
 
 
 | Bewaffnung |

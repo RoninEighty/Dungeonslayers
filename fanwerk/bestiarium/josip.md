@@ -1,4 +1,4 @@
-### Josip  
+# Josip  
 - Gruppe: Elf  
 - Volk: Elf  
 - Klasse: Attentäter  
@@ -7,15 +7,15 @@
 
 - Upgrade: Heroisch  
 
-| KÖR | 10 | AGI | 8 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 10 | VE | 2 |
-| HÄ | 4 | GE | 5 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 60 | Abwehr | 19 | Initiative | 40 |
-| Laufen | 5 | Schlagen | 19 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 10 | GK | kl | EP | 234 |
+| KÖR    | 10 | AGI      | 8  | GEI        | 8   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 10 | VE         | 2   |
+| HÄ     | 4  | GE       | 5  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 60 | Abwehr   | 19 | Initiative | 40  |
+| Laufen | 5  | Schlagen | 19 | Schiessen  | 13  |
+|        |    |          |    |            |     |
+| GH     | 10 | GK       | kl | EP         | 234 |
 
 
 | Bewaffnung |
@@ -32,7 +32,7 @@
 Des Schnitzers Gewandt (Set) (KÖR +1, AGI +1, GEI +1), Handschuhe (Schnelle Reflexe +II), Maske (Wahrnehmung +IV), Stiefel (Schnelle Reflexe +II), Umhang (Heimlichkeit +IV)
 
 **Talente:**  
-Ausweichen V: Ausweichen.description
+Ausweichen V: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Heimlichkeit V: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 

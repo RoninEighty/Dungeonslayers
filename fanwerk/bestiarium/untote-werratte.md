@@ -1,15 +1,15 @@
-### Untote Werratte  
+# Untote Werratte  
 - Gruppe: Untote  
 
-| KÖR | 9 | AGI | 9 | GEI | 0 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 2 | VE | 0 |
-| HÄ | 4 | GE | 2 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 23 | Abwehr | 13 | Initiative | 11 |
-| Laufen | 5.5 | Schlagen | 16 | Schiessen | 11 |
-|  |  |  |  |  |  |
-| GH | 5 | GK | no | EP | 73 |
+| KÖR    | 9   | AGI      | 9  | GEI        | 0  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5   | BE       | 2  | VE         | 0  |
+| HÄ     | 4   | GE       | 2  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 23  | Abwehr   | 13 | Initiative | 11 |
+| Laufen | 5.5 | Schlagen | 16 | Schiessen  | 11 |
+|        |     |          |    |            |    |
+| GH     | 5   | GK       | no | EP         | 73 |
 
 
 | Bewaffnung |

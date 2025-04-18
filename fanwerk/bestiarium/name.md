@@ -1,4 +1,4 @@
-### Name  
+# Name  
 - Gruppe: Gruppe  
 - Volk: Volk  
 - Stufe: Stufe  
@@ -6,15 +6,15 @@
 
 - Upgrade: Upgrade  
 
-| KÖR | KÖR | AGI | AGI | GEI | GEI |
-| --- | --- | --- | --- | --- | --- |
-| ST | ST | BE | BE | VE | VE |
-| HÄ | HÄ | GE | GE | AU | AU |
-|  |  |  |  |  |  |
-| LK | Lebenskraft | Abwehr | Abwehr | Initiative | Initiative |
-| Laufen | Laufen | Schlagen | Schlagen | Schiessen | Schiessen |
-|  |  |  |  |  |  |
-| GH | GH | GK | GK | EP | EP |
+| KÖR    | KÖR         | AGI      | AGI      | GEI        | GEI        |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | ST          | BE       | BE       | VE         | VE         |
+| HÄ     | HÄ          | GE       | GE       | AU         | AU         |
+|        |             |          |          |            |            |
+| LK     | Lebenskraft | Abwehr   | Abwehr   | Initiative | Initiative |
+| Laufen | Laufen      | Schlagen | Schlagen | Schiessen  | Schiessen  |
+|        |             |          |          |            |            |
+| GH     | GH          | GK       | GK       | EP         | EP         |
 
 
 | Bewaffnung |

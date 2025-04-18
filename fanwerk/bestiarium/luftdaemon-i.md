@@ -1,15 +1,15 @@
-### Luftdämon I  
+# Luftdämon I  
 - Gruppe: Magische Wesen  
 
-| KÖR | 7 | AGI | 8 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 3 | VE | 3 |
-| HÄ | 3 | GE | 3 | AU | 3 |
-|  |  |  |  |  |  |
-| LK | 20 | Abwehr | 14 | Initiative | 11 |
-| Laufen | 5 | Schlagen | 14 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 6 | GK | no | EP | 106 |
+| KÖR    | 7  | AGI      | 8  | GEI        | 6   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5  | BE       | 3  | VE         | 3   |
+| HÄ     | 3  | GE       | 3  | AU         | 3   |
+|        |    |          |    |            |     |
+| LK     | 20 | Abwehr   | 14 | Initiative | 11  |
+| Laufen | 5  | Schlagen | 14 | Schiessen  | 13  |
+|        |    |          |    |            |     |
+| GH     | 6  | GK       | no | EP         | 106 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Anfällig: Anfällig.description
+Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

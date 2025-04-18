@@ -1,4 +1,4 @@
-### Hilaner Priester  
+# Hilaner Priester  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 5 |
-| HÄ | 1 | GE | 0 | AU | 4 |
-|  |  |  |  |  |  |
-| LK | 17 | Abwehr | 7 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 6 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 50 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 5  |
+| HÄ     | 1  | GE       | 0  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 17 | Abwehr   | 7  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 6  | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 50 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Bildung II: Bildung.description
+Bildung II: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
 Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 

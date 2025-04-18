@@ -1,4 +1,4 @@
-### Brambel  
+# Brambel  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Späher  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 6 | AGI | 8 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 3 | VE | 1 |
-| HÄ | 2 | GE | 10 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 10 | Initiative | 9 |
-| Laufen | 5 | Schlagen | 6 | Schiessen | 20 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 58 |
+| KÖR    | 6  | AGI      | 8  | GEI        | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 3  | VE         | 1  |
+| HÄ     | 2  | GE       | 10 | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 10 | Initiative | 9  |
+| Laufen | 5  | Schlagen | 6  | Schiessen  | 20 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 58 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Ausweichen III: Ausweichen.description
+Ausweichen III: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Heimlichkeit III: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 

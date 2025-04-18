@@ -1,4 +1,4 @@
-### Jödländer Schamanin  
+# Jödländer Schamanin  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 5 | AGI | 7 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 0 |
-| HÄ | 2 | GE | 4 | AU | 4 |
-|  |  |  |  |  |  |
-| LK | 17 | Abwehr | 7 | Initiative | 7 |
-| Laufen | 4.5 | Schlagen | 6 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 53 |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 0  | VE         | 0  |
+| HÄ     | 2   | GE       | 4  | AU         | 4  |
+|        |     |          |    |            |    |
+| LK     | 17  | Abwehr   | 7  | Initiative | 7  |
+| Laufen | 4.5 | Schlagen | 6  | Schiessen  | 12 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 53 |
 
 
 | Bewaffnung |

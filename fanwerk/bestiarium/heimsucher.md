@@ -1,15 +1,15 @@
-### Heimsucher  
+# Heimsucher  
 - Gruppe: Untote  
 
-| KÖR | 5 | AGI | 9 | GEI | 7 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 8 | BE | 6 | VE | 5 |
-| HÄ | 8 | GE | 7 | AU | 1 |
-|  |  |  |  |  |  |
-| LK | 23 | Abwehr | 21 | Initiative | 15 |
-| Laufen | 5.5 | Schlagen | 13 | Schiessen | 17 |
-|  |  |  |  |  |  |
-| GH | 14 | GK | no | EP | 180 |
+| KÖR    | 5   | AGI      | 9  | GEI        | 7   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 8   | BE       | 6  | VE         | 5   |
+| HÄ     | 8   | GE       | 7  | AU         | 1   |
+|        |     |          |    |            |     |
+| LK     | 23  | Abwehr   | 21 | Initiative | 15  |
+| Laufen | 5.5 | Schlagen | 13 | Schiessen  | 17  |
+|        |     |          |    |            |     |
+| GH     | 14  | GK       | no | EP         | 180 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

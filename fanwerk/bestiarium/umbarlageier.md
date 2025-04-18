@@ -1,15 +1,15 @@
-### Umbarlageier  
+# Umbarlageier  
 - Gruppe: Tiere  
 
-| KÖR | 6 | AGI | 9 | GEI | 3 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 3 | VE | 2 |
-| HÄ | 2 | GE | 3 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 36 | Abwehr | 9 | Initiative | 12 |
-| Laufen | 6 | Schlagen | 12 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 3 | GK | gr | EP | 131 |
+| KÖR    | 6  | AGI      | 9  | GEI        | 3   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 3  | VE         | 2   |
+| HÄ     | 2  | GE       | 3  | AU         | 2   |
+|        |    |          |    |            |     |
+| LK     | 36 | Abwehr   | 9  | Initiative | 12  |
+| Laufen | 6  | Schlagen | 12 | Schiessen  | 12  |
+|        |    |          |    |            |     |
+| GH     | 3  | GK       | gr | EP         | 131 |
 
 
 | Bewaffnung |

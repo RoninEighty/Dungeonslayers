@@ -1,4 +1,4 @@
-### Iglorion  
+# Iglorion  
 - Gruppe: Elf  
 - Volk: Elf  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 1 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 25 | Abwehr | 12 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 16 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 3 | GK | no | EP | 58 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5  | BE       | 0  | VE         | 0  |
+| HÄ     | 4  | GE       | 1  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 25 | Abwehr   | 12 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 16 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | no | EP         | 58 |
 
 
 | Bewaffnung |

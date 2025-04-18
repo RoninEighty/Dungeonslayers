@@ -1,4 +1,4 @@
-### Jok von Walderson  
+# Jok von Walderson  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 7 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 9 | BE | 2 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 25 | Abwehr | 22 | Initiative | 10 |
-| Laufen | 4 | Schlagen | 23 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 12 | GK | no | EP | 70 |
+| KÖR    | 8  | AGI      | 7  | GEI        | 5  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 9  | BE       | 2  | VE         | 0  |
+| HÄ     | 4  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 25 | Abwehr   | 22 | Initiative | 10 |
+| Laufen | 4  | Schlagen | 23 | Schiessen  | 7  |
+|        |    |          |    |            |    |
+| GH     | 12 | GK       | no | EP         | 70 |
 
 
 | Bewaffnung |
@@ -32,7 +32,7 @@ Kämpfer III: Schlagen +1 pro Talentrang.
 
 Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Brutaler Hieb II: Brutaler Hieb.description
+Brutaler Hieb II: Schlagen +KÖR
 
 Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
 

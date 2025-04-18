@@ -1,4 +1,4 @@
-### Vandrianischer Waffenknecht  
+# Vandrianischer Waffenknecht  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Späher  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 7 | AGI | 8 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 0 | VE | 0 |
-| HÄ | 3 | GE | 6 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 23 | Abwehr | 14 | Initiative | 8 |
-| Laufen | 4 | Schlagen | 9 | Schiessen | 19 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | no | EP | 81 |
+| KÖR    | 7  | AGI      | 8  | GEI        | 5  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 0  | VE         | 0  |
+| HÄ     | 3  | GE       | 6  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 23 | Abwehr   | 14 | Initiative | 8  |
+| Laufen | 4  | Schlagen | 9  | Schiessen  | 19 |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | no | EP         | 81 |
 
 
 | Bewaffnung |

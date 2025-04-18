@@ -1,15 +1,15 @@
-### Sturmmeerkatze  
+# Sturmmeerkatze  
 - Gruppe: Tiere  
 
-| KÖR | 2 | AGI | 8 | GEI | 3 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 5 | VE | 0 |
-| HÄ | 0 | GE | 4 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 9 | Abwehr | 2 | Initiative | 13 |
-| Laufen | 7.5 | Schlagen | 3 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | kl | EP | 43 |
+| KÖR    | 2   | AGI      | 8  | GEI        | 3  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 5  | VE         | 0  |
+| HÄ     | 0   | GE       | 4  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 9   | Abwehr   | 2  | Initiative | 13 |
+| Laufen | 7.5 | Schlagen | 3  | Schiessen  | 13 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 43 |
 
 
 | Bewaffnung |

@@ -1,15 +1,15 @@
-### Einhorn  
+# Einhorn  
 - Gruppe: Magische Wesen  
 
-| KÖR | 9 | AGI | 13 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 6 | VE | 1 |
-| HÄ | 2 | GE | 0 | AU | 1 |
-|  |  |  |  |  |  |
-| LK | 63 | Abwehr | 11 | Initiative | 19 |
-| Laufen | 12 | Schlagen | 12 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 5 | GK | gr | EP | 194 |
+| KÖR    | 9  | AGI      | 13 | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 6  | VE         | 1   |
+| HÄ     | 2  | GE       | 0  | AU         | 1   |
+|        |    |          |    |            |     |
+| LK     | 63 | Abwehr   | 11 | Initiative | 19  |
+| Laufen | 12 | Schlagen | 12 | Schiessen  | 13  |
+|        |    |          |    |            |     |
+| GH     | 5  | GK       | gr | EP         | 194 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff (Horn oder Hufe) in jeder Runde aktionsfrei ausführen.
 

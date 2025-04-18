@@ -1,4 +1,4 @@
-### Gnomischer Illusionist  
+# Gnomischer Illusionist  
 - Gruppe: Gnom  
 - Volk: Gnom  
 - Klasse: Zauberer  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 2 |
-| HÄ | 0 | GE | 4 | AU | 5 |
-|  |  |  |  |  |  |
-| LK | 16 | Abwehr | 7 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 7 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | kl | EP | 50 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 2  |
+| HÄ     | 0  | GE       | 4  | AU         | 5  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 7  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | kl | EP         | 50 |
 
 
 | Bewaffnung |
@@ -28,9 +28,9 @@
 
 
 **Talente:**  
-Bildung I: Bildung.description
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Charmant I: Charmant.description
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
 Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang.
 

@@ -1,4 +1,4 @@
-### Vestracher Einbrecher  
+# Vestracher Einbrecher  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Späher  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 7 | AGI | 8 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 2 | VE | 1 |
-| HÄ | 1 | GE | 4 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 9 | Initiative | 11 |
-| Laufen | 5 | Schlagen | 10 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 51 |
+| KÖR    | 7  | AGI      | 8  | GEI        | 5  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 2  | VE         | 1  |
+| HÄ     | 1  | GE       | 4  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 9  | Initiative | 11 |
+| Laufen | 5  | Schlagen | 10 | Schiessen  | 13 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 51 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Akrobat I: Akrobat.description
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
 
 Diebeskunst I: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
 

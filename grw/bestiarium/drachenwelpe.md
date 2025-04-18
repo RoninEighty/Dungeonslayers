@@ -1,15 +1,15 @@
-### Drachenwelpe  
+# Drachenwelpe  
 - Gruppe: Magische Wesen  
 
-| KÖR | 9 | AGI | 11 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 3 | VE | 1 |
-| HÄ | 2 | GE | 3 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 63 | Abwehr | 14 | Initiative | 14 |
-| Laufen | 10.5 | Schlagen | 14 | Schiessen | 17 |
-|  |  |  |  |  |  |
-| GH | 20 | GK | gr | EP | 270 |
+| KÖR    | 9    | AGI      | 11 | GEI        | 5   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2    | BE       | 3  | VE         | 1   |
+| HÄ     | 2    | GE       | 3  | AU         | 2   |
+|        |      |          |    |            |     |
+| LK     | 63   | Abwehr   | 14 | Initiative | 14  |
+| Laufen | 10.5 | Schlagen | 14 | Schiessen  | 17  |
+|        |      |          |    |            |     |
+| GH     | 20   | GK       | gr | EP         | 270 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff (Biss, Klaue, Odem oder Schwanzhieb) in jeder Runde aktionsfrei ausführen. Bis auf die Klauen dürfen alle Angriffsarten nur einmal pro Runde angewendet werden.
 

@@ -1,4 +1,4 @@
-### Faria (Feuermagierin)  
+# Faria (Feuermagierin)  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Zauberer  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 4 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 4 |
-| HÄ | 4 | GE | 4 | AU | 5 |
-|  |  |  |  |  |  |
-| LK | 22 | Abwehr | 12 | Initiative | 4 |
-| Laufen | 4 | Schlagen | 9 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 81 |
+| KÖR    | 8  | AGI      | 4  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 4  |
+| HÄ     | 4  | GE       | 4  | AU         | 5  |
+|        |    |          |    |            |    |
+| LK     | 22 | Abwehr   | 12 | Initiative | 4  |
+| Laufen | 4  | Schlagen | 9  | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 81 |
 
 
 | Bewaffnung |
@@ -37,7 +37,7 @@ Wechsler II: Zauber wechseln +2 pro Talentrang.
 
 Flink I: Laufen +1m pro Talentrang.
 
-Ausweichen I: Ausweichen.description
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 

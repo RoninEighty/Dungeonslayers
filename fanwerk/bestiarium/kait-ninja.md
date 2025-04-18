@@ -1,4 +1,4 @@
-### Kait Ninja  
+# Kait Ninja  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Späher  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 5 | VE | 0 |
-| HÄ | 0 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 11 | Initiative | 16 |
-| Laufen | 6 | Schlagen | 15 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 2 | GK | no | EP | 52 |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5  | BE       | 5  | VE         | 0  |
+| HÄ     | 0  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 11 | Initiative | 16 |
+| Laufen | 6  | Schlagen | 15 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 2  | GK       | no | EP         | 52 |
 
 
 | Bewaffnung |
@@ -28,9 +28,9 @@
 
 
 **Talente:**  
-Akrobat I: Akrobat.description
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
 
-Ausweichen I: Ausweichen.description
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Flink I: Laufen +1m pro Talentrang.
 

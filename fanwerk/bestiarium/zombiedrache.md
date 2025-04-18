@@ -1,15 +1,15 @@
-### Zombiedrache  
+# Zombiedrache  
 - Gruppe: Untote  
 
-| KÖR | 20 | AGI | 8 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 8 | BE | 5 | VE | 1 |
-| HÄ | 10 | GE | 5 | AU | 1 |
-|  |  |  |  |  |  |
-| LK | 600 | Abwehr | 34 | Initiative | 13 |
-| Laufen | 12.5 | Schlagen | 32 | Schiessen | 17 |
-|  |  |  |  |  |  |
-| GH | 64 | GK | ge | EP | 907 |
+| KÖR    | 20   | AGI      | 8  | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 8    | BE       | 5  | VE         | 1   |
+| HÄ     | 10   | GE       | 5  | AU         | 1   |
+|        |      |          |    |            |     |
+| LK     | 600  | Abwehr   | 34 | Initiative | 13  |
+| Laufen | 12.5 | Schlagen | 32 | Schiessen  | 17  |
+|        |      |          |    |            |     |
+| GH     | 64   | GK       | ge | EP         | 907 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff (Biss, Klaue, Odem oder Schwanzhieb) in jeder Runde aktionsfrei ausführen. Bis auf die Klauen dürfen alle Angriffsarten nur einmal pro Runde angewendet werden.
 

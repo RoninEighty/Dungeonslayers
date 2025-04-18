@@ -1,15 +1,15 @@
-### Golem, Kristall-  
+# Golem, Kristall-  
 - Gruppe: Konstrukte  
 
-| KÖR | 8 | AGI | 10 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 0 | VE | 0 |
-| HÄ | 3 | GE | 5 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 42 | Abwehr | 14 | Initiative | 10 |
-| Laufen | 6.5 | Schlagen | 13 | Schiessen | 15 |
-|  |  |  |  |  |  |
-| GH | 7 | GK | gr | EP | 134 |
+| KÖR    | 8   | AGI      | 10 | GEI        | 4   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 0  | VE         | 0   |
+| HÄ     | 3   | GE       | 5  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 42  | Abwehr   | 14 | Initiative | 10  |
+| Laufen | 6.5 | Schlagen | 13 | Schiessen  | 15  |
+|        |     |          |    |            |     |
+| GH     | 7   | GK       | gr | EP         | 134 |
 
 
 | Bewaffnung |

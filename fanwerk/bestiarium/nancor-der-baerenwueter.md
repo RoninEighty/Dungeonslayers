@@ -1,4 +1,4 @@
-### Nancor der Bärenwüter  
+# Nancor der Bärenwüter  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 8 | BE | 1 | VE | 0 |
-| HÄ | 7 | GE | 0 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 34 | Abwehr | 18 | Initiative | 1 |
-| Laufen | 4 | Schlagen | 23 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 11 | GK | no | EP | 119 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 8  | BE       | 1  | VE         | 0   |
+| HÄ     | 7  | GE       | 0  | AU         | 2   |
+|        |    |          |    |            |     |
+| LK     | 34 | Abwehr   | 18 | Initiative | 1   |
+| Laufen | 4  | Schlagen | 23 | Schiessen  | 6   |
+|        |    |          |    |            |     |
+| GH     | 11 | GK       | no | EP         | 119 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Brutaler Hieb III: Brutaler Hieb.description
+Brutaler Hieb III: Schlagen +KÖR
 
 Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 

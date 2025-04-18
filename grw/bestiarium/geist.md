@@ -1,15 +1,15 @@
-### Geist  
+# Geist  
 - Gruppe: Untote  
 
-| KÖR | 1 | AGI | 11 | GEI | 10 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 16 | BE | 0 | VE | 3 |
-| HÄ | 16 | GE | 2 | AU | 6 |
-|  |  |  |  |  |  |
-| LK | 27 | Abwehr | 25 | Initiative | 11 |
-| Laufen | 6.5 | Schlagen | 19 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 24 | GK | no | EP | 279 |
+| KÖR    | 1   | AGI      | 11 | GEI        | 10  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 16  | BE       | 0  | VE         | 3   |
+| HÄ     | 16  | GE       | 2  | AU         | 6   |
+|        |     |          |    |            |     |
+| LK     | 27  | Abwehr   | 25 | Initiative | 11  |
+| Laufen | 6.5 | Schlagen | 19 | Schiessen  | 13  |
+|        |     |          |    |            |     |
+| GH     | 24  | GK       | no | EP         | 279 |
 
 
 | Bewaffnung |
@@ -23,9 +23,9 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Alterung: Alterung.description
+Alterung: Bei einem Treffer altert das Ziel pro erlittenen Schadenspunkt um 1 Jahr.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

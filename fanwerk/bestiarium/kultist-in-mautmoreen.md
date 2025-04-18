@@ -1,4 +1,4 @@
-### Kultist in Mautmoreen  
+# Kultist in Mautmoreen  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Schwarzmagier  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 7 | AGI | 5 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 1 | BE | 1 | VE | 2 |
-| HÄ | 1 | GE | 3 | AU | 3 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 8 | Initiative | 6 |
-| Laufen | 3.5 | Schlagen | 10 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 53 |
+| KÖR    | 7   | AGI      | 5  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 1   | BE       | 1  | VE         | 2  |
+| HÄ     | 1   | GE       | 3  | AU         | 3  |
+|        |     |          |    |            |    |
+| LK     | 18  | Abwehr   | 8  | Initiative | 6  |
+| Laufen | 3.5 | Schlagen | 10 | Schiessen  | 8  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 53 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Bildung I: Bildung.description
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
 Diener der Dunkelheit I: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 

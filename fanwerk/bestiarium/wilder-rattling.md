@@ -1,15 +1,15 @@
-### Wilder Rattling  
+# Wilder Rattling  
 - Gruppe: Humanoide  
 
-| KÖR | 7 | AGI | 10 | GEI | 3 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 5 | VE | 0 |
-| HÄ | 4 | GE | 3 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 21 | Abwehr | 12 | Initiative | 15 |
-| Laufen | 6 | Schlagen | 12 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | no | EP | 86 |
+| KÖR    | 7  | AGI      | 10 | GEI        | 3  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3  | BE       | 5  | VE         | 0  |
+| HÄ     | 4  | GE       | 3  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 12 | Initiative | 15 |
+| Laufen | 6  | Schlagen | 12 | Schiessen  | 13 |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | no | EP         | 86 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Gift: Gift.description
+Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

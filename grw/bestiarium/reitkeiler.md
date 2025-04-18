@@ -1,15 +1,15 @@
-### Reitkeiler  
+# Reitkeiler  
 - Gruppe: Tiere  
 
-| KÖR | 9 | AGI | 9 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 2 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 35 | Abwehr | 15 | Initiative | 11 |
-| Laufen | 8.5 | Schlagen | 13 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 5 | GK | no | EP | 86 |
+| KÖR    | 9   | AGI      | 9  | GEI        | 1  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2   | BE       | 2  | VE         | 0  |
+| HÄ     | 4   | GE       | 0  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 35  | Abwehr   | 15 | Initiative | 11 |
+| Laufen | 8.5 | Schlagen | 13 | Schiessen  | 9  |
+|        |     |          |    |            |    |
+| GH     | 5   | GK       | no | EP         | 86 |
 
 
 | Bewaffnung |

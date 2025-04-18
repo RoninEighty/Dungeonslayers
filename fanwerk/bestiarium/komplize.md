@@ -1,4 +1,4 @@
-### Komplize  
+# Komplize  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 0 | VE | 0 |
-| HÄ | 3 | GE | 3 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 21 | Abwehr | 12 | Initiative | 8 |
-| Laufen | 5 | Schlagen | 15 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 2 | GK | no | EP | 54 |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 0  | VE         | 0  |
+| HÄ     | 3  | GE       | 3  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 12 | Initiative | 8  |
+| Laufen | 5  | Schlagen | 15 | Schiessen  | 12 |
+|        |    |          |    |            |    |
+| GH     | 2  | GK       | no | EP         | 54 |
 
 
 | Bewaffnung |
@@ -34,9 +34,9 @@ Wahrnehmung II: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Tale
 
 Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
-Ausweichen I: Ausweichen.description
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Raserei I: Raserei.description
+Raserei I: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar.
 
 
 

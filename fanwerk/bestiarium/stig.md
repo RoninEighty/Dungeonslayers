@@ -1,4 +1,4 @@
-### Stig  
+# Stig  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 4 |
-| HÄ | 4 | GE | 0 | AU | 6 |
-|  |  |  |  |  |  |
-| LK | 20 | Abwehr | 12 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 7 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 71 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 4  |
+| HÄ     | 4  | GE       | 0  | AU         | 6  |
+|        |    |          |    |            |    |
+| LK     | 20 | Abwehr   | 12 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 7  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 71 |
 
 
 | Bewaffnung |
@@ -30,9 +30,9 @@
 **Talente:**  
 Fürsorger II: Heil- und Schutzzauber +1 pro Talentrang.
 
-Ausweichen I: Ausweichen.description
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Alchemie I: Alchemie.description
+Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang.
 
 Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren.
 

@@ -1,4 +1,4 @@
-### Jost Rotweiden  
+# Jost Rotweiden  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Paladin  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 7 | AGI | 7 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 10 | BE | 2 | VE | 2 |
-| HÄ | 9 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 32 | Abwehr | 19 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 23 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 11 | GK | no | EP | 121 |
+| KÖR    | 7  | AGI      | 7  | GEI        | 6   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 10 | BE       | 2  | VE         | 2   |
+| HÄ     | 9  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 32 | Abwehr   | 19 | Initiative | 6   |
+| Laufen | 4  | Schlagen | 23 | Schiessen  | 7   |
+|        |    |          |    |            |     |
+| GH     | 11 | GK       | no | EP         | 121 |
 
 
 | Bewaffnung |
@@ -32,7 +32,7 @@ Kämpfer III: Schlagen +1 pro Talentrang.
 
 Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Brutaler Hieb II: Brutaler Hieb.description
+Brutaler Hieb II: Schlagen +KÖR
 
 Vernichtender Schlag I: Nicht abwehrbarer Nahkampfangriff
 

@@ -1,4 +1,4 @@
-### Kampfmagier 04  
+# Kampfmagier 04  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Schwarzmagier  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 4 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 2 |
-| HÄ | 4 | GE | 5 | AU | 3 |
-|  |  |  |  |  |  |
-| LK | 31 | Abwehr | 12 | Initiative | 6 |
-| Laufen | 6 | Schlagen | 8 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 71 |
+| KÖR    | 8  | AGI      | 4  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 2  |
+| HÄ     | 4  | GE       | 5  | AU         | 3  |
+|        |    |          |    |            |    |
+| LK     | 31 | Abwehr   | 12 | Initiative | 6  |
+| Laufen | 6  | Schlagen | 8  | Schiessen  | 12 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 71 |
 
 
 | Bewaffnung |

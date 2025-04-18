@@ -1,4 +1,4 @@
-### Morg Bulgash  
+# Morg Bulgash  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 7 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 8 | BE | 1 | VE | 1 |
-| HÄ | 8 | GE | 1 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 26 | Abwehr | 27 | Initiative | 12 |
-| Laufen | 5 | Schlagen | 23 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 15 | GK | no | EP | 98 |
+| KÖR    | 8  | AGI      | 7  | GEI        | 5  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 8  | BE       | 1  | VE         | 1  |
+| HÄ     | 8  | GE       | 1  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 26 | Abwehr   | 27 | Initiative | 12 |
+| Laufen | 5  | Schlagen | 23 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 15 | GK       | no | EP         | 98 |
 
 
 | Bewaffnung |
@@ -28,9 +28,9 @@
 
 
 **Talente:**  
-Ausweichen III: Ausweichen.description
+Ausweichen III: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Brutaler Hieb III: Brutaler Hieb.description
+Brutaler Hieb III: Schlagen +KÖR
 
 Kämpfer III: Schlagen +1 pro Talentrang.
 

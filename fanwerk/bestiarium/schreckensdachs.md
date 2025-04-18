@@ -1,15 +1,15 @@
-### Schreckensdachs  
+# Schreckensdachs  
 - Gruppe: Tiere  
 
-| KÖR | 14 | AGI | 6 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 3 | VE | 0 |
-| HÄ | 3 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 41 | Abwehr | 18 | Initiative | 9 |
-| Laufen | 6 | Schlagen | 20 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 10 | GK | no | EP | 100 |
+| KÖR    | 14 | AGI      | 6  | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 3  | VE         | 0   |
+| HÄ     | 3  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 41 | Abwehr   | 18 | Initiative | 9   |
+| Laufen | 6  | Schlagen | 20 | Schiessen  | 6   |
+|        |    |          |    |            |     |
+| GH     | 10 | GK       | no | EP         | 100 |
 
 
 | Bewaffnung |

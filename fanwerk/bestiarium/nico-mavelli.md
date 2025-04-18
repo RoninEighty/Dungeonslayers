@@ -1,4 +1,4 @@
-### Nico Mavelli  
+# Nico Mavelli  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Blutmagier  
@@ -7,15 +7,15 @@
 
 - Upgrade: Heroisch  
 
-| KÖR | 7 | AGI | 5 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 0 | VE | 5 |
-| HÄ | 6 | GE | 5 | AU | 10 |
-|  |  |  |  |  |  |
-| LK | 130 | Abwehr | 18 | Initiative | 8 |
-| Laufen | 4.5 | Schlagen | 16 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 11 | GK | no | EP | 436 |
+| KÖR    | 7   | AGI      | 5  | GEI        | 8   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 0  | VE         | 5   |
+| HÄ     | 6   | GE       | 5  | AU         | 10  |
+|        |     |          |    |            |     |
+| LK     | 130 | Abwehr   | 18 | Initiative | 8   |
+| Laufen | 4.5 | Schlagen | 16 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 11  | GK       | no | EP         | 436 |
 
 
 | Bewaffnung |
@@ -34,7 +34,7 @@ Halskrause des Leids (Aura +2, Zauberqual +III), Kette des Leids (Zielzauber +2,
 **Talente:**  
 Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Blutschild II: Blutschild.description
+Blutschild II: Abwehr +2 für W20 Runden/2LK
 
 Einbetten II: +1 Bonus auf Herstellung mag. Gegenstände, Tränke, Schriftrollen.
 
@@ -48,9 +48,9 @@ Zaubermacht II: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilz
 
 Feuermagier I: Feuerzauber +1 pro Talentrang.
 
-Alchemie I: Alchemie.description
+Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang.
 
-Blutige Heilung I: Blutige Heilung.description
+Blutige Heilung I: Heilung PW: Stufe; Erfolg +LK 2xErgebnis; Bei Misserfolg nicht abwehrbarer Schaden.
 
 Macht des Blutes I: Für beliebige Probe PW +Attribut /2LK.
 

@@ -1,15 +1,15 @@
-### Kerberos  
+# Kerberos  
 - Gruppe: Magische Wesen  
 
-| KÖR | 14 | AGI | 8 | GEI | 0 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 6 | BE | 2 | VE | 1 |
-| HÄ | 2 | GE | 2 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 78 | Abwehr | 20 | Initiative | 10 |
-| Laufen | 8 | Schlagen | 23 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 19 | GK | gr | EP | 180 |
+| KÖR    | 14 | AGI      | 8  | GEI        | 0   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 6  | BE       | 2  | VE         | 1   |
+| HÄ     | 2  | GE       | 2  | AU         | 2   |
+|        |    |          |    |            |     |
+| LK     | 78 | Abwehr   | 20 | Initiative | 10  |
+| Laufen | 8  | Schlagen | 23 | Schiessen  | 10  |
+|        |    |          |    |            |     |
+| GH     | 19 | GK       | gr | EP         | 180 |
 
 
 | Bewaffnung |
@@ -25,9 +25,9 @@
 **Talente:**  
 Mehrere Angriffe (+2): Kann 2 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
 
-Gift: Gift.description
+Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde.
 
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

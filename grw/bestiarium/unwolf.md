@@ -1,15 +1,15 @@
-### Unwolf  
+# Unwolf  
 - Gruppe: Magische Wesen  
 
-| KÖR | 11 | AGI | 8 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 2 | VE | 0 |
-| HÄ | 2 | GE | 2 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 35 | Abwehr | 14 | Initiative | 10 |
-| Laufen | 7.5 | Schlagen | 16 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 7 | GK | no | EP | 104 |
+| KÖR    | 11  | AGI      | 8  | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4   | BE       | 2  | VE         | 0   |
+| HÄ     | 2   | GE       | 2  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 35  | Abwehr   | 14 | Initiative | 10  |
+| Laufen | 7.5 | Schlagen | 16 | Schiessen  | 12  |
+|        |     |          |    |            |     |
+| GH     | 7   | GK       | no | EP         | 104 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Anfällig: Anfällig.description
+Anfällig: Erhält doppelten Schaden durch Eis-, Frost- und Wasserangriffe.
 
 Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 

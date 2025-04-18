@@ -1,15 +1,15 @@
-### Skelettdrache  
+# Skelettdrache  
 - Gruppe: Untote  
 
-| KÖR | 15 | AGI | 12 | GEI | 3 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 8 | BE | 9 | VE | 1 |
-| HÄ | 7 | GE | 7 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 480 | Abwehr | 25 | Initiative | 21 |
-| Laufen | 15.5 | Schlagen | 26 | Schiessen | 19 |
-|  |  |  |  |  |  |
-| GH | 46 | GK | ge | EP | 685 |
+| KÖR    | 15   | AGI      | 12 | GEI        | 3   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 8    | BE       | 9  | VE         | 1   |
+| HÄ     | 7    | GE       | 7  | AU         | 2   |
+|        |      |          |    |            |     |
+| LK     | 480  | Abwehr   | 25 | Initiative | 21  |
+| Laufen | 15.5 | Schlagen | 26 | Schiessen  | 19  |
+|        |      |          |    |            |     |
+| GH     | 46   | GK       | ge | EP         | 685 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff (Biss, Klaue, Odem oder Schwanzhieb) in jeder Runde aktionsfrei ausführen. Bis auf die Klauen dürfen alle Angriffsarten nur einmal pro Runde angewendet werden.
 

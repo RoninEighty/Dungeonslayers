@@ -1,4 +1,4 @@
-### Bulegor  
+# Bulegor  
 - Gruppe: Zwerg  
 - Volk: Zwerg  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 0 | VE | 2 |
-| HÄ | 9 | GE | 1 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 27 | Abwehr | 27 | Initiative | 7 |
-| Laufen | 3.5 | Schlagen | 14 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 10 | GK | no | EP | 79 |
+| KÖR    | 8   | AGI      | 6  | GEI        | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2   | BE       | 0  | VE         | 2  |
+| HÄ     | 9   | GE       | 1  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 27  | Abwehr   | 27 | Initiative | 7  |
+| Laufen | 3.5 | Schlagen | 14 | Schiessen  | 7  |
+|        |     |          |    |            |    |
+| GH     | 10  | GK       | no | EP         | 79 |
 
 
 | Bewaffnung |
@@ -28,9 +28,9 @@
 
 
 **Talente:**  
-Ausweichen III: Ausweichen.description
+Ausweichen III: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Blocker III: Blocker.description
+Blocker III: Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro Kampf und Talentrang einen Abwehrpatzer wiederholen.
 
 Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 

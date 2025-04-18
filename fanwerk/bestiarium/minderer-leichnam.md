@@ -1,15 +1,15 @@
-### Minderer Leichnam  
+# Minderer Leichnam  
 - Gruppe: Untote  
 
-| KÖR | 6 | AGI | 6 | GEI | 9 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 6 |
-| HÄ | 2 | GE | 4 | AU | 7 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 10 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 11 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 9 | GK | no | EP | 153 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 9   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 6   |
+| HÄ     | 2  | GE       | 4  | AU         | 7   |
+|        |    |          |    |            |     |
+| LK     | 18 | Abwehr   | 10 | Initiative | 6   |
+| Laufen | 4  | Schlagen | 11 | Schiessen  | 10  |
+|        |    |          |    |            |     |
+| GH     | 9  | GK       | no | EP         | 153 |
 
 
 | Bewaffnung |
@@ -27,7 +27,7 @@ Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Lähmungseffekt: Lähmungseffekttouch.description
+Lähmungseffekt: Lähmende Berührung macht Ziel für Probenergebnis in Kampfrunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt.
 
 Magische Aufladung: Kann sich für eine Runde magisch aufladen (zählt als Aktion), um in der nächsten Runde einen Bonus von +GEI auf Zielzauber zu erhalten.
 

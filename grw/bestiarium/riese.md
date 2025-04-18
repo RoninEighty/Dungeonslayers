@@ -1,15 +1,15 @@
-### Riese  
+# Riese  
 - Gruppe: Humanoide  
 
-| KÖR | 27 | AGI | 6 | GEI | 2 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 7 | BE | 3 | VE | 1 |
-| HÄ | 7 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 220 | Abwehr | 35 | Initiative | 9 |
-| Laufen | 6 | Schlagen | 38 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 29 | GK | ri | EP | 347 |
+| KÖR    | 27  | AGI      | 6  | GEI        | 2   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 7   | BE       | 3  | VE         | 1   |
+| HÄ     | 7   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 220 | Abwehr   | 35 | Initiative | 9   |
+| Laufen | 6   | Schlagen | 38 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 29  | GK       | ri | EP         | 347 |
 
 
 | Bewaffnung |

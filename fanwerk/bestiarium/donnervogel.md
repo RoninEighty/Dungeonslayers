@@ -1,15 +1,15 @@
-### Donnervogel  
+# Donnervogel  
 - Gruppe: Tiere  
 
-| KÖR | 8 | AGI | 9 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 6 | VE | 0 |
-| HÄ | 1 | GE | 2 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 38 | Abwehr | 10 | Initiative | 15 |
-| Laufen | 6 | Schlagen | 14 | Schiessen | 11 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | gr | EP | 82 |
+| KÖR    | 8  | AGI      | 9  | GEI        | 1  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 6  | VE         | 0  |
+| HÄ     | 1  | GE       | 2  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 38 | Abwehr   | 10 | Initiative | 15 |
+| Laufen | 6  | Schlagen | 14 | Schiessen  | 11 |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | gr | EP         | 82 |
 
 
 | Bewaffnung |

@@ -1,15 +1,15 @@
-### Faulbauchmade  
+# Faulbauchmade  
 - Gruppe: Untote  
 
-| KÖR | 6 | AGI | 6 | GEI | 0 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 10 | Abwehr | 10 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 10 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | kl | EP | 47 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 0  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 0  | VE         | 0  |
+| HÄ     | 4  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 10 | Abwehr   | 10 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 10 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | kl | EP         | 47 |
 
 
 | Bewaffnung |

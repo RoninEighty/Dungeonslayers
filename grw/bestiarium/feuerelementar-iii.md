@@ -1,15 +1,15 @@
-### Feuerelementar III  
+# Feuerelementar III  
 - Gruppe: Magische Wesen  
 
-| KÖR | 18 | AGI | 6 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 6 | BE | 0 | VE | 0 |
-| HÄ | 7 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 70 | Abwehr | 33 | Initiative | 6 |
-| Laufen | 4.5 | Schlagen | 28 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 24 | GK | gr | EP | 145 |
+| KÖR    | 18  | AGI      | 6  | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 6   | BE       | 0  | VE         | 0   |
+| HÄ     | 7   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 70  | Abwehr   | 33 | Initiative | 6   |
+| Laufen | 4.5 | Schlagen | 28 | Schiessen  | 6   |
+|        |     |          |    |            |     |
+| GH     | 24  | GK       | gr | EP         | 145 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Anfällig: Anfällig.description
+Anfällig: Erhält doppelten Schaden durch Eis-, Frost- und Wasserangriffe.
 
 Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 

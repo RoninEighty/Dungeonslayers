@@ -1,4 +1,4 @@
-### Kavija die Uralte  
+# Kavija die Uralte  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Schwarzmagier  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 5 | AGI | 5 | GEI | 10 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 7 |
-| HÄ | 0 | GE | 1 | AU | 9 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 5 | Initiative | 5 |
-| Laufen | 3.5 | Schlagen | 6 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 77 |
+| KÖR    | 5   | AGI      | 5  | GEI        | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 0  | VE         | 7  |
+| HÄ     | 0   | GE       | 1  | AU         | 9  |
+|        |     |          |    |            |    |
+| LK     | 18  | Abwehr   | 5  | Initiative | 5  |
+| Laufen | 3.5 | Schlagen | 6  | Schiessen  | 6  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 77 |
 
 
 | Bewaffnung |
@@ -31,7 +31,7 @@
 bunte Feder (Kraft der Bestie +I, Adlergestalt +I), Kette (Tiergestalt +I, Kraft der Bestie +I), Umhang (Kraft der Bestie +I, Bärengestalt +I)
 
 **Talente:**  
-Alchemie III: Alchemie.description
+Alchemie III: Tränke identifizieren und herstellen +1 pro Talentrang.
 
 Wechsler III: Zauber wechseln +2 pro Talentrang.
 

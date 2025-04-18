@@ -1,4 +1,4 @@
-### HeilerSchütze 04  
+# HeilerSchütze 04  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 5 | AGI | 7 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 2 |
-| HÄ | 4 | GE | 5 | AU | 3 |
-|  |  |  |  |  |  |
-| LK | 25 | Abwehr | 10 | Initiative | 8 |
-| Laufen | 4.5 | Schlagen | 5 | Schiessen | 17 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 79 |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 0  | VE         | 2  |
+| HÄ     | 4   | GE       | 5  | AU         | 3  |
+|        |     |          |    |            |    |
+| LK     | 25  | Abwehr   | 10 | Initiative | 8  |
+| Laufen | 4.5 | Schlagen | 5  | Schiessen  | 17 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 79 |
 
 
 | Bewaffnung |
@@ -32,7 +32,7 @@ Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang.
 
 Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Abklingen I: Abklingen.description
+Abklingen I: Abklingzeit aller Zauber -1 Runde
 
 Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren.
 

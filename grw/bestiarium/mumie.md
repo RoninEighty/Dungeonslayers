@@ -1,15 +1,15 @@
-### Mumie  
+# Mumie  
 - Gruppe: Untote  
 
-| KÖR | 12 | AGI | 4 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 10 | BE | 0 | VE | 0 |
-| HÄ | 10 | GE | 0 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 32 | Abwehr | 23 | Initiative | 4 |
-| Laufen | 3 | Schlagen | 23 | Schiessen | 4 |
-|  |  |  |  |  |  |
-| GH | 18 | GK | no | EP | 133 |
+| KÖR    | 12 | AGI      | 4  | GEI        | 4   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 10 | BE       | 0  | VE         | 0   |
+| HÄ     | 10 | GE       | 0  | AU         | 2   |
+|        |    |          |    |            |     |
+| LK     | 32 | Abwehr   | 23 | Initiative | 4   |
+| Laufen | 3  | Schlagen | 23 | Schiessen  | 4   |
+|        |    |          |    |            |     |
+| GH     | 18 | GK       | no | EP         | 133 |
 
 
 | Bewaffnung |
@@ -23,9 +23,9 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Anfällig: Anfällig.description
+Anfällig: Erhält doppelten Schaden durch Feuer.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

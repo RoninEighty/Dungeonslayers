@@ -1,4 +1,4 @@
-### Nordeker Ritter  
+# Nordeker Ritter  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 0 | VE | 0 |
-| HÄ | 3 | GE | 0 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 21 | Abwehr | 15 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 16 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 5 | GK | no | EP | 75 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5  | BE       | 0  | VE         | 0  |
+| HÄ     | 3  | GE       | 0  | AU         | 2  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 15 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 16 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 5  | GK       | no | EP         | 75 |
 
 
 | Bewaffnung |
@@ -30,7 +30,7 @@
 **Talente:**  
 Kämpfer II: Schlagen +1 pro Talentrang.
 
-Brutaler Hieb I: Brutaler Hieb.description
+Brutaler Hieb I: Schlagen +KÖR
 
 Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 

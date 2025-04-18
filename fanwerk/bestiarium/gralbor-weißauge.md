@@ -1,4 +1,4 @@
-### Gralbor Weißauge  
+# Gralbor Weißauge  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 9 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 7 |
-| HÄ | 0 | GE | 0 | AU | 9 |
-|  |  |  |  |  |  |
-| LK | 16 | Abwehr | 6 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 6 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 73 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 9  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 7  |
+| HÄ     | 0  | GE       | 0  | AU         | 9  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 6  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 6  | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 73 |
 
 
 | Bewaffnung |

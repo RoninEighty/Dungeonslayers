@@ -1,15 +1,15 @@
-### Kleine Monsterspinne  
+# Kleine Monsterspinne  
 - Gruppe: Tiere  
 
-| KÖR | 10 | AGI | 7 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 2 | VE | 0 |
-| HÄ | 1 | GE | 4 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 32 | Abwehr | 12 | Initiative | 9 |
-| Laufen | 7 | Schlagen | 13 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 5 | GK | no | EP | 97 |
+| KÖR    | 10 | AGI      | 7  | GEI        | 1  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 2  | VE         | 0  |
+| HÄ     | 1  | GE       | 4  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 32 | Abwehr   | 12 | Initiative | 9  |
+| Laufen | 7  | Schlagen | 13 | Schiessen  | 12 |
+|        |    |          |    |            |    |
+| GH     | 5  | GK       | no | EP         | 97 |
 
 
 | Bewaffnung |

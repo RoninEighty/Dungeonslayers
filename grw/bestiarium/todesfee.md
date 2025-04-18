@@ -1,15 +1,15 @@
-### Todesfee  
+# Todesfee  
 - Gruppe: Untote  
 
-| KÖR | 6 | AGI | 9 | GEI | 10 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 19 | BE | 0 | VE | 3 |
-| HÄ | 19 | GE | 0 | AU | 9 |
-|  |  |  |  |  |  |
-| LK | 35 | Abwehr | 33 | Initiative | 9 |
-| Laufen | 5.5 | Schlagen | 27 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 31 | GK | no | EP | 287 |
+| KÖR    | 6   | AGI      | 9  | GEI        | 10  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 19  | BE       | 0  | VE         | 3   |
+| HÄ     | 19  | GE       | 0  | AU         | 9   |
+|        |     |          |    |            |     |
+| LK     | 35  | Abwehr   | 33 | Initiative | 9   |
+| Laufen | 5.5 | Schlagen | 27 | Schiessen  | 9   |
+|        |     |          |    |            |     |
+| GH     | 31  | GK       | no | EP         | 287 |
 
 
 | Bewaffnung |
@@ -23,9 +23,9 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Alterung: Alterung.description
+Alterung: Bei einem Treffer altert das Ziel pro erlittenen Schadenspunkt um 1 Jahr.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

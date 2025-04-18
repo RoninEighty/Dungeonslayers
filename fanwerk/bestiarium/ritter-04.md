@@ -1,4 +1,4 @@
-### Ritter 04  
+# Ritter 04  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 4 |
-|  |  |  |  |  |  |
-| LK | 22 | Abwehr | 21 | Initiative | 9 |
-| Laufen | 4 | Schlagen | 18 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 8 | GK | no | EP | 65 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5  | BE       | 0  | VE         | 0  |
+| HÄ     | 4  | GE       | 0  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 22 | Abwehr   | 21 | Initiative | 9  |
+| Laufen | 4  | Schlagen | 18 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 8  | GK       | no | EP         | 65 |
 
 
 | Bewaffnung |
@@ -33,7 +33,7 @@ Stiefel (Flink +III)
 **Talente:**  
 Kämpfer III: Schlagen +1 pro Talentrang.
 
-Charmant I: Charmant.description
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
 Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 

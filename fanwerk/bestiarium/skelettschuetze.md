@@ -1,15 +1,15 @@
-### Skelettschütze  
+# Skelettschütze  
 - Gruppe: Untote  
 
-| KÖR | 7 | AGI | 8 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 4 | VE | 4 |
-| HÄ | 3 | GE | 6 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 20 | Abwehr | 13 | Initiative | 15 |
-| Laufen | 4.5 | Schlagen | 12 | Schiessen | 18 |
-|  |  |  |  |  |  |
-| GH | 7 | GK | no | EP | 103 |
+| KÖR    | 7   | AGI      | 8  | GEI        | 5   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 4  | VE         | 4   |
+| HÄ     | 3   | GE       | 6  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 20  | Abwehr   | 13 | Initiative | 15  |
+| Laufen | 4.5 | Schlagen | 12 | Schiessen  | 18  |
+|        |     |          |    |            |     |
+| GH     | 7   | GK       | no | EP         | 103 |
 
 
 | Bewaffnung |

@@ -1,15 +1,15 @@
-### Luftelementar III  
+# Luftelementar III  
 - Gruppe: Magische Wesen  
 
-| KÖR | 15 | AGI | 9 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 0 | VE | 0 |
-| HÄ | 7 | GE | 4 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 64 | Abwehr | 30 | Initiative | 9 |
-| Laufen | 6 | Schlagen | 21 | Schiessen | 17 |
-|  |  |  |  |  |  |
-| GH | 16 | GK | gr | EP | 143 |
+| KÖR    | 15 | AGI      | 9  | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 0  | VE         | 0   |
+| HÄ     | 7  | GE       | 4  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 64 | Abwehr   | 30 | Initiative | 9   |
+| Laufen | 6  | Schlagen | 21 | Schiessen  | 17  |
+|        |    |          |    |            |     |
+| GH     | 16 | GK       | gr | EP         | 143 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Anfällig: Anfällig.description
+Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe.
 
 Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 

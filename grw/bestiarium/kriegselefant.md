@@ -1,15 +1,15 @@
-### Kriegselefant  
+# Kriegselefant  
 - Gruppe: Tiere  
 
-| KÖR | 16 | AGI | 6 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 2 | VE | 0 |
-| HÄ | 5 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 93 | Abwehr | 23 | Initiative | 8 |
-| Laufen | 6.5 | Schlagen | 23 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 16 | GK | gr | EP | 142 |
+| KÖR    | 16  | AGI      | 6  | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5   | BE       | 2  | VE         | 0   |
+| HÄ     | 5   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 93  | Abwehr   | 23 | Initiative | 8   |
+| Laufen | 6.5 | Schlagen | 23 | Schiessen  | 6   |
+|        |     |          |    |            |     |
+| GH     | 16  | GK       | gr | EP         | 142 |
 
 
 | Bewaffnung |

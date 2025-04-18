@@ -1,4 +1,4 @@
-### Kruga  
+# Kruga  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Kriegszauberer  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 7 | AGI | 5 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 0 | VE | 8 |
-| HÄ | 2 | GE | 6 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 19 | Abwehr | 11 | Initiative | 7 |
-| Laufen | 3.5 | Schlagen | 18 | Schiessen | 11 |
-|  |  |  |  |  |  |
-| GH | 2 | GK | no | EP | 110 |
+| KÖR    | 7   | AGI      | 5  | GEI        | 8   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4   | BE       | 0  | VE         | 8   |
+| HÄ     | 2   | GE       | 6  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 19  | Abwehr   | 11 | Initiative | 7   |
+| Laufen | 3.5 | Schlagen | 18 | Schiessen  | 11  |
+|        |     |          |    |            |     |
+| GH     | 2   | GK       | no | EP         | 110 |
 
 
 | Bewaffnung |
@@ -32,7 +32,7 @@ Feuermagier III: Feuerzauber +1 pro Talentrang.
 
 Wissensgebiet III: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Ausweichen II: Ausweichen.description
+Ausweichen II: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Einbetten II: +1 Bonus auf Herstellung mag. Gegenstände, Tränke, Schriftrollen.
 
@@ -42,7 +42,7 @@ Kämpfer I: Schlagen +1 pro Talentrang.
 
 Gerüstet I: Klassenfremde Rüstung tragen
 
-Arkane Explosion I: Arkane Explosion.description
+Arkane Explosion I: Schaden PW: Rang x10; Durchmesser Stufe/2m pro Tag und Rang.
 
 Standhaft I: LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang.
 

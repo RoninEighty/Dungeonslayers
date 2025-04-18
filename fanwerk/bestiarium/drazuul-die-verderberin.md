@@ -1,16 +1,16 @@
-### Drazuul die Verderberin  
+# Drazuul die Verderberin  
 - Gruppe: Tiere  
 - Upgrade: Heroisch  
 
-| KÖR | 10 | AGI | 9 | GEI | 9 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 10 | BE | 5 | VE | 5 |
-| HÄ | 10 | GE | 5 | AU | 5 |
-|  |  |  |  |  |  |
-| LK | 150 | Abwehr | 25 | Initiative | 14 |
-| Laufen | 5.5 | Schlagen | 25 | Schiessen | 14 |
-|  |  |  |  |  |  |
-| GH | 27 | GK | no | EP | 588 |
+| KÖR    | 10  | AGI      | 9  | GEI        | 9   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 10  | BE       | 5  | VE         | 5   |
+| HÄ     | 10  | GE       | 5  | AU         | 5   |
+|        |     |          |    |            |     |
+| LK     | 150 | Abwehr   | 25 | Initiative | 14  |
+| Laufen | 5.5 | Schlagen | 25 | Schiessen  | 14  |
+|        |     |          |    |            |     |
+| GH     | 27  | GK       | no | EP         | 588 |
 
 
 | Bewaffnung |
@@ -30,7 +30,7 @@ Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Bezaubern: Bezaubern.description
+Bezaubern: Kann Gegner mit ihrem 'Lockruf' (siehe Zauber) bezaubern.
 
 Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 

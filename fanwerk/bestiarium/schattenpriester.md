@@ -1,4 +1,4 @@
-### Schattenpriester  
+# Schattenpriester  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Schwarzmagier  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 5 | AGI | 8 | GEI | 7 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 5 |
-| HÄ | 0 | GE | 6 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 15 | Abwehr | 5 | Initiative | 9 |
-| Laufen | 5 | Schlagen | 5 | Schiessen | 14 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 62 |
+| KÖR    | 5  | AGI      | 8  | GEI        | 7  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 5  |
+| HÄ     | 0  | GE       | 6  | AU         | 2  |
+|        |    |          |    |            |    |
+| LK     | 15 | Abwehr   | 5  | Initiative | 9  |
+| Laufen | 5  | Schlagen | 5  | Schiessen  | 14 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 62 |
 
 
 | Bewaffnung |
@@ -25,10 +25,6 @@
 | Panzerung |
 | --- |
 | Robe (runenbestickt) (Aura +1) |
-
-
-**Talente:**  
-
 
 
 **Zaubersprüche:**  

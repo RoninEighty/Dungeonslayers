@@ -1,4 +1,4 @@
-### Tarr-Novize  
+# Tarr-Novize  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 7 | BE | 1 | VE | 0 |
-| HÄ | 6 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 30 | Abwehr | 18 | Initiative | 4 |
-| Laufen | 4 | Schlagen | 20 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 9 | GK | no | EP | 111 |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 7  | BE       | 1  | VE         | 0   |
+| HÄ     | 6  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 30 | Abwehr   | 18 | Initiative | 4   |
+| Laufen | 4  | Schlagen | 20 | Schiessen  | 8   |
+|        |    |          |    |            |     |
+| GH     | 9  | GK       | no | EP         | 111 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Brutaler Hieb II: Brutaler Hieb.description
+Brutaler Hieb II: Schlagen +KÖR
 
 Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 

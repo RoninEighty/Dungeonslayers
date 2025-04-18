@@ -1,4 +1,4 @@
-### Copperntaler Milizionär  
+# Copperntaler Milizionär  
 - Gruppe: Halbling  
 - Volk: Halbling  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen  
 
 
-| KÖR | 8 | AGI | 7 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 2 | VE | 1 |
-| HÄ | 2 | GE | 1 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 20 | Abwehr | 13 | Initiative | 12 |
-| Laufen | 4.5 | Schlagen | 14 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | kl | EP | 54 |
+| KÖR    | 8   | AGI      | 7  | GEI        | 5  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4   | BE       | 2  | VE         | 1  |
+| HÄ     | 2   | GE       | 1  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 20  | Abwehr   | 13 | Initiative | 12 |
+| Laufen | 4.5 | Schlagen | 14 | Schiessen  | 9  |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | kl | EP         | 54 |
 
 
 | Bewaffnung |

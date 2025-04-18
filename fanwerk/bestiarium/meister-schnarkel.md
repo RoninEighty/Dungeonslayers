@@ -1,4 +1,4 @@
-### Meister Schnarkel  
+# Meister Schnarkel  
 - Gruppe: Rattling  
 - Volk: Rattling  
 - Klasse: Zauberer  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 2 |
-| HÄ | 1 | GE | 2 | AU | 6 |
-|  |  |  |  |  |  |
-| LK | 17 | Abwehr | 7 | Initiative | 8 |
-| Laufen | 4 | Schlagen | 9 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 55 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 2  |
+| HÄ     | 1  | GE       | 2  | AU         | 6  |
+|        |    |          |    |            |    |
+| LK     | 17 | Abwehr   | 7  | Initiative | 8  |
+| Laufen | 4  | Schlagen | 9  | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 55 |
 
 
 | Bewaffnung |
@@ -31,7 +31,7 @@
 Amulett (Wahrnehmung +II)
 
 **Talente:**  
-Bildung III: Bildung.description
+Bildung III: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
 Runenkunde II: Schriftrollen identifizieren und herstellen +1 pro Talentrang.
 

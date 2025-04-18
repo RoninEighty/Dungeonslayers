@@ -1,16 +1,16 @@
-### Getreuer Dammenhalls  
+# Getreuer Dammenhalls  
 - Gruppe: Untote  
 - Upgrade: Heroisch  
 
-| KÖR | 10 | AGI | 8 | GEI | 0 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 8 | BE | 2 | VE | 0 |
-| HÄ | 8 | GE | 2 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 140 | Abwehr | 27 | Initiative | 11 |
-| Laufen | 5 | Schlagen | 23 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 22 | GK | no | EP | 428 |
+| KÖR    | 10  | AGI      | 8  | GEI        | 0   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 8   | BE       | 2  | VE         | 0   |
+| HÄ     | 8   | GE       | 2  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 140 | Abwehr   | 27 | Initiative | 11  |
+| Laufen | 5   | Schlagen | 23 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 22  | GK       | no | EP         | 428 |
 
 
 | Bewaffnung |
@@ -24,9 +24,9 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Alterung: Alterung.description
+Alterung: Bei einem Treffer altert das Ziel um 1 Jahr.
 
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 

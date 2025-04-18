@@ -1,4 +1,4 @@
-### Berna-Priesterin  
+# Berna-Priesterin  
 - Gruppe: Halbling  
 - Volk: Halbling  
 - Klasse: Späher  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen  
 
 
-| KÖR | 5 | AGI | 8 | GEI | 7 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 2 |
-| HÄ | 1 | GE | 3 | AU | 4 |
-|  |  |  |  |  |  |
-| LK | 16 | Abwehr | 7 | Initiative | 11 |
-| Laufen | 5 | Schlagen | 5 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | kl | EP | 48 |
+| KÖR    | 5  | AGI      | 8  | GEI        | 7  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 2  |
+| HÄ     | 1  | GE       | 3  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 7  | Initiative | 11 |
+| Laufen | 5  | Schlagen | 5  | Schiessen  | 13 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | kl | EP         | 48 |
 
 
 | Bewaffnung |

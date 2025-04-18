@@ -1,15 +1,15 @@
-### Jungdrache  
+# Jungdrache  
 - Gruppe: Magische Wesen  
 
-| KÖR | 16 | AGI | 12 | GEI | 7 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 3 | VE | 2 |
-| HÄ | 4 | GE | 3 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 225 | Abwehr | 24 | Initiative | 15 |
-| Laufen | 12.5 | Schlagen | 24 | Schiessen | 19 |
-|  |  |  |  |  |  |
-| GH | 37 | GK | ri | EP | 491 |
+| KÖR    | 16   | AGI      | 12 | GEI        | 7   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4    | BE       | 3  | VE         | 2   |
+| HÄ     | 4    | GE       | 3  | AU         | 2   |
+|        |      |          |    |            |     |
+| LK     | 225  | Abwehr   | 24 | Initiative | 15  |
+| Laufen | 12.5 | Schlagen | 24 | Schiessen  | 19  |
+|        |      |          |    |            |     |
+| GH     | 37   | GK       | ri | EP         | 491 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff (Biss, Klaue, Odem oder Schwanzhieb) in jeder Runde aktionsfrei ausführen. Bis auf die Klauen dürfen alle Angriffsarten nur einmal pro Runde angewendet werden.
 

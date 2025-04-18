@@ -1,4 +1,4 @@
-### Sanuriel  
+# Sanuriel  
 - Gruppe: Elf  
 - Volk: Elf  
 - Klasse: Zauberer  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 2 |
-| HÄ | 2 | GE | 4 | AU | 3 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 8 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 7 | Schiessen | 11 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 53 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 2  |
+| HÄ     | 2  | GE       | 4  | AU         | 3  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 8  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 11 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 53 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Blitzmacher I: Blitzmacher.description
+Blitzmacher I: +1 Bonus auf Blitzzauber
 
 Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen.
 

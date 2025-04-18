@@ -1,15 +1,15 @@
-### Ettin  
+# Ettin  
 - Gruppe: Humanoide  
 
-| KÖR | 18 | AGI | 4 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 2 | VE | 3 |
-| HÄ | 6 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 68 | Abwehr | 25 | Initiative | 6 |
-| Laufen | 3.5 | Schlagen | 26 | Schiessen | 4 |
-|  |  |  |  |  |  |
-| GH | 22 | GK | gr | EP | 168 |
+| KÖR    | 18  | AGI      | 4  | GEI        | 5   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5   | BE       | 2  | VE         | 3   |
+| HÄ     | 6   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 68  | Abwehr   | 25 | Initiative | 6   |
+| Laufen | 3.5 | Schlagen | 26 | Schiessen  | 4   |
+|        |     |          |    |            |     |
+| GH     | 22  | GK       | gr | EP         | 168 |
 
 
 | Bewaffnung |
@@ -23,9 +23,9 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Gift: Gift.description
+Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde.
 
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
 

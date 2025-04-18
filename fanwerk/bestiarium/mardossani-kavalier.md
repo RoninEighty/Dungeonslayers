@@ -1,4 +1,4 @@
-### Mardossani Kavalier  
+# Mardossani Kavalier  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 2 | VE | 2 |
-| HÄ | 1 | GE | 0 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 19 | Abwehr | 11 | Initiative | 10 |
-| Laufen | 4 | Schlagen | 13 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 51 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3  | BE       | 2  | VE         | 2  |
+| HÄ     | 1  | GE       | 0  | AU         | 2  |
+|        |    |          |    |            |    |
+| LK     | 19 | Abwehr   | 11 | Initiative | 10 |
+| Laufen | 4  | Schlagen | 13 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 51 |
 
 
 | Bewaffnung |
@@ -31,7 +31,7 @@
 Maske (Glückspilz +I)
 
 **Talente:**  
-Charmant I: Charmant.description
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
 Kämpfer I: Schlagen +1 pro Talentrang.
 

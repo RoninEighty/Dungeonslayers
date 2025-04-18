@@ -1,16 +1,16 @@
-### Gisamor  
+# Gisamor  
 - Gruppe: Magische Wesen  
 - Upgrade: Anführer  
 
-| KÖR | 12 | AGI | 7 | GEI | 7 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 4 | VE | 4 |
-| HÄ | 5 | GE | 4 | AU | 4 |
-|  |  |  |  |  |  |
-| LK | 54 | Abwehr | 23 | Initiative | 11 |
-| Laufen | 4.5 | Schlagen | 22 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 10 | GK | no | EP | 382 |
+| KÖR    | 12  | AGI      | 7  | GEI        | 7   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5   | BE       | 4  | VE         | 4   |
+| HÄ     | 5   | GE       | 4  | AU         | 4   |
+|        |     |          |    |            |     |
+| LK     | 54  | Abwehr   | 23 | Initiative | 11  |
+| Laufen | 4.5 | Schlagen | 22 | Schiessen  | 13  |
+|        |     |          |    |            |     |
+| GH     | 10  | GK       | no | EP         | 382 |
 
 
 | Bewaffnung |

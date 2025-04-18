@@ -1,15 +1,15 @@
-### Riesenpterodactylus  
+# Riesenpterodactylus  
 - Gruppe: Tiere  
 
-| KÖR | 14 | AGI | 16 | GEI | 2 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 6 | VE | 0 |
-| HÄ | 4 | GE | 3 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 140 | Abwehr | 20 | Initiative | 22 |
-| Laufen | 11 | Schlagen | 21 | Schiessen | 19 |
-|  |  |  |  |  |  |
-| GH | 22 | GK | ri | EP | 264 |
+| KÖR    | 14  | AGI      | 16 | GEI        | 2   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 6  | VE         | 0   |
+| HÄ     | 4   | GE       | 3  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 140 | Abwehr   | 20 | Initiative | 22  |
+| Laufen | 11  | Schlagen | 21 | Schiessen  | 19  |
+|        |     |          |    |            |     |
+| GH     | 22  | GK       | ri | EP         | 264 |
 
 
 | Bewaffnung |
@@ -23,9 +23,9 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Anfällig: Anfällig.description
+Anfällig: Erhält doppelten Schaden und um 4 verminderte Abwehr und Angriff, sofern am Boden. Ausserdem wird Laufen auf 4 reduziert.
 
 Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 

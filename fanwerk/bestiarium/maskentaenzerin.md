@@ -1,4 +1,4 @@
-### Maskentänzerin  
+# Maskentänzerin  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Zauberer  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 4 | AGI | 8 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 2 | VE | 2 |
-| HÄ | 0 | GE | 2 | AU | 4 |
-|  |  |  |  |  |  |
-| LK | 14 | Abwehr | 4 | Initiative | 12 |
-| Laufen | 6 | Schlagen | 4 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 46 |
+| KÖR    | 4  | AGI      | 8  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 2  | VE         | 2  |
+| HÄ     | 0  | GE       | 2  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 14 | Abwehr   | 4  | Initiative | 12 |
+| Laufen | 6  | Schlagen | 4  | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 46 |
 
 
 | Bewaffnung |
@@ -28,9 +28,9 @@
 
 
 **Talente:**  
-Akrobat I: Akrobat.description
+Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
 
-Charmant I: Charmant.description
+Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
 Flink I: Laufen +1m pro Talentrang.
 

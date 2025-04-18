@@ -1,4 +1,4 @@
-### Kampfmagier 12  
+# Kampfmagier 12  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Schwarzmagier  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 4 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 3 |
-| HÄ | 4 | GE | 5 | AU | 10 |
-|  |  |  |  |  |  |
-| LK | 31 | Abwehr | 12 | Initiative | 6 |
-| Laufen | 6 | Schlagen | 8 | Schiessen | 15 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | no | EP | 96 |
+| KÖR    | 8  | AGI      | 4  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 3  |
+| HÄ     | 4  | GE       | 5  | AU         | 10 |
+|        |    |          |    |            |    |
+| LK     | 31 | Abwehr   | 12 | Initiative | 6  |
+| Laufen | 6  | Schlagen | 8  | Schiessen  | 15 |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | no | EP         | 96 |
 
 
 | Bewaffnung |
@@ -31,7 +31,7 @@
 Ring (Schütze +III), Ring (Zauber: Feuerball Abklingzeit bei Träger verkürzt um 2 Runden), Stab (Zauber: Flackern als Zauberstab), Stab (Zauber: Verteidigung als Zauberstab), Stab (Zauber: Feuerball als Zauberstab), Stiefel (Flink +III)
 
 **Talente:**  
-Abklingen III: Abklingen.description
+Abklingen III: Abklingzeit aller Zauber -1 Runde
 
 Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 

@@ -1,15 +1,15 @@
-### Schlingwurzelbusch  
+# Schlingwurzelbusch  
 - Gruppe: Pflanzenwesen  
 
-| KÖR | 6 | AGI | 8 | GEI | 0 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 30 | Abwehr | 11 | Initiative | 8 |
-| Laufen | 7.5 | Schlagen | 11 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 8 | GK | no | EP | 122 |
+| KÖR    | 6   | AGI      | 8  | GEI        | 0   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 0  | VE         | 0   |
+| HÄ     | 4   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 30  | Abwehr   | 11 | Initiative | 8   |
+| Laufen | 7.5 | Schlagen | 11 | Schiessen  | 8   |
+|        |     |          |    |            |     |
+| GH     | 8   | GK       | no | EP         | 122 |
 
 
 | Bewaffnung |

@@ -1,15 +1,15 @@
-### Kleiner Knochengolem  
+# Kleiner Knochengolem  
 - Gruppe: Konstrukte  
 
-| KÖR | 8 | AGI | 9 | GEI | 0 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 4 | VE | 0 |
-| HÄ | 0 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 36 | Abwehr | 8 | Initiative | 13 |
-| Laufen | 6 | Schlagen | 15 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 7 | GK | gr | EP | 101 |
+| KÖR    | 8  | AGI      | 9  | GEI        | 0   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5  | BE       | 4  | VE         | 0   |
+| HÄ     | 0  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 36 | Abwehr   | 8  | Initiative | 13  |
+| Laufen | 6  | Schlagen | 15 | Schiessen  | 9   |
+|        |    |          |    |            |     |
+| GH     | 7  | GK       | gr | EP         | 101 |
 
 
 | Bewaffnung |

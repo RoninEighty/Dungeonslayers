@@ -1,15 +1,15 @@
-### Wollnashorn  
+# Wollnashorn  
 - Gruppe: Tiere  
 
-| KÖR | 11 | AGI | 12 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 6 | BE | 7 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 75 | Abwehr | 16 | Initiative | 19 |
-| Laufen | 11 | Schlagen | 19 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 12 | GK | gr | EP | 154 |
+| KÖR    | 11 | AGI      | 12 | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 6  | BE       | 7  | VE         | 0   |
+| HÄ     | 4  | GE       | 0  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 75 | Abwehr   | 16 | Initiative | 19  |
+| Laufen | 11 | Schlagen | 19 | Schiessen  | 12  |
+|        |    |          |    |            |     |
+| GH     | 12 | GK       | gr | EP         | 154 |
 
 
 | Bewaffnung |

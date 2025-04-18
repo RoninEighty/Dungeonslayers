@@ -1,15 +1,15 @@
-### Wolf  
+# Wolf  
 - Gruppe: Tiere  
 
-| KÖR | 8 | AGI | 7 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 4 | VE | 0 |
-| HÄ | 1 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 29 | Abwehr | 10 | Initiative | 11 |
-| Laufen | 7 | Schlagen | 13 | Schiessen | 7 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | no | EP | 81 |
+| KÖR    | 8  | AGI      | 7  | GEI        | 1  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3  | BE       | 4  | VE         | 0  |
+| HÄ     | 1  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 29 | Abwehr   | 10 | Initiative | 11 |
+| Laufen | 7  | Schlagen | 13 | Schiessen  | 7  |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | no | EP         | 81 |
 
 
 | Bewaffnung |

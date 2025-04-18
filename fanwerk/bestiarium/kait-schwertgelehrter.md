@@ -1,4 +1,4 @@
-### Kait Schwertgelehrter  
+# Kait Schwertgelehrter  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 4 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 0 | VE | 3 |
-| HÄ | 0 | GE | 0 | AU | 3 |
-|  |  |  |  |  |  |
-| LK | 21 | Abwehr | 11 | Initiative | 7 |
-| Laufen | 4 | Schlagen | 14 | Schiessen | 4 |
-|  |  |  |  |  |  |
-| GH | 2 | GK | no | EP | 55 |
+| KÖR    | 8  | AGI      | 4  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 0  | VE         | 3  |
+| HÄ     | 0  | GE       | 0  | AU         | 3  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 11 | Initiative | 7  |
+| Laufen | 4  | Schlagen | 14 | Schiessen  | 4  |
+|        |    |          |    |            |    |
+| GH     | 2  | GK       | no | EP         | 55 |
 
 
 | Bewaffnung |
@@ -28,7 +28,7 @@
 
 
 **Talente:**  
-Bildung I: Bildung.description
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
 Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 

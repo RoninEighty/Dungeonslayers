@@ -1,4 +1,4 @@
-### Cranag der Wanderer  
+# Cranag der Wanderer  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Waffenmeister  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 11 | BE | 1 | VE | 0 |
-| HÄ | 7 | GE | 0 | AU | 2 |
-|  |  |  |  |  |  |
-| LK | 34 | Abwehr | 21 | Initiative | 7 |
-| Laufen | 4 | Schlagen | 27 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 14 | GK | no | EP | 126 |
+| KÖR    | 8  | AGI      | 6  | GEI        | 6   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 11 | BE       | 1  | VE         | 0   |
+| HÄ     | 7  | GE       | 0  | AU         | 2   |
+|        |    |          |    |            |     |
+| LK     | 34 | Abwehr   | 21 | Initiative | 7   |
+| Laufen | 4  | Schlagen | 27 | Schiessen  | 6   |
+|        |    |          |    |            |     |
+| GH     | 14 | GK       | no | EP         | 126 |
 
 
 | Bewaffnung |
@@ -34,7 +34,7 @@ Kämpfer III: Schlagen +1 pro Talentrang.
 
 Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
-Brutaler Hieb I: Brutaler Hieb.description
+Brutaler Hieb I: Schlagen +KÖR
 
 Perfektion I: Schlagen +1, GA-1 für Talent Waffenkenner
 

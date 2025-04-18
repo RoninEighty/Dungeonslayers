@@ -1,15 +1,15 @@
-### Goblin Späher  
+# Goblin Späher  
 - Gruppe: Humanoide  
 
-| KÖR | 4 | AGI | 8 | GEI | 3 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 1 | BE | 2 | VE | 1 |
-| HÄ | 1 | GE | 4 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 8 | Abwehr | 6 | Initiative | 11 |
-| Laufen | 5 | Schlagen | 5 | Schiessen | 13 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | kl | EP | 44 |
+| KÖR    | 4 | AGI      | 8  | GEI        | 3  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 1 | BE       | 2  | VE         | 1  |
+| HÄ     | 1 | GE       | 4  | AU         | 0  |
+|        |   |          |    |            |    |
+| LK     | 8 | Abwehr   | 6  | Initiative | 11 |
+| Laufen | 5 | Schlagen | 5  | Schiessen  | 13 |
+|        |   |          |    |            |    |
+| GH     | 1 | GK       | kl | EP         | 44 |
 
 
 | Bewaffnung |

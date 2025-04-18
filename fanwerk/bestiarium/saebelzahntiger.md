@@ -1,15 +1,15 @@
-### Säbelzahntiger  
+# Säbelzahntiger  
 - Gruppe: Tiere  
 
-| KÖR | 10 | AGI | 10 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 6 | VE | 0 |
-| HÄ | 3 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 69 | Abwehr | 14 | Initiative | 16 |
-| Laufen | 9.5 | Schlagen | 15 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 8 | GK | gr | EP | 142 |
+| KÖR    | 10  | AGI      | 10 | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 6  | VE         | 0   |
+| HÄ     | 3   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 69  | Abwehr   | 14 | Initiative | 16  |
+| Laufen | 9.5 | Schlagen | 15 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 8   | GK       | gr | EP         | 142 |
 
 
 | Bewaffnung |

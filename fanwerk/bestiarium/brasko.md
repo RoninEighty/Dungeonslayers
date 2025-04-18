@@ -1,4 +1,4 @@
-### Brasko  
+# Brasko  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 7 | AGI | 6 | GEI | 7 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 0 | VE | 2 |
-| HÄ | 4 | GE | 0 | AU | 4 |
-|  |  |  |  |  |  |
-| LK | 21 | Abwehr | 16 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 13 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 3 | GK | no | EP | 59 |
+| KÖR    | 7  | AGI      | 6  | GEI        | 7  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 0  | VE         | 2  |
+| HÄ     | 4  | GE       | 0  | AU         | 4  |
+|        |    |          |    |            |    |
+| LK     | 21 | Abwehr   | 16 | Initiative | 6  |
+| Laufen | 4  | Schlagen | 13 | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | no | EP         | 59 |
 
 
 | Bewaffnung |
@@ -33,7 +33,7 @@ Stirnreif (Aura +2, Charmant +I, Schlitzohr +I)
 **Talente:**  
 Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Ausweichen I: Ausweichen.description
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 

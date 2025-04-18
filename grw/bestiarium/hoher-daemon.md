@@ -1,15 +1,15 @@
-### Hoher Dämon  
+# Hoher Dämon  
 - Gruppe: Magische Wesen  
 
-| KÖR | 7 | AGI | 7 | GEI | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 3 | VE | 3 |
-| HÄ | 3 | GE | 3 | AU | 3 |
-|  |  |  |  |  |  |
-| LK | 20 | Abwehr | 12 | Initiative | 10 |
-| Laufen | 4.5 | Schlagen | 12 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | no | EP | 104 |
+| KÖR    | 7   | AGI      | 7  | GEI        | 6   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 3  | VE         | 3   |
+| HÄ     | 3   | GE       | 3  | AU         | 3   |
+|        |     |          |    |            |     |
+| LK     | 20  | Abwehr   | 12 | Initiative | 10  |
+| Laufen | 4.5 | Schlagen | 12 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 4   | GK       | no | EP         | 104 |
 
 
 | Bewaffnung |

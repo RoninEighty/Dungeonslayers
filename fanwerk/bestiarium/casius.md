@@ -1,4 +1,4 @@
-### Casius  
+# Casius  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 1 | BE | 0 | VE | 3 |
-| HÄ | 2 | GE | 0 | AU | 5 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 8 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 8 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 63 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 1  | BE       | 0  | VE         | 3  |
+| HÄ     | 2  | GE       | 0  | AU         | 5  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 8  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 8  | Schiessen  | 6  |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 63 |
 
 
 | Bewaffnung |
@@ -28,9 +28,9 @@
 
 
 **Talente:**  
-Ausweichen I: Ausweichen.description
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Bildung I: Bildung.description
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
 
 **Zaubersprüche:**  

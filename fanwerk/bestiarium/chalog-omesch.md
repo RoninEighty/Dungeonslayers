@@ -1,4 +1,4 @@
-### Chalog Omesch  
+# Chalog Omesch  
 - Gruppe: Elf  
 - Volk: Elf  
 - Klasse: Späher  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
 
 
-| KÖR | 5 | AGI | 7 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 3 | VE | 4 |
-| HÄ | 2 | GE | 8 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 17 | Abwehr | 10 | Initiative | 14 |
-| Laufen | 4.5 | Schlagen | 5 | Schiessen | 21 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 61 |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 3  | VE         | 4  |
+| HÄ     | 2   | GE       | 8  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 17  | Abwehr   | 10 | Initiative | 14 |
+| Laufen | 4.5 | Schlagen | 5  | Schiessen  | 21 |
+|        |     |          |    |            |    |
+| GH     | 1   | GK       | no | EP         | 61 |
 
 
 | Bewaffnung |
@@ -37,7 +37,7 @@ Heimlichkeit III: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentr
 
 Jäger III: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
-Bildung III: Bildung.description
+Bildung III: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
 Diebeskunst II: Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
 

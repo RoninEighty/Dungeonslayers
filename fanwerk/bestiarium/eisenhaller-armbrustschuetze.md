@@ -1,4 +1,4 @@
-### Eisenhaller Armbrustschütze  
+# Eisenhaller Armbrustschütze  
 - Gruppe: Zwerg  
 - Volk: Zwerg  
 - Klasse: Späher  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 6 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 25 | Abwehr | 15 | Initiative | 8 |
-| Laufen | 4.5 | Schlagen | 8 | Schiessen | 17 |
-|  |  |  |  |  |  |
-| GH | 2 | GK | no | EP | 59 |
+| KÖR    | 8   | AGI      | 8  | GEI        | 4  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 0  | VE         | 0  |
+| HÄ     | 4   | GE       | 6  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 25  | Abwehr   | 15 | Initiative | 8  |
+| Laufen | 4.5 | Schlagen | 8  | Schiessen  | 17 |
+|        |     |          |    |            |    |
+| GH     | 2   | GK       | no | EP         | 59 |
 
 
 | Bewaffnung |

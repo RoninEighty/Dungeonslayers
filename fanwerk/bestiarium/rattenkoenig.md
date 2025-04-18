@@ -1,15 +1,15 @@
-### Rattenkönig  
+# Rattenkönig  
 - Gruppe: Magische Wesen  
 
-| KÖR | 12 | AGI | 6 | GEI | 10 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 2 | VE | 5 |
-| HÄ | 4 | GE | 2 | AU | 8 |
-|  |  |  |  |  |  |
-| LK | 78 | Abwehr | 18 | Initiative | 8 |
-| Laufen | 6.5 | Schlagen | 17 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 25 | GK | gr | EP | 296 |
+| KÖR    | 12  | AGI      | 6  | GEI        | 10  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 2  | VE         | 5   |
+| HÄ     | 4   | GE       | 2  | AU         | 8   |
+|        |     |          |    |            |     |
+| LK     | 78  | Abwehr   | 18 | Initiative | 8   |
+| Laufen | 6.5 | Schlagen | 17 | Schiessen  | 8   |
+|        |     |          |    |            |     |
+| GH     | 25  | GK       | gr | EP         | 296 |
 
 
 | Bewaffnung |
@@ -25,7 +25,7 @@
 **Talente:**  
 Mehrere Angriffe (+9): Kann 9 zusätzlichn Angriffe in jeder Runde aktionsfrei ausführen.
 
-Bezaubern: Bezaubern.description
+Bezaubern: Kann Gegner mit ihrem 'Lockruf' (siehe Zauber) bezaubern.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

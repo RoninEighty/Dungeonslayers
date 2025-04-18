@@ -1,16 +1,16 @@
-### Ritter Gungart  
+# Ritter Gungart  
 - Gruppe: Untote  
 - Upgrade: Heroisch  
 
-| KÖR | 7 | AGI | 6 | GEI | 9 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 17 | BE | 0 | VE | 8 |
-| HÄ | 21 | GE | 4 | AU | 8 |
-|  |  |  |  |  |  |
-| LK | 190 | Abwehr | 33 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 24 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 23 | GK | no | EP | 690 |
+| KÖR    | 7   | AGI      | 6  | GEI        | 9   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 17  | BE       | 0  | VE         | 8   |
+| HÄ     | 21  | GE       | 4  | AU         | 8   |
+|        |     |          |    |            |     |
+| LK     | 190 | Abwehr   | 33 | Initiative | 6   |
+| Laufen | 4   | Schlagen | 24 | Schiessen  | 10  |
+|        |     |          |    |            |     |
+| GH     | 23  | GK       | no | EP         | 690 |
 
 
 | Bewaffnung |
@@ -24,7 +24,7 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 

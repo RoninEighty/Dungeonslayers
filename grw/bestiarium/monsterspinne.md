@@ -1,15 +1,15 @@
-### Monsterspinne  
+# Monsterspinne  
 - Gruppe: Tiere  
 
-| KÖR | 12 | AGI | 9 | GEI | 1 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 2 | VE | 0 |
-| HÄ | 2 | GE | 4 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 72 | Abwehr | 15 | Initiative | 11 |
-| Laufen | 9 | Schlagen | 17 | Schiessen | 15 |
-|  |  |  |  |  |  |
-| GH | 11 | GK | gr | EP | 145 |
+| KÖR    | 12 | AGI      | 9  | GEI        | 1   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3  | BE       | 2  | VE         | 0   |
+| HÄ     | 2  | GE       | 4  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 72 | Abwehr   | 15 | Initiative | 11  |
+| Laufen | 9  | Schlagen | 17 | Schiessen  | 15  |
+|        |    |          |    |            |     |
+| GH     | 11 | GK       | gr | EP         | 145 |
 
 
 | Bewaffnung |

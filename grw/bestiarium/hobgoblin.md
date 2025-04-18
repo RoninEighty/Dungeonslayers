@@ -1,15 +1,15 @@
-### Hobgoblin  
+# Hobgoblin  
 - Gruppe: Humanoide  
 
-| KÖR | 11 | AGI | 6 | GEI | 3 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 0 | VE | 2 |
-| HÄ | 3 | GE | 3 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 24 | Abwehr | 18 | Initiative | 6 |
-| Laufen | 3.5 | Schlagen | 15 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | no | EP | 71 |
+| KÖR    | 11  | AGI      | 6  | GEI        | 3  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2   | BE       | 0  | VE         | 2  |
+| HÄ     | 3   | GE       | 3  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 24  | Abwehr   | 18 | Initiative | 6  |
+| Laufen | 3.5 | Schlagen | 15 | Schiessen  | 10 |
+|        |     |          |    |            |    |
+| GH     | 4   | GK       | no | EP         | 71 |
 
 
 | Bewaffnung |

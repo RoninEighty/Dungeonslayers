@@ -1,15 +1,15 @@
-### Schlächter  
+# Schlächter  
 - Gruppe: Untote  
 
-| KÖR | 10 | AGI | 6 | GEI | 5 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 8 | BE | 4 | VE | 0 |
-| HÄ | 8 | GE | 4 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 28 | Abwehr | 21 | Initiative | 10 |
-| Laufen | 4 | Schlagen | 20 | Schiessen | 12 |
-|  |  |  |  |  |  |
-| GH | 11 | GK | no | EP | 124 |
+| KÖR    | 10 | AGI      | 6  | GEI        | 5   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 8  | BE       | 4  | VE         | 0   |
+| HÄ     | 8  | GE       | 4  | AU         | 0   |
+|        |    |          |    |            |     |
+| LK     | 28 | Abwehr   | 21 | Initiative | 10  |
+| Laufen | 4  | Schlagen | 20 | Schiessen  | 12  |
+|        |    |          |    |            |     |
+| GH     | 11 | GK       | no | EP         | 124 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Auferstehung: Auferstehung.description
+Auferstehung: Erhebt sich, wenn getötet, nach W20 Tagen mit 1 LK, sofern Probe auf GEI+AU gelingt. Verliert dabei jedes Mal 1 GEI.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

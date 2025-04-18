@@ -1,4 +1,4 @@
-### Stadtwache in den Freien Landen  
+# Stadtwache in den Freien Landen  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 5 | BE | 0 | VE | 0 |
-| HÄ | 5 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 26 | Abwehr | 14 | Initiative | 6 |
-| Laufen | 5 | Schlagen | 16 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | no | EP | 59 |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 5  | BE       | 0  | VE         | 0  |
+| HÄ     | 5  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 26 | Abwehr   | 14 | Initiative | 6  |
+| Laufen | 5  | Schlagen | 16 | Schiessen  | 8  |
+|        |    |          |    |            |    |
+| GH     | 4  | GK       | no | EP         | 59 |
 
 
 | Bewaffnung |

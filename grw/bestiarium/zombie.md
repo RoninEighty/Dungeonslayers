@@ -1,15 +1,15 @@
-### Zombie  
+# Zombie  
 - Gruppe: Untote  
 
-| KÖR | 13 | AGI | 3 | GEI | 0 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 0 | VE | 0 |
-| HÄ | 5 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 28 | Abwehr | 20 | Initiative | 3 |
-| Laufen | 2.5 | Schlagen | 18 | Schiessen | 3 |
-|  |  |  |  |  |  |
-| GH | 10 | GK | no | EP | 78 |
+| KÖR    | 13  | AGI      | 3  | GEI        | 0  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3   | BE       | 0  | VE         | 0  |
+| HÄ     | 5   | GE       | 0  | AU         | 0  |
+|        |     |          |    |            |    |
+| LK     | 28  | Abwehr   | 20 | Initiative | 3  |
+| Laufen | 2.5 | Schlagen | 18 | Schiessen  | 3  |
+|        |     |          |    |            |    |
+| GH     | 10  | GK       | no | EP         | 78 |
 
 
 | Bewaffnung |

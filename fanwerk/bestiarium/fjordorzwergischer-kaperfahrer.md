@@ -1,4 +1,4 @@
-### Fjordorzwergischer Kaperfahrer  
+# Fjordorzwergischer Kaperfahrer  
 - Gruppe: Zwerg  
 - Volk: Zwerg  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Dunkelsicht, Langlebig, Zäh  
 
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 6 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 22 | Abwehr | 17 | Initiative | 7 |
-| Laufen | 5 | Schlagen | 15 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 3 | GK | no | EP | 58 |
+| KÖR    | 8  | AGI      | 8  | GEI        | 4  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 6  | BE       | 0  | VE         | 0  |
+| HÄ     | 4  | GE       | 0  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 22 | Abwehr   | 17 | Initiative | 7  |
+| Laufen | 5  | Schlagen | 15 | Schiessen  | 9  |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | no | EP         | 58 |
 
 
 | Bewaffnung |
@@ -30,7 +30,7 @@
 **Talente:**  
 Prügler I: GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen.
 
-Raserei I: Raserei.description
+Raserei I: Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar.
 
 Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 

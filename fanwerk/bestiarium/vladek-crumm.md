@@ -1,4 +1,4 @@
-### Vladek Crumm  
+# Vladek Crumm  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Krieger  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 8 | BE | 3 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 22 | Abwehr | 21 | Initiative | 16 |
-| Laufen | 4.5 | Schlagen | 26 | Schiessen | 8 |
-|  |  |  |  |  |  |
-| GH | 13 | GK | no | EP | 110 |
+| KÖR    | 8   | AGI      | 8  | GEI        | 4   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 8   | BE       | 3  | VE         | 0   |
+| HÄ     | 4   | GE       | 0  | AU         | 0   |
+|        |     |          |    |            |     |
+| LK     | 22  | Abwehr   | 21 | Initiative | 16  |
+| Laufen | 4.5 | Schlagen | 26 | Schiessen  | 8   |
+|        |     |          |    |            |     |
+| GH     | 13  | GK       | no | EP         | 110 |
 
 
 | Bewaffnung |
@@ -37,9 +37,9 @@ Schnelle Reflexe II: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einm
 
 Zwei Waffen II: Bei Kampf mit zwei Waffen Malus -2 pro Talentrang.
 
-Brutaler Hieb I: Brutaler Hieb.description
+Brutaler Hieb I: Schlagen +KÖR
 
-Ausweichen I: Ausweichen.description
+Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
 
 

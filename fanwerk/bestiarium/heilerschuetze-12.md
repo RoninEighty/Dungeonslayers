@@ -1,4 +1,4 @@
-### HeilerSchütze 12  
+# HeilerSchütze 12  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 5 | AGI | 7 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 5 |
-| HÄ | 4 | GE | 5 | AU | 8 |
-|  |  |  |  |  |  |
-| LK | 25 | Abwehr | 13 | Initiative | 10 |
-| Laufen | 4.5 | Schlagen | 5 | Schiessen | 21 |
-|  |  |  |  |  |  |
-| GH | 4 | GK | no | EP | 104 |
+| KÖR    | 5   | AGI      | 7  | GEI        | 8   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0   | BE       | 0  | VE         | 5   |
+| HÄ     | 4   | GE       | 5  | AU         | 8   |
+|        |     |          |    |            |     |
+| LK     | 25  | Abwehr   | 13 | Initiative | 10  |
+| Laufen | 4.5 | Schlagen | 5  | Schiessen  | 21  |
+|        |     |          |    |            |     |
+| GH     | 4   | GK       | no | EP         | 104 |
 
 
 | Bewaffnung |
@@ -35,7 +35,7 @@ Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang.
 
 Schütze III: Schiessen, Zielzauber +1 pro Talentrang.
 
-Abklingen II: Abklingen.description
+Abklingen II: Abklingzeit aller Zauber -1 Runde
 
 Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 

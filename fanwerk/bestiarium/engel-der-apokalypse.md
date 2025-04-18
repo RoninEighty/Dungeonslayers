@@ -1,15 +1,15 @@
-### Engel der Apokalypse  
+# Engel der Apokalypse  
 - Gruppe: Humanoide  
 
-| KÖR | 20 | AGI | 20 | GEI | 10 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 10 | BE | 10 | VE | 5 |
-| HÄ | 10 | GE | 10 | AU | 5 |
-|  |  |  |  |  |  |
-| LK | 200 | Abwehr | 32 | Initiative | 30 |
-| Laufen | 13 | Schlagen | 35 | Schiessen | 30 |
-|  |  |  |  |  |  |
-| GH | 33 | GK | ri | EP | 377 |
+| KÖR    | 20  | AGI      | 20 | GEI        | 10  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 10  | BE       | 10 | VE         | 5   |
+| HÄ     | 10  | GE       | 10 | AU         | 5   |
+|        |     |          |    |            |     |
+| LK     | 200 | Abwehr   | 32 | Initiative | 30  |
+| Laufen | 13  | Schlagen | 35 | Schiessen  | 30  |
+|        |     |          |    |            |     |
+| GH     | 33  | GK       | ri | EP         | 377 |
 
 
 | Bewaffnung |

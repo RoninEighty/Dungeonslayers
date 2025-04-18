@@ -1,15 +1,15 @@
-### Leichnam  
+# Leichnam  
 - Gruppe: Untote  
 
-| KÖR | 7 | AGI | 6 | GEI | 9 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 17 | BE | 0 | VE | 8 |
-| HÄ | 21 | GE | 4 | AU | 8 |
-|  |  |  |  |  |  |
-| LK | 38 | Abwehr | 31 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 24 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 15 | GK | no | EP | 200 |
+| KÖR    | 7  | AGI      | 6  | GEI        | 9   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 17 | BE       | 0  | VE         | 8   |
+| HÄ     | 21 | GE       | 4  | AU         | 8   |
+|        |    |          |    |            |     |
+| LK     | 38 | Abwehr   | 31 | Initiative | 6   |
+| Laufen | 4  | Schlagen | 24 | Schiessen  | 10  |
+|        |    |          |    |            |     |
+| GH     | 15 | GK       | no | EP         | 200 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Angst: Angst.description
+Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 

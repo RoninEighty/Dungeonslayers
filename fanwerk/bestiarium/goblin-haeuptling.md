@@ -1,16 +1,16 @@
-### Goblin Häuptling  
+# Goblin Häuptling  
 - Gruppe: Humanoide  
 - Upgrade: Anführer  
 
-| KÖR | 5 | AGI | 7 | GEI | 3 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 3 | BE | 2 | VE | 2 |
-| HÄ | 3 | GE | 2 | AU | 1 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 12 | Initiative | 9 |
-| Laufen | 4 | Schlagen | 11 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 2 | GK | kl | EP | 140 |
+| KÖR    | 5  | AGI      | 7  | GEI        | 3   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 3  | BE       | 2  | VE         | 2   |
+| HÄ     | 3  | GE       | 2  | AU         | 1   |
+|        |    |          |    |            |     |
+| LK     | 18 | Abwehr   | 12 | Initiative | 9   |
+| Laufen | 4  | Schlagen | 11 | Schiessen  | 9   |
+|        |    |          |    |            |     |
+| GH     | 2  | GK       | kl | EP         | 140 |
 
 
 | Bewaffnung |

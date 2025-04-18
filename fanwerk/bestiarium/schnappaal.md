@@ -1,15 +1,15 @@
-### Schnappaal  
+# Schnappaal  
 - Gruppe: Tiere  
 
-| KÖR | 9 | AGI | 8 | GEI | 0 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 4 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 2 | AU | 0 |
-|  |  |  |  |  |  |
-| LK | 12 | Abwehr | 13 | Initiative | 8 |
-| Laufen | 5 | Schlagen | 14 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 3 | GK | kl | EP | 52 |
+| KÖR    | 9  | AGI      | 8  | GEI        | 0  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 4  | BE       | 0  | VE         | 0  |
+| HÄ     | 4  | GE       | 2  | AU         | 0  |
+|        |    |          |    |            |    |
+| LK     | 12 | Abwehr   | 13 | Initiative | 8  |
+| Laufen | 5  | Schlagen | 14 | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 3  | GK       | kl | EP         | 52 |
 
 
 | Bewaffnung |

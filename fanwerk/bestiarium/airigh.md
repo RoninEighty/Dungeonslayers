@@ -1,4 +1,4 @@
-### Airigh  
+# Airigh  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Zauberer  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 6 |
-| HÄ | 0 | GE | 4 | AU | 6 |
-|  |  |  |  |  |  |
-| LK | 16 | Abwehr | 6 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 7 | Schiessen | 10 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 72 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 8  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 6  |
+| HÄ     | 0  | GE       | 4  | AU         | 6  |
+|        |    |          |    |            |    |
+| LK     | 16 | Abwehr   | 6  | Initiative | 6  |
+| Laufen | 4  | Schlagen | 7  | Schiessen  | 10 |
+|        |    |          |    |            |    |
+| GH     | 1  | GK       | no | EP         | 72 |
 
 
 | Bewaffnung |
@@ -32,7 +32,7 @@ Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausn
 
 Feuermagier II: Feuerzauber +1 pro Talentrang.
 
-Bildung II: Bildung.description
+Bildung II: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
 Wechsler II: Zauber wechseln +2 pro Talentrang.
 

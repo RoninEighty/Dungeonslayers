@@ -1,19 +1,19 @@
-### Al-Nuzzran  
+# Al-Nuzzran  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Dämonologe  
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 6 | AGI | 6 | GEI | 9 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 2 | BE | 8 | VE | 5 |
-| HÄ | 0 | GE | 0 | AU | 7 |
-|  |  |  |  |  |  |
-| LK | 19 | Abwehr | 6 | Initiative | 14 |
-| Laufen | 4 | Schlagen | 8 | Schiessen | 6 |
-|  |  |  |  |  |  |
-| GH | 1 | GK | no | EP | 100 |
+| KÖR    | 6  | AGI      | 6  | GEI        | 9   |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 2  | BE       | 8  | VE         | 5   |
+| HÄ     | 0  | GE       | 0  | AU         | 7   |
+|        |    |          |    |            |     |
+| LK     | 19 | Abwehr   | 6  | Initiative | 14  |
+| Laufen | 4  | Schlagen | 8  | Schiessen  | 6   |
+|        |    |          |    |            |     |
+| GH     | 1  | GK       | no | EP         | 100 |
 
 
 | Bewaffnung |
@@ -29,7 +29,7 @@
 **Talente:**  
 Diener der Dunkelheit V: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-Beschwörer III: Beschwörer.description
+Beschwörer III: +2 Bonus auf Dämonen beschwören & kontrollieren
 
 Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
@@ -37,7 +37,7 @@ Verheerer II: GA-1 bei Schadenszauber
 
 Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Bändiger I: Bändiger.description
+Bändiger I: Mit GEI+AU Wesenheiten kontrollieren
 
 Meister seiner Klasse I: ein Klassenattribut +1
 

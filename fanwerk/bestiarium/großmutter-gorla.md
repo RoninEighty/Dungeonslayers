@@ -1,4 +1,4 @@
-### Großmutter Gorla  
+# Großmutter Gorla  
 - Gruppe: Mensch  
 - Volk: Mensch  
 - Klasse: Heiler  
@@ -6,15 +6,15 @@
 - Fähigkeiten: Talentiert  
 
 
-| KÖR | 8 | AGI | 4 | GEI | 9 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 0 | BE | 0 | VE | 4 |
-| HÄ | 0 | GE | 5 | AU | 9 |
-|  |  |  |  |  |  |
-| LK | 18 | Abwehr | 11 | Initiative | 4 |
-| Laufen | 3 | Schlagen | 9 | Schiessen | 9 |
-|  |  |  |  |  |  |
-| GH | 2 | GK | no | EP | 75 |
+| KÖR    | 8  | AGI      | 4  | GEI        | 9  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 0  | BE       | 0  | VE         | 4  |
+| HÄ     | 0  | GE       | 5  | AU         | 9  |
+|        |    |          |    |            |    |
+| LK     | 18 | Abwehr   | 11 | Initiative | 4  |
+| Laufen | 3  | Schlagen | 9  | Schiessen  | 9  |
+|        |    |          |    |            |    |
+| GH     | 2  | GK       | no | EP         | 75 |
 
 
 | Bewaffnung |
@@ -39,9 +39,9 @@ Manipulator II: Geistesbeeinflussende Zauber [!] +1 pro Talentrang.
 
 Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Alchemie I: Alchemie.description
+Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang.
 
-Bildung I: Bildung.description
+Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
 Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 

@@ -1,15 +1,15 @@
-### Luftdämon III  
+# Luftdämon III  
 - Gruppe: Magische Wesen  
 
-| KÖR | 12 | AGI | 10 | GEI | 10 |
-| --- | --- | --- | --- | --- | --- |
-| ST | 7 | BE | 5 | VE | 5 |
-| HÄ | 8 | GE | 8 | AU | 8 |
-|  |  |  |  |  |  |
-| LK | 150 | Abwehr | 24 | Initiative | 15 |
-| Laufen | 8 | Schlagen | 23 | Schiessen | 22 |
-|  |  |  |  |  |  |
-| GH | 22 | GK | ri | EP | 272 |
+| KÖR    | 12  | AGI      | 10 | GEI        | 10  |
+| :-: | :-: | :-: | :-: | :-: | :-: ||
+| ST     | 7   | BE       | 5  | VE         | 5   |
+| HÄ     | 8   | GE       | 8  | AU         | 8   |
+|        |     |          |    |            |     |
+| LK     | 150 | Abwehr   | 24 | Initiative | 15  |
+| Laufen | 8   | Schlagen | 23 | Schiessen  | 22  |
+|        |     |          |    |            |     |
+| GH     | 22  | GK       | ri | EP         | 272 |
 
 
 | Bewaffnung |
@@ -23,7 +23,7 @@
 
 
 **Talente:**  
-Anfällig: Anfällig.description
+Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe.
 
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
 
