@@ -1,25 +1,24 @@
-# Golem, Kristall-  
-- Gruppe: Konstrukte  
+### Golem, Kristall-
 
-| KÖR | 8 | AGI | 10 | GEI | 4 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 3 | BE | 0 | VE | 0 |
-| HÄ | 3 | GE | 5 | AU | 0 |
-|  |
-| LK | 6.5 | Abwehr | 14 | Initiative | 10 |
-| Laufen | 6.5 | Schlagen | 13 | Schiessen | 15 |
-|  |
-| GH | 7 | GK | gr | EP | 134 |
+- Gruppe: Konstrukte
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  8  |   AGI    | 10  |    GEI     |  4  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  3  |    BE    |  0  |     VE     |  0  |
+|   HÄ   |  3  |    GE    |  5  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 6.5 |  Abwehr  | 14  | Initiative | 10  |
+| Laufen | 6.5 | Schlagen | 13  | Schiessen  | 15  |
+|        |     |          |     |            |     |
+|   GH   |  7  |    GK    | gr  |     EP     | 134 |
+
+|      Bewaffnung       |
+| :-------------------: |
 | Kristallpranke (WB+2) |
 
-
-| Panzerung |
-| --- |
+|      Panzerung       |
+| :------------------: |
 | Kristallwesen (PA+3) |
-
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
@@ -30,12 +29,9 @@ Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie 
 
 Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
-
 **Zaubersprüche:**  
 [Blitz](/grw/zauber/blitz.md) (+3)
 
+---
 
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

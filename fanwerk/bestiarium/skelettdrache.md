@@ -1,25 +1,24 @@
-# Skelettdrache  
-- Gruppe: Untote  
+### Skelettdrache
 
-| KÖR | 15 | AGI | 12 | GEI | 3 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 8 | BE | 9 | VE | 1 |
-| HÄ | 7 | GE | 7 | AU | 2 |
-|  |
-| LK | 15.5 | Abwehr | 25 | Initiative | 21 |
-| Laufen | 15.5 | Schlagen | 26 | Schiessen | 19 |
-|  |
-| GH | 46 | GK | ge | EP | 685 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  15  |   AGI    | 12  |    GEI     |  3  |
+| :----: | :--: | :------: | :-: | :--------: | :-: |
+|   ST   |  8   |    BE    |  9  |     VE     |  1  |
+|   HÄ   |  7   |    GE    |  7  |     AU     |  2  |
+|        |      |          |     |            |     |
+|   LK   | 15.5 |  Abwehr  | 25  | Initiative | 21  |
+| Laufen | 15.5 | Schlagen | 26  | Schiessen  | 19  |
+|        |      |          |     |            |     |
+|   GH   |  46  |    GK    | ge  |     EP     | 685 |
+
+|                Bewaffnung                 |
+| :---------------------------------------: |
 | Biss, Klaue oder Schwanzhieb (WB+3, GA-2) |
 
-
-| Panzerung |
-| --- |
+|      Panzerung       |
+| :------------------: |
 | Skelettpanzer (PA+3) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -44,9 +43,6 @@ Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen
 
 Zerstampfen: Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

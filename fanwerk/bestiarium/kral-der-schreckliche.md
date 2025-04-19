@@ -1,30 +1,28 @@
-# Kral der Schreckliche  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Beserker  
-- Stufe: 12  
-- Fähigkeiten: Talentiert  
+### Kral der Schreckliche
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Beserker
+- Stufe: 12
+- Fähigkeiten: Talentiert
 
-| KÖR | 8 | AGI | 6 | GEI | 6 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 7 | BE | 2 | VE | 3 |
-| HÄ | 6 | GE | 1 | AU | 0 |
-|  |
-| LK | 4 | Abwehr | 19 | Initiative | 10 |
-| Laufen | 4 | Schlagen | 22 | Schiessen | 7 |
-|  |
-| GH | 10 | GK | no | EP | 77 |
+|  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  7  |    BE    |  2  |     VE     |  3  |
+|   HÄ   |  6  |    GE    |  1  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  4  |  Abwehr  | 19  | Initiative | 10  |
+| Laufen |  4  | Schlagen | 22  | Schiessen  |  7  |
+|        |     |          |     |            |     |
+|   GH   | 10  |    GK    | no  |     EP     | 77  |
 
-| Bewaffnung |
-| --- |
+|                         Bewaffnung                         |
+| :--------------------------------------------------------: |
 | mag. Langschwert +2 (WB+4, INI+2, GA-2, Aderschlitzer +II) |
 
-
-| Panzerung |
-| --- |
+|                                     Panzerung                                      |
+| :--------------------------------------------------------------------------------: |
 | Lederpanzer (PA+1), Holzschild (PA+1), mag. Metallhelm +1 (PA+2, Wahrnehmung +III) |
-
 
 **Talente:**  
 Kämpfer III: Schlagen +1 pro Talentrang.
@@ -47,9 +45,6 @@ Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 
 Verletzen I: GA-1 bei Nahkampfangriff
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Umbarla-Becken | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Umbarla-Becken | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

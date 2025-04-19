@@ -1,30 +1,28 @@
-# Walküre von Wyndstett  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Krieger  
-- Stufe: 1  
-- Fähigkeiten: Talentiert  
+### Walküre von Wyndstett
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Krieger
+- Stufe: 1
+- Fähigkeiten: Talentiert
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 5 | BE | 3 | VE | 0 |
-| HÄ | 2 | GE | 0 | AU | 0 |
-|  |
-| LK | 5 | Abwehr | 14 | Initiative | 12 |
-| Laufen | 5 | Schlagen | 15 | Schiessen | 9 |
-|  |
-| GH | 2 | GK | no | EP | 75 |
+|  KÖR   |  8  |   AGI    |  8  |    GEI     |  4  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  5  |    BE    |  3  |     VE     |  0  |
+|   HÄ   |  2  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  5  |  Abwehr  | 14  | Initiative | 12  |
+| Laufen |  5  | Schlagen | 15  | Schiessen  |  9  |
+|        |     |          |     |            |     |
+|   GH   |  2  |    GK    | no  |     EP     | 75  |
 
-| Bewaffnung |
-| --- |
+|               Bewaffnung                |
+| :-------------------------------------: |
 | Speer (WB+1), Breitschwert (WB+1, GA-2) |
 
-
-| Panzerung |
-| --- |
+|                            Panzerung                            |
+| :-------------------------------------------------------------: |
 | Lederpanzer (PA+1), Holzschild (PA+1), Metallhelm (PA+1, INI-1) |
-
 
 **Talente:**  
 Kämpfer I: Schlagen +1 pro Talentrang.
@@ -37,9 +35,6 @@ Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einma
 
 Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slayerforum | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slayerforum | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

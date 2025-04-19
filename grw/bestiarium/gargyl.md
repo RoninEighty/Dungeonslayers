@@ -1,25 +1,24 @@
-# Gargyl  
-- Gruppe: Magische Wesen  
+### Gargyl
 
-| KÖR | 7 | AGI | 7 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 2 | BE | 1 | VE | 0 |
-| HÄ | 2 | GE | 2 | AU | 1 |
-|  |
-| LK | 4.5 | Abwehr | 13 | Initiative | 8 |
-| Laufen | 4.5 | Schlagen | 11 | Schiessen | 9 |
-|  |
-| GH | 6 | GK | kl | EP | 91 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  7  |   AGI    |  7  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  2  |    BE    |  1  |     VE     |  0  |
+|   HÄ   |  2  |    GE    |  2  |     AU     |  1  |
+|        |     |          |     |            |     |
+|   LK   | 4.5 |  Abwehr  | 13  | Initiative |  8  |
+| Laufen | 4.5 | Schlagen | 11  | Schiessen  |  9  |
+|        |     |          |     |            |     |
+|   GH   |  6  |    GK    | kl  |     EP     | 91  |
+
+|     Bewaffnung     |
+| :----------------: |
 | Steinpranke (WB+2) |
 
-
-| Panzerung |
-| --- |
+|     Panzerung     |
+| :---------------: |
 | Steinwesen (PA+4) |
-
 
 **Talente:**  
 Anfällig: Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe.
@@ -36,9 +35,6 @@ Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird desse
 
 Sturzangriff: Wird fliegend mindestens eine Distanz in Höhe von Laufen x 2 'rennend' geflogen, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen, während der Bewegung, also nicht nur davor oder danach.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -1,25 +1,24 @@
-# Hydra  
-- Gruppe: Magische Wesen  
+### Hydra
 
-| KÖR | 14 | AGI | 10 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 5 | BE | 2 | VE | 0 |
-| HÄ | 6 | GE | 0 | AU | 0 |
-|  |
-| LK | 9.5 | Abwehr | 22 | Initiative | 12 |
-| Laufen | 9.5 | Schlagen | 21 | Schiessen | 10 |
-|  |
-| GH | 23 | GK | gr | EP | 246 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 14  |   AGI    | 10  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  5  |    BE    |  2  |     VE     |  0  |
+|   HÄ   |  6  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 9.5 |  Abwehr  | 22  | Initiative | 12  |
+| Laufen | 9.5 | Schlagen | 21  | Schiessen  | 10  |
+|        |     |          |     |            |     |
+|   GH   | 23  |    GK    | gr  |     EP     | 246 |
+
+|        Bewaffnung        |
+| :----------------------: |
 | Großer Biss (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung       |
+| :-------------------: |
 | Schuppenpanzer (PA+2) |
-
 
 **Talente:**  
 Mehrere Angriffe (+5): Kann mit seinen insgesamt sechs Köpfen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
@@ -36,9 +35,6 @@ Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie 
 
 Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

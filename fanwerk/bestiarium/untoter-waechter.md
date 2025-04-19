@@ -1,34 +1,30 @@
-# Untoter Wächter  
-- Gruppe: Untote  
+### Untoter Wächter
 
-| KÖR | 13 | AGI | 5 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 5 | BE | 0 | VE | 0 |
-| HÄ | 5 | GE | 0 | AU | 0 |
-|  |
-| LK | 3 | Abwehr | 23 | Initiative | 2 |
-| Laufen | 3 | Schlagen | 21 | Schiessen | 5 |
-|  |
-| GH | 13 | GK | no | EP | 79 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 13  |   AGI    |  5  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  5  |    BE    |  0  |     VE     |  0  |
+|   HÄ   |  5  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  3  |  Abwehr  | 23  | Initiative |  2  |
+| Laufen |  3  | Schlagen | 21  | Schiessen  |  5  |
+|        |     |          |     |            |     |
+|   GH   | 13  |    GK    | no  |     EP     | 79  |
+
+|          Bewaffnung          |
+| :--------------------------: |
 | Streitaxt (2h) (WB+3, INI-2) |
 
-
-| Panzerung |
-| --- |
+|                                 Panzerung                                  |
+| :------------------------------------------------------------------------: |
 | Kettenpanzer (PA+2, LA-0.5), Merkt nichts (PA+2), Metallhelm (PA+1, INI-1) |
-
 
 **Talente:**  
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Lockruf aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Lockruf aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

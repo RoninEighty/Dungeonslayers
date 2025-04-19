@@ -1,25 +1,24 @@
-# Zombiedrache  
-- Gruppe: Untote  
+### Zombiedrache
 
-| KÖR | 20 | AGI | 8 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 8 | BE | 5 | VE | 1 |
-| HÄ | 10 | GE | 5 | AU | 1 |
-|  |
-| LK | 12.5 | Abwehr | 34 | Initiative | 13 |
-| Laufen | 12.5 | Schlagen | 32 | Schiessen | 17 |
-|  |
-| GH | 64 | GK | ge | EP | 907 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  20  |   AGI    |  8  |    GEI     |  1  |
+| :----: | :--: | :------: | :-: | :--------: | :-: |
+|   ST   |  8   |    BE    |  5  |     VE     |  1  |
+|   HÄ   |  10  |    GE    |  5  |     AU     |  1  |
+|        |      |          |     |            |     |
+|   LK   | 12.5 |  Abwehr  | 34  | Initiative | 13  |
+| Laufen | 12.5 | Schlagen | 32  | Schiessen  | 17  |
+|        |      |          |     |            |     |
+|   GH   |  64  |    GK    | ge  |     EP     | 907 |
+
+|                   Bewaffnung                    |
+| :---------------------------------------------: |
 | Biss, Klaue, Odem oder Schwanzhieb (WB+4, GA-2) |
 
-
-| Panzerung |
-| --- |
+|         Panzerung          |
+| :------------------------: |
 | Verrottender Körper (PA+4) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -46,9 +45,6 @@ Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen
 
 Zerstampfen: Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

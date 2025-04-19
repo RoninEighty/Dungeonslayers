@@ -1,25 +1,24 @@
-# Unwolf  
-- Gruppe: Magische Wesen  
+### Unwolf
 
-| KÖR | 11 | AGI | 8 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 2 | VE | 0 |
-| HÄ | 2 | GE | 2 | AU | 0 |
-|  |
-| LK | 7.5 | Abwehr | 14 | Initiative | 10 |
-| Laufen | 7.5 | Schlagen | 16 | Schiessen | 12 |
-|  |
-| GH | 7 | GK | no | EP | 104 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 11  |   AGI    |  8  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  4  |    BE    |  2  |     VE     |  0  |
+|   HÄ   |  2  |    GE    |  2  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 7.5 |  Abwehr  | 14  | Initiative | 10  |
+| Laufen | 7.5 | Schlagen | 16  | Schiessen  | 12  |
+|        |     |          |     |            |     |
+|   GH   |  7  |    GK    | no  |     EP     | 104 |
+
+|          Bewaffnung           |
+| :---------------------------: |
 | Feuerodem (WB+2), Biss (WB+1) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung        |
+| :--------------------: |
 | Brennendes Fell (PA+1) |
-
 
 **Talente:**  
 Anfällig: Erhält doppelten Schaden durch Eis-, Frost- und Wasserangriffe.
@@ -32,9 +31,6 @@ Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in 
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

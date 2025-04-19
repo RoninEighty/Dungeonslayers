@@ -1,25 +1,24 @@
-# Erwachsener Drache  
-- Gruppe: Magische Wesen  
+### Erwachsener Drache
 
-| KÖR | 24 | AGI | 16 | GEI | 10 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 6 | BE | 4 | VE | 2 |
-| HÄ | 6 | GE | 4 | AU | 3 |
-|  |
-| LK | 18.5 | Abwehr | 35 | Initiative | 20 |
-| Laufen | 18.5 | Schlagen | 35 | Schiessen | 25 |
-|  |
-| GH | 65 | GK | ge | EP | 922 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  24  |   AGI    | 16  |    GEI     | 10  |
+| :----: | :--: | :------: | :-: | :--------: | :-: |
+|   ST   |  6   |    BE    |  4  |     VE     |  2  |
+|   HÄ   |  6   |    GE    |  4  |     AU     |  3  |
+|        |      |          |     |            |     |
+|   LK   | 18.5 |  Abwehr  | 35  | Initiative | 20  |
+| Laufen | 18.5 | Schlagen | 35  | Schiessen  | 25  |
+|        |      |          |     |            |     |
+|   GH   |  65  |    GK    | ge  |     EP     | 922 |
+
+|                   Bewaffnung                    |
+| :---------------------------------------------: |
 | Biss, Klaue, Odem oder Schwanzhieb (WB+5, GA-5) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung        |
+| :--------------------: |
 | Drachenschuppen (PA+5) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -3 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -44,9 +43,6 @@ Wesen der Dunkelheit / Wesen des Lichts (Settingoption): Gilt in den meisten Set
 
 Zerstampfen: Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

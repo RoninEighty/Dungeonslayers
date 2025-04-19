@@ -1,25 +1,24 @@
-# Faulbauch  
-- Gruppe: Untote  
+### Faulbauch
 
-| KÖR | 16 | AGI | 6 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 6 | BE | 0 | VE | 0 |
-| HÄ | 5 | GE | 0 | AU | 0 |
-|  |
-| LK | 4.5 | Abwehr | 23 | Initiative | 6 |
-| Laufen | 4.5 | Schlagen | 24 | Schiessen | 6 |
-|  |
-| GH | 17 | GK | gr | EP | 131 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 16  |   AGI    |  6  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  6  |    BE    |  0  |     VE     |  0  |
+|   HÄ   |  5  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 4.5 |  Abwehr  | 23  | Initiative |  6  |
+| Laufen | 4.5 | Schlagen | 24  | Schiessen  |  6  |
+|        |     |          |     |            |     |
+|   GH   | 17  |    GK    | gr  |     EP     | 131 |
+
+|      Bewaffnung      |
+| :------------------: |
 | Knochenpranke (WB+2) |
 
-
-| Panzerung |
-| --- |
+|      Panzerung      |
+| :-----------------: |
 | Merkt nichts (PA+2) |
-
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
@@ -30,9 +29,6 @@ Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie 
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

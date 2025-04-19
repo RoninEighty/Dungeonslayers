@@ -1,30 +1,28 @@
-# Erfahrener Rattling  
-- Gruppe: Rattling  
-- Volk: Rattling  
-- Klasse: Späher  
-- Stufe: 5  
-- Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
+### Erfahrener Rattling
 
+- Gruppe: Rattling
+- Volk: Rattling
+- Klasse: Späher
+- Stufe: 5
+- Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
-| KÖR | 6 | AGI | 8 | GEI | 6 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 0 | BE | 4 | VE | 1 |
-| HÄ | 3 | GE | 6 | AU | 0 |
-|  |
-| LK | 6 | Abwehr | 12 | Initiative | 12 |
-| Laufen | 6 | Schlagen | 7 | Schiessen | 17 |
-|  |
-| GH | 1 | GK | kl | EP | 61 |
+|  KÖR   |  6  |   AGI    |  8  |    GEI     |  6  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  0  |    BE    |  4  |     VE     |  1  |
+|   HÄ   |  3  |    GE    |  6  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  6  |  Abwehr  | 12  | Initiative | 12  |
+| Laufen |  6  | Schlagen |  7  | Schiessen  | 17  |
+|        |     |          |     |            |     |
+|   GH   |  1  |    GK    | kl  |     EP     | 61  |
 
-| Bewaffnung |
-| --- |
+|                    Bewaffnung                    |
+| :----------------------------------------------: |
 | Kurzbogen (2h) (WB+1, INI+1), Kurzschwert (WB+1) |
 
-
-| Panzerung |
-| --- |
+|                                    Panzerung                                    |
+| :-----------------------------------------------------------------------------: |
 | Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1) |
-
 
 **Talente:**  
 Schütze II: Schiessen, Zielzauber +1 pro Talentrang.
@@ -43,9 +41,6 @@ Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentran
 
 Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -1,25 +1,24 @@
-# Asphyx  
-- Gruppe: Untote  
+### Asphyx
 
-| KÖR | 4 | AGI | 11 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 3 | BE | 3 | VE | 0 |
-| HÄ | 1 | GE | 1 | AU | 0 |
-|  |
-| LK | 6.5 | Abwehr | 13 | Initiative | 14 |
-| Laufen | 6.5 | Schlagen | 9 | Schiessen | 12 |
-|  |
-| GH | 11 | GK | wi | EP | 169 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  4  |   AGI    | 11  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  3  |    BE    |  3  |     VE     |  0  |
+|   HÄ   |  1  |    GE    |  1  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 6.5 |  Abwehr  | 13  | Initiative | 14  |
+| Laufen | 6.5 | Schlagen |  9  | Schiessen  | 12  |
+|        |     |          |     |            |     |
+|   GH   | 11  |    GK    | wi  |     EP     | 169 |
+
+|        Bewaffnung         |
+| :-----------------------: |
 | Geisterklaue (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|    Panzerung     |
+| :--------------: |
 | Körperlos (PA+8) |
-
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
@@ -38,9 +37,6 @@ Werteverlust: Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖ
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

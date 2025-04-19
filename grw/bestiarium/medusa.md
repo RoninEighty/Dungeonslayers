@@ -1,25 +1,24 @@
-# Medusa  
-- Gruppe: Magische Wesen  
+### Medusa
 
-| KÖR | 11 | AGI | 6 | GEI | 7 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 3 | BE | 0 | VE | 2 |
-| HÄ | 3 | GE | 2 | AU | 2 |
-|  |
-| LK | 6 | Abwehr | 15 | Initiative | 6 |
-| Laufen | 6 | Schlagen | 16 | Schiessen | 8 |
-|  |
-| GH | 18 | GK | no | EP | 205 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 11  |   AGI    |  6  |    GEI     |  7  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  3  |    BE    |  0  |     VE     |  2  |
+|   HÄ   |  3  |    GE    |  2  |     AU     |  2  |
+|        |     |          |     |            |     |
+|   LK   |  6  |  Abwehr  | 15  | Initiative |  6  |
+| Laufen |  6  | Schlagen | 16  | Schiessen  |  8  |
+|        |     |          |     |            |     |
+|   GH   | 18  |    GK    | no  |     EP     | 205 |
+
+|       Bewaffnung        |
+| :---------------------: |
 | Klauen/Schlangen (WB+2) |
 
-
-| Panzerung |
-| --- |
+|    Panzerung    |
+| :-------------: |
 | Schuppen (PA+1) |
-
 
 **Talente:**  
 Mehrere Angriffe (+5): Von den zahlreichen Schlangen auf ihrem Kopf können jeweils 5 in jeder Runde Nahkampfgegner angreifen.
@@ -30,9 +29,6 @@ Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie 
 
 Versteinern: Bei einem erfolgreichen Blickangriff versteinert das Ziel, sofern diesem KÖR+AU misslingt. Eine Versteinerung kann durch den Zauber Allheilung aufgehoben werden.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

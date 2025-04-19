@@ -1,25 +1,24 @@
-# Geist  
-- Gruppe: Untote  
+### Geist
 
-| KÖR | 1 | AGI | 11 | GEI | 10 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 16 | BE | 0 | VE | 3 |
-| HÄ | 16 | GE | 2 | AU | 6 |
-|  |
-| LK | 6.5 | Abwehr | 25 | Initiative | 11 |
-| Laufen | 6.5 | Schlagen | 19 | Schiessen | 13 |
-|  |
-| GH | 24 | GK | no | EP | 279 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  1  |   AGI    | 11  |    GEI     | 10  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   | 16  |    BE    |  0  |     VE     |  3  |
+|   HÄ   | 16  |    GE    |  2  |     AU     |  6  |
+|        |     |          |     |            |     |
+|   LK   | 6.5 |  Abwehr  | 25  | Initiative | 11  |
+| Laufen | 6.5 | Schlagen | 19  | Schiessen  | 13  |
+|        |     |          |     |            |     |
+|   GH   | 24  |    GK    | no  |     EP     | 279 |
+
+|        Bewaffnung         |
+| :-----------------------: |
 | Geisterklaue (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|    Panzerung     |
+| :--------------: |
 | Körperlos (PA+8) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -40,12 +39,9 @@ Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte.
 
 Wesen der Dunkelheit / Wesen des Lichts (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit bzw. des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur.
 
-
 **Zaubersprüche:**  
 [Terror](/grw/zauber/terror.md) (-(GEI+VE)/2)
 
+---
 
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

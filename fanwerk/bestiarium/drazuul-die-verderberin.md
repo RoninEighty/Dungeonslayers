@@ -1,26 +1,25 @@
-# Drazuul die Verderberin  
-- Gruppe: Tiere  
-- Upgrade: Heroisch  
+### Drazuul die Verderberin
 
-| KÖR | 10 | AGI | 9 | GEI | 9 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 10 | BE | 5 | VE | 5 |
-| HÄ | 10 | GE | 5 | AU | 5 |
-|  |
-| LK | 5.5 | Abwehr | 25 | Initiative | 14 |
-| Laufen | 5.5 | Schlagen | 25 | Schiessen | 14 |
-|  |
-| GH | 27 | GK | no | EP | 588 |
+- Gruppe: Tiere
+- Upgrade: Heroisch
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 10  |   AGI    |  9  |    GEI     |  9  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   | 10  |    BE    |  5  |     VE     |  5  |
+|   HÄ   | 10  |    GE    |  5  |     AU     |  5  |
+|        |     |          |     |            |     |
+|   LK   | 5.5 |  Abwehr  | 25  | Initiative | 14  |
+| Laufen | 5.5 | Schlagen | 25  | Schiessen  | 14  |
+|        |     |          |     |            |     |
+|   GH   | 27  |    GK    | no  |     EP     | 588 |
+
+|      Bewaffnung      |
+| :------------------: |
 | Schattenklaue (WB+3) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung       |
+| :-------------------: |
 | Schattenkörper (PA+3) |
-
 
 **Talente:**  
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
@@ -35,9 +34,6 @@ Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in 
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Lockruf aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Lockruf aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -1,31 +1,30 @@
-# Die Eiskönigin  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Elementarist  
-- Stufe: 20  
-- Fähigkeiten: Talentiert  
+### Die Eiskönigin
 
-- Upgrade: Episch  
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Elementarist
+- Stufe: 20
+- Fähigkeiten: Talentiert
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 0 | BE | 0 | VE | 10 |
-| HÄ | 4 | GE | 4 | AU | 14 |
-|  |
-| LK | 4 | Abwehr | 17 | Initiative | 9 |
-| Laufen | 4 | Schlagen | 10 | Schiessen | 10 |
-|  |
-| GH | 14 | GK | no | EP | 628 |
+- Upgrade: Episch
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  6  |   AGI    |  6  |    GEI     |  8  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  0  |    BE    |  0  |     VE     | 10  |
+|   HÄ   |  4  |    GE    |  4  |     AU     | 14  |
+|        |     |          |     |            |     |
+|   LK   |  4  |  Abwehr  | 17  | Initiative |  9  |
+| Laufen |  4  | Schlagen | 10  | Schiessen  | 10  |
+|        |     |          |     |            |     |
+|   GH   | 14  |    GK    | no  |     EP     | 628 |
+
+|                               Bewaffnung                                |
+| :---------------------------------------------------------------------: |
 | mag. Kampfstab (2h) +3 (WB+4, INI+3, GA-3, Zielzauber +1, Eismagier +V) |
 
-
-| Panzerung |
-| --- |
+|                                                                        Panzerung                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I) |
-
 
 **Ausrüstung:**  
 Diadem (Diener der Dunkelheit +II, Zauber: Halt eingebettet), Ring (Aura +3, Zauber: Gehorche eingebettet, Zauber: Freund eingebettet)
@@ -47,12 +46,9 @@ Wissensgebiet III: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-
 **Zaubersprüche:**  
 [Bannen](/grw/zauber/bannen.md) (-(KÖR+AU)/2), [Ebenentor](/grw/zauber/ebenentor.md) (-8), Eisbombe (+9), Eishauch (+9), [Elementar herbeirufen](/grw/zauber/elementar-herbeirufen.md) (-Stufe x5), [Elementar herbeirufen](/grw/zauber/elementar-herbeirufen.md) (-Stufe x5), [Fliegen](/grw/zauber/fliegen.md) (0), [Frostschock](/grw/zauber/frostschock.md) (+9), [Frostwaffe](/grw/zauber/frostwaffe.md) (+5), [Gasgestalt](/grw/zauber/gasgestalt.md) (0), Kältefront (+4), Kältekegel (+8), Kältestrahl (+7), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Schutz](/fanwerk/zauber/schutz.md)feld (0), [Schutz](/fanwerk/zauber/schutz.md)schild (0), [Tarnender Nebel](/grw/zauber/tarnender-nebel.md) (-2), [Tierbeherrschung](/grw/zauber/tierbeherrschung.md) (-LK/2), [Wasserwandeln](/grw/zauber/wasserwandeln.md) (+5), [Zeitstop](/grw/zauber/zeitstop.md) (-5)
 
+---
 
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Geschenk der Eiskönigin | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Geschenk der Eiskönigin | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

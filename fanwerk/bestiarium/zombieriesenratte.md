@@ -1,25 +1,24 @@
-# Zombieriesenratte  
-- Gruppe: Untote  
+### Zombieriesenratte
 
-| KÖR | 6 | AGI | 4 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 2 | BE | 2 | VE | 0 |
-| HÄ | 1 | GE | 1 | AU | 0 |
-|  |
-| LK | 4.5 | Abwehr | 9 | Initiative | 6 |
-| Laufen | 4.5 | Schlagen | 10 | Schiessen | 5 |
-|  |
-| GH | 2 | GK | kl | EP | 60 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  6  |   AGI    |  4  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  2  |    BE    |  2  |     VE     |  0  |
+|   HÄ   |  1  |    GE    |  1  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 4.5 |  Abwehr  |  9  | Initiative |  6  |
+| Laufen | 4.5 | Schlagen | 10  | Schiessen  |  5  |
+|        |     |          |     |            |     |
+|   GH   |  2  |    GK    | kl  |     EP     | 60  |
+
+|     Bewaffnung      |
+| :-----------------: |
 | Spitze Zähne (WB+2) |
 
-
-| Panzerung |
-| --- |
+|      Panzerung      |
+| :-----------------: |
 | Merkt nichts (PA+2) |
-
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
@@ -32,9 +31,6 @@ Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

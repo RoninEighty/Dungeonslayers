@@ -1,25 +1,24 @@
-# Einhorn  
-- Gruppe: Magische Wesen  
+### Einhorn
 
-| KÖR | 9 | AGI | 13 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 2 | BE | 6 | VE | 1 |
-| HÄ | 2 | GE | 0 | AU | 1 |
-|  |
-| LK | 12 | Abwehr | 11 | Initiative | 19 |
-| Laufen | 12 | Schlagen | 12 | Schiessen | 13 |
-|  |
-| GH | 5 | GK | gr | EP | 194 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  9  |   AGI    | 13  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  2  |    BE    |  6  |     VE     |  1  |
+|   HÄ   |  2  |    GE    |  0  |     AU     |  1  |
+|        |     |          |     |            |     |
+|   LK   | 12  |  Abwehr  | 11  | Initiative | 19  |
+| Laufen | 12  | Schlagen | 12  | Schiessen  | 13  |
+|        |     |          |     |            |     |
+|   GH   |  5  |    GK    | gr  |     EP     | 194 |
+
+|         Bewaffnung          |
+| :-------------------------: |
 | Horn oder Hufe (WB+1, GA-2) |
 
-
 | Panzerung |
-| --- |
-|  |
-
+| :-------: | --- | --- | --- | --- | --- |
+|           |     |     |     |     |     |
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -36,12 +35,9 @@ Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in 
 
 Wesen des Lichts (Settingoption): Gilt in den meisten Settings als ein Wesen des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur.
 
-
 **Zaubersprüche:**  
 [Spurt](/grw/zauber/spurt.md) (-2)
 
+---
 
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

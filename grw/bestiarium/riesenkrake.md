@@ -1,25 +1,24 @@
-# Riesenkrake  
-- Gruppe: Tiere  
+### Riesenkrake
 
-| KÖR | 22 | AGI | 10 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 5 | BE | 8 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |
-| LK | 11 | Abwehr | 26 | Initiative | 18 |
-| Laufen | 11 | Schlagen | 29 | Schiessen | 10 |
-|  |
-| GH | 35 | GK | ri | EP | 397 |
+- Gruppe: Tiere
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 22  |   AGI    | 10  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  5  |    BE    |  8  |     VE     |  0  |
+|   HÄ   |  4  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 11  |  Abwehr  | 26  | Initiative | 18  |
+| Laufen | 11  | Schlagen | 29  | Schiessen  | 10  |
+|        |     |          |     |            |     |
+|   GH   | 35  |    GK    | ri  |     EP     | 397 |
+
+|   Bewaffnung    |
+| :-------------: |
 | Fangarme (WB+2) |
 
-
 | Panzerung |
-| --- |
-|  |
-
+| :-------: | --- | --- | --- | --- | --- |
+|           |     |     |     |     |     |
 
 **Talente:**  
 Mehrere Angriffe (+5): Kann mit seinen insgesamt sechs Fangarmen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
@@ -32,9 +31,6 @@ Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend
 
 Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

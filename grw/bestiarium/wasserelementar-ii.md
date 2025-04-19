@@ -1,25 +1,24 @@
-# Wasserelementar II  
-- Gruppe: Magische Wesen  
+### Wasserelementar II
 
-| KÖR | 11 | AGI | 8 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 0 | VE | 0 |
-| HÄ | 3 | GE | 3 | AU | 0 |
-|  |
-| LK | 5 | Abwehr | 22 | Initiative | 8 |
-| Laufen | 5 | Schlagen | 18 | Schiessen | 14 |
-|  |
-| GH | 9 | GK | no | EP | 83 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 11  |   AGI    |  8  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  4  |    BE    |  0  |     VE     |  0  |
+|   HÄ   |  3  |    GE    |  3  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  5  |  Abwehr  | 22  | Initiative |  8  |
+| Laufen |  5  | Schlagen | 18  | Schiessen  | 14  |
+|        |     |          |     |            |     |
+|   GH   |  9  |    GK    | no  |     EP     | 83  |
+
+|     Bewaffnung      |
+| :-----------------: |
 | Wasserstrahl (WB+3) |
 
-
-| Panzerung |
-| --- |
+|         Panzerung          |
+| :------------------------: |
 | Keine feste Gestalt (PA+8) |
-
 
 **Talente:**  
 Anfällig: Erhält doppelten Schaden durch Feuer.
@@ -28,9 +27,6 @@ Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, E
 
 Schwimmen: Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

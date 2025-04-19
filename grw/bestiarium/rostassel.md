@@ -1,25 +1,24 @@
-# Rostassel  
-- Gruppe: Tiere  
+### Rostassel
 
-| KÖR | 8 | AGI | 7 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |
-| LK | 7 | Abwehr | 15 | Initiative | 7 |
-| Laufen | 7 | Schlagen | 13 | Schiessen | 7 |
-|  |
-| GH | 8 | GK | no | EP | 111 |
+- Gruppe: Tiere
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  8  |   AGI    |  7  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  4  |    BE    |  0  |     VE     |  0  |
+|   HÄ   |  4  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  7  |  Abwehr  | 15  | Initiative |  7  |
+| Laufen |  7  | Schlagen | 13  | Schiessen  |  7  |
+|        |     |          |     |            |     |
+|   GH   |  8  |    GK    | no  |     EP     | 111 |
+
+|      Bewaffnung       |
+| :-------------------: |
 | Tentakelfühler (WB+1) |
 
-
-| Panzerung |
-| --- |
+|      Panzerung      |
+| :-----------------: |
 | Chitinpanzer (PA+3) |
-
 
 **Talente:**  
 Mehrere Angriffe (+3): Kann mit seinen insgesamt vier Tentakelfühler 3 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
@@ -32,9 +31,6 @@ Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird desse
 
 Rost: Jeder Treffer der Tentakelfühler reduziert die PA eines zufälligen, metallischen, nichtmagischen Rüstungsstückes des Ziels um 1. Gleiches gilt für den WB nichtmagischer Metallwaffen, die die Rostassel treffen.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

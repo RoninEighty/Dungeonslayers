@@ -1,31 +1,30 @@
-# Josip  
-- Gruppe: Elf  
-- Volk: Elf  
-- Klasse: Attentäter  
-- Stufe: 16  
-- Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
+### Josip
 
-- Upgrade: Heroisch  
+- Gruppe: Humanoide
+- Volk: Elf
+- Klasse: Attentäter
+- Stufe: 16
+- Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig
 
-| KÖR | 10 | AGI | 8 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 10 | VE | 2 |
-| HÄ | 4 | GE | 5 | AU | 0 |
-|  |
-| LK | 5 | Abwehr | 19 | Initiative | 40 |
-| Laufen | 5 | Schlagen | 19 | Schiessen | 13 |
-|  |
-| GH | 10 | GK | kl | EP | 234 |
+- Upgrade: Heroisch
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 10  |   AGI    |  8  |    GEI     |  8  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  4  |    BE    | 10  |     VE     |  2  |
+|   HÄ   |  4  |    GE    |  5  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  5  |  Abwehr  | 19  | Initiative | 40  |
+| Laufen |  5  | Schlagen | 19  | Schiessen  | 13  |
+|        |     |          |     |            |     |
+|   GH   | 10  |    GK    | kl  |     EP     | 234 |
+
+|                     Bewaffnung                      |
+| :-------------------------------------------------: |
 | mag. Dolch +3 (WB+3, INI+4, GA-3, Aderschlitzer +V) |
 
-
-| Panzerung |
-| --- |
+|              Panzerung              |
+| :---------------------------------: |
 | mag. Robe +3 (PA+3, Ausweichen +IV) |
-
 
 **Ausrüstung:**  
 Des Schnitzers Gewandt (Set) (KÖR +1, AGI +1, GEI +1), Handschuhe (Schnelle Reflexe +II), Maske (Wahrnehmung +IV), Stiefel (Schnelle Reflexe +II), Umhang (Heimlichkeit +IV)
@@ -49,9 +48,6 @@ Meucheln III: GA-5 pro Talentrang in Verbindung mit hinterhätigem Angriff.
 
 Hinterhältiger Angriff III: Schlagen +GE mal Talentrang, falls Angriff hinterrücks mit Dolch.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Geschenk der Eiskönigin | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Geschenk der Eiskönigin | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

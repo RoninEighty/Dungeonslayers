@@ -1,25 +1,24 @@
-# Basilisk  
-- Gruppe: Magische Wesen  
+### Basilisk
 
-| KÖR | 14 | AGI | 7 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 3 | BE | 3 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 1 |
-|  |
-| LK | 7.5 | Abwehr | 20 | Initiative | 10 |
-| Laufen | 7.5 | Schlagen | 19 | Schiessen | 7 |
-|  |
-| GH | 18 | GK | gr | EP | 206 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 14  |   AGI    |  7  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  3  |    BE    |  3  |     VE     |  0  |
+|   HÄ   |  4  |    GE    |  0  |     AU     |  1  |
+|        |     |          |     |            |     |
+|   LK   | 7.5 |  Abwehr  | 20  | Initiative | 10  |
+| Laufen | 7.5 | Schlagen | 19  | Schiessen  |  7  |
+|        |     |          |     |            |     |
+|   GH   | 18  |    GK    | gr  |     EP     | 206 |
+
+|        Bewaffnung        |
+| :----------------------: |
 | Großer Biss (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung       |
+| :-------------------: |
 | Schuppenpanzer (PA+2) |
-
 
 **Talente:**  
 Blickangriff: Greift mit seinem Blick aktionsfrei jeden an, dem GEI+AU misslingt. Wer gegen die Kreatur vorgeht, ohne ihr in die Augen zu sehen, erhält -4 auf alle Proben, ist aber nicht mehr Ziel ihrer Blickangriffe.
@@ -30,9 +29,6 @@ Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird desse
 
 Versteinern: Bei einem erfolgreichen Blickangriff versteinert das Ziel, sofern diesem KÖR+AU misslingt. Eine Versteinerung kann durch den Zauber Allheilung aufgehoben werden.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

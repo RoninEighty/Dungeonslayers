@@ -1,30 +1,28 @@
-# Rattling Giftzauberer  
-- Gruppe: Rattling  
-- Volk: Rattling  
-- Klasse: Schwarzmagier  
-- Stufe: 6  
-- Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen  
+### Rattling Giftzauberer
 
+- Gruppe: Rattling
+- Volk: Rattling
+- Klasse: Schwarzmagier
+- Stufe: 6
+- Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
-| KÖR | 5 | AGI | 7 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 0 | BE | 1 | VE | 3 |
-| HÄ | 1 | GE | 6 | AU | 5 |
-|  |
-| LK | 4.5 | Abwehr | 6 | Initiative | 8 |
-| Laufen | 4.5 | Schlagen | 6 | Schiessen | 13 |
-|  |
-| GH | 1 | GK | kl | EP | 71 |
+|  KÖR   |  5  |   AGI    |  7  |    GEI     |  8  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  0  |    BE    |  1  |     VE     |  3  |
+|   HÄ   |  1  |    GE    |  6  |     AU     |  5  |
+|        |     |          |     |            |     |
+|   LK   | 4.5 |  Abwehr  |  6  | Initiative |  8  |
+| Laufen | 4.5 | Schlagen |  6  | Schiessen  | 13  |
+|        |     |          |     |            |     |
+|   GH   |  1  |    GK    | kl  |     EP     | 71  |
 
-| Bewaffnung |
-| --- |
+|              Bewaffnung              |
+| :----------------------------------: |
 | Kampfstab (2h) (WB+1, Zielzauber +1) |
 
-
-| Panzerung |
-| --- |
+|           Panzerung            |
+| :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
-
 
 **Talente:**  
 Alchemie II: Tränke identifizieren und herstellen +1 pro Talentrang.
@@ -43,12 +41,9 @@ Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talen
 
 Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-
 **Zaubersprüche:**  
 [Feuerstrahl](/grw/zauber/feuerstrahl.md) (+3), [Kontrollieren](/grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Skelette erwecken](/grw/zauber/skelette-erwecken.md) (0), [Tarnender Nebel](/grw/zauber/tarnender-nebel.md) (-2), [Verwirren](/grw/zauber/verwirren.md) (-(GEI+AU)/2)
 
+---
 
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

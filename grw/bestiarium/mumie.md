@@ -1,25 +1,24 @@
-# Mumie  
-- Gruppe: Untote  
+### Mumie
 
-| KÖR | 12 | AGI | 4 | GEI | 4 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 10 | BE | 0 | VE | 0 |
-| HÄ | 10 | GE | 0 | AU | 2 |
-|  |
-| LK | 3 | Abwehr | 23 | Initiative | 4 |
-| Laufen | 3 | Schlagen | 23 | Schiessen | 4 |
-|  |
-| GH | 18 | GK | no | EP | 133 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 12  |   AGI    |  4  |    GEI     |  4  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   | 10  |    BE    |  0  |     VE     |  0  |
+|   HÄ   | 10  |    GE    |  0  |     AU     |  2  |
+|        |     |          |     |            |     |
+|   LK   |  3  |  Abwehr  | 23  | Initiative |  4  |
+| Laufen |  3  | Schlagen | 23  | Schiessen  |  4  |
+|        |     |          |     |            |     |
+|   GH   | 18  |    GK    | no  |     EP     | 133 |
+
+|      Bewaffnung      |
+| :------------------: |
 | Fäulnispranke (WB+1) |
 
-
-| Panzerung |
-| --- |
+|    Panzerung    |
+| :-------------: |
 | Bandagen (PA+1) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -38,9 +37,6 @@ Werteverlust: Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖ
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -1,25 +1,24 @@
-# Sumpfechse  
-- Gruppe: Tiere  
+### Sumpfechse
 
-| KÖR | 9 | AGI | 8 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 3 | BE | 5 | VE | 0 |
-| HÄ | 4 | GE | 1 | AU | 0 |
-|  |
-| LK | 8 | Abwehr | 15 | Initiative | 13 |
-| Laufen | 8 | Schlagen | 14 | Schiessen | 9 |
-|  |
-| GH | 9 | GK | gr | EP | 156 |
+- Gruppe: Tiere
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  9  |   AGI    |  8  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  3  |    BE    |  5  |     VE     |  0  |
+|   HÄ   |  4  |    GE    |  1  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  8  |  Abwehr  | 15  | Initiative | 13  |
+| Laufen |  8  | Schlagen | 14  | Schiessen  |  9  |
+|        |     |          |     |            |     |
+|   GH   |  9  |    GK    | gr  |     EP     | 156 |
+
+|    Bewaffnung     |
+| :---------------: |
 | Biss (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung       |
+| :-------------------: |
 | Schuppenpanzer (PA+2) |
-
 
 **Talente:**  
 Mehrere Angriffe (+1): Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
@@ -30,9 +29,6 @@ Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie 
 
 Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Umbarla-Becken | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Umbarla-Becken | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

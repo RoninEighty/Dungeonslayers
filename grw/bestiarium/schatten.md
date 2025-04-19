@@ -1,25 +1,24 @@
-# Schatten  
-- Gruppe: Untote  
+### Schatten
 
-| KÖR | 11 | AGI | 11 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 5 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 2 | AU | 0 |
-|  |
-| LK | 6.5 | Abwehr | 23 | Initiative | 11 |
-| Laufen | 6.5 | Schlagen | 18 | Schiessen | 13 |
-|  |
-| GH | 15 | GK | no | EP | 136 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 11  |   AGI    | 11  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  5  |    BE    |  0  |     VE     |  0  |
+|   HÄ   |  4  |    GE    |  2  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 6.5 |  Abwehr  | 23  | Initiative | 11  |
+| Laufen | 6.5 | Schlagen | 18  | Schiessen  | 13  |
+|        |     |          |     |            |     |
+|   GH   | 15  |    GK    | no  |     EP     | 136 |
+
+|        Bewaffnung         |
+| :-----------------------: |
 | Geisterklaue (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|    Panzerung     |
+| :--------------: |
 | Körperlos (PA+8) |
-
 
 **Talente:**  
 Alterung: Bei einem Treffer altert das Ziel um 1 Jahr.
@@ -34,9 +33,6 @@ Körperlos: Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, E
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

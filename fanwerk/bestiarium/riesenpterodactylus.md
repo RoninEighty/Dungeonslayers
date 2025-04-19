@@ -1,25 +1,24 @@
-# Riesenpterodactylus  
-- Gruppe: Tiere  
+### Riesenpterodactylus
 
-| KÖR | 14 | AGI | 16 | GEI | 2 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 3 | BE | 6 | VE | 0 |
-| HÄ | 4 | GE | 3 | AU | 0 |
-|  |
-| LK | 11 | Abwehr | 20 | Initiative | 22 |
-| Laufen | 11 | Schlagen | 21 | Schiessen | 19 |
-|  |
-| GH | 22 | GK | ri | EP | 264 |
+- Gruppe: Tiere
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 14  |   AGI    | 16  |    GEI     |  2  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  3  |    BE    |  6  |     VE     |  0  |
+|   HÄ   |  4  |    GE    |  3  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 11  |  Abwehr  | 20  | Initiative | 22  |
+| Laufen | 11  | Schlagen | 21  | Schiessen  | 19  |
+|        |     |          |     |            |     |
+|   GH   | 22  |    GK    | ri  |     EP     | 264 |
+
+|        Bewaffnung         |
+| :-----------------------: |
 | Grausamer Schnabel (WB+4) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung       |
+| :-------------------: |
 | Schuppenpanzer (PA+2) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -34,9 +33,6 @@ Sturzangriff: Wird fliegend mindestens eine Distanz in Höhe von Laufen x 2 'ren
 
 Verschlingen: Schlagen-Immersieg (Biss) verschlingt Ziel (sofern 2+ Größenkategorien kleiner), welches fortan einen nicht abwehrbaren Schadenspunkt pro Kampfrunde und einen Malus von -8 auf alle Proben erhält. Befreien: Nur mit einem Schlagen-Immersieg, der Schaden verursacht, kann sich der Verschlungene augenblicklich aus dem Leib seines Verschlingers befreien, wenn dieser noch lebt.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Insel der Stürme | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Insel der Stürme | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

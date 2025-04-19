@@ -1,25 +1,24 @@
-# Troll  
-- Gruppe: Humanoide  
+### Troll
 
-| KÖR | 16 | AGI | 6 | GEI | 2 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 0 | VE | 1 |
-| HÄ | 4 | GE | 3 | AU | 0 |
-|  |
-| LK | 4.5 | Abwehr | 22 | Initiative | 6 |
-| Laufen | 4.5 | Schlagen | 22 | Schiessen | 13 |
-|  |
-| GH | 14 | GK | gr | EP | 182 |
+- Gruppe: Humanoide
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 16  |   AGI    |  6  |    GEI     |  2  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  4  |    BE    |  0  |     VE     |  1  |
+|   HÄ   |  4  |    GE    |  3  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 4.5 |  Abwehr  | 22  | Initiative |  6  |
+| Laufen | 4.5 | Schlagen | 22  | Schiessen  | 13  |
+|        |     |          |     |            |     |
+|   GH   | 14  |    GK    | gr  |     EP     | 182 |
+
+|                      Bewaffnung                       |
+| :---------------------------------------------------: |
 | Geworf. Fels (WB+4, GA-4), Massive Keule (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|     Panzerung     |
+| :---------------: |
 | Warzenhaut (PA+2) |
-
 
 **Talente:**  
 Anfällig: Erhält doppelten Schaden durch Lichtangriffe.
@@ -32,9 +31,6 @@ Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Grö�
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

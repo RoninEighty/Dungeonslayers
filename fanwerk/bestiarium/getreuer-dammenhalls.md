@@ -1,26 +1,25 @@
-# Getreuer Dammenhalls  
-- Gruppe: Untote  
-- Upgrade: Heroisch  
+### Getreuer Dammenhalls
 
-| KÖR | 10 | AGI | 8 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 8 | BE | 2 | VE | 0 |
-| HÄ | 8 | GE | 2 | AU | 0 |
-|  |
-| LK | 5 | Abwehr | 27 | Initiative | 11 |
-| Laufen | 5 | Schlagen | 23 | Schiessen | 10 |
-|  |
-| GH | 22 | GK | no | EP | 428 |
+- Gruppe: Untote
+- Upgrade: Heroisch
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 10  |   AGI    |  8  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  8  |    BE    |  2  |     VE     |  0  |
+|   HÄ   |  8  |    GE    |  2  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  5  |  Abwehr  | 27  | Initiative | 11  |
+| Laufen |  5  | Schlagen | 23  | Schiessen  | 10  |
+|        |     |          |     |            |     |
+|   GH   | 22  |    GK    | no  |     EP     | 428 |
+
+|               Bewaffnung                |
+| :-------------------------------------: |
 | mag. Langschwert +1 (WB+3, INI+1, GA-1) |
 
-
-| Panzerung |
-| --- |
+|                                      Panzerung                                      |
+| :---------------------------------------------------------------------------------: |
 | mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -31,9 +30,6 @@ Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschl�
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: D2GO #20 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: D2GO #20 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

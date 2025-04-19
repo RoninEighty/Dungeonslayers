@@ -1,30 +1,28 @@
-# Kruga  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Kriegszauberer  
-- Stufe: 14  
-- Fähigkeiten: Talentiert  
+### Kruga
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Kriegszauberer
+- Stufe: 14
+- Fähigkeiten: Talentiert
 
-| KÖR | 7 | AGI | 5 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 0 | VE | 8 |
-| HÄ | 2 | GE | 6 | AU | 0 |
-|  |
-| LK | 3.5 | Abwehr | 11 | Initiative | 7 |
-| Laufen | 3.5 | Schlagen | 18 | Schiessen | 11 |
-|  |
-| GH | 2 | GK | no | EP | 110 |
+|  KÖR   |  7  |   AGI    |  5  |    GEI     |  8  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  4  |    BE    |  0  |     VE     |  8  |
+|   HÄ   |  2  |    GE    |  6  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 3.5 |  Abwehr  | 11  | Initiative |  7  |
+| Laufen | 3.5 | Schlagen | 18  | Schiessen  | 11  |
+|        |     |          |     |            |     |
+|   GH   |  2  |    GK    | no  |     EP     | 110 |
 
-| Bewaffnung |
-| --- |
+|                               Bewaffnung                                |
+| :---------------------------------------------------------------------: |
 | mag. Breitschwert +2 (WB+3, INI+2, GA-4, Zauber: Feuerball eingebettet) |
 
-
-| Panzerung |
-| --- |
+|                                      Panzerung                                       |
+| :----------------------------------------------------------------------------------: |
 | Lederpanzer (PA+1, Ausweichen +III), Lederschienen (Arm & Bein) (PA+1, Kämpfer +III) |
-
 
 **Talente:**  
 Feuermagier III: Feuerzauber +1 pro Talentrang.
@@ -53,12 +51,9 @@ Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilza
 
 Zauberwaffe I: wie Talent Stabbindung, aber für spezielle Nahkampfwaffe
 
-
 **Zaubersprüche:**  
 [Blenden](/grw/zauber/blenden.md) (-(AGI+AU)/2), [Duftnote](/grw/zauber/duftnote.md) (0), [Feueratem](/grw/zauber/feueratem.md) (+6), [Feuerball](/grw/zauber/feuerball.md) (+6), [Feuerlanze](/grw/zauber/feuerlanze.md) (+5), [Feuerstrahl](/grw/zauber/feuerstrahl.md) (+4), [Flammenklinge](/grw/zauber/flammenklinge.md) (+3), [Halt](/grw/zauber/halt.md) (-(KÖR+AU)/2), [Heilbeeren](/grw/zauber/heilbeeren.md) (0), [Netz](/grw/zauber/netz.md) (-(AGI+ST)/2), [Rost](/grw/zauber/rost.md) (-Stufe), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Schleudern](/grw/zauber/schleudern.md) (-(KÖR+AU)/2), [Telekinese](/grw/zauber/telekinese.md) (-1/Stufe x5 kg)
 
+---
 
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Umbarla-Becken | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Umbarla-Becken | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

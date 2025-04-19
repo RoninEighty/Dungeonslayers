@@ -1,30 +1,28 @@
-# Einbrecher  
-- Gruppe: Halbling  
-- Volk: Halbling  
-- Klasse: Späher  
-- Stufe: 1  
-- Fähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen  
+### Einbrecher
 
+- Gruppe: Halbling
+- Volk: Halbling
+- Klasse: Späher
+- Stufe: 1
+- Fähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen
 
-| KÖR | 6 | AGI | 8 | GEI | 6 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 2 | BE | 2 | VE | 0 |
-| HÄ | 1 | GE | 5 | AU | 0 |
-|  |
-| LK | 6 | Abwehr | 8 | Initiative | 13 |
-| Laufen | 6 | Schlagen | 8 | Schiessen | 15 |
-|  |
-| GH | 1 | GK | kl | EP | 49 |
+|  KÖR   |  6  |   AGI    |  8  |    GEI     |  6  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  2  |    BE    |  2  |     VE     |  0  |
+|   HÄ   |  1  |    GE    |  5  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  6  |  Abwehr  |  8  | Initiative | 13  |
+| Laufen |  6  | Schlagen |  8  | Schiessen  | 15  |
+|        |     |          |     |            |     |
+|   GH   |  1  |    GK    | kl  |     EP     | 49  |
 
-| Bewaffnung |
-| --- |
+|          Bewaffnung          |
+| :--------------------------: |
 | Kurzbogen (2h) (WB+1, INI+1) |
 
-
-| Panzerung |
-| --- |
+|     Panzerung      |
+| :----------------: |
 | Lederpanzer (PA+1) |
-
 
 **Talente:**  
 Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
@@ -39,9 +37,6 @@ Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
 
 Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slayerforum | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slayerforum | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -1,26 +1,25 @@
-# Krötenhaut  
-- Gruppe: Untote  
-- Upgrade: Anführer  
+### Krötenhaut
 
-| KÖR | 8 | AGI | 10 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 6 | VE | 2 |
-| HÄ | 6 | GE | 2 | AU | 0 |
-|  |
-| LK | 6 | Abwehr | 16 | Initiative | 16 |
-| Laufen | 6 | Schlagen | 16 | Schiessen | 14 |
-|  |
-| GH | 14 | GK | no | EP | 356 |
+- Gruppe: Untote
+- Upgrade: Anführer
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  8  |   AGI    | 10  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  4  |    BE    |  6  |     VE     |  2  |
+|   HÄ   |  6  |    GE    |  2  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  6  |  Abwehr  | 16  | Initiative | 16  |
+| Laufen |  6  | Schlagen | 16  | Schiessen  | 14  |
+|        |     |          |     |            |     |
+|   GH   | 14  |    GK    | no  |     EP     | 356 |
+
+|     Bewaffnung      |
+| :-----------------: |
 | Klauen/Zunge (WB+2) |
 
-
-| Panzerung |
-| --- |
+| Panzerung  |
+| :--------: |
 | Warzenhaut |
-
 
 **Talente:**  
 Mehrere Angriffe (+3): Kann 3 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
@@ -37,9 +36,6 @@ Verschlingen: Schlagen-Immersieg (Biss) verschlingt Ziel (sofern 2+ Größenkate
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

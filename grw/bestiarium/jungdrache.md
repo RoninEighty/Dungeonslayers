@@ -1,25 +1,24 @@
-# Jungdrache  
-- Gruppe: Magische Wesen  
+### Jungdrache
 
-| KÖR | 16 | AGI | 12 | GEI | 7 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 3 | VE | 2 |
-| HÄ | 4 | GE | 3 | AU | 2 |
-|  |
-| LK | 12.5 | Abwehr | 24 | Initiative | 15 |
-| Laufen | 12.5 | Schlagen | 24 | Schiessen | 19 |
-|  |
-| GH | 37 | GK | ri | EP | 491 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  16  |   AGI    | 12  |    GEI     |  7  |
+| :----: | :--: | :------: | :-: | :--------: | :-: |
+|   ST   |  4   |    BE    |  3  |     VE     |  2  |
+|   HÄ   |  4   |    GE    |  3  |     AU     |  2  |
+|        |      |          |     |            |     |
+|   LK   | 12.5 |  Abwehr  | 24  | Initiative | 15  |
+| Laufen | 12.5 | Schlagen | 24  | Schiessen  | 19  |
+|        |      |          |     |            |     |
+|   GH   |  37  |    GK    | ri  |     EP     | 491 |
+
+|                   Bewaffnung                    |
+| :---------------------------------------------: |
 | Biss, Klaue, Odem oder Schwanzhieb (WB+4, GA-4) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung        |
+| :--------------------: |
 | Drachenschuppen (PA+4) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -44,9 +43,6 @@ Wesen der Dunkelheit / Wesen des Lichts (Settingoption): Gilt in den meisten Set
 
 Zerstampfen: Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

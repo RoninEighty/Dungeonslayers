@@ -1,30 +1,28 @@
-# Chalog Omesch  
-- Gruppe: Elf  
-- Volk: Elf  
-- Klasse: Späher  
-- Stufe: 14  
-- Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig  
+### Chalog Omesch
 
+- Gruppe: Humanoide
+- Volk: Elf
+- Klasse: Späher
+- Stufe: 14
+- Fähigkeiten: Nachtsicht, Unsterblich, Leichtfüßig
 
-| KÖR | 5 | AGI | 7 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 0 | BE | 3 | VE | 4 |
-| HÄ | 2 | GE | 8 | AU | 0 |
-|  |
-| LK | 4.5 | Abwehr | 10 | Initiative | 14 |
-| Laufen | 4.5 | Schlagen | 5 | Schiessen | 21 |
-|  |
-| GH | 1 | GK | no | EP | 61 |
+|  KÖR   |  5  |   AGI    |  7  |    GEI     |  8  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  0  |    BE    |  3  |     VE     |  4  |
+|   HÄ   |  2  |    GE    |  8  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 4.5 |  Abwehr  | 10  | Initiative | 14  |
+| Laufen | 4.5 | Schlagen |  5  | Schiessen  | 21  |
+|        |     |          |     |            |     |
+|   GH   |  1  |    GK    | no  |     EP     | 61  |
 
-| Bewaffnung |
-| --- |
+|                        Bewaffnung                         |
+| :-------------------------------------------------------: |
 | mag. Armbrust, leicht (2h) +2 (WB+4, GA-2, Verletzen +II) |
 
-
-| Panzerung |
-| --- |
+|                          Panzerung                          |
+| :---------------------------------------------------------: |
 | mag. Lederpanzer +2 (PA+3, Zauber: Balancieren eingebettet) |
-
 
 **Ausrüstung:**  
 Kompass (Zauber: Magie entdecken eingebettet, Zauber: Verborgenes sehen eingebettet)
@@ -62,9 +60,6 @@ Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Chalog Omesch | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Chalog Omesch | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -1,25 +1,24 @@
-# Zombieoger  
-- Gruppe: Untote  
+### Zombieoger
 
-| KÖR | 12 | AGI | 4 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 5 | BE | 0 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |
-| LK | 3.5 | Abwehr | 18 | Initiative | 4 |
-| Laufen | 3.5 | Schlagen | 19 | Schiessen | 4 |
-|  |
-| GH | 11 | GK | gr | EP | 106 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 12  |   AGI    |  4  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  5  |    BE    |  0  |     VE     |  0  |
+|   HÄ   |  4  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 3.5 |  Abwehr  | 18  | Initiative |  4  |
+| Laufen | 3.5 | Schlagen | 19  | Schiessen  |  4  |
+|        |     |          |     |            |     |
+|   GH   | 11  |    GK    | gr  |     EP     | 106 |
+
+|      Bewaffnung      |
+| :------------------: |
 | Knochenpranke (WB+2) |
 
-
-| Panzerung |
-| --- |
+|      Panzerung      |
+| :-----------------: |
 | Merkt nichts (PA+2) |
-
 
 **Talente:**  
 Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
@@ -30,9 +29,6 @@ Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Grö�
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

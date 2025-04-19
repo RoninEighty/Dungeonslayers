@@ -1,25 +1,24 @@
-# Heimsucher  
-- Gruppe: Untote  
+### Heimsucher
 
-| KÖR | 5 | AGI | 9 | GEI | 7 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 8 | BE | 6 | VE | 5 |
-| HÄ | 8 | GE | 7 | AU | 1 |
-|  |
-| LK | 5.5 | Abwehr | 21 | Initiative | 15 |
-| Laufen | 5.5 | Schlagen | 13 | Schiessen | 17 |
-|  |
-| GH | 14 | GK | no | EP | 180 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  5  |   AGI    |  9  |    GEI     |  7  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  8  |    BE    |  6  |     VE     |  5  |
+|   HÄ   |  8  |    GE    |  7  |     AU     |  1  |
+|        |     |          |     |            |     |
+|   LK   | 5.5 |  Abwehr  | 21  | Initiative | 15  |
+| Laufen | 5.5 | Schlagen | 13  | Schiessen  | 17  |
+|        |     |          |     |            |     |
+|   GH   | 14  |    GK    | no  |     EP     | 180 |
+
+|         Bewaffnung         |
+| :------------------------: |
 | Schattenpfeil (WB+1, GA-2) |
 
-
-| Panzerung |
-| --- |
+|    Panzerung     |
+| :--------------: |
 | Körperlos (PA+8) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -36,9 +35,6 @@ Werteverlust: Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖ
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

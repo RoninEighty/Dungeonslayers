@@ -1,25 +1,24 @@
-# Todesfee  
-- Gruppe: Untote  
+### Todesfee
 
-| KÖR | 6 | AGI | 9 | GEI | 10 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 19 | BE | 0 | VE | 3 |
-| HÄ | 19 | GE | 0 | AU | 9 |
-|  |
-| LK | 5.5 | Abwehr | 33 | Initiative | 9 |
-| Laufen | 5.5 | Schlagen | 27 | Schiessen | 9 |
-|  |
-| GH | 31 | GK | no | EP | 287 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  6  |   AGI    |  9  |    GEI     | 10  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   | 19  |    BE    |  0  |     VE     |  3  |
+|   HÄ   | 19  |    GE    |  0  |     AU     |  9  |
+|        |     |          |     |            |     |
+|   LK   | 5.5 |  Abwehr  | 33  | Initiative |  9  |
+| Laufen | 5.5 | Schlagen | 27  | Schiessen  |  9  |
+|        |     |          |     |            |     |
+|   GH   | 31  |    GK    | no  |     EP     | 287 |
+
+|        Bewaffnung         |
+| :-----------------------: |
 | Geisterklaue (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|    Panzerung     |
+| :--------------: |
 | Körperlos (PA+8) |
-
 
 **Talente:**  
 Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
@@ -40,12 +39,9 @@ Totenkraft: Erhält GEI+AU als Bonus auf Stärke und Härte.
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-
 **Zaubersprüche:**  
 Wehklagen (ZB: -(KÖR+AU)/2 des Ziels; Abklingzeit: 10 Kampfrunden; Jeder in Umkreis von 9m um die Todesfee erleidet nicht abwehrbaren Schaden in Höhe des Probenergebnisses) (undefined)
 
+---
 
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -1,25 +1,24 @@
-# Riesenschlange  
-- Gruppe: Tiere  
+### Riesenschlange
 
-| KÖR | 9 | AGI | 12 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 5 | BE | 3 | VE | 0 |
-| HÄ | 3 | GE | 0 | AU | 0 |
-|  |
-| LK | 11 | Abwehr | 14 | Initiative | 15 |
-| Laufen | 11 | Schlagen | 16 | Schiessen | 12 |
-|  |
-| GH | 8 | GK | gr | EP | 143 |
+- Gruppe: Tiere
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  9  |   AGI    | 12  |    GEI     |  1  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  5  |    BE    |  3  |     VE     |  0  |
+|   HÄ   |  3  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 11  |  Abwehr  | 14  | Initiative | 15  |
+| Laufen | 11  | Schlagen | 16  | Schiessen  | 12  |
+|        |     |          |     |            |     |
+|   GH   |  8  |    GK    | gr  |     EP     | 143 |
+
+|        Bewaffnung        |
+| :----------------------: |
 | Großer Biss (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|       Panzerung       |
+| :-------------------: |
 | Schuppenpanzer (PA+2) |
-
 
 **Talente:**  
 Gift: Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde.
@@ -28,9 +27,6 @@ Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird desse
 
 Umschlingen: Schlagen-Immersieg umschlingt Ziel mit freier Hand (sofern 1+ Größenkategorie kleiner), welches fortan ST Punkte abwehrb. Schaden erleidet, sich nicht frei bewegen kann und einen Malus von -2 auf alle Proben pro Größenunterschied erhält. Befreien: Opfer mit AGI+ST vergleichende Probe gegen KÖR+ST des Umschlingers.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

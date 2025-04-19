@@ -1,26 +1,25 @@
-# Der Weltenfresser  
-- Gruppe: Magische Wesen  
-- Upgrade: Episch  
+### Der Weltenfresser
 
-| KÖR | 32 | AGI | 12 | GEI | 4 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 12 | BE | 5 | VE | 1 |
-| HÄ | 10 | GE | 0 | AU | 10 |
-|  |
-| LK | 12 | Abwehr | 50 | Initiative | 17 |
-| Laufen | 12 | Schlagen | 52 | Schiessen | 14 |
-|  |
-| GH | 261 | GK | ge | EP | 10812 |
+- Gruppe: Magische Wesen
+- Upgrade: Episch
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 32  |   AGI    | 12  |    GEI     |   4   |
+| :----: | :-: | :------: | :-: | :--------: | :---: |
+|   ST   | 12  |    BE    |  5  |     VE     |   1   |
+|   HÄ   | 10  |    GE    |  0  |     AU     |  10   |
+|        |     |          |     |            |       |
+|   LK   | 12  |  Abwehr  | 50  | Initiative |  17   |
+| Laufen | 12  | Schlagen | 52  | Schiessen  |  14   |
+|        |     |          |     |            |       |
+|   GH   | 261 |    GK    | ge  |     EP     | 10812 |
+
+|                  Bewaffnung                   |
+| :-------------------------------------------: |
 | Steinpranke (WB+4, GA-4), Felsen (WB+2, GA-2) |
 
-
-| Panzerung |
-| --- |
+|     Panzerung     |
+| :---------------: |
 | Steinwesen (PA+4) |
-
 
 **Talente:**  
 Anfällig: Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe.
@@ -35,9 +34,6 @@ Verschlingen: Schlagen-Immersieg (Biss) verschlingt Ziel (sofern 2+ Größenkate
 
 Zerstampfen: Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Weltenfresser | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Weltenfresser | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

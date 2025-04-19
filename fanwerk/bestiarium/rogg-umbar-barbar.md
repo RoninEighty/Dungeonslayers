@@ -1,30 +1,28 @@
-# Rogg (Umbar-Barbar)  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Krieger  
-- Stufe: 6  
-- Fähigkeiten: Talentiert  
+### Rogg (Umbar-Barbar)
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Krieger
+- Stufe: 6
+- Fähigkeiten: Talentiert
 
-| KÖR | 8 | AGI | 7 | GEI | 5 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 8 | BE | 2 | VE | 0 |
-| HÄ | 5 | GE | 0 | AU | 0 |
-|  |
-| LK | 4.5 | Abwehr | 17 | Initiative | 9 |
-| Laufen | 4.5 | Schlagen | 22 | Schiessen | 7 |
-|  |
-| GH | 10 | GK | no | EP | 114 |
+|  KÖR   |  8  |   AGI    |  7  |    GEI     |  5  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  8  |    BE    |  2  |     VE     |  0  |
+|   HÄ   |  5  |    GE    |  0  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   | 4.5 |  Abwehr  | 17  | Initiative |  9  |
+| Laufen | 4.5 | Schlagen | 22  | Schiessen  |  7  |
+|        |     |          |     |            |     |
+|   GH   | 10  |    GK    | no  |     EP     | 114 |
 
-| Bewaffnung |
-| --- |
+|                                                           Bewaffnung                                                            |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
 | mag. Bihänder (2h) +2 (WB+5, GA-6, 1x aktionsfrei Aufstehen), mag. Streithammer (2h) +2 (WB+5, INI-2, GA-2, Brutaler Hieb +III) |
 
-
-| Panzerung |
-| --- |
+|                            Panzerung                             |
+| :--------------------------------------------------------------: |
 | Lederpanzer (PA+1, Abwehr +1), Lederschienen (Arm & Bein) (PA+1) |
-
 
 **Ausrüstung:**  
 Ring (Abwehr +1)
@@ -40,9 +38,6 @@ Kämpfer I: Schlagen +1 pro Talentrang.
 
 Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Avakars Runde | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Avakars Runde | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

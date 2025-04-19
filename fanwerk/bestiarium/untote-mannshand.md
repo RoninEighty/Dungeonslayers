@@ -1,25 +1,24 @@
-# Untote Mannshand  
-- Gruppe: Untote  
+### Untote Mannshand
 
-| KÖR | 4 | AGI | 10 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 2 | BE | 3 | VE | 0 |
-| HÄ | 2 | GE | 1 | AU | 0 |
-|  |
-| LK | 6 | Abwehr | 6 | Initiative | 13 |
-| Laufen | 6 | Schlagen | 8 | Schiessen | 11 |
-|  |
-| GH | 4 | GK | wi | EP | 83 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  4  |   AGI    | 10  |    GEI     |  0  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  2  |    BE    |  3  |     VE     |  0  |
+|   HÄ   |  2  |    GE    |  1  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  6  |  Abwehr  |  6  | Initiative | 13  |
+| Laufen |  6  | Schlagen |  8  | Schiessen  | 11  |
+|        |     |          |     |            |     |
+|   GH   |  4  |    GK    | wi  |     EP     | 83  |
+
+|     Bewaffnung      |
+| :-----------------: |
 | Kochenklauen (WB+2) |
 
-
 | Panzerung |
-| --- |
-|  |
-
+| :-------: | --- | --- | --- | --- | --- |
+|           |     |     |     |     |     |
 
 **Talente:**  
 Bodenkampf: Erhält Schlagen + KÖR, wenn ein Gegner angegriffen wird, der am Boden liegt.
@@ -34,9 +33,6 @@ Umklammern: Schlagen-Immersieg umklammert Ziel, welches fortan ST Punkte abwehrb
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

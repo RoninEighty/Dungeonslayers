@@ -1,25 +1,24 @@
-# Fliegender Schädel  
-- Gruppe: Untote  
+### Fliegender Schädel
 
-| KÖR | 5 | AGI | 8 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 1 | BE | 2 | VE | 4 |
-| HÄ | 3 | GE | 0 | AU | 4 |
-|  |
-| LK | 5 | Abwehr | 8 | Initiative | 10 |
-| Laufen | 5 | Schlagen | 7 | Schiessen | 8 |
-|  |
-| GH | 4 | GK | wi | EP | 93 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  5  |   AGI    |  8  |    GEI     |  8  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  1  |    BE    |  2  |     VE     |  4  |
+|   HÄ   |  3  |    GE    |  0  |     AU     |  4  |
+|        |     |          |     |            |     |
+|   LK   |  5  |  Abwehr  |  8  | Initiative | 10  |
+| Laufen |  5  | Schlagen |  7  | Schiessen  |  8  |
+|        |     |          |     |            |     |
+|   GH   |  4  |    GK    | wi  |     EP     | 93  |
+
+| Bewaffnung  |
+| :---------: |
 | Biss (WB+1) |
 
-
 | Panzerung |
-| --- |
-|  |
-
+| :-------: | --- | --- | --- | --- | --- |
+|           |     |     |     |     |     |
 
 **Talente:**  
 Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
@@ -32,12 +31,9 @@ Werteverlust: Pro erfolgreich angewandtem Lachen wird GEI um 1 gesenkt (bei GEI 
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-
 **Zaubersprüche:**  
 Totenlachen (-GEI+AU auf VE Ziele im Umkreis von VEx2 Metern, sofern diese das [Lach](/fanwerk/zauber/lach.md)en hören können; Erfolg führt zu Werteverlust.) (undefined)
 
+---
 
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

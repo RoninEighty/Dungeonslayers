@@ -1,25 +1,24 @@
-# Schlächter  
-- Gruppe: Untote  
+### Schlächter
 
-| KÖR | 10 | AGI | 6 | GEI | 5 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 8 | BE | 4 | VE | 0 |
-| HÄ | 8 | GE | 4 | AU | 0 |
-|  |
-| LK | 4 | Abwehr | 21 | Initiative | 10 |
-| Laufen | 4 | Schlagen | 20 | Schiessen | 12 |
-|  |
-| GH | 11 | GK | no | EP | 124 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+|  KÖR   | 10  |   AGI    |  6  |    GEI     |  5  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  8  |    BE    |  4  |     VE     |  0  |
+|   HÄ   |  8  |    GE    |  4  |     AU     |  0  |
+|        |     |          |     |            |     |
+|   LK   |  4  |  Abwehr  | 21  | Initiative | 10  |
+| Laufen |  4  | Schlagen | 20  | Schiessen  | 12  |
+|        |     |          |     |            |     |
+|   GH   | 11  |    GK    | no  |     EP     | 124 |
+
+|                  Bewaffnung                  |
+| :------------------------------------------: |
 | Machete (WB+2), Langbogen (2h) (WB+2, INI+1) |
 
-
-| Panzerung |
-| --- |
+|                   Panzerung                   |
+| :-------------------------------------------: |
 | Merkt nichts (PA+2), Metallhelm (PA+1, INI-1) |
-
 
 **Talente:**  
 Auferstehung: Erhebt sich, wenn getötet, nach W20 Tagen mit 1 LK, sofern Probe auf GEI+AU gelingt. Verliert dabei jedes Mal 1 GEI.
@@ -34,9 +33,6 @@ Resistenz: Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slay! #3 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

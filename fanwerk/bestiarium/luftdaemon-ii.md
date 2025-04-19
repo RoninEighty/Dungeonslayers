@@ -1,25 +1,24 @@
-# Luftdämon II  
-- Gruppe: Magische Wesen  
+### Luftdämon II
 
-| KÖR | 9 | AGI | 9 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 6 | BE | 6 | VE | 6 |
-| HÄ | 5 | GE | 5 | AU | 5 |
-|  |
-| LK | 6 | Abwehr | 18 | Initiative | 15 |
-| Laufen | 6 | Schlagen | 18 | Schiessen | 16 |
-|  |
-| GH | 12 | GK | gr | EP | 153 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+|  KÖR   |  9  |   AGI    |  9  |    GEI     |  8  |
+| :----: | :-: | :------: | :-: | :--------: | :-: |
+|   ST   |  6  |    BE    |  6  |     VE     |  6  |
+|   HÄ   |  5  |    GE    |  5  |     AU     |  5  |
+|        |     |          |     |            |     |
+|   LK   |  6  |  Abwehr  | 18  | Initiative | 15  |
+| Laufen |  6  | Schlagen | 18  | Schiessen  | 16  |
+|        |     |          |     |            |     |
+|   GH   | 12  |    GK    | gr  |     EP     | 153 |
+
+|              Bewaffnung              |
+| :----------------------------------: |
 | Klauen (WB+3, GA-2), Luftstoß (WB+2) |
 
-
-| Panzerung |
-| --- |
+|         Panzerung          |
+| :------------------------: |
 | Keine feste Gestalt (PA+4) |
-
 
 **Talente:**  
 Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe.
@@ -34,9 +33,6 @@ Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in 
 
 Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Luftschiffe der Vestrach-Flotte | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Luftschiffe der Vestrach-Flotte | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
