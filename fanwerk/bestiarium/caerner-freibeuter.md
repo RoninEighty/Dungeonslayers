@@ -2,18 +2,17 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 1
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 1
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  7  |    GEI     |  5  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  3  |    BE    |  2  |     VE     |  0  |
 |   HÄ   |  4  |    GE    |  1  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 5.5 |  Abwehr  | 13  | Initiative |  9  |
-| Laufen | 5.5 | Schlagen | 13  | Schiessen  |  8  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 25  |  Abwehr  | 13  | Initiative |  9  |
+| Laufen | 5.5 | Schlagen | 13  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   |  2  |    GK    | no  |     EP     | 57  |
 
 |     Bewaffnung     |
@@ -24,18 +23,17 @@
 | :----------------: |
 | Lederpanzer (PA+1) |
 
-**Talente:**  
-Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+**Akrobat I:** Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
 
-Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+**Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Flink I: Laufen +1m pro Talentrang.
+**Flink I:** Laufen +1m pro Talentrang.
 
-Kämpfer I: Schlagen +1 pro Talentrang.
+**Kämpfer I:** Schlagen +1 pro Talentrang.
 
-Schwimmen I: Schwimmen +3 pro Talentrang.
+**Schwimmen I:** Schwimmen +3 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 ---
 

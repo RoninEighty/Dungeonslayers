@@ -3,13 +3,13 @@
 - Gruppe: Humanoide
 
 |  KÖR   |  6  |   AGI    |  7  |    GEI     |  2  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  3  |    BE    |  2  |     VE     |  1  |
 |   HÄ   |  4  |    GE    |  2  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 4.5 |  Abwehr  | 14  | Initiative | 10  |
-| Laufen | 4.5 | Schlagen | 10  | Schiessen  |  9  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 20  |  Abwehr  | 14  | Initiative | 10  |
+| Laufen | 4.5 | Schlagen | 10  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   |  1  |    GK    | kl  |     EP     | 69  |
 
 |          Bewaffnung          |
@@ -20,10 +20,9 @@
 | :---------------------------------------------------: |
 | Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1) |
 
-**Talente:**  
-Parade II: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Kämpfer I:** Schlagen +1 pro Talentrang.
 
-Kämpfer I: Schlagen +1 pro Talentrang.
+**Parade II:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
 ---
 

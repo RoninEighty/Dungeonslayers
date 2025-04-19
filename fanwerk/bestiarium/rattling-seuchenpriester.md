@@ -1,20 +1,20 @@
 ### Rattling Seuchenpriester
 
-- Gruppe: Rattling
+- Gruppe: Humanoide
 - Volk: Rattling
-- Klasse: Heiler
-- Stufe: 6
-- Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
+- Klasse: Heiler 6
+- Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
-|  KÖR   |  7  |   AGI    |  5  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  0  |    BE    |  0  |     VE     |  4  |
-|   HÄ   |  2  |    GE    |  1  |     AU     |  8  |
-|        |     |          |     |            |     |
-|   LK   | 3.5 |  Abwehr  |  9  | Initiative |  5  |
-| Laufen | 3.5 | Schlagen |  8  | Schiessen  |  6  |
-|        |     |          |     |            |     |
-|   GH   |  1  |    GK    | kl  |     EP     | 73  |
+|   KÖR   |  7  |    AGI     |  5  |    GEI     |  8  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  0  |     BE     |  0  |     VE     |  4  |
+|   HÄ    |  2  |     GE     |  1  |     AU     |  8  |
+|         |     |            |     |            |     |     |
+|   LK    | 25  |   Abwehr   |  9  | Initiative |  5  |
+| Laufen  | 3.5 |  Schlagen  |  8  | Schiessen  |     |
+| Zaubern | 16  | Zielzauber | 10  |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  1  |     GK     | kl  |     EP     | 73  |
 
 |              Bewaffnung              |
 | :----------------------------------: |
@@ -24,27 +24,27 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Talente:**  
-Alchemie II: Tränke identifizieren und herstellen +1 pro Talentrang.
+**Alchemie II:** Tränke identifizieren und herstellen +1 pro Talentrang.
 
-Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Einstecker II:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang.
+**Fürsorger I:** Heil- und Schutzzauber +1 pro Talentrang.
 
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Schwimmen I: Schwimmen +3 pro Talentrang.
+**Schwimmen I:** Schwimmen +3 pro Talentrang.
 
-Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+**Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+**Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zaubersprüche:**  
-[Blenden](/grw/zauber/blenden.md) (-(AGI+AU)/2), [Einschläfern](/grw/zauber/einschlaefern.md) (-(KÖR+VE)/2), [Giftbann](/grw/zauber/giftbann.md) (0), [Giftschutz](/grw/zauber/giftschutz.md) (+1), [Heilende Hand](/grw/zauber/heilende-hand.md) (+2), [Magie entdecken](/grw/zauber/magie-entdecken.md) (0), [Netz](/grw/zauber/netz.md) (-(AGI+ST)/2), [Rost](/grw/zauber/rost.md) (-Stufe), [Segen](/grw/zauber/segen.md) (0), [Tiere besänftigen](/grw/zauber/tiere-besaenftigen.md) (-LK/5), [Vertreiben](/grw/zauber/vertreiben.md) (-(KÖR+AU)/2)
+**Zauber:** Einschläfern[!] (-(KÖR+VE)/2), Giftbann, Giftschutz (+1), Heilende Hand (+2), Magie entdecken, Segen, Tiere besänftigen (-LK/5), Vertreiben (-(KÖR+AU)/2)
+
+**Zielzauber:** Blenden (-(AGI+AU)/2), Netz (-(AGI+ST)/2), Rost (-Stufe)
 
 ---
 

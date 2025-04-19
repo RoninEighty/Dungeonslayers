@@ -3,13 +3,13 @@
 - Gruppe: Magische Wesen
 
 |  KÖR   | 17  |   AGI    |  2  |    GEI     |  1  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  4  |    BE    |  1  |     VE     |  0  |
 |   HÄ   |  5  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  2  |  Abwehr  | 26  | Initiative |  3  |
-| Laufen |  2  | Schlagen | 25  | Schiessen  |  2  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 32  |  Abwehr  | 26  | Initiative |  3  |
+| Laufen |  2  | Schlagen | 25  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 15  |    GK    | no  |     EP     | 70  |
 
 |     Bewaffnung     |
@@ -20,9 +20,8 @@
 | :---------------: |
 | Steinwesen (PA+4) |
 
-**Talente:**  
-Anfällig: Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe.
+**Anfällig:** Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe.
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

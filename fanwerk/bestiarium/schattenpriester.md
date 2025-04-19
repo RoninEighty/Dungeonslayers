@@ -2,19 +2,19 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Schwarzmagier
-- Stufe: 5
-- Fähigkeiten: Talentiert
+- Klasse: Schwarzmagier 5
+- Volksfähigkeiten: Talentiert
 
-|  KÖR   |  5  |   AGI    |  8  |    GEI     |  7  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  0  |    BE    |  0  |     VE     |  5  |
-|   HÄ   |  0  |    GE    |  6  |     AU     |  2  |
-|        |     |          |     |            |     |
-|   LK   |  5  |  Abwehr  |  5  | Initiative |  9  |
-| Laufen |  5  | Schlagen |  5  | Schiessen  | 14  |
-|        |     |          |     |            |     |
-|   GH   |  1  |    GK    | no  |     EP     | 62  |
+|   KÖR   |  5  |    AGI     |  8  |    GEI     |  7  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  0  |     BE     |  0  |     VE     |  5  |
+|   HÄ    |  0  |     GE     |  6  |     AU     |  2  |
+|         |     |            |     |            |     |     |
+|   LK    | 15  |   Abwehr   |  5  | Initiative |  9  |
+| Laufen  |  5  |  Schlagen  |  5  | Schiessen  |     |
+| Zaubern |  9  | Zielzauber | 13  |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  1  |     GK     | no  |     EP     | 62  |
 
 |  Bewaffnung   |
 | :-----------: |
@@ -24,8 +24,9 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Zaubersprüche:**  
-[Niesanfall](/grw/zauber/niesanfall.md) (-(KÖR+AU)/2), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Schatten](/grw/zauber/schatten.md)pfeil (+2), [Skelette erwecken](/grw/zauber/skelette-erwecken.md) (0), [Verwirren](/grw/zauber/verwirren.md) (-(GEI+AU)/2)
+**Zauber:** Skelette erwecken, Verwirren[!] (-(GEI+AU)/2)
+
+**Zielzauber:** Niesanfall (-(KÖR+AU)/2), Schatten (-(AGI+AU)/2), Schattenpfeil (+2)
 
 ---
 

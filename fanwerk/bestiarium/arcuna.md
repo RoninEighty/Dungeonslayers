@@ -2,46 +2,45 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler
-- Stufe: 2
-- Fähigkeiten: Talentiert
+- Klasse: Heiler 2
+- Volksfähigkeiten: Talentiert
 
-|  KÖR   |  5  |   AGI    |  7  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  0  |    BE    |  0  |     VE     |  3  |
-|   HÄ   |  0  |    GE    |  4  |     AU     |  5  |
-|        |     |          |     |            |     |
-|   LK   | 4.5 |  Abwehr  |  5  | Initiative |  7  |
-| Laufen | 4.5 | Schlagen |  5  | Schiessen  | 11  |
-|        |     |          |     |            |     |
-|   GH   |  1  |    GK    | no  |     EP     | 50  |
+|   KÖR   |  5  |    AGI     |  7  |    GEI     |  8  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  0  |     BE     |  0  |     VE     |  3  |
+|   HÄ    |  0  |     GE     |  4  |     AU     |  5  |
+|         |     |            |     |            |     |     |
+|   LK    | 15  |   Abwehr   |  5  | Initiative |  7  |
+| Laufen  | 4.5 |  Schlagen  |  5  | Schiessen  |     |
+| Zaubern | 13  | Zielzauber |     |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  1  |     GK     | no  |     EP     | 50  |
 
 | Bewaffnung |
-| :--------: | --- | --- | --- | --- | --- |
-|            |     |     |     |     |     |
+| :--------: |
+|            |
 
 | Panzerung |
-| :-------: | --- | --- | --- | --- | --- |
-|           |     |     |     |     |     |
+| :-------: |
+|           |
 
-**Ausrüstung:**  
-Kette (Gift trotzen +3), Stab (Aura +1, Zauber: Wolke der Reue eingebettet)
+**Ausrüstung:** Kette (Gift trotzen +3), Stab (Aura +1, Zauber: Wolke der Reue eingebettet)
 
-**Talente:**  
-Alchemie II: Tränke identifizieren und herstellen +1 pro Talentrang.
+**Alchemie II:** Tränke identifizieren und herstellen +1 pro Talentrang.
 
-Fürsorger I: Heil- und Schutzzauber +1 pro Talentrang.
+**Fürsorger I:** Heil- und Schutzzauber +1 pro Talentrang.
 
-Magieresistent I: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Magieresistent I:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-**Zaubersprüche:**  
-[Giftschutz](/grw/zauber/giftschutz.md) (+1), [Heilbeeren](/grw/zauber/heilbeeren.md) (+1), [Tiere besänftigen](/grw/zauber/tiere-besaenftigen.md) (-LK/5)
+**Zauber:** Giftschutz (+1), Heilbeeren (+1), Tiere besänftigen (-LK/5)
+
+**Zielzauber:**
 
 ---
 

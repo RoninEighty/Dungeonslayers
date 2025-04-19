@@ -2,18 +2,17 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 1
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 1
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  7  |    GEI     |  5  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  4  |    BE    |  0  |     VE     |  0  |
 |   HÄ   |  3  |    GE    |  2  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 4.5 |  Abwehr  | 13  | Initiative |  8  |
+|        |     |          |     |            |     |     |
+|   LK   | 24  |  Abwehr  | 13  | Initiative |  8  |
 | Laufen | 4.5 | Schlagen | 13  | Schiessen  | 10  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
 |   GH   |  1  |    GK    | no  |     EP     | 57  |
 
 |                 Bewaffnung                 |
@@ -24,18 +23,17 @@
 | :-----------------------------------: |
 | Lederpanzer (PA+1), Holzschild (PA+1) |
 
-**Talente:**  
-Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+**Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Jäger I: Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
+**Jäger I:** Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
-Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
+**Schlachtruf I:** +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+**Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 ---
 

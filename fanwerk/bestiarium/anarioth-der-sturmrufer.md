@@ -2,19 +2,19 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Zauberer
-- Stufe: 1
-- Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher
+- Klasse: Zauberer 1
+- Volksfähigkeiten: Nachtsicht, Unsterblich
 
-|  KÖR   |  5  |   AGI    |  7  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  0  |    BE    |  0  |     VE     |  2  |
-|   HÄ   |  0  |    GE    |  5  |     AU     |  4  |
-|        |     |          |     |            |     |
-|   LK   | 4.5 |  Abwehr  |  5  | Initiative |  7  |
-| Laufen | 4.5 | Schlagen |  6  | Schiessen  | 13  |
-|        |     |          |     |            |     |
-|   GH   |  1  |    GK    | no  |     EP     | 50  |
+|   KÖR   |  5  |    AGI     |  7  |    GEI     |  8  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  0  |     BE     |  0  |     VE     |  2  |
+|   HÄ    |  0  |     GE     |  5  |     AU     |  4  |
+|         |     |            |     |            |     |     |
+|   LK    | 15  |   Abwehr   |  5  | Initiative |  7  |
+| Laufen  | 4.5 |  Schlagen  |  6  | Schiessen  |     |
+| Zaubern |     | Zielzauber | 16  |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  1  |     GK     | no  |     EP     | 50  |
 
 |              Bewaffnung              |
 | :----------------------------------: |
@@ -24,19 +24,15 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Talente:**  
-Blitzmacher I: +1 Bonus auf Blitzzauber
+**Blitzmacher I:** +1 Bonus auf Blitzzauber
 
-Freie Talentpunkte I: Talentpunkte zur freien Verfügung
+**Freie Talentpunkte I:** Talentpunkte zur freien Verfügung
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
-
-**Zaubersprüche:**  
-[Schock](/fanwerk/zauber/schock.md) (+1)
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 ---
 

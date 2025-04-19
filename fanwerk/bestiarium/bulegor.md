@@ -2,42 +2,40 @@
 
 - Gruppe: Humanoide
 - Volk: Zwerg
-- Klasse: Krieger
-- Stufe: 8
-- Fähigkeiten: Dunkelsicht, Langlebig, Zäh
+- Klasse: Krieger 8
+- Volksfähigkeiten: Dunkelsicht, Langlebig, Zäh
 
 |  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  2  |    BE    |  0  |     VE     |  2  |
 |   HÄ   |  9  |    GE    |  1  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 3.5 |  Abwehr  | 27  | Initiative |  7  |
-| Laufen | 3.5 | Schlagen | 14  | Schiessen  |  7  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 27  |  Abwehr  | 27  | Initiative |  7  |
+| Laufen | 3.5 | Schlagen | 14  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 10  |    GK    | no  |     EP     | 79  |
 
-|             Bewaffnung             |
-| :--------------------------------: |
-| mag. Hammer +1 (WB+2, INI+1, GA-2) |
+|         Bewaffnung         |
+| :------------------------: |
+| Hammer (WB+2, INI+1, GA-2) |
 
-|                                      Panzerung                                      |
-| :---------------------------------------------------------------------------------: |
-| Kettenpanzer (PA+2, LA-0.5), mag. Metallschild +1 (PA+2), mag. Metallhelm +1 (PA+2) |
+|                                Panzerung                                |
+| :---------------------------------------------------------------------: |
+| Kettenpanzer (PA+2, Laufen-0.5), Metallschild (PA+2), Metallhelm (PA+2) |
 
-**Talente:**  
-Ausweichen III: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen III:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Blocker III: Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro Kampf und Talentrang einen Abwehrpatzer wiederholen.
+**Blocker III:** Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro Kampf und Talentrang einen Abwehrpatzer wiederholen.
 
-Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Handwerk II:** +3 pro Talentrang auf ausgewähltes Handwerk.
 
-Wissensgebiet III: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Kämpfer II:** Schlagen +1 pro Talentrang.
 
-Handwerk II: +3 pro Talentrang auf ausgewähltes Handwerk.
+**Parade III:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Kämpfer II: Schlagen +1 pro Talentrang.
+**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 ---
 

@@ -3,13 +3,13 @@
 - Gruppe: Konstrukte
 
 |  KÖR   | 10  |   AGI    |  6  |    GEI     |  0  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  4  |    BE    |  0  |     VE     |  0  |
 |   HÄ   |  4  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  | 19  | Initiative |  6  |
-| Laufen |  4  | Schlagen | 16  | Schiessen  |  6  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 24  |  Abwehr  | 19  | Initiative |  6  |
+| Laufen |  4  | Schlagen | 16  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   |  8  |    GK    | no  |     EP     | 72  |
 
 |     Bewaffnung     |
@@ -20,11 +20,10 @@
 | :----------------: |
 | Metallwesen (PA+5) |
 
-**Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
+**Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

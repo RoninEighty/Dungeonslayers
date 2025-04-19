@@ -1,19 +1,18 @@
 ### Erfahrener Rattling
 
-- Gruppe: Rattling
+- Gruppe: Humanoide
 - Volk: Rattling
-- Klasse: Späher
-- Stufe: 5
-- Fähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
+- Klasse: Späher 5
+- Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
 |  KÖR   |  6  |   AGI    |  8  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  0  |    BE    |  4  |     VE     |  1  |
 |   HÄ   |  3  |    GE    |  6  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  6  |  Abwehr  | 12  | Initiative | 12  |
+|        |     |          |     |            |     |     |
+|   LK   | 22  |  Abwehr  | 12  | Initiative | 12  |
 | Laufen |  6  | Schlagen |  7  | Schiessen  | 17  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
 |   GH   |  1  |    GK    | kl  |     EP     | 61  |
 
 |                    Bewaffnung                    |
@@ -24,22 +23,21 @@
 | :-----------------------------------------------------------------------------: |
 | Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1) |
 
-**Talente:**  
-Schütze II: Schiessen, Zielzauber +1 pro Talentrang.
+**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+**Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Fieser Schuss I: Schießen +AGI
+**Fieser Schuss I:** Schießen +AGI
 
-Flink I: Laufen +1m pro Talentrang.
+**Flink I:** Laufen +1m pro Talentrang.
 
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Schwimmen I: Schwimmen +3 pro Talentrang.
+**Schwimmen I:** Schwimmen +3 pro Talentrang.
 
-Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+**Schütze II:** Schiessen, Zielzauber +1 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+**Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
 ---
 

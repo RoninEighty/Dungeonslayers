@@ -3,13 +3,13 @@
 - Gruppe: Tiere
 
 |  KÖR   | 11  |   AGI    | 12  |    GEI     |  1  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  6  |    BE    |  7  |     VE     |  0  |
 |   HÄ   |  4  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 11  |  Abwehr  | 16  | Initiative | 19  |
-| Laufen | 11  | Schlagen | 19  | Schiessen  | 12  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 75  |  Abwehr  | 16  | Initiative | 19  |
+| Laufen | 11  | Schlagen | 19  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 12  |    GK    | gr  |     EP     | 154 |
 
 |         Bewaffnung          |
@@ -20,10 +20,9 @@
 | :---------: |
 | Fell (PA+1) |
 
-**Talente:**  
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
+**Sturmangriff:** Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
-Zerstampfen: Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
+**Zerstampfen:** Kann einen Angriff pro Kampfrunde mit -6 ausführen, um das Ziel (sofern 1+ Größenkategorie kleiner) zu zerstampfen. Pro Größenunterschied wird der -6 Malus um 2 gemindert. Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
 
 ---
 

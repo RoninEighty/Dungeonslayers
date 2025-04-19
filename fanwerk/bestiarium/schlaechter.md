@@ -3,13 +3,13 @@
 - Gruppe: Untote
 
 |  KÖR   | 10  |   AGI    |  6  |    GEI     |  5  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  8  |    BE    |  4  |     VE     |  0  |
 |   HÄ   |  8  |    GE    |  4  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  | 21  | Initiative | 10  |
+|        |     |          |     |            |     |     |
+|   LK   | 28  |  Abwehr  | 21  | Initiative | 10  |
 | Laufen |  4  | Schlagen | 20  | Schiessen  | 12  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
 |   GH   | 11  |    GK    | no  |     EP     | 124 |
 
 |                  Bewaffnung                  |
@@ -18,20 +18,19 @@
 
 |                   Panzerung                   |
 | :-------------------------------------------: |
-| Merkt nichts (PA+2), Metallhelm (PA+1, INI-1) |
+| Metallhelm (PA+1, INI-1), Merkt nichts (PA+2) |
 
-**Talente:**  
-Auferstehung: Erhebt sich, wenn getötet, nach W20 Tagen mit 1 LK, sofern Probe auf GEI+AU gelingt. Verliert dabei jedes Mal 1 GEI.
+**Auferstehung:** Erhebt sich, wenn getötet, nach W20 Tagen mit 1 LK, sofern Probe auf GEI+AU gelingt. Verliert dabei jedes Mal 1 GEI.
 
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
+**Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Regeneration: Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Weihwasser verlorene LK können nicht regeneriert werden.
+**Regeneration:** Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Weihwasser verlorene LK können nicht regeneriert werden.
 
-Resistenz: Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet
+**Resistenz:** Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 

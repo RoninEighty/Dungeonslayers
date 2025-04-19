@@ -3,13 +3,13 @@
 - Gruppe: Magische Wesen
 
 |  KÖR   |  2  |   AGI    |  5  |    GEI     |  1  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  0  |    BE    |  3  |     VE     |  0  |
 |   HÄ   |  2  |    GE    |  1  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 3.5 |  Abwehr  | 12  | Initiative |  8  |
+|        |     |          |     |            |     |     |
+|   LK   |  4  |  Abwehr  | 12  | Initiative |  8  |
 | Laufen | 3.5 | Schlagen |  2  | Schiessen  |  6  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
 |   GH   |  1  |    GK    | wi  |     EP     | 41  |
 
 | Bewaffnung |
@@ -20,10 +20,9 @@
 | :------------------------: |
 | Keine feste Gestalt (PA+8) |
 
-**Talente:**  
-Anfällig: Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe.
+**Anfällig:** Erhält doppelten Schaden durch Erd-, Fels- und Steinangriffe.
 
-Fliegen: Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
+**Fliegen:** Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
 ---
 

@@ -2,19 +2,19 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler
-- Stufe: 10
-- Fähigkeiten: Talentiert
+- Klasse: Heiler 10
+- Volksfähigkeiten: Talentiert
 
-|  KÖR   |  6  |   AGI    |  6  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  0  |    BE    |  0  |     VE     |  6  |
-|   HÄ   |  2  |    GE    |  5  |     AU     |  7  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  |  8  | Initiative |  6  |
-| Laufen |  4  | Schlagen |  7  | Schiessen  | 11  |
-|        |     |          |     |            |     |
-|   GH   |  1  |    GK    | no  |     EP     | 88  |
+|   KÖR   |  6  |    AGI     |  6  |    GEI     |  8  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  0  |     BE     |  0  |     VE     |  6  |
+|   HÄ    |  2  |     GE     |  5  |     AU     |  7  |
+|         |     |            |     |            |     |     |
+|   LK    | 18  |   Abwehr   |  8  | Initiative |  6  |
+| Laufen  |  4  |  Schlagen  |  7  | Schiessen  |     |
+| Zaubern | 15  | Zielzauber | 14  |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  1  |     GK     | no  |     EP     | 88  |
 
 |              Bewaffnung              |
 | :----------------------------------: |
@@ -24,19 +24,19 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Talente:**  
-Fürsorger III: Heil- und Schutzzauber +1 pro Talentrang.
+**Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Manipulator III: Geistesbeeinflussende Zauber [!] +1 pro Talentrang.
+**Fürsorger III:** Heil- und Schutzzauber +1 pro Talentrang.
 
-Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+**Manipulator III:** Geistesbeeinflussende Zauber [!] +1 pro Talentrang.
 
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zaubersprüche:**  
-[Allheilung](/grw/zauber/allheilung.md) (+3), [Blenden](/grw/zauber/blenden.md) (-(AGI+AU)/2), [Einschläfern](/grw/zauber/einschlaefern.md) (-(KÖR+VE)/2+3), [Freund](/grw/zauber/freund.md) (-(GEI+VE)/2+3), [Giftbann](/grw/zauber/giftbann.md) (0), [Heilende Hand](/grw/zauber/heilende-hand.md) (+4), [Heilendes [Licht](/grw/zauber/licht.md)](/grw/zauber/heilendes-licht.md) (+5), [Kleiner [Terror](/grw/zauber/terror.md)](/grw/zauber/kleiner-terror.md) (-(GEI+VE)/2+3), [Schutz](/fanwerk/zauber/schutz.md)schild (+3), [Verlangsamen](/grw/zauber/verlangsamen.md) (-(KÖR+AU)/2), [Verwirren](/grw/zauber/verwirren.md) (-(GEI+AU)/2+3)
+**Zauber:** Allheilung (+3), Einschläfern[!] (-(KÖR+VE)/2+3), Freund[!] (-(GEI+VE)/2+3), Giftbann, Heilende Hand (+4), Kleiner Terror[!] (-(GEI+VE)/2+3), Schutzschild (+3), Verlangsamen (-(KÖR+AU)/2), Verwirren[!] (-(GEI+AU)/2+3)
+
+**Zielzauber:** Blenden (-(AGI+AU)/2), Heilendes Licht (+5)
 
 ---
 

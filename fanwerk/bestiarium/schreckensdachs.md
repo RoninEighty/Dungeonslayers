@@ -3,13 +3,13 @@
 - Gruppe: Tiere
 
 |  KÖR   | 14  |   AGI    |  6  |    GEI     |  1  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  4  |    BE    |  3  |     VE     |  0  |
 |   HÄ   |  3  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  6  |  Abwehr  | 18  | Initiative |  9  |
-| Laufen |  6  | Schlagen | 20  | Schiessen  |  6  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 41  |  Abwehr  | 18  | Initiative |  9  |
+| Laufen |  6  | Schlagen | 20  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 10  |    GK    | no  |     EP     | 100 |
 
 |     Bewaffnung      |
@@ -20,8 +20,7 @@
 | :---------: |
 | Fell (PA+1) |
 
-**Talente:**  
-Nachtsicht: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
 
 ---
 

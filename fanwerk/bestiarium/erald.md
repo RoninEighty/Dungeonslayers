@@ -2,18 +2,17 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Späher
-- Stufe: 1
-- Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher
+- Klasse: Späher 1
+- Volksfähigkeiten: Nachtsicht, Unsterblich
 
 |  KÖR   |  6  |   AGI    |  8  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  0  |    BE    |  1  |     VE     |  1  |
 |   HÄ   |  2  |    GE    |  6  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  5  |  Abwehr  |  9  | Initiative | 10  |
+|        |     |          |     |            |     |     |
+|   LK   | 18  |  Abwehr  |  9  | Initiative | 10  |
 | Laufen |  5  | Schlagen |  6  | Schiessen  | 17  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
 |   GH   |  1  |    GK    | no  |     EP     | 50  |
 
 |          Bewaffnung          |
@@ -24,14 +23,13 @@
 | :----------------: |
 | Lederpanzer (PA+1) |
 
-**Talente:**  
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+**Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Glückspilz I: Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen.
+**Glückspilz I:** Einmal pro Tag und Talentrang Patzer ignorieren und Wurf wiederholen.
 
-Schütze I: Schiessen, Zielzauber +1 pro Talentrang.
+**Schütze I:** Schiessen, Zielzauber +1 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 ---
 

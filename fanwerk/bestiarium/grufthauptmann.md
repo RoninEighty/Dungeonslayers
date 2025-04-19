@@ -2,36 +2,34 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 9
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 9
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  7  |    GEI     |  5  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   | 10  |    BE    |  1  |     VE     |  1  |
 |   HÄ   |  5  |    GE    |  2  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 3.5 |  Abwehr  | 22  | Initiative |  8  |
-| Laufen | 3.5 | Schlagen | 24  | Schiessen  |  9  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 23  |  Abwehr  | 22  | Initiative |  8  |
+| Laufen | 3.5 | Schlagen | 24  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 13  |    GK    | no  |     EP     | 111 |
 
-|                                 Bewaffnung                                 |
-| :------------------------------------------------------------------------: |
-| Bihänder (2h) (WB+3, INI-2, GA-4), mag. Langschwert +1 (WB+3, INI+1, GA-1) |
+|                             Bewaffnung                             |
+| :----------------------------------------------------------------: |
+| Langschwert (WB+3, INI+1, GA-1), Bihänder (2h) (WB+3, INI-2, GA-4) |
 
 |                                                          Panzerung                                                           |
 | :--------------------------------------------------------------------------------------------------------------------------: |
-| mag. Kettenpanzer +1 (PA+3), Metallhelm (PA+1, INI-1), Plattenarmschienen (PA+1, LA-0.5), Plattenbeinschienen (PA+1, LA-0.5) |
+| Metallhelm (PA+1, INI-1), Kettenpanzer (PA+3), Plattenarmschienen (PA+1, Laufen-0.5), Plattenbeinschienen (PA+1, Laufen-0.5) |
 
-**Talente:**  
-Kämpfer III: Schlagen +1 pro Talentrang.
+**Brutaler Hieb II:** Schlagen +KÖR
 
-Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Kämpfer III:** Schlagen +1 pro Talentrang.
 
-Brutaler Hieb II: Schlagen +KÖR
+**Magieresistent II:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-Magieresistent II: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Parade III:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
 ---
 

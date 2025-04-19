@@ -2,41 +2,38 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 6
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 6
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  8  |    GEI     |  4  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  8  |    BE    |  3  |     VE     |  0  |
 |   HÄ   |  4  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 4.5 |  Abwehr  | 21  | Initiative | 16  |
-| Laufen | 4.5 | Schlagen | 26  | Schiessen  |  8  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 22  |  Abwehr  | 21  | Initiative | 16  |
+| Laufen | 4.5 | Schlagen | 26  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 13  |    GK    | no  |     EP     | 110 |
 
-|                                        Bewaffnung                                        |
-| :--------------------------------------------------------------------------------------: |
-| mag. Bihänder (2h) +2 (WB+5, GA-6, Kämpfer +II), mag. Kurzschwert +1 (WB+2, INI+1, GA-1) |
+|                                Bewaffnung                                |
+| :----------------------------------------------------------------------: |
+| Kurzschwert (WB+2, INI+1, GA-1), Bihänder (2h) (WB+5, GA-6, Kämpfer +II) |
 
-|                                                 Panzerung                                                  |
-| :--------------------------------------------------------------------------------------------------------: |
-| mag. Plattenpanzer +1 (PA+4, LA-0.5), mag. Metallhelm +1 (PA+2), mag. Lederschienen (Arm & Bein) +1 (PA+2) |
+|                                       Panzerung                                        |
+| :------------------------------------------------------------------------------------: |
+| Plattenpanzer (PA+4, Laufen-0.5), Metallhelm (PA+2), Lederschienen (Arm & Bein) (PA+2) |
 
-**Ausrüstung:**  
-Kette (Abwehr +1)
+**Ausrüstung:** Kette (Abwehr +1)
 
-**Talente:**  
-Kämpfer III: Schlagen +1 pro Talentrang.
+**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Schnelle Reflexe II: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Brutaler Hieb I:** Schlagen +KÖR
 
-Zwei Waffen II: Bei Kampf mit zwei Waffen Malus -2 pro Talentrang.
+**Kämpfer III:** Schlagen +1 pro Talentrang.
 
-Brutaler Hieb I: Schlagen +KÖR
+**Schnelle Reflexe II:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Zwei Waffen II:** Bei Kampf mit zwei Waffen Malus -2 pro Talentrang.
 
 ---
 

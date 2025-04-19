@@ -2,18 +2,17 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 1
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 1
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  4  |    BE    |  0  |     VE     |  0  |
 |   HÄ   |  3  |    GE    |  0  |     AU     |  3  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  | 13  | Initiative |  6  |
-| Laufen |  4  | Schlagen | 15  | Schiessen  |  6  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 21  |  Abwehr  | 13  | Initiative |  6  |
+| Laufen |  4  | Schlagen | 15  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   |  3  |    GK    | no  |     EP     | 54  |
 
 |            Bewaffnung            |
@@ -24,18 +23,17 @@
 | :----------------: |
 | Lederpanzer (PA+1) |
 
-**Talente:**  
-Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
+**Charmant I:** Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
-Instrument I: +3 pro Talentrang auf ausgewähltes Instrument.
+**Instrument I:** +3 pro Talentrang auf ausgewähltes Instrument.
 
-Kämpfer I: Schlagen +1 pro Talentrang.
+**Kämpfer I:** Schlagen +1 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Reiten I: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
+**Reiten I:** Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 ---
 

@@ -2,19 +2,19 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Schwarzmagier
-- Stufe: 1
-- Fähigkeiten: Nachtsicht, Unsterblich, Zielsicher
+- Klasse: Schwarzmagier 1
+- Volksfähigkeiten: Nachtsicht, Unsterblich
 
-|  KÖR   |  7  |   AGI    |  5  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  0  |    BE    |  0  |     VE     |  3  |
-|   HÄ   |  2  |    GE    |  3  |     AU     |  3  |
-|        |     |          |     |            |     |
-|   LK   | 3.5 |  Abwehr  |  9  | Initiative |  6  |
-| Laufen | 3.5 | Schlagen |  7  | Schiessen  |  9  |
-|        |     |          |     |            |     |
-|   GH   |  1  |    GK    | no  |     EP     | 54  |
+|   KÖR   |  7  |    AGI     |  5  |    GEI     |  8  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  0  |     BE     |  0  |     VE     |  3  |
+|   HÄ    |  2  |     GE     |  3  |     AU     |  3  |
+|         |     |            |     |            |     |     |
+|   LK    | 19  |   Abwehr   |  9  | Initiative |  6  |
+| Laufen  | 3.5 |  Schlagen  |  7  | Schiessen  |     |
+| Zaubern |     | Zielzauber | 14  |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  1  |     GK     | no  |     EP     | 54  |
 
 |  Bewaffnung   |
 | :-----------: |
@@ -24,17 +24,13 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Talente:**  
-Alchemie I: Tränke identifizieren und herstellen +1 pro Talentrang.
+**Alchemie I:** Tränke identifizieren und herstellen +1 pro Talentrang.
 
-Feuermagier I: Feuerzauber +1 pro Talentrang.
+**Feuermagier I:** Feuerzauber +1 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
-
-**Zaubersprüche:**  
-[Feuerstrahl](/grw/zauber/feuerstrahl.md) (+2)
+**Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
 ---
 

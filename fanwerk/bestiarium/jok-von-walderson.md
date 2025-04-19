@@ -2,46 +2,44 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 8
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 8
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  7  |    GEI     |  5  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  9  |    BE    |  2  |     VE     |  0  |
 |   HÄ   |  4  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  | 22  | Initiative | 10  |
-| Laufen |  4  | Schlagen | 23  | Schiessen  |  7  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 25  |  Abwehr  | 22  | Initiative | 10  |
+| Laufen |  4  | Schlagen | 23  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 12  |    GK    | no  |     EP     | 70  |
 
-|                             Bewaffnung                             |
-| :----------------------------------------------------------------: |
-| mag. Langschwert +1 (WB+3, INI+1, GA-1, Dämonen zerschmettern +II) |
+|                         Bewaffnung                         |
+| :--------------------------------------------------------: |
+| Langschwert (WB+3, INI+1, GA-1, Dämonen zerschmettern +II) |
 
-|                                                             Panzerung                                                              |
-| :--------------------------------------------------------------------------------------------------------------------------------: |
-| Kettenpanzer (PA+2, LA-0.5), mag. Metallhelm +2 (PA+3, Zauber: Giftschutz eingebettet), mag. Metallschild +1 (PA+2, Standhaft +II) |
+|                                                       Panzerung                                                        |
+| :--------------------------------------------------------------------------------------------------------------------: |
+| Metallhelm (PA+3, Zauber: Giftschutz eingebettet), Metallschild (PA+2, Standhaft +II), Kettenpanzer (PA+2, Laufen-0.5) |
 
-**Talente:**  
-Kämpfer III: Schlagen +1 pro Talentrang.
+**Brutaler Hieb II:** Schlagen +KÖR
 
-Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Diener des Lichts II:** Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
 
-Brutaler Hieb II: Schlagen +KÖR
+**Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Diener des Lichts II: Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
+**Kämpfer III:** Schlagen +1 pro Talentrang.
 
-Einstecker I: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+**Panzerung zerschmettern I:** PA-1 bei zufälligem nichtmagischem Rüstungsteil
 
-Panzerung zerschmettern I: PA-1 bei zufälligem nichtmagischem Rüstungsteil
+**Parade III:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Rüstträger I: +0,5m Laufen-Malus durch Rüstung
+**Rüstträger I:** +0,5m Laufen-Malus durch Rüstung
 
-Verletzen I: GA-1 bei Nahkampfangriff
+**Verletzen I:** GA-1 bei Nahkampfangriff
 
-Waffenkenner I: Schlagen +1, GA-1 für eine spezielle Waffengattung
+**Waffenkenner I:** Schlagen +1, GA-1 für eine spezielle Waffengattung
 
 ---
 

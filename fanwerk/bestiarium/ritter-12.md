@@ -2,43 +2,40 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 12
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 12
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  9  |    BE    |  0  |     VE     |  0  |
 |   HÄ   |  8  |    GE    |  0  |     AU     |  7  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  | 27  | Initiative | 12  |
-| Laufen |  4  | Schlagen | 25  | Schiessen  |  6  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 35  |  Abwehr  | 27  | Initiative | 12  |
+| Laufen |  4  | Schlagen | 25  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 16  |    GK    | no  |     EP     | 92  |
 
-|                      Bewaffnung                       |
-| :---------------------------------------------------: |
-| mag. Langschwert +3 (WB+5, INI+3, GA-3), Lanze (WB+1) |
+|                  Bewaffnung                   |
+| :-------------------------------------------: |
+| Langschwert (WB+5, INI+3, GA-3), Lanze (WB+1) |
 
-|                                                                                         Panzerung                                                                                          |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Plattenpanzer (PA+3, LA-1, Einstecker +III), Turmschild (PA+2, LA-1), Plattenarmschienen (PA+1, LA-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I), Plattenbeinschienen (PA+1, LA-0.5) |
+|                                                                                                 Panzerung                                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Plattenpanzer (PA+3, Laufen-1, Einstecker +III), Turmschild (PA+2, Laufen-1), Plattenarmschienen (PA+1, Laufen-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I), Plattenbeinschienen (PA+1, Laufen-0.5) |
 
-**Ausrüstung:**  
-Diadem (Aura +3), Stiefel (Flink +III)
+**Ausrüstung:** Diadem (Aura +3), Stiefel (Flink +III)
 
-**Talente:**  
-Brutaler Hieb III: Schlagen +KÖR
+**Brutaler Hieb III:** Schlagen +KÖR
 
-Kämpfer III: Schlagen +1 pro Talentrang.
+**Charmant II:** Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
-Parade III: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Kämpfer III:** Schlagen +1 pro Talentrang.
 
-Reiten III: Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
+**Parade III:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Charmant II: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
+**Reiten III:** Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
 ---
 

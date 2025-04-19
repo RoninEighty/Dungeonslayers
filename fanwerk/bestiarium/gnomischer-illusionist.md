@@ -1,20 +1,20 @@
 ### Gnomischer Illusionist
 
-- Gruppe: Gnom
+- Gruppe: Humanoide
 - Volk: Gnom
-- Klasse: Zauberer
-- Stufe: 1
-- Fähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen
+- Klasse: Zauberer 1
+- Volksfähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen
 
-|  KÖR   |  6  |   AGI    |  6  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  0  |    BE    |  0  |     VE     |  2  |
-|   HÄ   |  0  |    GE    |  4  |     AU     |  5  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  |  7  | Initiative |  6  |
-| Laufen |  4  | Schlagen |  7  | Schiessen  | 10  |
-|        |     |          |     |            |     |
-|   GH   |  1  |    GK    | kl  |     EP     | 50  |
+|   KÖR   |  6  |    AGI     |  6  |    GEI     |  8  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  0  |     BE     |  0  |     VE     |  2  |
+|   HÄ    |  0  |     GE     |  4  |     AU     |  5  |
+|         |     |            |     |            |     |     |
+|   LK    | 16  |   Abwehr   |  7  | Initiative |  6  |
+| Laufen  |  4  |  Schlagen  |  7  | Schiessen  |     |
+| Zaubern | 14  | Zielzauber |     |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  1  |     GK     | kl  |     EP     | 50  |
 
 |              Bewaffnung              |
 | :----------------------------------: |
@@ -24,19 +24,19 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Talente:**  
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+**Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
+**Charmant I:** Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
-Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang.
+**Schlitzohr I:** Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+**Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-**Zaubersprüche:**  
-[Zauber](/fanwerk/zauber/zauber.md)trick (0)
+**Zauber:** '''Zaubertrick'''
+
+**Zielzauber:**
 
 ---
 

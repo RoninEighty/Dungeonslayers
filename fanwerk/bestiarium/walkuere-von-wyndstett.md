@@ -2,18 +2,17 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 1
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 1
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  8  |    GEI     |  4  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  5  |    BE    |  3  |     VE     |  0  |
 |   HÄ   |  2  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  5  |  Abwehr  | 14  | Initiative | 12  |
+|        |     |          |     |            |     |     |
+|   LK   | 20  |  Abwehr  | 14  | Initiative | 12  |
 | Laufen |  5  | Schlagen | 15  | Schiessen  |  9  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
 |   GH   |  2  |    GK    | no  |     EP     | 75  |
 
 |               Bewaffnung                |
@@ -24,16 +23,15 @@
 | :-------------------------------------------------------------: |
 | Lederpanzer (PA+1), Holzschild (PA+1), Metallhelm (PA+1, INI-1) |
 
-**Talente:**  
-Kämpfer I: Schlagen +1 pro Talentrang.
+**Kämpfer I:** Schlagen +1 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Schlachtruf I: +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
+**Schlachtruf I:** +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
 ---
 

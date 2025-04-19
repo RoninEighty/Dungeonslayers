@@ -3,29 +3,28 @@
 - Gruppe: Tiere
 
 |  KÖR   |  6  |   AGI    |  6  |    GEI     |  1  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  2  |    BE    |  4  |     VE     |  0  |
 |   HÄ   |  1  |    GE    |  3  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  6  |  Abwehr  |  8  | Initiative | 10  |
+|        |     |          |     |            |     |     |
+|   LK   | 13  |  Abwehr  |  8  | Initiative | 10  |
 | Laufen |  6  | Schlagen |  9  | Schiessen  | 11  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
 |   GH   |  3  |    GK    | kl  |     EP     | 75  |
 
 |                 Bewaffnung                 |
 | :----------------------------------------: |
-| Netzflüssigkeit (WB+2), Spinnenbiss (WB+1) |
+| Spinnenbiss (WB+1), Netzflüssigkeit (WB+2) |
 
 |      Panzerung      |
 | :-----------------: |
 | Chitinpanzer (PA+1) |
 
-**Talente:**  
-Kletterläufer: Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern.
+**Kletterläufer:** Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern.
 
-Lähmungseffekt: Netzflüssigkeit (nur alle 10 Kampfrunden einsetzbar) macht Ziel für Probenergebnis in Kamprunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt.
+**Lähmungseffekt:** Netzflüssigkeit (nur alle 10 Kampfrunden einsetzbar) macht Ziel für Probenergebnis in Kamprunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+**Natürliche Waffen:** Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
 ---
 

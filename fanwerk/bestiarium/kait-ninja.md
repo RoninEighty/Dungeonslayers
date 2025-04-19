@@ -2,18 +2,17 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Späher
-- Stufe: 1
-- Fähigkeiten: Talentiert
+- Klasse: Späher 1
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  8  |    GEI     |  4  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  5  |    BE    |  5  |     VE     |  0  |
 |   HÄ   |  0  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  6  |  Abwehr  | 11  | Initiative | 16  |
-| Laufen |  6  | Schlagen | 15  | Schiessen  |  8  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 18  |  Abwehr  | 11  | Initiative | 16  |
+| Laufen |  6  | Schlagen | 15  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   |  2  |    GK    | no  |     EP     | 52  |
 
 |            Bewaffnung             |
@@ -24,18 +23,17 @@
 | :---------------------------------------------------: |
 | Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1) |
 
-**Talente:**  
-Akrobat I: Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+**Akrobat I:** Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
 
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Flink I: Laufen +1m pro Talentrang.
+**Flink I:** Laufen +1m pro Talentrang.
 
-Heimlichkeit I: Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
+**Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
 ---
 

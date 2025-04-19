@@ -1,34 +1,33 @@
 ### Getreuer Dammenhalls
 
 - Gruppe: Untote
-- Upgrade: Heroisch
+- Modifikation: Heroisch
 
 |  KÖR   | 10  |   AGI    |  8  |    GEI     |  0  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  8  |    BE    |  2  |     VE     |  0  |
 |   HÄ   |  8  |    GE    |  2  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   |  5  |  Abwehr  | 27  | Initiative | 11  |
-| Laufen |  5  | Schlagen | 23  | Schiessen  | 10  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 140 |  Abwehr  | 27  | Initiative | 11  |
+| Laufen |  5  | Schlagen | 23  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   | 22  |    GK    | no  |     EP     | 428 |
 
-|               Bewaffnung                |
-| :-------------------------------------: |
-| mag. Langschwert +1 (WB+3, INI+1, GA-1) |
+|           Bewaffnung            |
+| :-----------------------------: |
+| Langschwert (WB+3, INI+1, GA-1) |
 
-|                                      Panzerung                                      |
-| :---------------------------------------------------------------------------------: |
-| mag. Kettenpanzer +1 (PA+3), mag. Metallhelm +1 (PA+2), mag. Metallschild +1 (PA+2) |
+|                          Panzerung                          |
+| :---------------------------------------------------------: |
+| Metallhelm (PA+2), Metallschild (PA+2), Kettenpanzer (PA+3) |
 
-**Talente:**  
-Angst: Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
+**Alterung:** Bei einem Treffer altert das Ziel um 1 Jahr.
 
-Alterung: Bei einem Treffer altert das Ziel um 1 Jahr.
+**Angst:** Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -1 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Wesen der Dunkelheit (Settingoption): Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 

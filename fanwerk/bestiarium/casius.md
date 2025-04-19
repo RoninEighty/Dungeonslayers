@@ -2,19 +2,19 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler
-- Stufe: 1
-- Fähigkeiten: Talentiert
+- Klasse: Heiler 1
+- Volksfähigkeiten: Talentiert
 
-|  KÖR   |  6  |   AGI    |  6  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  1  |    BE    |  0  |     VE     |  3  |
-|   HÄ   |  2  |    GE    |  0  |     AU     |  5  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  |  8  | Initiative |  6  |
-| Laufen |  4  | Schlagen |  8  | Schiessen  |  6  |
-|        |     |          |     |            |     |
-|   GH   |  1  |    GK    | no  |     EP     | 63  |
+|   KÖR   |  6  |    AGI     |  6  |    GEI     |  8  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  1  |     BE     |  0  |     VE     |  3  |
+|   HÄ    |  2  |     GE     |  0  |     AU     |  5  |
+|         |     |            |     |            |     |     |
+|   LK    | 18  |   Abwehr   |  8  | Initiative |  6  |
+| Laufen  |  4  |  Schlagen  |  8  | Schiessen  |     |
+| Zaubern | 14  | Zielzauber |     |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  1  |     GK     | no  |     EP     | 63  |
 
 |        Bewaffnung         |
 | :-----------------------: |
@@ -24,13 +24,13 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Talente:**  
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+**Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-**Zaubersprüche:**  
-[Heilende Hand](/grw/zauber/heilende-hand.md) (+1)
+**Zauber:** '''Heilende Hand (+1)'''
+
+**Zielzauber:**
 
 ---
 

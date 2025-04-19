@@ -2,32 +2,30 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger
-- Stufe: 3
-- Fähigkeiten: Talentiert
+- Klasse: Krieger 3
+- Volksfähigkeiten: Talentiert
 
 |  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
+| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
 |   ST   |  5  |    BE    |  1  |     VE     |  1  |
 |   HÄ   |  4  |    GE    |  2  |     AU     |  1  |
-|        |     |          |     |            |     |
-|   LK   | 3.5 |  Abwehr  | 14  | Initiative |  7  |
-| Laufen | 3.5 | Schlagen | 17  | Schiessen  |  8  |
-|        |     |          |     |            |     |
+|        |     |          |     |            |     |     |
+|   LK   | 28  |  Abwehr  | 14  | Initiative |  7  |
+| Laufen | 3.5 | Schlagen | 17  | Schiessen  |     |
+|        |     |          |     |            |     |     |
 |   GH   |  5  |    GK    | no  |     EP     | 66  |
 
 |     Bewaffnung     |
 | :----------------: |
 | Langschwert (WB+2) |
 
-|          Panzerung          |
-| :-------------------------: |
-| Kettenpanzer (PA+2, LA-0.5) |
+|            Panzerung            |
+| :-----------------------------: |
+| Kettenpanzer (PA+2, Laufen-0.5) |
 
-**Talente:**  
-Einstecker II: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+**Einstecker II:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Kämpfer II: Schlagen +1 pro Talentrang.
+**Kämpfer II:** Schlagen +1 pro Talentrang.
 
 ---
 

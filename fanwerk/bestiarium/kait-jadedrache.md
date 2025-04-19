@@ -2,19 +2,19 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Zauberer
-- Stufe: 1
-- Fähigkeiten: Talentiert
+- Klasse: Zauberer 1
+- Volksfähigkeiten: Talentiert
 
-|  KÖR   |  8  |   AGI    |  4  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  5  |    BE    |  0  |     VE     |  1  |
-|   HÄ   |  1  |    GE    |  0  |     AU     |  4  |
-|        |     |          |     |            |     |
-|   LK   |  4  |  Abwehr  | 10  | Initiative |  6  |
-| Laufen |  4  | Schlagen | 16  | Schiessen  |  4  |
-|        |     |          |     |            |     |
-|   GH   |  2  |    GK    | no  |     EP     | 54  |
+|   KÖR   |  8  |    AGI     |  4  |    GEI     |  8  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  5  |     BE     |  0  |     VE     |  1  |
+|   HÄ    |  1  |     GE     |  0  |     AU     |  4  |
+|         |     |            |     |            |     |     |
+|   LK    | 19  |   Abwehr   | 10  | Initiative |  6  |
+| Laufen  |  4  |  Schlagen  | 16  | Schiessen  |     |
+| Zaubern | 12  | Zielzauber |     |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  2  |     GK     | no  |     EP     | 54  |
 
 |                        Bewaffnung                        |
 | :------------------------------------------------------: |
@@ -24,21 +24,21 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Talente:**  
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+**Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Flink I: Laufen +1m pro Talentrang.
+**Flink I:** Laufen +1m pro Talentrang.
 
-Kämpfer I: Schlagen +1 pro Talentrang.
+**Kämpfer I:** Schlagen +1 pro Talentrang.
 
-Parade I: Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
+**Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+**Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Zaubersprüche:**  
-[Magische Waffe](/grw/zauber/magische-waffe.md) (0)
+**Zauber:** '''Magische Waffe'''
+
+**Zielzauber:**
 
 ---
 

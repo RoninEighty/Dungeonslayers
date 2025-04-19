@@ -2,15 +2,16 @@
 
 - Gruppe: Konstrukte
 
-|  KÖR   |  8  |   AGI    | 10  |    GEI     |  4  |
-| :----: | :-: | :------: | :-: | :--------: | :-: |
-|   ST   |  3  |    BE    |  0  |     VE     |  0  |
-|   HÄ   |  3  |    GE    |  5  |     AU     |  0  |
-|        |     |          |     |            |     |
-|   LK   | 6.5 |  Abwehr  | 14  | Initiative | 10  |
-| Laufen | 6.5 | Schlagen | 13  | Schiessen  | 15  |
-|        |     |          |     |            |     |
-|   GH   |  7  |    GK    | gr  |     EP     | 134 |
+|   KÖR   |  8  |    AGI     | 10  |    GEI     |  4  |
+| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
+|   ST    |  3  |     BE     |  0  |     VE     |  0  |
+|   HÄ    |  3  |     GE     |  5  |     AU     |  0  |
+|         |     |            |     |            |     |     |
+|   LK    | 42  |   Abwehr   | 14  | Initiative | 10  |
+| Laufen  | 6.5 |  Schlagen  | 13  | Schiessen  |     |
+| Zaubern |     | Zielzauber | 12  |            |     |
+|         |     |            |     |            |     |     |
+|   GH    |  7  |     GK     | gr  |     EP     | 134 |
 
 |      Bewaffnung       |
 | :-------------------: |
@@ -20,18 +21,14 @@
 | :------------------: |
 | Kristallwesen (PA+3) |
 
-**Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
+**Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-Geistesimmun: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
 
-Schleudern: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
+**Schleudern:** Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
 
-Sturmangriff: Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
-
-**Zaubersprüche:**  
-[Blitz](/grw/zauber/blitz.md) (+3)
+**Sturmangriff:** Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
