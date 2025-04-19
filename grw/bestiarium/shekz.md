@@ -25,7 +25,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** '''Einschläfern[!] (-(KÖR+VE)/2)'''
+**Zauber:** _Einschläfern[!] (-(KÖR+VE)/2)_
 
 **Zielzauber:** Feuerstrahl (+1)
 

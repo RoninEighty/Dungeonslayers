@@ -27,7 +27,7 @@
 
 **Werteverlust:** Pro schadensverursachenden Treffer mit dem Gedankenzehrerstrahl-Zauber wird GEI um 1 gesenkt (bei GEI Null ist das Opfer wahnsinnig). Pro Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert.
 
-**Zauber:** '''Gedankenzehrerstrahl (nicht sichtbar; verursacht mental Schaden und führt zu Werteverlust)'''
+**Zauber:** _Gedankenzehrerstrahl (nicht sichtbar; verursacht mental Schaden und führt zu Werteverlust)_
 
 **Zielzauber:**
 

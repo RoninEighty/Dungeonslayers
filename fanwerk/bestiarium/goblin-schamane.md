@@ -28,7 +28,7 @@
 
 **Zauber:** Heilende Hand (+1), Verteidigung
 
-**Zielzauber:** '''Blenden (-(AGI+AU)/2)''', Niesanfall (-(KÖR+AU)/2)
+**Zielzauber:** _Blenden (-(AGI+AU)/2)_, Niesanfall (-(KÖR+AU)/2)
 
 ---
 

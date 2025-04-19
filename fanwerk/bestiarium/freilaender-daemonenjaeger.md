@@ -34,7 +34,7 @@
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Zauber:** '''Wasser weihen'''
+**Zauber:** _Wasser weihen_
 
 **Zielzauber:**
 

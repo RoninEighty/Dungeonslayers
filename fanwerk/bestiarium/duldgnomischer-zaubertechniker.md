@@ -34,7 +34,7 @@
 
 **Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-**Zauber:** '''Magisches Schloss'''
+**Zauber:** _Magisches Schloss_
 
 **Zielzauber:**
 

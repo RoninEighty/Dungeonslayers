@@ -34,7 +34,7 @@
 
 **Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-**Zauber:** '''Zaubertrick'''
+**Zauber:** _Zaubertrick_
 
 **Zielzauber:**
 

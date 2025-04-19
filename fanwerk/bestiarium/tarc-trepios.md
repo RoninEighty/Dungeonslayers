@@ -29,7 +29,7 @@
 
 **Sturmangriff:** Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
-**Zauber:** '''Unsichtbarkeit'''
+**Zauber:** _Unsichtbarkeit_
 
 **Zielzauber:**
 

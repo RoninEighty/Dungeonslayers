@@ -31,7 +31,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** '''Totenlachen (-GEI+AU auf VE Ziele im Umkreis von VEx2 Metern, sofern diese das Lachen hören können; Erfolg führt zu Werteverlust.)'''
+**Zauber:** _Totenlachen (-GEI+AU auf VE Ziele im Umkreis von VEx2 Metern, sofern diese das Lachen hören können; Erfolg führt zu Werteverlust.)_
 
 **Zielzauber:**
 

@@ -39,7 +39,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** '''Wehklagen (ZB: -(KÖR+AU)/2 des Ziels; Abklingzeit: 10 Kampfrunden; Jeder in Umkreis von 9m um die Todesfee erleidet nicht abwehrbaren Schaden in Höhe des Probenergebnisses)'''
+**Zauber:** _Wehklagen (ZB: -(KÖR+AU)/2 des Ziels; Abklingzeit: 10 Kampfrunden; Jeder in Umkreis von 9m um die Todesfee erleidet nicht abwehrbaren Schaden in Höhe des Probenergebnisses)_
 
 **Zielzauber:**
 

@@ -31,7 +31,7 @@
 
 **Zauber:** Flackern (-2), Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken, Skelette erwecken, Terror[!] (-(GEI+VE)/2), Versetzen, Zombies erwecken
 
-**Zielzauber:** '''Feuerball (+3)''', Feuerlanze (+2), Schatten (-(AGI+AU)/2)
+**Zielzauber:** _Feuerball (+3)_, Feuerlanze (+2), Schatten (-(AGI+AU)/2)
 
 ---
 

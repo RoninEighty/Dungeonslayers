@@ -27,7 +27,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** '''Kleiner Terror[!] (-(GEI+VE)/2)'''
+**Zauber:** _Kleiner Terror[!] (-(GEI+VE)/2)_
 
 **Zielzauber:** Kettenblitz (+3), Schattenpfeil (+2)
 

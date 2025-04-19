@@ -33,7 +33,7 @@
 
 **Zauber:** Arkanes Schwert, Fluch (-(GEI+AU)/2), Magie bannen (-Stufe od. -LK/2), Magie entdecken, Teleport (-1/Begleiter), Terror[!] (-(GEI+VE)/2), Trugbild[!] (-2), Unsichtbares sehen, Versetzen
 
-**Zielzauber:** Blitz (+3), Blut kochen (-(KÖR+AU)/2), Kettenblitz (+3), Netz (-(AGI+ST)/2), Schatten (-(AGI+AU)/2), '''Schattenlanze (+5)''', Telekinese (-1/Stufe x5 kg)
+**Zielzauber:** Blitz (+3), Blut kochen (-(KÖR+AU)/2), Kettenblitz (+3), Netz (-(AGI+ST)/2), Schatten (-(AGI+AU)/2), _Schattenlanze (+5)_, Telekinese (-1/Stufe x5 kg)
 
 ---
 

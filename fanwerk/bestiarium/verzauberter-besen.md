@@ -27,7 +27,7 @@
 
 **Schweben:** Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2.
 
-**Zauber:** '''Reinigen''', Wolke der Reue (-2)
+**Zauber:** _Reinigen_, Wolke der Reue (-2)
 
 **Zielzauber:** Niesanfall (-(KÖR+AU)/2), Stolpern (-(AGI+AU)/2)
 

@@ -39,7 +39,7 @@
 
 **Wesen der Dunkelheit / Wesen des Lichts (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit bzw. des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur.
 
-**Zauber:** '''Terror[!] (-(GEI+VE)/2)'''
+**Zauber:** _Terror[!] (-(GEI+VE)/2)_
 
 **Zielzauber:**
 

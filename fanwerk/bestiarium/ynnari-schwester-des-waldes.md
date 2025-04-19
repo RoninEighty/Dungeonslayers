@@ -32,7 +32,7 @@
 
 **Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-**Zauber:** '''Tiere besänftigen (-LK/5)'''
+**Zauber:** _Tiere besänftigen (-LK/5)_
 
 **Zielzauber:**
 

@@ -34,7 +34,7 @@
 
 **Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-**Zauber:** '''Magie entdecken'''
+**Zauber:** _Magie entdecken_
 
 **Zielzauber:**
 

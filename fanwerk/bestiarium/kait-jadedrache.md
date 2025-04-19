@@ -36,7 +36,7 @@
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Zauber:** '''Magische Waffe'''
+**Zauber:** _Magische Waffe_
 
 **Zielzauber:**
 

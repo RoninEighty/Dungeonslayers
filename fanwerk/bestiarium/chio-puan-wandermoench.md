@@ -34,7 +34,7 @@
 
 **Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-**Zauber:** '''Heilende Hand (+2)'''
+**Zauber:** _Heilende Hand (+2)_
 
 **Zielzauber:**
 

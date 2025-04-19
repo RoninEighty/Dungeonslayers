@@ -29,7 +29,7 @@
 
 **Zauber:** Flackern (-2), Fluch (-(GEI+AU)/2), Kleiner Terror[!] (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken, Magische Waffe, Schweben, Skelette erwecken, Spionage, Volksgestalt (-4), Öffnen (-SW)
 
-**Zielzauber:** Schatten (-(AGI+AU)/2), '''Schattenpfeil (+2)'''
+**Zielzauber:** Schatten (-(AGI+AU)/2), _Schattenpfeil (+2)_
 
 ---
 

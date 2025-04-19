@@ -26,7 +26,7 @@
 
 **Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
 
-**Zauber:** '''Heilende Hand (+1)'''
+**Zauber:** _Heilende Hand (+1)_
 
 **Zielzauber:**
 

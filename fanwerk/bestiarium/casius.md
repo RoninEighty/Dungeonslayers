@@ -28,7 +28,7 @@
 
 **Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-**Zauber:** '''Heilende Hand (+1)'''
+**Zauber:** _Heilende Hand (+1)_
 
 **Zielzauber:**
 

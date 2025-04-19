@@ -32,7 +32,7 @@
 
 **Rüstzauberer I:** PA-Malus -2 pro Talentrang ignorieren.
 
-**Zauber:** '''Heilende Hand (+2)'''
+**Zauber:** _Heilende Hand (+2)_
 
 **Zielzauber:**
 

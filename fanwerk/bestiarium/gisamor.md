@@ -30,7 +30,7 @@
 
 **Zauber:** Skelette erwecken
 
-**Zielzauber:** '''Feuerlanze (+2)'''
+**Zielzauber:** _Feuerlanze (+2)_
 
 ---
 

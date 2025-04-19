@@ -31,7 +31,7 @@
 
 **Zauber:** Arkanes Schwert, Flackern (-2), Magische Rüstung, Schutzschild, Spurt (-2)
 
-**Zielzauber:** Blitz (+3), '''Feuerball (+3)''', Feuerlanze (+2), Flammenklinge, Halt (-(KÖR+AU)/2)
+**Zielzauber:** Blitz (+3), _Feuerball (+3)_, Feuerlanze (+2), Flammenklinge, Halt (-(KÖR+AU)/2)
 
 ---
 

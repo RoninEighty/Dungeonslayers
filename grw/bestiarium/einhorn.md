@@ -35,7 +35,7 @@
 
 **Wesen des Lichts (Settingoption):** Gilt in den meisten Settings als ein Wesen des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur.
 
-**Zauber:** '''Spurt (-2)'''
+**Zauber:** _Spurt (-2)_
 
 **Zielzauber:**
 

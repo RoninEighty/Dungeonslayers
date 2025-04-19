@@ -32,7 +32,7 @@
 
 **Zauber:** Arkanes Schwert, Ebenentor (-8), Einschläfern[!] (-(KÖR+VE)/2), Gasgestalt, Gehorche[!] (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magisches Schloss, Schatten erwecken, Skelette erwecken, Springen, Trugbild[!] (-2), Unsichtbarkeit, Verwirren[!] (-(GEI+AU)/2), Wandöffnung, Wolke des Todes (-4), Zeitstop (-5)
 
-**Zielzauber:** '''Flammeninferno (+5)''', Frostschock (+3), Netz (-(AGI+ST)/2), Schatten (-(AGI+AU)/2), Schattenlanze (+5), Stolpern (-(AGI+AU)/2)
+**Zielzauber:** _Flammeninferno (+5)_, Frostschock (+3), Netz (-(AGI+ST)/2), Schatten (-(AGI+AU)/2), Schattenlanze (+5), Stolpern (-(AGI+AU)/2)
 
 ---
 
