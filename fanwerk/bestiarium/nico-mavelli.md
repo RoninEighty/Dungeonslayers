@@ -6,16 +6,16 @@
 - Volksfähigkeiten: Talentiert
 - Modifikation: Heroisch
 
-|   KÖR   |  7  |    AGI     |  5  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  3  |     BE     |  0  |     VE     |  5  |
-|   HÄ    |  6  |     GE     |  5  |     AU     | 10  |
-|         |     |            |     |            |     |     |
-|   LK    | 130 |   Abwehr   | 18  | Initiative |  8  |
-| Laufen  | 4.5 |  Schlagen  | 16  | Schiessen  |     |
+| KÖR     |  7  | AGI        |  5  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  3  | BE         |  0  | VE         |  5  |
+| HÄ      |  6  | GE         |  5  | AU         | 10  |
+|         |     |            |     |            |     |
+| LK      | 130 | Abwehr     | 18  | Initiative |  8  |
+| Laufen  | 4.5 | Schlagen   | 16  | Schiessen  |     |
 | Zaubern | 18  | Zielzauber | 17  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    | 11  |     GK     | no  |     EP     | 436 |
+|         |     |            |     |            |     |
+| GH      | 11  | GK         | no  | EP         | 436 |
 
 |        Bewaffnung         |
 | :-----------------------: |

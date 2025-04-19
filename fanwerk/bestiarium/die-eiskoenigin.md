@@ -6,16 +6,16 @@
 - Volksfähigkeiten: Talentiert
 - Modifikation: Episch
 
-|   KÖR   |  6  |    AGI     |  6  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  0  |     BE     |  0  |     VE     | 10  |
-|   HÄ    |  4  |     GE     |  4  |     AU     | 14  |
-|         |     |            |     |            |     |     |
-|   LK    | 209 |   Abwehr   | 17  | Initiative |  9  |
-| Laufen  |  4  |  Schlagen  | 10  | Schiessen  |     |
+| KÖR     |  6  | AGI        |  6  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  0  | BE         |  0  | VE         | 10  |
+| HÄ      |  4  | GE         |  4  | AU         | 14  |
+|         |     |            |     |            |     |
+| LK      | 209 | Abwehr     | 17  | Initiative |  9  |
+| Laufen  |  4  | Schlagen   | 10  | Schiessen  |     |
 | Zaubern | 22  | Zielzauber | 17  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    | 14  |     GK     | no  |     EP     | 628 |
+|         |     |            |     |            |     |
+| GH      | 14  | GK         | no  | EP         | 628 |
 
 |                           Bewaffnung                            |
 | :-------------------------------------------------------------: |

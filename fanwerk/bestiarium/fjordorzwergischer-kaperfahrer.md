@@ -5,15 +5,15 @@
 - Klasse: Krieger 1
 - Volksfähigkeiten: Dunkelsicht, Langlebig, Zäh
 
-|  KÖR   |  8  |   AGI    |  8  |    GEI     |  4  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  6  |    BE    |  0  |     VE     |  0  |
-|   HÄ   |  4  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 22  |  Abwehr  | 17  | Initiative |  7  |
+| KÖR    |  8  | AGI      |  8  | GEI        |  4  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  6  | BE       |  0  | VE         |  0  |
+| HÄ     |  4  | GE       |  0  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 22  | Abwehr   | 17  | Initiative |  7  |
 | Laufen |  5  | Schlagen | 15  | Schiessen  |  9  |
-|        |     |          |     |            |     |     |
-|   GH   |  3  |    GK    | no  |     EP     | 58  |
+|        |     |          |     |            |     |
+| GH     |  3  | GK       | no  | EP         | 58  |
 
 | Bewaffnung |
 | :--------: |

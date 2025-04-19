@@ -2,15 +2,15 @@
 
 - Gruppe: Tiere
 
-|  KÖR   | 11  |   AGI    |  8  |    GEI     |  1  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  4  |    BE    |  2  |     VE     |  0  |
-|   HÄ   |  2  |    GE    |  2  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 17  |  Abwehr  | 14  | Initiative | 10  |
+| KÖR    | 11  | AGI      |  8  | GEI        |  1  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  4  | BE       |  2  | VE         |  0  |
+| HÄ     |  2  | GE       |  2  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 17  | Abwehr   | 14  | Initiative | 10  |
 | Laufen | 7.5 | Schlagen | 16  | Schiessen  | 12  |
-|        |     |          |     |            |     |     |
-|   GH   |  6  |    GK    | kl  |     EP     | 86  |
+|        |     |          |     |            |     |
+| GH     |  6  | GK       | kl  | EP         | 86  |
 
 |         Bewaffnung          |
 | :-------------------------: |

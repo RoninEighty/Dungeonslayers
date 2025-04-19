@@ -2,16 +2,16 @@
 
 - Gruppe: Untote
 
-|   KÖR   | 10  |    AGI     |  7  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    | 20  |     BE     |  3  |     VE     |  4  |
-|   HÄ    | 20  |     GE     |  5  |     AU     |  6  |
-|         |     |            |     |            |     |     |
-|   LK    | 40  |   Abwehr   | 38  | Initiative |  9  |
-| Laufen  | 4.5 |  Schlagen  | 37  | Schiessen  |     |
+| KÖR     | 10  | AGI        |  7  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      | 20  | BE         |  3  | VE         |  4  |
+| HÄ      | 20  | GE         |  5  | AU         |  6  |
+|         |     |            |     |            |     |
+| LK      | 40  | Abwehr     | 38  | Initiative |  9  |
+| Laufen  | 4.5 | Schlagen   | 37  | Schiessen  |     |
 | Zaubern | 14  | Zielzauber | 13  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    | 36  |     GK     | no  |     EP     | 430 |
+|         |     |            |     |            |     |
+| GH      | 36  | GK         | no  | EP         | 430 |
 
 |        Bewaffnung         |
 | :-----------------------: |

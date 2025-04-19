@@ -5,16 +5,16 @@
 - Klasse: Heiler 5
 - Volksfähigkeiten: Talentiert
 
-|   KÖR   |  6  |    AGI     |  6  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  0  |     BE     |  0  |     VE     |  4  |
-|   HÄ    |  4  |     GE     |  0  |     AU     |  6  |
-|         |     |            |     |            |     |     |
-|   LK    | 20  |   Abwehr   | 12  | Initiative |  6  |
-| Laufen  |  4  |  Schlagen  |  7  | Schiessen  |  7  |
+| KÖR     |  6  | AGI        |  6  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  0  | BE         |  0  | VE         |  4  |
+| HÄ      |  4  | GE         |  0  | AU         |  6  |
+|         |     |            |     |            |     |
+| LK      | 20  | Abwehr     | 12  | Initiative |  6  |
+| Laufen  |  4  | Schlagen   |  7  | Schiessen  |  7  |
 | Zaubern | 14  | Zielzauber |  8  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | no  |     EP     | 71  |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 71  |
 
 |  Bewaffnung  |
 | :----------: |

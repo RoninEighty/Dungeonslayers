@@ -5,15 +5,15 @@
 - Klasse: Krieger 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
-|  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  5  |    BE    |  0  |     VE     |  0  |
-|   HÄ   |  4  |    GE    |  1  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 25  |  Abwehr  | 12  | Initiative |  6  |
+| KÖR    |  8  | AGI      |  6  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  5  | BE       |  0  | VE         |  0  |
+| HÄ     |  4  | GE       |  1  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 25  | Abwehr   | 12  | Initiative |  6  |
 | Laufen |  4  | Schlagen | 16  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   |  3  |    GK    | no  |     EP     | 58  |
+|        |     |          |     |            |     |
+| GH     |  3  | GK       | no  | EP         | 58  |
 
 |          Bewaffnung          |
 | :--------------------------: |

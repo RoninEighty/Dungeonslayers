@@ -5,15 +5,15 @@
 - Klasse: Berserker 12
 - Volksfähigkeiten: Talentiert
 
-|  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  7  |    BE    |  2  |     VE     |  3  |
-|   HÄ   |  6  |    GE    |  1  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 30  |  Abwehr  | 19  | Initiative | 10  |
+| KÖR    |  8  | AGI      |  6  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  7  | BE       |  2  | VE         |  3  |
+| HÄ     |  6  | GE       |  1  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 30  | Abwehr   | 19  | Initiative | 10  |
 | Laufen |  4  | Schlagen | 22  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 10  |    GK    | no  |     EP     | 77  |
+|        |     |          |     |            |     |
+| GH     | 10  | GK       | no  | EP         | 77  |
 
 |                     Bewaffnung                     |
 | :------------------------------------------------: |

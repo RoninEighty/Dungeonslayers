@@ -5,15 +5,15 @@
 - Klasse: Krieger 7
 - Volksfähigkeiten: Talentiert
 
-|  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  7  |    BE    |  0  |     VE     |  0  |
-|   HÄ   |  5  |    GE    |  0  |     AU     |  4  |
-|        |     |          |     |            |     |     |
-|   LK   | 29  |  Abwehr  | 21  | Initiative |  7  |
+| KÖR    |  8  | AGI      |  6  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  7  | BE       |  0  | VE         |  0  |
+| HÄ     |  5  | GE       |  0  | AU         |  4  |
+|        |     |          |     |            |     |
+| LK     | 29  | Abwehr   | 21  | Initiative |  7  |
 | Laufen | 1.5 | Schlagen | 20  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 10  |    GK    | no  |     EP     | 74  |
+|        |     |          |     |            |     |
+| GH     | 10  | GK       | no  | EP         | 74  |
 
 |            Bewaffnung            |
 | :------------------------------: |

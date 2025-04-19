@@ -5,16 +5,16 @@
 - Klasse: Heiler 6
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
-|   KÖR   |  7  |    AGI     |  5  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  0  |     BE     |  0  |     VE     |  4  |
-|   HÄ    |  2  |     GE     |  1  |     AU     |  8  |
-|         |     |            |     |            |     |     |
-|   LK    | 25  |   Abwehr   |  9  | Initiative |  5  |
-| Laufen  | 3.5 |  Schlagen  |  8  | Schiessen  |     |
+| KÖR     |  7  | AGI        |  5  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  0  | BE         |  0  | VE         |  4  |
+| HÄ      |  2  | GE         |  1  | AU         |  8  |
+|         |     |            |     |            |     |
+| LK      | 25  | Abwehr     |  9  | Initiative |  5  |
+| Laufen  | 3.5 | Schlagen   |  8  | Schiessen  |     |
 | Zaubern | 16  | Zielzauber | 10  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | kl  |     EP     | 73  |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | kl  | EP         | 73  |
 
 |              Bewaffnung              |
 | :----------------------------------: |

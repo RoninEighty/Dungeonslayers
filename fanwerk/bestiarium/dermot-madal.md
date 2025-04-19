@@ -5,16 +5,16 @@
 - Klasse: Nekromant 12
 - Volksfähigkeiten: Talentiert
 
-|   KÖR   |  7  |    AGI     |  5  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  1  |     BE     |  0  |     VE     |  7  |
-|   HÄ    |  0  |     GE     |  3  |     AU     |  9  |
-|         |     |            |     |            |     |     |
-|   LK    | 17  |   Abwehr   |  7  | Initiative |  9  |
-| Laufen  | 3.5 |  Schlagen  | 11  | Schiessen  |     |
+| KÖR     |  7  | AGI        |  5  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  1  | BE         |  0  | VE         |  7  |
+| HÄ      |  0  | GE         |  3  | AU         |  9  |
+|         |     |            |     |            |     |
+| LK      | 17  | Abwehr     |  7  | Initiative |  9  |
+| Laufen  | 3.5 | Schlagen   | 11  | Schiessen  |     |
 | Zaubern | 17  | Zielzauber | 11  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | no  |     EP     | 84  |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 84  |
 
 |        Bewaffnung         |
 | :-----------------------: |

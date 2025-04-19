@@ -2,15 +2,15 @@
 
 - Gruppe: Untote
 
-|  KÖR   | 12  |   AGI    |  4  |    GEI     |  4  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   | 10  |    BE    |  0  |     VE     |  0  |
-|   HÄ   | 10  |    GE    |  0  |     AU     |  2  |
-|        |     |          |     |            |     |     |
-|   LK   | 32  |  Abwehr  | 23  | Initiative |  4  |
+| KÖR    | 12  | AGI      |  4  | GEI        |  4  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     | 10  | BE       |  0  | VE         |  0  |
+| HÄ     | 10  | GE       |  0  | AU         |  2  |
+|        |     |          |     |            |     |
+| LK     | 32  | Abwehr   | 23  | Initiative |  4  |
 | Laufen |  3  | Schlagen | 23  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 18  |    GK    | no  |     EP     | 133 |
+|        |     |          |     |            |     |
+| GH     | 18  | GK       | no  | EP         | 133 |
 
 |      Bewaffnung      |
 | :------------------: |

@@ -3,15 +3,15 @@
 - Gruppe: Untote
 - Modifikation: Anführer
 
-|  KÖR   | 12  |   AGI    | 12  |    GEI     | 12  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  6  |    BE    |  6  |     VE     |  6  |
-|   HÄ   |  6  |    GE    |  6  |     AU     |  6  |
-|        |     |          |     |            |     |     |
-|   LK   | 112 |  Abwehr  | 22  | Initiative | 18  |
+| KÖR    | 12  | AGI      | 12  | GEI        | 12  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  6  | BE       |  6  | VE         |  6  |
+| HÄ     |  6  | GE       |  6  | AU         |  6  |
+|        |     |          |     |            |     |
+| LK     | 112 | Abwehr   | 22  | Initiative | 18  |
 | Laufen | 7.5 | Schlagen | 25  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 18  |    GK    | gr  |     EP     | 452 |
+|        |     |          |     |            |     |
+| GH     | 18  | GK       | gr  | EP         | 452 |
 
 |     Bewaffnung     |
 | :----------------: |

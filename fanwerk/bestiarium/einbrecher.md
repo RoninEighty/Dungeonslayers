@@ -5,15 +5,15 @@
 - Klasse: Späher 1
 - Volksfähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen
 
-|  KÖR   |  6  |   AGI    |  8  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  2  |    BE    |  2  |     VE     |  0  |
-|   HÄ   |  1  |    GE    |  5  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 17  |  Abwehr  |  8  | Initiative | 13  |
+| KÖR    |  6  | AGI      |  8  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  2  | BE       |  2  | VE         |  0  |
+| HÄ     |  1  | GE       |  5  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 17  | Abwehr   |  8  | Initiative | 13  |
 | Laufen |  6  | Schlagen |  8  | Schiessen  | 15  |
-|        |     |          |     |            |     |     |
-|   GH   |  1  |    GK    | kl  |     EP     | 49  |
+|        |     |          |     |            |     |
+| GH     |  1  | GK       | kl  | EP         | 49  |
 
 |          Bewaffnung          |
 | :--------------------------: |

@@ -5,15 +5,15 @@
 - Klasse: Krieger 10
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
-|  KÖR   |  7  |   AGI    |  8  |    GEI     |  5  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  5  |    BE    |  3  |     VE     |  1  |
-|   HÄ   |  6  |    GE    |  1  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 32  |  Abwehr  | 19  | Initiative | 11  |
+| KÖR    |  7  | AGI      |  8  | GEI        |  5  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  5  | BE       |  3  | VE         |  1  |
+| HÄ     |  6  | GE       |  1  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 32  | Abwehr   | 19  | Initiative | 11  |
 | Laufen | 6.5 | Schlagen | 17  | Schiessen  | 10  |
-|        |     |          |     |            |     |     |
-|   GH   |  5  |    GK    | kl  |     EP     | 75  |
+|        |     |          |     |            |     |
+| GH     |  5  | GK       | kl  | EP         | 75  |
 
 |                          Bewaffnung                          |
 | :----------------------------------------------------------: |

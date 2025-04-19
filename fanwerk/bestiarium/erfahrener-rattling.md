@@ -5,15 +5,15 @@
 - Klasse: Späher 5
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
-|  KÖR   |  6  |   AGI    |  8  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  0  |    BE    |  4  |     VE     |  1  |
-|   HÄ   |  3  |    GE    |  6  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 22  |  Abwehr  | 12  | Initiative | 12  |
+| KÖR    |  6  | AGI      |  8  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  0  | BE       |  4  | VE         |  1  |
+| HÄ     |  3  | GE       |  6  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 22  | Abwehr   | 12  | Initiative | 12  |
 | Laufen |  6  | Schlagen |  7  | Schiessen  | 17  |
-|        |     |          |     |            |     |     |
-|   GH   |  1  |    GK    | kl  |     EP     | 61  |
+|        |     |          |     |            |     |
+| GH     |  1  | GK       | kl  | EP         | 61  |
 
 |                    Bewaffnung                    |
 | :----------------------------------------------: |

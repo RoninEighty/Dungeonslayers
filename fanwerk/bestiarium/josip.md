@@ -6,15 +6,15 @@
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 - Modifikation: Heroisch
 
-|  KÖR   | 10  |   AGI    |  8  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  4  |    BE    | 10  |     VE     |  2  |
-|   HÄ   |  4  |    GE    |  5  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 60  |  Abwehr  | 19  | Initiative | 40  |
+| KÖR    | 10  | AGI      |  8  | GEI        |  8  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  4  | BE       | 10  | VE         |  2  |
+| HÄ     |  4  | GE       |  5  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 60  | Abwehr   | 19  | Initiative | 40  |
 | Laufen |  5  | Schlagen | 19  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 10  |    GK    | kl  |     EP     | 234 |
+|        |     |          |     |            |     |
+| GH     | 10  | GK       | kl  | EP         | 234 |
 
 |                 Bewaffnung                  |
 | :-----------------------------------------: |

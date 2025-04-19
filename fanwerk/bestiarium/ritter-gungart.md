@@ -3,16 +3,16 @@
 - Gruppe: Untote
 - Modifikation: Heroisch
 
-|   KÖR   |  7  |    AGI     |  6  |    GEI     |  9  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    | 17  |     BE     |  0  |     VE     |  8  |
-|   HÄ    | 21  |     GE     |  4  |     AU     |  8  |
-|         |     |            |     |            |     |     |
-|   LK    | 190 |   Abwehr   | 33  | Initiative |  6  |
-| Laufen  |  4  |  Schlagen  | 24  | Schiessen  |     |
+| KÖR     |  7  | AGI        |  6  | GEI        |  9  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      | 17  | BE         |  0  | VE         |  8  |
+| HÄ      | 21  | GE         |  4  | AU         |  8  |
+|         |     |            |     |            |     |
+| LK      | 190 | Abwehr     | 33  | Initiative |  6  |
+| Laufen  |  4  | Schlagen   | 24  | Schiessen  |     |
 | Zaubern | 17  | Zielzauber | 20  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    | 23  |     GK     | no  |     EP     | 690 |
+|         |     |            |     |            |     |
+| GH      | 23  | GK         | no  | EP         | 690 |
 
 | Bewaffnung |
 | :--------: |

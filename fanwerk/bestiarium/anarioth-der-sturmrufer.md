@@ -5,16 +5,16 @@
 - Klasse: Zauberer 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
-|   KÖR   |  5  |    AGI     |  7  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  0  |     BE     |  0  |     VE     |  2  |
-|   HÄ    |  0  |     GE     |  5  |     AU     |  4  |
-|         |     |            |     |            |     |     |
-|   LK    | 15  |   Abwehr   |  5  | Initiative |  7  |
-| Laufen  | 4.5 |  Schlagen  |  6  | Schiessen  |     |
+| KÖR     |  5  | AGI        |  7  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  0  | BE         |  0  | VE         |  2  |
+| HÄ      |  0  | GE         |  5  | AU         |  4  |
+|         |     |            |     |            |     |
+| LK      | 15  | Abwehr     |  5  | Initiative |  7  |
+| Laufen  | 4.5 | Schlagen   |  6  | Schiessen  |     |
 | Zaubern |     | Zielzauber | 16  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | no  |     EP     | 50  |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 50  |
 
 |              Bewaffnung              |
 | :----------------------------------: |

@@ -5,15 +5,15 @@
 - Klasse: Waffenmeister 12
 - Volksfähigkeiten: Talentiert
 
-|  KÖR   |  8  |   AGI    |  6  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   | 11  |    BE    |  1  |     VE     |  0  |
-|   HÄ   |  7  |    GE    |  0  |     AU     |  2  |
-|        |     |          |     |            |     |     |
-|   LK   | 34  |  Abwehr  | 21  | Initiative |  7  |
+| KÖR    |  8  | AGI      |  6  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     | 11  | BE       |  1  | VE         |  0  |
+| HÄ     |  7  | GE       |  0  | AU         |  2  |
+|        |     |          |     |            |     |
+| LK     | 34  | Abwehr   | 21  | Initiative |  7  |
 | Laufen |  4  | Schlagen | 27  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 14  |    GK    | no  |     EP     | 126 |
+|        |     |          |     |            |     |
+| GH     | 14  | GK       | no  | EP         | 126 |
 
 |                               Bewaffnung                               |
 | :--------------------------------------------------------------------: |

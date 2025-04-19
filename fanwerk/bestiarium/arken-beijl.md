@@ -5,16 +5,16 @@
 - Klasse: Dämonologe 15
 - Volksfähigkeiten: Talentiert
 
-|   KÖR   |  4  |    AGI     |  6  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  0  |     BE     |  1  |     VE     |  7  |
-|   HÄ    |  4  |     GE     |  4  |     AU     |  8  |
-|         |     |            |     |            |     |     |
-|   LK    | 27  |   Abwehr   | 10  | Initiative |  8  |
-| Laufen  |  4  |  Schlagen  |  6  | Schiessen  |     |
+| KÖR     |  4  | AGI        |  6  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  0  | BE         |  1  | VE         |  7  |
+| HÄ      |  4  | GE         |  4  | AU         |  8  |
+|         |     |            |     |            |     |
+| LK      | 27  | Abwehr     | 10  | Initiative |  8  |
+| Laufen  |  4  | Schlagen   |  6  | Schiessen  |     |
 | Zaubern | 16  | Zielzauber | 14  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | no  |     EP     | 108 |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 108 |
 
 |                            Bewaffnung                            |
 | :--------------------------------------------------------------: |

@@ -2,15 +2,15 @@
 
 - Gruppe: Humanoide
 
-|  KÖR   | 18  |   AGI    |  4  |    GEI     |  5  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  5  |    BE    |  2  |     VE     |  3  |
-|   HÄ   |  6  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 68  |  Abwehr  | 25  | Initiative |  6  |
+| KÖR    | 18  | AGI      |  4  | GEI        |  5  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  5  | BE       |  2  | VE         |  3  |
+| HÄ     |  6  | GE       |  0  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 68  | Abwehr   | 25  | Initiative |  6  |
 | Laufen | 3.5 | Schlagen | 26  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 22  |    GK    | gr  |     EP     | 168 |
+|        |     |          |     |            |     |
+| GH     | 22  | GK       | gr  | EP         | 168 |
 
 |       Bewaffnung        |
 | :---------------------: |

@@ -2,15 +2,15 @@
 
 - Gruppe: Magische Wesen
 
-|  KÖR   |  4  |   AGI    |  6  |    GEI     |  1  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  0  |    BE    |  2  |     VE     |  0  |
-|   HÄ   |  2  |    GE    |  3  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   |  8  |  Abwehr  | 14  | Initiative |  8  |
+| KÖR    |  4  | AGI      |  6  | GEI        |  1  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  0  | BE       |  2  | VE         |  0  |
+| HÄ     |  2  | GE       |  3  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     |  8  | Abwehr   | 14  | Initiative |  8  |
 | Laufen |  4  | Schlagen |  4  | Schiessen  | 10  |
-|        |     |          |     |            |     |     |
-|   GH   |  9  |    GK    | kl  |     EP     | 185 |
+|        |     |          |     |            |     |
+| GH     |  9  | GK       | kl  | EP         | 185 |
 
 |        Bewaffnung        |
 | :----------------------: |

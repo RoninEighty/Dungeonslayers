@@ -5,15 +5,15 @@
 - Klasse: Paladin 15
 - Volksfähigkeiten: Talentiert
 
-|  KÖR   |  7  |   AGI    |  7  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   | 10  |    BE    |  2  |     VE     |  2  |
-|   HÄ   |  9  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 32  |  Abwehr  | 19  | Initiative |  6  |
+| KÖR    |  7  | AGI      |  7  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     | 10  | BE       |  2  | VE         |  2  |
+| HÄ     |  9  | GE       |  0  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 32  | Abwehr   | 19  | Initiative |  6  |
 | Laufen |  4  | Schlagen | 23  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 11  |    GK    | no  |     EP     | 121 |
+|        |     |          |     |            |     |
+| GH     | 11  | GK       | no  | EP         | 121 |
 
 |            Bewaffnung             |
 | :-------------------------------: |

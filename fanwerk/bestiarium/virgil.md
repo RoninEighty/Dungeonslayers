@@ -5,15 +5,15 @@
 - Klasse: Späher 6
 - Volksfähigkeiten: Dunkelsicht, Langlebig, Zäh
 
-|  KÖR   |  6  |   AGI    |  8  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  0  |    BE    |  6  |     VE     |  2  |
-|   HÄ   |  2  |    GE    |  5  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 18  |  Abwehr  |  9  | Initiative | 14  |
+| KÖR    |  6  | AGI      |  8  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  0  | BE       |  6  | VE         |  2  |
+| HÄ     |  2  | GE       |  5  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 18  | Abwehr   |  9  | Initiative | 14  |
 | Laufen |  5  | Schlagen |  6  | Schiessen  | 16  |
-|        |     |          |     |            |     |     |
-|   GH   |  1  |    GK    | no  |     EP     | 53  |
+|        |     |          |     |            |     |
+| GH     |  1  | GK       | no  | EP         | 53  |
 
 | Bewaffnung |
 | :--------: |

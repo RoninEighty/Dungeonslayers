@@ -5,16 +5,16 @@
 - Klasse: Schwarzmagier 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
-|   KÖR   |  6  |    AGI     |  6  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  2  |     BE     |  2  |     VE     |  2  |
-|   HÄ    |  2  |     GE     |  2  |     AU     |  1  |
-|         |     |            |     |            |     |     |
-|   LK    | 18  |   Abwehr   |  8  | Initiative |  9  |
-| Laufen  |  4  |  Schlagen  |  9  | Schiessen  |     |
+| KÖR     |  6  | AGI        |  6  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  2  | BE         |  2  | VE         |  2  |
+| HÄ      |  2  | GE         |  2  | AU         |  1  |
+|         |     |            |     |            |     |
+| LK      | 18  | Abwehr     |  8  | Initiative |  9  |
+| Laufen  |  4  | Schlagen   |  9  | Schiessen  |     |
 | Zaubern |     | Zielzauber | 12  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | no  |     EP     | 53  |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 53  |
 
 |                     Bewaffnung                      |
 | :-------------------------------------------------: |

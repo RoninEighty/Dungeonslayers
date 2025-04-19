@@ -5,16 +5,16 @@
 - Klasse: Schwarzmagier 8
 - Volksfähigkeiten: Talentiert
 
-|   KÖR   |  8  |    AGI     |  4  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  0  |     BE     |  0  |     VE     |  3  |
-|   HÄ    |  4  |     GE     |  5  |     AU     |  6  |
-|         |     |            |     |            |     |     |
-|   LK    | 31  |   Abwehr   | 12  | Initiative |  6  |
-| Laufen  |  6  |  Schlagen  |  8  | Schiessen  |     |
+| KÖR     |  8  | AGI        |  4  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  0  | BE         |  0  | VE         |  3  |
+| HÄ      |  4  | GE         |  5  | AU         |  6  |
+|         |     |            |     |            |     |
+| LK      | 31  | Abwehr     | 12  | Initiative |  6  |
+| Laufen  |  6  | Schlagen   |  8  | Schiessen  |     |
 | Zaubern | 14  | Zielzauber | 17  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  2  |     GK     | no  |     EP     | 86  |
+|         |     |            |     |            |     |
+| GH      |  2  | GK         | no  | EP         | 86  |
 
 | Bewaffnung |
 | :--------: |

@@ -5,16 +5,16 @@
 - Klasse: Schwarzmagier 6
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
-|   KÖR   |  5  |    AGI     |  7  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  0  |     BE     |  1  |     VE     |  3  |
-|   HÄ    |  1  |     GE     |  6  |     AU     |  5  |
-|         |     |            |     |            |     |     |
-|   LK    | 19  |   Abwehr   |  6  | Initiative |  8  |
-| Laufen  | 4.5 |  Schlagen  |  6  | Schiessen  |     |
+| KÖR     |  5  | AGI        |  7  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  0  | BE         |  1  | VE         |  3  |
+| HÄ      |  1  | GE         |  6  | AU         |  5  |
+|         |     |            |     |            |     |
+| LK      | 19  | Abwehr     |  6  | Initiative |  8  |
+| Laufen  | 4.5 | Schlagen   |  6  | Schiessen  |     |
 | Zaubern | 13  | Zielzauber | 15  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | kl  |     EP     | 71  |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | kl  | EP         | 71  |
 
 |              Bewaffnung              |
 | :----------------------------------: |

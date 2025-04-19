@@ -5,16 +5,16 @@
 - Klasse: Zauberer 5
 - Volksfähigkeiten: Talentiert
 
-|   KÖR   |  8  |    AGI     |  4  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  1  |     BE     |  0  |     VE     |  3  |
-|   HÄ    |  1  |     GE     |  5  |     AU     |  4  |
-|         |     |            |     |            |     |     |
-|   LK    | 28  |   Abwehr   | 10  | Initiative |  4  |
-| Laufen  |  3  |  Schlagen  | 10  | Schiessen  |     |
+| KÖR     |  8  | AGI        |  4  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  1  | BE         |  0  | VE         |  3  |
+| HÄ      |  1  | GE         |  5  | AU         |  4  |
+|         |     |            |     |            |     |
+| LK      | 28  | Abwehr     | 10  | Initiative |  4  |
+| Laufen  |  3  | Schlagen   | 10  | Schiessen  |     |
 | Zaubern | 12  | Zielzauber | 14  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | no  |     EP     | 76  |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 76  |
 
 |              Bewaffnung              |
 | :----------------------------------: |

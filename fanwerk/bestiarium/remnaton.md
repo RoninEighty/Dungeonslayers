@@ -3,15 +3,15 @@
 - Gruppe: Untote
 - Modifikation: Episch
 
-|  KÖR   | 12  |   AGI    | 12  |    GEI     | 12  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  3  |    BE    |  3  |     VE     |  3  |
-|   HÄ   |  3  |    GE    |  3  |     AU     |  3  |
-|        |     |          |     |            |     |     |
-|   LK   | 250 |  Abwehr  | 19  | Initiative | 15  |
+| KÖR    | 12  | AGI      | 12  | GEI        | 12  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  3  | BE       |  3  | VE         |  3  |
+| HÄ     |  3  | GE       |  3  | AU         |  3  |
+|        |     |          |     |            |     |
+| LK     | 250 | Abwehr   | 19  | Initiative | 15  |
 | Laufen |  7  | Schlagen | 25  | Schiessen  | 20  |
-|        |     |          |     |            |     |     |
-|   GH   | 33  |    GK    | no  |     EP     | 852 |
+|        |     |          |     |            |     |
+| GH     | 33  | GK       | no  | EP         | 852 |
 
 |                    Bewaffnung                     |
 | :-----------------------------------------------: |

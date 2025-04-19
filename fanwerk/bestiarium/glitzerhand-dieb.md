@@ -5,15 +5,15 @@
 - Klasse: Späher 6
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
-|  KÖR   |  6  |   AGI    |  8  |    GEI     |  6  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  0  |    BE    |  2  |     VE     |  4  |
-|   HÄ   |  2  |    GE    |  7  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 18  |  Abwehr  | 10  | Initiative | 12  |
+| KÖR    |  6  | AGI      |  8  | GEI        |  6  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  0  | BE       |  2  | VE         |  4  |
+| HÄ     |  2  | GE       |  7  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 18  | Abwehr   | 10  | Initiative | 12  |
 | Laufen |  5  | Schlagen |  7  | Schiessen  | 18  |
-|        |     |          |     |            |     |     |
-|   GH   |  1  |    GK    | no  |     EP     | 58  |
+|        |     |          |     |            |     |
+| GH     |  1  | GK       | no  | EP         | 58  |
 
 |                       Bewaffnung                        |
 | :-----------------------------------------------------: |

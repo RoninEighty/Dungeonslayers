@@ -2,15 +2,15 @@
 
 - Gruppe: Konstrukte
 
-|  KÖR   | 11  |   AGI    |  6  |    GEI     |  3  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  4  |    BE    |  0  |     VE     |  2  |
-|   HÄ   |  5  |    GE    |  3  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 26  |  Abwehr  | 16  | Initiative |  6  |
+| KÖR    | 11  | AGI      |  6  | GEI        |  3  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  4  | BE       |  0  | VE         |  2  |
+| HÄ     |  5  | GE       |  3  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 26  | Abwehr   | 16  | Initiative |  6  |
 | Laufen |  4  | Schlagen | 18  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 10  |    GK    | no  |     EP     | 100 |
+|        |     |          |     |            |     |
+| GH     | 10  | GK       | no  | EP         | 100 |
 
 |  Bewaffnung   |
 | :-----------: |

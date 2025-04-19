@@ -5,16 +5,16 @@
 - Klasse: Kriegszauberer 14
 - Volksfähigkeiten: Talentiert
 
-|   KÖR   |  7  |    AGI     |  5  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  4  |     BE     |  0  |     VE     |  8  |
-|   HÄ    |  2  |     GE     |  6  |     AU     |  0  |
-|         |     |            |     |            |     |     |
-|   LK    | 19  |   Abwehr   | 11  | Initiative |  7  |
-| Laufen  | 3.5 |  Schlagen  | 18  | Schiessen  |     |
+| KÖR     |  7  | AGI        |  5  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  4  | BE         |  0  | VE         |  8  |
+| HÄ      |  2  | GE         |  6  | AU         |  0  |
+|         |     |            |     |            |     |
+| LK      | 19  | Abwehr     | 11  | Initiative |  7  |
+| Laufen  | 3.5 | Schlagen   | 18  | Schiessen  |     |
 | Zaubern |  8  | Zielzauber | 14  |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  2  |     GK     | no  |     EP     | 110 |
+|         |     |            |     |            |     |
+| GH      |  2  | GK         | no  | EP         | 110 |
 
 |                           Bewaffnung                            |
 | :-------------------------------------------------------------: |

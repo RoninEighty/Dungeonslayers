@@ -2,15 +2,15 @@
 
 - Gruppe: Pflanzenwesen
 
-|  KÖR   | 20  |   AGI    |  1  |    GEI     |  1  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  5  |    BE    |  0  |     VE     |  0  |
-|   HÄ   |  5  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 70  |  Abwehr  | 27  | Initiative |  1  |
+| KÖR    | 20  | AGI      |  1  | GEI        |  1  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  5  | BE       |  0  | VE         |  0  |
+| HÄ     |  5  | GE       |  0  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 70  | Abwehr   | 27  | Initiative |  1  |
 | Laufen |  2  | Schlagen | 27  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   | 23  |    GK    | gr  |     EP     | 157 |
+|        |     |          |     |            |     |
+| GH     | 23  | GK       | gr  | EP         | 157 |
 
 |   Bewaffnung    |
 | :-------------: |

@@ -5,15 +5,15 @@
 - Klasse: Krieger 1
 - Volksfähigkeiten: Talentiert
 
-|  KÖR   |  8  |   AGI    |  8  |    GEI     |  4  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  5  |    BE    |  0  |     VE     |  0  |
-|   HÄ   |  5  |    GE    |  0  |     AU     |  0  |
-|        |     |          |     |            |     |     |
-|   LK   | 26  |  Abwehr  | 14  | Initiative |  6  |
+| KÖR    |  8  | AGI      |  8  | GEI        |  4  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  5  | BE       |  0  | VE         |  0  |
+| HÄ     |  5  | GE       |  0  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 26  | Abwehr   | 14  | Initiative |  6  |
 | Laufen |  5  | Schlagen | 16  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   |  4  |    GK    | no  |     EP     | 59  |
+|        |     |          |     |            |     |
+| GH     |  4  | GK       | no  | EP         | 59  |
 
 |          Bewaffnung           |
 | :---------------------------: |

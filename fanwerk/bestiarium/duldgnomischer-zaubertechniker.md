@@ -5,16 +5,16 @@
 - Klasse: Zauberer 1
 - Volksfähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen
 
-|   KÖR   |  6  |    AGI     |  6  |    GEI     |  8  |
-| :-----: | :-: | :--------: | :-: | :--------: | :-: | --- |
-|   ST    |  2  |     BE     |  0  |     VE     |  2  |
-|   HÄ    |  0  |     GE     |  4  |     AU     |  3  |
-|         |     |            |     |            |     |     |
-|   LK    | 16  |   Abwehr   |  7  | Initiative |  6  |
-| Laufen  |  4  |  Schlagen  |  9  | Schiessen  |     |
+| KÖR     |  6  | AGI        |  6  | GEI        |  8  |
+| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| ST      |  2  | BE         |  0  | VE         |  2  |
+| HÄ      |  0  | GE         |  4  | AU         |  3  |
+|         |     |            |     |            |     |
+| LK      | 16  | Abwehr     |  7  | Initiative |  6  |
+| Laufen  |  4  | Schlagen   |  9  | Schiessen  |     |
 | Zaubern | 12  | Zielzauber |     |            |     |
-|         |     |            |     |            |     |     |
-|   GH    |  1  |     GK     | kl  |     EP     | 60  |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | kl  | EP         | 60  |
 
 |     Bewaffnung      |
 | :-----------------: |

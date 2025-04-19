@@ -5,15 +5,15 @@
 - Klasse: Späher 1
 - Volksfähigkeiten: Talentiert
 
-|  KÖR   |  6  |   AGI    |  6  |    GEI     |  8  |
-| :----: | :-: | :------: | :-: | :--------: | :-: | --- |
-|   ST   |  0  |    BE    |  0  |     VE     |  4  |
-|   HÄ   |  0  |    GE    |  1  |     AU     |  5  |
-|        |     |          |     |            |     |     |
-|   LK   | 16  |  Abwehr  |  7  | Initiative |  7  |
+| KÖR    |  6  | AGI      |  6  | GEI        |  8  |
+| ------ | :-: | -------- | :-: | ---------- | :-: |
+| ST     |  0  | BE       |  0  | VE         |  4  |
+| HÄ     |  0  | GE       |  1  | AU         |  5  |
+|        |     |          |     |            |     |
+| LK     | 16  | Abwehr   |  7  | Initiative |  7  |
 | Laufen |  4  | Schlagen |  6  | Schiessen  |     |
-|        |     |          |     |            |     |     |
-|   GH   |  1  |    GK    | no  |     EP     | 47  |
+|        |     |          |     |            |     |
+| GH     |  1  | GK       | no  | EP         | 47  |
 
 |  Bewaffnung   |
 | :-----------: |
