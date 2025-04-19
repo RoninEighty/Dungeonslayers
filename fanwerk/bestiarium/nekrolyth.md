@@ -3,7 +3,7 @@
 - Gruppe: Untote
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  1  | VE         |  5  |
 | HÄ      |  2  | GE         |  5  | AU         |  6  |
 |         |     |            |     |            |     |
@@ -27,7 +27,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Flackern (-2), Fluch (-(GEI+AU)/2), Kleiner Terror[!] (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken, Magische Waffe, Schweben, Skelette erwecken, Spionage, Volksgestalt (-4), Öffnen (-SW)
+**Zauber:** Flackern (-2), Fluch (-(GEI+AU)/2), Kleiner Terror [!] (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken, Magische Waffe, Schweben, Skelette erwecken, Spionage, Volksgestalt (-4), Öffnen (-SW)
 
 **Zielzauber:** Schatten (-(AGI+AU)/2), _Schattenpfeil (+2)_
 

@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  4  | AGI        |  8  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  6  |
 | HÄ      |  4  | GE         |  2  | AU         |  5  |
 |         |     |            |     |            |     |
@@ -24,7 +24,7 @@
 | :---------: |
 | Robe (PA+2) |
 
-**Zauber:** Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Terror[!] (-(GEI+VE)/2), Totengespräch, Verwirren[!] (-(GEI+AU)/2), Zombies erwecken, Öffnen (-SW)
+**Zauber:** Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Terror [!] (-(GEI+VE)/2), Totengespräch, Verwirren [!] (-(GEI+AU)/2), Zombies erwecken, Öffnen (-SW)
 
 **Zielzauber:** Feuerball (+3), Schattenpfeil (+2)
 

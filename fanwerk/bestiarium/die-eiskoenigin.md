@@ -7,7 +7,7 @@
 - Modifikation: Episch
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         | 10  |
 | HÄ      |  4  | GE         |  4  | AU         | 14  |
 |         |     |            |     |            |     |
@@ -43,7 +43,7 @@
 
 **Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Bannen (-(KÖR+AU)/2), Ebenentor (-8), Elementar herbeirufen (-Stufe x5), Elementar herbeirufen (-Stufe x5), Fliegen, Gasgestalt, Kältefront (+4), Schutzfeld, Schutzschild, Tarnender Nebel (-2), Tierbeherrschung[!] (-LK/2), Wasserwandeln (+5), Zeitstop (-5)
+**Zauber:** Bannen (-(KÖR+AU)/2), Ebenentor (-8), Elementar herbeirufen (-Stufe x5), Elementar herbeirufen (-Stufe x5), Fliegen, Gasgestalt, Kältefront (+4), Schutzfeld, Schutzschild, Tarnender Nebel (-2), Tierbeherrschung [!] (-LK/2), Wasserwandeln (+5), Zeitstop (-5)
 
 **Zielzauber:** Eisbombe (+9), Eishauch (+9), Frostschock (+9), Frostwaffe (+5), Kältekegel (+8), Kältestrahl (+7), Schatten (-(AGI+AU)/2)
 

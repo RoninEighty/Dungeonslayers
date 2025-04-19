@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  5  | GEI        | 10  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  7  |
 | HÄ      |  0  | GE         |  1  | AU         |  9  |
 |         |     |            |     |            |     |
@@ -42,7 +42,7 @@
 
 **Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
 
-**Zauber:** Fluch (-(GEI+AU)/2), Gehorche[!] (-(GEI+VE)/2+1), Magische Waffe, Spionage, Tarnender Nebel (-2), Terror[!] (-(GEI+VE)/2+1), Tierbeherrschung[!] (-LK/2+1), Totengespräch, Verwirren[!] (-(GEI+AU)/2+1)
+**Zauber:** Fluch (-(GEI+AU)/2), Gehorche [!] (-(GEI+VE)/2+1), Magische Waffe, Spionage, Tarnender Nebel (-2), Terror [!] (-(GEI+VE)/2+1), Tierbeherrschung [!] (-LK/2+1), Totengespräch, Verwirren [!] (-(GEI+AU)/2+1)
 
 **Zielzauber:** Halt (-(KÖR+AU)/2)
 

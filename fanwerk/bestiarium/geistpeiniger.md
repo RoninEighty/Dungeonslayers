@@ -3,7 +3,7 @@
 - Gruppe: Magische Wesen
 
 | KÖR     | 14  | AGI        | 11  | GEI        | 19  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  3  | BE         |  0  | VE         |  5  |
 | HÄ      |  4  | GE         |  4  | AU         |  6  |
 |         |     |            |     |            |     |
@@ -31,7 +31,7 @@
 
 **Werteverlust:** Pro schadensverursachenden Treffer wird Attribut um 1 gesenkt (bei Attribut Null ist das Opfer tot). Pro Tag oder Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert
 
-**Zauber:** Ebenentor (-8), Fliegen, Freund[!] (-(GEI+VE)/2), Gehorche[!] (-(GEI+VE)/2), Kleiner Terror[!] (-(GEI+VE)/2), _Verwirren[!] (-(GEI+AU)/2)_
+**Zauber:** Ebenentor (-8), Fliegen, Freund [!] (-(GEI+VE)/2), Gehorche [!] (-(GEI+VE)/2), Kleiner Terror [!] (-(GEI+VE)/2), _Verwirren [!] (-(GEI+AU)/2)_
 
 **Zielzauber:**
 

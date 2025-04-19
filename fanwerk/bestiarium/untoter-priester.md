@@ -3,7 +3,7 @@
 - Gruppe: Untote
 
 | KÖR     |  4  | AGI        |  8  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  2  | VE         |  0  |
 | HÄ      |  2  | GE         |  4  | AU         |  4  |
 |         |     |            |     |            |     |
@@ -27,7 +27,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** _Kleiner Terror[!] (-(GEI+VE)/2)_
+**Zauber:** _Kleiner Terror [!] (-(GEI+VE)/2)_
 
 **Zielzauber:** Kettenblitz (+3), Schattenpfeil (+2)
 

@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
 | KÖR    |  7  | AGI      |  8  | GEI        |  5  |
-| ------ | :-: | -------- | :-: | ---------- | :-: |
+| :----- | :-: | :------- | :-: | :--------- | :-: |
 | ST     |  5  | BE       |  3  | VE         |  1  |
 | HÄ     |  6  | GE       |  1  | AU         |  0  |
 |        |     |          |     |            |     |

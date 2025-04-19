@@ -3,7 +3,7 @@
 - Gruppe: Untote
 
 | KÖR     |  7  | AGI        |  6  | GEI        |  9  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      | 17  | BE         |  0  | VE         |  8  |
 | HÄ      | 21  | GE         |  4  | AU         |  8  |
 |         |     |            |     |            |     |
@@ -31,7 +31,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Arkanes Schwert, Ebenentor (-8), Einschläfern[!] (-(KÖR+VE)/2), Gasgestalt, Gehorche[!] (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magisches Schloss, Schatten erwecken, Skelette erwecken, Springen, Trugbild[!] (-2), _Unsichtbarkeit_, Verwirren[!] (-(GEI+AU)/2), Wandöffnung, Wolke des Todes (-4), Zeitstop (-5)
+**Zauber:** Arkanes Schwert, Ebenentor (-8), Einschläfern [!] (-(KÖR+VE)/2), Gasgestalt, Gehorche [!] (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magisches Schloss, Schatten erwecken, Skelette erwecken, Springen, Trugbild [!] (-2), _Unsichtbarkeit_, Verwirren [!] (-(GEI+AU)/2), Wandöffnung, Wolke des Todes (-4), Zeitstop (-5)
 
 **Zielzauber:** Flammeninferno (+5), Frostschock (+3), Netz (-(AGI+ST)/2), Schatten (-(AGI+AU)/2), Schattenlanze (+5), Stolpern (-(AGI+AU)/2)
 

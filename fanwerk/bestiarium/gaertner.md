@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |
-| ------ | :-: | -------- | :-: | ---------- | :-: |
+| :----- | :-: | :------- | :-: | :--------- | :-: |
 | ST     |  0  | BE       |  2  | VE         |  2  |
 | HÄ     |  2  | GE       |  4  | AU         |  0  |
 |        |     |          |     |            |     |

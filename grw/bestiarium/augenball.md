@@ -3,7 +3,7 @@
 - Gruppe: Magische Wesen
 
 | KÖR     |  8  | AGI        |  4  | GEI        | 10  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  2  |
 | HÄ      |  4  | GE         |  2  | AU         |  3  |
 |         |     |            |     |            |     |
@@ -33,7 +33,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Einschläfern[!] (-(KÖR+VE)/2), Gehorche[!] (-(GEI+VE)/2), Schutzfeld, Schutzschild, Unsichtbarkeit, Verwirren[!] (-(GEI+AU)/2)
+**Zauber:** Einschläfern [!] (-(KÖR+VE)/2), Gehorche [!] (-(GEI+VE)/2), Schutzfeld, Schutzschild, Unsichtbarkeit, Verwirren [!] (-(GEI+AU)/2)
 
 **Zielzauber:** Blenden (-(AGI+AU)/2), Kettenblitz (+3), Schleudern (-(KÖR+AU)/2), Telekinese (-1/Stufe x5 kg)
 

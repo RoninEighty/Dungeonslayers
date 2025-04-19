@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  8  | AGI        |  4  | GEI        |  9  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  4  |
 | HÄ      |  0  | GE         |  5  | AU         |  9  |
 |         |     |            |     |            |     |
@@ -44,7 +44,7 @@
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Einschläfern[!] (-(KÖR+VE)/2+2), Flackern, Freund[!] (-(GEI+VE)/2+2), Giftbann, Heilbeeren (+2), Heilende Aura (+2), Heilende Hand (+3), Licht (+5), Schutzschild (+2), Schweben, Segen, Wächter
+**Zauber:** Einschläfern [!] (-(KÖR+VE)/2+2), Flackern, Freund [!] (-(GEI+VE)/2+2), Giftbann, Heilbeeren (+2), Heilende Aura (+2), Heilende Hand (+3), Licht (+5), Schutzschild (+2), Schweben, Segen, Wächter
 
 **Zielzauber:** Halt (-(KÖR+AU)/2)
 

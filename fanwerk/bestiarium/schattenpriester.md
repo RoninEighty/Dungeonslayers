@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  8  | GEI        |  7  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  5  |
 | HÄ      |  0  | GE         |  6  | AU         |  2  |
 |         |     |            |     |            |     |
@@ -24,7 +24,7 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Zauber:** Skelette erwecken, Verwirren[!] (-(GEI+AU)/2)
+**Zauber:** Skelette erwecken, Verwirren [!] (-(GEI+AU)/2)
 
 **Zielzauber:** Niesanfall (-(KÖR+AU)/2), Schatten (-(AGI+AU)/2), Schattenpfeil (+2)
 

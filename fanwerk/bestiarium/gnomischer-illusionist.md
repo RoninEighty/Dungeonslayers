@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  2  |
 | HÄ      |  0  | GE         |  4  | AU         |  5  |
 |         |     |            |     |            |     |

@@ -3,7 +3,7 @@
 - Gruppe: Humanoide
 
 | KÖR     |  3  | AGI        |  5  | GEI        |  7  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  4  |
 | HÄ      |  1  | GE         |  2  | AU         |  4  |
 |         |     |            |     |            |     |
@@ -25,7 +25,7 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** _Einschläfern[!] (-(KÖR+VE)/2)_
+**Zauber:** _Einschläfern [!] (-(KÖR+VE)/2)_
 
 **Zielzauber:** Feuerstrahl (+1)
 

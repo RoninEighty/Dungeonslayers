@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
 | KÖR     |  5  | AGI        |  7  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  1  | VE         |  3  |
 | HÄ      |  1  | GE         |  6  | AU         |  5  |
 |         |     |            |     |            |     |
@@ -40,7 +40,7 @@
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Tarnender Nebel (-2), Verwirren[!] (-(GEI+AU)/2)
+**Zauber:** Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Tarnender Nebel (-2), Verwirren [!] (-(GEI+AU)/2)
 
 **Zielzauber:** Feuerstrahl (+3), Schatten (-(AGI+AU)/2)
 

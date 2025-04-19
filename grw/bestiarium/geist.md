@@ -3,7 +3,7 @@
 - Gruppe: Untote
 
 | KÖR     |  1  | AGI        | 11  | GEI        | 10  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      | 16  | BE         |  0  | VE         |  3  |
 | HÄ      | 16  | GE         |  2  | AU         |  6  |
 |         |     |            |     |            |     |
@@ -39,7 +39,7 @@
 
 **Wesen der Dunkelheit / Wesen des Lichts (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit bzw. des Lichts. Angewendete Regeln für Wesen des Lichts gelten für diese Kreatur.
 
-**Zauber:** _Terror[!] (-(GEI+VE)/2)_
+**Zauber:** _Terror [!] (-(GEI+VE)/2)_
 
 **Zielzauber:**
 

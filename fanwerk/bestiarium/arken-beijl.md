@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  4  | AGI        |  6  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  1  | VE         |  7  |
 | HÄ      |  4  | GE         |  4  | AU         |  8  |
 |         |     |            |     |            |     |
@@ -34,7 +34,7 @@
 
 **Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Fliegen, Glühender Glaube (-2), Schutzschild, Terror[!] (-(GEI+VE)/2)
+**Zauber:** Fliegen, Glühender Glaube (-2), Schutzschild, Terror [!] (-(GEI+VE)/2)
 
 **Zielzauber:** Feuerball (+3), Feuerlanze (+2), Flammeninferno (+5), Niesanfall (-(KÖR+AU)/2)
 

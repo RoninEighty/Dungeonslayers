@@ -7,7 +7,7 @@
 - Modifikation: Heroisch
 
 | KÖR     |  7  | AGI        |  5  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  3  | BE         |  0  | VE         |  5  |
 | HÄ      |  6  | GE         |  5  | AU         | 10  |
 |         |     |            |     |            |     |
@@ -55,7 +55,7 @@
 
 **Zaubermacht II:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Erdspalt (-4), Flackern (-2), Fluch (-(GEI+AU)/2), Gehorche[!] (-(GEI+VE)/2), Lauschen (-1/10m), Magische Waffe, Magisches Schloss, Schutzschild, Tarnender Nebel (-2), Terror[!] (-(GEI+VE)/2), Unsichtbarkeit, Verwirren[!] (-(GEI+AU)/2), Volksgestalt (-4), Wahnsinn (-(GEI+AU)/2), Wolke des Todes (-4)
+**Zauber:** Erdspalt (-4), Flackern (-2), Fluch (-(GEI+AU)/2), Gehorche [!] (-(GEI+VE)/2), Lauschen (-1/10m), Magische Waffe, Magisches Schloss, Schutzschild, Tarnender Nebel (-2), Terror [!] (-(GEI+VE)/2), Unsichtbarkeit, Verwirren [!] (-(GEI+AU)/2), Volksgestalt (-4), Wahnsinn (-(GEI+AU)/2), Wolke des Todes (-4)
 
 **Zielzauber:** Blut kochen (-(KÖR+AU)/2), Feueratem (+4), Feuerstrahl (+2), Halt (-(KÖR+AU)/2), Schatten (-(AGI+AU)/2), Schattenpfeil (+2), Schweig (-(GEI+AU)/2)
 

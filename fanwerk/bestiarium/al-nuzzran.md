@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  9  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  2  | BE         |  8  | VE         |  5  |
 | HÄ      |  0  | GE         |  0  | AU         |  7  |
 |         |     |            |     |            |     |
@@ -40,7 +40,7 @@
 
 **Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Dämonen beschwören (-(KÖR+AU)+BB), Ebenentor (-8), Erdspalt (-4), Kontrollieren (-(GEI+AU)/2), Trugbild[!] (-2), Versetzte Stimme (-1/10m), Wächter, Zaubertrick, Zombies erwecken
+**Zauber:** Dämonen beschwören (-(KÖR+AU)+BB), Ebenentor (-8), Erdspalt (-4), Kontrollieren (-(GEI+AU)/2), Trugbild [!] (-2), Versetzte Stimme (-1/10m), Wächter, Zaubertrick, Zombies erwecken
 
 **Zielzauber:** Blut kochen (-(KÖR+AU)/2), Feuerstrahl (+2), Flammeninferno (+6), Halt (-(KÖR+AU)/2), Schattenlanze (+5), Schattenpfeil (+2)
 

@@ -6,7 +6,7 @@
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  7  | AGI        |  5  | GEI        |  8  |
-| ------- | :-: | ---------- | :-: | ---------- | :-: |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  1  | BE         |  0  | VE         |  7  |
 | HÄ      |  0  | GE         |  3  | AU         |  9  |
 |         |     |            |     |            |     |
@@ -32,7 +32,7 @@
 
 **Genesung II:** KÖR +1 nach Tod einmalig wiederherstellen pro Talentrang.
 
-**Zauber:** Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Tarnender Nebel (-2), Terror[!] (-(GEI+VE)/2), Totengespräch, Verteidigung, Verwirren[!] (-(GEI+AU)/2), Öffnen (-SW)
+**Zauber:** Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Tarnender Nebel (-2), Terror [!] (-(GEI+VE)/2), Totengespräch, Verteidigung, Verwirren [!] (-(GEI+AU)/2), Öffnen (-SW)
 
 **Zielzauber:** Feuerball (+4), Flammenklinge (+1), Netz (-(AGI+ST)/2), Schattenpfeil (+2)
 
