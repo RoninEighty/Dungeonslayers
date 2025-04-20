@@ -8,14 +8,13 @@
 	--container-bg-color: #fff;
 	--container-text-color: #515151;
 	--container-header-color: #313131;
-	--h1-color: white;
-	--h1-text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
 	--h2-bg-color: black;
 	--h2-color: white;
 	--th-border-color: black;
 	--th-bg-color: #ddd;
 	--td-border-color: black;
-
+	--h1-text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+	--h1-color: white;
 	/*
    --text-color: #515151;
    */
@@ -33,9 +32,40 @@
 	--dark-th-bg-color: #1a1a1a;
 	--dark-td-border-color: #333333;
 	--dark-h1-text-shadow: none;
-	
 }
 
+:root[data-theme="light"] {
+	--bg-color: white;
+	--text-color: black;
+	--sidebar-bg-color: black;
+	--sidebar-text-color: white;
+	--footer-text-color: black;
+	--footer-bg-color: whitesmoke;
+	--container-bg-color: #fff;
+	--container-text-color: #515151;
+	--container-header-color: #313131;
+	--th-border-color: black;
+	--th-bg-color: #ddd;
+	--td-border-color: black;
+	--h1-text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+
+:root[data-theme="dark"] {
+	--bg-color: var(--dark-bg-color);
+	--text-color: var(--dark-text-color);
+	--sidebar-bg-color: var(--dark-sidebar-bg-color);
+	--sidebar-text-color: var(--dark-sidebar-text-color);
+	--footer-text-color: var(--dark-footer-text-color);
+	--footer-bg-color: var(--dark-footer-bg-color);
+	--container-bg-color: var(--dark-container-bg-color);
+	--container-text-color: var(--dark-container-text-color);
+	--container-header-color: var(--dark-container-header-color);
+	--th-border-color: var(--dark-th-border-color);
+	--th-bg-color: var(--dark-th-bg-color);
+	--td-border-color: var(--dark-td-border-color);
+	--h1-text-shadow: var(--dark-h1-text-shadow);
+}
+/*
 @media (prefers-color-scheme: dark) {
 	:root {
 		--bg-color: var(--dark-bg-color);
@@ -53,7 +83,7 @@
 		--h1-text-shadow: var(--dark-h1-text-shadow);
 	}
 }
-
+*/
 * {
 	box-sizing: border-box;
 }
