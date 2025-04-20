@@ -1,4 +1,26 @@
 <script>
+    // Theme selection, prevent FOUC (flash of unstyled content)
+    (function() {
+        const userTheme = localStorage.getItem("theme");
+        if (userTheme) {
+          document.documentElement.setAttribute("data-theme", userTheme);
+        } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+          document.documentElement.setAttribute("data-theme", "light");
+        }
+    })();
+
+    function initThemeToggle() {
+        const toggleBtn = document.getElementById('theme-toggle');
+        toggleBtn.addEventListener('click', () => {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+      });
+    }
+    
     function setActiveNavigation() {
       const path = window.location.pathname;
       const entries = document.getElementById('sidebar-nav-links').querySelectorAll('li');
@@ -20,6 +42,7 @@
     }
 
     document.addEventListener('DOMContentLoaded', function(){
-      setActiveNavigation();
+        setActiveNavigation();
+        initThemeToggle();
     });
 </script>
