@@ -32,6 +32,7 @@
 	--dark-th-border-color: #333333;
 	--dark-th-bg-color: #1a1a1a;
 	--dark-td-border-color: #333333;
+	--dark-h1-text-shadow: none;
 	
 }
 
@@ -49,6 +50,7 @@
 		--th-border-color: var(--dark-th-border-color);
 		--th-bg-color: var(--dark-th-bg-color);
 		--td-border-color: var(--dark-td-border-color);
+		--h1-text-shadow: var(--dark-h1-text-shadow);
 	}
 }
 
@@ -65,6 +67,7 @@ html {
 body {
 	text-size-adjust: 100%;
 	color: var(--sidebar-text-color);
+	background-color: var(--bg-color);
 	/*background-color: #202020;*/
 	/*background-image: linear-gradient(to bottom, #323232, #0e0e0e);*/
 }
