@@ -192,6 +192,7 @@ h1 {
 	text-shadow: var(--h1-text-shadow);
 	margin-top: 0;
 	margin-bottom: 0;
+	letter-spacing: 0.5px;
 }
 
 h2 {
@@ -204,6 +205,7 @@ h2 {
 	color: var(--h2-color);
 	text-align: center;
 	margin-bottom: 0;
+	letter-spacing: 0.5px;
 }
 
 h3 {
@@ -213,6 +215,7 @@ h3 {
 	font-weight: normal;
 	font-size: 2rem;
 	margin-bottom: 0;
+	letter-spacing: 0.5px;
 }
 
 h4 {
@@ -223,6 +226,7 @@ h4 {
 	margin-bottom: 0;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
+	letter-spacing: 0.5px;
 }
 
 h5 {
