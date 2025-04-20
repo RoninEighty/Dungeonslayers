@@ -266,6 +266,7 @@ th {
 	text-transform: uppercase;
 	font-weight: normal;
 	font-size: 1.5rem;
+	letter-spacing: 0.5px;
 	background-color: var(--th-bg-color);
 	padding: 0.2rem;
 }
