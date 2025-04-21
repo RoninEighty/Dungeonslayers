@@ -169,6 +169,8 @@ table {
     position: fixed;
     bottom: 0;
     max-width: 18rem;
+    padding-bottom: 1rem;
+    margin-left: 1rem;
   }
 
   .container {

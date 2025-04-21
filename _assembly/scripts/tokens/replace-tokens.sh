@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-heldenklassen-berserker.md
+#./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-for-bestiarium.txt ./grw/charaktere-heldenklassen-berserker.md
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-heldenklassen-blutmagier.md
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-heldenklassen-daemonologe.md
 #./_assembly/scripts/tokens/replace-tokens.pl _assembly/scripts/tokens/tokens-grw-links.txt ./grw/charaktere-heldenklassen-druide.md
