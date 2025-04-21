@@ -10,6 +10,7 @@ rm -rf _site
 mkdir _site
 cp -r _assembly/styles _site/
 cp -r _assembly/fonts _site/
+cp -r _assembly/images _site/
 cp index*.md _site/
 cp -r grw _site/
 cp -r fanwerk _site/
@@ -29,10 +30,10 @@ rm -f alle-seiten.md.tmp
 
 #BASE_URL=https://ronineighty.github.io/Dungeonslayers
 #BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
-BASE_URL=https://fschne.github.io/Dungeonslayers
-BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
-#BASE_URL=http://localhost/f-space/ds4srd
-#BASE_URL_ESCAPED=http:\\\/\\\/localhost\\\/f-space\\\/ds4srd
+#BASE_URL=https://fschne.github.io/Dungeonslayers
+#BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
+BASE_URL=http://localhost/f-space/ds4srd
+BASE_URL_ESCAPED=http:\\\/\\\/localhost\\\/f-space\\\/ds4srd
 
 # Inject BASE_URL_ESCAPED in style.css
 perl -pi -e "s/BASE_URL/${BASE_URL_ESCAPED}/g" styles/fonts.css
