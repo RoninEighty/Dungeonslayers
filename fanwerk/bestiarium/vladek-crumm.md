@@ -1,48 +1,40 @@
-# Vladek Crumm  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Krieger  
-- Stufe: 6  
-- Fähigkeiten: Talentiert  
+### Vladek Crumm
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 6
+- Volksfähigkeiten: Talentiert
 
-| KÖR | 8 | AGI | 8 | GEI | 4 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 8 | BE | 3 | VE | 0 |
-| HÄ | 4 | GE | 0 | AU | 0 |
-|  |
-| LK | 4.5 | Abwehr | 21 | Initiative | 16 |
-| Laufen | 4.5 | Schlagen | 26 | Schiessen | 8 |
-|  |
-| GH | 13 | GK | no | EP | 110 |
+| KÖR    |  8  | AGI      |  8  | GEI        |  4  |
+| :----- | :-: | :------- | :-: | :--------- | :-: |
+| ST     |  8  | BE       |  3  | VE         |  0  |
+| HÄ     |  4  | GE       |  0  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 22  | Abwehr   | 21  | Initiative | 16  |
+| Laufen | 4.5 | Schlagen | 26  | Schiessen  |     |
+|        |     |          |     |            |     |
+| GH     | 13  | GK       | no  | EP         | 110 |
 
-| Bewaffnung |
-| --- |
-| mag. Bihänder (2h) +2 (WB+5, GA-6, Kämpfer +II), mag. Kurzschwert +1 (WB+2, INI+1, GA-1) |
+|                                Bewaffnung                                |
+| :----------------------------------------------------------------------: |
+| Kurzschwert (WB+2, INI+1, GA-1), Bihänder (2h) (WB+5, GA-6, [Kämpfer](../../grw/talente/kaempfer.md) +II) |
 
+|                                       Panzerung                                        |
+| :------------------------------------------------------------------------------------: |
+| Plattenpanzer (PA+4, Laufen-0.5), Metallhelm (PA+2), Lederschienen (Arm & Bein) (PA+2) |
 
-| Panzerung |
-| --- |
-| mag. Plattenpanzer +1 (PA+4, LA-0.5), mag. Metallhelm +1 (PA+2), mag. Lederschienen (Arm & Bein) +1 (PA+2) |
+**Ausrüstung:** Kette (Abwehr +1)
 
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
-**Ausrüstung:**  
-Kette (Abwehr +1)
+**Brutaler Hieb I:** Schlagen +KÖR
 
-**Talente:**  
-Kämpfer III: Schlagen +1 pro Talentrang.
+**Kämpfer III:** Schlagen +1 pro Talentrang.
 
-Schnelle Reflexe II: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe II:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
-Zwei Waffen II: Bei Kampf mit zwei Waffen Malus -2 pro Talentrang.
+**Zwei Waffen II:** Bei [Kampf](../../grw/regeln-kampf.md) mit zwei Waffen Malus -2 pro Talentrang.
 
-Brutaler Hieb I: Schlagen +KÖR
+---
 
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
-
-
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Avakars Runde | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Avakars Runde | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

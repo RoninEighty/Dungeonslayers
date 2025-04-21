@@ -1,64 +1,59 @@
-# Kruga  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Kriegszauberer  
-- Stufe: 14  
-- Fähigkeiten: Talentiert  
+### Kruga
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: [Kriegszauberer](../../grw/charaktere-heldenklassen-kriegszauberer.md) 14
+- Volksfähigkeiten: Talentiert
 
-| KÖR | 7 | AGI | 5 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 0 | VE | 8 |
-| HÄ | 2 | GE | 6 | AU | 0 |
-|  |
-| LK | 3.5 | Abwehr | 11 | Initiative | 7 |
-| Laufen | 3.5 | Schlagen | 18 | Schiessen | 11 |
-|  |
-| GH | 2 | GK | no | EP | 110 |
+| KÖR     |  7  | AGI        |  5  | GEI        |  8  |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
+| ST      |  4  | BE         |  0  | VE         |  8  |
+| HÄ      |  2  | GE         |  6  | AU         |  0  |
+|         |     |            |     |            |     |
+| LK      | 19  | Abwehr     | 11  | Initiative |  7  |
+| Laufen  | 3.5 | Schlagen   | 18  | Schiessen  |     |
+| Zaubern |  8  | Zielzauber | 14  |            |     |
+|         |     |            |     |            |     |
+| GH      |  2  | GK         | no  | EP         | 110 |
 
-| Bewaffnung |
-| --- |
-| mag. Breitschwert +2 (WB+3, INI+2, GA-4, Zauber: Feuerball eingebettet) |
+|                           Bewaffnung                            |
+| :-------------------------------------------------------------: |
+| Breitschwert (WB+3, INI+2, GA-4, Zauber: [Feuerball](../../grw/zauber/feuerball.md) eingebettet) |
 
+|                                      Panzerung                                       |
+| :----------------------------------------------------------------------------------: |
+| Lederpanzer (PA+1, [Ausweichen](../../grw/talente/ausweichen.md) +III), Lederschienen (Arm & Bein) (PA+1, [Kämpfer](../../grw/talente/kaempfer.md) +III) |
 
-| Panzerung |
-| --- |
-| Lederpanzer (PA+1, Ausweichen +III), Lederschienen (Arm & Bein) (PA+1, Kämpfer +III) |
+**Arkane Explosion I:** Schaden PW: Rang x10; Durchmesser Stufe/2m pro Tag und Rang.
 
+**Ausweichen II:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
-**Talente:**  
-Feuermagier III: Feuerzauber +1 pro Talentrang.
+**Einbetten II:** +1 Bonus auf Herstellung mag. Gegenstände, Tränke, Schriftrollen.
 
-Wissensgebiet III: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Feuermagier III:** Feuerzauber +1 pro Talentrang.
 
-Ausweichen II: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Gerüstet I:** Klassenfremde Rüstung tragen
 
-Einbetten II: +1 Bonus auf Herstellung mag. Gegenstände, Tränke, Schriftrollen.
+**Kämpfer I:** Schlagen +1 pro Talentrang.
 
-Wechsler II: Zauber wechseln +2 pro Talentrang.
+**Rüstzauberer I:** PA-Malus -2 pro Talentrang ignorieren.
 
-Kämpfer I: Schlagen +1 pro Talentrang.
+**Standhaft I:** LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang.
 
-Gerüstet I: Klassenfremde Rüstung tragen
+**Wechsler II:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-Arkane Explosion I: Schaden PW: Rang x10; Durchmesser Stufe/2m pro Tag und Rang.
+**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-Standhaft I: LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-Rüstzauberer I: PA-Malus -2 pro Talentrang ignorieren.
+**Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Zauberwaffe I:** wie Talent [Stabbindung](../../grw/talente/stabbindung.md), aber für spezielle Nahkampfwaffe
 
-Zaubermacht I: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+**Zauber:** [Duftnote](../../grw/zauber/duftnote.md), [Heilbeeren](../../grw/zauber/heilbeeren.md)
 
-Zauberwaffe I: wie Talent Stabbindung, aber für spezielle Nahkampfwaffe
+**Zielzauber:** [Blenden](../../grw/zauber/blenden.md) (-(AGI+AU)/2), [Feueratem](../../grw/zauber/feueratem.md) (+6), [Feuerball](../../grw/zauber/feuerball.md) (+6), [Feuerlanze](../../grw/zauber/feuerlanze.md) (+5), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+4), [Flammenklinge](../../grw/zauber/flammenklinge.md) (+3), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2), [Netz](../../grw/zauber/netz.md) (-(AGI+ST)/2), [Rost](../../grw/zauber/rost.md) (-Stufe), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), [Schleudern](../../grw/zauber/schleudern.md) (-(KÖR+AU)/2), [Telekinese](../../grw/zauber/telekinese.md) (-1/Stufe x5 kg)
 
+---
 
-**Zaubersprüche:**  
-[Blenden](/grw/zauber/blenden.md) (-(AGI+AU)/2), [Duftnote](/grw/zauber/duftnote.md) (0), [Feueratem](/grw/zauber/feueratem.md) (+6), [Feuerball](/grw/zauber/feuerball.md) (+6), [Feuerlanze](/grw/zauber/feuerlanze.md) (+5), [Feuerstrahl](/grw/zauber/feuerstrahl.md) (+4), [Flammenklinge](/grw/zauber/flammenklinge.md) (+3), [Halt](/grw/zauber/halt.md) (-(KÖR+AU)/2), [Heilbeeren](/grw/zauber/heilbeeren.md) (0), [Netz](/grw/zauber/netz.md) (-(AGI+ST)/2), [Rost](/grw/zauber/rost.md) (-Stufe), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Schleudern](/grw/zauber/schleudern.md) (-(KÖR+AU)/2), [Telekinese](/grw/zauber/telekinese.md) (-1/Stufe x5 kg)
-
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Umbarla-Becken | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Umbarla-Becken | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

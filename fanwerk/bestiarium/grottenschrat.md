@@ -1,34 +1,29 @@
-# Grottenschrat  
-- Gruppe: Humanoide  
+### Grottenschrat
 
-| KÖR | 11 | AGI | 6 | GEI | 3 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 3 | BE | 2 | VE | 1 |
-| HÄ | 4 | GE | 1 | AU | 0 |
-|  |
-| LK | 4 | Abwehr | 18 | Initiative | 8 |
-| Laufen | 4 | Schlagen | 18 | Schiessen | 7 |
-|  |
-| GH | 8 | GK | no | EP | 70 |
+- Gruppe: Humanoide
 
-| Bewaffnung |
-| --- |
+| KÖR    | 11  | AGI      |  6  | GEI        |  3  |
+| :----- | :-: | :------- | :-: | :--------- | :-: |
+| ST     |  3  | BE       |  2  | VE         |  1  |
+| HÄ     |  4  | GE       |  1  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 25  | Abwehr   | 18  | Initiative |  8  |
+| Laufen |  4  | Schlagen | 18  | Schiessen  |     |
+|        |     |          |     |            |     |
+| GH     |  8  | GK       | no  | EP         | 70  |
+
+| Bewaffnung  |
+| :---------: |
 | Biss (WB+4) |
 
-
-| Panzerung |
-| --- |
+|     Panzerung     |
+| :---------------: |
 | Dicke Haut (PA+3) |
 
+**Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Talente:**  
-Dunkelsicht: Kann selbst in völliger Dunkelheit noch sehen.
+**Natürliche Waffen:** Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-Natürliche Waffen: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+---
 
-
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Lockruf aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: [Lockruf](../../fanwerk/zauber/lockruf.md) aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

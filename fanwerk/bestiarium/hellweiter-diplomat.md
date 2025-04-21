@@ -1,47 +1,40 @@
-# Hellweiter Diplomat  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Späher  
-- Stufe: 1  
-- Fähigkeiten: Talentiert  
+### Hellweiter Diplomat
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
+- Volksfähigkeiten: Talentiert
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 0 | BE | 0 | VE | 4 |
-| HÄ | 0 | GE | 1 | AU | 5 |
-|  |
-| LK | 4 | Abwehr | 7 | Initiative | 7 |
-| Laufen | 4 | Schlagen | 6 | Schiessen | 7 |
-|  |
-| GH | 1 | GK | no | EP | 47 |
+| KÖR    |  6  | AGI      |  6  | GEI        |  8  |
+| :----- | :-: | :------- | :-: | :--------- | :-: |
+| ST     |  0  | BE       |  0  | VE         |  4  |
+| HÄ     |  0  | GE       |  1  | AU         |  5  |
+|        |     |          |     |            |     |
+| LK     | 16  | Abwehr   |  7  | Initiative |  7  |
+| Laufen |  4  | Schlagen |  6  | Schiessen  |     |
+|        |     |          |     |            |     |
+| GH     |  1  | GK       | no  | EP         | 47  |
 
-| Bewaffnung |
-| --- |
+|  Bewaffnung   |
+| :-----------: |
 | Dolch (INI+1) |
 
-
-| Panzerung |
-| --- |
+|     Panzerung      |
+| :----------------: |
 | Lederpanzer (PA+1) |
 
+**Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-**Talente:**  
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+**Charmant I:** Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
-Charmant I: Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
+**Schlitzohr I:** Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-Schlitzohr I: Handeln, Feilschen, Bluffen +3 pro Talentrang.
+**Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-Wahrnehmung I: Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-Wissensgebiet I: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+---
 
-
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slayerforum | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Slayerforum | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

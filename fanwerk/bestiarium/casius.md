@@ -1,42 +1,37 @@
-# Casius  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Heiler  
-- Stufe: 1  
-- Fähigkeiten: Talentiert  
+### Casius
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 1
+- Volksfähigkeiten: Talentiert
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 1 | BE | 0 | VE | 3 |
-| HÄ | 2 | GE | 0 | AU | 5 |
-|  |
-| LK | 4 | Abwehr | 8 | Initiative | 6 |
-| Laufen | 4 | Schlagen | 8 | Schiessen | 6 |
-|  |
-| GH | 1 | GK | no | EP | 63 |
+| KÖR     |  6  | AGI        |  6  | GEI        |  8  |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
+| ST      |  1  | BE         |  0  | VE         |  3  |
+| HÄ      |  2  | GE         |  0  | AU         |  5  |
+|         |     |            |     |            |     |
+| LK      | 18  | Abwehr     |  8  | Initiative |  6  |
+| Laufen  |  4  | Schlagen   |  8  | Schiessen  |     |
+| Zaubern | 14  | Zielzauber |     |            |     |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 63  |
 
-| Bewaffnung |
-| --- |
+|        Bewaffnung         |
+| :-----------------------: |
 | Streitkolben (WB+1, GA-1) |
 
-
-| Panzerung |
-| --- |
+|           Panzerung            |
+| :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
-**Talente:**  
-Ausweichen I: Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-Bildung I: Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
+**Zauber:** _Heilende Hand (+1)_
 
+**Zielzauber:**
 
-**Zaubersprüche:**  
-[Heilende Hand](/grw/zauber/heilende-hand.md) (+1)
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: SC2GO | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: SC2GO | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

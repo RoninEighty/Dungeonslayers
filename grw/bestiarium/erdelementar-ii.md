@@ -1,32 +1,27 @@
-# Erdelementar II  
-- Gruppe: Magische Wesen  
+### Erdelementar II
 
-| KÖR | 17 | AGI | 2 | GEI | 1 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 4 | BE | 1 | VE | 0 |
-| HÄ | 5 | GE | 0 | AU | 0 |
-|  |
-| LK | 2 | Abwehr | 26 | Initiative | 3 |
-| Laufen | 2 | Schlagen | 25 | Schiessen | 2 |
-|  |
-| GH | 15 | GK | no | EP | 70 |
+- Gruppe: Magische Wesen
 
-| Bewaffnung |
-| --- |
+| KÖR    | 17  | AGI      |  2  | GEI        |  1  |
+| :----- | :-: | :------- | :-: | :--------- | :-: |
+| ST     |  4  | BE       |  1  | VE         |  0  |
+| HÄ     |  5  | GE       |  0  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 32  | Abwehr   | 26  | Initiative |  3  |
+| Laufen |  2  | Schlagen | 25  | Schiessen  |     |
+|        |     |          |     |            |     |
+| GH     | 15  | GK       | no  | EP         | 70  |
+
+|     Bewaffnung     |
+| :----------------: |
 | Steinpranke (WB+4) |
 
-
-| Panzerung |
-| --- |
+|     Panzerung     |
+| :---------------: |
 | Steinwesen (PA+4) |
 
+**Anfällig:** Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe.
 
-**Talente:**  
-Anfällig: Erhält doppelten Schaden durch Blitz-, Sturm- und Windangriffe.
+---
 
-
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Dungeonslayers Basisbox | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: GRW | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

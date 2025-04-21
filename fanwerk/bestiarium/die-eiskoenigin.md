@@ -1,58 +1,52 @@
-# Die Eiskönigin  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Elementarist  
-- Stufe: 20  
-- Fähigkeiten: Talentiert  
+### Die Eiskönigin
 
-- Upgrade: Episch  
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: [Elementarist](../../grw/charaktere-heldenklassen-elementarist.md) 20
+- Volksfähigkeiten: Talentiert
+- Modifikation: Episch
 
-| KÖR | 6 | AGI | 6 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 0 | BE | 0 | VE | 10 |
-| HÄ | 4 | GE | 4 | AU | 14 |
-|  |
-| LK | 4 | Abwehr | 17 | Initiative | 9 |
-| Laufen | 4 | Schlagen | 10 | Schiessen | 10 |
-|  |
-| GH | 14 | GK | no | EP | 628 |
+| KÖR     |  6  | AGI        |  6  | GEI        |  8  |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
+| ST      |  0  | BE         |  0  | VE         | 10  |
+| HÄ      |  4  | GE         |  4  | AU         | 14  |
+|         |     |            |     |            |     |
+| LK      | 209 | Abwehr     | 17  | Initiative |  9  |
+| Laufen  |  4  | Schlagen   | 10  | Schiessen  |     |
+| Zaubern | 22  | Zielzauber | 17  |            |     |
+|         |     |            |     |            |     |
+| GH      | 14  | GK         | no  | EP         | 628 |
 
-| Bewaffnung |
-| --- |
-| mag. Kampfstab (2h) +3 (WB+4, INI+3, GA-3, Zielzauber +1, Eismagier +V) |
+|                           Bewaffnung                            |
+| :-------------------------------------------------------------: |
+| Kampfstab (2h) (WB+4, INI+3, GA-3, Zielzauber +1, Eismagier +V) |
 
+|                                                                    Panzerung                                                                     |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| Robe (PA+3, [Bändiger](../../grw/talente/baendiger.md) +I, Elementare bündeln +I, [Herausforderer der Elemente](../../grw/talente/herausforderer-der-elemente.md) +I, [Herr der Elemente](../../grw/talente/herr-der-elemente.md) +I, [Knechtschaft](../../grw/talente/knechtschaft.md) +I, [Mächtige Herbeirufung](../../grw/talente/maechtige-herbeirufung.md) +I) |
 
-| Panzerung |
-| --- |
-| mag. Robe +3 (PA+3, Bändiger +I, Elementare bündeln +I, Herausforderer der Elemente +I, Herr der Elemente +I, Knechtschaft +I, Mächtige Herbeirufung +I) |
+**Ausrüstung:** Diadem (Diener der Dunkelheit +II, Zauber: [Halt](../../grw/zauber/halt.md) eingebettet), Ring (Aura +3, Zauber: [Gehorche](../../grw/zauber/gehorche.md) eingebettet, Zauber: [Freund](../../grw/zauber/freund.md) eingebettet)
 
+**Diener der Dunkelheit III:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-**Ausrüstung:**  
-Diadem (Diener der Dunkelheit +II, Zauber: Halt eingebettet), Ring (Aura +3, Zauber: Gehorche eingebettet, Zauber: Freund eingebettet)
+**Einstecker III:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-**Talente:**  
-Diener der Dunkelheit III: Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Elementen trotzen III:** Elementarschaden für Rang x3 Runden ignorieren.
 
-Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+**Magieresistent III:** [Zauber](../../fanwerk/zauber/zauber.md) gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-Elementen trotzen III: Elementarschaden für Rang x3 Runden ignorieren.
+**Schutz vor Elementen III:** Abwehr +5 gegen abwehrbarem Elementarschaden; Umwelteinflüsse senken, auch für 2 Kameraden.
 
-Magieresistent III: Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Verheerer III:** GA-1 bei Schadenszauber
 
-Schutz vor Elementen III: Abwehr +5 gegen abwehrbarem Elementarschaden; Umwelteinflüsse senken, auch für 2 Kameraden.
+**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-Verheerer III: GA-1 bei Schadenszauber
+**Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-Wissensgebiet III: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Zauber:** [Bannen](../../grw/zauber/bannen.md) (-(KÖR+AU)/2), [Ebenentor](../../grw/zauber/ebenentor.md) (-8), [Elementar herbeirufen](../../grw/zauber/elementar-herbeirufen.md) (-Stufe x5), [Elementar herbeirufen](../../grw/zauber/elementar-herbeirufen.md) (-Stufe x5), [Fliegen](../../grw/zauber/fliegen.md), [Gasgestalt](../../grw/zauber/gasgestalt.md), Kältefront (+4), [Schutzfeld](../../grw/zauber/schutzfeld.md), [Schutzschild](../../grw/zauber/schutzschild.md), [Tarnender Nebel](../../grw/zauber/tarnender-nebel.md) (-2), [Tierbeherrschung](../../grw/zauber/tierbeherrschung.md) [!] (-LK/2), [Wasserwandeln](../../grw/zauber/wasserwandeln.md) (+5), [Zeitstop](../../grw/zauber/zeitstop.md) (-5)
 
-Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+**Zielzauber:** Eisbombe (+9), Eishauch (+9), [Frostschock](../../grw/zauber/frostschock.md) (+9), [Frostwaffe](../../grw/zauber/frostwaffe.md) (+5), Kältekegel (+8), Kältestrahl (+7), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2)
 
+---
 
-**Zaubersprüche:**  
-[Bannen](/grw/zauber/bannen.md) (-(KÖR+AU)/2), [Ebenentor](/grw/zauber/ebenentor.md) (-8), Eisbombe (+9), Eishauch (+9), [Elementar herbeirufen](/grw/zauber/elementar-herbeirufen.md) (-Stufe x5), [Elementar herbeirufen](/grw/zauber/elementar-herbeirufen.md) (-Stufe x5), [Fliegen](/grw/zauber/fliegen.md) (0), [Frostschock](/grw/zauber/frostschock.md) (+9), [Frostwaffe](/grw/zauber/frostwaffe.md) (+5), [Gasgestalt](/grw/zauber/gasgestalt.md) (0), Kältefront (+4), Kältekegel (+8), Kältestrahl (+7), [Schatten](/grw/zauber/schatten.md) (-(AGI+AU)/2), [Schutz](/fanwerk/zauber/schutz.md)feld (0), [Schutz](/fanwerk/zauber/schutz.md)schild (0), [Tarnender Nebel](/grw/zauber/tarnender-nebel.md) (-2), [Tierbeherrschung](/grw/zauber/tierbeherrschung.md) (-LK/2), [Wasserwandeln](/grw/zauber/wasserwandeln.md) (+5), [Zeitstop](/grw/zauber/zeitstop.md) (-5)
-
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Geschenk der Eiskönigin | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Geschenk der Eiskönigin | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -10,6 +10,7 @@ rm -rf _site
 mkdir _site
 cp -r _assembly/styles _site/
 cp -r _assembly/fonts _site/
+cp -r _assembly/images _site/
 cp index*.md _site/
 cp -r grw _site/
 cp -r fanwerk _site/

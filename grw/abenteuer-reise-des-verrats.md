@@ -85,7 +85,10 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am fr�
 
 ### Kamp & Emrich
 
-    Mensch, [Krieger](charaktere-klasse-krieger.md) Stufe 3
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Krieger 3
+- Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
@@ -97,39 +100,39 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am fr�
 |        |     |          |     |            |     |
 | GH     |  2  | GK       | no  | EP         | 61  |
 
-|                 Bewaffnung                  |
-| :-----------------------------------------: |
-| Langschwert (WB+2), l. Armbrust (WB+2, I-2) |
+|                       Bewaffnung                        |
+| :-----------------------------------------------------: |
+| Langschwert (WB+2), Armbrust, leicht (2h) (WB+2, INI-2) |
 
-|                  Panzerung                   |
-| :------------------------------------------: |
-| Kettenpanzer (PA+1; L-0,5), Helm (PA+1; I-1) |
+|                         Panzerung                         |
+| :-------------------------------------------------------: |
+| Kettenpanzer (PA+2, Laufen-0.5), Metallhelm (PA+1, INI-1) |
 
 **Beute:** BW 1A:12, 2C: 14
 
 ### Orkräuber
 
-    Humanoide
+- Gruppe: Humanoide
 
-| KÖR    | 12  | AGI      |  6   | GEI        |  2  |
-| :----- | :-: | :------- | :--: | :--------- | :-: |
-| ST     |  3  | BE       |  0   | VE         |  1  |
-| HÄ     |  3  | GE       |  3   | AU         |  0  |
-|        |     |          |      |            |     |
-| LK     | 25  | Abwehr   | 16+1 | Initiative | 6+1 |
-| Laufen |  4  | Schlagen |  17  | Schiessen  | 10  |
-|        |     |          |      |            |     |
-| GH     |  5  | GK       |  no  | EP         | 70  |
+| KÖR    | 12  | AGI      |  6  | GEI        |  2  |
+| :----- | :-: | :------- | :-: | :--------- | :-: |
+| ST     |  3  | BE       |  0  | VE         |  1  |
+| HÄ     |  3  | GE       |  3  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 25  | Abwehr   | 17  | Initiative |  7  |
+| Laufen |  4  | Schlagen | 17  | Schiessen  | 10  |
+|        |     |          |     |            |     |
+| GH     |  5  | GK       | no  | EP         | 70  |
 
-|                 Bewaffnung                 |
-| :----------------------------------------: |
-| Krummschwert (WB+2), Kurzbogen (WB+1, I+1) |
+|                    Bewaffnung                     |
+| :-----------------------------------------------: |
+| Krummschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1) |
 
 |               Panzerung               |
 | :-----------------------------------: |
 | Lederpanzer (PA+1), Holzschild (PA+1) |
 
-**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
@@ -137,31 +140,37 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am fr�
 
 ### Harringer
 
-    Mensch, [Krieger](charaktere-klasse-krieger.md) Stufe 4
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Krieger 4
+- Volksfähigkeiten: Talentiert
 
 | KÖR    |  7  | AGI      |  6  | GEI        |  7  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
 | ST     |  4  | BE       |  0  | VE         |  3  |
 | HÄ     |  5  | GE       |  0  | AU         |  0  |
 |        |     |          |     |            |     |
-| LK     | 24  | Abwehr   | 14  | Initiative |  6  |
-| Laufen | 3,5 | Schlagen | 13  | Schiessen  |     |
+| LK     | 22  | Abwehr   | 14  | Initiative |  6  |
+| Laufen | 3.5 | Schlagen | 13  | Schiessen  |     |
 |        |     |          |     |            |     |
-| GH     |  3  | GK       | no  | EP         | 60  |
+| GH     |  2  | GK       | no  | EP         | 58  |
 
 |     Bewaffnung     |
 | :----------------: |
 | Langschwert (WB+2) |
 
-|      Panzerung      |
-| :-----------------: |
-| Kettenpanzer (PA+2) |
+|            Panzerung            |
+| :-----------------------------: |
+| Kettenpanzer (PA+2, Laufen-0.5) |
 
 **Beute:** BW 2A:16, 4D: 10
 
 ### Die Komplizen
 
-    Mensch, [Krieger](charaktere-klasse-krieger.md) Stufe 2
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Krieger 2
+- Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  8  | GEI        |  4  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
@@ -185,7 +194,10 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am fr�
 
 ### Ritter Wilbert
 
-    Mensch, [Krieger](charaktere-klasse-krieger.md) Stufe 3
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Krieger 3
+- Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  6  | GEI        |  6  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
@@ -193,17 +205,17 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am fr�
 | HÄ     |  6  | GE       |  0  | AU         |  0  |
 |        |     |          |     |            |     |
 | LK     | 24  | Abwehr   | 18  | Initiative |  3  |
-| Laufen |  3  | Schlagen | 17  | Schiessen  | 12  |
+| Laufen |  3  | Schlagen | 17  | Schiessen  |     |
 |        |     |          |     |            |     |
 | GH     |  8  | GK       | no  | EP         | 103 |
 
-|         Bewaffnung         |
-| :------------------------: |
-| Bihänder (WB+3; GA-4; I-2) |
+|            Bewaffnung             |
+| :-------------------------------: |
+| Bihänder (2h) (WB+3, INI-2, GA-4) |
 
-|                  Panzerung                  |
-| :-----------------------------------------: |
-| Plattenpanzer (PA+1; L-1), Helm (PA+1; I-1) |
+|                        Panzerung                         |
+| :------------------------------------------------------: |
+| Plattenpanzer (PA+3, Laufen-1), Metallhelm (PA+1, INI-1) |
 
 **Beute:** BW 1A:6, 2C: 14, 2D:10, Pferd
 

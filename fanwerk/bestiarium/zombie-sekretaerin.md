@@ -1,28 +1,25 @@
-# Zombie Sekretärin  
-- Gruppe: Untote  
+### Zombie Sekretärin
 
-| KÖR | 13 | AGI | 3 | GEI | 0 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 3 | BE | 0 | VE | 0 |
-| HÄ | 5 | GE | 0 | AU | 0 |
-|  |
-| LK | 2.5 | Abwehr | 20 | Initiative | 3 |
-| Laufen | 2.5 | Schlagen | 18 | Schiessen | 3 |
-|  |
-| GH | 8 | GK | no | EP | 56 |
+- Gruppe: Untote
 
-| Bewaffnung |
-| --- |
+| KÖR    | 13  | AGI      |  3  | GEI        |  0  |
+| :----- | :-: | :------- | :-: | :--------- | :-: |
+| ST     |  3  | BE       |  0  | VE         |  0  |
+| HÄ     |  5  | GE       |  0  | AU         |  0  |
+|        |     |          |     |            |     |
+| LK     | 28  | Abwehr   | 20  | Initiative |  3  |
+| Laufen | 2.5 | Schlagen | 18  | Schiessen  |     |
+|        |     |          |     |            |     |
+| GH     |  8  | GK       | no  | EP         | 56  |
+
+|      Bewaffnung      |
+| :------------------: |
 | Fäulnispranke (WB+2) |
 
-
-| Panzerung |
-| --- |
+|      Panzerung      |
+| :-----------------: |
 | Merkt nichts (PA+2) |
 
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Kinder der Schatten | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Kinder der [Schatten](../../grw/zauber/schatten.md) | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

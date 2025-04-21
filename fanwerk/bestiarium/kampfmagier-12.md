@@ -1,53 +1,47 @@
-# Kampfmagier 12  
-- Gruppe: Mensch  
-- Volk: Mensch  
-- Klasse: Schwarzmagier  
-- Stufe: 12  
-- Fähigkeiten: Talentiert  
+### Kampfmagier 12
 
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 12
+- Volksfähigkeiten: Talentiert
 
-| KÖR | 8 | AGI | 4 | GEI | 8 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ST | 0 | BE | 0 | VE | 3 |
-| HÄ | 4 | GE | 5 | AU | 10 |
-|  |
-| LK | 6 | Abwehr | 12 | Initiative | 6 |
-| Laufen | 6 | Schlagen | 8 | Schiessen | 15 |
-|  |
-| GH | 4 | GK | no | EP | 96 |
+| KÖR     |  8  | AGI        |  4  | GEI        |  8  |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
+| ST      |  0  | BE         |  0  | VE         |  3  |
+| HÄ      |  4  | GE         |  5  | AU         | 10  |
+|         |     |            |     |            |     |
+| LK      | 31  | Abwehr     | 12  | Initiative |  6  |
+| Laufen  |  6  | Schlagen   |  8  | Schiessen  |     |
+| Zaubern | 18  | Zielzauber | 19  |            |     |
+|         |     |            |     |            |     |
+| GH      |  4  | GK         | no  | EP         | 96  |
 
 | Bewaffnung |
-| --- |
-|  |
+| :--------: |
+|            |
 
-
-| Panzerung |
-| --- |
+|           Panzerung            |
+| :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
+**Ausrüstung:** Ring (Schütze +III), Ring (Zauber: [Feuerball](../../grw/zauber/feuerball.md) Abklingzeit bei Träger verkürzt um 2 Runden), Stab (Zauber: [Flackern](../../grw/zauber/flackern.md) als Zauberstab), Stab (Zauber: [Verteidigung](../../grw/zauber/verteidigung.md) als Zauberstab), Stab (Zauber: [Feuerball](../../grw/zauber/feuerball.md) als Zauberstab), Stiefel (Flink +III)
 
-**Ausrüstung:**  
-Ring (Schütze +III), Ring (Zauber: Feuerball Abklingzeit bei Träger verkürzt um 2 Runden), Stab (Zauber: Flackern als Zauberstab), Stab (Zauber: Verteidigung als Zauberstab), Stab (Zauber: Feuerball als Zauberstab), Stiefel (Flink +III)
+**Abklingen III:** Abklingzeit aller [Zauber](../../fanwerk/zauber/zauber.md) -1 Runde
 
-**Talente:**  
-Abklingen III: Abklingzeit aller Zauber -1 Runde
+**Einstecker III:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-Einstecker III: Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
-Schütze III: Schiessen, Zielzauber +1 pro Talentrang.
+**Schütze III:** Schiessen, Zielzauber +1 pro Talentrang.
 
-Zaubermacht III: Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-Wissensgebiet II: +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-Schnelle Reflexe I: Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (-2), [Magische Rüstung](../../grw/zauber/magische-ruestung.md), [Schutzschild](../../grw/zauber/schutzschild.md), [Verteidigung](../../grw/zauber/verteidigung.md)
 
+**Zielzauber:** [Blitz](../../grw/zauber/blitz.md) (+3), [Feuerball](../../grw/zauber/feuerball.md) (+3), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+1), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
-**Zaubersprüche:**  
-[Blitz](/grw/zauber/blitz.md) (+3), [Feuerball](/grw/zauber/feuerball.md) (+3), [Feuerstrahl](/grw/zauber/feuerstrahl.md) (+1), [Flackern](/grw/zauber/flackern.md) (-2), [Magische Rüstung](/grw/zauber/magische-ruestung.md) (0), [Schatten](/grw/zauber/schatten.md)pfeil (+2), [Schutz](/fanwerk/zauber/schutz.md)schild (0), [Verteidigung](/grw/zauber/verteidigung.md) (0)
+---
 
-
-
-
-___
-*Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Beispiele | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)*
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Beispiele | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
