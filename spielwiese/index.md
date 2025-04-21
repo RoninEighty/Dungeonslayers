@@ -10,6 +10,13 @@
 - [Erwachsener Drache 6](ed6.md)
 - [Erwachsener Drache 7](ed7.md)
 
+# Lizenzangaben
+
+- [Lizenz 1](licence1.md)
+- [Lizenz 2](licence2.md)
+- [Lizenz 2](licence3.md)
+- [Lizenz 4](licence4.md)
+
 # Layouting
 
 Et neque hic sed dolor saepe velit. Voluptas ea exercitationem voluptatibus aut repellat aut. Quia quos eum error aperiam suscipit placeat odio repudiandae. Nihil modi ullam eum officia eum.

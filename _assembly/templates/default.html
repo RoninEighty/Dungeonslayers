@@ -50,6 +50,14 @@ $table-of-contents$
 $endif$
 $body$
 </div>
+
+$if(source)$
+  <hr/>
+  <div class="small">
+    Quelle (aus dem Front Matter): $source$
+  </div>
+$endif$
+
 $footer.html()$
 </div>
 $for(include-after)$
