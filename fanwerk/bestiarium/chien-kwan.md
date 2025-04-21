@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Zauberer 5
+- Klasse: [Zauberer](../../grw/charaktere-klasse-zauberer.md) 5
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  8  | AGI        |  4  | GEI        |  8  |
@@ -28,9 +28,9 @@
 
 **Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Verteidigung, Zaubertrick, Öffnen (-SW)
+**Zauber:** [Verteidigung](../../grw/zauber/verteidigung.md), [Zaubertrick](../../grw/zauber/zaubertrick.md), [Öffnen](../../grw/zauber/oeffnen.md) (-SW)
 
-**Zielzauber:** Feuerlanze (+2), Feuerstrahl (+1)
+**Zielzauber:** [Feuerlanze](../../grw/zauber/feuerlanze.md) (+2), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+1)
 
 ---
 

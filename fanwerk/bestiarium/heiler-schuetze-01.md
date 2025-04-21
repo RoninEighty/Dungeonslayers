@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 1
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  7  | GEI        |  8  |

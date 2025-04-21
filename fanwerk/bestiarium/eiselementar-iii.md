@@ -22,7 +22,7 @@
 
 **Anfällig:** Erhält doppelten Schaden durch Feuer.
 
-**Körperlos:** Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos.
+**Körperlos:** Die Kreatur kann bspw. durch [Magie](../../grw/regeln-magie.md), geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos.
 
 ---
 

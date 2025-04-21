@@ -20,10 +20,10 @@
 | :----------------------------------------------------------------------------: |
 | Kettenpanzer (PA+2, Laufen-0.5), Metallhelm (PA+1, INI-1), Merkt nichts (PA+2) |
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Lockruf aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: [Lockruf](../../fanwerk/zauber/lockruf.md) aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

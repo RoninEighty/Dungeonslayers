@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Zauberer 1
+- Klasse: [Zauberer](../../grw/charaktere-klasse-zauberer.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR     |  5  | AGI        |  7  | GEI        |  8  |
@@ -28,9 +28,9 @@
 
 **Blitzmacher I:** +1 Bonus auf Blitzzauber
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

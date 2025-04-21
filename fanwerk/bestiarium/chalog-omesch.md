@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Späher 14
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 14
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR    |  5  | AGI      |  7  | GEI        |  8  |
@@ -17,13 +17,13 @@
 
 |                    Bewaffnung                     |
 | :-----------------------------------------------: |
-| Armbrust, leicht (2h) (WB+4, GA-2, Verletzen +II) |
+| Armbrust, leicht (2h) (WB+4, GA-2, [Verletzen](../../grw/talente/verletzen.md) +II) |
 
 |                      Panzerung                      |
 | :-------------------------------------------------: |
-| Lederpanzer (PA+3, Zauber: Balancieren eingebettet) |
+| Lederpanzer (PA+3, Zauber: [Balancieren](../../grw/zauber/balancieren.md) eingebettet) |
 
-**Ausrüstung:** Kompass (Zauber: Magie entdecken eingebettet, Zauber: Verborgenes sehen eingebettet)
+**Ausrüstung:** Kompass (Zauber: [Magie entdecken](../../grw/zauber/magie-entdecken.md) eingebettet, Zauber: [Verborgenes sehen](../../grw/zauber/verborgenes-sehen.md) eingebettet)
 
 **Bildung III:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
@@ -41,22 +41,22 @@
 
 **Runenkunde I:** Schriftrollen identifizieren und herstellen +1 pro Talentrang.
 
-**Schnelle Reflexe II:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe II:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 **Schütze II:** Schiessen, Zielzauber +1 pro Talentrang.
 
 **Wahrnehmung V:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Chalog Omesch | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: [Chalog Omesch](../../fanwerk/bestiarium/chalog-omesch.md) | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

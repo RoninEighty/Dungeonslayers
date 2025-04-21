@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Schwarzmagier 4
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 4
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  8  | AGI        |  4  | GEI        |  8  |
@@ -28,13 +28,13 @@
 
 **Einstecker III:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 **Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Flackern (-2)
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (-2)
 
-**Zielzauber:** Feuerstrahl (+1), Schattenpfeil (+2)
+**Zielzauber:** [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+1), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
 ---
 

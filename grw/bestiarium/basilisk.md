@@ -22,11 +22,11 @@
 
 **Blickangriff:** Greift mit seinem Blick aktionsfrei jeden an, dem GEI+AU misslingt. Wer gegen die Kreatur vorgeht, ohne ihr in die Augen zu sehen, erhält -4 auf alle Proben, ist aber nicht mehr Ziel ihrer Blickangriffe.
 
-**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
 **Natürliche Waffen:** Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
-**Versteinern:** Bei einem erfolgreichen Blickangriff versteinert das Ziel, sofern diesem KÖR+AU misslingt. Eine Versteinerung kann durch den Zauber Allheilung aufgehoben werden.
+**Versteinern:** Bei einem erfolgreichen Blickangriff versteinert das Ziel, sofern diesem KÖR+AU misslingt. Eine Versteinerung kann durch den [Zauber](../../fanwerk/zauber/zauber.md) [Allheilung](../../grw/zauber/allheilung.md) aufgehoben werden.
 
 ---
 

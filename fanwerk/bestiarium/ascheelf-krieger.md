@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR    |  8  | AGI      |  6  | GEI        |  6  |
@@ -23,11 +23,11 @@
 | :---------------------------------------------------------------------------: |
 | Plattenarmschienen (PA+1, Laufen-0.5), Plattenbeinschienen (PA+1, Laufen-0.5) |
 
-**Diener der Dunkelheit II:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit II:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
 **Kämpfer I:** Schlagen +1 pro Talentrang.
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

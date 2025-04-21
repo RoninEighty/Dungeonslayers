@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  8  | GEI        |  4  |
@@ -27,7 +27,7 @@
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Zwei Waffen III:** Bei Kampf mit zwei Waffen Malus -2 pro Talentrang.
+**Zwei Waffen III:** Bei [Kampf](../../grw/regeln-kampf.md) mit zwei Waffen Malus -2 pro Talentrang.
 
 ---
 

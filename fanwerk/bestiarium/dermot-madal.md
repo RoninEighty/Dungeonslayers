@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Nekromant 12
+- Klasse: [Nekromant](../../grw/charaktere-heldenklassen-nekromant.md) 12
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  7  | AGI        |  5  | GEI        |  8  |
@@ -24,17 +24,17 @@
 | :-------: |
 |           |
 
-**Beschwörer II:** +2 Bonus auf Dämonen beschwören & kontrollieren
+**Beschwörer II:** +2 Bonus auf [Dämonen beschwören](../../grw/zauber/daemonen-beschwoeren.md) & kontrollieren
 
-**Diener der Dunkelheit V:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit V:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
 **Feuermagier I:** Feuerzauber +1 pro Talentrang.
 
 **Genesung II:** KÖR +1 nach Tod einmalig wiederherstellen pro Talentrang.
 
-**Zauber:** Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Tarnender Nebel (-2), Terror [!] (-(GEI+VE)/2), Totengespräch, Verteidigung, Verwirren [!] (-(GEI+AU)/2), Öffnen (-SW)
+**Zauber:** [Fluch](../../grw/zauber/fluch.md) (-(GEI+AU)/2), [Kontrollieren](../../grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Skelette erwecken](../../grw/zauber/skelette-erwecken.md), [Tarnender Nebel](../../grw/zauber/tarnender-nebel.md) (-2), [Terror](../../grw/zauber/terror.md) [!] (-(GEI+VE)/2), [Totengespräch](../../grw/zauber/totengespraech.md), [Verteidigung](../../grw/zauber/verteidigung.md), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2), [Öffnen](../../grw/zauber/oeffnen.md) (-SW)
 
-**Zielzauber:** Feuerball (+4), Flammenklinge (+1), Netz (-(AGI+ST)/2), Schattenpfeil (+2)
+**Zielzauber:** [Feuerball](../../grw/zauber/feuerball.md) (+4), [Flammenklinge](../../grw/zauber/flammenklinge.md) (+1), [Netz](../../grw/zauber/netz.md) (-(AGI+ST)/2), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
 ---
 

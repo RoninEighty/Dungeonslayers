@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 13
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 13
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
@@ -21,15 +21,15 @@
 
 |                                                                            Panzerung                                                                             |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Plattenarmschienen (PA+2, Kämpfer +I), Plattenbeinschienen (PA+2, Flink +I), Plattenpanzer (PA+4, Laufen-0.5, Parade +I), Metallhelm (PA+2, Schnelle Reflexe +I) |
+| Plattenarmschienen (PA+2, [Kämpfer](../../grw/talente/kaempfer.md) +I), Plattenbeinschienen (PA+2, [Flink](../../grw/talente/flink.md) +I), Plattenpanzer (PA+4, Laufen-0.5, [Parade](../../grw/talente/parade.md) +I), Metallhelm (PA+2, [Schnelle Reflexe](../../grw/talente/schnelle-reflexe.md) +I) |
 
-**Ausweichen III:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen III:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Brutaler Hieb III:** Schlagen +KÖR
 
 **Kämpfer III:** Schlagen +1 pro Talentrang.
 
-**Magieresistent I:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Magieresistent I:** [Zauber](../../fanwerk/zauber/zauber.md) gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
 **Sensenspötter II:** 1 Runde handeln, obwohl schon tot aber nicht bewusstlos
 
@@ -37,7 +37,7 @@
 
 **Waffenkenner I:** Schlagen +1, GA-1 für eine spezielle Waffengattung
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

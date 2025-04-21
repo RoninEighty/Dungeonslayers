@@ -23,7 +23,7 @@
 
 **Anfällig:** Erhält doppelten Schaden durch Feuer.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Mehrere Angriffe (+1):** Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
 
@@ -31,7 +31,7 @@
 
 **Totenkraft:** Erhält GEI+AU als Bonus auf Stärke und Härte.
 
-**Werteverlust:** Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖR Null ist das Opfer tot). Pro Tag oder Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert.
+**Werteverlust:** Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖR Null ist das Opfer tot). Pro Tag oder Anwendung des Zaubers [Allheilung](../../grw/zauber/allheilung.md) wird 1 verlorener Attributspunkt regeneriert.
 
 ---
 

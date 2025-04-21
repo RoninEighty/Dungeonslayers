@@ -21,22 +21,22 @@
 | :---------------: |
 | Warzenhaut (PA+2) |
 
-**Antimagie:** Sämtliche Magie in einem Radius von 10m Metern um den großen Augenball herum ist wirkungslos. Dies gilt nicht für die eigene Magie der Kreatur oder deren Zauber.
+**Antimagie:** Sämtliche [Magie](../../grw/regeln-magie.md) in einem Radius von 10m Metern um den großen [Augenball](../../grw/bestiarium/augenball.md) herum ist wirkungslos. Dies gilt nicht für die eigene [Magie](../../grw/regeln-magie.md) der Kreatur oder deren [Zauber](../../fanwerk/zauber/zauber.md).
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Mehrere Angriffe (+4):** Kann 3 zusätzliche Zaubersprüche in jeder Runde aktionsfrei wirken, keinen einzelnen Zauberspruch jedoch mehr als einmal. Abklingzeiten müssen weiterhin berücksichtigt werden.
+**Mehrere Angriffe (+4):** Kann 3 zusätzliche [Zaubersprüche](../../grw/zaubersprueche.md) in jeder Runde aktionsfrei wirken, keinen einzelnen Zauberspruch jedoch mehr als einmal. Abklingzeiten müssen weiterhin berücksichtigt werden.
 
 **Mehrere Angriffsglieder:** Greift mit 4 von insgesamt 8 Augen gleichzeitig an, die Gegner mit einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffsanzahl letztendlich sinkt.
 
 **Schweben:** Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Einschläfern [!] (-(KÖR+VE)/2), Schutzfeld, Schutzschild, Unsichtbarkeit, Verwirren [!] (-(GEI+AU)/2)
+**Zauber:** [Einschläfern](../../grw/zauber/einschlaefern.md) [!] (-(KÖR+VE)/2), [Schutzfeld](../../grw/zauber/schutzfeld.md), [Schutzschild](../../grw/zauber/schutzschild.md), [Unsichtbarkeit](../../grw/zauber/unsichtbarkeit.md), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2)
 
-**Zielzauber:** Blenden (-(AGI+AU)/2), Kettenblitz (+3), Schleudern (-(KÖR+AU)/2)
+**Zielzauber:** [Blenden](../../grw/zauber/blenden.md) (-(AGI+AU)/2), [Kettenblitz](../../grw/zauber/kettenblitz.md) (+3), [Schleudern](../../grw/zauber/schleudern.md) (-(KÖR+AU)/2)
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Schatten über Vestrach | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: [Schatten](../../grw/zauber/schatten.md) über Vestrach | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Berserker 12
+- Klasse: [Berserker](../../grw/charaktere-heldenklassen-berserker.md) 12
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  6  | GEI        |  6  |
@@ -17,11 +17,11 @@
 
 |                     Bewaffnung                     |
 | :------------------------------------------------: |
-| Langschwert (WB+4, INI+2, GA-2, Aderschlitzer +II) |
+| Langschwert (WB+4, INI+2, GA-2, [Aderschlitzer](../../grw/talente/aderschlitzer.md) +II) |
 
 |                                 Panzerung                                  |
 | :------------------------------------------------------------------------: |
-| Lederpanzer (PA+1), Holzschild (PA+1), Metallhelm (PA+2, Wahrnehmung +III) |
+| Lederpanzer (PA+1), Holzschild (PA+1), Metallhelm (PA+2, [Wahrnehmung](../../grw/talente/wahrnehmung.md) +III) |
 
 **Brutaler Hieb II:** Schlagen +KÖR
 

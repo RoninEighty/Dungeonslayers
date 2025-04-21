@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 5
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 5
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
@@ -26,7 +26,7 @@
 
 **Alchemie I:** Tränke identifizieren und herstellen +1 pro Talentrang.
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Fürsorger II:** Heil- und Schutzzauber +1 pro Talentrang.
 
@@ -34,9 +34,9 @@
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Federgleich, Giftbann, Heilbeeren (+2), Heilende Aura (+2), Heilende Hand (+3), Magische Waffe, Schutzschild (+2)
+**Zauber:** [Federgleich](../../grw/zauber/federgleich.md), [Giftbann](../../grw/zauber/giftbann.md), [Heilbeeren](../../grw/zauber/heilbeeren.md) (+2), [Heilende Aura](../../grw/zauber/heilende-aura.md) (+2), [Heilende Hand](../../grw/zauber/heilende-hand.md) (+3), [Magische Waffe](../../grw/zauber/magische-waffe.md), [Schutzschild](../../grw/zauber/schutzschild.md) (+2)
 
-**Zielzauber:** Lichtpfeil (+2)
+**Zielzauber:** [Lichtpfeil](../../grw/zauber/lichtpfeil.md) (+2)
 
 ---
 

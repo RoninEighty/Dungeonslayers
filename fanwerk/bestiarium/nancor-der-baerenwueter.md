@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 9
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 9
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  6  | GEI        |  6  |
@@ -17,7 +17,7 @@
 
 |                                     Bewaffnung                                     |
 | :--------------------------------------------------------------------------------: |
-| Schlachtbeil (2h) (WB+4, INI-6, GA-4, Raserei +I, Schlachtruf +I, Rundumschlag +I) |
+| Schlachtbeil (2h) (WB+4, INI-6, GA-4, [Raserei](../../grw/talente/raserei.md) +I, [Schlachtruf](../../grw/talente/schlachtruf.md) +I, [Rundumschlag](../../grw/talente/rundumschlag.md) +I) |
 
 |      Panzerung      |
 | :-----------------: |
@@ -35,7 +35,7 @@
 
 **Standhaft I:** LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

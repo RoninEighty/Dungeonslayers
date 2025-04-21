@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 6
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 6
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
@@ -17,7 +17,7 @@
 
 |                                                   Bewaffnung                                                    |
 | :-------------------------------------------------------------------------------------------------------------: |
-| Bihänder (2h) (WB+5, GA-6, 1x aktionsfrei Aufstehen), Streithammer (2h) (WB+5, INI-2, GA-2, Brutaler Hieb +III) |
+| Bihänder (2h) (WB+5, GA-6, 1x aktionsfrei Aufstehen), Streithammer (2h) (WB+5, INI-2, GA-2, [Brutaler Hieb](../../grw/talente/brutaler-hieb.md) +III) |
 
 |                            Panzerung                             |
 | :--------------------------------------------------------------: |
@@ -31,9 +31,9 @@
 
 **Kämpfer I:** Schlagen +1 pro Talentrang.
 
-**Magieresistent II:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Magieresistent II:** [Zauber](../../fanwerk/zauber/zauber.md) gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 ---
 

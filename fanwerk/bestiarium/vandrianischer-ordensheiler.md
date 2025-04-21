@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 1
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  8  | AGI        |  4  | GEI        |  8  |
@@ -24,7 +24,7 @@
 | :----------------------------------------------------------------------: |
 | Lederpanzer (PA+1), Holzschild (PA+1), Lederschienen (Arm & Bein) (PA+1) |
 
-**Blocker II:** Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro Kampf und Talentrang einen Abwehrpatzer wiederholen.
+**Blocker II:** Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Abwehrpatzer wiederholen.
 
 **Fürsorger I:** Heil- und Schutzzauber +1 pro Talentrang.
 

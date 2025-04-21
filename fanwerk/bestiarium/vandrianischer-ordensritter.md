@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  4  | GEI        |  8  |

@@ -1,8 +1,8 @@
 ### Rattling
 
 - Gruppe: Humanoide
-- Volk: Rattling
-- Klasse: Späher 1
+- Volk: [Rattling](../../fanwerk/bestiarium/rattling.md)
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |
@@ -29,7 +29,7 @@
 
 **Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-**Schwimmen I:** Schwimmen +3 pro Talentrang.
+**Schwimmen I:** [Schwimmen](../../grw/talente/schwimmen.md) +3 pro Talentrang.
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 

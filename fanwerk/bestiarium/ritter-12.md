@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 12
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 12
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  6  | GEI        |  6  |
@@ -21,7 +21,7 @@
 
 |                                                                                                 Panzerung                                                                                                  |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Plattenpanzer (PA+3, Laufen-1, Einstecker +III), Turmschild (PA+2, Laufen-1), Plattenarmschienen (PA+1, Laufen-0.5), Metallhelm (PA+1, INI-1, Schnelle Reflexe +I), Plattenbeinschienen (PA+1, Laufen-0.5) |
+| Plattenpanzer (PA+3, Laufen-1, [Einstecker](../../grw/talente/einstecker.md) +III), Turmschild (PA+2, Laufen-1), Plattenarmschienen (PA+1, Laufen-0.5), Metallhelm (PA+1, INI-1, [Schnelle Reflexe](../../grw/talente/schnelle-reflexe.md) +I), Plattenbeinschienen (PA+1, Laufen-0.5) |
 
 **Ausrüstung:** Diadem (Aura +3), Stiefel (Flink +III)
 
@@ -33,9 +33,9 @@
 
 **Parade III:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-**Reiten III:** Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
+**Reiten III:** [Reiten](../../grw/talente/reiten.md) +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 ---
 

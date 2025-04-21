@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Späher 1
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR    |  4  | AGI      |  8  | GEI        |  8  |
@@ -27,11 +27,11 @@
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Zauber auslösen I:** Zauber einer speziellen Klasse von Schriftrollen auslösen
+**Zauber auslösen I:** [Zauber](../../fanwerk/zauber/zauber.md) einer speziellen Klasse von Schriftrollen auslösen
 
 ---
 

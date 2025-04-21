@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 8
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 8
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  8  | AGI        |  4  | GEI        |  9  |
@@ -34,19 +34,19 @@
 
 **Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-**Manipulator II:** Geistesbeeinflussende Zauber [!] +1 pro Talentrang.
+**Manipulator II:** Geistesbeeinflussende [Zauber](../../fanwerk/zauber/zauber.md) [!] +1 pro Talentrang.
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wechsler I:** Zauber wechseln +2 pro Talentrang.
+**Wechsler I:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Einschläfern [!] (-(KÖR+VE)/2+2), Flackern, Freund [!] (-(GEI+VE)/2+2), Giftbann, Heilbeeren (+2), Heilende Aura (+2), Heilende Hand (+3), Licht (+5), Schutzschild (+2), Schweben, Segen, Wächter
+**Zauber:** [Einschläfern](../../grw/zauber/einschlaefern.md) [!] (-(KÖR+VE)/2+2), [Flackern](../../grw/zauber/flackern.md), [Freund](../../grw/zauber/freund.md) [!] (-(GEI+VE)/2+2), [Giftbann](../../grw/zauber/giftbann.md), [Heilbeeren](../../grw/zauber/heilbeeren.md) (+2), [Heilende Aura](../../grw/zauber/heilende-aura.md) (+2), [Heilende Hand](../../grw/zauber/heilende-hand.md) (+3), [Licht](../../grw/zauber/licht.md) (+5), [Schutzschild](../../grw/zauber/schutzschild.md) (+2), [Schweben](../../grw/zauber/schweben.md), [Segen](../../grw/zauber/segen.md), [Wächter](../../grw/zauber/waechter.md)
 
-**Zielzauber:** Halt (-(KÖR+AU)/2)
+**Zielzauber:** [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2)
 
 ---
 

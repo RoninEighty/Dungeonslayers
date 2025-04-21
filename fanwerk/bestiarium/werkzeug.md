@@ -14,7 +14,7 @@
 
 |   Bewaffnung    |
 | :-------------: |
-| Werkzeug (WB+2) |
+| [Werkzeug](../../fanwerk/bestiarium/werkzeug.md) (WB+2) |
 
 |     Panzerung      |
 | :----------------: |

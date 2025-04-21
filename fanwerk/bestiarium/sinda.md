@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Späher 1
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  7  | AGI      |  8  | GEI        |  5  |
@@ -23,7 +23,7 @@
 | :----------------: |
 | Lederpanzer (PA+1) |
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 

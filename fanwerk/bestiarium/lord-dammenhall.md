@@ -23,13 +23,13 @@
 
 **Alterung:** Bei einem Treffer altert das Ziel pro erlittenen Schadenspunkt um 1 Jahr.
 
-**Angst:** Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
+**Angst:** Kann einmal pro [Kampf](../../grw/regeln-kampf.md) auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Totenkraft:** Erhält GEI+AU als Bonus auf Stärke und Härte.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 

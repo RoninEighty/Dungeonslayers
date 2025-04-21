@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  6  | GEI        |  6  |
@@ -25,15 +25,15 @@
 
 **Charmant I:** Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
-**Instrument I:** +3 pro Talentrang auf ausgewähltes Instrument.
+**Instrument I:** +3 pro Talentrang auf ausgewähltes [Instrument](../../grw/talente/instrument.md).
 
 **Kämpfer I:** Schlagen +1 pro Talentrang.
 
 **Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-**Reiten I:** Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
+**Reiten I:** [Reiten](../../grw/talente/reiten.md) +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

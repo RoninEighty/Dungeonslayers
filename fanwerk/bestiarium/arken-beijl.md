@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Dämonologe 15
+- Klasse: [Dämonologe](../../grw/charaktere-heldenklassen-daemonologe.md) 15
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  4  | AGI        |  6  | GEI        |  8  |
@@ -24,9 +24,9 @@
 | :-----------------------------------------------: |
 | Robe (runenbestickt) (PA+2, Verstand +1, Aura +1) |
 
-**Ausrüstung:** Ring (Zauber: Versetzen eingebettet, Abklingzeit 3x täglich ignorieren), Stab (Zauber: Feuerball als Zauberstab)
+**Ausrüstung:** Ring (Zauber: [Versetzen](../../grw/zauber/versetzen.md) eingebettet, Abklingzeit 3x täglich ignorieren), Stab (Zauber: [Feuerball](../../grw/zauber/feuerball.md) als Zauberstab)
 
-**Abklingen I:** Abklingzeit aller Zauber -1 Runde
+**Abklingen I:** Abklingzeit aller [Zauber](../../fanwerk/zauber/zauber.md) -1 Runde
 
 **Einstecker III:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
@@ -34,9 +34,9 @@
 
 **Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Fliegen, Glühender Glaube (-2), Schutzschild, Terror [!] (-(GEI+VE)/2)
+**Zauber:** [Fliegen](../../grw/zauber/fliegen.md), [Glühender Glaube](../../grw/zauber/gluehender-glaube.md) (-2), [Schutzschild](../../grw/zauber/schutzschild.md), [Terror](../../grw/zauber/terror.md) [!] (-(GEI+VE)/2)
 
-**Zielzauber:** Feuerball (+3), Feuerlanze (+2), Flammeninferno (+5), Niesanfall (-(KÖR+AU)/2)
+**Zielzauber:** [Feuerball](../../grw/zauber/feuerball.md) (+3), [Feuerlanze](../../grw/zauber/feuerlanze.md) (+2), [Flammeninferno](../../grw/zauber/flammeninferno.md) (+5), [Niesanfall](../../grw/zauber/niesanfall.md) (-(KÖR+AU)/2)
 
 ---
 

@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 3
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 3
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  7  | AGI      |  6  | GEI        |  7  |
@@ -17,23 +17,23 @@
 
 |                      Bewaffnung                       |
 | :---------------------------------------------------: |
-| Krummschwert (WB+2, Sehnenschneider +I, Verletzen +I) |
+| Krummschwert (WB+2, [Sehnenschneider](../../grw/talente/sehnenschneider.md) +I, [Verletzen](../../grw/talente/verletzen.md) +I) |
 
 |                    Panzerung                    |
 | :---------------------------------------------: |
-| Holzschild (PA+2, Zauber: Flackern eingebettet) |
+| Holzschild (PA+2, Zauber: [Flackern](../../grw/zauber/flackern.md) eingebettet) |
 
-**Ausrüstung:** Stirnreif (Aura +2, Charmant +I, Schlitzohr +I)
+**Ausrüstung:** Stirnreif (Aura +2, [Charmant](../../grw/talente/charmant.md) +I, [Schlitzohr](../../grw/talente/schlitzohr.md) +I)
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Parade III:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
 **Schlachtruf I:** +1 Bonus auf Angriffe für W20/2 Runden für 3 Kameraden
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Halbling
-- Klasse: Späher 1
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |
@@ -29,11 +29,11 @@
 
 **Schlitzohr I:** Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

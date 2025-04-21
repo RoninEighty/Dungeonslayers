@@ -22,10 +22,10 @@
 
 **Anfällig:** Erhält doppelten Schaden durch Feuer.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Mehrere Angriffe (+1):** Kann 1 zusätzlichen Angriff in jeder Runde aktionsfrei ausführen.
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Der verdorbene Baumherr | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Der verdorbene [Baumherr](../../grw/bestiarium/baumherr.md) | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

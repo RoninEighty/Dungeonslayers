@@ -23,13 +23,13 @@
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Schweben:** Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2.
 
-**Zauber:** _Reinigen_, Wolke der Reue (-2)
+**Zauber:** _Reinigen_, [Wolke der Reue](../../grw/zauber/wolke-der-reue.md) (-2)
 
-**Zielzauber:** Niesanfall (-(KÖR+AU)/2), Stolpern (-(AGI+AU)/2)
+**Zielzauber:** [Niesanfall](../../grw/zauber/niesanfall.md) (-(KÖR+AU)/2), [Stolpern](../../grw/zauber/stolpern.md) (-(AGI+AU)/2)
 
 ---
 

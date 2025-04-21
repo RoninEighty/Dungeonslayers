@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Späher 1
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR    |  4  | AGI      |  8  | GEI        |  8  |
@@ -23,13 +23,13 @@
 | :----------------: |
 | Lederpanzer (PA+1) |
 
-**Akrobat I:** Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+**Akrobat I:** Athletik, [Balancieren](../../grw/zauber/balancieren.md), [Klettern](../../fanwerk/zauber/klettern.md), [Springen](../../grw/zauber/springen.md) +2 pro Talentrang.
 
 **Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
 **Schütze I:** Schiessen, Zielzauber +1 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

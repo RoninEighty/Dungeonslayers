@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 7
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 7
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
@@ -33,11 +33,11 @@
 
 **Raserei I:** Schlagen +2, Abwehr -1 pro Talentrang. Höhe aktionsfrei pro Runde beliebig änderbar.
 
-**Reiten I:** Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
+**Reiten I:** [Reiten](../../grw/talente/reiten.md) +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-**Schwimmen I:** Schwimmen +3 pro Talentrang.
+**Schwimmen I:** [Schwimmen](../../grw/talente/schwimmen.md) +3 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

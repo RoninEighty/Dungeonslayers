@@ -29,11 +29,11 @@
 
 **Fliegen:** Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Körperlos:** Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos.
 
-**Nur durch Magie verletzbar:** Nur Angriffe mit magischen Waffen oder durch Zauber richten Schaden an. Ausgenommen sind eventuelle Anfälligkeiten, durch die ebenfalls Schaden erlitten wird.
+**Nur durch Magie verletzbar:** Nur Angriffe mit magischen Waffen oder durch [Zauber](../../fanwerk/zauber/zauber.md) richten Schaden an. Ausgenommen sind eventuelle Anfälligkeiten, durch die ebenfalls Schaden erlitten wird.
 
 **Totenkraft:** Erhält GEI+AU als Bonus auf Stärke und Härte.
 

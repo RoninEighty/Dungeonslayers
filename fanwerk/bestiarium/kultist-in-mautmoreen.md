@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Schwarzmagier 1
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  7  | AGI        |  5  | GEI        |  8  |
@@ -26,13 +26,13 @@
 
 **Bildung I:** Allgemeinbildung, Rätsel lösen, Inschrift entziffern, Verständigen, Wissen +2 pro Talentrang.
 
-**Diener der Dunkelheit I:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit I:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
 **Kämpfer I:** Schlagen +1 pro Talentrang.
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

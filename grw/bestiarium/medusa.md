@@ -26,7 +26,7 @@
 
 **Schleudern:** Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
 
-**Versteinern:** Bei einem erfolgreichen Blickangriff versteinert das Ziel, sofern diesem KÖR+AU misslingt. Eine Versteinerung kann durch den Zauber Allheilung aufgehoben werden.
+**Versteinern:** Bei einem erfolgreichen Blickangriff versteinert das Ziel, sofern diesem KÖR+AU misslingt. Eine Versteinerung kann durch den [Zauber](../../fanwerk/zauber/zauber.md) [Allheilung](../../grw/zauber/allheilung.md) aufgehoben werden.
 
 ---
 

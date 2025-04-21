@@ -14,19 +14,19 @@
 
 |               Bewaffnung                |
 | :-------------------------------------: |
-| Mudaks Schlitzer (INI+1, Glückspilz +I) |
+| Mudaks Schlitzer (INI+1, [Glückspilz](../../grw/talente/glueckspilz.md) +I) |
 
 |                                 Panzerung                                 |
 | :-----------------------------------------------------------------------: |
-| Mudaks Schuppen (PA+1, Schnelle Reflexe +I), Mudaks Schädel (PA+1, INI-1) |
+| Mudaks Schuppen (PA+1, [Schnelle Reflexe](../../grw/talente/schnelle-reflexe.md) +I), Mudaks Schädel (PA+1, INI-1) |
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Kämpfer I:** Schlagen +1 pro Talentrang.
 
-**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 

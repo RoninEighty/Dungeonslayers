@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 1
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
@@ -28,9 +28,9 @@
 
 **Diener des Lichts I:** Abwehr +1 pro Talentrang gegen Diener der Dunkelheit/Schattenzauber.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zauber:** _Heilende Hand (+1)_
 

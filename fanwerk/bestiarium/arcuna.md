@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 2
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 2
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  7  | GEI        |  8  |
@@ -24,21 +24,21 @@
 | :-------: |
 |           |
 
-**Ausrüstung:** Kette (Gift trotzen +3), Stab (Aura +1, Zauber: Wolke der Reue eingebettet)
+**Ausrüstung:** Kette (Gift trotzen +3), Stab (Aura +1, Zauber: [Wolke der Reue](../../grw/zauber/wolke-der-reue.md) eingebettet)
 
 **Alchemie II:** Tränke identifizieren und herstellen +1 pro Talentrang.
 
 **Fürsorger I:** Heil- und Schutzzauber +1 pro Talentrang.
 
-**Magieresistent I:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Magieresistent I:** [Zauber](../../fanwerk/zauber/zauber.md) gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Zauber:** Giftschutz (+1), Heilbeeren (+1), Tiere besänftigen (-LK/5)
+**Zauber:** [Giftschutz](../../grw/zauber/giftschutz.md) (+1), [Heilbeeren](../../grw/zauber/heilbeeren.md) (+1), [Tiere besänftigen](../../grw/zauber/tiere-besaenftigen.md) (-LK/5)
 
 **Zielzauber:**
 

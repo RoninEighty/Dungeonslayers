@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  7  | AGI      |  7  | GEI        |  6  |
@@ -25,4 +25,4 @@
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Kinder der Schatten | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Kinder der [Schatten](../../grw/zauber/schatten.md) | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

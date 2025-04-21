@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Zauberer 2
+- Klasse: [Zauberer](../../grw/charaktere-klasse-zauberer.md) 2
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  7  | GEI        |  8  |
@@ -34,11 +34,11 @@
 
 **Schlitzohr I:** Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Zauber:** Versetzte Stimme (-1/10m), Zaubertrick
+**Zauber:** [Versetzte Stimme](../../grw/zauber/versetzte-stimme.md) (-1/10m), [Zaubertrick](../../grw/zauber/zaubertrick.md)
 
 **Zielzauber:**
 

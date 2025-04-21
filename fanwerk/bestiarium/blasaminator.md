@@ -14,7 +14,7 @@
 
 |   Bewaffnung    |
 | :-------------: |
-| Werkzeug (WB+4) |
+| [Werkzeug](../../fanwerk/bestiarium/werkzeug.md) (WB+4) |
 
 |     Panzerung     |
 | :---------------: |
@@ -22,7 +22,7 @@
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Mehrere Angriffe (+3):** Kann 3 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
 

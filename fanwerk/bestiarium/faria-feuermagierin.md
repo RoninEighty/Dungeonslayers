@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Zauberer 6
+- Klasse: [Zauberer](../../grw/charaktere-klasse-zauberer.md) 6
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  8  | AGI        |  4  | GEI        |  8  |
@@ -24,23 +24,23 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Ausrüstung:** Armband (Verstand +1), Gürtel (1x aktionsfrei Zauber wechseln), Krähenfuß (Feuerzauber +1)
+**Ausrüstung:** Armband (Verstand +1), Gürtel (1x aktionsfrei [Zauber](../../fanwerk/zauber/zauber.md) wechseln), Krähenfuß (Feuerzauber +1)
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Feuermagier III:** Feuerzauber +1 pro Talentrang.
 
 **Flink I:** Laufen +1m pro Talentrang.
 
-**Wechsler II:** Zauber wechseln +2 pro Talentrang.
+**Wechsler II:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Duftnote, Licht (+5), Öffnen (-SW)
+**Zauber:** [Duftnote](../../grw/zauber/duftnote.md), [Licht](../../grw/zauber/licht.md) (+5), [Öffnen](../../grw/zauber/oeffnen.md) (-SW)
 
-**Zielzauber:** Feuerlanze (+6), Flammenklinge (+4), Niesanfall (-(KÖR+AU)/2)
+**Zielzauber:** [Feuerlanze](../../grw/zauber/feuerlanze.md) (+6), [Flammenklinge](../../grw/zauber/flammenklinge.md) (+4), [Niesanfall](../../grw/zauber/niesanfall.md) (-(KÖR+AU)/2)
 
 ---
 

@@ -21,17 +21,17 @@
 | :-------: |
 |           |
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Natürliche Waffen:** Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
 **Totenkraft:** Erhält GEI+AU als Bonus auf Stärke und Härte.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Flackern (-2), Fluch (-(GEI+AU)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken, Skelette erwecken, Terror [!] (-(GEI+VE)/2), Versetzen, Zombies erwecken
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (-2), [Fluch](../../grw/zauber/fluch.md) (-(GEI+AU)/2), [Kontrollieren](../../grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Magie entdecken](../../grw/zauber/magie-entdecken.md), [Skelette erwecken](../../grw/zauber/skelette-erwecken.md), [Terror](../../grw/zauber/terror.md) [!] (-(GEI+VE)/2), [Versetzen](../../grw/zauber/versetzen.md), [Zombies erwecken](../../grw/zauber/zombies-erwecken.md)
 
-**Zielzauber:** _Feuerball (+3)_, Feuerlanze (+2), Schatten (-(AGI+AU)/2)
+**Zielzauber:** _Feuerball (+3)_, [Feuerlanze](../../grw/zauber/feuerlanze.md) (+2), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2)
 
 ---
 

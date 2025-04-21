@@ -22,13 +22,13 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Heilende Hand (+1), Verteidigung
+**Zauber:** [Heilende Hand](../../grw/zauber/heilende-hand.md) (+1), [Verteidigung](../../grw/zauber/verteidigung.md)
 
-**Zielzauber:** _Blenden (-(AGI+AU)/2)_, Niesanfall (-(KÖR+AU)/2)
+**Zielzauber:** _Blenden (-(AGI+AU)/2)_, [Niesanfall](../../grw/zauber/niesanfall.md) (-(KÖR+AU)/2)
 
 ---
 

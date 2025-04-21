@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Waffenmeister 12
+- Klasse: [Waffenmeister](../../grw/charaktere-heldenklassen-waffenmeister.md) 12
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  6  | GEI        |  6  |
@@ -17,7 +17,7 @@
 
 |                               Bewaffnung                               |
 | :--------------------------------------------------------------------: |
-| Bihänder (2h) (WB+5, GA-6, Panzerung zerschmettern +II, Verletzen +II) |
+| Bihänder (2h) (WB+5, GA-6, [Panzerung zerschmettern](../../grw/talente/panzerung-zerschmettern.md) +II, [Verletzen](../../grw/talente/verletzen.md) +II) |
 
 |                       Panzerung                       |
 | :---------------------------------------------------: |
@@ -31,7 +31,7 @@
 
 **Kämpfer III:** Schlagen +1 pro Talentrang.
 
-**Perfektion I:** Schlagen +1, GA-1 für Talent Waffenkenner
+**Perfektion I:** Schlagen +1, GA-1 für Talent [Waffenkenner](../../grw/talente/waffenkenner.md)
 
 **Prügler I:** GA-5 pro Talentrang bei Immersieg-Angriff mit Wuchtwaffen.
 
@@ -43,9 +43,9 @@
 
 **Waffenkenner I:** Schlagen +1, GA-1 für eine spezielle Waffengattung
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

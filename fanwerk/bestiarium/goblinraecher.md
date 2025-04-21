@@ -20,7 +20,7 @@
 | :----------: |
 | Felle (PA+1) |
 
-**Diener der Dunkelheit V:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit V:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
 **Vergeltung I:** Schlagen + Rang Diener des Lichts/Dunkelheit x4
 

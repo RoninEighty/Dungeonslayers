@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Blutmagier 17
+- Klasse: [Blutmagier](../../grw/charaktere-heldenklassen-blutmagier.md) 17
 - Volksfähigkeiten: Talentiert
 - Modifikation: Heroisch
 
@@ -25,7 +25,7 @@
 | :----------------------------------: |
 | Robe (runenbestickt) (PA+1, Aura +1) |
 
-**Ausrüstung:** Halskrause des Leids (Aura +2, Zauberqual +III), Kette des Leids (Zielzauber +2, Einstecker +II), Mantel der Leids (Verstand +1, Schmerzhafter Wechsel +I), Ring (Abklingzeit aller Zauber des Trägers verkürzt um 1 Runden), Ring (Abwehr +2), Scherpe des Leid (Körperexplosion +2, Stärke +2, Zauber: Körperexplosion eingebettet), Stab (Zauber: Schattenpfeil als Zauberstab)
+**Ausrüstung:** Halskrause des Leids (Aura +2, [Zauberqual](../../grw/talente/zauberqual.md) +III), Kette des Leids (Zielzauber +2, [Einstecker](../../grw/talente/einstecker.md) +II), Mantel der Leids (Verstand +1, [Schmerzhafter Wechsel](../../grw/talente/schmerzhafter-wechsel.md) +I), Ring (Abklingzeit aller [Zauber](../../fanwerk/zauber/zauber.md) des Trägers verkürzt um 1 Runden), Ring (Abwehr +2), Scherpe des Leid (Körperexplosion +2, Stärke +2, Zauber: [Körperexplosion](../../grw/zauber/koerperexplosion.md) eingebettet), Stab (Zauber: [Schattenpfeil](../../grw/zauber/schattenpfeil.md) als Zauberstab)
 
 **Alchemie I:** Tränke identifizieren und herstellen +1 pro Talentrang.
 
@@ -33,7 +33,7 @@
 
 **Blutschild II:** Abwehr +2 für W20 Runden/2LK
 
-**Diener der Dunkelheit II:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit II:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
 **Einbetten II:** +1 Bonus auf Herstellung mag. Gegenstände, Tränke, Schriftrollen.
 
@@ -49,15 +49,15 @@
 
 **Ritual der Narben II:** Abwehr +2 permanent, -1LK, -1 Malus auf soziale Interaktion.
 
-**Wechsler I:** Zauber wechseln +2 pro Talentrang.
+**Wechsler I:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht II:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Erdspalt (-4), Flackern (-2), Fluch (-(GEI+AU)/2), Gehorche [!] (-(GEI+VE)/2), Lauschen (-1/10m), Magische Waffe, Magisches Schloss, Schutzschild, Tarnender Nebel (-2), Terror [!] (-(GEI+VE)/2), Unsichtbarkeit, Verwirren [!] (-(GEI+AU)/2), Volksgestalt (-4), Wahnsinn (-(GEI+AU)/2), Wolke des Todes (-4)
+**Zauber:** [Erdspalt](../../grw/zauber/erdspalt.md) (-4), [Flackern](../../grw/zauber/flackern.md) (-2), [Fluch](../../grw/zauber/fluch.md) (-(GEI+AU)/2), [Gehorche](../../grw/zauber/gehorche.md) [!] (-(GEI+VE)/2), [Lauschen](../../grw/zauber/lauschen.md) (-1/10m), [Magische Waffe](../../grw/zauber/magische-waffe.md), [Magisches Schloss](../../grw/zauber/magisches-schloss.md), [Schutzschild](../../grw/zauber/schutzschild.md), [Tarnender Nebel](../../grw/zauber/tarnender-nebel.md) (-2), [Terror](../../grw/zauber/terror.md) [!] (-(GEI+VE)/2), [Unsichtbarkeit](../../grw/zauber/unsichtbarkeit.md), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2), [Volksgestalt](../../grw/zauber/volksgestalt.md) (-4), [Wahnsinn](../../grw/zauber/wahnsinn.md) (-(GEI+AU)/2), [Wolke des Todes](../../grw/zauber/wolke-des-todes.md) (-4)
 
-**Zielzauber:** Blut kochen (-(KÖR+AU)/2), Feueratem (+4), Feuerstrahl (+2), Halt (-(KÖR+AU)/2), Schatten (-(AGI+AU)/2), Schattenpfeil (+2), Schweig (-(GEI+AU)/2)
+**Zielzauber:** [Blut kochen](../../grw/zauber/blut-kochen.md) (-(KÖR+AU)/2), [Feueratem](../../grw/zauber/feueratem.md) (+4), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+2), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2), [Schweig](../../grw/zauber/schweig.md) (-(GEI+AU)/2)
 
 ---
 

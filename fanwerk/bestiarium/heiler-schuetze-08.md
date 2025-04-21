@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 8
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 8
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  7  | GEI        |  8  |
@@ -22,11 +22,11 @@
 
 |                                    Panzerung                                    |
 | :-----------------------------------------------------------------------------: |
-| Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1) |
+| Lederschienen (Arm & Bein) (PA+1, [Schütze](../../grw/talente/schuetze.md) +III), Robe (runenbestickt) (Aura +1) |
 
-**Ausrüstung:** Ring (Abwehr +3), Vertrauter (Zaubern +1)
+**Ausrüstung:** Ring (Abwehr +3), [Vertrauter](../../grw/talente/vertrauter.md) (Zaubern +1)
 
-**Abklingen II:** Abklingzeit aller Zauber -1 Runde
+**Abklingen II:** Abklingzeit aller [Zauber](../../fanwerk/zauber/zauber.md) -1 Runde
 
 **Einstecker II:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
@@ -34,15 +34,15 @@
 
 **Rüstzauberer I:** PA-Malus -2 pro Talentrang ignorieren.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 **Schütze I:** Schiessen, Zielzauber +1 pro Talentrang.
 
-**Vertrauter I:** ein Vertrauter mit VE+1, Bonus +1 auf speziellen Kampfwert
+**Vertrauter I:** ein [Vertrauter](../../grw/talente/vertrauter.md) mit VE+1, Bonus +1 auf speziellen Kampfwert
 
-**Zauber:** Flackern (+1), Glühender Glaube (-2), Heilbeeren (+3), Heilende Hand (+4), Magische Rüstung (+3), Magische Waffe, Schutzschild (+3), Segen
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (+1), [Glühender Glaube](../../grw/zauber/gluehender-glaube.md) (-2), [Heilbeeren](../../grw/zauber/heilbeeren.md) (+3), [Heilende Hand](../../grw/zauber/heilende-hand.md) (+4), [Magische Rüstung](../../grw/zauber/magische-ruestung.md) (+3), [Magische Waffe](../../grw/zauber/magische-waffe.md), [Schutzschild](../../grw/zauber/schutzschild.md) (+3), [Segen](../../grw/zauber/segen.md)
 
-**Zielzauber:** Heilendes Licht (+5)
+**Zielzauber:** [Heilendes Licht](../../grw/zauber/heilendes-licht.md) (+5)
 
 ---
 

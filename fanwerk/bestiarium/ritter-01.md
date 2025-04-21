@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  6  | GEI        |  6  |
@@ -27,9 +27,9 @@
 
 **Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-**Reiten I:** Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
+**Reiten I:** [Reiten](../../grw/talente/reiten.md) +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 ---
 

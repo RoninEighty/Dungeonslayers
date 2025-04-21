@@ -20,7 +20,7 @@
 | :-------------------: |
 | Schuppenpanzer (PA+1) |
 
-**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
 **Schleudern:** Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
 

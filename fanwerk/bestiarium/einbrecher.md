@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Halbling
-- Klasse: Späher 1
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |
@@ -23,7 +23,7 @@
 | :----------------: |
 | Lederpanzer (PA+1) |
 
-**Akrobat I:** Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+**Akrobat I:** Athletik, [Balancieren](../../grw/zauber/balancieren.md), [Klettern](../../fanwerk/zauber/klettern.md), [Springen](../../grw/zauber/springen.md) +2 pro Talentrang.
 
 **Diebeskunst I:** Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
 

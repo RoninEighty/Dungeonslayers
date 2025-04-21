@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 2
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 2
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  8  | GEI        |  4  |
@@ -23,7 +23,7 @@
 | :----------------: |
 | Lederpanzer (PA+1) |
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Jäger I:** Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 

@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
@@ -23,7 +23,7 @@
 | :----------------: |
 | Lederpanzer (PA+1) |
 
-**Akrobat I:** Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+**Akrobat I:** Athletik, [Balancieren](../../grw/zauber/balancieren.md), [Klettern](../../fanwerk/zauber/klettern.md), [Springen](../../grw/zauber/springen.md) +2 pro Talentrang.
 
 **Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
@@ -31,9 +31,9 @@
 
 **Kämpfer I:** Schlagen +1 pro Talentrang.
 
-**Schwimmen I:** Schwimmen +3 pro Talentrang.
+**Schwimmen I:** [Schwimmen](../../grw/talente/schwimmen.md) +3 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

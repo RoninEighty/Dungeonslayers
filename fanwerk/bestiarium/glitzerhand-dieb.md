@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Späher 6
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 6
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |

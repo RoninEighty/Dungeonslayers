@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Schwarzmagier 12
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 12
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  8  | AGI        |  4  | GEI        |  8  |
@@ -24,23 +24,23 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Ausrüstung:** Ring (Schütze +III), Ring (Zauber: Feuerball Abklingzeit bei Träger verkürzt um 2 Runden), Stab (Zauber: Flackern als Zauberstab), Stab (Zauber: Verteidigung als Zauberstab), Stab (Zauber: Feuerball als Zauberstab), Stiefel (Flink +III)
+**Ausrüstung:** Ring (Schütze +III), Ring (Zauber: [Feuerball](../../grw/zauber/feuerball.md) Abklingzeit bei Träger verkürzt um 2 Runden), Stab (Zauber: [Flackern](../../grw/zauber/flackern.md) als Zauberstab), Stab (Zauber: [Verteidigung](../../grw/zauber/verteidigung.md) als Zauberstab), Stab (Zauber: [Feuerball](../../grw/zauber/feuerball.md) als Zauberstab), Stiefel (Flink +III)
 
-**Abklingen III:** Abklingzeit aller Zauber -1 Runde
+**Abklingen III:** Abklingzeit aller [Zauber](../../fanwerk/zauber/zauber.md) -1 Runde
 
 **Einstecker III:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 **Schütze III:** Schiessen, Zielzauber +1 pro Talentrang.
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Flackern (-2), Magische Rüstung, Schutzschild, Verteidigung
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (-2), [Magische Rüstung](../../grw/zauber/magische-ruestung.md), [Schutzschild](../../grw/zauber/schutzschild.md), [Verteidigung](../../grw/zauber/verteidigung.md)
 
-**Zielzauber:** Blitz (+3), Feuerball (+3), Feuerstrahl (+1), Schattenpfeil (+2)
+**Zielzauber:** [Blitz](../../grw/zauber/blitz.md) (+3), [Feuerball](../../grw/zauber/feuerball.md) (+3), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+1), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
 ---
 

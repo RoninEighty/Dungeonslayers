@@ -20,7 +20,7 @@
 | :---------: |
 | Fell (PA+1) |
 
-**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
 ---
 

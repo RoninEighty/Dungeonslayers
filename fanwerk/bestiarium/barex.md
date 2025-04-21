@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Zwerg
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Dunkelsicht, Langlebig, Zäh
 
 | KÖR    |  8  | AGI      |  8  | GEI        |  4  |

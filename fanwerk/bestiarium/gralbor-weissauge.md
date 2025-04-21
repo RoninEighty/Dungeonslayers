@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 9
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 9
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  9  |
@@ -30,19 +30,19 @@
 
 **Fürsorger III:** Heil- und Schutzzauber +1 pro Talentrang.
 
-**Magieresistent III:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Magieresistent III:** [Zauber](../../fanwerk/zauber/zauber.md) gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-**Wechsler III:** Zauber wechseln +2 pro Talentrang.
+**Wechsler III:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht II:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Bannen (-(KÖR+AU)/2), Flackern (+1), Giftbann, Glühender Glaube (-2), Heilbeeren (+3), Heilende Aura (+3), Heilende Hand (+4), Schutzfeld (+3), Schutzkuppel (+3), Schutzschild (+3), Segen, Stossgebet (-(KÖR+AU)/2)
+**Zauber:** [Bannen](../../grw/zauber/bannen.md) (-(KÖR+AU)/2), [Flackern](../../grw/zauber/flackern.md) (+1), [Giftbann](../../grw/zauber/giftbann.md), [Glühender Glaube](../../grw/zauber/gluehender-glaube.md) (-2), [Heilbeeren](../../grw/zauber/heilbeeren.md) (+3), [Heilende Aura](../../grw/zauber/heilende-aura.md) (+3), [Heilende Hand](../../grw/zauber/heilende-hand.md) (+4), [Schutzfeld](../../grw/zauber/schutzfeld.md) (+3), [Schutzkuppel](../../grw/zauber/schutzkuppel.md) (+3), [Schutzschild](../../grw/zauber/schutzschild.md) (+3), [Segen](../../grw/zauber/segen.md), [Stossgebet](../../grw/zauber/stossgebet.md) (-(KÖR+AU)/2)
 
 **Zielzauber:**
 

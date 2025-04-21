@@ -20,7 +20,7 @@
 | :-----------: |
 | Gehölz (PA+1) |
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Mehrere Angriffe (+4):** Kann 4 zusätzliche Hiebe mit seinen unzähligen Wurzeln in jeder Runde aktionsfrei ausführen.
 

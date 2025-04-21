@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Dämonologe
+- Klasse: [Dämonologe](../../grw/charaktere-heldenklassen-daemonologe.md)
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  9  |
@@ -24,11 +24,11 @@
 | :-------: |
 |           |
 
-**Beschwörer III:** +2 Bonus auf Dämonen beschwören & kontrollieren
+**Beschwörer III:** +2 Bonus auf [Dämonen beschwören](../../grw/zauber/daemonen-beschwoeren.md) & kontrollieren
 
 **Bändiger I:** Mit GEI+AU Wesenheiten kontrollieren
 
-**Diener der Dunkelheit V:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit V:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
 **Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
@@ -40,10 +40,10 @@
 
 **Zaubermacht III:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Dämonen beschwören (-(KÖR+AU)+BB), Ebenentor (-8), Erdspalt (-4), Kontrollieren (-(GEI+AU)/2), Trugbild [!] (-2), Versetzte Stimme (-1/10m), Wächter, Zaubertrick, Zombies erwecken
+**Zauber:** [Dämonen beschwören](../../grw/zauber/daemonen-beschwoeren.md) (-(KÖR+AU)+BB), [Ebenentor](../../grw/zauber/ebenentor.md) (-8), [Erdspalt](../../grw/zauber/erdspalt.md) (-4), [Kontrollieren](../../grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Trugbild](../../grw/zauber/trugbild.md) [!] (-2), [Versetzte Stimme](../../grw/zauber/versetzte-stimme.md) (-1/10m), [Wächter](../../grw/zauber/waechter.md), [Zaubertrick](../../grw/zauber/zaubertrick.md), [Zombies erwecken](../../grw/zauber/zombies-erwecken.md)
 
-**Zielzauber:** Blut kochen (-(KÖR+AU)/2), Feuerstrahl (+2), Flammeninferno (+6), Halt (-(KÖR+AU)/2), Schattenlanze (+5), Schattenpfeil (+2)
+**Zielzauber:** [Blut kochen](../../grw/zauber/blut-kochen.md) (-(KÖR+AU)/2), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+2), [Flammeninferno](../../grw/zauber/flammeninferno.md) (+6), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2), [Schattenlanze](../../grw/zauber/schattenlanze.md) (+5), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Der verdorbene Baumherr | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Der verdorbene [Baumherr](../../grw/bestiarium/baumherr.md) | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

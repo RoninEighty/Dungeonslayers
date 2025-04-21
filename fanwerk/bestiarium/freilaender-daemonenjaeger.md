@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 1
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
@@ -28,7 +28,7 @@
 
 **Fieser Schuss I:** Schießen +AGI
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 **Schütze I:** Schiessen, Zielzauber +1 pro Talentrang.
 

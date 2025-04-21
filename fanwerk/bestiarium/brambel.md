@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Späher 0
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 0
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |
@@ -23,15 +23,15 @@
 | :----------------: |
 | Lederpanzer (PA+2) |
 
-**Ausweichen III:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen III:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
-**Handwerk I:** +3 pro Talentrang auf ausgewähltes Handwerk.
+**Handwerk I:** +3 pro Talentrang auf ausgewähltes [Handwerk](../../grw/talente/handwerk.md).
 
 **Heimlichkeit III:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
 **Schlitzohr III:** Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

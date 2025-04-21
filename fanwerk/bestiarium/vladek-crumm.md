@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 6
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 6
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  8  | GEI        |  4  |
@@ -17,7 +17,7 @@
 
 |                                Bewaffnung                                |
 | :----------------------------------------------------------------------: |
-| Kurzschwert (WB+2, INI+1, GA-1), Bihänder (2h) (WB+5, GA-6, Kämpfer +II) |
+| Kurzschwert (WB+2, INI+1, GA-1), Bihänder (2h) (WB+5, GA-6, [Kämpfer](../../grw/talente/kaempfer.md) +II) |
 
 |                                       Panzerung                                        |
 | :------------------------------------------------------------------------------------: |
@@ -25,15 +25,15 @@
 
 **Ausrüstung:** Kette (Abwehr +1)
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Brutaler Hieb I:** Schlagen +KÖR
 
 **Kämpfer III:** Schlagen +1 pro Talentrang.
 
-**Schnelle Reflexe II:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe II:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
-**Zwei Waffen II:** Bei Kampf mit zwei Waffen Malus -2 pro Talentrang.
+**Zwei Waffen II:** Bei [Kampf](../../grw/regeln-kampf.md) mit zwei Waffen Malus -2 pro Talentrang.
 
 ---
 

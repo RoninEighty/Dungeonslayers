@@ -23,13 +23,13 @@
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Flackern (-2), Fluch (-(GEI+AU)/2), Kleiner Terror [!] (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magie entdecken, Magische Waffe, Schweben, Skelette erwecken, Spionage, Volksgestalt (-4), Öffnen (-SW)
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (-2), [Fluch](../../grw/zauber/fluch.md) (-(GEI+AU)/2), [Kleiner Terror](../../grw/zauber/kleiner-terror.md) [!] (-(GEI+VE)/2), [Kontrollieren](../../grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Magie entdecken](../../grw/zauber/magie-entdecken.md), [Magische Waffe](../../grw/zauber/magische-waffe.md), [Schweben](../../grw/zauber/schweben.md), [Skelette erwecken](../../grw/zauber/skelette-erwecken.md), [Spionage](../../grw/zauber/spionage.md), [Volksgestalt](../../grw/zauber/volksgestalt.md) (-4), [Öffnen](../../grw/zauber/oeffnen.md) (-SW)
 
-**Zielzauber:** Schatten (-(AGI+AU)/2), _Schattenpfeil (+2)_
+**Zielzauber:** [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), _Schattenpfeil (+2)_
 
 ---
 

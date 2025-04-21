@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Zauberer 1
+- Klasse: [Zauberer](../../grw/charaktere-klasse-zauberer.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  4  | AGI        |  8  | GEI        |  8  |
@@ -24,17 +24,17 @@
 | :-------: |
 |           |
 
-**Akrobat I:** Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+**Akrobat I:** Athletik, [Balancieren](../../grw/zauber/balancieren.md), [Klettern](../../fanwerk/zauber/klettern.md), [Springen](../../grw/zauber/springen.md) +2 pro Talentrang.
 
 **Charmant I:** Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
 **Flink I:** Laufen +1m pro Talentrang.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zauber:** _Zaubertrick_
 

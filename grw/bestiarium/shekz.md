@@ -21,13 +21,13 @@
 | :----------: |
 | Felle (PA+1) |
 
-**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 **Zauber:** _Einschläfern [!] (-(KÖR+VE)/2)_
 
-**Zielzauber:** Feuerstrahl (+1)
+**Zielzauber:** [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+1)
 
 ---
 

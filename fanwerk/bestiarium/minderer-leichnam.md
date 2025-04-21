@@ -23,17 +23,17 @@
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Lähmungseffekt:** Lähmende Berührung macht Ziel für Probenergebnis in Kampfrunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt.
 
 **Magische Aufladung:** Kann sich für eine Runde magisch aufladen (zählt als Aktion), um in der nächsten Runde einen Bonus von +GEI auf Zielzauber zu erhalten.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Arkanes Schwert, Botschaft, Durchlässig (-4), Dämonen beschwören (-(KÖR+AU)+BB), Feuerwand (-2), Flackern (-2), Fliegen, Gehorche [!] (-(GEI+VE)/2), Kontrollieren (-(GEI+AU)/2), Magie bannen (-Stufe od. -LK/2), Magie entdecken, Magie identifizieren, Schatten erwecken, Spionage, Teleport (-1/Begleiter), Terror [!] (-(GEI+VE)/2), Totengespräch, Unsichtbarkeit, Volksgestalt (-4), Zombies erwecken
+**Zauber:** [Arkanes Schwert](../../grw/zauber/arkanes-schwert.md), [Botschaft](../../grw/zauber/botschaft.md), [Durchlässig](../../grw/zauber/durchlaessig.md) (-4), [Dämonen beschwören](../../grw/zauber/daemonen-beschwoeren.md) (-(KÖR+AU)+BB), [Feuerwand](../../grw/zauber/feuerwand.md) (-2), [Flackern](../../grw/zauber/flackern.md) (-2), [Fliegen](../../grw/zauber/fliegen.md), [Gehorche](../../grw/zauber/gehorche.md) [!] (-(GEI+VE)/2), [Kontrollieren](../../grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Magie bannen](../../grw/zauber/magie-bannen.md) (-Stufe od. -LK/2), [Magie entdecken](../../grw/zauber/magie-entdecken.md), [Magie identifizieren](../../grw/zauber/magie-identifizieren.md), [Schatten erwecken](../../grw/zauber/schatten-erwecken.md), [Spionage](../../grw/zauber/spionage.md), [Teleport](../../grw/zauber/teleport.md) (-1/Begleiter), [Terror](../../grw/zauber/terror.md) [!] (-(GEI+VE)/2), [Totengespräch](../../grw/zauber/totengespraech.md), [Unsichtbarkeit](../../grw/zauber/unsichtbarkeit.md), [Volksgestalt](../../grw/zauber/volksgestalt.md) (-4), [Zombies erwecken](../../grw/zauber/zombies-erwecken.md)
 
-**Zielzauber:** Feuerball (+3), Kettenblitz (+3), _Schattenlanze (+5)_, Telekinese (-1/Stufe x5 kg)
+**Zielzauber:** [Feuerball](../../grw/zauber/feuerball.md) (+3), [Kettenblitz](../../grw/zauber/kettenblitz.md) (+3), _Schattenlanze (+5)_, [Telekinese](../../grw/zauber/telekinese.md) (-1/Stufe x5 kg)
 
 ---
 

@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Gnom
-- Klasse: Zauberer 1
+- Klasse: [Zauberer](../../grw/charaktere-klasse-zauberer.md) 1
 - Volksfähigkeiten: Dunkelsicht, Klein, Langlebig, Magisch begabt, Zäh, Zäher als sie aussehen
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
@@ -26,13 +26,13 @@
 
 **Diebeskunst I:** Fallen entdecken/entschärfen, Bemerken, Mechanismus und Schlösser öffnen, Suchen, Taschendiebstahl, Glücksspiel +2 pro Talentrang.
 
-**Handwerk II:** +3 pro Talentrang auf ausgewähltes Handwerk.
+**Handwerk II:** +3 pro Talentrang auf ausgewähltes [Handwerk](../../grw/talente/handwerk.md).
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zauber:** _Magisches Schloss_
 

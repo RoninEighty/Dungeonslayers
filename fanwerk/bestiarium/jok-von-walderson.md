@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 8
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 8
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
@@ -17,11 +17,11 @@
 
 |                         Bewaffnung                         |
 | :--------------------------------------------------------: |
-| Langschwert (WB+3, INI+1, GA-1, Dämonen zerschmettern +II) |
+| Langschwert (WB+3, INI+1, GA-1, [Dämonen zerschmettern](../../grw/talente/daemonen-zerschmettern.md) +II) |
 
 |                                                       Panzerung                                                        |
 | :--------------------------------------------------------------------------------------------------------------------: |
-| Metallhelm (PA+3, Zauber: Giftschutz eingebettet), Metallschild (PA+2, Standhaft +II), Kettenpanzer (PA+2, Laufen-0.5) |
+| Metallhelm (PA+3, Zauber: [Giftschutz](../../grw/zauber/giftschutz.md) eingebettet), Metallschild (PA+2, [Standhaft](../../grw/talente/standhaft.md) +II), Kettenpanzer (PA+2, Laufen-0.5) |
 
 **Brutaler Hieb II:** Schlagen +KÖR
 
@@ -43,4 +43,4 @@
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Chalog Omesch | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: [Chalog Omesch](../../fanwerk/bestiarium/chalog-omesch.md) | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

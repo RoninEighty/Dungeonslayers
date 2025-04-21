@@ -24,13 +24,13 @@
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Regeneration:** Regeneriert jede Kampfrunde aktionsfrei LK in Höhe des Probenergebnisses der Regenerations- Probe (PW: KÖR). Durch Feuer oder Weihwasser verlorene LK können nicht regeneriert werden.
 
-**Resistenz:** Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet
+**Resistenz:** [Kontrollieren](../../grw/zauber/kontrollieren.md) und [Vertreiben](../../grw/zauber/vertreiben.md) zusätzlich -2, wenn gegen diese Kreatur gerichtet
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 

@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Späher 1
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |
@@ -29,11 +29,11 @@
 
 **Schlitzohr I:** Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-**Schwimmen I:** Schwimmen +3 pro Talentrang.
+**Schwimmen I:** [Schwimmen](../../grw/talente/schwimmen.md) +3 pro Talentrang.
 
 **Schütze I:** Schiessen, Zielzauber +1 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

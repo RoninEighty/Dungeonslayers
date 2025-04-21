@@ -20,7 +20,7 @@
 | :-------: |
 |           |
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Lähmungseffekt:** Netzflüssigkeit (nur alle 10 Kampfrunden einsetzbar) macht Ziel für Probenergebnis in Kamprunden bewegungsunfähig, sofern ihm nicht KÖR+ST gelingt.
 

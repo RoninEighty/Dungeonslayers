@@ -21,7 +21,7 @@
 | :---------------------------------------------------------------------------------------: |
 | Plattenpanzer (PA+3, Laufen-1), Metallhelm (PA+1, INI-1), Metallschild (PA+1, Laufen-0.5) |
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 

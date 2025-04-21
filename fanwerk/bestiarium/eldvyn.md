@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Krieger 3
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 3
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR    |  7  | AGI      |  7  | GEI        |  6  |
@@ -27,7 +27,7 @@
 
 **Parade III:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

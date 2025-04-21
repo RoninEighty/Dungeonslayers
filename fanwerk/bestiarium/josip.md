@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Attentäter 16
+- Klasse: [Attentäter](../../grw/charaktere-heldenklassen-attentaeter.md) 16
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 - Modifikation: Heroisch
 
@@ -18,19 +18,19 @@
 
 |                 Bewaffnung                  |
 | :-----------------------------------------: |
-| Dolch (WB+3, INI+4, GA-3, Aderschlitzer +V) |
+| Dolch (WB+3, INI+4, GA-3, [Aderschlitzer](../../grw/talente/aderschlitzer.md) +V) |
 
 |          Panzerung          |
 | :-------------------------: |
-| Robe (PA+3, Ausweichen +IV) |
+| Robe (PA+3, [Ausweichen](../../grw/talente/ausweichen.md) +IV) |
 
 **Ausrüstung:** Des Schnitzers Gewandt (Set) (KÖR +1, AGI +1, GEI +1), Handschuhe (Schnelle Reflexe +II), Maske (Wahrnehmung +IV), Stiefel (Schnelle Reflexe +II), Umhang (Heimlichkeit +IV)
 
-**Ausweichen V:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen V:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
-**Diener der Dunkelheit III:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit III:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-**Handwerk III:** +3 pro Talentrang auf ausgewähltes Handwerk.
+**Handwerk III:** +3 pro Talentrang auf ausgewähltes [Handwerk](../../grw/talente/handwerk.md).
 
 **Heimlichkeit V:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
@@ -38,7 +38,7 @@
 
 **Meucheln III:** GA-5 pro Talentrang in Verbindung mit hinterhätigem Angriff.
 
-**Schnelle Reflexe V:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe V:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 **Verletzen V:** GA-1 bei Nahkampfangriff
 

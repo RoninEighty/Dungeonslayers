@@ -22,7 +22,7 @@
 
 **Anfällig:** Erhält doppelten Schaden und um 4 verminderte Abwehr und Angriff, sofern am Boden. Ausserdem wird Laufen auf 4 reduziert.
 
-**Angst:** Kann einmal pro Kampf auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
+**Angst:** Kann einmal pro [Kampf](../../grw/regeln-kampf.md) auf Sicht aktionsfrei Angst erzeugen. Wer GEI+VE+Stufe nicht schafft, ist eingeschüchert und erhält bis zum Ende des Kampfes -2 auf alle Proben. Bei einem Patzer ergreift man die Flucht.
 
 **Fliegen:** Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 

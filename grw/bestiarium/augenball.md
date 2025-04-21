@@ -21,11 +21,11 @@
 | :---------------: |
 | Warzenhaut (PA+2) |
 
-**Antimagie:** Sämtliche Magie in einem Radius von 10m Metern um den großen Augenball herum ist wirkungslos. Dies gilt nicht für die eigene Magie der Kreatur oder deren Zauber.
+**Antimagie:** Sämtliche Magie in einem Radius von 10m Metern um den großen Augenball herum ist wirkungslos. Dies gilt nicht für die eigene Magie der Kreatur oder deren [Zauber](../../fanwerk/zauber/zauber.md).
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Mehrere Angriffe (+4):** Kann 4 zusätzliche Zaubersprüche in jeder Runde aktionsfrei wirken, keinen einzelnen Zauberspruch jedoch mehr als einmal. Abklingzeiten müssen weiterhin berücksichtigt werden.
+**Mehrere Angriffe (+4):** Kann 4 zusätzliche [Zaubersprüche](../../grw/zaubersprueche.md) in jeder Runde aktionsfrei wirken, keinen einzelnen Zauberspruch jedoch mehr als einmal. Abklingzeiten müssen weiterhin berücksichtigt werden.
 
 **Mehrere Angriffsglieder:** Greift mit 5 von insgesamt 10 Augen gleichzeitig an, die Gegner mit einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffsanzahl letztendlich sinkt.
 
@@ -33,9 +33,9 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Einschläfern [!] (-(KÖR+VE)/2), Gehorche [!] (-(GEI+VE)/2), Schutzfeld, Schutzschild, Unsichtbarkeit, Verwirren [!] (-(GEI+AU)/2)
+**Zauber:** [Einschläfern](../../grw/zauber/einschlaefern.md) [!] (-(KÖR+VE)/2), [Gehorche](../../grw/zauber/gehorche.md) [!] (-(GEI+VE)/2), [Schutzfeld](../../grw/zauber/schutzfeld.md), [Schutzschild](../../grw/zauber/schutzschild.md), [Unsichtbarkeit](../../grw/zauber/unsichtbarkeit.md), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2)
 
-**Zielzauber:** Blenden (-(AGI+AU)/2), Kettenblitz (+3), Schleudern (-(KÖR+AU)/2), Telekinese (-1/Stufe x5 kg)
+**Zielzauber:** [Blenden](../../grw/zauber/blenden.md) (-(AGI+AU)/2), [Kettenblitz](../../grw/zauber/kettenblitz.md) (+3), [Schleudern](../../grw/zauber/schleudern.md) (-(KÖR+AU)/2), [Telekinese](../../grw/zauber/telekinese.md) (-1/Stufe x5 kg)
 
 ---
 

@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Schwarzmagier 10
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 10
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  5  | GEI        | 10  |
@@ -18,33 +18,33 @@
 
 |                                  Bewaffnung                                   |
 | :---------------------------------------------------------------------------: |
-| Keule (WB+1, Diener der Dunkelheit +III, Zauber: Wolke des Todes eingebettet) |
+| Keule (WB+1, [Diener der Dunkelheit](../../grw/talente/diener-der-dunkelheit.md) +III, Zauber: [Wolke des Todes](../../grw/zauber/wolke-des-todes.md) eingebettet) |
 
 | Panzerung |
 | :-------: |
 |           |
 
-**Ausrüstung:** bunte Feder (Kraft der Bestie +I, Adlergestalt +I), Kette (Tiergestalt +I, Kraft der Bestie +I), Umhang (Kraft der Bestie +I, Bärengestalt +I)
+**Ausrüstung:** bunte Feder (Kraft der Bestie +I, [Adlergestalt](../../grw/talente/adlergestalt.md) +I), Kette (Tiergestalt +I, [Kraft der Bestie](../../grw/talente/kraft-der-bestie.md) +I), Umhang (Kraft der Bestie +I, [Bärengestalt](../../grw/talente/baerengestalt.md) +I)
 
 **Alchemie III:** Tränke identifizieren und herstellen +1 pro Talentrang.
 
-**Diener der Dunkelheit I:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit I:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
 **Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
-**Magieresistent I:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Magieresistent I:** [Zauber](../../fanwerk/zauber/zauber.md) gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
-**Manipulator I:** Geistesbeeinflussende Zauber [!] +1 pro Talentrang.
+**Manipulator I:** Geistesbeeinflussende [Zauber](../../fanwerk/zauber/zauber.md) [!] +1 pro Talentrang.
 
-**Wechsler III:** Zauber wechseln +2 pro Talentrang.
+**Wechsler III:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Zauber:** Fluch (-(GEI+AU)/2), Gehorche [!] (-(GEI+VE)/2+1), Magische Waffe, Spionage, Tarnender Nebel (-2), Terror [!] (-(GEI+VE)/2+1), Tierbeherrschung [!] (-LK/2+1), Totengespräch, Verwirren [!] (-(GEI+AU)/2+1)
+**Zauber:** [Fluch](../../grw/zauber/fluch.md) (-(GEI+AU)/2), [Gehorche](../../grw/zauber/gehorche.md) [!] (-(GEI+VE)/2+1), [Magische Waffe](../../grw/zauber/magische-waffe.md), [Spionage](../../grw/zauber/spionage.md), [Tarnender Nebel](../../grw/zauber/tarnender-nebel.md) (-2), [Terror](../../grw/zauber/terror.md) [!] (-(GEI+VE)/2+1), [Tierbeherrschung](../../grw/zauber/tierbeherrschung.md) [!] (-LK/2+1), [Totengespräch](../../grw/zauber/totengespraech.md), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2+1)
 
-**Zielzauber:** Halt (-(KÖR+AU)/2)
+**Zielzauber:** [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2)
 
 ---
 

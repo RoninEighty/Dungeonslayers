@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Heiler 1
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
@@ -28,11 +28,11 @@
 
 **Fürsorger I:** Heil- und Schutzzauber +1 pro Talentrang.
 
-**Instrument I:** +3 pro Talentrang auf ausgewähltes Instrument.
+**Instrument I:** +3 pro Talentrang auf ausgewähltes [Instrument](../../grw/talente/instrument.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zauber:** _Heilende Hand (+2)_
 

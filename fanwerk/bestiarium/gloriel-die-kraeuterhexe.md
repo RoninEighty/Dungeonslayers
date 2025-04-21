@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Schwarzmagier 1
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR     |  7  | AGI        |  5  | GEI        |  8  |
@@ -28,7 +28,7 @@
 
 **Feuermagier I:** Feuerzauber +1 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 

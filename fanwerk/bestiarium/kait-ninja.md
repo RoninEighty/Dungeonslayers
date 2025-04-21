@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Späher 1
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  8  | GEI        |  4  |
@@ -23,9 +23,9 @@
 | :---------------------------------------------------: |
 | Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1) |
 
-**Akrobat I:** Athletik, Balancieren, Klettern, Springen +2 pro Talentrang.
+**Akrobat I:** Athletik, [Balancieren](../../grw/zauber/balancieren.md), [Klettern](../../fanwerk/zauber/klettern.md), [Springen](../../grw/zauber/springen.md) +2 pro Talentrang.
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Flink I:** Laufen +1m pro Talentrang.
 
@@ -33,7 +33,7 @@
 
 **Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 ---
 

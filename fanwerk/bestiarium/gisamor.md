@@ -16,19 +16,19 @@
 
 |                   Bewaffnung                   |
 | :--------------------------------------------: |
-| Schattenklinge (WB+3, GA-4), Feuerlanze (WB+2) |
+| [Schattenklinge](../../grw/zauber/schattenklinge.md) (WB+3, GA-4), [Feuerlanze](../../grw/zauber/feuerlanze.md) (WB+2) |
 
 |       Panzerung        |
 | :--------------------: |
-| Schattenrüstung (PA+4) |
+| [Schattenrüstung](../../fanwerk/zauber/schattenruestung.md) (PA+4) |
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
 **Sturmangriff:** Wird mindestens eine Distanz in Höhe von Laufen gerannt, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Skelette erwecken
+**Zauber:** [Skelette erwecken](../../grw/zauber/skelette-erwecken.md)
 
 **Zielzauber:** _Feuerlanze (+2)_
 

@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Heiler 1
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR     |  8  | AGI        |  4  | GEI        |  8  |
@@ -24,13 +24,13 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Instrument I:** +3 pro Talentrang auf ausgewähltes Instrument.
+**Instrument I:** +3 pro Talentrang auf ausgewähltes [Instrument](../../grw/talente/instrument.md).
 
 **Jäger I:** Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zauber:** _Tiere besänftigen (-LK/5)_
 

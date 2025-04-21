@@ -14,7 +14,7 @@
 
 |                 Bewaffnung                 |
 | :----------------------------------------: |
-| Säurestrahl (WB+4), Säurestoß (WB+2, GA-2) |
+| [Säurestrahl](../../fanwerk/zauber/saeurestrahl.md) (WB+4), Säurestoß (WB+2, GA-2) |
 
 | Panzerung |
 | :-------: |

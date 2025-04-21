@@ -1,8 +1,8 @@
 ### Rattling Kriegshäuptling
 
 - Gruppe: Humanoide
-- Volk: Rattling
-- Klasse: Krieger 10
+- Volk: [Rattling](../../fanwerk/bestiarium/rattling.md)
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 10
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
 | KÖR    |  7  | AGI      |  8  | GEI        |  5  |
@@ -23,7 +23,7 @@
 | :------------------------------------------------------------------------------------------: |
 | Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Kettenpanzer (PA+2, Laufen-0.5) |
 
-**Ausweichen II:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen II:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Brutaler Hieb II:** Schlagen +KÖR
 
@@ -39,11 +39,11 @@
 
 **Parade II:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-**Schwimmen I:** Schwimmen +3 pro Talentrang.
+**Schwimmen I:** [Schwimmen](../../grw/talente/schwimmen.md) +3 pro Talentrang.
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

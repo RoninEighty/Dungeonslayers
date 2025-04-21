@@ -22,7 +22,7 @@
 
 **Gift:** Wird Schaden verursacht, würfelt das Ziel eine 'Gift trotzen'-Probe, ansonsten erhält es W20 Kampfrunden lang 1 nicht abwehrbaren Schadenspunkt pro Runde.
 
-**Sonar:** 'Sieht' per Sonar.
+**Sonar:** 'Sieht' per [Sonar](../../fanwerk/zauber/sonar.md).
 
 ---
 

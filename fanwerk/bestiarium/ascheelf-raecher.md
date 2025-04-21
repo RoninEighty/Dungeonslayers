@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Schwarzmagier 1
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
@@ -24,11 +24,11 @@
 | :-------: |
 |   Robe    |
 
-**Diener der Dunkelheit II:** Angriff +1 pro Talentrang gegen Diener des Lichts. Abwehr +1 pro Talentrang gegen Lichtzauber.
+**Diener der Dunkelheit II:** Angriff +1 pro Talentrang gegen [Diener des Lichts](../../grw/talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
 
-**Manipulator I:** Geistesbeeinflussende Zauber [!] +1 pro Talentrang.
+**Manipulator I:** Geistesbeeinflussende [Zauber](../../fanwerk/zauber/zauber.md) [!] +1 pro Talentrang.
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 

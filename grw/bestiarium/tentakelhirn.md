@@ -25,7 +25,7 @@
 
 **Schweben:** Kann, statt zu laufen, auch schweben. Wird die Aktion 'Rennen' ausgeführt, erhöht sich die Geschwindigkeit wie am Boden auf Laufen x 2.
 
-**Werteverlust:** Pro schadensverursachenden Treffer mit dem Gedankenzehrerstrahl-Zauber wird GEI um 1 gesenkt (bei GEI Null ist das Opfer wahnsinnig). Pro Anwendung des Zaubers Allheilung wird 1 verlorener Attributspunkt regeneriert.
+**Werteverlust:** Pro schadensverursachenden Treffer mit dem Gedankenzehrerstrahl-Zauber wird GEI um 1 gesenkt (bei GEI Null ist das Opfer wahnsinnig). Pro Anwendung des Zaubers [Allheilung](../../grw/zauber/allheilung.md) wird 1 verlorener Attributspunkt regeneriert.
 
 **Zauber:** _Gedankenzehrerstrahl (nicht sichtbar; verursacht mental Schaden und führt zu Werteverlust)_
 

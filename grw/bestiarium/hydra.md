@@ -24,7 +24,7 @@
 
 **Mehrere Angriffsglieder:** Greift mit insgesamt 6 Köpfen an, die Gegner bei einem erfolgreichen Schlagen-Immersieg abtrennen/zertrümmern, wodurch die Angriffszahl sinkt.
 
-**Nachtsicht:** Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
 **Natürliche Waffen:** Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 

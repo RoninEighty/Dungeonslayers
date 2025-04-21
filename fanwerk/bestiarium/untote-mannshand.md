@@ -22,15 +22,15 @@
 
 **Bodenkampf:** Erhält Schlagen + KÖR, wenn ein Gegner angegriffen wird, der am Boden liegt.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
 **Kletterläufer:** Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern.
 
-**Sonar:** 'Sieht' per Sonar.
+**Sonar:** 'Sieht' per [Sonar](../../fanwerk/zauber/sonar.md).
 
 **Umklammern:** Schlagen-Immersieg umklammert Ziel, welches fortan ST Punkte abwehrb. Schaden erleidet und einen Malus von -1 auf alle Proben pro 2 festgeklammerter Kreaturen erhält. Befreien: Opfer mit KÖR+ST vergleichende Probe gegen KÖR+ST des Umklammerers.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 

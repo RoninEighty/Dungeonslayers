@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Kriegszauberer 14
+- Klasse: [Kriegszauberer](../../grw/charaktere-heldenklassen-kriegszauberer.md) 14
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  7  | AGI        |  5  | GEI        |  8  |
@@ -18,15 +18,15 @@
 
 |                           Bewaffnung                            |
 | :-------------------------------------------------------------: |
-| Breitschwert (WB+3, INI+2, GA-4, Zauber: Feuerball eingebettet) |
+| Breitschwert (WB+3, INI+2, GA-4, Zauber: [Feuerball](../../grw/zauber/feuerball.md) eingebettet) |
 
 |                                      Panzerung                                       |
 | :----------------------------------------------------------------------------------: |
-| Lederpanzer (PA+1, Ausweichen +III), Lederschienen (Arm & Bein) (PA+1, Kämpfer +III) |
+| Lederpanzer (PA+1, [Ausweichen](../../grw/talente/ausweichen.md) +III), Lederschienen (Arm & Bein) (PA+1, [Kämpfer](../../grw/talente/kaempfer.md) +III) |
 
 **Arkane Explosion I:** Schaden PW: Rang x10; Durchmesser Stufe/2m pro Tag und Rang.
 
-**Ausweichen II:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen II:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Einbetten II:** +1 Bonus auf Herstellung mag. Gegenstände, Tränke, Schriftrollen.
 
@@ -40,19 +40,19 @@
 
 **Standhaft I:** LK-Schwelle für Bewusstlosigkeit -3 pro Talentrang.
 
-**Wechsler II:** Zauber wechseln +2 pro Talentrang.
+**Wechsler II:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet III:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauberwaffe I:** wie Talent Stabbindung, aber für spezielle Nahkampfwaffe
+**Zauberwaffe I:** wie Talent [Stabbindung](../../grw/talente/stabbindung.md), aber für spezielle Nahkampfwaffe
 
-**Zauber:** Duftnote, Heilbeeren
+**Zauber:** [Duftnote](../../grw/zauber/duftnote.md), [Heilbeeren](../../grw/zauber/heilbeeren.md)
 
-**Zielzauber:** Blenden (-(AGI+AU)/2), Feueratem (+6), Feuerball (+6), Feuerlanze (+5), Feuerstrahl (+4), Flammenklinge (+3), Halt (-(KÖR+AU)/2), Netz (-(AGI+ST)/2), Rost (-Stufe), Schatten (-(AGI+AU)/2), Schleudern (-(KÖR+AU)/2), Telekinese (-1/Stufe x5 kg)
+**Zielzauber:** [Blenden](../../grw/zauber/blenden.md) (-(AGI+AU)/2), [Feueratem](../../grw/zauber/feueratem.md) (+6), [Feuerball](../../grw/zauber/feuerball.md) (+6), [Feuerlanze](../../grw/zauber/feuerlanze.md) (+5), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+4), [Flammenklinge](../../grw/zauber/flammenklinge.md) (+3), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2), [Netz](../../grw/zauber/netz.md) (-(AGI+ST)/2), [Rost](../../grw/zauber/rost.md) (-Stufe), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), [Schleudern](../../grw/zauber/schleudern.md) (-(KÖR+AU)/2), [Telekinese](../../grw/zauber/telekinese.md) (-1/Stufe x5 kg)
 
 ---
 

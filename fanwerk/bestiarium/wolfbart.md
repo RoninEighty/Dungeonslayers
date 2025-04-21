@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Zwerg
-- Klasse: Waffenmeister 18
+- Klasse: [Waffenmeister](../../grw/charaktere-heldenklassen-waffenmeister.md) 18
 - Volksfähigkeiten: Dunkelsicht, Langlebig, Zäh
 - Modifikation: Heroisch
 
@@ -18,15 +18,15 @@
 
 |                                                             Bewaffnung                                                              |
 | :---------------------------------------------------------------------------------------------------------------------------------: |
-| Streithammer (2h) (WB+5, INI-2, GA-2, Stärke +2, Rundumschlag +I, Zauber: Schleudern eingebettet, Abklingzeit permanent ignorieren) |
+| Streithammer (2h) (WB+5, INI-2, GA-2, Stärke +2, [Rundumschlag](../../grw/talente/rundumschlag.md) +I, Zauber: [Schleudern](../../grw/zauber/schleudern.md) eingebettet, Abklingzeit permanent ignorieren) |
 
 |                                                              Panzerung                                                              |
 | :---------------------------------------------------------------------------------------------------------------------------------: |
-| Plattenpanzer (PA+5, Härte +2, Diener der Dunkelheit +II), Plattenbeinschienen (PA+2), Plattenarmschienen (PA+2), Metallhelm (PA+2) |
+| Plattenpanzer (PA+5, Härte +2, [Diener der Dunkelheit](../../grw/talente/diener-der-dunkelheit.md) +II), Plattenbeinschienen (PA+2), Plattenarmschienen (PA+2), Metallhelm (PA+2) |
 
-**Ausrüstung:** Fluch des Berserkers (Brutaler Hieb +II, Diener der Dunkelheit +II, Raserei +II, Standhaft +II), Handschuhe der Hammerkunst (Perfektion +III, Schnelle Reflexe +II), Haut des Eiswyrms (Einstecker +III, Diener der Dunkelheit +I), Knochenfußkette (Ausweichen +II, Flink +I)
+**Ausrüstung:** [Fluch](../../grw/zauber/fluch.md) des Berserkers (Brutaler Hieb +II, [Diener der Dunkelheit](../../grw/talente/diener-der-dunkelheit.md) +II, [Raserei](../../grw/talente/raserei.md) +II, [Standhaft](../../grw/talente/standhaft.md) +II), Handschuhe der Hammerkunst (Perfektion +III, [Schnelle Reflexe](../../grw/talente/schnelle-reflexe.md) +II), Haut des Eiswyrms (Einstecker +III, [Diener der Dunkelheit](../../grw/talente/diener-der-dunkelheit.md) +I), Knochenfußkette (Ausweichen +II, [Flink](../../grw/talente/flink.md) +I)
 
-**Ausweichen II:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen II:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Brutaler Hieb V:** Schlagen +KÖR
 
@@ -34,7 +34,7 @@
 
 **Rundumschlag I:** Schlagen -1, Abwehr -2 pro Gegner, mit 2h-Waffe/waffenlos
 
-**Schnelle Reflexe II:** Initiative +2 pro Talentrang. Pro Kampf und Talentrang einmal zusätzliche freie Aktion.
+**Schnelle Reflexe II:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
 ---
 

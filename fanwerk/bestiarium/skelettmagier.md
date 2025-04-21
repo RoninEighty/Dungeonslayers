@@ -23,15 +23,15 @@
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
 
-**Resistenz:** Kontrollieren und Vertreiben zusätzlich -2, wenn gegen diese Kreatur gerichtet
+**Resistenz:** [Kontrollieren](../../grw/zauber/kontrollieren.md) und [Vertreiben](../../grw/zauber/vertreiben.md) zusätzlich -2, wenn gegen diese Kreatur gerichtet
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Zauber:** Arkanes Schwert, Flackern (-2), Magische Rüstung, Schutzschild, Spurt (-2)
+**Zauber:** [Arkanes Schwert](../../grw/zauber/arkanes-schwert.md), [Flackern](../../grw/zauber/flackern.md) (-2), [Magische Rüstung](../../grw/zauber/magische-ruestung.md), [Schutzschild](../../grw/zauber/schutzschild.md), [Spurt](../../grw/zauber/spurt.md) (-2)
 
-**Zielzauber:** Blitz (+3), _Feuerball (+3)_, Feuerlanze (+2), Flammenklinge, Halt (-(KÖR+AU)/2)
+**Zielzauber:** [Blitz](../../grw/zauber/blitz.md) (+3), _Feuerball (+3)_, [Feuerlanze](../../grw/zauber/feuerlanze.md) (+2), [Flammenklinge](../../grw/zauber/flammenklinge.md), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2)
 
 ---
 

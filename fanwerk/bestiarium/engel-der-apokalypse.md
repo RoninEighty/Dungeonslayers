@@ -14,7 +14,7 @@
 
 |         Bewaffnung          |
 | :-------------------------: |
-| Schattenklinge (WB+5, GA-5) |
+| [Schattenklinge](../../grw/zauber/schattenklinge.md) (WB+5, GA-5) |
 
 |   Panzerung   |
 | :-----------: |
@@ -22,7 +22,7 @@
 
 **Fliegen:** Kann, statt zu laufen, mit doppelten Laufen-Wert fliegen. Wird die Aktion 'Rennen' im Flug ausgeführt, erhöht sich die Geschwindigkeit somit auf Laufen x 4.
 
-**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
 ---
 

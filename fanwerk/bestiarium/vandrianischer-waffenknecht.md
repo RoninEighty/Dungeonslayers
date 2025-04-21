@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Späher 2
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 2
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  7  | AGI      |  8  | GEI        |  5  |

@@ -24,9 +24,9 @@
 | :---------: |
 | Robe (PA+2) |
 
-**Zauber:** Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Terror [!] (-(GEI+VE)/2), Totengespräch, Verwirren [!] (-(GEI+AU)/2), Zombies erwecken, Öffnen (-SW)
+**Zauber:** [Kontrollieren](../../grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Skelette erwecken](../../grw/zauber/skelette-erwecken.md), [Terror](../../grw/zauber/terror.md) [!] (-(GEI+VE)/2), [Totengespräch](../../grw/zauber/totengespraech.md), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2), [Zombies erwecken](../../grw/zauber/zombies-erwecken.md), [Öffnen](../../grw/zauber/oeffnen.md) (-SW)
 
-**Zielzauber:** Feuerball (+3), Schattenpfeil (+2)
+**Zielzauber:** [Feuerball](../../grw/zauber/feuerball.md) (+3), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
 ---
 

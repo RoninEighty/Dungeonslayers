@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Elf
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Nachtsicht, Unsterblich
 
 | KÖR    |  8  | AGI      |  8  | GEI        |  4  |
@@ -23,13 +23,13 @@
 | :----------------------------------------------------------------------: |
 | Lederpanzer (PA+1), Lederschienen (Arm & Bein) (PA+1), Holzschild (PA+1) |
 
-**Blocker I:** Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro Kampf und Talentrang einen Abwehrpatzer wiederholen.
+**Blocker I:** Abwehr +2 pro Talentrang bei voller Schildverteidigung. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Abwehrpatzer wiederholen.
 
 **Jäger I:** Orientierung, Jagen, Feuer machen, Spuren lesen +2 pro Talentrang. Eine Mahlzeit pro Tag finden.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

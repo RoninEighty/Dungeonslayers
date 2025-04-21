@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Halbling
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
@@ -23,7 +23,7 @@
 | :-----------------------------------: |
 | Lederpanzer (PA+1), Holzschild (PA+1) |
 
-**Instrument I:** +3 pro Talentrang auf ausgewähltes Instrument.
+**Instrument I:** +3 pro Talentrang auf ausgewähltes [Instrument](../../grw/talente/instrument.md).
 
 **Kämpfer I:** Schlagen +1 pro Talentrang.
 
@@ -31,9 +31,9 @@
 
 **Schlitzohr I:** Handeln, Feilschen, Bluffen +3 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 ---
 

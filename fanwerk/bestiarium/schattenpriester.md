@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Schwarzmagier 5
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 5
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  8  | GEI        |  7  |
@@ -24,10 +24,10 @@
 | :----------------------------: |
 | Robe (runenbestickt) (Aura +1) |
 
-**Zauber:** Skelette erwecken, Verwirren [!] (-(GEI+AU)/2)
+**Zauber:** [Skelette erwecken](../../grw/zauber/skelette-erwecken.md), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2)
 
-**Zielzauber:** Niesanfall (-(KÖR+AU)/2), Schatten (-(AGI+AU)/2), Schattenpfeil (+2)
+**Zielzauber:** [Niesanfall](../../grw/zauber/niesanfall.md) (-(KÖR+AU)/2), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Kinder der Schatten | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Die Kinder der [Schatten](../../grw/zauber/schatten.md) | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

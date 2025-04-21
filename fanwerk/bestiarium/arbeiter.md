@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
@@ -17,7 +17,7 @@
 
 |   Bewaffnung    |
 | :-------------: |
-| Werkzeug (WB+2) |
+| [Werkzeug](../../fanwerk/bestiarium/werkzeug.md) (WB+2) |
 
 | Panzerung |
 | :-------: |
@@ -25,4 +25,4 @@
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Lockruf aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: [Lockruf](../../fanwerk/zauber/lockruf.md) aus der Finsternis | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_

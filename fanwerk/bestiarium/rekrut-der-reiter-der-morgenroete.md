@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Halbling
-- Klasse: Krieger 1
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 1
 - Volksfähigkeiten: Geschwind, Klein, Leichtfüßig, Magisch unbegabt, Talentiert, Zäher als sie aussehen
 
 | KÖR    |  8  | AGI      |  8  | GEI        |  4  |
@@ -27,7 +27,7 @@
 
 **Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
-**Reiten II:** Reiten +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
+**Reiten II:** [Reiten](../../grw/talente/reiten.md) +2 pro Talentrang. Berittenes Schlagen +1 pro Talentrang.
 
 **Waffenkenner I:** Schlagen +1, GA-1 für eine spezielle Waffengattung
 

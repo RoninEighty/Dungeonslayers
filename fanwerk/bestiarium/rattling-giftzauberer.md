@@ -1,8 +1,8 @@
 ### Rattling Giftzauberer
 
 - Gruppe: Humanoide
-- Volk: Rattling
-- Klasse: Schwarzmagier 6
+- Volk: [Rattling](../../fanwerk/bestiarium/rattling.md)
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 6
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
 | KÖR     |  5  | AGI        |  7  | GEI        |  8  |
@@ -26,7 +26,7 @@
 
 **Alchemie II:** Tränke identifizieren und herstellen +1 pro Talentrang.
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
@@ -34,15 +34,15 @@
 
 **Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-**Schwimmen I:** Schwimmen +3 pro Talentrang.
+**Schwimmen I:** [Schwimmen](../../grw/talente/schwimmen.md) +3 pro Talentrang.
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
 **Zaubermacht I:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Kontrollieren (-(GEI+AU)/2), Skelette erwecken, Tarnender Nebel (-2), Verwirren [!] (-(GEI+AU)/2)
+**Zauber:** [Kontrollieren](../../grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Skelette erwecken](../../grw/zauber/skelette-erwecken.md), [Tarnender Nebel](../../grw/zauber/tarnender-nebel.md) (-2), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2)
 
-**Zielzauber:** Feuerstrahl (+3), Schatten (-(AGI+AU)/2)
+**Zielzauber:** [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+3), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2)
 
 ---
 

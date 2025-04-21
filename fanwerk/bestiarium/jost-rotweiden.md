@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Paladin 15
+- Klasse: [Paladin](../../grw/charaktere-heldenklassen-paladin.md) 15
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  7  | AGI      |  7  | GEI        |  6  |

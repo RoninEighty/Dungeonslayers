@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Zwerg
-- Klasse: Späher 6
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 6
 - Volksfähigkeiten: Dunkelsicht, Langlebig, Zäh
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |

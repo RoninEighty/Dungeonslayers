@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Zauberer 7
+- Klasse: [Zauberer](../../grw/charaktere-klasse-zauberer.md) 7
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
@@ -18,7 +18,7 @@
 
 |                             Bewaffnung                             |
 | :----------------------------------------------------------------: |
-| Kampfstab (2h) (WB+1, Zielzauber +1, Zauber: Teleport eingebettet) |
+| Kampfstab (2h) (WB+1, Zielzauber +1, Zauber: [Teleport](../../grw/zauber/teleport.md) eingebettet) |
 
 |           Panzerung            |
 | :----------------------------: |
@@ -28,23 +28,23 @@
 
 **Feuermagier II:** Feuerzauber +1 pro Talentrang.
 
-**Magieresistent III:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Magieresistent III:** [Zauber](../../fanwerk/zauber/zauber.md) gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
 **Runenkunde I:** Schriftrollen identifizieren und herstellen +1 pro Talentrang.
 
-**Wechsler II:** Zauber wechseln +2 pro Talentrang.
+**Wechsler II:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
 **Zaubermacht II:** Zaubern/Zielzauber +GEI für 1 Runde, falls Schadens- oder Heilzauber
 
-**Zauber:** Giftbann, Giftschutz, Licht (+5), Magie entdecken, Magie identifizieren, Tiere besänftigen (-LK/5)
+**Zauber:** [Giftbann](../../grw/zauber/giftbann.md), [Giftschutz](../../grw/zauber/giftschutz.md), [Licht](../../grw/zauber/licht.md) (+5), [Magie entdecken](../../grw/zauber/magie-entdecken.md), [Magie identifizieren](../../grw/zauber/magie-identifizieren.md), [Tiere besänftigen](../../grw/zauber/tiere-besaenftigen.md) (-LK/5)
 
-**Zielzauber:** Feuerlanze (+4), Feuerstrahl (+3), Flammenklinge (+2)
+**Zielzauber:** [Feuerlanze](../../grw/zauber/feuerlanze.md) (+4), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+3), [Flammenklinge](../../grw/zauber/flammenklinge.md) (+2)
 
 ---
 

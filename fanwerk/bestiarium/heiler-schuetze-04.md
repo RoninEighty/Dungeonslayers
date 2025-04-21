@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 4
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 4
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  5  | AGI        |  7  | GEI        |  8  |
@@ -22,9 +22,9 @@
 
 |                                    Panzerung                                    |
 | :-----------------------------------------------------------------------------: |
-| Lederschienen (Arm & Bein) (PA+1, Schütze +III), Robe (runenbestickt) (Aura +1) |
+| Lederschienen (Arm & Bein) (PA+1, [Schütze](../../grw/talente/schuetze.md) +III), Robe (runenbestickt) (Aura +1) |
 
-**Abklingen I:** Abklingzeit aller Zauber -1 Runde
+**Abklingen I:** Abklingzeit aller [Zauber](../../fanwerk/zauber/zauber.md) -1 Runde
 
 **Einstecker II:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
@@ -32,9 +32,9 @@
 
 **Rüstzauberer I:** PA-Malus -2 pro Talentrang ignorieren.
 
-**Zauber:** Flackern (+1), Heilende Hand (+4), Magische Waffe, Segen
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (+1), [Heilende Hand](../../grw/zauber/heilende-hand.md) (+4), [Magische Waffe](../../grw/zauber/magische-waffe.md), [Segen](../../grw/zauber/segen.md)
 
-**Zielzauber:** Heilendes Licht (+5)
+**Zielzauber:** [Heilendes Licht](../../grw/zauber/heilendes-licht.md) (+5)
 
 ---
 

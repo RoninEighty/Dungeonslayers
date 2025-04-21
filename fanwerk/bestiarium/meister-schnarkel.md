@@ -1,8 +1,8 @@
 ### Meister Schnarkel
 
 - Gruppe: Humanoide
-- Volk: Rattling
-- Klasse: Zauberer 5
+- Volk: [Rattling](../../fanwerk/bestiarium/rattling.md)
+- Klasse: [Zauberer](../../grw/charaktere-klasse-zauberer.md) 5
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
 | KÖR     |  6  | AGI        |  6  | GEI        |  8  |
@@ -34,13 +34,13 @@
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
-**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet I:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Zauber:** Flackern (-2), Lauschen (-1/10m), Magie entdecken, Magie identifizieren, Magisches Schloss, Öffnen (-SW)
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (-2), [Lauschen](../../grw/zauber/lauschen.md) (-1/10m), [Magie entdecken](../../grw/zauber/magie-entdecken.md), [Magie identifizieren](../../grw/zauber/magie-identifizieren.md), [Magisches Schloss](../../grw/zauber/magisches-schloss.md), [Öffnen](../../grw/zauber/oeffnen.md) (-SW)
 
-**Zielzauber:** Blenden (-(AGI+AU)/2)
+**Zielzauber:** [Blenden](../../grw/zauber/blenden.md) (-(AGI+AU)/2)
 
 ---
 

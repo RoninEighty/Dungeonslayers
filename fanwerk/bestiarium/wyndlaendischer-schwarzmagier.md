@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Schwarzmagier 1
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  7  | AGI        |  5  | GEI        |  8  |
@@ -28,7 +28,7 @@
 
 **Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-**Tiergestalt I:** Verwandlung in normal großes Tier
+**Tiergestalt I:** [Verwandlung](../../grw/zauber/verwandlung.md) in normal großes Tier
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 

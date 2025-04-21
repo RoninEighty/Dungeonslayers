@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Krieger 9
+- Klasse: [Krieger](../../grw/charaktere-klasse-krieger.md) 9
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  8  | AGI      |  7  | GEI        |  5  |
@@ -27,7 +27,7 @@
 
 **Kämpfer III:** Schlagen +1 pro Talentrang.
 
-**Magieresistent II:** Zauber gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
+**Magieresistent II:** [Zauber](../../fanwerk/zauber/zauber.md) gegen den Charakter +2 pro Talentrang erschwert (Ausnahme: Elementarschaden).
 
 **Parade III:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 

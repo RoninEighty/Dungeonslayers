@@ -1,8 +1,8 @@
 ### Erfahrener Rattling
 
 - Gruppe: Humanoide
-- Volk: Rattling
-- Klasse: Späher 5
+- Volk: [Rattling](../../fanwerk/bestiarium/rattling.md)
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 5
 - Volksfähigkeiten: Dunkelsicht, Klein, Leichtfüßig, Lichtempfindlich, Resistenz gegen Krankheiten und Gifte, Zäher als sie aussehen
 
 | KÖR    |  6  | AGI      |  8  | GEI        |  6  |
@@ -23,7 +23,7 @@
 | :-----------------------------------------------------------------------------: |
 | Metallhelm (PA+1, INI-1), Lederschienen (Arm & Bein) (PA+1), Lederpanzer (PA+1) |
 
-**Ausweichen I:** Pro Kampf und Talentrang einen Nahkampfangriff ignorieren.
+**Ausweichen I:** Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einen Nahkampfangriff ignorieren.
 
 **Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
@@ -33,7 +33,7 @@
 
 **Heimlichkeit I:** Schleichen, Suchen, Taschendiebstahl, Verbergen +2 pro Talentrang.
 
-**Schwimmen I:** Schwimmen +3 pro Talentrang.
+**Schwimmen I:** [Schwimmen](../../grw/talente/schwimmen.md) +3 pro Talentrang.
 
 **Schütze II:** Schiessen, Zielzauber +1 pro Talentrang.
 

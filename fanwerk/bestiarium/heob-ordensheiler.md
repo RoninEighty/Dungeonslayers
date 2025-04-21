@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Heiler 6
+- Klasse: [Heiler](../../grw/charaktere-klasse-heiler.md) 6
 - Volksfähigkeiten: Talentiert
 
 | KÖR     |  8  | AGI        |  5  | GEI        |  7  |
@@ -22,9 +22,9 @@
 
 |                                                          Panzerung                                                           |
 | :--------------------------------------------------------------------------------------------------------------------------: |
-| Lederpanzer (PA+1, Parade +II, 1x aktionsfrei Waffe ziehen, Zauber: Bannen mit 12 Ladungen), Holzschild (PA+1, Blocker +III) |
+| Lederpanzer (PA+1, [Parade](../../grw/talente/parade.md) +II, 1x aktionsfrei Waffe ziehen, Zauber: [Bannen](../../grw/zauber/bannen.md) mit 12 Ladungen), Holzschild (PA+1, [Blocker](../../grw/talente/blocker.md) +III) |
 
-**Ausrüstung:** Krug (Zauber: Segen eingebettet)
+**Ausrüstung:** Krug (Zauber: [Segen](../../grw/zauber/segen.md) eingebettet)
 
 **Charmant I:** Soziale Interaktion, Flirten, Feilschen +2 pro Talentrang.
 
@@ -34,11 +34,11 @@
 
 **Rüstzauberer I:** PA-Malus -2 pro Talentrang ignorieren.
 
-**Wechsler II:** Zauber wechseln +2 pro Talentrang.
+**Wechsler II:** [Zauber](../../fanwerk/zauber/zauber.md) wechseln +2 pro Talentrang.
 
-**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes Wissensgebiet.
+**Wissensgebiet II:** +3 pro Talentrang auf ausgewähltes [Wissensgebiet](../../grw/talente/wissensgebiet.md).
 
-**Zauber:** Flackern (+1), Heilende Hand (+4), Schutzschild (+3), Stossgebet (-(KÖR+AU)/2), Vertreiben (-(KÖR+AU)/2), Wasser weihen
+**Zauber:** [Flackern](../../grw/zauber/flackern.md) (+1), [Heilende Hand](../../grw/zauber/heilende-hand.md) (+4), [Schutzschild](../../grw/zauber/schutzschild.md) (+3), [Stossgebet](../../grw/zauber/stossgebet.md) (-(KÖR+AU)/2), [Vertreiben](../../grw/zauber/vertreiben.md) (-(KÖR+AU)/2), [Wasser weihen](../../grw/zauber/wasser-weihen.md)
 
 **Zielzauber:**
 

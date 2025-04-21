@@ -2,7 +2,7 @@
 
 - Gruppe: Humanoide
 - Volk: Mensch
-- Klasse: Späher 1
+- Klasse: [Späher](../../grw/charaktere-klasse-spaeher.md) 1
 - Volksfähigkeiten: Talentiert
 
 | KÖR    |  7  | AGI      |  7  | GEI        |  6  |
@@ -17,7 +17,7 @@
 
 |       Bewaffnung       |
 | :--------------------: |
-| Werkzeug (WB+1, INI-3) |
+| [Werkzeug](../../fanwerk/bestiarium/werkzeug.md) (WB+1, INI-3) |
 
 | Panzerung |
 | :-------: |
