@@ -21,7 +21,7 @@
 | :-----------------: |
 | Merkt nichts (PA+2) |
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit (!) gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit [!] gekennzeichnet sind.
 
 **Mehrere Angriffe (+3):** Kann 3 zusätzliche Angriffe pro Runde aktionsfrei ausführen.
 

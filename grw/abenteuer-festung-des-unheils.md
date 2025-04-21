@@ -202,36 +202,40 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 
 ## NSC-Werte
 
-### SHEKZ
+### Shekz
+
+- Gruppe: Humanoide
 
 | KÖR     |  3  | AGI        |  5  | GEI        |  7  |
 | :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  4  |
 | HÄ      |  1  | GE         |  2  | AU         |  4  |
 |         |     |            |     |            |     |
-| LK      |  8  | Abwehr     |  4  | Initiative |  5  |
-| Laufen  | 3,5 | Schlagen   |     | Schiessen  |     |
-| Zaubern | 11  | Zielzauber | 10  |            |     |
+| LK      |  7  | Abwehr     |  5  | Initiative |  5  |
+| Laufen  | 3.5 | Schlagen   |  3  | Schiessen  |  7  |
+| Zaubern | 11  | Zielzauber |  9  |            |     |
 |         |     |            |     |            |     |
-| GH      |  2  | GK         | kl  | EP         | 50  |
+| GH      |  1  | GK         | kl  | EP         | 49  |
 
-|    Bewaffnung     |
-| :---------------: |
-| Ast/Messer (WB+0) |
+| Bewaffnung |
+| :--------: |
+| Wurfmesser |
 
-|     Panzerung      |
-| :----------------: |
-| Fellflicken (PA+1) |
+|  Panzerung   |
+| :----------: |
+| Felle (PA+1) |
 
-**Zauber**: [Einschläfern](zauber/einschlaefern.md), [Feuerstrahl](zauber/feuerstrahl.md)
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
-**Nachtsicht**: Kann bei einem Mindestmaß an Licht noch sehen wie am helllichten Tag.
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-**Wesen der Dunkelheit (Settingoption)**: Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Zauber:** _Einschläfern [!] (-(KÖR+VE)/2)_
 
-**Gruppe**: Humanoide, Goblin
+**Zielzauber:** [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+1)
 
-### FAULBAUCH
+### Faulbauch
+
+- Gruppe: Untote
 
 | KÖR    | 16  | AGI      |  6  | GEI        |  0  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
@@ -239,7 +243,7 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 | HÄ     |  5  | GE       |  0  | AU         |  0  |
 |        |     |          |     |            |     |
 | LK     | 62  | Abwehr   | 23  | Initiative |  6  |
-| Laufen | 4,5 | Schlagen | 24  | Schiessen  |     |
+| Laufen | 4.5 | Schlagen | 24  | Schiessen  |     |
 |        |     |          |     |            |     |
 | GH     | 17  | GK       | gr  | EP         | 131 |
 
@@ -251,25 +255,27 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 | :-----------------: |
 | Merkt nichts (PA+2) |
 
-**Geistesimmun**: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit [!] gekennzeichnet sind.
+**Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Schleudern**: Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit [!] gekennzeichnet sind.
 
-**Wesen der Dunkelheit (Settingoption)**: Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
+**Schleudern:** Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
 
-**Gruppe**: Untote
+**Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
-### FAULBAUCHMADE
+### Faulbauchmade
+
+- Gruppe: Untote
 
 | KÖR    |  6  | AGI      |  6  | GEI        |  0  |
 | :----- | :-: | :------- | :-: | :--------- | :-: |
 | ST     |  2  | BE       |  0  | VE         |  0  |
 | HÄ     |  4  | GE       |  0  | AU         |  0  |
 |        |     |          |     |            |     |
-| LK     | 15  | Abwehr   | 10  | Initiative |  6  |
-| Laufen |  6  | Schlagen | 10  | Schiessen  |     |
+| LK     | 10  | Abwehr   | 10  | Initiative |  6  |
+| Laufen |  4  | Schlagen | 10  | Schiessen  |     |
 |        |     |          |     |            |     |
-| GH     |  1  | GK       | kl  | EP         | 45  |
+| GH     |  1  | GK       | kl  | EP         | 47  |
 
 |     Bewaffnung     |
 | :----------------: |
@@ -279,36 +285,43 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 | :-------: |
 |           |
 
-**Geistesimmun**: Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und Zauber, die mit [!] gekennzeichnet sind.
+**Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Natürliche Waffen**: Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit [!] gekennzeichnet sind.
+
+**Natürliche Waffen:** Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
 **Gruppe**: Untote
 
-### ANKMATUR
+### Ankmatur
+
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: Nekromant 10
+- Volksfähigkeiten: Talentiert
 
 | KÖR     |  4  | AGI        |  8  | GEI        |  8  |
 | :------ | :-: | :--------- | :-: | :--------- | :-: |
 | ST      |  0  | BE         |  0  | VE         |  6  |
 | HÄ      |  4  | GE         |  2  | AU         |  5  |
 |         |     |            |     |            |     |
-| LK      | 19  | Abwehr     | 10  | Initiative |  8  |
+| LK      | 18  | Abwehr     | 10  | Initiative |  9  |
 | Laufen  |  5  | Schlagen   |  7  | Schiessen  |     |
-| Zaubern | 13  | Zielzauber | 13  |            |     |
+| Zaubern | 13  | Zielzauber | 10  |            |     |
 |         |     |            |     |            |     |
-| GH      | 10  | GK         | no  | EP         | 134 |
+| GH      |  1  | GK         | no  | EP         | 83  |
 
-|        Bewaffnung        |
-| :----------------------: |
-| mag. Langschw. +1 (WB+3) |
+|           Bewaffnung            |
+| :-----------------------------: |
+| Langschwert (WB+3, INI+1, GA-1) |
 
-|      Panzerung      |
-| :-----------------: |
-| mag. Robe +2 (PA+2) |
+|  Panzerung  |
+| :---------: |
+| Robe (PA+2) |
 
-**Zauber**: [Feuerball](zauber/feuerball.md), [Kontrollieren](zauber/kontrollieren.md), [Öffnen](zauber/oeffnen.md), [Schattenpfeil](zauber/schattenpfeil.md), [Skelette erwecken](zauber/skelette-erwecken.md), [Terror](zauber/terror.md), [Totengespräch](zauber/totengespraech.md), [Verwirren](zauber/verwirren.md), [Zombies erwecken](zauber/zombies-erwecken.md)
+**Zauber:** [Kontrollieren](../../grw/zauber/kontrollieren.md) (-(GEI+AU)/2), [Skelette erwecken](../../grw/zauber/skelette-erwecken.md), [Terror](../../grw/zauber/terror.md) [!] (-(GEI+VE)/2), [Totengespräch](../../grw/zauber/totengespraech.md), [Verwirren](../../grw/zauber/verwirren.md) [!] (-(GEI+AU)/2), [Zombies erwecken](../../grw/zauber/zombies-erwecken.md), [Öffnen](../../grw/zauber/oeffnen.md) (-SW)
 
-**Gruppe**: Humanoide, Mensch, [Nekromant](charaktere-heldenklassen-nekromant.md) Stufe 10
+**Zielzauber:** [Feuerball](../../grw/zauber/feuerball.md) (+3), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
 ---
 
