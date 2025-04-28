@@ -29,4 +29,4 @@
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) (C) Christian Kennig | Quelle: Das Geheimnis der heiligen Quelle | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Das Geheimnis der heiligen Quelle

@@ -22,4 +22,4 @@ Wird der Zauber von einem Blutmagier gewirkt, erhält das Ziel nach jedem Angrif
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Bruder Grimms Grimmoire 2 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Bruder Grimms Grimmoire 2

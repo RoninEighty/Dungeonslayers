@@ -1,9 +1,3 @@
-<!--
-    author: [DS4SRD+](https://github.com/RoninEighty/Dungeonslayers)
-    licence: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-    ref: Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig
--->
-
 # Übersicht über alle Zaubersprüche
 
 ## Grundregelwerk

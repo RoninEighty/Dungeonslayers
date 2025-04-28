@@ -16,4 +16,4 @@ Der Zauberwirker wird für jede eingesetzte Blutprobe, die er dabei verbraucht, 
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Dzaarions Zauber | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Dzaarions Zauber

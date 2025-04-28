@@ -1,13 +1,3 @@
-<!---
-Dies ist ein Fanwerk für DUNGEONSLAYERS © von Christian Kennig
-
-Quellen:      [Slay 02 Urbane Heldenklassen](https://www.f-space.de/ds4/downloads.html)
-              [Talentbeschreibungen](https://www.f-space.de/ds4/tools-talentcards.html)
-License:      [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtlinien/)
-Autor:        Zauberlehrling
--->
-
 ### Zauberwasser
 
 - Kategorie: #Talent
@@ -18,4 +8,4 @@ Der Charakter kann einen Trank improvisieren (Auswahl DS4 S. 96/97, max. im Wert
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Slay 02 Urbane Heldenklassen | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Slay 02 Urbane Heldenklassen

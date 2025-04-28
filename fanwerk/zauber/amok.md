@@ -16,4 +16,4 @@ Das Ziel verfällt in einen besinnungslosen Blutrausch und greift während der W
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Bruder Grimms Grimmoire 4 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Bruder Grimms Grimmoire 4

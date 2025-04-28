@@ -16,4 +16,4 @@ Der ZAW plus VE x 2 Gefährten in einem Radius von VE x 2 Metern werden unsichtb
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Bruder Grimms Grimmoire 4 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Bruder Grimms Grimmoire 4

@@ -18,4 +18,4 @@ Offensichtlich ist der Einsatz dieses Zaubers nur beim Spiel mit Slayerpunkten s
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Bruder Grimms Grimmoire 4 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Bruder Grimms Grimmoire 4

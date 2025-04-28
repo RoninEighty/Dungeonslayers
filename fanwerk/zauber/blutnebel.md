@@ -16,4 +16,4 @@ Um eine kreisrunde Fläche mit einem Radius von VE bildet sich ein Ring aus Blut
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Dzaarions Zauber | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Dzaarions Zauber

@@ -16,4 +16,4 @@ Eine Wand aus gallertiger Masse (Ausmaße max. 1 Meter x VE Meter x VE Meter) er
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Bruder Grimms Grimmoire 6 | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Bruder Grimms Grimmoire 6

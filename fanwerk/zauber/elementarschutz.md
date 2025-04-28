@@ -16,4 +16,4 @@ Das Ziel des Zaubers ist für die Dauer des Zaubers völlig immun durch Schaden 
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Bruder Grimms Planeslayers | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Bruder Grimms Planeslayers

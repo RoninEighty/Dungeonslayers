@@ -16,4 +16,4 @@ Dieser Zauber lässt den Zauberwirker und bis zu VE Begleiter auf magische Art o
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: ZL/Flost | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: ZL/Flost

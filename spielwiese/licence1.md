@@ -49,4 +49,4 @@ Im MD Footer: Fanwerk, Referenz & Copyright DS, Quelle, Lizenz dieser Datei.
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: GRW S. 153 ff. | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: GRW S. 153 ff.

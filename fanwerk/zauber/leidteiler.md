@@ -16,4 +16,4 @@ Bei Erfolg darf das Ziel keine Abwehr gegen den Zauber würfeln. Es verliert 50%
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Dzaarions Zauber | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Dzaarions Zauber

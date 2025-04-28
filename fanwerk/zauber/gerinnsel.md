@@ -16,4 +16,4 @@ Im Körper des Gegners bildet sich ein Gerinnsel, das Schaden dem Probenergebnis
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Dzaarions Zauber | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Dzaarions Zauber

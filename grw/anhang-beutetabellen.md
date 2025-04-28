@@ -1,12 +1,3 @@
-<!---
-Dies ist ein Fanwerk für DUNGEONSLAYERS © von Christian Kennig
-
-Quellen:      [Dungeonslayers Grundregelwerk](https://dungeonslayers.net/download/Dungeonslayers4.pdf)
-License:      [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-Richtlinien:  [Fanwerkrichtlinien](https://www.dungeonslayers.net/fanwerk-richtlinien/)
-Autor:        Zauberlehrling
--->
-
 # Anhang A : Beutetabellen
 
 In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
@@ -753,4 +744,4 @@ Tabellen EZ, ET1
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: GRW S. 148 ff. | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: GRW S. 148 ff.

@@ -1,8 +1,4 @@
-<!--
-    DS4 SRD+
-    CC-BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-    Fanwerk für Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/) 
- -->
+
 
 # Erwachsener Drache
 

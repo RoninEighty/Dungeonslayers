@@ -18,4 +18,4 @@ Befindet sich eine Kreatur in der Substanz, während die Wand gebildet wird, wir
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: Bruder Grimms Planeslayers | Lizenz: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)_
+Quelle: Bruder Grimms Planeslayers

@@ -1,7 +1,8 @@
 ---
-    author: DS4 SRD+
+    project: DS4 SRD+
     license: CC-BY-NC-SA-4.0
-    thanks: Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/) 
+    references: 
+      - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
     source: GRW S. 153 ff.
 ---
 

@@ -18,4 +18,4 @@ Betrachtet man ZAW, leuchten diese ebenfalls kurz auf, je heller, desto mächtig
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: GRW | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_
+Quelle: GRW

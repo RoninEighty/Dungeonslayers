@@ -149,4 +149,4 @@ Wird der Steinaltar mit entsprechendem Werkzeug zertrümmert (LK 20; Abwehr:
 
 ---
 
-_Fanwerk für [Dungeonslayers](https://www.dungeonslayers.net/) © Christian Kennig | Quelle: GRW S. 127 ff. | Lizenz: [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)_
+Quelle: GRW S. 127 ff.
