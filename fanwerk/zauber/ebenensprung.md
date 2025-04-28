@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Ebenensprung
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dieser Zauber teleportiert den ZAW und bis zu VE Begleiter auf eine andere Ebene
 
 In jedem Fall ist es bei einem ebenenüberspannenden Teleport nahezu unmöglich, den gewünschten Ort genau anzuvisieren, und die Charaktere werden sich bei Ankunft auf der Ebene immer noch W20 Meilen in einer zufälligen Richtung von ihrem Zielort entfernt befinden (2W20 Meilen, wenn der Ort nur vom Hörensagen bekannt war).
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Schwebende Schutzsphäre
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Er kann auf diese Weise jedoch maximal bis zu VE x 2 normalgroße Wesen mitnehme
 
 Gegenstände). Befinden sich zu viele Kreaturen (oder Objekte) in der Sphäre, bricht diese zusammen, sobald der ZAW versucht, sie zu bewegen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

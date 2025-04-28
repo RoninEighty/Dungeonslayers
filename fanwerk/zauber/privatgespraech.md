@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Privatgespräch
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dieser Zauber erschafft eine stationäre Zone von bis zu VE/2 Metern Radius, die
 
 Zuhörer, die die Personen innerhalb der Zone gezielt belauschen wollen, müssen jede Runde GEI+VE -GEI des ZAW würfeln, um das tatsächlich Gesagte mitzubekommen. Hält sich der ZAW in der Zone auf, darf er ebenfalls GEI+VE würfeln, um zu bemerken, dass jemand bewusst lauscht.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Putzteufel
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW erschafft einen kleinen, magischen Diener, der für ihn unglaublich flin
 
 Ansonsten ist der Putzteufel völlig unütz, befolgt keine andersartigen Befehle und verpufft bei Schaden.
 
----
-
-Quelle: GRW

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Radau
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber erfüllt einen Bereich mit einem Radius von VE in Metern mit (fast) b
 
 Der ZAW kann mit dem Zauber auch Musik erzeugen. Deren Qualität kann er mit einer Darbietungs-Probe bestimmen (auf deren PW er sogar einen Bonus vom Talent Instrument anwenden kann, wenn diese Instrumente zu hören sein sollen).
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

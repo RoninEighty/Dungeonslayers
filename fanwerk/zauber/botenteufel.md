@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Botenteufel
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW ruft einen kleinen magischen Diener, wie einen Putzteufel, nur klüger u
 
 Dann verpufft er, auch wenn die Zauberdauer länger wäre. Ebenso, bei einem erfolgreichen Angriff. Was er dabei hatte fällt dann zu Boden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

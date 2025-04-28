@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Wolkenreise
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Aufgrund der nebelartigen Gestalt können betroffene Ziele leicht für Wolkenfet
 
 Wenn sich Ziele, die unter dem gleichen Wolkenreise-Zauber stehen, untereinander berühren, haben sie alle den Laufen-Wert des schnellsten betroffenen Ziels.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ## Krieger
 
 [Krieger](charaktere-klasse-krieger.md) sind die Charaktere fürs Grobe. Im Nahkampf meist ganz weit vorne zu finden und gut am schweren Rüstzeug und der Anzahl an brutalen Waffen zu erkennen.
@@ -68,6 +77,3 @@ ST oder HÄ +1
 | [Wissensgebiet](talente/wissensgebiet.md) 1 (III)                                        |
 | [Zwei Waffen](talente/zwei-waffen.md) 1 (V) |
 
----
-
-Quelle: GRW

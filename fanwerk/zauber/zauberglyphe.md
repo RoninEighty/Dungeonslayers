@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Zauberglyphe
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der so eingebundene Zielzauber wird auf die nächste Kreatur ausgelöst, die sic
 
 Kreaturen, die sich während dem Wirken der Zauberglyphe im Bereich des Zielzaubers aufhielten, lösen die Glyphe nicht aus.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

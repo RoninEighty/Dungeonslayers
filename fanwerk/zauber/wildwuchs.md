@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Wildwuchs
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Für Druiden sind diese Zeitspannen verdoppelt.
 
 Abgestorbener Wildwuchs ist nicht wirkungslos. Das zurückbleibende Gewirr aus Totholz und vertrockneten Ranken gibt immer noch einen Abzug von -4 auf die oben genannten Proben, bis es irgendwie weggeräumt wird.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

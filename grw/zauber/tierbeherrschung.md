@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Tierbeherrschung
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Ein ZAW kann niemals mehr als VE Tiere gleichzeitig durch diesen Zauber beherrsc
 
 Endet der Zauber, nimmt das Tier wieder sein ursprüngliches Verhalten an.
 
----
-
-Quelle: GRW

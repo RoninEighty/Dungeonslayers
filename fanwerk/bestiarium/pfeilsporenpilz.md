@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Trächtige Wildsau
+---
+
 ### Pfeilsporenpilz
 
 - Gruppe: Pflanzenwesen
@@ -24,6 +33,3 @@
 
 **Sonar:** 'Sieht' per [Sonar](../../fanwerk/zauber/sonar.md).
 
----
-
-Quelle: Trächtige Wildsau

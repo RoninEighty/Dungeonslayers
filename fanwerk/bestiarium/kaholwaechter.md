@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: D2GO #17
+---
+
 ### Kaholwächter
 
 - Gruppe: Humanoide
@@ -27,6 +36,3 @@
 
 **Kämpfer II:** Schlagen +1 pro Talentrang.
 
----
-
-Quelle: D2GO #17

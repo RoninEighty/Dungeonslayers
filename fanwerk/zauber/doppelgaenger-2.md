@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Doppelgänger 2
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Zauberer erschaffen Doppelgänger, die einfach eine exakte Kopie des Originals s
 
 Stirbt ein Doppelgänger, löst er sich in nichts auf. Das gleiche passiert, wenn die Zielkreatur stirbt, egal ob durch die Hand des Doppelgängers oder nicht.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

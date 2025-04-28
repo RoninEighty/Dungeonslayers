@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Fata Morgana
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Es ist auch möglich, den Eindruck eines Heeres zu vermitteln - das allerdings n
 
 Mit einer Bemerken-Probe (abzüglich des Ergebnisses der Zaubern-Probe) kann man die Illusion durchschauen und erhält +2 auf Bemerken-Proben, um Wesen zu entdecken, die sich in der Illusion verstecken.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

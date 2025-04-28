@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: SC2GO
+---
+
 ### Barex
 
 - Gruppe: Humanoide
@@ -25,6 +34,3 @@
 
 **Einstecker I:** Lebenskraft +3 pro Talentrang. Krankheit und Gift trotzen +1 pro Talentrang.
 
----
-
-Quelle: SC2GO

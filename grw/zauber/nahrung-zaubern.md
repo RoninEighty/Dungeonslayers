@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Nahrung zaubern
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW bündelt die magische Energien um sich herum und erschafft daraus die Gr
 
 Maximal kann der ZAW genügend Zutaten für ein Anzahl von Mahlzeiten (von denen ein Erwachsener 3 pro Tag benötigt) gleich seiner Stufe erschaffen.
 
----
-
-Quelle: GRW

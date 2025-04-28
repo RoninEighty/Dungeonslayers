@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Mächtiges Ablenken
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel erhält -3 auf Zaubern und Zielzauber. Weitere Anwendungen dieses Zaube
 
 Ebenso wirkt Mächtiges Ablenken nicht mit Ablenken, Wolke der Ablenkung, Verbessertes Ablenken und Großes Ablenken - der höhere Abzug zählt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

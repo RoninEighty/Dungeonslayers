@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Wächter
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Ein magischer Wächter alarmiert bzw. weckt den ZAW, sobald ein Wesen sich bis a
 
 Dies gilt nicht für Wesen, die sich während des Zaubervorgangs bereits in diesem Bereich aufhielten.
 
----
-
-Quelle: GRW

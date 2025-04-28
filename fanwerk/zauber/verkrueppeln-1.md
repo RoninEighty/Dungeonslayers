@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Verkrüppeln 1
 
 - Kategorie: #Zauber
@@ -22,6 +31,3 @@ Ein zweibeiniges Ziel hat bei Verlust eines Beins nur noch 50% Laufen.
 
 Jedes Ziel, dessen Beine allesamt verkrüppelt wurden, hat Laufen 0,5 und zählt als am Boden liegend.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

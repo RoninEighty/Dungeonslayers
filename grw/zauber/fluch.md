@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Fluch
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Ein Ziel kann mehrmals verflucht werden.
 
 Alle Flüche müssen einzeln gebannt werden, stammen sie nicht vom selben ZAW.
 
----
-
-Quelle: GRW

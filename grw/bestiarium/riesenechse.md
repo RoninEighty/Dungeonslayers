@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Riesenechse
 
 - Gruppe: Tiere
@@ -30,6 +39,3 @@
 
 **Verschlingen:** Schlagen-Immersieg (Biss) verschlingt Ziel (sofern 2+ Größenkategorien kleiner), welches fortan einen nicht abwehrbaren Schadenspunkt pro Kampfrunde und einen Malus von -8 auf alle Proben erhält. Befreien: Nur mit einem Schlagen-Immersieg, der Schaden verursacht, kann sich der Verschlungene augenblicklich aus dem Leib seines Verschlingers befreien, wenn dieser noch lebt.
 
----
-
-Quelle: GRW

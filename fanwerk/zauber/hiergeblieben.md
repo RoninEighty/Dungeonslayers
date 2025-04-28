@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Hiergeblieben
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel des Zaubers kann während der Wirkungsdauer nicht von Teleportations-Zaubern oder -Fähigkeiten betroffen werden. Alle Fähigkeiten, die das Ziel unmittelbar von einem Ort an einen anderen versetzen würden, schlagen automatisch fehl. Dazu gehören zum Beispiel Teleport, Versetzen oder auch das sofortige Überwechseln auf eine andere Ebene. Ebenentor wäre nicht betroffen, da dieses durchschritten werden muss.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

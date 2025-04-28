@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Stinkbombe
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Erfüllt einen Bereich von VE Metern Radius mit kurzzeitig einem solchen Gestank
 
 Ein Ziel dieses Spruchs, das Schaden erleidet, kann vorzeitig wieder normal handeln.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

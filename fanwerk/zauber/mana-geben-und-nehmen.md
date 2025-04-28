@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Dzaarions Zauber
+---
+
 ### Mana geben und Nehmen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Die Waffe des Zieles beginnt vor Magie an zu flirren. Der Schaden, den das Ziel 
 
 Wird mit Abklingzeit gespielt, wird bei erfolgreich verursachtem Schaden, die Abklingzeit des aktiven Zaubers des Ziels um 1 erhöht und die eines eigenen Zaubers um 1 gesenkt.
 
----
-
-Quelle: Dzaarions Zauber

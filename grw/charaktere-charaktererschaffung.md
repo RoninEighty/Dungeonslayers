@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 3 ff.
+---
+
 ## Charaktererschaffung
 
 Bevor man einen Charakter erstellt, sollte geklärt sein, welchem Volk und welcher Klasse er (oder sie) angehören soll.
@@ -230,6 +239,3 @@ Woran glaubt er und was hat er für Ideale? Ist er ein verlässlicher Gefolgsman
 
 So oder so ist der Charakter nun bereit für sein erstes Abenteuer.
 
----
-
-Quelle: GRW S. 3 ff.

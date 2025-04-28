@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 14
+---
+
 ## Meisterdieb
 
 Wahre Meister im Schlösser knacken, Bestehlen und die Flucht ergreifen.
@@ -29,6 +38,3 @@ Wahre Meister im Schlösser knacken, Bestehlen und die Flucht ergreifen.
 | [Wahrnehmung](talente/wahrnehmung.md) 10 (X)                    |
 | [Zauber auslösen](talente/zauber-ausloesen.md) 12 (III)         |
 
----
-
-Quelle: GRW S. 14

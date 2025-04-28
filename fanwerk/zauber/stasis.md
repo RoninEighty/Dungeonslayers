@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Stasis
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Beim Wirken des Zaubers kann der ZAW die Dauer beliebig begrenzen oder auch ein 
 
 Die einzigen Zauber, die auf ein Objekt oder eine Kreatur in Stasis Wirkung zeigen, sind solche, die zu Transportzwecken eingesetzt werden können (wie Teleport oder Telekinese) oder die auf die Magie der Stasis selbst einwirken (z.B. um diese zu bannen).
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

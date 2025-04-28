@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Objekt der Begierde
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Jeder, der den bezauberten unbelebten Gegenstand erblickt, muss GEI+VE würfeln,
 
 Ein betroffener Charakter würde dafür zwar nicht unbedingt töten - es sei denn, er wäre ohnehin so geneigt - aber er ist bereit, darum zu kämpfen und selbst Kameraden anzugreifen, um diese zumindest zu vertreiben oder kampfunfähig zu machen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

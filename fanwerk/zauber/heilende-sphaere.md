@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Heilende Sphäre
 
 - Kategorie: #Zauber
@@ -22,6 +31,3 @@ Auch Angriffe gegen die Sphäre senken ihre LK entsprechend dem verursachten Sch
 
 Der Heiler muss sich konzentrieren, um die Sphäre zu bewegen. Dies zählt als Aktion. Allerdings kann er in diesem Zuge auch ein Ziel mit der Sphäre berühren und LK aus der Sphäre auf dieses übertragen. Bei einem unwilligen Ziel ist dazu eine Zielzaubern-Probe notwendig. Diese muss jedoch nur gelingen ihr Erfolg hat keinen Einfluss auf den Effekt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Entfesseln
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Entfesseln befreit ein beschworenes oder erwecktes Wesen von der Kontrolle seines Beschwörers und macht jegliche Befehle oder Aufträge nichtig. Beschworene Wesen verhalten sich, als wäre das Beschwören misslungen, bei Untoten wird durch Entfesseln ein eventuelles Kontrollieren gebannt. Ein Beschwörer kann versuchen, ein Wesen mit Bändiger oder Kontrollieren wieder unter seine Kontrolle zu bringen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

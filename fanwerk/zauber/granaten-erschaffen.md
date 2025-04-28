@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Granaten erschaffen
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Beim Aufprall explodiert die Granate und verursacht in 5 Metern Umkreis die in i
 
 Die Granaten verlieren nach VE Tagen ihre Ladung, oder wenn der ZAW den Zauber erneut anwendet.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

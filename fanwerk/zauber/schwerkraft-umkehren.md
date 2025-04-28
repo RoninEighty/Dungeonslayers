@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Schwerkraft umkehren
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Nach Ablauf der Zauberdauer endet der Zauber abrupt.
 
 Elementaristen dürfen beim Wirken des Zaubers entweder seinen Radius oder seine Höhe verdoppeln.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Ogergestalt
 
 - Kategorie: #Zauber
@@ -24,6 +33,3 @@ Eigene Kreaturenfähigkeiten kann es während der Zauberdauer nicht anwenden.
 
 Wenn sich das Ziel zurückverwandelt, hat es entweder wieder seine normale LK oder den letzten LK-Stand der Ogergestalt, je nachdem, was niedriger ist.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

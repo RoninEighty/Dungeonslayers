@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Grosses Ablenken
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Gegner im Umkreis von VEx2 m um das Ziel herum erhalten -3 auf Zaubern und Zielz
 
 Ebenso wirkt Großes Ablenken nicht mit Ablenken, Wolke der Ablenkung, Verbessertes Ablenken und Mächtiges Ablenken - der höhere Abzug zählt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

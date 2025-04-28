@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Talentpaket 2
+---
+
 ### Schildvorstoß
 
 - Kategorie: #Talent
@@ -11,6 +20,3 @@
 
 Wenn der Charakter in seiner Aktion nichts weiter tut als sich mit paratem Schild maximal um sein Laufen zu bewegen, erhält er pro Talentrang 2 auf seine Abwehr, bis er wieder dran ist.
 
----
-
-Quelle: Bruder Grimms Talentpaket 2

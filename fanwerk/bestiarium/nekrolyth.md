@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slay! #3
+---
+
 ### Nekrolyth
 
 - Gruppe: Untote
@@ -31,6 +40,3 @@
 
 **Zielzauber:** [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), _Schattenpfeil (+2)_
 
----
-
-Quelle: Slay! #3

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Sinne schärfen
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel erhält während der Wirkungsdauer die halbe Stufe des ZAW auf alle Wahrnehmungswürfe. Außerdem wird die Distanz, ab der sich Fernkampfabzüge durch große Entfernung ergeben, um die halbe Stufe des ZAW erhöht (also meistens 10 + Stufe des ZAW in Metern statt 10 Meter).
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

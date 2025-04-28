@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: D2GO #6
+---
+
 ### Arken Beijl
 
 - Gruppe: Humanoide
@@ -38,6 +47,3 @@
 
 **Zielzauber:** [Feuerball](../../grw/zauber/feuerball.md) (+3), [Feuerlanze](../../grw/zauber/feuerlanze.md) (+2), [Flammeninferno](../../grw/zauber/flammeninferno.md) (+5), [Niesanfall](../../grw/zauber/niesanfall.md) (-(KÖR+AU)/2)
 
----
-
-Quelle: D2GO #6

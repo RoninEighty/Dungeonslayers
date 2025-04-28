@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Spionage
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW begibt sich in einen tranceähnlichen Zustand, in dem seine optischen un
 
 Sein unsichtbarer, hörender Blick bewegt sich mit einer konstanten Geschwindigkeit von VE Meter pro Kampfrunde und kann durch die kleinsten Öffnungen dringen. Der ZAW sieht und hört dabei alles, als wäre er selbst vor Ort.
 
----
-
-Quelle: GRW

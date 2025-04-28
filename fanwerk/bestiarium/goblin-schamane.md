@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slay! #1
+---
+
 ### Goblin Schamane
 
 - Gruppe: Humanoide
@@ -30,6 +39,3 @@
 
 **Zielzauber:** _Blenden (-(AGI+AU)/2)_, [Niesanfall](../../grw/zauber/niesanfall.md) (-(KÖR+AU)/2)
 
----
-
-Quelle: Slay! #1

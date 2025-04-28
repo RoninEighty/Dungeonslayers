@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Verdampfen
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der innerlich wirkende Schaden entspricht dem dreifachen Probenergebnis, das Zie
 
 Der Zauber ist gegen wasserlose Wesen - wie beispielsweise Skelette oder Feuerelementare - nicht einsetzbar.
 
----
-
-Quelle: GRW

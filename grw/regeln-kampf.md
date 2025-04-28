@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 40 ff.
+---
+
 ## Kampf
 
 Kommt es zu einem Kampf, wird in **Kampfrunden** weitergespielt, die jeweils 5 Sekunden dauern.
@@ -85,6 +94,3 @@ Trägt ein Charakter eine Rüstung, die ihm von seiner Klasse her nicht gestatte
 | Zauberer  |  Ja   | Nein  | Nein  |  Nein  | Nein  |   Nein   |  Alle   |
 | Schwarzm. |  Ja   | Nein  | Nein  |  Nein  | Nein  |   Nein   |  Alle   |
 
----
-
-Quelle: GRW S. 40 ff.

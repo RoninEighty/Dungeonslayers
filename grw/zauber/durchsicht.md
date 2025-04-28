@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Durchsicht
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW kann durch nichtmagische, unbelebte Objekte VE/2 m weit sehen.
 
----
-
-Quelle: GRW

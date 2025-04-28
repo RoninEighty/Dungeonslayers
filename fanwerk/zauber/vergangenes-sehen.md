@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Vergangenes sehen
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Während der Dauer des Zaubers nimmt der Zauberer nichts wahr, was in der Gegenw
 
 Der Zauberer kann sich während der Zauberdauer bewegen, muss aber AGI+VE würfeln, um sich aus der Erinnerung in der Gegenwart zu orientieren. Bei Misslingen des Wurfs stolpert der Zauberer und fällt zu Boden (der Zauber wird dadurch nicht beendet).
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

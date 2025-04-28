@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Tentakelranken
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ In einem Bereich mit einem Radius von bis zu 3 Metern sprießen VE Ranken aus de
 
 Details sh. Grimmoire 2 S. 11/12
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

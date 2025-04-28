@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Erdspalt
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Auf festem Boden öffnet der Zauber einen Erdspalt. Der Erdspalt ist bis zu VE i
 
 Wesen, die sich in der Erdspalte befinden, wenn diese sich wieder schließt, erhalten augenblicklich 2W20 nicht abwehrbaren Schaden und sind - ohne noch richtig atmen zu können - eingeschlossen.
 
----
-
-Quelle: GRW

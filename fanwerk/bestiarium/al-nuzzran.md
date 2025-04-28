@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Der verdorbene Baumherr
+---
+
 ### Al-Nuzzran
 
 - Gruppe: Humanoide
@@ -44,6 +53,3 @@
 
 **Zielzauber:** [Blut kochen](../../grw/zauber/blut-kochen.md) (-(KÖR+AU)/2), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+2), [Flammeninferno](../../grw/zauber/flammeninferno.md) (+6), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2), [Schattenlanze](../../grw/zauber/schattenlanze.md) (+5), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
----
-
-Quelle: Der verdorbene [Baumherr](../../grw/bestiarium/baumherr.md)

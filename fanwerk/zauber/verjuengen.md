@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Verjüngen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das freiwillige Ziel wird augenblicklich um das Probenergebnis in Jahren verjün
 
 Manche Heiler verwenden diesen Zauber, um Übeltätern eine neue Chance mit einer besseren Kindheit zu geben.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

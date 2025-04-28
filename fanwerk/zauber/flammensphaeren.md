@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Flammensphären
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Pro Kampfrunde kann er beliebig viele der Sphären mit einem gedanklichen Komman
 
 Eingesetzte Sphären zählen als verbraucht, gleichgültig ob die Zielzaubern-Probe gelingt oder nicht.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

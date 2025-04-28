@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Vergrössern
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Die Körpergröße des freiwilligen Ziels - samt seiner Ausrüstung - verdoppelt
 
 Für die Dauer des Zauberspruchs werden KÖR, ST und HÄ sowie Laufen verdoppelt.
 
----
-
-Quelle: GRW

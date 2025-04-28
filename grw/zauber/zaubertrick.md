@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Zaubertrick
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Dieser Zauberspruch erzeugt kleine, unschädliche Illusionen. Beispielsweise kann der ZAW schwebende Bälle zaubern oder die Illusion eines Kaninchens aus einem Hut ziehen.
 
----
-
-Quelle: GRW

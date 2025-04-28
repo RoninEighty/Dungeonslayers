@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Besessenheit 2
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der ZAW kann während der Wirkungsdauer einen Wirt als freie Aktion verlassen un
 
 Ein besessenes Wesen hat vage Erinnerung an den Zeitraum der Besessenheit und ist sich mit einem GEI+VE-Wurf +8 darüber bewusst, dass es von etwas besessen war.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

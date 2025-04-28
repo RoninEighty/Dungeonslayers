@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 15
+---
+
 ## Waldläufer
 
 [Waldläufer](charaktere-heldenklassen-waldlaeufer.md) sind Kundschafter, die das Leben in der Wildnis bevorzugen und ausgezeichnete Bogenschützen abgeben.
@@ -23,6 +32,3 @@
 | [Vertrauter](talente/vertrauter.md) 10 (V)          |
 | [Wahrnehmung](talente/wahrnehmung.md) 10 (X)        |
 
----
-
-Quelle: GRW S. 15

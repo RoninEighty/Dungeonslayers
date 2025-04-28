@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Fliegen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel kann fliegen. Die Fortbewegungsgeschwindigkeit ist im Flug doppelt so h
 
 Ein Charakter mit Laufen 4,5m fliegt also 9m in einer KR, "rennend" 18m.
 
----
-
-Quelle: GRW

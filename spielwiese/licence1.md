@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 153 ff.
+---
+
 # Erwachsener Drache
 
 - Gruppe: Magische Wesen
@@ -47,6 +56,3 @@ Erfahrungspunkte: 922
 
 Im MD Footer: Fanwerk, Referenz & Copyright DS, Quelle, Lizenz dieser Datei.
 
----
-
-Quelle: GRW S. 153 ff.

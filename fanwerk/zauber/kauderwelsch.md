@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Kauderwelsch
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW und eine Anzahl Verbündete gleich seines VE in VE x 2 Meter Radius geben für Außenstehende nur noch unverständliches Geplapper von sich, untereinander verstehen sie sich aber ganz normal.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Säurenebel
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Beschwört eine Nebelwolke mit maximal VE Metern Radius, wie durch den Zauber Ta
 
 Verpatzt eine Kreatur ihre Abwehr gegen die Säure, sinkt außerdem der PA-Bonus jedes nichtmagischen Rüstungsteils, das die Kreatur trägt, um 1.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

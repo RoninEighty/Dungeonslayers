@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Verzweiflung
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dies ist eine mächtigere Version des Zaubers Pein. Bis zu VE x 2 Ziele innerhal
 
 Verzweiflung wirkt nicht mit Pein oder Fluch zusammen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

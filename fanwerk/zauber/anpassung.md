@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Anpassung
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ In Umweltbedingungen, die unmittelbar tödlich wären, sinkt die Wirkungsdauer d
 
 Anpassung schützt nicht vor direktem Schaden durch Angriffe aller Art, auch nicht durch Zauber, die Elementarkräfte verwenden oder simulieren. Ebenso schützt er nicht vor Verhungern, Verdursten oder Krankheit. Er schützt vor eingeatmeten Giften, aber vor keinerlei anderweitig verabreichten Toxinen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

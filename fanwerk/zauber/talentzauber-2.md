@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Talentzauber 2
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Bei einem Misserfolg sind die Kenntnisse des ZAW nicht ausreichend, um das Talen
 
 Soll der Zauber auf einen NSC oder eine Kreatur mit nicht eindeutig angegebener Klasse oder Stufe gewirkt werden, ist seine Stufe als Gesamtsumme seiner Eigenschaftspunkte -9 (Min. 1) anzunehmen. Seine Charakterklasse ermittelt sich aus dem höchsten Attributswert (KÖR = Krieger
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

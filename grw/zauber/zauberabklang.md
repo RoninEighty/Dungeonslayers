@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Zauberabklang
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Mit diesem Zauber kann versucht werden, die Abklingzeit eines zuvor (innerhalb d
 
 Misslingt die Probe, kann man den Zauberabklang bei diesem speziellen Zauberspruch erst wieder versuchen, wenn der ZAW ihn abermals gewirkt hat.
 
----
-
-Quelle: GRW

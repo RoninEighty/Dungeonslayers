@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Talentpaket 3
+---
+
 ### Optimierte Verwertung
 
 - Kategorie: #Talent
@@ -14,6 +23,3 @@
 
 Durch Wiederverwertung gebrauchter Materialien, Einsatz von selbst gesuchten oder angebauten natürlichen Zutaten, selbstgemachten Komponenten und ähnlichem reduzierst du die effektiven Grund-Herstellungskosten aller Gegenstände, die du herstellst, um 5% pro Talentrang.
 
----
-
-Quelle: Bruder Grimms Talentpaket 3

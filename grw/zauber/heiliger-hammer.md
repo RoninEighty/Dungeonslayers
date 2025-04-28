@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Heiliger Hammer
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Bewegt sich der Charakter, wandert der Wirkungsbereich des Hammers mit ihm mit, 
 
 Sämtliche Kampfwerte des heiligen Hammers entsprechen der Stufe des Heilers +8. Die einzige Ausnahme bildet der Laufen-Wert, der dem doppelten Laufen-Wert des Heilers entspricht.
 
----
-
-Quelle: GRW

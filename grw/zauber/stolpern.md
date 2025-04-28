@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Stolpern
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, stürzt augenblic
 
 Misslingt ihm außerdem eine Probe auf AGI+GE, lässt er alles Gehaltene fallen.
 
----
-
-Quelle: GRW

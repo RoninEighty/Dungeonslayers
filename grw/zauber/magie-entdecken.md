@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Magie entdecken
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Scheitert ein ZAW, die Magie einer Örtlichkeit, eines Objektes oder eines Wesen
 
 Betrachtet man ZAW, leuchten diese ebenfalls kurz auf, je heller, desto mächtiger ist die Magie in ihnen.
 
----
-
-Quelle: GRW

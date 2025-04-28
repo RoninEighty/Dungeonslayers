@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Spur verwischen
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Alternativ kann der Zauber auch alle Spuren der Anwesenheit des ZAW (und nur sei
 
 Mehrere Anwendungen dieses Zaubers, auf das gleiche Gebiet oder die gleiche Wegstrecke gewirkt, sind nicht kumulativ, es sei denn, dort wurden neue Spuren hinterlassen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

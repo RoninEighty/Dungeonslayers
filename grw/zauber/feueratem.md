@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Feueratem
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Aus dem Mund des ZAW schießt eine lodernde Säule, die alle hintereinander stehenden Gegner in einer 1m breiten, geraden Schneise in Flammen hüllt. Der feurige Atem verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses.
 
----
-
-Quelle: GRW

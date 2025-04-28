@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Wasser teilen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW kann jegliche Gewässer teilen und eine 1m breite Schneise bis zum Grund
 
 Wird der Zauber gegen flüssige Wesen wie beispielsweise Wasserlementare eingesetzt, entspricht das Wurfergebnis nicht abwehrbarem Schaden, während die Zauberdauer nur noch augenblicklich ist.
 
----
-
-Quelle: GRW

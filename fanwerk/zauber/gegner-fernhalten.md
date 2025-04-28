@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Gegner fernhalten
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel des Zaubers wird für die Wirkungsdauer von einer unsichtbaren unüberwindlichen Kraft daran gehindert, sich dem ZAW auf mehr als VE Meter zu nähern. Geschosse oder Zauber werden von dieser Kraft allerdings nicht beeinflusst.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

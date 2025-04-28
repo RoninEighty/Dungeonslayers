@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Geistige Verbindung
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW und bis zu VE x 2 Verbündete im Umkreis von VE x 2 Metern werden telepathisch miteinander verbunden, so dass sie für andere unhörbar miteinander kommunizieren können. Nachdem die Verbindung aufgebaut ist, ist die Reichweite der Kommunikation unbegrenzt, sofern sich alle Teilnehmer auf derselben Existenzebene befinden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

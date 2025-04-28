@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Zielmarkierung
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der Zauberer lässt das Ziel optisch deutlicher und schärfer erscheinen, wodurch alle Schießen- und Zielzauber-Angriffe auf es einen Bonus in Höhe von GEI/2 des ZAW erhalten.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Suggestion
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Selbst verweigerte Suggestionen werden vom Ziel üblicherweise "wegrationalisier
 
 Lediglich wenn es erfolgreich zu einer Handlung getrieben wurde, die in grober Weise gegen seine sonstigen Prinzipien verstieß, wird dem Ziel klar, dass es magisch manipuliert wurde.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

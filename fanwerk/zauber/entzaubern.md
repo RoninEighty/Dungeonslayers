@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Entzaubern
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Tatsächlich kann es zu unerwarteten Rückschlageffekten nach Maßgabe des Spiel
 
 Um den Zauber auf einen beweglichen Gegenstand zu wirken (z.B. auf die Rüstung eines Gegners oder auf einen Golem), muss dem ZAW direkt im Anschluss an den erfolgreich gewirkten Zauber ein Schlagen-Angriff waffenlos oder mit Kampfstab auf das Ziel gelingen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

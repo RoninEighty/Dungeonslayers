@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Inquisition
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der Schaden entsteht üblicherweise in Form kreisrunder Wundmale im Leib des Zie
 
 Fragen, die das Ziel nicht versteht - gleich ob aufgrund mangelnder Intelligenz oder Sprachfertigkeiten - muss es nicht beantworten.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 12
+---
+
 ## Druide
 
 Druiden sind Bewahrer der Natur, die sich mit Tieren verständigen oder sogar deren Gestalt annehmen können.
@@ -21,6 +30,3 @@ Druiden sind Bewahrer der Natur, die sich mit Tieren verständigen oder sogar de
 | [Vertrautenband](talente/vertrautenband.md) 10 (X)             |
 | [Vertrauter](talente/vertrauter.md) 10 (X)                     |
 
----
-
-Quelle: GRW S. 12

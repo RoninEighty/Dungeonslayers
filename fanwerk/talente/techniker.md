@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Talentpaket 3
+---
+
 ### Techniker
 
 - Kategorie: #Talent
@@ -12,6 +21,3 @@
 
 Du bist technikbegeistert und kennst dich gut mit Mechanik aus. Pro Talentstufe erhältst du +2 auf Bauen, Verstehen, Anwenden und Manipulieren von Mechanismen, darunter auch Fallen oder Schlösser.
 
----
-
-Quelle: Bruder Grimms Talentpaket 3

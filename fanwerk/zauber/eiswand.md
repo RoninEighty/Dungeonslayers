@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Planeslayers
+---
+
 ### Eiswand
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Falls jemand mit Gewalt die Wand durchbrechen will, besitzt die Eiswand eine Abw
 
 Wird die Eiswand nicht auf festem Boden erschaffen, stürzt sie herunter und macht an allem, was sie trifft, Fallschaden entsprechend ihrer Sturzhöhe (also maximal VE x 6). Danach ist die Eiswand allerdings kaputt. Dieser Schaden zählt <u>nicht</u> als Kälteschaden.
 
----
-
-Quelle: Bruder Grimms Planeslayers

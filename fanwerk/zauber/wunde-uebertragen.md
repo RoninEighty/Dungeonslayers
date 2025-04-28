@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Wunde übertragen
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW wird um das Probenergebnis geheilt, und das berührte Ziel erhält ebendiese Heilung als nichtabwehrbaren Schaden, wobei an ihm die Wunden entstehen, die beim ZAW verschwinden. Der Zauber funktioniert nicht, wenn der ZAW nicht verletzt ist.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

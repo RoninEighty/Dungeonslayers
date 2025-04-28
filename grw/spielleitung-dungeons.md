@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 81 ff.
+---
+
 # Spielleitung
 
 Dungeonslayers ist ein sehr schnelles System - Charaktere können hier wild herumhacken, aber auch schnell das Zeitliche segnen, also gönne man ihnen jeden Ruhm.
@@ -94,6 +103,3 @@ _Dafür würfeln sie zwei Bemerken-Proben, einmal mit einem Bonus von +4 (für d
 
 _Werden bei der Säule 7 oder bei dem Wandsegment sogar nur 4 Schadenspunkte verursacht, kommt es an der betreffenden Stelle augenblicklich zum Einsturz. Für alle Charaktere innerhalb des schraffierten Einsturzbereichs wird eine Schadens-Probe gewürfelt, bei der Säule mit PW: 15, bei dem Wandsegment mit PW: 40._
 
----
-
-Quelle: GRW S. 81 ff.

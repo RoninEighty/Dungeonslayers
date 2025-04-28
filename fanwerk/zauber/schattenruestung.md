@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Schattenrüstung
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Würfelt der Träger gar einen Immersieg bei seiner Abwehr, ist sein nächster A
 
 Charaktere mit dem Talent Diener des Lichts können diesen Zauber nicht anwenden
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

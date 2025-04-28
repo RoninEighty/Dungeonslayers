@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Verschlinger 3
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Ebenso bricht die Membran zusammen, wenn die mit dem Portal verbundene Kreatur s
 
 Dies bedeutet natürlich, dass man einen verschlungenen Charakter auch mit einem Ebenentor (GRW, S. 53) befreien könnte.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

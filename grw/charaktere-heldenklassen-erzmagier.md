@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 13
+---
+
 ## Erzmagier
 
 [Erzmagier](charaktere-heldenklassen-erzmagier.md) verfügen über umfangreiches magisches Wissen und ihr Können umfaßt eine breite Palette an arkanen Fähigkeiten.
@@ -33,6 +42,3 @@
 | [Zaubermacht](talente/zaubermacht.md) 10 (V)                     |
 | [Zauberroutine](talente/zauberroutine.md) 16 (III)               |
 
----
-
-Quelle: GRW S. 13

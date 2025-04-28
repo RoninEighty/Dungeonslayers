@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Furcht bannen
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Jegliche Furcht- oder Angsteffekte, die auf dem Ziel liegen, werden augenblicklich gebannt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Regeneration
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Sofern das Ziel des Zaubers beim Wirken des Zaubers nicht tot ist, regeneriert e
 
 Zusätzlich stellt der Zauber verlorene Gliedmaßen oder andere Körperteile vollständig wieder her, selbst wenn der Zauber auf ein totes Ziel gewirkt wird.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

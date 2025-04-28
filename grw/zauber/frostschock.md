@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Frostschock
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Ein Eisstrahl schießt aus den Händen des ZAW. Gegen den Schaden dieses frostig
 
 Zudem wird das Ziel magisch eingefroren, bis VE KR verstrichen sind oder es Schaden erhält.
 
----
-
-Quelle: GRW

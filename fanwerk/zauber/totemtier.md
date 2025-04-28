@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Totemtier
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Heiler verleiht mit diesem Zauber einem Tier mystische Kräfte, wodurch es h
 
 Ein Charakter mit dem Talent Rudelführer (s. u.) kann pro Talentrang ein weiteres Tier der gleichen Art heroisch machen, ohne einen weiteren Zauber zu benötigen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

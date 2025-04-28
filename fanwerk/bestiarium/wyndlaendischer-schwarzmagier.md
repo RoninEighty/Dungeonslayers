@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slayerforum
+---
+
 ### Wyndländischer Schwarzmagier
 
 - Gruppe: Humanoide
@@ -32,6 +41,3 @@
 
 **Wahrnehmung I:** Bemerken, Spuren lesen, Suchen, Inschrift entziffern +2 pro Talentrang.
 
----
-
-Quelle: Slayerforum

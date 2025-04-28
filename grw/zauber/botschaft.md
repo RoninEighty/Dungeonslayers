@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Botschaft
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Beauftragt ein geisterhaftes Abbild des Zaubernden bei einem ihm bekannten Wesen in Reichweite zu erscheinen und bis zu VE x 2 Wortsilben zu zitieren.
 
----
-
-Quelle: GRW

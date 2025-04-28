@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Doppelgänger 1
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Allerdings muss der Doppelgänger sein Original genau so aufspüren, wie jeder a
 
 Das heißt, der Doppelgänger kann auch in Abwesenheit der Zielkreatur gerufen werden. Ein Heiler muss dazu nur den Namen der Zielkreatur kennen, ein Schwarzmagier muss ein Teil der Zielkreatur besitzen (ein Tropfen Blut, Haarlocke etc.) und ein Zauberer muss die Zielkreatur schon einmal gesehen haben.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

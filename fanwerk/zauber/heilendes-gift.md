@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Heilendes Gift
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Handelt es sich bei dem Gift um ein Lähmungsgift, wirkt es nach Behandlung mit 
 
 Der Zauber wirkt nicht auf Gifte, die sich in einer Kreatur befinden - auch nicht in deren Giftdrüsen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

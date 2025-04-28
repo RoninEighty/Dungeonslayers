@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Blitzschild
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW wird von einem summenden, funkensprühenden Statikfeld umgeben, das ihn 
 
 Metallene Rüstungsteile zählen zur Abwehr gegen den Schaden der Blitzschläge nicht dazu.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

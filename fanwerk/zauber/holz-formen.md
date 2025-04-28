@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Holz formen
 
 - Kategorie: #Zauber
@@ -26,6 +35,3 @@ Holzbeinschienen\* / +1 / Laufen -0,5 m
 
 \*Zerbricht bei Abwehr-Patzer
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 12
+---
+
 ## Dämonologe
 
 Dämonologen spezialisieren sich auf das Beschwören und [Kontrollieren](zauber/kontrollieren.md) von mächtigen Dämonen.
@@ -21,6 +30,3 @@ Dämonologen spezialisieren sich auf das Beschwören und [Kontrollieren](zauber/
 | [Teufelchen](talente/teufelchen.md) 10 (III)                                 |
 | [Unersättliches Beschwören](talente/unersaettliches-beschwoeren.md) 14 (III) |
 
----
-
-Quelle: GRW S. 12

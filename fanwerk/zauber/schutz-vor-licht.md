@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Schutz vor Licht
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel erhält die VE des ZAW auf seine Abwehr gegen alle Angriffe durch Wesen und Diener des Lichts sowie gegen schädigende Lichtzauber und -effekte. Außerdem ist das Ziel vor den Auswirkungen von Sonnenlicht geschützt, sollte es irgendwelche Empfindlichkeiten dagegen haben.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

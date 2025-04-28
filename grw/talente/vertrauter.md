@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Vertrauter
 
 - Kategorie: #Talent
@@ -22,6 +31,3 @@ Der gewählte Kampfwert wird bei Erhalt des Vertrauten ausgewählt.
 
 Wird ein Vertrauter getötet, erleidet der Charakter im selben Moment W20/2 nicht abwehrbaren Schaden und die Boni auf die Kampfwerte erlischen. Wird der Vertraute nicht wiederbelebt, kann für seinen Talentrang ein neuer Vertrauter gewählt werden, allerdings erst nach frühestens W20 Wochen. Bis dahin hat der Charakter temporär KÖR-1.
 
----
-
-Quelle: GRW

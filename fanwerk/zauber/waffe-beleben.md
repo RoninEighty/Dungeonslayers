@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Waffe beleben
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Die Talente Fronarbeit, Golemarmee und Substanz (s. u.) können auch für Waffe 
 
 Misslungenes Beleben: Die Waffe wird auch belebt, wenn die Zaubern-Probe misslingt, steht dann jedoch nicht unter der Kontrolle des ZAW, sondern wird zum wirbelnden Mordinstrument, dessen einziges Ziel ist, so viel Zerstörung und Schaden wie möglich anzurichten, bevor die Wirkungsdauer endet.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

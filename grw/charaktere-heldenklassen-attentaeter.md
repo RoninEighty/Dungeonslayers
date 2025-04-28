@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 11
+---
+
 ## Attentäter
 
 Diese treffsicheren Mörder schlagen schnell und tödlich zu, sei es aus sicherer Entfernung oder mit einer vergifteten Dolchklinge.
@@ -32,6 +41,3 @@ Diese treffsicheren Mörder schlagen schnell und tödlich zu, sei es aus sichere
 | [Verletzen](talente/verletzen.md) 12 (V)                              |
 | [Wahrnehmung](talente/wahrnehmung.md) 10 (X)                          |
 
----
-
-Quelle: GRW S. 11

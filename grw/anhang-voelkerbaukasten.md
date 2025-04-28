@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 154 ff.
+---
+
 # Völkerbaukasten
 
 Wem die drei Völker der Elfen, Menschen und Zwerge für sein Setting nicht reichen, kann mit diesem Baukasten eigene Spielercharaktervölker entwerfen.
@@ -128,6 +137,3 @@ Mitglieder dieses Volkes erhalten einen Bonus von +1 auf Fernkampf und Zielzaube
 
 **Volksfähigkeiten**: _Geschwind (+1VP), Klein (-4VP), Leichtfüssig (+1VP), Magieresistent (-1VP), Talentiert (+2VP), Zäher als sie aussehen (+3VP)._
 
----
-
-Quelle: GRW S. 154 ff.

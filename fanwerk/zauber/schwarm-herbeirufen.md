@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Schwarm herbeirufen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber ruft einen Schwarm aus beliebigen Kleintieren oder Insekten herbei, d
 
 Übersteigt dieser Wert 20, kann der Beschwörer mehrere Schwärme gleichzeitig herbeirufen und die Schwarmwerte unter ihnen aufteilen. Nach Ablauf der Zauberdauer verliert ein beschworener Schwarm den Zusammenhalt und verstreut sich.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Verschlinger 1
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Die freiwillige Zielkreatur, bei der es sich um ein lebendiges Wesen handeln mus
 
 Nur mit einem Schlagen-Immersieg der Schaden verursacht, kann sich der Verschlungene augenblicklich aus dem Leib des Verschlingers befreien. Allerdings kann der Verschlinger ein verschlungenes Opfer während der Zauberdauer auch jederzeit wieder auswürgen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

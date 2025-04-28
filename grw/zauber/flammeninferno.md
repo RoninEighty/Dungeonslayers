@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Flammeninferno
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Eine kreisrunde Fläche mit einem Radius von VE in Metern geht in Flammen auf. Jeder in dem Inferno erhält pro KR nicht abwehrbaren Schaden in Höhe des Probenergebnisses.
 
----
-
-Quelle: GRW

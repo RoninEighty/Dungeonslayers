@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Magischer Blick
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Späht der ZAW eine Person aus, folgt sein Blick dieser, wenn sie sich bewegt.
 
 Magisch aktive Personen können dank ihres Magiegespürs bemerken, dass ein Magischer Blick auf sie gerichtet ist, selbst wenn sie nicht das primäre Ziel des Zaubers sind.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

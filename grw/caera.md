@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 142 ff.
+---
+
 # Die Welt Caera
 
 Caera ist ein klassisches Fantasy-Setting, das Abenteuern und Kampagnen von Dungeonslayers als Hintergrund dient und Charakteren eine Heimat bietet.
@@ -129,6 +138,3 @@ Umarmt von den schroffen Gipfeln der Schimmerberge ist dieses hügelige Gebiet v
 
 Die vom Zwölferrat regierte Stadt liegt an den Ufern des Langstroms - der wirtschaftlichen Hauptschlagader der Freien Lande. Waren aller Art kommen hier auf ihrem Weg zwischen dem gebeutelten Vandria und der Mondküste entlang, dennoch ist Westheim ein beschaulicher Ort geblieben, nicht zu vergleichen mit dem Trubel und der Hektik von Städten wie Sturmklippe oder Vestrach.
 
----
-
-Quelle: GRW S. 142 ff.

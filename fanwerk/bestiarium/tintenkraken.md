@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: D2GO #4
+---
+
 ### Tintenkraken
 
 - Gruppe: Tiere
@@ -22,6 +31,3 @@
 
 **Mehrere Angriffe (+5):** Kann mit seinen insgesamt sechs Fangarmen 5 zusätzliche Angriffe in jeder Runde aktionsfrei ausführen.
 
----
-
-Quelle: D2GO #4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: D2GO #4
+---
+
 ### Riesenaffe
 
 - Gruppe: Tiere
@@ -22,6 +31,3 @@
 
 **Kletterläufer:** Kann mit normaler Laufen- Geschwindigkeit an Wänden und Decken aktionsfrei klettern.
 
----
-
-Quelle: D2GO #4

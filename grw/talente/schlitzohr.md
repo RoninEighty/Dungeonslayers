@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Schlitzohr
 
 - Kategorie: #Talent
@@ -9,6 +18,3 @@
 
 Auf alle Proben sozialer Interaktion, bei denen geblufft, gefeilscht oder verhandelt wird, erhält der Charakter einen Bonus von +3 pro Talentrang.
 
----
-
-Quelle: GRW

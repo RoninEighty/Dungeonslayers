@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Ein Riesenproblem
+---
+
 ### Schreckensdachs
 
 - Gruppe: Tiere
@@ -22,6 +31,3 @@
 
 **Nachtsicht:** Kann bei einem Mindestmaß an [Licht](../../grw/zauber/licht.md) noch sehen wie am helllichten Tag.
 
----
-
-Quelle: Ein Riesenproblem

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Planeslayers
+---
+
 ### Elementarsinn
 
 - Kategorie: #Zauber
@@ -24,6 +33,3 @@ Der ZAW konzentriert sich auf ein Element und nimmt sodann für die Dauer des Za
 
 Pro Anwendung des Zaubers kann sich der ZAW immer nur auf ein Element konzentrieren.
 
----
-
-Quelle: Bruder Grimms Planeslayers

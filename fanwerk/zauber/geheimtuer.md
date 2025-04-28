@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Geheimtür
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Beim Wirken des Zaubers kann er bis zu VE weitere Kreaturen festlegen, die die P
 
 Die permanente Magie der Geheimtür kann auf übliche Weise entdeckt, analysiert oder sogar gebannt werden, daher ist es sinnvoll, sie zusätzlich zu tarnen, verbergen oder abzuschirmen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

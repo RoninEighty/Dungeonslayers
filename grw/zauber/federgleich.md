@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Federgleich
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel - samt seiner getragenen Ausrüstung - kann aus einer Höhe gleich dem 
 
 Der federgleiche Fall muss spätestens 1 Minute, nachdem der Zauber gewirkt wurde, begonnen werden, sonst verfällt sein Effekt.
 
----
-
-Quelle: GRW

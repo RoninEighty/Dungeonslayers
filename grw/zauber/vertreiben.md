@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Vertreiben
 
 - Kategorie: #Zauber
@@ -24,6 +33,3 @@ Bei zu vielen Untoten entscheidet der Zufall, welche betroffen sind. Alternativ 
 
 Wird beim Vertreiben ein Immersieg gewürfelt, erhalten die betroffenen Untoten zusätzlichen abwehrbaren Schaden in der tatsächlichen Höhe des Immersiegs.
 
----
-
-Quelle: GRW

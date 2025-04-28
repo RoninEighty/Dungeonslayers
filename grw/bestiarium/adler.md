@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Adler
 
 - Gruppe: Tiere
@@ -26,6 +35,3 @@
 
 **Sturzangriff:** Wird fliegend mindestens eine Distanz in Höhe von Laufen x 2 'rennend' geflogen, kann in der Runde noch ein Angriff mit Schlagen + KÖR erfolgen, während der Bewegung, also nicht nur davor oder danach.
 
----
-
-Quelle: GRW

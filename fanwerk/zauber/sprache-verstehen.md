@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Sprache verstehen
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel kann eine bestimmte Sprache nach Wahl des ZAW sprechen und verstehen (der ZAW muss die Sprache selbst nicht beherrschen). Dieser Zauber kann nicht zweimal gleichzeitig auf demselben Ziel liegen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

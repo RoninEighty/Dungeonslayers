@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Schattenmantel
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der ZAW selbst ist davon allerdings ausgenommen! Er selbst kann in der Finsterni
 
 Wer im Bereich des Schattenmantels sehen kann, kann das sogar, wenn andernfalls in diesem Bereich natürliche Dunkelheit herrscht. Überlappt der Bereich allerdings mit magischer Dunkelheit, kann selbst der ZAW nichts mehr sehen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

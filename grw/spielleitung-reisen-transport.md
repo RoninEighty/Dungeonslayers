@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 86 ff.
+---
+
 ## Reisen & Transport
 
 Die folgende Tabelle listet auf, wie weit eine Reisegruppe durchschnittlich in 12 Stunden (Pausen einkalkuliert) voran kommt, abhängig von ihrer durchschnittlichen Transportgeschwindigkeit, dem Gelände und anderen Umständen:
@@ -98,6 +107,3 @@ Eine typische Reisegruppe reist im Durchschnitt 12 Stunden pro Tag, in denen ins
 
 Charaktere und Reittiere, die mehr als 10 Stunden an einem Tag reisen, würfeln pro zusätzliche Stunde KÖR+HÄ, sonst erhalten sie jeweils einen Punkt Erschöpfungsschaden, der nur durch natürlichen Schlaf auskuriert werden kann.
 
----
-
-Quelle: GRW S. 86 ff.

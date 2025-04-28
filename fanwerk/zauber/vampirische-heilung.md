@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Dzaarions Zauber
+---
+
 ### Vampirische Heilung
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der Zauberwirker wird für jede eingesetzte Blutprobe, die er dabei verbraucht, um 2 LK geheilt.
 
----
-
-Quelle: Dzaarions Zauber

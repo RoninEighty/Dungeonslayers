@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Schnelle Reflexe
 
 - Kategorie: #Talent
@@ -13,6 +22,3 @@
 
 Der Charakter kann schnell reagieren. Im Kampf erhält er pro Talentrang einen Bonus von +2 auf seine Initiative. Zusätzlich kann man pro Talentrang einmal im Kampf eine Waffe als freie Aktion ziehen, wechseln oder vom Boden aufheben.
 
----
-
-Quelle: GRW

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Magie identifizieren
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Offenbart dem ZAW die Quelle und/oder Funktion der Magie eines Objektes oder einer Örtlichkeit.
 
----
-
-Quelle: GRW

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 88
+---
+
 ## Sprachen & Schriftzeichen
 
 Um einen Text verstehen zu können, muss man die Schriftzeichen lesen können, in der er niedergeschrieben wurde und die Sprache beherrschen, die sein Verfasser verwendete.
@@ -49,6 +58,3 @@ Atmosphärisches, unterhaltsames und charaktergerechtes Rollenspiel sollte gefö
 
 Gute Ideen, clevere Vorangehensweisen, das Überwinden von Fallen und abgeschlossene Abenteuerabschnitte sollten mit 5-25 EP belohnt werden, pro erforschtem Dungeonraum oder 10 gereisten Kilometern durch die Wildnis gibt es 1EP.
 
----
-
-Quelle: GRW S. 88

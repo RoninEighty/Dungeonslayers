@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Talentpaket 1
+---
+
 ### Puppenspieler
 
 - Kategorie: #Talent
@@ -10,6 +19,3 @@
 
 Alle 24 h kann der Charakter einmal pro Talentrang die Kreaturenfähigkeit „Geistesimmun“ ignorieren.
 
----
-
-Quelle: Bruder Grimms Talentpaket 1

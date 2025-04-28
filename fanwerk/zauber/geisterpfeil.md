@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Geisterpfeil
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der Pfeil macht Schaden entsprechend dem Probenergebnis der Zauberprobe und igno
 
 Alle PA-Boni sowie Abwehrboni durch Schutzschild müssen also vor dem Würfeln der Abwehr von dieser abgezogen werden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

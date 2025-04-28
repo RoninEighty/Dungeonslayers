@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Giftlanze
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Dies ist eine mächtigere Version des Zaubers Giftstrahl, die pro Kampfrunde 2 Punkte nicht abwehrbaren Giftschaden verursacht.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

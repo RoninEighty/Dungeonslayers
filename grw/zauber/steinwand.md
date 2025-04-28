@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Steinwand
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Die Steinwand muss auf festen Boden stehen und kann nicht an einem Ort erscheine
 
 Die Steinwand hat eine Abwehr gleich der dreifachen Stufe des ZAW, für den Fall, dass jemand sie mit Gewalt durchdringen will. Jeder einzelne Kubikmeter der Steinwand verfügt über LK in Höhe der Stufe des ZAW.
 
----
-
-Quelle: GRW

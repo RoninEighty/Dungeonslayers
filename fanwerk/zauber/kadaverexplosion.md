@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Kadaverexplosion
 
 - Kategorie: #Zauber
@@ -30,6 +39,3 @@ Gewaltig 24 Meter
 
 Berührt allerdings ein Wesen vorzeitig die Leiche, explodiert diese unmittelbar im entsprechenden Radius, allerdings nur für 1W20 Schaden pro Runde, die seit Wirken des Zaubers vergangen ist.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

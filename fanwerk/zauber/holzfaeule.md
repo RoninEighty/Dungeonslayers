@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Holzfäule
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Dieser Zauber lässt bei Erfolg einen nichtmagischen unbelebten hölzernen Gegenstand augenblicklich zu morschen Spänen zerfallen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Heranziehen
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der Effekt ist wirkungslos gegen Objekte, die von einem Charakter festgehalten w
 
 Wird der Zauber auf einen Gegenstand angewandt, der unbefestigt an einem Charakter getragen wird, darf dieser Charakter einen Wahrnehmungs-Wurf gegen den PE der Zauberprobe machen, um den Diebstahl zu bemerken.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Planeslayers
+---
+
 ### Elementarschutz
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel des Zaubers ist für die Dauer des Zaubers völlig immun durch Schaden durch ein bestimmtes Element nach Wahl des Zauberwirkers (also Feuer, Wasser/Eis/Kälte, Sturm/Wind/Blitz oder Erde/Sand/Stein/Fels). Der Zauber schützt nicht vor Waffenschaden jeglicher Art, nicht einmal, wenn die Waffen aus Stein oder Eis gefertigt sind, und auch nicht vor den natürlichen Waffen von Elementarwesen.
 
----
-
-Quelle: Bruder Grimms Planeslayers

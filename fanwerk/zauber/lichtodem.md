@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Lichtodem
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Aus dem Mund des ZAW schießt eine gleißende Lichtsäule, die alle hintereinand
 
 Charaktere mit dem Talent DIENER DER DUNKELHEIT können den Zauber nicht anwenden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

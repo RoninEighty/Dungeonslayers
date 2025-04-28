@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 15
+---
+
 ## Paladin
 
 Paladine dienen einem heiligen Orden, können aber die Vorzüge ihrer Heldenklasse verlieren, sollten sie gegen den Willen ihrer Gottheit handeln.
@@ -34,6 +43,3 @@ Paladine können Heilersprüche wirken. Die Spruchzugangsstufen entsprechen dene
 | [Wechsler](talente/wechsler.md) 10 (V)                              |
 | [Zaubermacht](talente/zaubermacht.md) 12 (III)                      |
 
----
-
-Quelle: GRW S. 15

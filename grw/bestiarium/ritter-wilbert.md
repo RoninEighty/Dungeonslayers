@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Ritter Wilbert
 
 - Gruppe: Humanoide
@@ -23,6 +32,3 @@
 | :------------------------------------------------------: |
 | Plattenpanzer (PA+3, Laufen-1), Metallhelm (PA+1, INI-1) |
 
----
-
-Quelle: GRW

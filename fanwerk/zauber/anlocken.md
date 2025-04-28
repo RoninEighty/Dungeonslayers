@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Anlocken
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber versetzt im Umkreis alle Kreaturen einer vom ZAW beim Wirken bestimmt
 
 Üblicherweise muss der ZAW während der Wirkung des Zaubers reden, singen oder musizieren. Dies gilt als seine Aktion, um den Zauber aufrecht zu erhalten. Ob die bezauberten Wesen ihn hören können, spielt allerdings tatsächlich keine Rolle. Es handelt sich dabei nur um einen Konzentrationsfokus.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Erholsames Nickerchen
 
 - Kategorie: #Zauber
@@ -22,6 +31,3 @@ Das Ziel kann durch Störung ganz normal vorzeitig aus dem Schlaf erwachen. Soll
 
 Der ZAW kann den Zauber auf sich selbst wirken.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

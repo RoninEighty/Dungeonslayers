@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Luftelementar I
 
 - Gruppe: Magische Wesen
@@ -26,6 +35,3 @@
 
 **Körperlos:** Die Kreatur kann bspw. durch Magie, geweihte oder magische Waffen, Elementarschaden, Gifte oder Umwelteinflüsse verletzt werden. Angriffe mit normalen Waffen sind wirkungslos.
 
----
-
-Quelle: GRW

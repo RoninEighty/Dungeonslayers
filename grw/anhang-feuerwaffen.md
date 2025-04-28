@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 156
+---
+
 # Feuerwaffen
 
 Wer auf einer Fantasywelt mit Schwarzpulverwaffen spielt oder Lust auf ein Mantel & Degen- oder Western-Setting hat, kann die folgenden Zusatzregeln verwenden:
@@ -43,6 +52,3 @@ Mehrläufige Feuerwaffen, Repetierer oder Revolver können mehr als einmal abgef
 
 ²: W20 -> 1=Lunte geht aus; 20=Lunte brennt doppelt so schnell runter; Lunte auf 1-20 Runden einstellbar
 
----
-
-Quelle: GRW S. 156

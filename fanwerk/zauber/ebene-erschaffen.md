@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Ebene erschaffen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber erschafft eine kleine neue Existenzebene im interplanaren Raum. Beim 
 
 Details sh. Grimmoire 3 S. 5/6
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

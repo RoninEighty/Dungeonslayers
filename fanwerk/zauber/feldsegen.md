@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Feldsegen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Land um den Heiler wird fruchtbarer und ertragreicher. Äcker/Pflanzungen we
 
 Allerdings wird ein so gesegnetes Stück Wildnis durch den Wildwuchs auch weniger leicht zugänglich. Ebenen werden zu unwegsamen Gelände, unwegsames Gelände wird schwierig (sh. GRW S. 87). Feldsegen zweimal auf das gleiche Gebiet gewirkt hat keinen Effekt, auch wenn er sich mit dem Bereich eines anderen Feldsegens überlappt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

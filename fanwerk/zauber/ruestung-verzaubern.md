@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Rüstung verzaubern
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das verzauberte Rüstungsteil wird magisch, erhält PA +1 und behindert nicht beim Wirken von Zaubern.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Trägheit
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel muss während der Wirkungsdauer auf jeden Fall eine Aktion aufwenden, f
 
 Trägheit, auf ein Ziel gesprochen, dass unter dem Einfluss von Hast steht, hebt den Zauber Hast sofort auf.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Zauberauge
 
 - Kategorie: #Zauber
@@ -24,6 +33,3 @@ Entsteht es dabei jedoch versehentlich in einem festen Gegenstand, wird es sofor
 
 <b>Zauberbonus:</b> -1 pro Meter anfängliche Entfernung zum ZAW (x2, wenn an Ort, den der ZAW nicht sehen kann)
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Seelengefäss
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber transferiert die Seele eines Toten in einen Edelstein im Wert von min
 
 Ein Seelengefäß kann einer Dämonenbeschwörung hinzugefügt werden und zählt dann als Todesopfer.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

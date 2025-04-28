@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Blut kochen
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der innerlich wirkende Schaden entspricht dem doppelten Probenergebnis, das Ziel
 
 Der Zauber ist gegen Wesen ohne Blut - wie beispielsweise viele Untote - nicht einsetzbar.
 
----
-
-Quelle: GRW

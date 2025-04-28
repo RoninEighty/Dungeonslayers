@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Erzwungenes Verkleinern
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der Zauber wirkt genau wie Verkleinern, nur dass das Ziel nicht freiwillig sein muss
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

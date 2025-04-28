@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Erzwungenes Versetzen
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Dieser Zauber wirkt genau wie Versetzen, allerdings muss das Ziel nicht freiwillig sein.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

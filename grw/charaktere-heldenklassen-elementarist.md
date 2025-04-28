@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 12
+---
+
 ## Elementarist
 
 Diese [Zauberer](charaktere-klasse-zauberer.md) haben sich auf die Beherrschung der Elemente und das Herbeirufen von Elementaren spezialisiert.
@@ -25,6 +34,3 @@ Diese [Zauberer](charaktere-klasse-zauberer.md) haben sich auf die Beherrschung 
 | [Verheerer](talente/verheerer.md) 12 (V)                                       |
 | [Zaubermacht](talente/zaubermacht.md) 10 (V)                                   |
 
----
-
-Quelle: GRW S. 12

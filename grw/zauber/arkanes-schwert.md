@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Arkanes Schwert
 
 - Kategorie: #Zauber
@@ -24,6 +33,3 @@ Sämtliche Kampfwerte des Schwertes entsprechen der Stufe des ZAW +10.
 
 Die einzige Ausnahme bildet der Laufen-Wert, der dem doppelten Laufen-Wert des ZAW entspricht.
 
----
-
-Quelle: GRW

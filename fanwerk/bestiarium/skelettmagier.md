@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slay! #3
+---
+
 ### Skelettmagier
 
 - Gruppe: Untote
@@ -33,6 +42,3 @@
 
 **Zielzauber:** [Blitz](../../grw/zauber/blitz.md) (+3), _Feuerball (+3)_, [Feuerlanze](../../grw/zauber/feuerlanze.md) (+2), [Flammenklinge](../../grw/zauber/flammenklinge.md), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2)
 
----
-
-Quelle: Slay! #3

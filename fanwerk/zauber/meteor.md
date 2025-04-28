@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Meteor
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dieser Zauber kann nur unter freiem Himmel gewirkt werden, denn er ruft einen gl
 
 Darüber hinaus muss allen Kreaturen innerhalb von VE x 5 Metern um den Einschlagspunkt KÖR+BE gelingen, oder sie fallen zu Boden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

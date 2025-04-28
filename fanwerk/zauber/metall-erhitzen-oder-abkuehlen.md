@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Metall erhitzen oder abkühlen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber erhitzt ein Metallobjekt rotglühend oder kühlt es extrem ab. Dabei 
 
 Gelingt es einem Charakter irgendwie, eine betroffene Waffe effektiv zu führen, erhält sie VE/2 des ZAW auf ihren WB dazu und gilt als magisch, eventuelle Holzteile der Waffe brennen jedoch innerhalb einer Runde durch.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Tarnung
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Befindet sich das Ziel im Nahkampf, gelingen alle Entdecken-Würfe gegen es auto
 
 Wird dieser Zauber von einem Druiden gewirkt, entspricht der Abzug auf Entdecken-Würfe dem vollen GEI-Wert des Druiden, wenn sich das Ziel des Zaubers in natürlicher Umgebung befindet.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

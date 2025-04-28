@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Netz
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Vom Netz getroffene Wesen, welche keine Abwehr dagegen würfeln dürfen, halbier
 
 Der Zauber wirkt nicht gegen Wesen, die 2+ Größenkategorien (sh. GRW S. 104) größer sind.
 
----
-
-Quelle: GRW

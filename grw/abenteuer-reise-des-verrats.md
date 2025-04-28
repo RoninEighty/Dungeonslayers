@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 130 ff.
+---
+
 ## Abenteuer 2: Reise des Verrats
 
 **für 2+ Charaktere der 2.-3. Stufe**
@@ -219,6 +228,3 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am fr�
 
 **Beute:** BW 1A:6, 2C: 14, 2D:10, Pferd
 
----
-
-Quelle: GRW S. 130 ff.

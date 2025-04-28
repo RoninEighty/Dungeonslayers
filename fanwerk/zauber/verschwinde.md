@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Verschwinde
 
 - Kategorie: #Zauber
@@ -34,6 +43,3 @@ Das Ziel des Zaubers wird augenblicklich wegteleportiert, und zwar VE des ZAW in
 
 Das Ziel des Zaubers landet immer an einer freien Stelle auf festem Boden. Sollte sich in der ermittelten Richtung und Entfernung keine entsprechende Stelle befindet, landet es an der nächsten passenden Stelle. Das Ziel des Zaubers erleidet niemals unmittelbar Schaden durch diesen Zauber.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

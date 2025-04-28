@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Magische Faust
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der verursachte Schaden gilt als magisch und verletzt auch körperlose Wesen wie
 
 Magische Faust ist nicht kumulativ mit Verbesserte Magische Faust.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

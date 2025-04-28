@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Spiegelbild
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Nur Flächenangriffe betreffen den ZAW normal und zerstören seine Spiegelbilder
 
 Der ZAW kann nur maximal VE Spiegelbilder gleichzeitig haben.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

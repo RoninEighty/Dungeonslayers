@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Wand aus Dunkelheit
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Wesen und Diener der Dunkelheit können durch diese frei hindurchsehen und sie p
 
 Die Wand ist lichtundurchlässig. Schließt sie einen Raum ab, der über keine Lichtquelle verfügt, ist es in diesem völlig finster.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

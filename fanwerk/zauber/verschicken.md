@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Verschicken
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dieser Zauber funktioniert wie Teleport, wirkt jedoch nur auf das berührte unbe
 
 Bei einem Patzer erleidet ein verschicktes Objekt zwar meist keinen Schaden (es sei denn, es ist besonders empfindlich oder zerbrechlich), steckt dann aber möglicherweise in einer Wand oder im Boden fest.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

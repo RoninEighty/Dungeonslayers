@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 10 ff.
+---
+
 ## Heldenklassen
 
 Ab der 10. Stufe können Charaktere sich klassenabhängig einmalig spezialisieren und in eine Heldenklasse wechseln.
@@ -114,6 +123,3 @@ Die [Zauberer](charaktere-klasse-zauberer.md) beherrschen den Einsatz von Magie,
 
 [Nekromanten](charaktere-heldenklassen-nekromant.md) sind spezialisiert auf das Erwecken Kontrollieren von Untoten.
 
----
-
-Quelle: GRW S. 10 ff.

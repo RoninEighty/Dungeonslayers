@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 104 ff.
+---
+
 ## Bestiarium
 
 Was wäre ein Dungeon ohne seine Monster, eine Reise durch die Wildnis ohne gefährliche Raubtiere oder eine Kampagne ohne ihre Bösewichte?
@@ -74,6 +83,3 @@ Bei jedem Wesen sind alle Modifikatoren bereits in den Spielwerten berücksichti
 
 [Liste der Kreaturen](../index-bestiarium.md)
 
----
-
-Quelle: GRW S. 104 ff.

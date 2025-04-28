@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Versetzte Stimme
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Dieser Punkt kann eine freie Stelle im Raum sein oder auch ein Kleidungsstück e
 
 Jeder in Hörweite dieses Punktes kann den ZAW hören.
 
----
-
-Quelle: GRW

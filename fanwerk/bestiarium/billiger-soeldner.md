@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Trächtige Wildsau
+---
+
 ### Billiger Söldner
 
 - Gruppe: Humanoide
@@ -27,6 +36,3 @@
 
 **Parade I:** Abwehr +1 pro Talentrang gegen erkannte Nahkampfangriffe.
 
----
-
-Quelle: Trächtige Wildsau

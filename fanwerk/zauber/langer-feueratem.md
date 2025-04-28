@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Langer Feueratem
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Somit kann er sich als volle Aktion einmal um sich selbst drehen. Wesen im Schwe
 
 Der ZAW kann den Zauber vorzeitig abbrechen und ist während der Wirkungsdauer nicht in der Lage zu sprechen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

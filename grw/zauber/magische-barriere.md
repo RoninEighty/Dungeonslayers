@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Magische Barriere
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Weder Feuerbälle, noch Lauschen- oder Teleport-Zauber können diese magische Ba
 
 Die magische Barriere verschwindet, sofern der Zauerwirker sie nicht - nach Ablauf der Spruchdauer - durch ununterbrochene Konzentration (zählt als ganze Aktion) aufrecht erhält.
 
----
-
-Quelle: GRW

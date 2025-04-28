@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slay! #2
+---
+
 ### Rattling Seuchenpriester
 
 - Gruppe: Humanoide
@@ -46,6 +55,3 @@
 
 **Zielzauber:** [Blenden](../../grw/zauber/blenden.md) (-(AGI+AU)/2), [Netz](../../grw/zauber/netz.md) (-(AGI+ST)/2), [Rost](../../grw/zauber/rost.md) (-Stufe)
 
----
-
-Quelle: Slay! #2

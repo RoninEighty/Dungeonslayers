@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slay! #1
+---
+
 ### Mudaks, die Grünhaut
 
 - Gruppe: Humanoide
@@ -28,6 +37,3 @@
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete [Regeln](../../grw/regeln-proben.md) für Wesen der Dunkelheit gelten für diese Kreatur.
 
----
-
-Quelle: Slay! #1

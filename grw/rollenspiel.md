@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 # Rollenspiel?
 
 Bei einem Rollenspiel schlüpfen die Spieler in die Rollen von sogenannten Charakteren, die gemeinsam Abenteuer bestreiten, durch die sie ein Spielleiter - ähnlich einem Moderator - führt. Dungeonslayers spielt in der klassischen Fantasywelt von Nebenan und die Spieler verkörpern ihre Bewohner
@@ -194,6 +203,3 @@ ZK: “Ha!”
 
 An dieser Stelle verlassen wir die Spielrunde. Nachdem der ungefähre Spielablauf nun klar ist, wird es Zeit, die dazugehörigen Regeln von Dungeonslayers kennenzulernen.
 
----
-
-Quelle: GRW

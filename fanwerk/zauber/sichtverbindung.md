@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Sichtverbindung
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW geht eine mentale Verbindung mit einem freiwilligen Ziel ein, die ihm er
 
 Ein Vertrauter ist ein legitimes Ziel für diesen Zauber.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

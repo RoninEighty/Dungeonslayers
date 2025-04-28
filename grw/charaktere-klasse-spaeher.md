@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ## Späher
 
 Schnelligkeit und Heimlichkeit sind die Gebiete des Spähers. Bevorzugt wird der Kampf aus der Entfernung und Bogen oder Armbrust sind unentbehrliche Begleiter.
@@ -68,6 +77,3 @@ BE oder GE +1
 | [Wissensgebiet](talente/wissensgebiet.md) 1 (III)                                        |
 | [Zwei Waffen](talente/zwei-waffen.md) 8 (V) |
 
----
-
-Quelle: GRW

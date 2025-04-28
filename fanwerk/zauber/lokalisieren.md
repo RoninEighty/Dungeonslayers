@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Lokalisieren
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Bei Erfolg erhält er Kenntnis von Richtung und Entfernung zu seinem Ziel, genau
 
 Der Zauber vermittelt keine Kenntnisse über Wege und Zugänge zu dem Objekt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

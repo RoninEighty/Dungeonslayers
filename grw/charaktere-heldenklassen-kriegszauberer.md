@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 14
+---
+
 ## Kriegszauberer
 
 Mit Schwert und Magie begeben sich die [Kriegszauberer](charaktere-heldenklassen-kriegszauberer.md) in die Schlacht.
@@ -34,6 +43,3 @@ Mit Schwert und Magie begeben sich die [Kriegszauberer](charaktere-heldenklassen
 | [Zaubermacht](talente/zaubermacht.md) 10 (V)                     |
 | [Zauberwaffe](talente/zauberwaffe.md) 12 (III)                   |
 
----
-
-Quelle: GRW S. 14

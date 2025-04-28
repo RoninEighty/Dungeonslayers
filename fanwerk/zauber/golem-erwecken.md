@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Golem erwecken
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber erweckt eine ausreichende Menge lebloser Materie zu einem Golem unter
 
 Details sh. Grimmoire 2 S. 5/6
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Ruf des Lichts
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Außerdem fliehen alle Wesen, die Schaden erleiden, für eine Runde wie unter Ei
 
 Der Zauber kann nicht von Charakteren gewirkt werden, die das Talent Diener der Dunkelheit besitzen
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

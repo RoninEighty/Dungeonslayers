@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Talentzauber 1
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Ebenso ist es möglich, der Zielperson einen Rang in einem Talent zu verleihen, 
 
 Sollte das gewünschte Talent, sofern die Zielperson es nicht bereits besitzt, für die Charakterklasse des ZAW nicht an irgendeinem Punkt verfügbar sein, muss dieser vor dem Wirken des Zaubers GEI+VE (+Bildung oder ein passendes Wissensgebiet) würfeln.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

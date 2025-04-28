@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Der schwarze Ritter
+---
+
 ### Wilfried von Eibenhöh
 
 - Gruppe: Humanoide
@@ -33,6 +42,3 @@
 
 **Schnelle Reflexe I:** Initiative +2 pro Talentrang. Pro [Kampf](../../grw/regeln-kampf.md) und Talentrang einmal zusätzliche freie Aktion.
 
----
-
-Quelle: Der schwarze Ritter

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Pein
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW kann bis zu VEx2 Ziele in seiner Reichweite mit seelischer Pein erfülle
 
 Mehrere Anwendungen von Pein auf das gleiche Ziel addieren sich nicht.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

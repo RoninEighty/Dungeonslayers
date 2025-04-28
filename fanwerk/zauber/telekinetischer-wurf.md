@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Telekinetischer Wurf
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dieser Zauber verschießt einen beliebigen Gegenstand, den der ZAW in einer Hand
 
 Ist das Geschoss ein weiches Objekt (Kissen, Torte), verursacht es keinen Schaden. Ein getroffener Gegner muss KÖR+ST gegen das Ergebnis der Zielzaubern-Probe würfeln, um nicht zu Boden zu gehen.Handelt es sich um einen unbearbeiteten natürlichen Gegenstand (Stein, Scheit, Knochen), gilt der Schaden als Elementarschaden (Erde). Der Schaden gilt immer als magisch. Die wird Abwehr gegen den Schaden eines Telekinetischen Wurfs um die halbe AU des ZAW gesenkt, und der Distanzmalus ist -1 pro 20 Meter (Kriegszauberer: 30 Meter).
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

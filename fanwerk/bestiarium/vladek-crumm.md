@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Avakars Runde
+---
+
 ### Vladek Crumm
 
 - Gruppe: Humanoide
@@ -35,6 +44,3 @@
 
 **Zwei Waffen II:** Bei [Kampf](../../grw/regeln-kampf.md) mit zwei Waffen Malus -2 pro Talentrang.
 
----
-
-Quelle: Avakars Runde

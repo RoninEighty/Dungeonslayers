@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Wand der Enthüllung
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Die Barriere ist prinzipiell gefahrlos zu durchschreiten, jedoch bannt sie autom
 
 Für Unsichtbarkeits-Effekte, die von einem Wirker mit höherer Stufe erzeugt wurden als die Wand der Enthüllung, darf ein GEI+AU auf Basis der Werte ihres Wirkers gemacht werden, um die Verbannung zu verhindern.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

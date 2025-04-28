@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 95 ff.
+---
+
 ## Schätze
 
 Ohne ordentliche Schätze macht auch der einfallsreichste Dungeon nicht sonderlich viel Spaß. Von einfachen Heilmitteln (mit denen man gerade Dungeons für neue Charaktere gut bestücken sollte) oder Gold und Schmuck über hochwertige oder magische Gegenstände, die Attribute, Eigenschaften, Waffen oder Rüstungen mit Boni versehen, bis hin zu exotischen Artefakten, die mit wundersamen Effekten versehen sind, reicht die Palette an Möglichkeiten.
@@ -654,6 +663,3 @@ Kostbare Edelsteine und Juwelen können bei der Herstellung magischer Gegenstän
 
 Pro Juwelen im Wert eines Viertels der Herstellungskosten erhält man einen Bonus von +1 auf **Einbetten** und **Handwerk**.
 
----
-
-Quelle: GRW S. 95 ff.

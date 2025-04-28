@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Glaube mir
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW wird äußerst überzeugend und wirkt sehr vertrauenswürdig. Für die Dauer des Zaubers erhält er +10 auf alle Proben, um zu Lügen und die Wahrheit zu verschleiern.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Würgegriff
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Schwarzmagier setzt einen telekinetischen Würgegriff an seinem Ziel an, wel
 
 Der Zauber kann zwar Wesen, die nicht atmen müssen, betreffen, diese erleiden jedoch keinen Schaden, der Abzug auf ihre Würfelwürfe wird ein weiteres Mal halbiert.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

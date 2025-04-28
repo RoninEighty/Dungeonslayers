@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Verschlinger 2
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Erst wenn der Verschlinger stirbt, bricht sein Leib auf und gibt alles Verschlun
 
 Mystischer Hintergrund des Zaubers: Der Zauber öffnet in Wahrheit ein Portal in der Kehle des Ziels, das in eine außerdimensionale Tasche führt, die wie der Schlund eines lebenden Wesens wirkt und mit dem Ziel des Zaubers eng verbunden ist.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

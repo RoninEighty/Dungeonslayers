@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slay! #3
+---
+
 ### Ritter Gungart
 
 - Gruppe: Untote
@@ -34,6 +43,3 @@
 
 **Zielzauber:** _Flammeninferno (+5)_, [Frostschock](../../grw/zauber/frostschock.md) (+3), [Netz](../../grw/zauber/netz.md) (-(AGI+ST)/2), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), [Schattenlanze](../../grw/zauber/schattenlanze.md) (+5), [Stolpern](../../grw/zauber/stolpern.md) (-(AGI+AU)/2)
 
----
-
-Quelle: Slay! #3

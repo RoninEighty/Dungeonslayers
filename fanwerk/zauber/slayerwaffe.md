@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Slayerwaffe
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Die verzauberte Waffe beginnt in grünlichem Licht zu leuchten, erhält +1 auf d
 
 Offensichtlich ist der Einsatz dieses Zaubers nur beim Spiel mit Slayerpunkten sinnvoll, es sei denn, der SL lässt den Zauber als einzige Möglichkeit zu, Slayerpunkte zu erhalten.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

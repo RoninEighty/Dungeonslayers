@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: SLAY!04
+---
+
 ### Sandgrab
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW schließt das Ziel in eine Hülle aus Sand ein, in der es sich weder bewegen noch sprechen kann (gestenund wortloses Zaubern möglich). Seine Abwehr ist um 5 erhöht, allerdings erleidet es zu Beginn seines Zugs jede Runde 2 nicht abwehrbaren Schaden. Befreien kann es sich mit einer Probe auf KÖR+HÄ.
 
----
-
-Quelle: SLAY!04

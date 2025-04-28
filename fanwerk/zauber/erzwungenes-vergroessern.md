@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Erzwungenes Vergrössern
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber wirkt genau wie Vergrößern, nur dass das Ziel nicht freiwillig sein
 
 Befindet sich das Ziel in einer Position, die für eine Verdopplung zu groß ist, vergrößert es sich so weit es kann, kann sich nicht bewegen und erleidet jede Runde abwehrbaren Schaden in Höhe seiner (aktuellen) Stärke. Mit einer gelungenen Probe auf AGI+BE kann es sich seinen halben (aktuellen) LaufenWert bewegen, um eventuell eine weniger beengte Position zu erreichen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

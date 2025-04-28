@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 38 ff.
+---
+
 # Regeln
 
 ## Proben
@@ -111,6 +120,3 @@ Immersiege entsprechen nicht dem Höchstergebnis für alle Proben, sondern gelte
 _Zuerst würfelt er eine 2 – kein Patzer, von nun an ist jede 20 also ungefährlich und Laros’ Spieler würfelt noch eine 1 und eine 17. Nun ordnet er die 1 und die 17 den ersten beiden Probenwerten (PW jeweils 20) zu, der Immersieg wird dadurch zu einer 20. Die 2 reicht schließlich noch für den dritten Probenwert von 4. Laros’ Ergebnis beträgt somit schmerzhafte 39
 (=20+17+2)._
 
----
-
-Quelle: GRW S. 38 ff.

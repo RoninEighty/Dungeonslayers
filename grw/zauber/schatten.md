@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Schatten
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dunkle Schatten umhüllen das Ziel (welches keine Abwehr dagegen würfeln darf),
 
 Augenlosen Untoten, wie beispielsweise Skeletten, aber auch blinden Lebewesen, kann der Zauber nichts anhaben.
 
----
-
-Quelle: GRW

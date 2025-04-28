@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Waffe herbeirufen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ In der Hand des ZAW erscheint eine Waffe. Der ZAW entscheidet, ob er eine Nah- o
 
 Pro Punkt VE, den der ZAW besitzt, kann er eine erwürfelte Eigenschaft der beschworenen Waffe neu würfeln.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 8 ff.
+---
+
 ## Erfahrung
 
 Charaktere erhalten durch das Bezwingen von Gegnern, Lösen von Aufgaben und Bestehen von Abenteuern Erfahrungspunkte, abgekürzt mit EP.
@@ -95,6 +104,3 @@ Ein Zauberwirker kann pro Stufe eine Anzahl neuer Zaubersprüche erlernen, deren
 
 **Beispiel:** _Der Schwarzmagier Miroslav erreicht die 4. Stufe. Er kann nun 4 Zaubersprüche der 1. Stufe, 2 Zaubersprüche der 2. Stufe, 1 Zauberspruch der ersten und einen der dritten Stufe oder einen einzelnen Zauberspruch der vierten Stufe erlernen._
 
----
-
-Quelle: GRW S. 8 ff.

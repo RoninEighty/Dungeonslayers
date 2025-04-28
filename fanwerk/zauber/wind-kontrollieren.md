@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Planeslayers
+---
+
 ### Wind kontrollieren
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der Zauber kann auch eingesetzt werden, um eine windabhängige Reise zu erleicht
 
 Technisch kann der Zauberwirker das Ergebnis des W20-Wurfs zur Bestimmung des Wettereinflusses auf die Reisedauer frei festlegen, solange er sich auf den Zauber konzentriert.
 
----
-
-Quelle: Bruder Grimms Planeslayers

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 11
+---
+
 ## Berserker
 
 Die rohen [Berserker](charaktere-heldenklassen-berserker.md) steigern sich in eine Kampfeswut, können gut einstecken und richten unter ihren Feinden verheerenden Schaden an.
@@ -20,6 +29,3 @@ Die rohen [Berserker](charaktere-heldenklassen-berserker.md) steigern sich in ei
 | [Schnelle Reflexe](talente/schnelle-reflexe.md) 12 (V)               |
 | [Verletzen](talente/verletzen.md) 14 (V)                             |
 
----
-
-Quelle: GRW S. 11

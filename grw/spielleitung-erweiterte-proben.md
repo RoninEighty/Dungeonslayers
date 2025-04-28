@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 88
+---
+
 ## Erweiterte Proben
 
 Dieser Abschnitt vertieft bei Bedarf die Regeln und deckt die typischsten Proben einer Runde Dungeonslayers ab.
@@ -321,6 +330,3 @@ Dies stellt den Versuch dar, sich mit bloßen Gesten und Lauten verständlich zu
 
 Wann immer es um das Anwenden von Wissen, das Analysieren von Problemen, das Erinnern an alte Legenden oder andere Fragen geht, wird mit GEI+VE gewürfelt, ob dem Charakter die Lösung einfällt.
 
----
-
-Quelle: GRW S. 88

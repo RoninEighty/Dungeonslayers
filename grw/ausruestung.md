@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 78 ff.
+---
+
 # Ausrüstung
 
 Alle gelisteten Preise sollten (da "gebraucht") halbiert werden, wenn sie von den Charakteren an Händler u.ä. verkauft werden. Zur groben Orientierung gibt es die Angabe (Ort), ob man eine Ware in (D)örfern oder Handelsposten, erst in (K)leinstädten oder vermutlich nur in (G)roßstädten erwerben kann. Anderes gibt es nur in (E)lfen- oder (Z)wergensiedlungen.
@@ -224,6 +233,3 @@ Schlechte Warenqualität halbiert den Preis, während besonders gute Qualität i
 
 ⁴: zerbricht bei Schießen-Patzer
 
----
-
-Quelle: GRW S. 78 ff.

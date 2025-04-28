@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Wirbelwind
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Ein Wirbelsturm mit einem Durchmesser von VE in Metern und VE x 2 Meter Höhe en
 
 Als Aktion kann der ZAW den Wirbelwind um VE Meter bewegen. Alles in seinem Weg erleidet dann entsprechend Schaden und läuft Gefahr weggeschleudert zu werden. Der Wirbelwind kann sich nicht weiter als VE x 10 Meter vom ZAW entfernen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

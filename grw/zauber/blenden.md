@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Blenden
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Ein geblendetes Ziel hat -8 auf alle Handlungen, bei denen es sehen können soll
 
 Selbst augenlose Untote, wie beispielsweise Skelette, werden durch das magische Licht geblendet. Blinde Lebewesen sind dagegen nicht betroffen.
 
----
-
-Quelle: GRW

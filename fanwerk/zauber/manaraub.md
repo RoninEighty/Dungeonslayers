@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Dzaarions Zauber
+---
+
 ### Manaraub
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauberwirker entzieht dem Ziel des Zaubers, das gegen den Zauber Abwehr ohne
 
 Wird mit Abklingzeit gespielt, wird bei erfolgreich verursachtem Schaden, die Abklingzeit des aktiven Zaubers des Ziels um 1 erhöht und die eines eigenen Zaubers um 1 gesenkt.
 
----
-
-Quelle: Dzaarions Zauber

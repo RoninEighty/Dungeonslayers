@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: SLAY!04
+---
+
 ### Sandschild
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW beschwört einen schwebenden Schild aus Sand. Das Ziel erhält für die Dauer des Zaubers das Probenergebnis als Bonus auf seine Abwehr.
 
----
-
-Quelle: SLAY!04

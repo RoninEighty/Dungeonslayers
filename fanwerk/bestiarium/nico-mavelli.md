@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Das Geschenk der Eiskönigin
+---
+
 ### Nico Mavelli
 
 - Gruppe: Humanoide
@@ -59,6 +68,3 @@
 
 **Zielzauber:** [Blut kochen](../../grw/zauber/blut-kochen.md) (-(KÖR+AU)/2), [Feueratem](../../grw/zauber/feueratem.md) (+4), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+2), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2), [Schweig](../../grw/zauber/schweig.md) (-(GEI+AU)/2)
 
----
-
-Quelle: Das Geschenk der Eiskönigin

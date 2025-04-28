@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Schutz vor Dunkelheit
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel erhält die VE des ZAW auf seine Abwehr gegen alle Angriffe durch Wesen und Diener der Dunkelheit sowie gegen schädigende Schattenzauber und -effekte. Außerdem kann das Ziel selbst in völliger Dunkelheit 5 Meter weit sehen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

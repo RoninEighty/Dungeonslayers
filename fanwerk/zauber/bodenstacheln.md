@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Bodenstacheln
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Wer sich auf dieser Fläche bewegt, erleidet pro Kampfrunde Schaden in Höhe der
 
 Der Schaden ist abwehrbar.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

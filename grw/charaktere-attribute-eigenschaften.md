@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 1 ff.
+---
+
 # Charaktere
 
 Bei Dungeonslayers schlüpft jeder Spieler in die Rolle eines Charakters, der im Laufe seines Abenteuererlebens bis in die 20. Stufe aufsteigen kann, und dabei sein Können und seine Fähigkeiten verbessert.
@@ -117,6 +126,3 @@ Hiermit lösen Zauberwirker ihre Zauber (außer Zielzauber) aus. Der Zauberbonus
 
 Mit diesem Kampfwert feuern Zauberwirker ihre Zielzauber auf Gegner. Der Zauberbonus (ZB) des aktiven Zauberspruchs wird addiert, PA abgezogen.
 
----
-
-Quelle: GRW S. 1 ff.

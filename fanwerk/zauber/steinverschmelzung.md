@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Steinverschmelzung
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW kann in natürlichem Erdboden versinken oder mit einem steinernen Objekt
 
 Details sh. Grimmoire 4 S. 13
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

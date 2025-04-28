@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Duftnote
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Dieser Geruch kann angenehm oder unangenehm sein und erleichtert bzw.
 
 erschwert sämtliche sozialen Proben des Ziels für die Wirkungsdauer um 2.
 
----
-
-Quelle: GRW

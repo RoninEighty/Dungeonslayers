@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Arkane Aufladung
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Du ziehst arkane Kraft aus der Umgebung, um deinen Zaubern mehr Macht zu verleihen. Auf deinen nächsten Zauber, sofern dieser innerhalb der nächsten Runde gewirkt wird, erhältst du das Probenergebnis aus Arkane Aufladung auf den Probenwert dazu.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

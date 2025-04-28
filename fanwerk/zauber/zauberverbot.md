@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Zauberverbot
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW legt eine stationäre Zone fest mit einem Radius von bis zu VE in Metern
 
 Von außerhalb in die Zone hinein können die gewählten Zauber ohne Einschränkungen gewirkt werden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

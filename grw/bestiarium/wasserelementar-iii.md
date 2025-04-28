@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Wasserelementar III
 
 - Gruppe: Magische Wesen
@@ -26,6 +35,3 @@
 
 **Schwimmen:** Kann, statt zu laufen, schwimmen. Wird die Aktion 'Rennen' schwimmend ausgeführt, erhöht sich die Geschwindigkeit ganz normal auf Laufen x 2.
 
----
-
-Quelle: GRW

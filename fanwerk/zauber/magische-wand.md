@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Magische Wand
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Zwar kann man sich auf die andere Seite teleportieren, da die Wand ja keinen her
 
 Der ZAW kann bei Erschaffung der Wand diese auch horizontal entstehen lassen (um zum Beispiel eine Grube abzudecken), schräg im Raum (wie eine Rampe dabei ist aber zu beachten, dass das Kraftfeld praktisch keine Reibung besitzt und nicht erklettert werden kann!) oder gekrümmt (aber nur in einer Ebene, zum Beispiel zu einem Zylinder oder einem Bogen, aber nicht zu einer Kuppel oder Sphäre).
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

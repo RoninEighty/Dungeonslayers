@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Objekt lesen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW sieht Bilder der VE/2 Personen vor seinem geistigen Auge, die den berüh
 
 Ist der Zauber nicht erfolgreich und will es nochmal probieren, zählt er natürlich selbst als die Person, die Gegenstand als letztes berührt hat.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

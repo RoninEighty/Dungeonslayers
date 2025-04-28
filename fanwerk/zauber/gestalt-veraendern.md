@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Gestalt verändern
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Außerdem ist die Verwandlung physisch und kann auch von geistesimmunen Wesen ni
 
 Es ist auch möglich eine Gestalt anzunehmen, die keiner bestimmten Person nachempfunden ist.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

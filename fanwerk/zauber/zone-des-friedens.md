@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Zone des Friedens
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ In einem Radius von VE x 2 Metern um den Heiler herum entsteht eine unbewegliche
 
 Gleichzeitig sorgen die Energien der Zone nötigenfalls aber auch mit Gewalt für die Einhaltung des Friedens. Jede Kreatur in der Zone, die einen Schlagen-, Schießen oder schadenverursachenden Zielzauber-Angriff durchführt, erhält automatisch nicht abwehrbaren Schaden in Höhe von GEI/2 des Heilers. Außerdem muss der Aggressor eine Probe auf KÖR+AU ablegen, bei deren Misslingen er von einem scharfen Schmerz durchzuckt wird, der ihn für 1 Kampfrunde handlungsunfähig macht.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

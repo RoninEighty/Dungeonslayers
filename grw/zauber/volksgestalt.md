@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Volksgestalt
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Der Charakter behält dabei all seine Fähigkeiten und erhält umgekehrt auch ke
 
 Während die Stimme sich dem neuen Volk anpasst, erinnern Augen und Gesichtszüge weiterhin an die eigentliche Gestalt des verwandelten Charakters.
 
----
-
-Quelle: GRW

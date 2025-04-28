@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Verwandlung
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Handelt es sich um eine bestimmte Person, die der Charakter jedoch nur flüchtig
 
 Untote Wesen u.ä. kann man mit diesem rein optischen Effekt nicht täuschen.
 
----
-
-Quelle: GRW

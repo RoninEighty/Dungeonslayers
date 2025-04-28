@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slay! #3
+---
+
 ### Minderer Leichnam
 
 - Gruppe: Untote
@@ -35,6 +44,3 @@
 
 **Zielzauber:** [Feuerball](../../grw/zauber/feuerball.md) (+3), [Kettenblitz](../../grw/zauber/kettenblitz.md) (+3), _Schattenlanze (+5)_, [Telekinese](../../grw/zauber/telekinese.md) (-1/Stufe x5 kg)
 
----
-
-Quelle: Slay! #3

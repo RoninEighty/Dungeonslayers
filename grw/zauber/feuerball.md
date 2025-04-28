@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Feuerball
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW schießt einen flammenden Ball auf seine Gegner, der in einer feurigen Explosion - ihr Radius entspricht der VE des ZAW in Metern - endet, welche nicht abwehrbaren Schaden in Höhe des Probenergebnisses verursacht.
 
----
-
-Quelle: GRW

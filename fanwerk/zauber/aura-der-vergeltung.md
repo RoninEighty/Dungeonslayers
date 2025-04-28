@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Aura der Vergeltung
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel wird in eine Aura aus goldenen Flammen gehüllt, die ihm selbst aber keinen Schaden machen. Jedes Mal, wenn ihm ein Gegner im Nahkampf Schaden verursacht, flackert die Aura auf und attackiert den Angreifer aktionsfrei und unmittelbar mit dem Zaubern-Wert des Heilers. Der entsprechende Gegner darf gegen diesen Angriff ganz normal Abwehr würfeln.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

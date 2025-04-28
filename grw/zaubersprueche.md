@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 # Zaubersprüche
 
 Zu jedem Zauberspruch ist aufgelistet, ob es sich um einen normalen **Zauber** (Za) oder um einen **Zielzauber** (ZZ) handelt, und ab welcher Stufe [Heiler](charaktere-klasse-heiler.md), [Zauberer](charaktere-klasse-zauberer.md) und [Schwarzmagier](charaktere-klasse-schwarzmagier.md) den Zauberspruch erlernen können. **Geistesbeeinflussende Zauber**, gegen die Untote u.ä. immun sind, sind gesondert mit (G[!]) gekennzeichnet.
@@ -127,6 +136,3 @@ _Wenn nicht anders erwähnt, gelten die VE-Werte des Zauberwirkers für aufgefü
 
 [Übersicht über alle Zaubersprüche](../index-zauber.md)
 
----
-
-Quelle: GRW

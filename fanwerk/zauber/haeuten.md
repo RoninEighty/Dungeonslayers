@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Häuten
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Bei einem Immersieg verliert das Ziel zusätzlich einen Punkt PA, vorausgesetzt 
 
 Der Zauber ist gegen Wesen ohne Haut - wie beispielsweise Skelette oder Elementare - nicht einsetzbar (sehr wohl aber gegen Wesen mit Außenskelett, wie z.B. Insektenwesen)
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

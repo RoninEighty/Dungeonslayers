@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Wolke der Störung
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Ebenso wirkt Wolke der Störung nicht mit Stören, Verbessertes Stören, Mächti
 
 Trotz des Namens erzeugt der Zauber keine wirkliche Wolke. Wind beeinflusst seine Wirksamkeit nicht.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

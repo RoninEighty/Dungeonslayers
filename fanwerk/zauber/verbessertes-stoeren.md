@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Verbessertes Stören
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Weitere Anwendungen dieses Zaubers auf dasselbe Ziel sind nicht kumulativ.
 
 Ebenso wirkt Verbessertes Stören nicht mit Stören, Wolke der Störung, Mächtiges Stören und Großes Stören - der höhere Abzug zählt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

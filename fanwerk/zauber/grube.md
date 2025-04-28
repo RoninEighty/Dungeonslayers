@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Grube
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Bei der Grube handelt es sich um einen extradimensionalen Raum, sie kann also au
 
 Nach Ablauf der Dauer verschwindet die Grube und alle noch in ihr befindlichen Objekte und Lebewesen erscheinen an der Oberfläche, da wo die Grube gewesen ist.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

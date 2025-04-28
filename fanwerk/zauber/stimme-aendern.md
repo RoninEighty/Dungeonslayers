@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Stimme ändern
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber verändert die Stimme des Ziels, um sie entweder einer Stimme anzugle
 
 Auf ein freiwilliges Ziel gewirkt, hat der Zauber einen ZB von +0.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

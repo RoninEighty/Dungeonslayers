@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Treibsand
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Das Treibsandfeld muss auf natürlichem Boden erschaffen werden und hat einen TW
 
 Kreaturen, die bei Ablauf der Dauer noch ganz oder teilweise versunken sind, können sich nun mit einer normalen KÖR+ST-Probe befreien.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

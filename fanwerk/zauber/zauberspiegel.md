@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Zauberspiegel
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Im Falle von geistesbeeinflussenden Zaubern wird allerdings der Wirker des Zaube
 
 Zauberspiegel reflektiert nur Zielzauber, die keinen Flächeneffekt haben oder mehrere Ziele betreffen und Zauber, deren ZB durch die Attribute und Eigenschaften des Ziels modifiziert werden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

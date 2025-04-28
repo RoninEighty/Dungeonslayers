@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Kleine Unsichtbarkeit
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Macht ein Lebewesen (samt seiner getragenen Ausrüstung) oder ein Objekt für di
 
 Der Zauber endet vorzeitig, wenn das Ziel jemanden angreift, zaubert oder selbst Schaden erhält.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

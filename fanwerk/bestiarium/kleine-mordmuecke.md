@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Wolfshatz im Wargenwald
+---
+
 ### Kleine Mordmücke
 
 - Gruppe: Tiere
@@ -30,6 +39,3 @@
 
 **Werteverlust:** Pro schadensverursachenden Treffer wird KÖR um 1 gesenkt (bei KÖR Null ist das Opfer tot). Pro Tag oder Anwendung des Zaubers [Allheilung](../../grw/zauber/allheilung.md) wird 1 verlorener Attributspunkt regeneriert.
 
----
-
-Quelle: Wolfshatz im Wargenwald

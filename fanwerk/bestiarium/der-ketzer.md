@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Die Hallen der Reinigung
+---
+
 ### Der Ketzer
 
 - Gruppe: Untote
@@ -33,6 +42,3 @@
 
 **Zielzauber:** _Feuerball (+3)_, [Feuerlanze](../../grw/zauber/feuerlanze.md) (+2), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2)
 
----
-
-Quelle: Die Hallen der Reinigung

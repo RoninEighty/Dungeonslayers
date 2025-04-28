@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 153 ff.
+---
+
 
 
 # Erwachsener Drache
@@ -53,6 +62,3 @@ Im HTML Kommentar oben (oder unten), wie angedacht in der Spez https://daringfir
 
 Damit ist sind die Fanwerkrichtlinien pro Datei erfüllt und auch für die Homepage, weil hier die Angaben nochmal in der Seitenleisten und Footer global aufgeführt werden.
 
----
-
-Quelle: GRW S. 153 ff.

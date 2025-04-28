@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Kontrollieren
 
 - Kategorie: #Zauber
@@ -22,6 +31,3 @@ Kontrollierte Untote unterstehen dem ZAW, führen bedingungslos seine Befehle au
 
 Ein ZAW kann nicht mehr Untote gleichzeitig kontrollieren, als seine eigene Stufe beträgt.
 
----
-
-Quelle: GRW

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Körperexplosion
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber versucht das Ziel zur Explosion zu bringen. Der verursachte Schaden e
 
 Der Zauber ist gegen körperlose Wesen - wie beispielsweise Geister - nicht einsetzbar.
 
----
-
-Quelle: GRW

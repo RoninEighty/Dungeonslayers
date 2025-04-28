@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ## Heiler
 
 Diese Charaktere beherrschen den Einsatz von Magie, sollten sich im Schlachtgetümmel aber besser hinten aufhalten. [Heiler](charaktere-klasse-heiler.md) nutzen überwiegend defensive Zauber.
@@ -78,6 +87,3 @@ VE oder AU +1
 | [Wissensgebiet](talente/wissensgebiet.md) 1 (III)                 |
 | [Zaubermacht](talente/zaubermacht.md) 4 (III)                     |
 
----
-
-Quelle: GRW

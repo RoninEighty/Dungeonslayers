@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Thema finden
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Sollte er es dennoch versuchen, endet der Zauber.
 
 Bei älteren Versionen des Zaubers war im Moment des Wirkens ein deutliches "Bing"-Geräusch zu hören. Für jüngere Zauberer gilt dieses Geräusch als deutliches Zeichen für eine unzuverlässige Version des Zaubers. Bei manchen neueren Versionen hört man eher eine Art Gurgeln.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Kopieren
 
 - Kategorie: #Zauber
@@ -22,6 +31,3 @@ Um eine mit diesem Zauber gefertigte Kopie vom Original zu unterscheiden, muss e
 
 Dafür kann es bei einem Zauberpatzer passieren, dass die Originalseite gelöscht wird, ohne sie zu übertragen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

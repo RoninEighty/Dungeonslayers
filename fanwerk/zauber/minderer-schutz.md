@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Minderer Schutz
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel erhält +1 auf seine Abwehr. Weitere Anwendungen von Minderer Schutz si
 
 Ebenso wirkt Minderer Schutz nicht mit Schutz oder Verstärkter Schutz zusammen - der höhere Bonus zählt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Klauenhände
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Wird der Zauber von einem Dämonologen gewirkt, kann das Ziel nach einem Sturman
 
 Wird der Zauber von einem Blutmagier gewirkt, erhält das Ziel nach jedem Angriff, der Schaden verursacht, 1 LK magische Heilung.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

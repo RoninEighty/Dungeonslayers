@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Tanz
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel, welches keine Abwehr gegen den Zauber würfeln darf, kann für die Dau
 
 Das groteske Schauspiel endet vorzeitig, sollte das Ziel Schaden erhalten.
 
----
-
-Quelle: GRW

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 126 ff.
+---
+
 # Abenteuer
 
 Die hier vorgestellten drei Abenteuer sind alle an jeweils einem Spielabend gut zu schaffen. Neben dem für das neue Dungeonslayers überarbeiteten “[Herr der Ratten](abenteuer-herr-der-ratten.md)” gibt es auch ein rollenspiellastigeres [Reiseabenteuer](abenteuer-reise-des-verrats.md) und abschließend die äußerst tödliche “[Festung des Unheils](abenteuer-festung-des-unheils.md)”.
@@ -43,6 +52,3 @@ Menschliche Heliapriester (die Göttin des Lichts) könnten im Auftrag des Westh
 
 [Abenteuer 3: Festung des Unheils](abenteuer-festung-des-unheils.md) für 2+ Charaktere der Stufen 3-5.
 
----
-
-Quelle: GRW S. 126 ff.

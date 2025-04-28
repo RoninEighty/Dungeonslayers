@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Lebenssauger
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der Zaubernde erhält 50% des verursachten Schadens (also abzüglich des Abwehrwurfs des Gegners) in Form von heilender Magie auf seine LK gutgeschrieben.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

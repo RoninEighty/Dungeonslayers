@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Verkrüppeln 2
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Ein Gegner, der sämtliche Arme verliert, ist unfähig zu kämpfen.
 
 Der Zauber Allheilung (GRW, S. 50) stellt pro Anwendung ein verkrüppeltes Glied wieder her. Der Zauber Regeneration (Grimmoire, Band IV, S. 12) stellt mit einer Anwendung sämtliche Gliedmaßen wieder her.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

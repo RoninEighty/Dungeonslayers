@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Verdorren
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Wesen des Kreaturentyps Pflanze im Wirkungsbereich erhalten nicht abwehrbaren Sc
 
 Heiler können diesen Zauber nur anwenden, wenn sie über das Talent Diener der Dunkelheit verfügen. Für Druiden ist allerdings die Distanz verdoppelt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

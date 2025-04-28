@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Unverwundbarkeit
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel darf von jedem Schaden, den es erhält, GEI/2 des ZAW abziehen. Der Sch
 
 Lediglich gegen innerlich wirkenden Schaden, wie z.B. durch Gift oder Blut kochen, ist die Unverwundbarkeit unwirksam.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

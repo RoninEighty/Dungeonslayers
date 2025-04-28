@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Freizauber
 
 - Kategorie: #Zauber
@@ -22,6 +31,3 @@ Schwarzmagier können ebenfalls Zauberer-Sprüche bis zur 10. und HeilerSprüche
 
 Der gewählte Zauber steht dem ZAW während der Wirkung von Freizauber mit den normalen Werten des imitierten Zaubers zur Verfügung. Zauber mit einer Abklingzeit von mehr als 24 Stunden können allerdings nicht imitiert werden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Schatten erwecken
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Schwarzmagier kann die Seelen von einer maximalen Anzahl von Toten im Wirkun
 
 Charaktere mit dem Talent Diener des Lichts können den Zauber nicht anwenden.
 
----
-
-Quelle: GRW

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: D2GO #1
+---
+
 ### Belgor
 
 - Gruppe: Humanoide
@@ -23,6 +32,3 @@
 | :-----------------------------: |
 | Kettenpanzer (PA+2, Laufen-0.5) |
 
----
-
-Quelle: D2GO #1

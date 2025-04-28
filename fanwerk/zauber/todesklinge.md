@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Todesklinge
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Die verzauberte Metallklinge wird pechschwarz und eingehüllt in zuckende, purpu
 
 Pro Tag oder Anwendung des Zaubers Allheilung wird 1 Attributspunkt wieder hergestellt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Totenwache
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Die Wirkungsdauer des Zaubers zählt nicht mit zu der Zeit, die der berührte Leichnam tot sein darf, dass er noch wiedererweckt werden kann.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

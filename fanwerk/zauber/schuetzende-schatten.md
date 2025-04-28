@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Planeslayers
+---
+
 ### Schützende Schatten
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber hüllt das Ziel in eine enganliegende Schicht aus Schatten. Diese beh
 
 Der Zauber schützt <u>nicht</u> vor direkten, lichtbasierenden Schadenszaubern.
 
----
-
-Quelle: Bruder Grimms Planeslayers

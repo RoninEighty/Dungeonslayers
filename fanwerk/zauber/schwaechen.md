@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Schwächen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel erhält -1 auf Schlagen und Schießen. Weitere Anwendungen dieses Zaube
 
 Ebenso wirkt Schwächen nicht mit Wolke der Schwäche, Verbessertes Schwächen, Mächtiges Schwächen und Großes Schwächen - der höhere Abzug zählt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

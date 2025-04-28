@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Planeslayers
+---
+
 ### Zementieren
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dieser Zauber verbindet die Komponenten von lockerem Material wie Sand, Schlamm,
 
 Befindet sich eine Kreatur in der Substanz, während die Wand gebildet wird, wird der Zauber um (AGI+BE)/2 der Kreatur erschwert. Gelingt die Probe dennoch, steckt die Kreatur in der Wand fest. Die magische Matrix verhindert übrigens auch, dass eine Wand aus bsplsw. Schnee schmilzt, und sie kann einsturzgefährdete Wände oder Tunnelabschnitte stabilisieren. Die Wirkung des Zaubers kann auch permanent gemacht werden, dann erhöht sich aber die Abklingzeit auf 24 Stunden (Manakosten um 2 höher).
 
----
-
-Quelle: Bruder Grimms Planeslayers

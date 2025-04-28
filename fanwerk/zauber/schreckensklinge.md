@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Schreckensklinge
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Sie erhält WB +1 und zählt als magisch.
 
 Außerdem wird jedes getroffene nicht geistesimmune Wesen, das durch die Klinge Schaden erhält, von Angst erfüllt, wodurch -1 auf alle Würfe bis zum Ende des Kampfes erhält. Erhält ein nicht geistesimmuner Gegner Schaden durch einen Immersieg mit der Waffe, flieht er für W20 Kampfrunden wie durch den Zauber Terror (GRW, S. 70).
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

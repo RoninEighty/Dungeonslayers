@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Heldentum
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Für die Dauer des Zauberspruchs erhalten sie auf alle Proben einen PW-Bonus von
 
 Heldentum wirkt nicht zusammen mit Segen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

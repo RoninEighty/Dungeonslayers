@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 15
+---
+
 ## Waffenmeister
 
 [Waffenmeister](charaktere-heldenklassen-waffenmeister.md) setzen auf Schnelligkeit und fatale Treffer mit ihren zahlreichen Waffen.
@@ -21,6 +30,3 @@
 | [Verletzen](talente/verletzen.md) 14 (V)               |
 | [Waffenkenner](talente/waffenkenner.md) 10 (V)         |
 
----
-
-Quelle: GRW S. 15

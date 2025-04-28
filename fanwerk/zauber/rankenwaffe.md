@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Dzaarions Zauber
+---
+
 ### Rankenwaffe
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Ein Immersieg bei einem Angriff umschlingt den Gegner mit den Ranken, als läge 
 
 Dieser Zauber ist nicht mit anderen Zaubern, die eine Waffe verbessern, kombinierbar.
 
----
-
-Quelle: Dzaarions Zauber

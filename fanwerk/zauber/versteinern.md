@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Versteinern
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Mit einer erfolgreichen Zauberprobe wird das Ziel mitsamt seiner Ausrüstung ver
 
 In versteinertem Zustand kann das Ziel seine Umgebung in keinster Weise wahrnehmen, ist nicht bei Bewusstsein, spricht nicht auf Entdeckungszauber an und gilt allgemein als Gegenstand.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

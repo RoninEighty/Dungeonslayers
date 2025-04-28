@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Heiltrank verderben
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Heiltränke und Große Heiltränke richten bei Einnahme augenblicklich ihre Heil
 
 In allen Fällen kann das Gift auch auf eine Waffe aufgetragen werden, jedoch kann dann der Schaden um das Probenergebnis einer Gift trotzen-Probe reduziert bzw. im Falle eines Andauernden Heiltranks mit einer einmaligen Gift trotzen-Probe ganz verhindert werden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

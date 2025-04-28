@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Planeslayers
+---
+
 ### Sonar
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel des Zaubers erhält die Fähigkeit, innerhalb einer Reichweite von VE d
 
 Es kann sich so auch blind orientieren und sich in Sichtverhältnissen zurechtfinden, in denen auch Dunkelsicht versagen würde, z.B. in dichtem Rauch oder Nebel. Sonar funktioniert auch unter Wasser, in Sand und in Schlamm, und es kann sogar Objekte durch festen Stein wahrnehmen, sofern sowohl das Objekt als auch das Ziel des Zaubers Kontakt mit der gleichen Stein"formation" haben.
 
----
-
-Quelle: Bruder Grimms Planeslayers

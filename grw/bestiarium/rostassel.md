@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Rostassel
 
 - Gruppe: Tiere
@@ -30,6 +39,3 @@
 
 **Rost:** Jeder Treffer der Tentakelfühler reduziert die PA eines zufälligen, metallischen, nichtmagischen Rüstungsstückes des Ziels um 1. Gleiches gilt für den WB nichtmagischer Metallwaffen, die die Rostassel treffen.
 
----
-
-Quelle: GRW

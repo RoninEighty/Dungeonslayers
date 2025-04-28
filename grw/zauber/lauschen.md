@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Lauschen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW kann sein Hörzentrum an einen bis zu VE x 5 m entfernten Punkt verlager
 
 Dieser Punkt kann eine freie Stelle im Raum sein oder auch ein Kleidungsstück des Belauschten.
 
----
-
-Quelle: GRW

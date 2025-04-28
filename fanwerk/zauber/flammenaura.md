@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Flammenaura
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Kreaturen, die den ZAW ihm Nahkampf angreifen, erhalten zusätzlich 1W20 nicht a
 
 Ebenso fügt der ZAW Kreaturen, gegen die er einen erfolgreichen Nahkampfangriff ausführt, einen zusätzlichen W20 nicht abwehrbaren Schaden zu.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

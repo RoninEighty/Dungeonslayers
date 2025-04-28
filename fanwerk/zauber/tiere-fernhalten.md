@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Tiere fernhalten
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Bis zu VE x 2 Tiere können sich dem ZAW auf nicht mehr als VE Meter nähern. Si
 
 Der Zauber wirkt auch auf Tiere, die unter Tierbeherrschung stehen, und endet für ein Tier, welches Schaden erleidet.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

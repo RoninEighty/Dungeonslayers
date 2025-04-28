@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Vision
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW erhält einen kurzen Einblick in die Zukunft, der ihm ermöglicht, seine Entscheidungen und Reaktionen zu optimieren. Er erhält das Probenergebnis des Zaubers zum Probenwert seines nächsten Würfelwurfs dazu.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Vampirklinge
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Für die Dauer des Zauberspruchs wird der WB der Waffe um +1 erhöht und ihr Sch
 
 Bei einem Immersieg erhält er sogar stattdessen 50% des angerichteten Schadens als Heilung.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Grosse Unsichtbarkeit
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Macht ein Lebewesen (samt seiner getragenen Ausrüstung) oder ein Objekt für di
 
 Dazu muss einem Gegner entweder ein vergleichender Wahrnehmungs-Wurf gegen die Heimlichkeit des Ziels gelingen, oder er muss warten, bis das Ziel ihn angreift, um in der Initiativereihenfolge nach diesem zurückzuschlagen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

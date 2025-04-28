@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Totenklage
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Alle Ziele im Radius der Zauberdistanz um den ZAW herum erleiden Schaden in Höh
 
 Ein Ziel, das diesen Wurf verpatzt, flieht für VE des ZAW in Runden, so als wäre es von einem Kleinen Terror betroffen. Wirkt nicht auf geistesimmune Gegner.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Die Goblinarena
+---
+
 ### Dermot Madal
 
 - Gruppe: Humanoide
@@ -36,6 +45,3 @@
 
 **Zielzauber:** [Feuerball](../../grw/zauber/feuerball.md) (+4), [Flammenklinge](../../grw/zauber/flammenklinge.md) (+1), [Netz](../../grw/zauber/netz.md) (-(AGI+ST)/2), [Schattenpfeil](../../grw/zauber/schattenpfeil.md) (+2)
 
----
-
-Quelle: Die Goblinarena

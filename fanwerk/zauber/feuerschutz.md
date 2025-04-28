@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Feuerschutz
 
 - Kategorie: #Zauber
@@ -22,6 +31,3 @@ Waffen verlieren gegen ein vor entsprechendem Schaden geschütztes Ziel jegliche
 
 durch Flammenklinge, Waffe des Lichts etc.). Sie zählen dennoch als magisch, und sekundäre Effekte bleiben unbeeinflusst, es sei denn, sie verursachen direkten LK-Schaden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

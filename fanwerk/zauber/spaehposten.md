@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Spähposten
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der ZAW kann durch den Spähposten nichts hören.
 
 Setzt der ZAW mehrere Spähposten, die gleichzeitig aktiv sind, erleidet er -2 pro zusätzlichem Spähposten nach dem ersten auf alle Würfe, die GEI beinhalten.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Gaukelei
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Dieser Zauber funktioniert weitgehend wie Trugbild, abgesehen davon, dass der ZAW sich auf die Illusion konzentrieren muss, und dass sich die Illusion nach Wunsch des ZAW innerhalb eines Radius von VE Metern zu diesem bewegen kann.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

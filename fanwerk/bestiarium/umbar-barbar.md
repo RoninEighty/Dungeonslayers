@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slayerforum
+---
+
 ### Umbar Barbar
 
 - Gruppe: Humanoide
@@ -31,6 +40,3 @@
 
 **Rundumschlag I:** Schlagen -1, Abwehr -2 pro Gegner, mit 2h-Waffe/waffenlos
 
----
-
-Quelle: Slayerforum

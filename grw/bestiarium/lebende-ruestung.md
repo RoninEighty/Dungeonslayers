@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Lebende Rüstung
 
 - Gruppe: Konstrukte
@@ -24,6 +33,3 @@
 
 **Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](../../fanwerk/zauber/zauber.md), die mit [!] gekennzeichnet sind.
 
----
-
-Quelle: GRW

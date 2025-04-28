@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 46 ff.
+---
+
 ## Magie
 
 Bei Dungeonslayers unterscheidet man zwischen zwei Arten von Zaubersprüchen:
@@ -68,6 +77,3 @@ Jeder Zauberwirker, der diesen Zauberspruch selber beherrscht und den entspreche
 
 So kann ein Schwarzmagier, der den Zauberspruch Feuerball beherrscht und einen Feuerball-Zauberstab besitzt, den Zauber - ohne zu ihm zu wechseln - jederzeit wirken und dabei noch immer einen ganz anderen Spruch weiterhin aktiv behalten.
 
----
-
-Quelle: GRW S. 46 ff.

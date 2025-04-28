@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Verlangen
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Hat das Ziel den Gegenstand erfolgreich in seinen Besitz gebracht, kann es wiede
 
 Daher wird es jeden angreifen, der versucht, ihm den Gegenstand wegzunehmen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

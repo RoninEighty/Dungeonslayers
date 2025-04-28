@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Enthüllende Aura
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber unterdrückt sämtliche Unsichtbarkeit in einem Radius von VE x 2 Met
 
 Allerdings wird eine Unsichtbarkeit, die durch diesen Zauber unterdrückt wird, nicht beendet durch Handlungen, die sie ansonsten vorzeitig beenden würden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

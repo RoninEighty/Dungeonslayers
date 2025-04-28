@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Beulenpest
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber funktioniert wie Giftlanze, jedoch bilden sich auf dem Körper des Op
 
 Der Effekt endet bei allen betroffenen Kreaturen, wenn er beim ersten betroffenen Ziel ausläuft, aber nicht, wenn er bei diesem, beispielsweise durch magische Giftheilung, beendet wird.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

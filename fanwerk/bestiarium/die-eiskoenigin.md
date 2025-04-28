@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Das Geschenk der Eiskönigin
+---
+
 ### Die Eiskönigin
 
 - Gruppe: Humanoide
@@ -47,6 +56,3 @@
 
 **Zielzauber:** Eisbombe (+9), Eishauch (+9), [Frostschock](../../grw/zauber/frostschock.md) (+9), [Frostwaffe](../../grw/zauber/frostwaffe.md) (+5), Kältekegel (+8), Kältestrahl (+7), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2)
 
----
-
-Quelle: Das Geschenk der Eiskönigin

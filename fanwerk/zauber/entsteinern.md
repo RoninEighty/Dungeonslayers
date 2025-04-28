@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Entsteinern
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Mit diesem Zauber können zum einen versteinerte Charaktere wieder entsteinert w
 
 Ansonsten kann das brüchige Gestein mit geeignetem Werkzeug innerhalb einer Minute beiseite geräumt werden.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

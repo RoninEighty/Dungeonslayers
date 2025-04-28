@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Unsichtbares Sehen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel erhält für die Dauer des Zauberspruchs die Fähigkeit, unsichtbare Ob
 
 Magie, magische Effekte - bis auf den Zauberspruch Unsichtbarkeit - oder auch verborgene Fallen gelten nicht als unsichtbar in Bezug auf diesen Zauberspruch.
 
----
-
-Quelle: GRW

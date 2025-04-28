@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 5
+---
+
 ### Talente erkennen
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Bei einem Gleichstand entscheidet der Spielleiter, welches der ZAW sieht.
 
 Alternativ kann der ZAW auch gezielt bis zu VE/2 Talente abfragen und so erkennen, ob das Ziel über diese Talente verfügt, und wenn ja, mit welchem Rang.
 
----
-
-Quelle: Bruder Grimms Grimmoire 5

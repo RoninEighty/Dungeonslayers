@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Schwerkraftfeld
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber erhöht die Schwerkraft in einem zylindrischen Bereich mit einem Radi
 
 Zusätzlich erhalten alle Angriffe durch herabstürzende Objekte oder Gegner (einschließlich durch Sturzflug oder Kletterläufer) einen Bonus auf die Probe in Höhe von GEI des ZAW.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

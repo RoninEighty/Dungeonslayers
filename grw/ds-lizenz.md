@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 # Die DS-Lizenz
 
 **Dungeonslayers** ist ein Rollenspiel, zu dem Du nicht-kommerzielle, digitale Inhalte oder Erweiterungen beisteuern kannst. Zu diesem Zweck stehen die Texte und Regelmechaniken - nicht aber die Grafiken (mit Ausnahme der Iconsymbole), das Covermotiv, die Illustrationen und Logos - dieser PDF-Fassung des Rollenspiels **Dungeonslayers** mit den hier genannten Einschränkungen unter folgender Creative Common Lizenz:
@@ -11,4 +20,4 @@
 
 ---
 
-Quelle: GRW
+_Quelle: GRW_

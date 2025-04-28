@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Schiff ahoi! © 2018 Friedemann Schneider
+---
+
 # SCHIFF AHOI
 
 Die Charaktere übernehmen wichtige Aufgaben in einer Schiffsmannschaft und entscheiden mit ihren Aktionen den Ausgang einer Verfolgungsjagd oder eines Gefechts.

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Spektakel
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Ein Bereich mit einem Radius von VE Metern um den Zielpunkt herum wird mit einem
 
 Kreaturen, die Schaden erhalten, können automatisch für eine Runde agieren, ohne Würfelwürfe zu machen. Wirkt nicht auf geistesimmune Gegner.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

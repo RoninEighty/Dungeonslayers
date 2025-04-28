@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Lügen spüren
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der Zauber spürt automatisch, wenn jemand im Wirkungsbereich bewusst die Unwahr
 
 Kreaturen, die sich des Effekts bewusst sind, dürfen GEI+VE würfeln, um eine Lüge vor dem Zauber zu verbergen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

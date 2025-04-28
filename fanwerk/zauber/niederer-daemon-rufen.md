@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 6
+---
+
 ### Niederer Dämon rufen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ An einem beliebigen Ort innerhalb der Distanz erscheint ein Niederer Dämon (GRW
 
 Dieser Zauber kann von den Talenten BESCHWÖRER, DÄMONENBRUT, DÄMONENZAUBER, MÄCHTIGE BESCHWÖRUNG und UNERSÄTTLICHES BESCHWÖREN profitieren, sofern der ZAW über diese Talente verfügt und sie für diesen Zauber einsetzen möchte.
 
----
-
-Quelle: Bruder Grimms Grimmoire 6

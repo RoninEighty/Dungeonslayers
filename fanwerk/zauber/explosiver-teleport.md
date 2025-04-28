@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Explosiver Teleport
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der ZAW verschwindet in einem Feuerball, der nicht abwehrbaren Schaden in Höhe des Probenergebnisses im Umkreis von VE Metern verursacht. In allen weiteren Belangen funktioniert der Zauber wie Teleport.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

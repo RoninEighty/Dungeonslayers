@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 13
+---
+
 ## Kampfmönch
 
 Mönche stählen ihren Geist durch Meditation und ihren Körper im waffenlosen Kampf.
@@ -29,6 +38,3 @@ Ordensmitgliedschaft
 | [Verdrücken](talente/verdruecken.md) 12 (III)                       |
 | [Waffenloser Meister](talente/waffenloser-meister.md) 10 (V)        |
 
----
-
-Quelle: GRW S. 13

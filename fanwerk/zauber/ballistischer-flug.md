@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Ballistischer Flug
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW und VE Gefährten erheben sich in die Luft und fliegen in gerader Linie 
 
 Jeder Charakter, für den der Zauber endet, sinkt wie unter dem Zauber Federgleich zu Boden, bis er festen Grund berührt (außer der Zauber wird gebannt).
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

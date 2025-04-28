@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Zeitstop
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW hält die Zeit an, bis die Zauberdauer endet oder er Schaden verursacht 
 
 Andere Objekte und Lebewesen können nicht bewegt werden - sie sind starr in der Zeit eingefroren.
 
----
-
-Quelle: GRW

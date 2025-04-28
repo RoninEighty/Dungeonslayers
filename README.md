@@ -8,6 +8,10 @@ Es handelt sich dabei um ein Fanprojekt. Die offizielle Dungeonslayers-Webpage i
 
 Die Markdown-Dateien bilden die Grundlage für das [DS4 SRD+](https://ronineighty.github.io/Dungeonslayers/).
 
+## Metadaten
+
+Wir benutzen [Front Matter](https://frontmatter.codes/) zur Erfassung von Metadaten.
+
 ## Regeln für Dateinamen
 
 Um Inkompatibilitäten zwischen unterschiedlichen Betriebs- und Dateisysteme zu vermeiden und einen reibungslosen Buildprozess und Verlinkungen in URLs zu ermöglichen, dürfen Dateinamen nur **Kleinbuchstaben**, **Zahlen**, **Bindestriche** und **Punkte** enthalten. **Leerzeichen** werden durch **Bindestrich** (**-**) und Umlaute durch eine entsprechende ASCII-Darstellung, d.h.
@@ -62,3 +66,10 @@ Wenn ihr die HTML-Seiten auf eurem eigenen Server bereitstellen wollt, dann müs
 
 - ```_assembly/scripts/make-html.sh```: BASE_URL=...
 - ```_assembly/scripts/make-html.sh```: BASE_URL_ESCAPED=..., bitte alle slashes '/' ersetzen durch '\\\/'.
+
+## Visual Studio Code Plugins
+
+Die folgenden Plugins sind nützlich, um die Markdowndateien zu pflegen.
+
+- [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Einheitliches Format für Markdown
+- [Format Files](https://marketplace.visualstudio.com/items/?itemName=jbockle.jbockle-format-files): Erlaubt das Formatieren aller Dateien in einem Verzeichnis.

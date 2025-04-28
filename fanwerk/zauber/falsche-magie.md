@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Falsche Magie
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW legt eine Illusion auf einen Gegenstand von maximal 1 Kubikmeter Größe
 
 Beispielsweise kann er einen magischen Gegenstand als nichtmagisch tarnen, einen normalen Bihänder als Feindfeger ausgeben oder eine Mauer als Illusion erscheinen lassen. Das Probenergebnis des Zaubers sollte allerdings für den Gegenstand notiert werden, erzielt ein ZAW bei der Analyse nämlich ein besseres Ergebnis, durchschaut dieser die Täuschung.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

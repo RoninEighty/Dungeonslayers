@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 127 ff.
+---
+
 ## Abenteuer 1: Herr der Ratten
 
 **für 2+ Charaktere der 1. Stufe**
@@ -147,6 +156,3 @@ Wird der Steinaltar mit entsprechendem Werkzeug zertrümmert (LK 20; Abwehr:
 
 **Beute**: Trophäe (BW 1A:10)
 
----
-
-Quelle: GRW S. 127 ff.

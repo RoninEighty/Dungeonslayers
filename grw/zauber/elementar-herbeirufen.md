@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Elementar herbeirufen
 
 - Kategorie: #Zauber
@@ -44,6 +53,3 @@ Wird das Elementar vor Ablauf der Zauberdauer entlassen oder hat es alle Aufträ
 
 **Misslungenes Herbeirufen:** Ein Elementar wird auch herbeigerufen, wenn die Zaubern-Probe misslingt, steht dann jedoch nicht unter der Kontrolle seines Herbeirufers. Ein fehlerhaft herbeigerufenes Elementar hat nur ein Ziel im Sinn: Seinen Herbeirufer zu vernichten, damit es bereits vor Ablauf der Zauberdauer wieder auf seine eigene Heimatebene zurückkehren kann.
 
----
-
-Quelle: GRW

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Gasgestalt
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Das Ziel - samt seiner getragenen Ausrüstung - wird gasförmig und kann durch j
 
 Das Ziel kann jederzeit die Wirkung des Zaubers als freie Aktion beenden. In Gasform wird der Laufen-Wert vervierfacht, der Charakter kann seine Umgebung weiterhin wahrnehmen. In Gastgestalt ist es allerdings nicht möglich, zu zaubern, zu sprechen, anzugreifen oder in andere Wesen einzudringen.
 
----
-
-Quelle: GRW

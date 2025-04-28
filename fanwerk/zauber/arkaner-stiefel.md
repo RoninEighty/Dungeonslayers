@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Arkaner Stiefel
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Der Stiefel entspricht in Werten und Verhalten der "Arkanen Faust", statt der Kr
 
 Bei einem erfolgreichen Angriff wird nicht abwehrbarer Schaden verursacht.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

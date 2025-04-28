@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Slay! #3
+---
+
 ### Phantomhexer
 
 - Gruppe: Untote
@@ -35,6 +44,3 @@
 
 **Zielzauber:** [Blitz](../../grw/zauber/blitz.md) (+3), [Blut kochen](../../grw/zauber/blut-kochen.md) (-(KÖR+AU)/2), [Kettenblitz](../../grw/zauber/kettenblitz.md) (+3), [Netz](../../grw/zauber/netz.md) (-(AGI+ST)/2), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), _Schattenlanze (+5)_, [Telekinese](../../grw/zauber/telekinese.md) (-1/Stufe x5 kg)
 
----
-
-Quelle: Slay! #3

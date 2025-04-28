@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 42
+---
+
 ## Schaden und Heilung
 
 Da Kämpfe schnell tödlich enden können, haben Heiler bei Dungeonslayers alle Hände voll zu tun. Gerade Gruppen ohne Heiler sollten sich immer mit Hilfsmitteln wie Heilkräutern oder -tränken ausstatten.
@@ -29,6 +38,3 @@ Verletzte Charaktere, die noch über mindestens 1LK verfügen, regenerieren alle
 
 In manchen Settings ist die Wiederbelebung (beispielsweise mit dem Zauber Wiederbelebung) nichts ungewöhnliches. Bei einer Wiederbelebung sinkt KÖR permanent um 1 Punkt. Charaktere mit KÖR 1 können nicht wiederbelebt werden.
 
----
-
-Quelle: GRW S. 42

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: D2GO #17
+---
+
 ### Chien Kwan
 
 - Gruppe: Humanoide
@@ -32,6 +41,3 @@
 
 **Zielzauber:** [Feuerlanze](../../grw/zauber/feuerlanze.md) (+2), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+1)
 
----
-
-Quelle: D2GO #17

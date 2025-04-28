@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 17 ff.
+---
+
 # Talente
 
 [Talente](talente.md) kosten jeweils einen Talentpunkt (TP) pro Talentrang. TP können angespart werden. Die Voraussetzungen geben an, ab welcher Stufe eine Klasse ein Talent erlernen kann - der maximal erreichbare Talentrang steht in Klammern dahinter.
@@ -101,6 +110,3 @@ Zauberwirkenden Klassen haben zusätzlich Zugang zu diesen Talente:
 
 [Übersicht über alle Talente](../index-talente.md)
 
----
-
-Quelle: GRW S. 17 ff.

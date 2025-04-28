@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 3
+---
+
 ### Geysir
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW lässt aus festem Boden eine Fontäne aus kochendem Wasser emporschieße
 
 Solange der Geysir besteht, erhält jeder im Bereich von 1 Meter um ihn herum W20 abwehrbaren Schaden durch heißen Dampf und kochende Wasserspritzer.
 
----
-
-Quelle: Bruder Grimms Grimmoire 3

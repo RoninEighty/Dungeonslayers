@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Magie bannen
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW bannt permanent einen Zauberspruch oder magischen Effekt. Die Probe wird
 
 Schafft der bannende Charakter die Probe nicht, wird er selbst Ziel des Zaubers: Er würfelt augenblicklich und aktionsfrei erneut den Zauber (Ziel: Er selbst). Angewendete, verstärkende Zaubereffekte (z.B. durch Talente), gelten auch beim zweiten Wurf. Das kommt auch zur Anwendung, wenn der ZAW versucht, den magischen Effekt eines Gegenstandes zu bannen. Der ZB-Malus entspricht der Stufensumme aller Erschaffer.
 
----
-
-Quelle: GRW

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Heilende Aura
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Der Heiler und alle seine Gefährten in einem Radius von VE in Metern erhalten 1LK jede KR geheilt.
 
----
-
-Quelle: GRW

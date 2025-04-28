@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Das Umbarla-Becken
+---
+
 ### Kruga
 
 - Gruppe: Humanoide
@@ -54,6 +63,3 @@
 
 **Zielzauber:** [Blenden](../../grw/zauber/blenden.md) (-(AGI+AU)/2), [Feueratem](../../grw/zauber/feueratem.md) (+6), [Feuerball](../../grw/zauber/feuerball.md) (+6), [Feuerlanze](../../grw/zauber/feuerlanze.md) (+5), [Feuerstrahl](../../grw/zauber/feuerstrahl.md) (+4), [Flammenklinge](../../grw/zauber/flammenklinge.md) (+3), [Halt](../../grw/zauber/halt.md) (-(KÖR+AU)/2), [Netz](../../grw/zauber/netz.md) (-(AGI+ST)/2), [Rost](../../grw/zauber/rost.md) (-Stufe), [Schatten](../../grw/zauber/schatten.md) (-(AGI+AU)/2), [Schleudern](../../grw/zauber/schleudern.md) (-(KÖR+AU)/2), [Telekinese](../../grw/zauber/telekinese.md) (-1/Stufe x5 kg)
 
----
-
-Quelle: Das Umbarla-Becken

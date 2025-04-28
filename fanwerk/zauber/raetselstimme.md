@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Rätselstimme
 
 - Kategorie: #Zauber
@@ -20,6 +29,3 @@ Oder die Rätselstimme hält nur Probenergebnis in Tagen oder bis sie ausgelöst
 
 Die Rätselstimme ignoriert geistesimmune Wesen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

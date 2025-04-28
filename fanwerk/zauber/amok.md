@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Amok
 
 - Kategorie: #Zauber
@@ -14,6 +23,3 @@
 
 Das Ziel verfällt in einen besinnungslosen Blutrausch und greift während der Wirkungsdauer in jeder Runde das ihm jeweils nächste Wesen im Nahkampf an, nötigenfalls waffenlos.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

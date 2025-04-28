@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW S. 14
+---
+
 ## Kleriker
 
 [Kleriker](charaktere-heldenklassen-kleriker.md) heilen im Namen ihree Gottheit, helfen aber auch in Wehr und Waffen.
@@ -23,6 +32,3 @@ Ordensmitgliedschaft
 | [Vergeltung](talente/vergeltung.md) 16 (V)                          |
 | [Verheerer](talente/verheerer.md) 16 (V)                            |
 
----
-
-Quelle: GRW S. 14

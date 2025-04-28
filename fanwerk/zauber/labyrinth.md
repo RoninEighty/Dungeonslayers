@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Labyrinth
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Allerdings steht dem Ziel des Zaubers jede Runde ein GEI+VE+Bildung-Wurf zu, ers
 
 Minotauren sind aus irgendeinem Grund gegen den Zauber immun.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

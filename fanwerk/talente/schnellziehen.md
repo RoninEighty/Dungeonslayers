@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Talentpaket 3
+---
+
 ### Schnellziehen
 
 - Kategorie: #Talent
@@ -10,6 +19,3 @@
 
 Sei schnell oder sei tot! Pro Talentrang kannst du einmal alle 24 Stunden aktionsfrei eine Waffe ziehen oder wechseln.
 
----
-
-Quelle: Bruder Grimms Talentpaket 3

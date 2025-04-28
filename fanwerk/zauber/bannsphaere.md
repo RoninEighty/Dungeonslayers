@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 2
+---
+
 ### Bannsphäre
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Dies ist eine flächendeckende Version von Zauber aufheben. Der ZAW bannt je ein
 
 Bannsphäre hat keinen Effekt auf magische Wesen (außer auf ihnen liegende Zauber und Effekte zu bannen) und wirkt nicht auf magische Gegenstände, wohl aber auf magische Effekte und Zauber, die durch Gegenstände gewirkt wurden. In diesem Fall wird der Zauber um die Zauberstufe des Effekts erschwert oder um die Stufe des Anwenders, je nachdem, welche höher ist. Permanente Boni aus magischen Gegenständen werden nicht betroffen.
 
----
-
-Quelle: Bruder Grimms Grimmoire 2

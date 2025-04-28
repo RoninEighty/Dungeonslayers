@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Talentpaket 2
+---
+
 ### Blind kämpfen
 
 - Kategorie: #Talent
@@ -10,6 +19,3 @@
 
 Alle Abzüge, die der Charakter im Nahkampf erhält aufgrund mangelnder Sicht (z.B. Nebel, Dunkelheit, Blindheit) oder gegen unsichtbare Gegner, werden um den Talentrang gemindert. Dieses Talent kann nur einen Malus ausgleichen. Überzählige Talentpunkte gewähren keinen Bonus.
 
----
-
-Quelle: Bruder Grimms Talentpaket 2

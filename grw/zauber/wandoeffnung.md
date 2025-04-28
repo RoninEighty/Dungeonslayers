@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: GRW
+---
+
 ### Wandöffnung
 
 - Kategorie: #Zauber
@@ -16,6 +25,3 @@ Der ZAW öffnet ein kreisrundes Loch von 1m Durchmesser in einer bis zu VE x 10 
 
 Nach Ablauf des Zaubers verschwindet das Loch ohne Spuren zu hinterlassen.
 
----
-
-Quelle: GRW

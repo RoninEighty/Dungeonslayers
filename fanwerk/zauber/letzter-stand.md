@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 4
+---
+
 ### Letzter Stand
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Das heißt, sie können den Radius verlassen und verlieren den Bonus, erhalten i
 
 Wenn der Heiler beim Wirken des Zaubers ein speziell dafür vorbereitetes Banner einpflanzt, steigt der Bonus sogar auf +GEI/2 des Heilers auf alle Proben, und alle Feinde im Radius erhalten -1 auf alle Proben.
 
----
-
-Quelle: Bruder Grimms Grimmoire 4

@@ -1,3 +1,12 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Bruder Grimms Grimmoire 1
+---
+
 ### Eigenschaft stärken
 
 - Kategorie: #Zauber
@@ -18,6 +27,3 @@ Weitere Anwendungen von Eigenschaft Stärken können weitere Eigenschaften erhö
 
 Ebenso wirkt Eigenschaft Stärken nicht mit Eigenschaft Verbessern oder Eigenschaft Erhöhen zusammen - der höhere Bonus zählt.
 
----
-
-Quelle: Bruder Grimms Grimmoire 1
