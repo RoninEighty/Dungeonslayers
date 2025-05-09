@@ -71,7 +71,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 4   | 1d20/2 Fackeln                         |
 | 5   | Decke oder Metallkrug                  |
 | 6   | Angel oder Holzbesteck                 |
-| 7   | Lederschnur oder _1d20_ KM             |
+| 7   | Lederschnur oder 1d20 KM               |
 | 8   | Topf oder Pfanne                       |
 | 9   | Feuerholz oder 1d20 SM                 |
 | 10  | Proviant (1d20 Tagesrationen)          |
@@ -83,7 +83,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 16  | Zelt (2 Mann) oder Bärenfalle          |
 | 17  | Beutetabelle A:15                      |
 | 18  | Kompass oder Goldzähne (1d20/2 GM)     |
-| 19  | W20/2 Heilkraut oder Ring (1d20 GM)    |
+| 19  | 1d20/2 Heilkraut oder Ring (1d20 GM)   |
 | 20  | Beutetabelle M:10                      |
 
 ### Beutetabelle D
@@ -408,7 +408,7 @@ Tabellen EZ, ET1
 | W20   | EZ: ZAUBEREFFEKT                                   |
 | ----- | -------------------------------------------------- |
 | 1-12  | Zauber normal eingebettet (Z)                      |
-| 13-16 | W20 Ladungen eingebettet (Z)                       |
+| 13-16 | 1d20 Ladungen eingebettet (Z)                       |
 | 17    | Abklingzeit verkürzt (EZ1 & Z)                     |
 | 18    | Abklingzeit eines Trägerzaubers verkürzt (EZ1 & Z) |
 | 19    | Abklingzeit aller Trägerzauber verkürzt (EZ1)      |
