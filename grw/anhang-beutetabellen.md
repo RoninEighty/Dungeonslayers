@@ -377,6 +377,7 @@ Dank des Zufallsfaktors kann es auch zu Kombinationen und Effekten kommen, die w
 | 12-14 | Schlagen       |
 | 15-16 | Schießen       |
 | 17-18 | Zaubern        |
+| 19-20 | Zielzauber     |
 
 ¹: Bei Laufen entspricht ein +1 Bonus 0,5m.
 
