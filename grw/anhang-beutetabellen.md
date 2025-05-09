@@ -83,7 +83,7 @@ In Klammern jeweils die nächste Tabelle, auf der zu würfeln ist.
 | 16  | Zelt (2 Mann) oder Bärenfalle          |
 | 17  | Beutetabelle A:15                      |
 | 18  | Kompass oder Goldzähne (1d20/2 GM)     |
-| 19  | W20/2 Heilkraut oder Ring (1d20 GM)    |
+| 19  | 1d20/2 Heilkraut oder Ring (1d20 GM)    |
 | 20  | Beutetabelle M:10                      |
 
 ### Beutetabelle D
