@@ -408,7 +408,7 @@ Tabellen EZ, ET1
 | W20   | EZ: ZAUBEREFFEKT                                   |
 | ----- | -------------------------------------------------- |
 | 1-12  | Zauber normal eingebettet (Z)                      |
-| 13-16 | W20 Ladungen eingebettet (Z)                       |
+| 13-16 | 1d20 Ladungen eingebettet (Z)                       |
 | 17    | Abklingzeit verkürzt (EZ1 & Z)                     |
 | 18    | Abklingzeit eines Trägerzaubers verkürzt (EZ1 & Z) |
 | 19    | Abklingzeit aller Trägerzauber verkürzt (EZ1)      |
