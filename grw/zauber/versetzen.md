@@ -9,7 +9,6 @@ source: GRW
 
 ### Versetzen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 6

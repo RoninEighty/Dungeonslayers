@@ -9,7 +9,6 @@ source: GRW
 
 ### Bannen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 18

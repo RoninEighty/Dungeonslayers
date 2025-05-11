@@ -9,7 +9,6 @@ source: GRW
 
 ### Elementar herbeirufen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10

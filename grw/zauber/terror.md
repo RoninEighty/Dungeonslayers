@@ -9,7 +9,6 @@ source: GRW
 
 ### Terror
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 9

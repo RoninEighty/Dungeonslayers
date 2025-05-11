@@ -9,7 +9,6 @@ source: GRW
 
 ### Unsichtbares Sehen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 12

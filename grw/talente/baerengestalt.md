@@ -9,7 +9,6 @@ source: GRW
 
 ### Bärengestalt
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 14 (V)
 

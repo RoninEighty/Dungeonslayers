@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Samtpfote
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 12 (III)
   - MDB 12 (III)

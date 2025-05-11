@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Gefahrensinn
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

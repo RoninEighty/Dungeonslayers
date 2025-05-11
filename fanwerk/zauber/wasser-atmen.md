@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Wasser atmen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 4

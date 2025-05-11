@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Zen-Schütze
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 14 (III)
 

@@ -9,7 +9,6 @@ source: GRW
 
 ### Mächtige Herbeirufung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 16 (III)
 

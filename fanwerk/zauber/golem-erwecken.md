@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Golem erwecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 15

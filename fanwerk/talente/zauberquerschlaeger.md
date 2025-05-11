@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Zauberquerschläger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 8 (III)
   - Zau 10 (V)

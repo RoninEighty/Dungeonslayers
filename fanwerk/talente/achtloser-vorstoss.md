@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Achtloser Vorstoss
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (I)
   - BER 10 (III)

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Ausbrennen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 10 (V)
 

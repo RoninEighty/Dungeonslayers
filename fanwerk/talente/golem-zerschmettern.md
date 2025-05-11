@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Golem zerschmettern
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - HWK 12 (I)
   - KLE 12 (III)

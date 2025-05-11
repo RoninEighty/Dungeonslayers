@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Sinnestäuscher
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ILL 10 (V)
 

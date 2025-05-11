@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Dämonenschwingen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Sch 12 (IV)
   - DÄM 10 (VI)

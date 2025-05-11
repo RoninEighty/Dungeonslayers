@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Meteor
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 18

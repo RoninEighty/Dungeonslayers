@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Verkrüppeln 2
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17

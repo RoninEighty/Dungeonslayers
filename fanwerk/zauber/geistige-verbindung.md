@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Geistige Verbindung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11

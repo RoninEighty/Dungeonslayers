@@ -9,7 +9,6 @@ source: GRW
 
 ### Fliegen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 20
   - Zauberer: 10

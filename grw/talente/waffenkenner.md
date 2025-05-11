@@ -9,7 +9,6 @@ source: GRW
 
 ### Waffenkenner
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - SPÄ 12 (III)

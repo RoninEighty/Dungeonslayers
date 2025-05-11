@@ -9,7 +9,6 @@ source: GRW
 
 ### Meucheln
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 14 (III)
 

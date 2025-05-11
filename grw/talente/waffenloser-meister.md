@@ -9,7 +9,6 @@ source: GRW
 
 ### Waffenloser Meister
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 10 (V)
 

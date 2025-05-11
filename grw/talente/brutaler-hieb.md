@@ -9,7 +9,6 @@ source: GRW
 
 ### Brutaler Hieb
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - SPÄ 8 (III)

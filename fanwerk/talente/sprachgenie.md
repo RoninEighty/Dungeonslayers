@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Sprachgenie
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - SPÄ 1 (III)

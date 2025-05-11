@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Fresssack
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - BÜR 4 (I)

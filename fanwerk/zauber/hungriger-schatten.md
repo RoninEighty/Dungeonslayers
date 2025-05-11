@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Hungriger Schatten
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

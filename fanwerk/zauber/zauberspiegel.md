@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Zauberspiegel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 14
   - Zauberer: 12

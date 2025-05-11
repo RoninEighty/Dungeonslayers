@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Heilung stoppen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

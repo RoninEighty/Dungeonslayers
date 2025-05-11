@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Lichtodem
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 14

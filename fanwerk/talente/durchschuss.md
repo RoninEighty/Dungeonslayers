@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Durchschuss
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 15 (V)
 

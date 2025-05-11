@@ -9,7 +9,6 @@ source: GRW
 
 ### Tiermeister
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 10 (III)
   - WDL 12 (III)

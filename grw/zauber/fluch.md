@@ -9,7 +9,6 @@ source: GRW
 
 ### Fluch
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6

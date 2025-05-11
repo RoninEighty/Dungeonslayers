@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Dunkle Segnung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

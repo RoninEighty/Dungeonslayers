@@ -9,7 +9,6 @@ source: GRW
 
 ### Tod entrinnen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 12 (III)
   - PAL 16 (III)

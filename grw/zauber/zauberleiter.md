@@ -9,7 +9,6 @@ source: GRW
 
 ### Zauberleiter
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 4

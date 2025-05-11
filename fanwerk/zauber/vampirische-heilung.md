@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Vampirische Heilung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1

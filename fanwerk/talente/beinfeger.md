@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Beinfeger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - ATT 14 (III)

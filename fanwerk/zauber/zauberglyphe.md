@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Zauberglyphe
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 6

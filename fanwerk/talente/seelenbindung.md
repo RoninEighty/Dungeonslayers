@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Seelenbindung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 16 (V)
 

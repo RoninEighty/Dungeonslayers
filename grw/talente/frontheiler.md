@@ -9,7 +9,6 @@ source: GRW
 
 ### Frontheiler
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 12 (V)
 

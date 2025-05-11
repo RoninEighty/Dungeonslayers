@@ -9,7 +9,6 @@ source: GRW
 
 ### Schutzschild stärken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: -

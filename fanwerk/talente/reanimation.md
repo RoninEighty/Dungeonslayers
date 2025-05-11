@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Reanimation
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 12 (V)
 

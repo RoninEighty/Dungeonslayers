@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Zweites Leben
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 14
   - Zauberer: -

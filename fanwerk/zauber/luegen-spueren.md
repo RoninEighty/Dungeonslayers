@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Lügen spüren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 8

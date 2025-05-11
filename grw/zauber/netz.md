@@ -9,7 +9,6 @@ source: GRW
 
 ### Netz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 9

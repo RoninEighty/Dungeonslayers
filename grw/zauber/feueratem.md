@@ -9,7 +9,6 @@ source: GRW
 
 ### Feueratem
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10

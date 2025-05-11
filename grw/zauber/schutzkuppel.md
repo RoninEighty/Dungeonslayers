@@ -9,7 +9,6 @@ source: GRW
 
 ### Schutzkuppel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 12

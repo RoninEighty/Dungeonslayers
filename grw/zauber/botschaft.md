@@ -9,7 +9,6 @@ source: GRW
 
 ### Botschaft
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 6

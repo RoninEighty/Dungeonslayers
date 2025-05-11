@@ -9,7 +9,6 @@ source: GRW
 
 ### Heilende Hand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -

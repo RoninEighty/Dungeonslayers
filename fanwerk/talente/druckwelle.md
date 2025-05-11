@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Druckwelle
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Zau 12 (III)
   - Sch 12 (III)

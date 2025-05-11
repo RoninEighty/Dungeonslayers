@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Würgegriff
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

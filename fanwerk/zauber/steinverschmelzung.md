@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Steinverschmelzung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 10

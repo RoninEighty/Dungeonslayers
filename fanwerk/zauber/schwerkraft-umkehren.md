@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Schwerkraft umkehren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14

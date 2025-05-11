@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Blutentzug
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

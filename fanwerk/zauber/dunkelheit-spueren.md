@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Dunkelheit spüren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: -

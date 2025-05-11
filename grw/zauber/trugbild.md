@@ -9,7 +9,6 @@ source: GRW
 
 ### Trugbild
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

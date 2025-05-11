@@ -9,7 +9,6 @@ source: GRW
 
 ### Gehorche
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12

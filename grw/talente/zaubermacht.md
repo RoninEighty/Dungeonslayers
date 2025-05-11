@@ -9,7 +9,6 @@ source: GRW
 
 ### Zaubermacht
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 4 (III)
   - ELE 10 (V)

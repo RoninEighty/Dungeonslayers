@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Besessenheit 2
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 16

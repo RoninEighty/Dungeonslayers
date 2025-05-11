@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Schattenstärke
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Sch 8 (III)
   - ATT 12 (V)

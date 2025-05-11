@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Vergebung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 12 (III)
   - SPÄ 12 (III)

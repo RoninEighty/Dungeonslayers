@@ -9,7 +9,6 @@ source: GRW
 
 ### Verwirren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 5

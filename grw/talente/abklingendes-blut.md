@@ -9,7 +9,6 @@ source: GRW
 
 ### Abklingendes Blut
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 12 (V)
 

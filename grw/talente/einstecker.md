@@ -9,7 +9,6 @@ source: GRW
 
 ### Einstecker
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (V)
   - SPÄ 1 (IV)

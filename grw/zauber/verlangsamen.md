@@ -9,7 +9,6 @@ source: GRW
 
 ### Verlangsamen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 8

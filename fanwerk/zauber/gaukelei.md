@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Gaukelei
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Ruf des Lichts
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 13
   - Zauberer: -

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Gegenstand entdecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 4

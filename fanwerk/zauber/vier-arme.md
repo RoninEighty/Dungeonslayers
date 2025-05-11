@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Vier Arme
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Botenteufel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9

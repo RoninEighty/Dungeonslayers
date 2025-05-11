@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Zeitinterferenz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 5

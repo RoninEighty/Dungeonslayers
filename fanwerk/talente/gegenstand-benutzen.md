@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Gegenstand benutzen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - MDB 12 (V)
 

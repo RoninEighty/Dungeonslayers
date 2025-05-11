@@ -9,7 +9,6 @@ source: GRW
 
 ### Präziser Schuss
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 15 (III)
 

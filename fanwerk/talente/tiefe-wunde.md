@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Tiefe Wunde
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 12 (V)
   - ATT 14 (V)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Segen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: -

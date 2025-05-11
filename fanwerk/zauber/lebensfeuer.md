@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Lebensfeuer
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: -

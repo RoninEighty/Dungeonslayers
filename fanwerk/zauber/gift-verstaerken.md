@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Gift verstärken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: -

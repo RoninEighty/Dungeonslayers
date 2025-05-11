@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Verspotten
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BAR 10 (V)
 

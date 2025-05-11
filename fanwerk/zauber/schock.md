@@ -9,7 +9,6 @@ source: Sturmelfen
 
 ### Schock
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1

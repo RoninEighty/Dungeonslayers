@@ -9,7 +9,6 @@ source: GRW
 
 ### Panzerung zerschmettern
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - BER 12 (V)

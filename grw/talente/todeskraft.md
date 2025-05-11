@@ -9,7 +9,6 @@ source: GRW
 
 ### Todeskraft
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 10 (V)
 

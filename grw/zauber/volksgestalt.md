@@ -9,7 +9,6 @@ source: GRW
 
 ### Volksgestalt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

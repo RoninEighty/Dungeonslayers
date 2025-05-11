@@ -9,7 +9,6 @@ source: GRW
 
 ### Flammeninferno
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15

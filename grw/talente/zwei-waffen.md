@@ -9,7 +9,6 @@ source: GRW
 
 ### Zwei Waffen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (V)
   - SPÄ 8 (V)

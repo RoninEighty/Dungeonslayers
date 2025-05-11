@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Entzaubern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 20
   - Zauberer: 18

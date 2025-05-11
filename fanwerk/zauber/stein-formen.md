@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Stein formen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 10

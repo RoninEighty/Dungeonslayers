@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Blind kämpfen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (VI)
   - SPÄ 4 (III)

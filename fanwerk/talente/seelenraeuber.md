@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Seelenräuber
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Sch 15 (III)
   - ATT 12 (VIII)

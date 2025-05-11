@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Halluzination
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ILL 16 (V)
 

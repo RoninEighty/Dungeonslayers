@@ -9,7 +9,6 @@ source: GRW
 
 ### Kreiszeichner
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 12 (III)
 

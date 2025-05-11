@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Zauberdehnung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 4 (III)
   - Hei 12 (V)

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Autorität
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (V)
   - SPÄ 8 (III)

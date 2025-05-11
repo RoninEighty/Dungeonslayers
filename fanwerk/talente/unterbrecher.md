@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Unterbrecher
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (V)
   - SPÄ 8 (V)

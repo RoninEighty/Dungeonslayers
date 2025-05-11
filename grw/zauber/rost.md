@@ -9,7 +9,6 @@ source: GRW
 
 ### Rost
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 7

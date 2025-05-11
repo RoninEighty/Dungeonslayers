@@ -9,7 +9,6 @@ source: GRW
 
 ### Herausforderer der Elemente
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 14 (III)
 

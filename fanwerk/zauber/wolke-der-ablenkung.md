@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Wolke der Ablenkung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

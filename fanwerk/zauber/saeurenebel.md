@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Säurenebel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10

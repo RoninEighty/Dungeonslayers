@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Magieresistenz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 7

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Geborenes Genie
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - SPÄ 1 (III)

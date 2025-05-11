@@ -9,7 +9,6 @@ source: GRW
 
 ### Langfinger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - MDB 10 (III)
 

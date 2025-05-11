@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Kauderwelsch
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 4

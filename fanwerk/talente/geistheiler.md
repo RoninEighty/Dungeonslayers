@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Geistheiler
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 8 (III)
   - ZAW 4 (III)

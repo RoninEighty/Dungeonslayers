@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Himmelswächter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 4 (III)
   - WDL 10 (V)

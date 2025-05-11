@@ -9,7 +9,6 @@ source: GRW
 
 ### Schmerzhafter Wechsel
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 12 (III)
 

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Geteiltes Leben
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 10

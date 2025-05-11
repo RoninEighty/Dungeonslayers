@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Selbstzerstörung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KLE 18 (III)
   - ERZ 18 (III)

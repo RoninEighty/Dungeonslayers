@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Wand aus Licht
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 14

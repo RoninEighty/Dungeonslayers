@@ -9,7 +9,6 @@ source: GRW
 
 ### Frostwaffe
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

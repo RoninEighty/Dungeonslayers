@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Lieblingszauber
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 8 (III)
   - ERZ 10 (V)

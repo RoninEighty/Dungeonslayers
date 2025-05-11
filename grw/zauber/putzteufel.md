@@ -9,7 +9,6 @@ source: GRW
 
 ### Putzteufel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

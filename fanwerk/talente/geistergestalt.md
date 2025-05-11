@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Geistergestalt
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 14 (V)
 

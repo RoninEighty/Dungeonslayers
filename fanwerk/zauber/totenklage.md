@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Totenklage
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Giftexplosion
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Sch 12 (III)
 

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Wand aus Dunkelheit
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14

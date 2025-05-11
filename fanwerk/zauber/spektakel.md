@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Spektakel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12

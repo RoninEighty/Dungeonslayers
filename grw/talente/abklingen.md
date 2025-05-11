@@ -9,7 +9,6 @@ source: GRW
 
 ### Abklingen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 4 (V)
   - ERZ 10 (X)

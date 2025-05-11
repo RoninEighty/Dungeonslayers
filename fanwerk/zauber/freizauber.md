@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Freizauber
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 19
   - Zauberer: 19

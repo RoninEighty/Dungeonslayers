@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Prophezeihung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 14

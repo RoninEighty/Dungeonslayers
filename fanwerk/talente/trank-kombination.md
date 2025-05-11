@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Trank-Kombination
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - APO 14 (III)
 

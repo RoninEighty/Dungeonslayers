@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Regeneration
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 15
   - Zauberer: -

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Mit Anlauf!
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (V)
 

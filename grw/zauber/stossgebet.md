@@ -9,7 +9,6 @@ source: GRW
 
 ### Stossgebet
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: -

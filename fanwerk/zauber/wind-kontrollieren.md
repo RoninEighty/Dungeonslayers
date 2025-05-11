@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Wind kontrollieren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12

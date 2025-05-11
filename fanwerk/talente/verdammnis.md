@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Verdammnis
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 12 (III)
   - SPÄ 12 (III)

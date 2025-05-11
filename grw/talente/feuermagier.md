@@ -9,7 +9,6 @@ source: GRW
 
 ### Feuermagier
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Zau 4 (III)
   - Sch 1 (III)

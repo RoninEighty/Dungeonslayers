@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Konstrukt kapern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

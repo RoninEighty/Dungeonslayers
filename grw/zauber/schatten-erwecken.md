@@ -9,7 +9,6 @@ source: GRW
 
 ### Schatten erwecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

@@ -9,7 +9,6 @@ source: GRW
 
 ### Rüstzauberer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 1 (I)
   - KLE 10 (III)

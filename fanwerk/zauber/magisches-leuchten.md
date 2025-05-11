@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Magisches leuchten
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 3

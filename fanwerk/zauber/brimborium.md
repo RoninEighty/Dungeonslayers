@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Brimborium
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

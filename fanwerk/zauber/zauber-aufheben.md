@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Zauber aufheben
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: 6

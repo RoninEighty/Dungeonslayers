@@ -9,7 +9,6 @@ source: GRW
 
 ### Rüstträger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (V)
   - SPÄ 8 (V)

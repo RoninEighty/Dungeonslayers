@@ -9,7 +9,6 @@ source: GRW
 
 ### Friedvoller Hieb
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 16 (III)
 

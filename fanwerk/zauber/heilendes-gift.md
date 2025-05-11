@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Heilendes Gift
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: -

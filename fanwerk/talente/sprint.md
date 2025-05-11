@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Sprint
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (X)
   - SPÄ 4 (X)

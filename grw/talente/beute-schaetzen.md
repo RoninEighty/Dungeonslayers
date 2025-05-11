@@ -9,7 +9,6 @@ source: GRW
 
 ### Beute schätzen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - MDB 10 (V)
 

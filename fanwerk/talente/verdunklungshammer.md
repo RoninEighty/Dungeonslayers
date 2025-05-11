@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Verdunklungshammer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 12 (III)
   - SPÄ 8 (III)

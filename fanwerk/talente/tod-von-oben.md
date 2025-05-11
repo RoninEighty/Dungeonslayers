@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Tod von Oben
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (V)
   - SPÄ 4 (V)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Feuerwand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

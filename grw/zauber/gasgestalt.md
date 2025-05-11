@@ -9,7 +9,6 @@ source: GRW
 
 ### Gasgestalt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15

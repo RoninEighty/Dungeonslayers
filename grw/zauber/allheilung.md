@@ -9,7 +9,6 @@ source: GRW
 
 ### Allheilung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -

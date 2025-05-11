@@ -9,7 +9,6 @@ source: GRW
 
 ### Salve
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 14 (III)
   - WAM 16 (III)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Freund
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 7

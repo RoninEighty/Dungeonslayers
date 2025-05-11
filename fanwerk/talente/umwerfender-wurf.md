@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Umwerfender Wurf
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - SPÄ 8 (III)

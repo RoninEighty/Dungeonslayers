@@ -9,7 +9,6 @@ source: GRW
 
 ### Blitzmacher
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 12 (III)
   - Sch 8 (III)

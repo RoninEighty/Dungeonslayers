@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Vampirfäuste
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 4

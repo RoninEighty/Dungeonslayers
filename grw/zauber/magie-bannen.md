@@ -9,7 +9,6 @@ source: GRW
 
 ### Magie bannen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 7

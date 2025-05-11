@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Ablenken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 3

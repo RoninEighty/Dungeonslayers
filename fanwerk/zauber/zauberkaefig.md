@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Zauberkäfig
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 12

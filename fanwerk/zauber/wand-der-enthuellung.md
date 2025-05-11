@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Wand der Enthüllung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 13

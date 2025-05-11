@@ -9,7 +9,6 @@ source: GRW
 
 ### Ich muss weg!
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 12 (III)
   - MDB 10 (III)

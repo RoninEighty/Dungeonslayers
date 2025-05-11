@@ -9,7 +9,6 @@ source: GRW
 
 ### Gerüstet
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KLE 10 (II)
   - KRZ 10 (III)

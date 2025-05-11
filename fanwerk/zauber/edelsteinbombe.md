@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Edelsteinbombe
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 13

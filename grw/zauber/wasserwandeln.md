@@ -9,7 +9,6 @@ source: GRW
 
 ### Wasserwandeln
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 9

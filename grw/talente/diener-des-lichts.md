@@ -9,7 +9,6 @@ source: GRW
 
 ### Diener des Lichts
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - SPÄ 1 (III)

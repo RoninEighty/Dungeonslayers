@@ -9,7 +9,6 @@ source: GRW
 
 ### Spruchmeister
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 15 (III)
 

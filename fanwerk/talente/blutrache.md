@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Blutrache
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BER 12 (V)
   - BLU 12 (V)

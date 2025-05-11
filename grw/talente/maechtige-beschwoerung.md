@@ -9,7 +9,6 @@ source: GRW
 
 ### Mächtige Beschwörung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 16 (III)
 

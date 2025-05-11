@@ -9,7 +9,6 @@ source: GRW
 
 ### Nekromantie
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 8 (III)
   - Sch 8 (III)

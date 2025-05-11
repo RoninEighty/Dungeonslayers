@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Faulbauchmaden erwecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

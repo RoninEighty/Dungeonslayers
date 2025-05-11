@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Ebene erschaffen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 20
   - Zauberer: 20

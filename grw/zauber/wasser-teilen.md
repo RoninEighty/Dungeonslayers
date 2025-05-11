@@ -9,7 +9,6 @@ source: GRW
 
 ### Wasser teilen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: -

@@ -9,7 +9,6 @@ source: GRW
 
 ### Verdampfen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20

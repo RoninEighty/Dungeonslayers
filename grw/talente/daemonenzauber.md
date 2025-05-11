@@ -9,7 +9,6 @@ source: GRW
 
 ### Dämonenzauber
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 16 (III)
 

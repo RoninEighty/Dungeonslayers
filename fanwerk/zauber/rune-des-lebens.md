@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Rune des Lebens
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: -

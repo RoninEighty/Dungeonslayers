@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schildwall
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - Hei 4 (III)

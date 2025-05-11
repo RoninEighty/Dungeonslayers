@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Dornenwuchs
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: -

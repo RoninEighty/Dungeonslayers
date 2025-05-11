@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Drachentöter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRZ 14 (III)
   - PAL 12 (III)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Untote Horden
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 10 (X)
   - ERZ 16 (V)

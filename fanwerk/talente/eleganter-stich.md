@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Eleganter Stich
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - SPÄ 4 (III)

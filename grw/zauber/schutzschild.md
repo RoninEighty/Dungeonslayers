@@ -9,7 +9,6 @@ source: GRW
 
 ### Schutzschild
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 8

@@ -9,7 +9,6 @@ source: GRW
 
 ### Verborgenes sehen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 8

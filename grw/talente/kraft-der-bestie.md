@@ -9,7 +9,6 @@ source: GRW
 
 ### Kraft der Bestie
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 10 (V)
 

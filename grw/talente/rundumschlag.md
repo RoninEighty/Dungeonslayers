@@ -9,7 +9,6 @@ source: GRW
 
 ### Rundumschlag
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BER 14 (III)
   - KMÖ 16 (III)

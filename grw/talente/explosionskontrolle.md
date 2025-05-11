@@ -9,7 +9,6 @@ source: GRW
 
 ### Explosionskontrolle
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 10 (V)
   - ERZ 16 (V)

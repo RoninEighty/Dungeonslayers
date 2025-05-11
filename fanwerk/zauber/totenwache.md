@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Totenwache
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 9

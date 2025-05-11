@@ -9,7 +9,6 @@ source: GRW
 
 ### Verheerer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 8 (III)
   - ELE 12 (V)

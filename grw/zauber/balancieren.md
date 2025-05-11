@@ -9,7 +9,6 @@ source: GRW
 
 ### Balancieren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 3

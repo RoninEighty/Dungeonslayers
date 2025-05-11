@@ -9,7 +9,6 @@ source: GRW
 
 ### Verdrücken
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 14 (III)
   - KMÖ 12 (III)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Wiederbelebung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -

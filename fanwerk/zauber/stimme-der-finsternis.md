@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Stimme der Finsternis
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

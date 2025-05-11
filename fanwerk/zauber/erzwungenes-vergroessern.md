@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Erzwungenes Vergrössern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12

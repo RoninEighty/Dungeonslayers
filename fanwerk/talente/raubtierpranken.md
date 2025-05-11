@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Raubtierpranken
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 16 (III)
 

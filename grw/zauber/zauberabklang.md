@@ -9,7 +9,6 @@ source: GRW
 
 ### Zauberabklang
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 5

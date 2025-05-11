@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Herr des Waldes
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 18 (III)
 

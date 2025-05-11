@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Magische Wand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 14
   - Zauberer: 10

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Zauber erkennen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 2

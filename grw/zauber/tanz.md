@@ -9,7 +9,6 @@ source: GRW
 
 ### Tanz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

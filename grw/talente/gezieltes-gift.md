@@ -9,7 +9,6 @@ source: GRW
 
 ### Gezieltes Gift
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 14 (III)
 

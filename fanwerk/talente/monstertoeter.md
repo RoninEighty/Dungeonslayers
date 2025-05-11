@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Monstertöter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - SPÄ 8 (III)

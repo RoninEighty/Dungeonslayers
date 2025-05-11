@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Woge der Zerstörung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 20
   - Zauberer: 16

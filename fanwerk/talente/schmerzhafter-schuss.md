@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schmerzhafter Schuss
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - SPÄ 4 (III)

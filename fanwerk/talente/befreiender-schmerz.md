@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Befreiender Schmerz
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BER 12 (III)
   - BLU 10 (V)

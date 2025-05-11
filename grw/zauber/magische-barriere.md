@@ -9,7 +9,6 @@ source: GRW
 
 ### Magische Barriere
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 14
   - Zauberer: 10

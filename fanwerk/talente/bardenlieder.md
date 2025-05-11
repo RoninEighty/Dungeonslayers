@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Bardenlieder
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BAR 10 (III)
 

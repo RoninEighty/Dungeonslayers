@@ -9,7 +9,6 @@ source: GRW
 
 ### Waffe des Lichts
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 8

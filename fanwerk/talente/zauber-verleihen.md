@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Zauber verleihen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 8 (I)
   - HEI 8 (III)

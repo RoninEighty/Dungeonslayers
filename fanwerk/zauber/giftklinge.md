@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Giftklinge
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 7

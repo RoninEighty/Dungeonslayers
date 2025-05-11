@@ -9,7 +9,6 @@ source: GRW
 
 ### Verwandlung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

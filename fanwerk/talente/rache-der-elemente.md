@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Rache der Elemente
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 14 (III)
 

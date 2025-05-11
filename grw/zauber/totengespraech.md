@@ -9,7 +9,6 @@ source: GRW
 
 ### Totengespräch
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

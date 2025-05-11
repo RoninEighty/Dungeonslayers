@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Belebtes Trugbild
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ILL 14 (V)
 

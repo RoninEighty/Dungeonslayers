@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Leibwächter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (I)
   - SPÄ 8 (III)

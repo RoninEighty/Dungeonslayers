@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Untote Klauen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 16 (V)
 

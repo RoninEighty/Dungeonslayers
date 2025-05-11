@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Säurestrahl
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6

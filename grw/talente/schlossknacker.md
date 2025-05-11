@@ -9,7 +9,6 @@ source: GRW
 
 ### Schlossknacker
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 14 (III)
   - MDB 10 (V)

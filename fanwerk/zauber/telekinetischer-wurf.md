@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Telekinetischer Wurf
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 7

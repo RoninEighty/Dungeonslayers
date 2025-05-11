@@ -9,7 +9,6 @@ source: GRW
 
 ### Homunkulus
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ERZ 14 (III)
 

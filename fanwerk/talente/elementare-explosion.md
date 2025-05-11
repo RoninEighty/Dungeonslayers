@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Elementare Explosion
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 14 (IV)
 

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Elementargestalt
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 16 (V)
   - ELE 14 (VI)

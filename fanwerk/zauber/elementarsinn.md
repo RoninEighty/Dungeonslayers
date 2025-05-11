@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Elementarsinn
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 2

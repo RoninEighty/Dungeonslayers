@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Dämonengestalt
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 14 (V)
 

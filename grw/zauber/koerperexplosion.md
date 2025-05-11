@@ -9,7 +9,6 @@ source: GRW
 
 ### Körperexplosion
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

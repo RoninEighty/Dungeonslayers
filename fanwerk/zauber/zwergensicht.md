@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Zwergensicht
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 5

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schlachtreihe
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - BER 10 (V)

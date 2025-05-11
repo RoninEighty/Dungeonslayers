@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Höllenhund rufen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

@@ -9,7 +9,6 @@ source: GRW
 
 ### Knechtschaft
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 16 (V)
   - ELE 16 (V)

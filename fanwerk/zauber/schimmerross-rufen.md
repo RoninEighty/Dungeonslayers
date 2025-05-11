@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Schimmerross rufen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 7

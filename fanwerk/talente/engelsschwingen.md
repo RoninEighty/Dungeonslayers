@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Engelsschwingen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 12 (IV)
   - KLE 10 (VI)

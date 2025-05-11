@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Doppelgänger 1
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 18
   - Zauberer: 20

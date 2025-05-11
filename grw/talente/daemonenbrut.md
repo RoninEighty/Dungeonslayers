@@ -9,7 +9,6 @@ source: GRW
 
 ### Dämonenbrut
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 16 (III)
 

@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Mana geben und Nehmen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

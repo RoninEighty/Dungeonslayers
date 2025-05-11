@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Zuflucht
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11

@@ -9,7 +9,6 @@ source: GRW
 
 ### Blutschild
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 10 (V)
 

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Verbesserte Magische Waffe
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 5

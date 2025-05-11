@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Zauber einfangen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 18
   - Zauberer: 10

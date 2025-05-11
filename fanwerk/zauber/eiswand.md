@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Eiswand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11

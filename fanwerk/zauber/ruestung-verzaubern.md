@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Rüstung verzaubern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 4

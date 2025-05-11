@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Seuchenschneide
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

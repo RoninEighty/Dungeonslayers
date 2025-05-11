@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Verarbeiten
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11

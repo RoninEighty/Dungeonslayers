@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Heftiger Ansturm
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - BER 12 (V)

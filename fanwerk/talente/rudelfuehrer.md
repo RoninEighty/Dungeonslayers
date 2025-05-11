@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Rudelführer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 14 (V)
 

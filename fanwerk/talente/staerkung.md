@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Stärkung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Zau 12 (III)
   - Hei 8 (V)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Heilende Strahlen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: -

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Klauenhände
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 11

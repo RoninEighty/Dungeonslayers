@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Steingestalt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

@@ -9,7 +9,6 @@ source: GRW
 
 ### Schattenklinge
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

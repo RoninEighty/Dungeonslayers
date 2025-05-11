@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Todesschatten
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Zau 12 (III)
   - Sch 8 (III)

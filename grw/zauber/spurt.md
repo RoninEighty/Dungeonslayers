@@ -9,7 +9,6 @@ source: GRW
 
 ### Spurt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 7

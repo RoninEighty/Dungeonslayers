@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Blitzschild
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 8

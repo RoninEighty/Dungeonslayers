@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Sandsturm
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15

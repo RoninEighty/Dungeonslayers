@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Tote Verbindung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 10 (V)
 

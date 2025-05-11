@@ -9,7 +9,6 @@ source: GRW
 
 ### In Deckung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - SPÄ 8 (III)

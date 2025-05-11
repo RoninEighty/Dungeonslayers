@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Vergangenes sehen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10

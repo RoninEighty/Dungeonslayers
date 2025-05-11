@@ -9,7 +9,6 @@ source: GRW
 
 ### Magisches Schloss
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 1

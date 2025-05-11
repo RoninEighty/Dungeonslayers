@@ -9,7 +9,6 @@ source: GRW
 
 ### Giftschutz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 2

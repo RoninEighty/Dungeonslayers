@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Schützende Schatten
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 5

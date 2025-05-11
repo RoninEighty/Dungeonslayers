@@ -9,7 +9,6 @@ source: GRW
 
 ### Lichtsäule
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 19

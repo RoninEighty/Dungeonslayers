@@ -9,7 +9,6 @@ source: GRW
 
 ### Blutige Heilung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 12 (III)
 

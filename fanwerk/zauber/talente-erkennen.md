@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Talente erkennen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 1

@@ -9,7 +9,6 @@ source: GRW
 
 ### Bändiger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 10 (III)
   - ELE 10 (III)

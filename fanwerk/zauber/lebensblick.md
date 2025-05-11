@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Lebensblick
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: -

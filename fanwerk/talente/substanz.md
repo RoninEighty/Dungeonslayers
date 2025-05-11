@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Substanz
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KLE 16 (III)
   - ERZ 16 (III)

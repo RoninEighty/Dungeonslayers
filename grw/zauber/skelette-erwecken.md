@@ -9,7 +9,6 @@ source: GRW
 
 ### Skelette erwecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

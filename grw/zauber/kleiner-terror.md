@@ -9,7 +9,6 @@ source: GRW
 
 ### Kleiner Terror
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 6

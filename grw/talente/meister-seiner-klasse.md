@@ -9,7 +9,6 @@ source: GRW
 
 ### Meister seiner Klasse
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 15 (I)
   - SPÄ 15 (I)

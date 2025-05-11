@@ -9,7 +9,6 @@ source: GRW
 
 ### Wolke der Reue
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 6

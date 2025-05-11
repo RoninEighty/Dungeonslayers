@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Lavawand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 13

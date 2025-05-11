@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Erzwungenes Versetzen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 14
   - Zauberer: 11

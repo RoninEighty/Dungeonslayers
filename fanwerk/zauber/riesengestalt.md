@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Riesengestalt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 18

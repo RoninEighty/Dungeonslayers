@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Sonnenkraft
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 8 (III)
   - DRU 12 (V)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Dämonen beschwören
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17

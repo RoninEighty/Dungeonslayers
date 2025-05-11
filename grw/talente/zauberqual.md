@@ -9,7 +9,6 @@ source: GRW
 
 ### Zauberqual
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 10 (III)
 

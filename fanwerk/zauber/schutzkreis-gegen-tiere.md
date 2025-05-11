@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Schutzkreis gegen Tiere
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 8

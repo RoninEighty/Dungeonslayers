@@ -9,7 +9,6 @@ source: GRW
 
 ### Hinterhältiger Angriff
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 10 (III)
 

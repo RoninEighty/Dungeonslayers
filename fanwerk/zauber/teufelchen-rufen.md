@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Teufelchen rufen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2

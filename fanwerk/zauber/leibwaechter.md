@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Leibwächter
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: -

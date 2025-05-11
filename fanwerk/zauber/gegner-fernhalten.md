@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Gegner fernhalten
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 9

@@ -9,7 +9,6 @@ source: GRW
 
 ### Herr der Elemente
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 10 (V)
   - KRZ 14 (V)

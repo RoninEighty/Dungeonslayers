@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Todesschutz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: -

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Zauberverlängerung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 4 (III)
   - Hei 10 (V)

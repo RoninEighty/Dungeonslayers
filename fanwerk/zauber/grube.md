@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Grube
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 16

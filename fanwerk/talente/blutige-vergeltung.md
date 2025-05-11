@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Blutige Vergeltung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 12 (V)
 

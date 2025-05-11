@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Niederer Dämon rufen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

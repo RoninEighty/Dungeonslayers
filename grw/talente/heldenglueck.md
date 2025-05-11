@@ -9,7 +9,6 @@ source: GRW
 
 ### Heldenglück
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 10 (III)
   - SPÄ 10 (III)

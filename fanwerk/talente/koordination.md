@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Koordination
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - HAU 16 (III)
 

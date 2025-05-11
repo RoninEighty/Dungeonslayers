@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Zauberimmunität
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 4

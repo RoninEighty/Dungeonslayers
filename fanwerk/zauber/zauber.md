@@ -9,7 +9,6 @@ source: Quelle
 
 ### Zauber
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: Zugang Hei
   - Zauberer: Zugang Zau

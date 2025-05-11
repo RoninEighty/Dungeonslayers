@@ -9,7 +9,6 @@ source: GRW
 
 ### Meister aller Klassen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 20 (I)
   - SPÄ 20 (I)

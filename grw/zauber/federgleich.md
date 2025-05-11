@@ -9,7 +9,6 @@ source: GRW
 
 ### Federgleich
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 3

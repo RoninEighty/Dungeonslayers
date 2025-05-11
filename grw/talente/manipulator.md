@@ -9,7 +9,6 @@ source: GRW
 
 ### Manipulator
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 1 (III)
   - Zau 8 (III)

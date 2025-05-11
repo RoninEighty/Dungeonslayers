@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Weihen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: -

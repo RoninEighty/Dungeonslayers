@@ -9,7 +9,6 @@ source: GRW
 
 ### Raserei
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BER 10 (V)
 

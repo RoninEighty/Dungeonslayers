@@ -9,7 +9,6 @@ source: GRW
 
 ### Vernichtender Schlag
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 15 (III)
 

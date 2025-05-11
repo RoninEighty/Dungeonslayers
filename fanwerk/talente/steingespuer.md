@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Steingespür
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 10 (III)
   - ELE 10 (V)

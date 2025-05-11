@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Tier oder Pflanze herbeirufen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -

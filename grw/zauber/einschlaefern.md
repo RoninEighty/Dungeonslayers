@@ -9,7 +9,6 @@ source: GRW
 
 ### Einschläfern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 5

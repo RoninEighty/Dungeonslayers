@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Geist verleihen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 12 (III)
   - ERZ 12 (V)

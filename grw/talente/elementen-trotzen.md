@@ -9,7 +9,6 @@ source: GRW
 
 ### Elementen Trotzen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 10 (X)
   - ERZ 16 (V)

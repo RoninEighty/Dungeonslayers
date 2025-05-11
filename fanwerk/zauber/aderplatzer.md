@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Aderplatzer
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

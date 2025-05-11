@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Seelengefäss
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20

@@ -9,7 +9,6 @@ source: GRW
 
 ### Schattenlanze
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15

@@ -9,7 +9,6 @@ source: GRW
 
 ### Teufelchen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 10 (III)
   - ERZ 12 (III)

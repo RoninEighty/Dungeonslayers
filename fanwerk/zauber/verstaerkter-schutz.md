@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Verstärkter Schutz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 8

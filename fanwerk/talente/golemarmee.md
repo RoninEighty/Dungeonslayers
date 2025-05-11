@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Golemarmee
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KLE 16 (III)
   - ERZ 16 (III)

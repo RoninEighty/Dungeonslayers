@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Heilungsraub
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

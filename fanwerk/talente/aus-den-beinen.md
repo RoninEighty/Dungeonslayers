@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Aus den Beinen!
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 4 (III)
   - BÜR 4 (I)

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Fesselnde Persönlichkeit
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (V)
   - SPÄ 1 (V)

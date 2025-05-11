@@ -9,7 +9,6 @@ source: GRW
 
 ### Reiten
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - SPÄ 1 (III)

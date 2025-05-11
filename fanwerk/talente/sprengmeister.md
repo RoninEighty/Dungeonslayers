@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Sprengmeister
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BÜR 8 (I)
   - GEL 14 (III)

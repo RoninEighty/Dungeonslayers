@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Fähigkeiten erkennen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 2

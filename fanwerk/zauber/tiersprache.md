@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Tiersprache
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 7

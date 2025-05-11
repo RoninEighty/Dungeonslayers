@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Taktiker
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRZ 12 (V)
   - PAL 12 (III)

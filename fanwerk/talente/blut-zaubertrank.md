@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Blut-Zaubertrank
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 12 (V)
 

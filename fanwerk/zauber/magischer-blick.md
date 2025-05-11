@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Magischer Blick
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: 9

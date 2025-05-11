@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Lokalisieren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 17
   - Zauberer: 16

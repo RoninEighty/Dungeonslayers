@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Giftiges Blut
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 16 (III)
   - BLU 12 (V)

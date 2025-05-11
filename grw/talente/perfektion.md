@@ -9,7 +9,6 @@ source: GRW
 
 ### Perfektion
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 10 (III)
   - WAM 10 (V)

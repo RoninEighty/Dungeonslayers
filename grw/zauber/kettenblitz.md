@@ -9,7 +9,6 @@ source: GRW
 
 ### Kettenblitz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 10

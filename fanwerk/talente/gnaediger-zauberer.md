@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Gnädiger Zauberer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ILL 16 (III)
 

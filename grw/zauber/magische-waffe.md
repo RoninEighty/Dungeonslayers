@@ -9,7 +9,6 @@ source: GRW
 
 ### Magische Waffe
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 1

@@ -9,7 +9,6 @@ source: GRW
 
 ### Sensenspötter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 16 (III)
 

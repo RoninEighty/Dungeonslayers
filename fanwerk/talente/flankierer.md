@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Flankierer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - SPÄ 1 (III)

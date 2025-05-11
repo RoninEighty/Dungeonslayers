@@ -9,7 +9,6 @@ source: GRW
 
 ### Lauschen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 2

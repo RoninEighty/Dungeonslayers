@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Kriegsdämon rufen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20

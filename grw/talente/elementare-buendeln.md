@@ -9,7 +9,6 @@ source: GRW
 
 ### Elementare Bündeln
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 10 (X)
 

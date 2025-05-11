@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Phantom
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

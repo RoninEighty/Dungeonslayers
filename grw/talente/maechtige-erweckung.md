@@ -9,7 +9,6 @@ source: GRW
 
 ### Mächtige Erweckung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 16 (III)
 

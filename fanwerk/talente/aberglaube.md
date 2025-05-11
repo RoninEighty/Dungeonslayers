@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Aberglaube
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - BÜR 1 (III)

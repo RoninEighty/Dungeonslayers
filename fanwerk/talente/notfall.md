@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Notfall
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 16 (I)
   - ERZ 14 (III)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Einbetten
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 10 (V)
   - ERZ 10 (X)

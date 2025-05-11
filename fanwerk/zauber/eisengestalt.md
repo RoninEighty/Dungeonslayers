@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Eisengestalt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Totengeläut
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 14 (III)
 

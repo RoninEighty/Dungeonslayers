@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Heilende Rune
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: -

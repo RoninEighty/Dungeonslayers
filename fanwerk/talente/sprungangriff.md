@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Sprungangriff
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 8 (III)
   - ATT 10 (V)

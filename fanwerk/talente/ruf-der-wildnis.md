@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Ruf der Wildnis
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 14 (V)
 

@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Zauber stören
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BAR 12 (III)
 

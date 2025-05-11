@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Magnetischer Schild
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 4

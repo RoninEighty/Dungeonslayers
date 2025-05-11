@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schnellzaubern
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 15 (III)
   - ERZ 16 (V)

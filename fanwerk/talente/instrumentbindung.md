@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Instrumentbindung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BAR 12 (III)
 

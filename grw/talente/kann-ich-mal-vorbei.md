@@ -9,7 +9,6 @@ source: GRW
 
 ### Kann ich mal vorbei?
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - MDB 10 (III)
 

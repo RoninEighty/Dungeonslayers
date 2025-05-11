@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Materielle Bindung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 10 (V)
 

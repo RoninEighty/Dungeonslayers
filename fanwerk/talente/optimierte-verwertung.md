@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Optimierte Verwertung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (II)
   - SPÄ 1 (II)

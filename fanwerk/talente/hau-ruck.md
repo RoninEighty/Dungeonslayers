@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Hau Ruck!
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (V)
   - BÜR 4 (III)

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Verborgene Illusion
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

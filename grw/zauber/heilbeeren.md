@@ -9,7 +9,6 @@ source: GRW
 
 ### Heilbeeren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 10

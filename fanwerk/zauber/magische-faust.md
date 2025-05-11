@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Magische Faust
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -

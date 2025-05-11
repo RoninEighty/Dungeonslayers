@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Fata Morgana
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 13

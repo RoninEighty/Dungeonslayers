@@ -9,7 +9,6 @@ source: GRW
 
 ### Zauberroutine
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ERZ 16 (III)
 

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Anknurren
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - Sch 8 (II)

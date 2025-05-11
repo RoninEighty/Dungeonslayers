@@ -9,7 +9,6 @@ source: GRW
 
 ### Vergeltung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 12 (III)
   - KLE 16 (V)

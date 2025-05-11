@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Inneres Chi
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 10 (III)
 

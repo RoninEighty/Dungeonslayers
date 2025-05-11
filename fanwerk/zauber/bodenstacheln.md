@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Bodenstacheln
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 11

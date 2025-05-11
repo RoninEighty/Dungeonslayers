@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Rankenwaffe
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

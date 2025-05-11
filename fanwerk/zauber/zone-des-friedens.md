@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Zone des Friedens
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: -

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Klauen der Verdammnis
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 16 (III)
 

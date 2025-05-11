@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Verteidiger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KLE 12 (V)
   - PAL 12 (V)

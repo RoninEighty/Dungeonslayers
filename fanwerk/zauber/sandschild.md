@@ -9,7 +9,6 @@ source: SLAY!04
 
 ### Sandschild
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

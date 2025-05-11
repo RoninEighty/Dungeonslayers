@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Krallenfinger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 14 (V)
   - BLU 12 (V)

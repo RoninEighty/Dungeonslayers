@@ -9,7 +9,6 @@ source: GRW
 
 ### Heilendes Licht
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: -

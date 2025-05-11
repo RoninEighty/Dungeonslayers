@@ -9,7 +9,6 @@ source: GRW
 
 ### Wasser weihen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -

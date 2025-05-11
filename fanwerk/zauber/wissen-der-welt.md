@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Wissen der Welt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 2

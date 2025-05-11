@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Gerinnsel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 3

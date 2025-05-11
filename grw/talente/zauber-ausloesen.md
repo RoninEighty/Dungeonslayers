@@ -9,7 +9,6 @@ source: GRW
 
 ### Zauber auslösen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - MDB 12 (III)
 

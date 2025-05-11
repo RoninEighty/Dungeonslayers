@@ -9,7 +9,6 @@ source: GRW
 
 ### Arkanes Schwert
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10

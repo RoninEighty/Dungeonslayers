@@ -9,7 +9,6 @@ source: GRW
 
 ### Erdspalt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 10

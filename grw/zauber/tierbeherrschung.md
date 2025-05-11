@@ -9,7 +9,6 @@ source: GRW
 
 ### Tierbeherrschung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9

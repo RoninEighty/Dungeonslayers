@@ -9,7 +9,6 @@ source: GRW
 
 ### Spionage
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 6

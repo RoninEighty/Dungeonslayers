@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Techniker
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (V)
   - SPÄ 1 (V)

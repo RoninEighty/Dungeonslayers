@@ -9,7 +9,6 @@ source: GRW
 
 ### Steinwand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10

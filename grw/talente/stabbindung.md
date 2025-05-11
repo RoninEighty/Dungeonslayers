@@ -9,7 +9,6 @@ source: GRW
 
 ### Stabbindung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ERZ 12 (V)
 

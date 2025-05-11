@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Treibsand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 14

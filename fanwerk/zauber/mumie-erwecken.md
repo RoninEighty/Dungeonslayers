@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Mumie erwecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

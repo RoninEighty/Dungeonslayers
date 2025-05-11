@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Insektentöter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BER 14 (III)
   - DRU 14 (III)

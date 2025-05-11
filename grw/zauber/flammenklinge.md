@@ -9,7 +9,6 @@ source: GRW
 
 ### Flammenklinge
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

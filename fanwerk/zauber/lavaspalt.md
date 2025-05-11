@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Lavaspalt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 20
   - Zauberer: 18

@@ -9,7 +9,6 @@ source: GRW
 
 ### Scharfschütze
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 12 (III)
   - SPÄ 8 (III)

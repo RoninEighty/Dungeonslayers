@@ -9,7 +9,6 @@ source: SLAY!04
 
 ### Sandgrab
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

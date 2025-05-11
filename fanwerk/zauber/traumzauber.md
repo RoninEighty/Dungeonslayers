@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Traumzauber
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 15
   - Zauberer: 13

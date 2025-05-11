@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Ki-Schlag
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 16 (V)
 

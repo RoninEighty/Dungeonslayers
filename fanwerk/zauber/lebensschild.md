@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Lebensschild
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: -

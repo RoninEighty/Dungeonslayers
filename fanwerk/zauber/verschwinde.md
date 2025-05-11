@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Verschwinde
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 12

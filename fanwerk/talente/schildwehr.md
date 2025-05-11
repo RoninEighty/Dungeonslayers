@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schildwehr
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (V)
   - KLE 12 (III)

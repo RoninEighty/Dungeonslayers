@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Objekt lesen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 3

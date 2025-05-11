@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Klebefaden
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 6

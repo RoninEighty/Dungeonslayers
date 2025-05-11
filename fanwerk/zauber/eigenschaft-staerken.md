@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Eigenschaft stärken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 11

@@ -9,7 +9,6 @@ source: GRW
 
 ### Reinigen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 7

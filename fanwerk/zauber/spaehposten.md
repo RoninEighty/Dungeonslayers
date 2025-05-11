@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Spähposten
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 8

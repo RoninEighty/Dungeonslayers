@@ -9,7 +9,6 @@ source: GRW
 
 ### Magie entdecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 1

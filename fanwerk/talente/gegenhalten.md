@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Gegenhalten
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - KLE 12 (III)

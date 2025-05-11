@@ -9,7 +9,6 @@ source: GRW
 
 ### Beschwörer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Sch 12 (III)
   - DÄM 10 (V)

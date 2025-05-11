@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Vergiss
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

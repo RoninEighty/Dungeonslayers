@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Sonar
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14

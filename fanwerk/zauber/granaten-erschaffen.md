@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Granaten erschaffen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 17

@@ -9,7 +9,6 @@ source: GRW
 
 ### Verletzen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - SPÄ 8 (III)

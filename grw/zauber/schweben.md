@@ -9,7 +9,6 @@ source: GRW
 
 ### Schweben
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 5

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Ablenkender Schuss
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 4 (III)
   - ATT 10 (V)

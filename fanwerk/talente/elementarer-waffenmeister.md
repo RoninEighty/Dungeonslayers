@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Elementarer Waffenmeister
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 12 (III)
 

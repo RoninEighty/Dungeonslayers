@@ -9,7 +9,6 @@ source: GRW
 
 ### Verteidigung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 4

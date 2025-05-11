@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Spur verwischen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 3

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Nachtschwärmer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 8 (III)
   - Sch 12 (III)

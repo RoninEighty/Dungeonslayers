@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Klangexplosion
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BAR 14 (III)
 

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Elementare Energie
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ELE 16 (V)
 

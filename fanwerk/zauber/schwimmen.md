@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Schwimmen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 2

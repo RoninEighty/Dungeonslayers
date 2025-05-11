@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Zauber der Wildnis
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 12 (III)
 

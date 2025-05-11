@@ -9,7 +9,6 @@ source: GRW
 
 ### Akrobat
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - SPÄ 1 (III)

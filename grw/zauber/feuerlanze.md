@@ -9,7 +9,6 @@ source: GRW
 
 ### Feuerlanze
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

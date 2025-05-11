@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Identifizierer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 1 (III)
   - ERZ 10 (V)

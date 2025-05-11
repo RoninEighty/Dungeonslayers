@@ -9,7 +9,6 @@ source: GRW
 
 ### Wandöffnung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6

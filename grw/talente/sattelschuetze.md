@@ -9,7 +9,6 @@ source: GRW
 
 ### Sattelschütze
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 14 (III)
   - WDL 10 (III)

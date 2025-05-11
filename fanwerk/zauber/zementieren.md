@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Zementieren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9

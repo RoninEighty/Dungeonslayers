@@ -9,7 +9,6 @@ source: ZL/Flost
 
 ### Atemfrei
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 3

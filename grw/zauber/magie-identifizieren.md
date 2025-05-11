@@ -9,7 +9,6 @@ source: GRW
 
 ### Magie identifizieren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 1

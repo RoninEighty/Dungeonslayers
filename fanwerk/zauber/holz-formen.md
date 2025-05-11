@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Holz formen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 7

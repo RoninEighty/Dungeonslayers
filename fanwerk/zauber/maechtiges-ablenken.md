@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Mächtiges Ablenken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 11

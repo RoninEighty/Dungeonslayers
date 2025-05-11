@@ -9,7 +9,6 @@ source: GRW
 
 ### Schutz vor Elementen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 12 (V)
   - ELE 10 (V)

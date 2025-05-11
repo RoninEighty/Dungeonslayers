@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Stirb, Feigling!
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - BER 10 (V)

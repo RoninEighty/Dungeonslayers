@@ -9,7 +9,6 @@ source: GRW
 
 ### Fieser Schuss
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 4 (III)
   - ATT 12 (V)

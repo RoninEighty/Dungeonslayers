@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### In die Kerbe!
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - SPÄ 12 (III)

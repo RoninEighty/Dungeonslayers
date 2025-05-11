@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Blutnebel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

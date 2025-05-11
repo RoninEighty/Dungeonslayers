@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Klingenwand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: -

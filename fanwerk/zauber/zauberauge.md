@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Zauberauge
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 10

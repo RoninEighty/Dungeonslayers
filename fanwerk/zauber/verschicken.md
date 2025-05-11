@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Verschicken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9

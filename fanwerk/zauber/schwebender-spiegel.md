@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Schwebender Spiegel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2

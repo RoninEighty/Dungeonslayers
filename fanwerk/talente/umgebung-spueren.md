@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Umgebung spüren
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 12 (V)
   - WDL 12 (III)

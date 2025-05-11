@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Feuer löschen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 10

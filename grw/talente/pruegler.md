@@ -9,7 +9,6 @@ source: GRW
 
 ### Prügler
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
 

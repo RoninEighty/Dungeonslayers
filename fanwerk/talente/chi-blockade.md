@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Chi-Blockade
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 12 (V)
 

@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Leidteiler
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -

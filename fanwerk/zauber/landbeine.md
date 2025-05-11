@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Landbeine
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 2

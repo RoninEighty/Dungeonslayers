@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Flammensphären
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 9

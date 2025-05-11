@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Rohe Magie
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 15 (V)
 

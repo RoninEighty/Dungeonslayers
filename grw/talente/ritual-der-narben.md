@@ -9,7 +9,6 @@ source: GRW
 
 ### Ritual der Narben
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 10 (III)
   - DÄM 12 (III)

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Schwarm herbeirufen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 8

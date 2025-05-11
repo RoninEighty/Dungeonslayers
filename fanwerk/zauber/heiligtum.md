@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Heiligtum
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -

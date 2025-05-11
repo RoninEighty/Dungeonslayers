@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Lockruf
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 10

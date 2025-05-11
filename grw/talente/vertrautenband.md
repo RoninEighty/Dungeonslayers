@@ -9,7 +9,6 @@ source: GRW
 
 ### Vertrautenband
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 10 (X)
   - ERZ 14 (III)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Durchsicht
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 7
   - Zauberer: 3

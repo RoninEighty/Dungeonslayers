@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Licht spüren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

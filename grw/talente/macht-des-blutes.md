@@ -9,7 +9,6 @@ source: GRW
 
 ### Macht des Blutes
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 14 (III)
 

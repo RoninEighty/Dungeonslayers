@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Telepathie
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2

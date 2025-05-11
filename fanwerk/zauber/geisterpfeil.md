@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Geisterpfeil
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

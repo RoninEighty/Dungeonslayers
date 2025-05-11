@@ -9,7 +9,6 @@ source: GRW
 
 ### Tarnender Nebel
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Beschwörer peinigen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KLE 18 (III)
   - PAL 16 (V)

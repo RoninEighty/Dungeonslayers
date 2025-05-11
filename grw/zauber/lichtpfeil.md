@@ -9,7 +9,6 @@ source: GRW
 
 ### Lichtpfeil
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 5

@@ -9,7 +9,6 @@ source: GRW
 
 ### Heiliger Hammer
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: -

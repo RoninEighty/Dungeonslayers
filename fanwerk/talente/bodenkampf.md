@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Bodenkampf
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (V)
   - SPÄ 8 (V)

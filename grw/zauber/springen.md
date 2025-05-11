@@ -9,7 +9,6 @@ source: GRW
 
 ### Springen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 2

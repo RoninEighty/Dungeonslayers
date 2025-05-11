@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Antimagie
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 11

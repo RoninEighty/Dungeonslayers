@@ -9,7 +9,6 @@ source: GRW
 
 ### Standhaft
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - SPÄ 4 (III)

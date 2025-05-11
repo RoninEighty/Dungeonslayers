@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Ehrenduell
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - PAL 10 (V)

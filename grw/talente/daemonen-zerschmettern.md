@@ -9,7 +9,6 @@ source: GRW
 
 ### Dämonen zerschmettern
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 14 (III)
   - KLE 12 (III)

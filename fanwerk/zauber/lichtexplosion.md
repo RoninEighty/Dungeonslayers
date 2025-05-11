@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Lichtexplosion
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 15
   - Zauberer: -

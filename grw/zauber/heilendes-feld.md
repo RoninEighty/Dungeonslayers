@@ -9,7 +9,6 @@ source: GRW
 
 ### Heilendes Feld
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 18
   - Zauberer: -

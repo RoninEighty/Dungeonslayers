@@ -9,7 +9,6 @@ source: GRW
 
 ### Feuerstrahl
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1

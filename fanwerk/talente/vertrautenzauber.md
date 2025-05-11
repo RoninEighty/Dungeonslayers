@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Vertrautenzauber
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 16 (III)
   - ZAW 12 (III)

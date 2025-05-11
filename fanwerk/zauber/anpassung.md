@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Anpassung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 10

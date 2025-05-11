@@ -9,7 +9,6 @@ source: GRW
 
 ### Magische Rüstung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 8

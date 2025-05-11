@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Zauberbeschleunigung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 8 (III)
   - Hei 12 (V)

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Entweihen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

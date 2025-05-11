@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Klettern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 4

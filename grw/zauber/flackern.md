@@ -9,7 +9,6 @@ source: GRW
 
 ### Flackern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 4

@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Zauberwelle
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 10 (III)
   - Zau 12 (V)

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Schutz vor Licht
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

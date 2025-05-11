@@ -9,7 +9,6 @@ source: GRW
 
 ### Manabrot
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 5

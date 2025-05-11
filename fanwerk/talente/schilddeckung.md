@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schilddeckung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - KLE 12 (III)

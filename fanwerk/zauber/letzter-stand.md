@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Letzter Stand
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: -

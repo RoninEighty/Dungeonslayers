@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Sprache verstehen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 1

@@ -9,7 +9,6 @@ source: GRW
 
 ### Zeitstop
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Heilende Sphäre
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: -

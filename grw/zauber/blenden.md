@@ -9,7 +9,6 @@ source: GRW
 
 ### Blenden
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 5

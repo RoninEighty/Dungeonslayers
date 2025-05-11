@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Feiner Geruchssinn
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BER 14 (III)
   - DRU 10 (III)

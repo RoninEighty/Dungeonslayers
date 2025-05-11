@@ -9,7 +9,6 @@ source: GRW
 
 ### Sehnenschneider
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 12 (III)
   - WAM 16 (III)

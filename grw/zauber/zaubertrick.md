@@ -9,7 +9,6 @@ source: GRW
 
 ### Zaubertrick
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1

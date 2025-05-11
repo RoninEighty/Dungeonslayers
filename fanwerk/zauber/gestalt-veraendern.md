@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Gestalt verändern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10

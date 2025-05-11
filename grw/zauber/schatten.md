@@ -9,7 +9,6 @@ source: GRW
 
 ### Schatten
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6

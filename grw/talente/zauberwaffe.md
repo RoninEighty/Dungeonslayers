@@ -9,7 +9,6 @@ source: GRW
 
 ### Zauberwaffe
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRZ 12 (III)
 

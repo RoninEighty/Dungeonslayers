@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schildwacht
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - KLE 10 (III)

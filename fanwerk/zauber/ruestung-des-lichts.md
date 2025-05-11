@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Rüstung des Lichts
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: 10

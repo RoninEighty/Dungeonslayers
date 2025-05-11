@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Wunde übertragen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

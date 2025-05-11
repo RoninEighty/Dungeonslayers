@@ -9,7 +9,6 @@ source: GRW
 
 ### Wahnsinn
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

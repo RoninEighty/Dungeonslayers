@@ -9,7 +9,6 @@ source: GRW
 
 ### Wächter
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: 6

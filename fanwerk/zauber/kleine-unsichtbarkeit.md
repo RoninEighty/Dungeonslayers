@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Kleine Unsichtbarkeit
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 3

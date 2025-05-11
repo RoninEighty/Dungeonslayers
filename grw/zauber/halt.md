@@ -9,7 +9,6 @@ source: GRW
 
 ### Halt
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 6

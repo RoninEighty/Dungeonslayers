@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Inquisition
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 9
   - Zauberer: -

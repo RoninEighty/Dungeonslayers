@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Blutmaske
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 14 (III)
 

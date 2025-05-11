@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Edelsteinfalle
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 17
   - Zauberer: 14

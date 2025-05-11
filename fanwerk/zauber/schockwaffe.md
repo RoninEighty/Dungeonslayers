@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Schockwaffe
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 4

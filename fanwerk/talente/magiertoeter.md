@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Magiertöter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - SPÄ 4 (III)

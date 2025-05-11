@@ -9,7 +9,6 @@ source: GRW
 
 ### Totenrufer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - NEK 12 (V)
 

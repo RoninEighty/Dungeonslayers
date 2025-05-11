@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Mächtige Tränke
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - APO 16 (III)
 

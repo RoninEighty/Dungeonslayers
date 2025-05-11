@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Kiai
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 12 (III)
 

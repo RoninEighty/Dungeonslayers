@@ -9,7 +9,6 @@ source: GRW
 
 ### Blut kochen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17

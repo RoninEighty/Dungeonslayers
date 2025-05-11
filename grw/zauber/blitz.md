@@ -9,7 +9,6 @@ source: GRW
 
 ### Blitz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 7

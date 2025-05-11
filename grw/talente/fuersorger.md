@@ -9,7 +9,6 @@ source: GRW
 
 ### Fürsorger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 1 (III)
   - PAL 10 (III)

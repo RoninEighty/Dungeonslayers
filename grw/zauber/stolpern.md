@@ -9,7 +9,6 @@ source: GRW
 
 ### Stolpern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 4

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Grosses Ablenken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 17

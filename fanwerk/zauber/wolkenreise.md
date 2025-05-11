@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Wolkenreise
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 17
   - Zauberer: 18

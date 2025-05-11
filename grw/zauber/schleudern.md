@@ -9,7 +9,6 @@ source: GRW
 
 ### Schleudern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 16
   - Zauberer: 12

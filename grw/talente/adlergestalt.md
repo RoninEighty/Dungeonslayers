@@ -9,7 +9,6 @@ source: GRW
 
 ### Adlergestalt
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 16 (V)
 

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Heranziehen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 1

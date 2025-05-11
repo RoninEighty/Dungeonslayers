@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Schnelles Brauen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - APO 12 (III)
 

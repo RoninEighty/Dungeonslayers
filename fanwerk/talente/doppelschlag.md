@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Doppelschlag
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - ATT 14 (III)

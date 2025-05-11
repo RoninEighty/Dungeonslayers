@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Stimme ändern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2

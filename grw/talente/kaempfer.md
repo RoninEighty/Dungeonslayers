@@ -9,7 +9,6 @@ source: GRW
 
 ### Kämpfer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (III)
   - SPÄ 8 (III)

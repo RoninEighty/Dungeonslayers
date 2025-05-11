@@ -9,7 +9,6 @@ source: GRW
 
 ### Vertreiben
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Verdorren
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: 8

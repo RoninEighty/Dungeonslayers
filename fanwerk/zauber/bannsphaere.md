@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Bannsphäre
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 13
   - Zauberer: 8

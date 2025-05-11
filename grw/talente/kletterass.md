@@ -9,7 +9,6 @@ source: GRW
 
 ### Kletterass
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ATT 12 (III)
   - MDB 12 (III)

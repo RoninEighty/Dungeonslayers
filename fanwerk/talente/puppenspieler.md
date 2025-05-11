@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Puppenspieler
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 4 (III)
   - HEI 10 (V)

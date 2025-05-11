@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Zorn des Lichts
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: -

@@ -9,7 +9,6 @@ source: GRW
 
 ### Wechselzauber
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 12
   - Zauberer: 10

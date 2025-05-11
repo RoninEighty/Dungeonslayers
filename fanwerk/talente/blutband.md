@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Blutband
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 14 (III)
 

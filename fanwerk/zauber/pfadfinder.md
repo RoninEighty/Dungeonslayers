@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Pfadfinder
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 11
   - Zauberer: 13

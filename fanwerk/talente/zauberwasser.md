@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Zauberwasser
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - APO 10 (III)
 

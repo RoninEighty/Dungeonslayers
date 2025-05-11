@@ -9,7 +9,6 @@ source: GRW
 
 ### Arkane Explosion
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Zau 8 (III)
   - Sch 8 (III)

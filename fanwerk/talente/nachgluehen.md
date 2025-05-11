@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Nachglühen
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Hei 1 (V)
   - Zau 1 (III)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Zehrender Spurt
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BLU 10 (III)
 

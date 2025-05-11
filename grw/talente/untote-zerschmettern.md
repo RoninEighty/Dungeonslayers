@@ -9,7 +9,6 @@ source: GRW
 
 ### Untote zerschmettern
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KMÖ 14 (III)
   - KLE 10 (III)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Vertrauter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 8 (III)
   - ZAW 4 (III)

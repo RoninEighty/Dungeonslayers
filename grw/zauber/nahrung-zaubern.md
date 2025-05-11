@@ -9,7 +9,6 @@ source: GRW
 
 ### Nahrung zaubern
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 2
   - Zauberer: 7

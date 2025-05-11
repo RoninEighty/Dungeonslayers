@@ -9,7 +9,6 @@ source: GRW
 
 ### Zombies erwecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

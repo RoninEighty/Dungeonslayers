@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Heiltrank verderben
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

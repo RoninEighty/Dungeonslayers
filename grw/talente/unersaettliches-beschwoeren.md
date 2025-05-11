@@ -9,7 +9,6 @@ source: GRW
 
 ### Unersättliches Beschwören
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 14 (III)
 

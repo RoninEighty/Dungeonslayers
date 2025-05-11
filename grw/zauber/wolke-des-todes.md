@@ -9,7 +9,6 @@ source: GRW
 
 ### Wolke des Todes
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

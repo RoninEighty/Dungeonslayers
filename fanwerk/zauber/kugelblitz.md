@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Kugelblitz
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 19
   - Zauberer: 14

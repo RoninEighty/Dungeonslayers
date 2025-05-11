@@ -9,7 +9,6 @@ source: GRW
 
 ### Schattensäule
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 20

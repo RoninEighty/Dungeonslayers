@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Kadaverexplosion
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

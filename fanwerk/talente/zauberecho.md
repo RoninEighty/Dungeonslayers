@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Zauberecho
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 12 (III)
 

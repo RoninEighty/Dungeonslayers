@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Verbergende Aura
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 15

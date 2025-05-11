@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Faustkämpfer
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 1 (V)
   - BÜR 1 (I)

@@ -9,7 +9,6 @@ source: GRW
 
 ### Schütze
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - SPÄ 1 (III)

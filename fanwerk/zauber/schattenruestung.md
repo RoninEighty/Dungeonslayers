@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Schattenrüstung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 10

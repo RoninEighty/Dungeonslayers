@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Magische Lafette
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 16

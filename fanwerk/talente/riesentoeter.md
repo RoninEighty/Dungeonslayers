@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Riesentöter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BER 12 (III)
   - PAL 14 (III)

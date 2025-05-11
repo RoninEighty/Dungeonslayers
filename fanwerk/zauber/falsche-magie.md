@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Falsche Magie
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 5
   - Zauberer: 2

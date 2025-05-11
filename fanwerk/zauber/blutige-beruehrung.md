@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Blutige Berührung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 1

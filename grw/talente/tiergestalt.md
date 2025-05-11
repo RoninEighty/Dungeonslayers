@@ -9,7 +9,6 @@ source: GRW
 
 ### Tiergestalt
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DRU 10 (V)
 

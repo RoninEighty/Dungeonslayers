@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 6
 
 ### Verschlinger 3
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

@@ -9,7 +9,6 @@ source: GRW
 
 ### Versetzte Stimme
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 2

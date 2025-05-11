@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Dimensionssprung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - Zau 10 (I)
   - Sch 10 (I)

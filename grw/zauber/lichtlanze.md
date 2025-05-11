@@ -9,7 +9,6 @@ source: GRW
 
 ### Lichtlanze
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 12

@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Metall erhitzen oder abkühlen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Glänzendes Vorbild
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - HAU 12 (III)
 

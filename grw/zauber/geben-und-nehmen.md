@@ -9,7 +9,6 @@ source: GRW
 
 ### Geben und Nehmen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: -

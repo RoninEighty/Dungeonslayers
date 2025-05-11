@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Unbeugsame Abwehr
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (III)
   - Hei 8 (III)

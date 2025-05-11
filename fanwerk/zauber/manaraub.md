@@ -9,7 +9,6 @@ source: Dzaarions Zauber
 
 ### Manaraub
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 8
   - Zauberer: 6

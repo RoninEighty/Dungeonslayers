@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Metall formen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 15
   - Zauberer: 13

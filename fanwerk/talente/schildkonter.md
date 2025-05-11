@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schildkonter
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 8 (III)
   - BER 10 (V)

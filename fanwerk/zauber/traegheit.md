@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Trägheit
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 10
   - Zauberer: 9

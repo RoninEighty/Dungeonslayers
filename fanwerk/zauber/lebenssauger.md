@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Lebenssauger
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: -

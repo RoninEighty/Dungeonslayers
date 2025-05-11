@@ -9,7 +9,6 @@ source: Slay 02 Urbane Heldenklassen
 
 ### Pass auf!
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - HAU 10 (III)
 

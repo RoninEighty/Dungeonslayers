@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Aura des Mutes
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - PAL 10 (V)
 

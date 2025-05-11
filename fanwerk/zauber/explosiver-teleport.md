@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Explosiver Teleport
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 16

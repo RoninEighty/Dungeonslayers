@@ -9,7 +9,6 @@ source: GRW
 
 ### Ebenentor
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 18

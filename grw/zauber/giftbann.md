@@ -9,7 +9,6 @@ source: GRW
 
 ### Giftbann
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 3
   - Zauberer: 6

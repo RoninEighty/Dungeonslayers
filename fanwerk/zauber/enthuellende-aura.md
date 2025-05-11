@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 4
 
 ### Enthüllende Aura
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 13
   - Zauberer: 14

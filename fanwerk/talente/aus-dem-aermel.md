@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 1
 
 ### Aus dem Ärmel
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 16 (III)
   - ERZ 18 (V)

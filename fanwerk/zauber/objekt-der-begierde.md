@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 5
 
 ### Objekt der Begierde
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 14

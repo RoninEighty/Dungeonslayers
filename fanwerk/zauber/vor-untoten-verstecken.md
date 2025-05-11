@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 3
 
 ### Vor Untoten verstecken
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 6
   - Zauberer: 11

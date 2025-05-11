@@ -9,7 +9,6 @@ source: GRW
 
 ### Telekinese
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 6

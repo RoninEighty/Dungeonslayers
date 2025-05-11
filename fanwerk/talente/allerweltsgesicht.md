@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Allerweltsgesicht
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BÜR 12 (III)
   - ATT 14 (III)

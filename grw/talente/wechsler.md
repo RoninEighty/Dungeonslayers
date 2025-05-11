@@ -9,7 +9,6 @@ source: GRW
 
 ### Wechsler
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - ZAW 1 (V)
   - ERZ 10 (X)

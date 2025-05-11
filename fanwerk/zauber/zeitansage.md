@@ -9,7 +9,6 @@ source: Bruder Grimms Planeslayers
 
 ### Zeitansage
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: 1

@@ -9,7 +9,6 @@ source: GRW
 
 ### Frostschock
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 12

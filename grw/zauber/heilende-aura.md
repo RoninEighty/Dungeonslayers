@@ -9,7 +9,6 @@ source: GRW
 
 ### Heilende Aura
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 1
   - Zauberer: -

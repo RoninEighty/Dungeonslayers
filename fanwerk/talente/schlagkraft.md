@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Schlagkraft
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 15 (V)
 

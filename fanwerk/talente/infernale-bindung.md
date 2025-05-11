@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Infernale Bindung
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - DÄM 10 (V)
 

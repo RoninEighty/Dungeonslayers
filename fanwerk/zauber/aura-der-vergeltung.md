@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 1
 
 ### Aura der Vergeltung
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: 4
   - Zauberer: -

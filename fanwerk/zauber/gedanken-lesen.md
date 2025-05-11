@@ -9,7 +9,6 @@ source: Bruder Grimms Grimmoire 2
 
 ### Gedanken lesen
 
-- Kategorie: #Zauber
 - Zugangsstufen:
   - Heiler: -
   - Zauberer: 8

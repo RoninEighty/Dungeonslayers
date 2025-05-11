@@ -9,7 +9,6 @@ source: GRW
 
 ### Schlachtruf
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - BER 10 (III)
   - PAL 12 (III)

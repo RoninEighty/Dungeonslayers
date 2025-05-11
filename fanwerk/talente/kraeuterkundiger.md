@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 2
 
 ### Kräuterkundiger
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - SPÄ 1 (III)
   - Hei 1 (III)

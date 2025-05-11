@@ -9,7 +9,6 @@ source: Bruder Grimms Talentpaket 3
 
 ### Früheres Leben
 
-- Kategorie: #Talent
 - Zugangsstufen:
   - KRI 4 (V)
   - SPÄ 4 (V)
