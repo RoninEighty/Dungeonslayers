@@ -4,27 +4,10 @@ license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
-source: $source$
+source: n/a
 ---
 
 # Spielwiese
-
-## Statblöcke für Monster
-
-- [Erwachsener Drache 1](ed1.md)
-- [Erwachsener Drache 2](ed2.md)
-- [Erwachsener Drache 3](ed3.md)
-- [Erwachsener Drache 4](ed4.md)
-- [Erwachsener Drache 5](ed5.md)
-- [Erwachsener Drache 6](ed6.md)
-- [Erwachsener Drache 7](ed7.md)
-
-# Lizenzangaben
-
-- [Lizenz 1](licence1.md)
-- [Lizenz 2](licence2.md)
-- [Lizenz 2](licence3.md)
-- [Lizenz 4](licence4.md)
 
 # Layouting
 

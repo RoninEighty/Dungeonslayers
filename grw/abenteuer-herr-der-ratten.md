@@ -5,6 +5,7 @@ licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: GRW S. 127 ff.
+title: "Abenteuer 1: Herr der Ratten"
 ---
 
 ## Abenteuer 1: Herr der Ratten

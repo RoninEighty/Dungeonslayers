@@ -5,6 +5,7 @@ licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: Beispiele
+title: heiler-schuetze-01.md
 ---
 
 ### Heiler/Schütze 01

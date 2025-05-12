@@ -22,20 +22,24 @@ cd _site
 # Create an index file that contains links to all pages
 # TODO nice format etc..
 
-echo "# Übersicht über alle Seiten" > alle-seiten.md
+echo "---" > alle-seiten.md
+echo "title: Übersicht über alle Seiten" >> alle-seiten.md
+echo "---" >> alle-seiten.md
+echo "" >> alle-seiten.md
+echo "# Übersicht über alle Seiten" >> alle-seiten.md
 echo "" >> alle-seiten.md
 find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p -e "s/(.*)/[\1]/" | echo "- $(cat -)($1)" >> alle-seiten.md.tmp' sh {} \;
 sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
-BASE_URL=https://ronineighty.github.io/Dungeonslayers
-BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
+#BASE_URL=https://ronineighty.github.io/Dungeonslayers
+#BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
 #BASE_URL=https://fschne.github.io/Dungeonslayers
 #BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
 #BASE_URL=http://localhost/f-space/ds4srd
 #BASE_URL_ESCAPED=http:\\\/\\\/localhost\\\/f-space\\\/ds4srd
-#BASE_URL=https://www.f-space.de/ds4srd
-#BASE_URL_ESCAPED=https:\\\/\\\/www.f-space.de\\\/ds4srd
+BASE_URL=https://www.f-space.de/ds4srd
+BASE_URL_ESCAPED=https:\\\/\\\/www.f-space.de\\\/ds4srd
 
 # Inject BASE_URL_ESCAPED in style.css
 perl -pi -e "s/BASE_URL/${BASE_URL_ESCAPED}/g" styles/fonts.css
@@ -50,7 +54,7 @@ find . -name "*.md" -exec \
                     --table-of-contents \
                     --data-dir ../_assembly/templates/ \
                     --template ../_assembly/templates/default.html \
-                    --metadata title="DS4 SRD+" \
+                    --metadata title-prefix="DS4 SRD+" \
                     --metadata lang:de-DE \
                     --variable base-url:"${BASE_URL}" \
                     --css ${BASE_URL}/styles/fonts.css \

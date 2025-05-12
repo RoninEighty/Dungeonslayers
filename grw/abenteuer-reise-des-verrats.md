@@ -5,6 +5,7 @@ licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: GRW S. 130 ff.
+title: "Abenteuer 2: Reise des Verrats"
 ---
 
 ## Abenteuer 2: Reise des Verrats

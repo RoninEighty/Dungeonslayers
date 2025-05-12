@@ -5,6 +5,7 @@ licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references:
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: GRW S. 134 ff.
+title: "Abenteuer 3: Festung des Unheils"
 ---
 
 ## Abenteuer 3: Festung des Unheils

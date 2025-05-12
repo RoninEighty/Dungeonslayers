@@ -5,6 +5,7 @@ licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: Slayerforum
+title: Copperntaler Milizionär
 ---
 
 ### Copperntaler Milizionär

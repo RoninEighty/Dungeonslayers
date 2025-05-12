@@ -5,6 +5,7 @@ licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: Das Geschenk der Eiskönigin
+title: Die Eiskönigin
 ---
 
 ### Die Eiskönigin

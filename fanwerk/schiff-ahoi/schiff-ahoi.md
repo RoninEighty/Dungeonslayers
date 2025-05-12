@@ -5,6 +5,7 @@ licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: Schiff ahoi! © 2018 Friedemann Schneider
+title: SCHIFF AHOI
 ---
 
 # SCHIFF AHOI
