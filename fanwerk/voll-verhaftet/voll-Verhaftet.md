@@ -31,7 +31,7 @@ Hier lagert die Stadtwache Vorräte. Es sind 15 Brote, 2 Bier- und 1 Weinfass zu
 #### 6. Kanalisation
 Über die Kanalisation können die SC unbemerkt aus dem Verlies entfliehen.
 #### 7. Das Ende
-Im Obergeschoss halten sich 4 Wachen auf. Die SC können mit einer geschickten Ausrede (Probe GEI+VE) die Wachen überzeugen, sich mit den Wappenröcken als Wachen verkleiden (Probe Darbietung GEI+AU +4) oder kämpfen.
+Im Obergeschoss halten sich 4 Wachen auf. Die SC können mit einer geschickten Ausrede (Probe GEI+VE) die Wachen überzeugen, sich mit den Wappenröcken als Wachen verkleiden (Probe Darbietung GEI+AU+4) oder kämpfen.
 ### Erfahrungspunkte:
-Pro Kampf (besiegte EP/SC) EP
-Flucht aus dem Verlies: 25EP
+Pro Kampf (besiegte EP/SC) EP.
+Flucht aus dem Verlies: 25EP.
