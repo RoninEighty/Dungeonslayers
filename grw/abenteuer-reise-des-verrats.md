@@ -40,6 +40,9 @@ Jede Nacht wird eine Wachreihenfolge festgelegt (immer zwei Wachen gleichzeitig,
 
 Am zweiten Reisetag (auf der Karte mit X markiert) wird der Handelszug am frühen Nachmittag von einer Bande Orkräuber angegriffen, die im Dickicht gelauert haben. Die Anzahl der Orks entspricht der Spieleranzahl + 1. Die Orks greifen in zwei Gruppen an und sehen in den Wagenlenkern die geringste Bedrohung. Während des Kampfes wird Kamp Kaufmann Harringer zu Hilfe eilen, der allerdings alles andere als wehrlos ist.
 
+![Reise des Verrats Karte](images/map-reise-des-verrats.png)
+(*Design von Christian Kennig / Erstellt von Ronin*)
+
 ### Ohne Furcht und Adel
 
 Am dritten Reisetag kommt dem Zug gegen Mittag ein fahrender “Ritter” vom (nicht existierenden) Orden der starken Männer namens Wilbert auf einem Pferd entgegen. Trotz leicht heruntergekommener Erscheinung benimmt er sich tadellos, grüßt freundlich und fragt: _“Braucht Ihr Hilfe?”_
