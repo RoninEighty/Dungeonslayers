@@ -34,7 +34,7 @@ _“In meinem Keller scheint es ein Rattennest zu geben. Das kommt ja in den bes
 
 _“Jedenfalls gehen mir jetzt meine Vorräte hier oben aus. Wenn ihr Euch vielleicht diskret der Sache annehmen könntet, wäre ich Euch sehr dankbar - pro Ratte würde ich Euch 1 ganzes Silber zahlen. Bitte - würdet Ihr mir helfen?”_
 
-![Herr der Ratten Karte](images\Map-Herr-der-Ratten.png)
+![Herr der Ratten Karte](images/Map-Herr-der-Ratten.png)
 
 ### Der Keller
 
