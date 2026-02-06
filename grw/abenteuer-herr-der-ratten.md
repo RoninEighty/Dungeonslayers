@@ -24,7 +24,7 @@ Der Schrein indes blieb unversehrt und jetzt - Jahrhunderte später - haben ihn 
 
 Die Charaktere kehren - noch getrennt oder bereits gemeinsam - nach und nach in einem kleinen, aber beschaulichen Gasthaus in Barringen ein. Die Charaktere sind und bleiben die einzigen Gäste an diesem Abend.
 
-Der Wirt des Gasthauses - Brempen - hat ein Problem: Ihm sind seine Bierund Weinvorräte in der Schankstube ausgegangen und der Weg zum Nachschub ist “versperrt”.
+Der Wirt des Gasthauses - Brempen - hat ein Problem: Ihm sind seine Bier und Weinvorräte in der Schankstube ausgegangen und der Weg zum Nachschub ist “versperrt”.
 
 Spätestens, wenn der zuletzt eingetroffene Charakter auch ein Bier oder Wein bestellen will, beginnt Wirt Brempen nervös herumzudrucksen, Zeit zu schinden und sogar vorzuschlagen, doch lieber leckeren Stallkäse zu kosten, den man aber “natürlich nur mit Wasser oder Milch zu sich nimmt”. Früher oder später wird Brempen jedoch mit der Wahrheit rausrücken müssen:
 
