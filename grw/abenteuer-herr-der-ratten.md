@@ -47,13 +47,13 @@ Eine steile Kellertreppe führt hinab in die Dunkelheit, von wo man Gequieke hö
 
 #### 2. Bierkeller
 
-Zwischen den großen Fässern wuselt eine [Ratte](/grw/bestiarium/ratten.md) pro Charakter umher.
+Zwischen den großen Fässern wuselt eine [Ratte](bestiarium/ratte.md) pro Charakter umher.
 
 Wer den Raum näher inspiziert (Suchen-Probe), findet hinter einem der Fässer eine etwa 1m hohe Öffnung.
 
 #### 3. Weinkeller
 
-Pro 2 Charaktere trifft man hier eine **Riesenratte** an. Eine ähnliche Tunnelöffnung wie bei **2** kann sehr leicht (+4) in einer Ecke entdeckt werden.
+Pro 2 Charaktere trifft man hier eine [**Riesenratte**](bestiarium/riesenratte.md) an. Eine ähnliche Tunnelöffnung wie bei **2** kann sehr leicht (+4) in einer Ecke entdeckt werden.
 
 ### Die Tunnel
 
