@@ -7,7 +7,7 @@ references:
 title: Dungeonslayers
 ---
 
-![_assembly/images/immersieg_logo.png]
+![Immersieg_Logo](_assembly/images/immersieg_logo.png)
 
 # DS4 SRD+
 
