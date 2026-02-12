@@ -50,6 +50,9 @@ Auch den Charakteren wird im Verlauf des Abenteuers die Situation der versklavte
 
 Sowohl die Goblins als auch der Schamane Shekz können sich in der Gemeinsprache verständigen und würden sich bereitwillig mit den Charakteren gegen den Nekromanten verbünden, um endlich wieder frei (und im Besitz der Festung) zu sein.
 
+![Festung des Unheils - Der Burgfried](images/grw-map-festung-des-unheils-burgried.png)  
+(*© Christian Kennig*)
+
 #### BETRETEN DER FESTUNG
 
 Ankmatur fühlt sich in den Kellern sicher, weshalb er sich nicht um Wachen im Festungshof schert. Die Trolle im Tempelfried sind zu dumm, um darauf zu achten, was draußen geschieht.
@@ -78,6 +81,9 @@ Ein Großteil der Außenwand ist vor langer Zeit eingestürzt. Wer hier etwas su
 
 Das Sonnensymbol Helias ist noch immer gut über dem Eingangsportal des Bauwerks zu erkennen. Was auch immer mit den Türflügeln geschah - sie sind schon lange fort.
 
+![Festung des Unheils - Der Eingangsbereich](images/grw-map-festung-des-unheils-eingangsbereich.png)  
+(*© Christian Kennig*)
+
 #### 1. EINGANGSBEREICH
 
 Wer den Eingangsbereich betritt, würfelt zwei Bemerken-Proben, ob er den Trollgestank riecht (+4) oder ihr dumpfes Gegrunze (+0) hört.
@@ -87,6 +93,9 @@ Wer den Eingangsbereich betritt, würfelt zwei Bemerken-Proben, ob er den Trollg
 Zwischen Fellen, abgenagten Knochen, Dreck und Kot hausen die Trolle von Ankmatur in diesen einst so heiligen Hallen. Insgesamt befinden sich **\_zwei Trolle**\_ hier, die den Charakteren äußerst gefährlich werden können. Einer der beiden Trolle hält noch ein Nickerchen, muss also zunächst “erwachen” (siehe Seite 89).
 
 Zwar sollen sie auch Eindringlinge abfangen, hauptsächlich sind sie jedoch hier, um die Goblins an der Flucht zu hindern (und weil es dort unten zu eng für sie ist). An der gegenüberliegenden Wand befindet sich ein kleiner Altar mit dem Sonnensymbolen Helias, der jetzt durch Schädel von Trollopfern (3 Goblins und 1 Zwerg) entweiht wird. Werden diese “Trophäen” entfernt und der Altar gesäubert, erhält jeder dies befürwortende Charakter (außer **Dienern der Dunkelheit**) für W20 Stunden einen Bonus von +1 auf alle Proben. Eine einzelne Treppe führt hinab in den Kellerkomplex.
+
+![Festung des Unheils - Die Dungeon](images/grw-map-festung-des-unheils-dungeon.png)  
+(*© Christian Kennig*)
 
 ### DER KELLERKOMPLEX
 
