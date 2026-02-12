@@ -7,6 +7,8 @@ references:
 title: Dungeonslayers
 ---
 
+![_assembly/images/immersieg_logo.png]
+
 # DS4 SRD+
 
 DS4 SRD+ bietet die Regelreferenz und Zusatzinhalte zum Rollenspiel [Dungeonslayers](https://www.dungeonslayers.net) © Christian Kennig an.
