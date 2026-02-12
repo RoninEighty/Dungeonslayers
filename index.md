@@ -17,6 +17,9 @@ DS4 SRD+ bietet die Regelreferenz und Zusatzinhalte zum Rollenspiel [Dungeonslay
 
 - [Grundregelwerk](grw/index.md)
 
+## Abenteuer & Dungeons
+- [Herr der Ratten](grw/abenteuer-herr-der-ratten.md)
+
 ## Fanwerke
 
 - [Fanwerke](fanwerk/index.md)
