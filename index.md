@@ -1,5 +1,5 @@
 ---
-project: DS4 SRD+
+project: Immersieg
 license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
@@ -9,9 +9,7 @@ title: Dungeonslayers
 
 ![Immersieg_Logo](_assembly/images/immersieg_logo.png)
 
-# DS4 SRD+
-
-DS4 SRD+ bietet die Regelreferenz und Zusatzinhalte zum Rollenspiel [Dungeonslayers](https://www.dungeonslayers.net) © Christian Kennig an.
+Immersieg bietet die Regelreferenz und Zusatzinhalte zum Rollenspiel [Dungeonslayers](https://www.dungeonslayers.net) © Christian Kennig an.
 
 ## Grundregelwerk
 
