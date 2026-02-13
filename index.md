@@ -25,3 +25,4 @@ DS4 SRD+ bietet die Regelreferenz und Zusatzinhalte zum Rollenspiel [Dungeonslay
 
 - [Burning Books](https://burning-books.de/)
 - [Burning Forum](https://forum.burning-books.de/index.php)
+- [Slayers Pit](https://www.f-space.de/ds4/index.html)
