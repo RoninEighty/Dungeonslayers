@@ -1,225 +1,230 @@
 :root[data-theme="light"] {
-	--bg-color: white;
-	--text-color: black;
-	--sidebar-bg-color: black;
-	--sidebar-text-color: white;
-	--footer-text-color: black;
-	--footer-bg-color: whitesmoke;
-	--container-bg-color: #fff;
-	--container-text-color: #515151;
-	--container-header-color: #313131;
-	--h1-text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
-	--h1-color: white;
-	--h2-bg-color: black;
-	--h2-color: white;
-	--th-border-color: black;
-	--th-bg-color: #ddd;
-	--td-border-color: black;
+  --bg-color: white;
+  --text-color: black;
+  --sidebar-bg-color: black;
+  --sidebar-text-color: white;
+  --footer-text-color: black;
+  --footer-bg-color: whitesmoke;
+  --container-bg-color: #fff;
+  --container-text-color: #515151;
+  --container-header-color: #313131;
+  --h1-text-shadow:
+    -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+  --h1-color: white;
+  --h2-bg-color: black;
+  --h2-color: white;
+  --th-border-color: black;
+  --th-bg-color: #ddd;
+  --td-border-color: black;
 }
 
 :root[data-theme="dark"] {
-	--bg-color: #202020;
-	--text-color: #e0e0e0;
-	--sidebar-bg-color: #333333;
-	--sidebar-text-color: #e0e0e0;
-	--footer-text-color: #e0e0e0;
-	--footer-bg-color: #1a1a1a;
-	--container-bg-color: #202020;
-	--container-text-color: #e0e0e0;
-	--container-header-color: #e0e0e0;
-	--h1-text-shadow: none;
-	--h1-color: white;
-	--h2-bg-color: black;
-	--h2-color: white;
-	--th-border-color: #333333;
-	--th-bg-color: #1a1a1a;
-	--td-border-color: #333333;
+  --bg-color: #202020;
+  --text-color: #e0e0e0;
+  --sidebar-bg-color: #333333;
+  --sidebar-text-color: #e0e0e0;
+  --footer-text-color: #e0e0e0;
+  --footer-bg-color: #1a1a1a;
+  --container-bg-color: #202020;
+  --container-text-color: #e0e0e0;
+  --container-header-color: #e0e0e0;
+  --h1-text-shadow: none;
+  --h1-color: white;
+  --h2-bg-color: black;
+  --h2-color: white;
+  --th-border-color: #333333;
+  --th-bg-color: #1a1a1a;
+  --td-border-color: #333333;
+}
+
+:root[data-theme="dark"] #logo img {
+  filter: invert(1);
 }
 
 * {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
-	font-family: Gelasio, Times, "Times New Roman", serif;
-	font-size: 1rem;
-	line-height: 1.5;
+  font-family: Gelasio, Times, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 body {
-	text-size-adjust: 100%;
-	color: var(--sidebar-text-color);
-	background-color: var(--bg-color);
+  text-size-adjust: 100%;
+  color: var(--sidebar-text-color);
+  background-color: var(--bg-color);
 }
 
 .content {
-	background: var(--bg-color);
-	color: var(--text-color);
+  background: var(--bg-color);
+  color: var(--text-color);
 }
 
 .content > p {
-	padding-left: 0.5rem;
-	padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .content a {
-	color: var(--text-color);
-	text-decoration: none;
-	border-bottom: 1px dashed var(--text-color);
+  color: var(--text-color);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--text-color);
 }
 
 .content a:visited {
-	color: var(--text-color);
-	text-decoration: none;
-	border-bottom: 1px dashed var(--text-color);
+  color: var(--text-color);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--text-color);
 }
 
 #sidebar {
-	background-color: var(--sidebar-bg-color);
-	overflow-y: hidden;
+  background-color: var(--sidebar-bg-color);
+  overflow-y: hidden;
 }
 
 #sidebar li {
-	list-style-type: none;
-	padding-left: 0;
-	margin-left: -1rem;
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: -1rem;
 }
 
 #sidebar li ul {
-	display: none;
+  display: none;
 }
 
 #sidebar li.nav-opened > ul {
-	display: block;
+  display: block;
 }
 
 #sidebar li.nav-active > a {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 #sidebar a {
-	color: var(--sidebar-text-color);
-	text-decoration: none;
+  color: var(--sidebar-text-color);
+  text-decoration: none;
 }
 
 #sidebar a:hover,
 #sidebar a:focus {
-	text-decoration: none;
-	border-bottom: 1px dashed var(--sidebar-text-color);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--sidebar-text-color);
 }
 
 #sidebar .site-title {
-	color: var(--sidebar-text-color);
-	font-size: 1.25rem;
-	font-weight: normal;
+  color: var(--sidebar-text-color);
+  font-size: 1.25rem;
+  font-weight: normal;
 }
 
 #sidebar .site-title a {
-	text-decoration: none;
-	font-size: inherit;
+  text-decoration: none;
+  font-size: inherit;
 }
 
 #sidebar .back-arrow {
-    background-color: var(--sidebar-bg-color);
-	color: var(--sidebar-text-color);
-	border: none;
+  background-color: var(--sidebar-bg-color);
+  color: var(--sidebar-text-color);
+  border: none;
 }
 
 #sidebar footer {
-	/**/
+  /**/
 }
 
 #TOC li {
-	padding-left: 0;
-	margin-left: -1rem;
+  padding-left: 0;
+  margin-left: -1rem;
 }
 
 #TOC a {
-	color: var(--text-color);
-	text-decoration: none;
-	border-bottom: 1px dashed var(--text-color);
+  color: var(--text-color);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--text-color);
 }
 
 #TOC a:hover,
 #TOC a:focus {
-	text-decoration: none;
-	border-bottom: 1px dashed var(--text-color);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--text-color);
 }
 
 #footer {
-	color: var(--footer-text-color);
-	background-color: var(--footer-bg-color);
+  color: var(--footer-text-color);
+  background-color: var(--footer-bg-color);
 }
 
 #footer a {
-	color: var(--footer-text-color);
-	text-decoration: none;
+  color: var(--footer-text-color);
+  text-decoration: none;
 }
 
 #footer a:hover,
 #footer a:focus {
-	text-decoration: none;
-	border-bottom: 1px dashed var(--footer-text-color);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--footer-text-color);
 }
 
 h1 {
-	font-family: "Woodstamp";
-	text-transform: uppercase;
-	text-align: center;
-	font-size: 4rem;
-	font-weight: normal;
-	color: var(--h1-color);
-	text-shadow: var(--h1-text-shadow);
-	margin-top: 0;
-	margin-bottom: 0;
-	letter-spacing: 0.5px;
+  font-family: "Woodstamp";
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: normal;
+  color: var(--h1-color);
+  text-shadow: var(--h1-text-shadow);
+  margin-top: 0;
+  margin-bottom: 0;
+  letter-spacing: 0.5px;
 }
 
 h2 {
-	font-family: "Woodstamp";
-	text-transform: uppercase;
-	text-align: center;
-	font-size: 2rem;
-	font-weight: normal;
-	background-color: var(--h2-bg-color);
-	color: var(--h2-color);
-	text-align: center;
-	margin-bottom: 0;
-	letter-spacing: 0.5px;
+  font-family: "Woodstamp";
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: normal;
+  background-color: var(--h2-bg-color);
+  color: var(--h2-color);
+  text-align: center;
+  margin-bottom: 0;
+  letter-spacing: 0.5px;
 }
 
 h3 {
-	font-family: "Woodstamp";
-	text-transform: uppercase;
-	text-align: center;
-	font-weight: normal;
-	font-size: 2rem;
-	margin-bottom: 0;
-	letter-spacing: 0.5px;
+  font-family: "Woodstamp";
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: normal;
+  font-size: 2rem;
+  margin-bottom: 0;
+  letter-spacing: 0.5px;
 }
 
 h4 {
-	font-family: "Woodstamp";
-	text-transform: uppercase;
-	font-weight: normal;
-	font-size: 1.5rem;
-	margin-bottom: 0;
-	padding-left: 0.5rem;
-	padding-right: 0.5rem;
-	letter-spacing: 0.5px;
+  font-family: "Woodstamp";
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  letter-spacing: 0.5px;
 }
 
 h5 {
-	font-size: 1rem;
-	padding-top: 0;
-	padding-bottom: 0;
-	margin-bottom: 0;
-	padding-left: 0.5rem;
-	padding-right: 0.5rem;
+  font-size: 1rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 h5 + p {
-	margin-top: 3px;
+  margin-top: 3px;
 }
 
 pre {
@@ -227,33 +232,33 @@ pre {
 
 /* pandoc generates colgroups with fixed sizes. This is not nice. Let's ignore pandoc's algorithm */
 col {
-	width: auto !important;
+  width: auto !important;
 }
 
 table {
-	border-collapse: collapse;
-	margin: auto;
+  border-collapse: collapse;
+  margin: auto;
 }
 
 /* Space between direct tables */
 table + table {
-	margin-top: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 th {
-	border: 1.5px solid var(--th-border-color);
-	font-family: "Woodstamp";
-	text-transform: uppercase;
-	font-weight: normal;
-	font-size: 1.5rem;
-	letter-spacing: 0.5px;
-	background-color: var(--th-bg-color);
-	padding: 0.2rem;
+  border: 1.5px solid var(--th-border-color);
+  font-family: "Woodstamp";
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 1.5rem;
+  letter-spacing: 0.5px;
+  background-color: var(--th-bg-color);
+  padding: 0.2rem;
 }
 
 td {
-	border: 1.5px solid var(--td-border-color);
-	padding: 0.2rem;
+  border: 1.5px solid var(--td-border-color);
+  padding: 0.2rem;
 }
 
 /**** Toggle switch ****/
@@ -281,8 +286,8 @@ td {
   right: 0;
   bottom: 0;
   background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
 }
 
 .slider:before {
@@ -293,8 +298,8 @@ td {
   left: 2px;
   bottom: 2px;
   background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
 }
 
 input:checked + .slider {
@@ -322,39 +327,39 @@ input:checked + .slider:before {
 
 /* Desktop and Tablets */
 @media (min-width: 49rem) {
-	html {
-		/*font-size: 1.25rem;*/
-	}
+  html {
+    /*font-size: 1.25rem;*/
+  }
 
-	#sidebar .site-title {
-		font-size: 4rem;
-	}
+  #sidebar .site-title {
+    font-size: 4rem;
+  }
 
-	#sidebar .site-title a {
-		font-size: inherit;
-	}
+  #sidebar .site-title a {
+    font-size: inherit;
+  }
 
-	.container {
-		background: var(--container-bg-color);
-		color: var(--container-text-color);
-	}
+  .container {
+    background: var(--container-bg-color);
+    color: var(--container-text-color);
+  }
 
-	.container > header {
-		color: var(--container-header-color);
-	}
+  .container > header {
+    color: var(--container-header-color);
+  }
 
-	.content > p {
-		padding-left: unset;
-		padding-right: unset;
-	}
+  .content > p {
+    padding-left: unset;
+    padding-right: unset;
+  }
 
-	h4 {
-		padding-left: unset;
-		padding-right: unset;
-	}
+  h4 {
+    padding-left: unset;
+    padding-right: unset;
+  }
 
-	h5 {
-		padding-left: unset;
-		padding-right: unset;
-	}
+  h5 {
+    padding-left: unset;
+    padding-right: unset;
+  }
 }
