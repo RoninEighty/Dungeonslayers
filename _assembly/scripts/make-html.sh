@@ -10,11 +10,11 @@ rm -rf _site
 mkdir _site
 cp -r _assembly/styles _site/
 cp -r _assembly/fonts _site/
-cp -r _assembly/images _site/
 cp index*.md _site/
 cp -r grw _site/
 cp -r fanwerk _site/
 cp -r spielwiese _site/
+cp -r images _site/
 
 # _site will be our working directory
 cd _site
@@ -32,14 +32,14 @@ find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p
 sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
-#BASE_URL=https://ronineighty.github.io/Dungeonslayers
-#BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
+BASE_URL=https://ronineighty.github.io/Dungeonslayers
+BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
 #BASE_URL=https://fschne.github.io/Dungeonslayers
 #BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
 #BASE_URL=http://localhost/f-space/ds4srd
 #BASE_URL_ESCAPED=http:\\\/\\\/localhost\\\/f-space\\\/ds4srd
-BASE_URL=https://www.f-space.de/ds4srd
-BASE_URL_ESCAPED=https:\\\/\\\/www.f-space.de\\\/ds4srd
+#BASE_URL=https://www.f-space.de/ds4srd
+#BASE_URL_ESCAPED=https:\\\/\\\/www.f-space.de\\\/ds4srd
 
 # Inject BASE_URL_ESCAPED in style.css
 perl -pi -e "s/BASE_URL/${BASE_URL_ESCAPED}/g" styles/fonts.css

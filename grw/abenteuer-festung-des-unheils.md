@@ -52,6 +52,9 @@ Sowohl die Goblins als auch der Schamane Shekz können sich in der Gemeinsprache
 
 #### BETRETEN DER FESTUNG
 
+![Festung des Unheils - Der Burgfried](images/grw-map-festung-des-unheils-burgried.png)  
+(*© Christian Kennig*)
+
 Ankmatur fühlt sich in den Kellern sicher, weshalb er sich nicht um Wachen im Festungshof schert. Die Trolle im Tempelfried sind zu dumm, um darauf zu achten, was draußen geschieht.
 
 ### DIE TÜRME
@@ -80,6 +83,9 @@ Das Sonnensymbol Helias ist noch immer gut über dem Eingangsportal des Bauwerks
 
 #### 1. EINGANGSBEREICH
 
+![Festung des Unheils - Der Eingangsbereich](images/grw-map-festung-des-unheils-eingangsbereich.png)  
+(*© Christian Kennig*)
+
 Wer den Eingangsbereich betritt, würfelt zwei Bemerken-Proben, ob er den Trollgestank riecht (+4) oder ihr dumpfes Gegrunze (+0) hört.
 
 #### 2. ENTWEIHTER SCHREIN HELIAS
@@ -89,6 +95,9 @@ Zwischen Fellen, abgenagten Knochen, Dreck und Kot hausen die Trolle von Ankmatu
 Zwar sollen sie auch Eindringlinge abfangen, hauptsächlich sind sie jedoch hier, um die Goblins an der Flucht zu hindern (und weil es dort unten zu eng für sie ist). An der gegenüberliegenden Wand befindet sich ein kleiner Altar mit dem Sonnensymbolen Helias, der jetzt durch Schädel von Trollopfern (3 Goblins und 1 Zwerg) entweiht wird. Werden diese “Trophäen” entfernt und der Altar gesäubert, erhält jeder dies befürwortende Charakter (außer **Dienern der Dunkelheit**) für W20 Stunden einen Bonus von +1 auf alle Proben. Eine einzelne Treppe führt hinab in den Kellerkomplex.
 
 ### DER KELLERKOMPLEX
+
+![Festung des Unheils - Die Dungeon](images/grw-map-festung-des-unheils-dungeon.png)  
+(*© Christian Kennig*)
 
 Das Kellergewölbe ist grob in drei Bereiche aufgeteilt: Der **Sklavenbereich (Räume 4-9)** der Goblins, die **Kammern des Nekromanten (Räume 13-21)** und die **unberührten Hallen (Räume 8-12)**, in die Ankmatur noch keinen weiteren Vorstoß gewagt hat. Sämtliche Türen - sofern nicht anders gekennzeichnet - sind unverschlossen.
 

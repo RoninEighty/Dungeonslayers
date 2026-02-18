@@ -24,7 +24,7 @@ Der Schrein indes blieb unversehrt und jetzt - Jahrhunderte später - haben ihn 
 
 Die Charaktere kehren - noch getrennt oder bereits gemeinsam - nach und nach in einem kleinen, aber beschaulichen Gasthaus in Barringen ein. Die Charaktere sind und bleiben die einzigen Gäste an diesem Abend.
 
-Der Wirt des Gasthauses - Brempen - hat ein Problem: Ihm sind seine Bierund Weinvorräte in der Schankstube ausgegangen und der Weg zum Nachschub ist “versperrt”.
+Der Wirt des Gasthauses - Brempen - hat ein Problem: Ihm sind seine Bier und Weinvorräte in der Schankstube ausgegangen und der Weg zum Nachschub ist “versperrt”.
 
 Spätestens, wenn der zuletzt eingetroffene Charakter auch ein Bier oder Wein bestellen will, beginnt Wirt Brempen nervös herumzudrucksen, Zeit zu schinden und sogar vorzuschlagen, doch lieber leckeren Stallkäse zu kosten, den man aber “natürlich nur mit Wasser oder Milch zu sich nimmt”. Früher oder später wird Brempen jedoch mit der Wahrheit rausrücken müssen:
 
@@ -33,6 +33,9 @@ _“Es ist mir wirklich sehr peinlich, doch ich komme an mein Bier und meinen We
 _“In meinem Keller scheint es ein Rattennest zu geben. Das kommt ja in den besten Haushalten vor, aber diese Biester sind mehr als aggressiv: Gestern Abend wurde mein Knecht beim Bier holen von ihnen angefallen - das ist kein Zustand.”_
 
 _“Jedenfalls gehen mir jetzt meine Vorräte hier oben aus. Wenn ihr Euch vielleicht diskret der Sache annehmen könntet, wäre ich Euch sehr dankbar - pro Ratte würde ich Euch 1 ganzes Silber zahlen. Bitte - würdet Ihr mir helfen?”_
+
+![Herr der Ratten Karte](images/grw-map-herr-der-ratten.png)  
+(*© Christian Kennig*)
 
 ### Der Keller
 
@@ -44,13 +47,13 @@ Eine steile Kellertreppe führt hinab in die Dunkelheit, von wo man Gequieke hö
 
 #### 2. Bierkeller
 
-Zwischen den großen Fässern wuselt eine Ratte pro Charakter umher.
+Zwischen den großen Fässern wuselt eine [Ratte](bestiarium/ratte.md) pro Charakter umher.
 
 Wer den Raum näher inspiziert (Suchen-Probe), findet hinter einem der Fässer eine etwa 1m hohe Öffnung.
 
 #### 3. Weinkeller
 
-Pro 2 Charaktere trifft man hier eine **Riesenratte** an. Eine ähnliche Tunnelöffnung wie bei **2** kann sehr leicht (+4) in einer Ecke entdeckt werden.
+Pro 2 Charaktere trifft man hier eine [**Riesenratte**](bestiarium/riesenratte.md) an. Eine ähnliche Tunnelöffnung wie bei **2** kann sehr leicht (+4) in einer Ecke entdeckt werden.
 
 ### Die Tunnel
 
@@ -64,7 +67,7 @@ Der Tunnel endet hier in einer etwa 2m hohen, natürlichen Grotte. Neben einem T
 
 #### 6. Spinnennest
 
-Eine kleine **Monsterspinne** krabbelte einst durch eine inzwischen viel zu kleine Öffnung hier hinein (sie kann sich also nur bei **5** oder **6** aufhalten). Eingesponnene Ratten hängen in ihrem Nest.
+Eine kleine [**Monsterspinne**](bestiarium/monsterspinne.md) krabbelte einst durch eine inzwischen viel zu kleine Öffnung hier hinein (sie kann sich also nur bei **5** oder **6** aufhalten). Eingesponnene Ratten hängen in ihrem Nest.
 
 ### Die Kammern der Ratte
 
@@ -76,7 +79,7 @@ An Wandhaken hängen noch (Charakteranzahl +1) schwarze, magische Roben: Wer sol
 
 #### 8. Folterkammer
 
-Ein menschliches Skelett, das angreift, wenn es berührt wird, liegt noch immer auf der Streckbank. Die beiden Zellen sind leer und unverschlossen.
+Ein menschliches [Skelett](bestiarium/skelett.md), das angreift, wenn es berührt wird, liegt noch immer auf der Streckbank. Die beiden Zellen sind leer und unverschlossen.
 
 #### 9. Arbeitszimmer
 
@@ -96,7 +99,7 @@ Das Schwert, die Rüstung und einen silbernen Kettenanhänger (1GM) ziert ein kl
 
 #### 12. Schlafraum
 
-Zwischen 6 moderigen Bettresten sitzen pro Charakter 2 Riesenratten. Unter einem Kopfkissen liegt eine Metallphiole (Heiltrank).
+Zwischen 6 moderigen Bettresten sitzen pro Charakter 2 [Riesenratten](bestiarium/riesenratte.md). Unter einem Kopfkissen liegt eine Metallphiole (Heiltrank).
 
 #### 13. Waffenkammer
 
@@ -110,9 +113,9 @@ Auch hier haben sich die Ratten und Riesenratten durchgenagt und unregelmäßige
 
 #### 15. Schrein des Snarrk’Izz
 
-Eine 2m hohe Rattenstatue steht vor einem Steinaltar, in Wahrheit ein **Lehmgolem**, der den Herr der Ratten darstellen soll und der bei einer Bedrohung oder Schändung des Schreins angreift.
+Eine 2m hohe Rattenstatue steht vor einem Steinaltar, in Wahrheit ein [**Lehmgolem**](bestiarium/lehmgolem.md), der den Herr der Ratten darstellen soll und der bei einer Bedrohung oder Schändung des Schreins angreift.
 
-Pro Charakter scharen sich hier **zwei Riesenratten** um die Statue.
+Pro Charakter scharen sich hier 2 ** [Riesenratten](bestiarium/riesenratte.md)** um die Statue.
 
 Wird der Steinaltar mit entsprechendem Werkzeug zertrümmert (LK 20; Abwehr:
 25), wird die Macht und Energie des Schreins endgültig gebrochen.
