@@ -32,8 +32,10 @@ find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p
 sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
-BASE_URL=https://ronineighty.github.io/Dungeonslayers
-BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
+BASE_URL=https://immersieg.de
+BASE_URL_ESCAPED=https:\\\/\\\/immersieg.de
+#BASE_URL=https://ronineighty.github.io/Dungeonslayers
+#BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
 #BASE_URL=https://fschne.github.io/Dungeonslayers
 #BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
 #BASE_URL=http://localhost/f-space/ds4srd
@@ -54,7 +56,7 @@ find . -name "*.md" -exec \
                     --table-of-contents \
                     --data-dir ../_assembly/templates/ \
                     --template ../_assembly/templates/default.html \
-                    --metadata title-prefix="DS4 SRD+" \
+                    --metadata title-prefix="Immersieg.de" \
                     --metadata lang:de-DE \
                     --variable base-url:"${BASE_URL}" \
                     --css ${BASE_URL}/styles/fonts.css \
