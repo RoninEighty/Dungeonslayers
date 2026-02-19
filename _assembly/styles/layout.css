@@ -11,6 +11,10 @@ body {
   min-height: 100vh;
 }
 
+#logo figcaption {
+  display: none;
+}
+
 table {
   min-width: calc(100% - 1rem);
 }
