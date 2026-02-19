@@ -56,7 +56,7 @@ find . -name "*.md" -exec \
                     --table-of-contents \
                     --data-dir ../_assembly/templates/ \
                     --template ../_assembly/templates/default.html \
-                    --metadata title-prefix="Immersieg.de" \
+                    --metadata title-prefix="Immersieg" \
                     --metadata lang:de-DE \
                     --variable base-url:"${BASE_URL}" \
                     --css ${BASE_URL}/styles/fonts.css \
