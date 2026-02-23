@@ -6,7 +6,7 @@ title: Datenschutzerklärung
 
 ## Webanalyse
 
-Es wird eine Analyse des Traffics über den Dienst Umami.is gemacht, um die Reichweite zu messen.
+Es wird eine Analyse des Traffics über den Dienst [Umami.is](Umami.is) gemacht, um die Reichweite zu messen.
 Die Erfassung erfolgt über Umami selber.
 Es werden keine Cookies erstellt und keine personenbezogenen Daten gespeichert.
 
