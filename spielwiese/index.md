@@ -2,9 +2,10 @@
 project: DS4 SRD+
 license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
-references: 
+references:
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: n/a
+title: Spielwiese
 ---
 
 # Spielwiese
@@ -23,11 +24,11 @@ Reiciendis ea deleniti et quo. Perferendis quam sunt ex eum eveniet. Sint molest
 
 ### Darstellungsschema der Zaubersprüche
 
-| Sprüche der Heiler |
-| :-: |
-| STUFE 1 |
+|      Sprüche der Heiler       |
+| :---------------------------: |
+|            STUFE 1            |
 | Blenden, Duftnote, Giftschutz |
-| STUFE 2 |
+|            STUFE 2            |
 | Blenden, Duftnote, Giftschutz |
 
 #### Darstellungsschema der Zaubersprüche

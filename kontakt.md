@@ -1,3 +1,7 @@
+---
+title: Kontakt
+---
+
 # Kontakt
 
 Sven Böhle  

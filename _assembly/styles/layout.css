@@ -90,7 +90,7 @@ table {
   width: 100%;
   padding: 1rem 1rem;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
 }
 
@@ -202,5 +202,9 @@ table {
 
   #TOC {
     display: none;
+  }
+
+  #footer {
+    flex-direction: row;
   }
 }

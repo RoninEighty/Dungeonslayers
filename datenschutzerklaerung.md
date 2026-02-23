@@ -1,23 +1,32 @@
+---
+title: Datenschutzerklärung
+---
+
 # Datenschutzerklärung
 
 ## Webanalyse
-Es wird eine Analyse des Traffics über den Dienst Umami.is gemacht, um die Reichweite zu messe.
+
+Es wird eine Analyse des Traffics über den Dienst Umami.is gemacht, um die Reichweite zu messen.
 Die Erfassung erfolgt über Umami selber.
 Es werden keine Cookies erstellt und keine personenbezogenen Daten gespeichert.
 
 ### Verarbeitete Daten
+
 - IP-Adresse
 - Browsertyp
 - Betriebssystem
 - besuchte Seiten
 
 ### Rechtsgrundlage
+
 Die Erfassung erfolgt auf Grundlage unseres berechtigen Interesses an der bedarfsgerechten Gestaltung und statistischen Auswertung unserer Webseite (Art. 6 Abs. 1 lit. f DSGVO).
 
 ### Widerspruch
+
 Sie können die Erfassung durch Umami verhindern, indem Sie in Ihrem Browser die „Do Not Track“-Einstellung aktivieren.
 
 ## Hosting
+
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
 IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
