@@ -92,5 +92,4 @@ EP: Pro Raum 1EP; Pro Kampf (besiegte EP/SC)EP; Schrein vernichten 15EP; pro hei
 | :----------------: |
 | Kettenpanzer(PA+2) |
 
-### Räuber
-[Räuber](../../fanwerk/bestiarium/raeuber.md)
+### [Räuber](../../fanwerk/bestiarium/raeuber.md)  
