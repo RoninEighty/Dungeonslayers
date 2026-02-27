@@ -3,7 +3,7 @@ project: Immersieg
 license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
-  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+  - Dungeon2Go for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: Dungeon2GO1
 title: "Die Räuber vom Lyrkenfenn"
 ---
