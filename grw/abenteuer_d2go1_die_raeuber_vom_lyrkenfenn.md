@@ -14,10 +14,10 @@ title: "Die Räuber vom Lyrkenfenn"
 **Mutige Helden gesucht, denn Belgor und seine brutalen Mannen plagen das Land! 200 GOLD für das Ausrotten der Räuberbande, die ihren Unterschlupf irgendwo im gefährlichen Sumpfgebiet Lyrkenfenn haben muss.**
 
 ![Karte Turm](images/d2go1-map-lyrkenfenn-eingang.png)  
-(*Christian Kennig*)
 
 Nach Begegnungen/Hindernissen im Sumpf findet man auf einer felsigen Anhöhe eine Turmruine, von der nur noch das Erdgeschoß steht. Fußspuren deutlich erkennbar (GEI+VE+6) neben unzähligen frischen Feuerstellen samt Essensresten. Unter mit Flachs und Moos getarnter Luke (mit GEI+VE+2 entdeckbar) führt eine Treppe hinab. 
 
+![Karte Dungeon](images/d2go1-map-lyrkenfenn-dungeon.png)  
 
 ### 1. Wachraum
 An einem Tisch, auf dem 4 Weinflaschen stehen (nur 1 noch voll; 1GM) schnarchen zwei betrunkene Räuber auf ihren Stühlen. 
