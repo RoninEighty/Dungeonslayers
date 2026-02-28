@@ -93,3 +93,7 @@ EP: Pro Raum 1EP; Pro Kampf (besiegte EP/SC)EP; Schrein vernichten 15EP; pro hei
 | Kettenpanzer(PA+2) |
 
 ### [Räuber](../../fanwerk/bestiarium/raeuber.md)  
+
+
+--- 
+D2GO1 - Die Räuber vom Lyrkenfenn © Christian Kennig  | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | Fanwerk für [Dungeonslayers 4.0](https://www.dungeonslayers.net) © Christian Kennig
