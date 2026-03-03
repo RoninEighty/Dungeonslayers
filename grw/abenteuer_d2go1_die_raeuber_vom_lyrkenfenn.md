@@ -3,8 +3,8 @@ project: Immersieg
 license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
-  - Dungeon2Go for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
-source: Dungeon2GO1
+  - Dungeon2Go von Christian Kennig für Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: [Die Räuber vom Lyrkenfenn](https://dungeonslayers.net/download/Dungeon2Go1.pdf)
 title: "Die Räuber vom Lyrkenfenn"
 ---
 
@@ -14,10 +14,12 @@ title: "Die Räuber vom Lyrkenfenn"
 **Mutige Helden gesucht, denn Belgor und seine brutalen Mannen plagen das Land! 200 GOLD für das Ausrotten der Räuberbande, die ihren Unterschlupf irgendwo im gefährlichen Sumpfgebiet Lyrkenfenn haben muss.**
 
 ![Karte Turm](images/d2go1-map-lyrkenfenn-eingang.png)  
+(© Christian Kennig / [Die Räuber vom Lyrkenfenn](https://dungeonslayers.net/download/Dungeon2Go1.pdf) / angepasst von Ronin)
 
 Nach Begegnungen/Hindernissen im Sumpf findet man auf einer felsigen Anhöhe eine Turmruine, von der nur noch das Erdgeschoß steht. Fußspuren deutlich erkennbar (GEI+VE+6) neben unzähligen frischen Feuerstellen samt Essensresten. Unter mit Flachs und Moos getarnter Luke (mit GEI+VE+2 entdeckbar) führt eine Treppe hinab. 
 
 ![Karte Dungeon](images/d2go1-map-lyrkenfenn-dungeon.png)  
+(© Christian Kennig / [Die Räuber vom Lyrkenfenn](https://dungeonslayers.net/download/Dungeon2Go1.pdf) / angepasst von Ronin)
 
 ### 1. Wachraum
 An einem Tisch, auf dem 4 Weinflaschen stehen (nur 1 noch voll; 1GM) schnarchen zwei betrunkene Räuber auf ihren Stühlen. 
@@ -94,6 +96,6 @@ EP: Pro Raum 1EP; Pro Kampf (besiegte EP/SC)EP; Schrein vernichten 15EP; pro hei
 
 ### [Räuber](../../fanwerk/bestiarium/raeuber.md)  
 
-
---- 
-D2GO1 - Die Räuber vom Lyrkenfenn © Christian Kennig  | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | Fanwerk für [Dungeonslayers 4.0](https://www.dungeonslayers.net) © Christian Kennig
+# Quelle
+[Die Räuber vom Lyrkenfenn](https://dungeonslayers.net/download/Dungeon2Go1.pdf)  
+[Markdown](https://github.com/RoninEighty/Dungeonslayers/tree/main/abenteuer/d2go1)  
