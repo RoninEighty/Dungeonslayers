@@ -12,6 +12,7 @@ cp -r _assembly/styles _site/
 cp -r _assembly/fonts _site/
 cp *.md _site/
 cp -r grw _site/
+cp -r abenteuer _site/
 cp -r fanwerk _site/
 cp -r spielwiese _site/
 cp -r images _site/
