@@ -88,4 +88,4 @@ Für das Abenteuer: 50EP
 
 # Quelle
 [Der alte Handelsposten" von Sintholos](https://www.dropbox.com/s/ujx5bx4fn2ovnyb/Abenteuer%20Der%20alte%20Handelsposten.zip?dl=1)  
-[Markdown](https://github.com/RoninEighty/Dungeonslayers/tree/main/abenteuer/der_alte_handelsposten)  
+[Markdown](https://github.com/RoninEighty/Dungeonslayers/tree/main/abenteuer/der-alte-handelsposten)  
