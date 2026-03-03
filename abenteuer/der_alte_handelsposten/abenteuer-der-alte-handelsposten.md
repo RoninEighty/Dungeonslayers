@@ -62,10 +62,10 @@ Der Keller war ursprünglich ein Lager für zu kühlende Lebensmittel. Diese sin
 Das Schmugglerversteck enthält neben allerlei leeren Kisten zwei Schriftrollen (nach Tabelle Z), vier Tränke (nach Tabelle T), einen magischen Ring („Schmugglerring“) sowie je eine Rüstung und eine Waffe mit magischem Effekt (nach Tabelle W, R und E). Ansonsten können einige Wertgegenstände ohne praktischen Nutzen sichergestellt werden. (10A:15).
 
 ### Erfahrungspunkte:
-Pro Kampf: (besiegte EP/SC)EP
-Pro untersuchtes Gebäude: 5EP
-Schmugglerversteck gefunden: 50EP
-Für das Abenteuer: 50EP
+Pro Kampf: (besiegte EP/SC)EP  
+Pro untersuchtes Gebäude: 5EP  
+Schmugglerversteck gefunden: 50EP  
+Für das Abenteuer: 50EP  
 
 ## GEGENSTÄNDE
 ### SCHMUGGLERRING
@@ -87,5 +87,5 @@ Für das Abenteuer: 50EP
 - 2 Teile: Diebeskunst +I
 
 # Quelle
-[Der alte Handelsposten" von Sintholos](https://www.dropbox.com/s/ujx5bx4fn2ovnyb/Abenteuer%20Der%20alte%20Handelsposten.zip?dl=1)
-Markdown Download
+[Der alte Handelsposten" von Sintholos](https://www.dropbox.com/s/ujx5bx4fn2ovnyb/Abenteuer%20Der%20alte%20Handelsposten.zip?dl=1)  
+[Markdown](https://github.com/RoninEighty/Dungeonslayers/tree/main/abenteuer/der_alte_handelsposten)  
