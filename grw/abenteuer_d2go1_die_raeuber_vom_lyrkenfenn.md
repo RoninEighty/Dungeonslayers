@@ -69,6 +69,7 @@ In Truhe (Nadelfalle mit Gift 20) 2 Heiltränke, 1 Schwebetrank, mag. Krummdolch
 ### ERFAHRUNGSPUNKTE
 EP: Pro Raum 1EP; Pro Kampf (besiegte EP/SC)EP; Schrein vernichten 15EP; pro heimgebrachte Frau 10EP; Für das Abenteuer 25EP
 
+## Gegner
 ### Belgor
 
 - Gruppe: Humanoide
@@ -94,7 +95,8 @@ EP: Pro Raum 1EP; Pro Kampf (besiegte EP/SC)EP; Schrein vernichten 15EP; pro hei
 | :----------------: |
 | Kettenpanzer(PA+2) |
 
-### [Räuber](../../fanwerk/bestiarium/raeuber.md)  
+### Räuber
+[Räuber](../../fanwerk/bestiarium/raeuber.md)  
 
 # Quelle
 [Die Räuber vom Lyrkenfenn](https://dungeonslayers.net/download/Dungeon2Go1.pdf)  
