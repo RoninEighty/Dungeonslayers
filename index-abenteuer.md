@@ -15,5 +15,5 @@ title: Übersicht über alle Abenteuer
 - [Festung des Unheils](/grw/abenteuer-festung-des-unheils)  
 
 ## Fanwerke
-- [Der alte Handelsposten](/abenteuer/der-alte-handelsposten/abenteuer-der-alte-handelsposten.md)  
-- [Voll Verhaftet](/abenteuer/voll-verhaftet/voll-verhaftet.md)  
+- [Der alte Handelsposten](abenteuer/der-alte-handelsposten/abenteuer-der-alte-handelsposten.md)  
+- [Voll Verhaftet](abenteuer/voll-verhaftet/voll-verhaftet.md)  
