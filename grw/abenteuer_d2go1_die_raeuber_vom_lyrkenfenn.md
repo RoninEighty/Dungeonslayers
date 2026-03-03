@@ -4,8 +4,8 @@ license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references: 
   - Dungeon2Go von Christian Kennig für Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
-source: [Die Räuber vom Lyrkenfenn](https://dungeonslayers.net/download/Dungeon2Go1.pdf)
-title: "Die Räuber vom Lyrkenfenn"
+source: https://dungeonslayers.net/download/Dungeon2Go1.pdf
+title: Die Räuber vom Lyrkenfenn
 ---
 
 ## Die Räuber vom Lyrkenfenn
