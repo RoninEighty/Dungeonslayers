@@ -19,7 +19,7 @@ Es kann jedoch vorkommen, dass ein Handelsposten verlassen wird. Der Wegfall von
 ## DAS ABENTEUER
 Die SC stolpern entweder bei ihren Reisen über den al- ten Handelsposten und wählen ihn als Nachtlager aus, oder werden von einem NSC, der Interesse an dem al- ten Gebäudekomplex hat, ausgeschickt, um mal nach dem Rechten zu sehen, da eine Wiederbelebung des al- ten Handelsweges in der nahen Zukunft denkbar ist. Nähern sich die SC dem Handelsposten, sehen sie aus der Entfernung bereits einige Details des Komplexes: Er besteht aus mehreren Gebäuden und die Lücken zwischen den Gebäuden nach außen sind mit palisa- denartigen Wänden versperrt. Zugang gewährt nur ein offen stehendes Tor. Dunkle Fenster mit offenen Läden und das Geräusch von Zugluft empfangen die SC. Bei der Erkundung werden sie feststellen, dass der Handelsposten nun neue Bewohner hat: Ein paar Fledermäuse haben die alten Gebäude nun als Heimstatt auserkoren. Außerdem will ein Rudel Wölfe nach Ankunft der SC ebenfalls die Nacht im Handelsposten verbringen und wird während der Erkundung die SC überraschen. Und warum leuchten eigentlich die Augen der Wölfe so merkwürdig?
 
-![Karte vom Erdgeschoos](handelsposten-map-erdgeschoss.jpg)  
+![Karte vom Erdgeschoos](handelsposten-map-erdgeschoss.png)  
 (von Sintholos)
 
 ## AUFBAU
@@ -41,7 +41,7 @@ Reit- und Zugtiere gehören zum Reisen auf Caera einfach dazu. Selbstverständli
 ### 6. HERBERGE - ERDGESCHOSS
 In der Herberge wurden die Reisenden zur Übernachtung untergebracht. Sie besteht aus zwei Stockwerken. Im Erdgeschoss befanden sich die Einzelzimmer für wohlhabendere Gäste sowie eine recht kleine Schankstube, in der auf einer offenen Feuerstelle die Mahlzeiten für die Gäste gekocht werden konnten. Außerdem hatten hier die Betreiber des Handelspostens ihre kleinen Quartiere. Die Einrichtung der Räume ist jedoch zerstört und größtenteils verschwunden. Nur einige zertrümmerte Möbelreste lassen Rückschlüsse auf die ehemalige Einrichtung schließen.
 
-![Karte vom Erdgeschoos](handelsposten-map-obergeschoss.jpg)  
+![Karte vom Obergeschoss](handelsposten-map-obergeschoss.png)  
 (von Sintholos)
 
 ### 7. HEUBODEN
@@ -52,7 +52,7 @@ Ein Schwarm von [Vampirfledermäusen](/grw/bestiarium/vampirfledermaus.md) hat s
 Das Obergeschoss des Handelspostens ist ein großer Gemeinschaftsschlafsaal. Reisende, die nicht die Münzen für Einzelzimmer besitzen oder zu spät kommen und auf ausgebuchte Einzelzimmer stoßen, übernachten hier. Die Überreste von Strohmatratzen und dreistöckigen Betten sind noch in der geräumigen Kammer verstreut.
 Ein Schwarm von [Vampirfledermäusen](/grw/bestiarium/vampirfledermaus.md) haust nun unter dem Gebälk. Der Großteil wird aufgeschreckt die Flucht durch das löchrige Dach antreten. Vier aggressive Exemplare werden die SC jedoch angreifen.
 
-![Karte vom Erdgeschoos](handelsposten-map-keller.jpg)  
+![Karte vom Keller](handelsposten-map-keller.png)  
 (von Sintholos)
 
 ### 9. KELLER
