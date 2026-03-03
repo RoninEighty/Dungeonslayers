@@ -16,4 +16,4 @@ title: Übersicht über alle Abenteuer
 
 ## Fanwerke
 - [Der alte Handelsposten](/abenteuer/der-alte-handelsposten/abenteuer-der-alte-handelsposten.md)
-- [Voll Verhaftet](/abenteuer/voll-verhaftet/vollverhaftet.md)
+- [Voll Verhaftet](/abenteuer/voll-verhaftet/voll-verhaftet.md)
