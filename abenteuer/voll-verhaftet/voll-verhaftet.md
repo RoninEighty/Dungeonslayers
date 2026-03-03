@@ -60,5 +60,5 @@ Pro Kampf (besiegte EP/SC) EP.
 Flucht aus dem Verlies: 25EP.
 
 # Quelle
-[Voll verhaftet](https://dungeonslayers.net/download/kalender2025/tuerinhalte/03_DS_VollVerhaftet_D2GO_Ronin.pdf)
+[Voll verhaftet](https://dungeonslayers.net/download/kalender2025/tuerinhalte/03_DS_VollVerhaftet_D2GO_Ronin.pdf)  
 [Markdown](https://github.com/RoninEighty/Dungeonslayers/tree/main/abenteuer/voll-verhaftet)  
