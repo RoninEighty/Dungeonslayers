@@ -33,6 +33,8 @@ find . -iname "*.md" -exec sh -c 'grep -m 1 "^#" "$1" | cut -d" " -f2- | perl -p
 sort alle-seiten.md.tmp >> alle-seiten.md
 rm -f alle-seiten.md.tmp
 
+REPO_URL=https://raw.githubusercontent.com/RoninEighty/Dungeonslayers/refs/heads/main
+
 BASE_URL=https://immersieg.de
 BASE_URL_ESCAPED=https:\\\/\\\/immersieg.de
 #BASE_URL=https://ronineighty.github.io/Dungeonslayers
@@ -58,6 +60,7 @@ find . -name "*.md" -exec \
                     --metadata title-prefix="Immersieg" \
                     --metadata lang:de-DE \
                     --variable base-url:"${BASE_URL}" \
+                    --variable repo-url:"${REPO_URL}" \
                     --css ${BASE_URL}/styles/fonts.css \
                     --css ${BASE_URL}/styles/layout.css \
                     --css ${BASE_URL}/styles/style.css \
@@ -66,8 +69,12 @@ find . -name "*.md" -exec \
                     "{}" \;
 
 # Pandoc leaves links as is, so change all inline links to .md files to the expected .html
-find . -name "*.md.html" -exec perl -i -p -e 's/.md">/.html">/ig' "{}" \;
-find . -name "*.md.html" -exec perl -i -p -e 's/.md#(.*?)">/.html#$1">/ig' "{}" \;
+find . -name "*.md.html" -exec perl -i -p -e 's/\.md">/.html">/ig' "{}" \;
+find . -name "*.md.html" -exec perl -i -p -e 's/\.md#(.*?)">/.html#$1">/ig' "{}" \;
+
+# Links to source files had been added with .ref suffix to prevent the change from .md to .html
+# Now rewrite the links to .md and strip the leading ./ in the link title, too
+find . -name "*.md.html" -exec perl -i -p -e 's/\.ref"/"/ig' "{}" \;
 
 # Rename all .md.html to .html, strip .md infix in filename
 find . -name "*.md.html" > mv.sh
