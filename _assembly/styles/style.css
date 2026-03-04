@@ -8,6 +8,8 @@
   --container-bg-color: #fff;
   --container-text-color: #515151;
   --container-header-color: #313131;
+  --blockquote-bg-color: lightgray;
+  --blockquote-text-color: black;
   --h1-text-shadow:
     -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
   --h1-color: white;
@@ -28,6 +30,8 @@
   --container-bg-color: #202020;
   --container-text-color: #e0e0e0;
   --container-header-color: #e0e0e0;
+  --blockquote-bg-color: #444444;
+  --blockquote-text-color: #e0e0e0;
   --h1-text-shadow: none;
   --h1-color: white;
   --h2-bg-color: black;
@@ -227,7 +231,15 @@ h5 + p {
   margin-top: 3px;
 }
 
+/* Code blocks */
 pre {
+}
+
+/*Quotes */
+blockquote {
+  margin: unset;
+  background-color: var(--blockquote-bg-color);
+  color: var(--blockquote-text-color);
 }
 
 /* pandoc generates colgroups with fixed sizes. This is not nice. Let's ignore pandoc's algorithm */

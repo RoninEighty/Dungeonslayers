@@ -31,9 +31,11 @@ This is a **bold** text and this is _italic_ text. Combined: **bold and _italic_
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.
 
-> Blockquote on multiple lines
+> Blockquote on multiple lines and paragraphs
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+>
 > sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+>
 > quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.
 
 - Unordered list item 1
