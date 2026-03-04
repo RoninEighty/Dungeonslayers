@@ -14,4 +14,3 @@ Hier findet ihr Fanwerke und Zusatzinhalte für Dungeonslayers. Die Fanwerke wer
 Für die Veröffentlichung von Fanwerken gibt es die [Fanwerk-Richtlinien](https://www.dungeonslayers.net/fanwerk-richtlinien/).
 
 - [Schiff Ahoi!](schiff-ahoi/schiff-ahoi.md)
-- [Voll verhaftet](voll-verhaftet/voll-verhaftet.md)

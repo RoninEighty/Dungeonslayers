@@ -38,6 +38,10 @@ table {
   max-width: calc(100% - 1rem);
 }
 
+.content img {
+  max-width: calc(100% - 1rem);
+}
+
 #sidebar {
   flex: 0 0 auto;
   padding-top: 0;

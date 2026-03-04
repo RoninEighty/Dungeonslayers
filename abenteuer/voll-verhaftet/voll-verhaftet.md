@@ -3,8 +3,8 @@ project: Immersieg
 license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references:
-  - Fanwerk von Ronin für Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
-source: https://dungeonslayers.net/download/kalender2025/tuerinhalte/03_DS_VollVerhaftet_D2GO_Ronin.pdf
+  - Fanwerk für Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: <a href="https://dungeonslayers.net/download/kalender2025/tuerinhalte/03_DS_VollVerhaftet_D2GO_Ronin.pdf">Voll verhafter</a> von Ronin
 title: Voll Verhaftet
 ---
 
@@ -58,7 +58,3 @@ Im Obergeschoss halten sich 4 Wachen auf. Die SC können mit einer geschickten A
 
 Pro Kampf (besiegte EP/SC) EP.
 Flucht aus dem Verlies: 25EP.
-
-# Quelle
-[Voll verhaftet](https://dungeonslayers.net/download/kalender2025/tuerinhalte/03_DS_VollVerhaftet_D2GO_Ronin.pdf)  
-[Markdown](https://github.com/RoninEighty/Dungeonslayers/tree/main/abenteuer/voll-verhaftet)  

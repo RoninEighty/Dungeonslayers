@@ -39,8 +39,8 @@ BASE_URL_ESCAPED=https:\\\/\\\/immersieg.de
 #BASE_URL_ESCAPED=https:\\\/\\\/ronineighty.github.io\\\/Dungeonslayers
 #BASE_URL=https://fschne.github.io/Dungeonslayers
 #BASE_URL_ESCAPED=https:\\\/\\\/fschne.github.io\\\/Dungeonslayers
-#BASE_URL=http://localhost/f-space/ds4srd
-#BASE_URL_ESCAPED=http:\\\/\\\/localhost\\\/f-space\\\/ds4srd
+#BASE_URL=http://localhost/f-space/ds4srd-test
+#BASE_URL_ESCAPED=http:\\\/\\\/localhost\\\/f-space\\\/ds4srd-test
 
 # Inject BASE_URL_ESCAPED in style.css
 perl -pi -e "s/BASE_URL/${BASE_URL_ESCAPED}/g" styles/fonts.css

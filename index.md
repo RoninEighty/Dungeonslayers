@@ -20,7 +20,8 @@ Immersieg bietet die Regelreferenz und Zusatzinhalte zum Rollenspiel [Dungeonsla
 - [Grundregelwerk](grw/index.md)
 
 ## Zusatzinhalte
-- [Abenteuer](index-abenteuer.md)
+
+- [Abenteuer](abenteuer/index.md)
 - [Fanwerke](fanwerk/index.md)
 
 ## Links

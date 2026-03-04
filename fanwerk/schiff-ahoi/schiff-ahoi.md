@@ -2,7 +2,7 @@
 project: DS4 SRD+
 license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
-references: 
+references:
   - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
 source: Schiff ahoi! © 2018 Friedemann Schneider
 title: SCHIFF AHOI
@@ -34,7 +34,7 @@ Die Panzerung des Schiffs verhindert Schaden. Sie reicht von 0 bis +5 und agiert
 Die Struktur stellt die LK des Schiffs dar und ist abhängig von der Größe des Schiffs.
 
 | Schiff                                               | Struktur |
-|------------------------------------------------------|----------|
+| ---------------------------------------------------- | -------- |
 | Ruderboot, Kanu, Floß                                | 10       |
 | Flussschiff, Fischkutter                             | 10-20    |
 | Kleines Hochseeschiff,Drachenboot, Galeere, 1-Master | 20-40    |
@@ -124,14 +124,14 @@ Die Reihenfolge der Spieler innerhalb der Mannschaft bestimmen der Kapitän oder
 Schiffe sind zueinander in relativer Entfernung. Die Entfernung reicht von 0 bis 5. Die Entfernung beeinflusst einige Handlungen.
 Die Entfernung zu Beginn einer Auseinandersetzung wird vom Spielleiter festgelegt.
 
-| # | Entfernungen           |
-|---|------------------------|
-| 0 | Rammen, Entern erlaubt |
-| 1 |                        |
-| 2 | Schiessen -4           |
-| 3 | Schiessen -8           |
-| 4 | Außer Reichweite       |
-| 5 | Entkommen, außer Sicht |
+| #   | Entfernungen           |
+| --- | ---------------------- |
+| 0   | Rammen, Entern erlaubt |
+| 1   |                        |
+| 2   | Schiessen -4           |
+| 3   | Schiessen -8           |
+| 4   | Außer Reichweite       |
+| 5   | Entkommen, außer Sicht |
 
 ### Wetter und Strömung
 
@@ -148,7 +148,7 @@ Der **Steuermann** würfelt eine Steuernprobe. Bei einem Erfolg ändert er die E
 
 #### Manöver
 
-Der **Steuermann** würfelt eine Steuernprobe. Bei einem Erfolg bringt er das Schiff in eine günstige Position für eine andere Handlung und gibt  einen +2 Bonus. Bei einem Immersieg steigt der Bonus auf +4. Bei einem Patzer werden alle Handlungen der Mannschaft in dieser Runde um 2 erschwert.
+Der **Steuermann** würfelt eine Steuernprobe. Bei einem Erfolg bringt er das Schiff in eine günstige Position für eine andere Handlung und gibt einen +2 Bonus. Bei einem Immersieg steigt der Bonus auf +4. Bei einem Patzer werden alle Handlungen der Mannschaft in dieser Runde um 2 erschwert.
 
 #### Ausweichen
 
@@ -160,7 +160,7 @@ Der **Steuermann** würfelt eine Steuernprobe -4. Bei Erfolg konnte er sein Schi
 
 #### Breitseite
 
-Der **Geschützmeister** würfelt eine Schiessenprobe. Der Schaden wird  um die Abwehrprobe des Zimmermanns des getroffenen Schiffs reduziert und dann von der Struktur des Schiffs abgezogen. Bei einem Patzer verliert der Geschützmeister seine nächste Handlung.
+Der **Geschützmeister** würfelt eine Schiessenprobe. Der Schaden wird um die Abwehrprobe des Zimmermanns des getroffenen Schiffs reduziert und dann von der Struktur des Schiffs abgezogen. Bei einem Patzer verliert der Geschützmeister seine nächste Handlung.
 
 #### Gezielte Salve
 
@@ -203,7 +203,7 @@ Die Wirkung von Einzelaktionen gegen das gegnerische Schiff ist schwer zu regeln
 
 Wenn die Struktur eines Schiffs auf 0 oder darunter fällt, dann ist das Schiff manövrier- und handlungsunfähig. Die Mannschaften können nicht mehr im Sinne dieser Regeln handeln, die Spieler sind wieder auf sich alleine gestellt.
 Ein manövrierunfähiges Schiff ist auf Gedeih und Verderb dem Gegner ausgeliefert. Dieser kann entscheiden, ob er das Schiff versenken möchte, die andere Mannschaft zur Übergabe zwingt o.ä.
-Ein  manövrierunfähiges Schiff kann abgeschleppt und nach umfangreichen Reparaturen wieder flott gemacht werden.
+Ein manövrierunfähiges Schiff kann abgeschleppt und nach umfangreichen Reparaturen wieder flott gemacht werden.
 
 ### Untergang
 
@@ -212,7 +212,7 @@ Solche Angriffe können z.B. Schüsse unter die Wasserlinie, Feuerangriffe, expl
 Die Mannschaft kann sich nur noch mit einem Sprung über Bord o.ä. retten. Anschließend findet das Schiff sein unausweichliches Ende.
 
 | Handlungen          | Rolle                | Probe                      | Effekt                                                            |
-|---------------------|----------------------|----------------------------|-------------------------------------------------------------------|
+| ------------------- | -------------------- | -------------------------- | ----------------------------------------------------------------- |
 | Kommando            | Kapitän              | Kommando                   | 2x +2 auf Handlungen oder eine zusätzliche Handlung               |
 | Hart am Wind segeln | Steuermann           | Steuern                    | Entfernung ändern um 1                                            |
 | Manöver             | Steuermann           | Steuern                    | +2 auf eine andere Handlung                                       |
@@ -228,6 +228,3 @@ Die Mannschaft kann sich nur noch mit einem Sprung über Bord o.ä. retten. Ansc
 | Schiffe lösen       | Maat                 | Entern -4                  | Abwehrbar mit Entern; Befreit verzurrte Schiffe                   |
 | Helfen              | Matrose              | –                          | +1 auf eine andere Handlung                                       |
 | Einzelaktion        | Matrose              | verschieden                | verschieden                                                       |
-
----
-Schiff ahoi! © 2018 Friedemann Schneider | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | Fanwerk für [Dungeonslayers 4.0](https://www.dungeonslayers.net) © Christian Kennig
