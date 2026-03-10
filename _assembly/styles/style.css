@@ -240,6 +240,8 @@ blockquote {
   margin: unset;
   background-color: var(--blockquote-bg-color);
   color: var(--blockquote-text-color);
+  border-left: 0.4em solid #999;
+  padding-left: 0.5em;
 }
 
 /* pandoc generates colgroups with fixed sizes. This is not nice. Let's ignore pandoc's algorithm */
