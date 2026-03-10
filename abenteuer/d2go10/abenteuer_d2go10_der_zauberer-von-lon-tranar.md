@@ -62,36 +62,10 @@ Hier haust der [Oger](/grw/bestiarium/oger.md) “Batsch” mit 12 Hühnern (um 
 Umringt von 6 Kerzen liegt hier ein Schädel auf einem schwarzen Katzenfell. Solange alle Kerzen brennen, bekommen Kardos’ und seine Schar +1LK/ Rd. in diesem Raum geheilt.
 
 ## 13. KARDOS’ KAMMER
-Hier schreibt Kardos gerade geistesgestörte Gedichte. In Truhe weitere Gedichte sowie Schriftollen mit [Bannen](/grw/zauber/bannen.md), [Blitz](/grw/zauber/blitz.md), [Licht](/grw/zauber/licht.md), [Terror](/grw/zauber/terror.md), [Wasser wandeln](/grw/zauber/wasserwandeln.md) und [Zauberleiter](/grw/zauber/zauberleiter.md).
+Hier schreibt [Kardos](kardos.md) gerade geistesgestörte Gedichte. In Truhe weitere Gedichte sowie Schriftollen mit [Bannen](/grw/zauber/bannen.md), [Blitz](/grw/zauber/blitz.md), [Licht](/grw/zauber/licht.md), [Terror](/grw/zauber/terror.md), [Wasser wandeln](/grw/zauber/wasserwandeln.md) und [Zauberleiter](/grw/zauber/zauberleiter.md).
 
 ## 14. KARDOS’ SCHATZ
 Neben 3 Bier- und 2 Weinfässern in Kisten und Truhen: 620GM, 827SM, 461KM, Langschwert mag. +2, leichte Armbrust mag. +1, mag. Plattenhelm +1, Knochenfußkette (Flink I).
-
-## KARDOS
-| KÖR     |  6  | AGI        |  6  | GEI        |  6  |
-| :------ | :-: | :--------- | :-: | :--------- | :-: |
-| ST      |  0  | BE         |  0  | VE         |  3  |
-| HÄ      |  4  | GE         |  4  | AU         |  4  |
-|         |     |            |     |            |     |
-| LK      | 20  | Abwehr     | 12  | Initiative |  6  |
-| Laufen  |  4  | Schlagen   |  7  | Schiessen  | 10  |
-| Zaubern | 10  | Zielzauber | 11  |            |     |
-|         |     |            |     |            |     |
-| GH      |  1  | GK         | no  | EP         | 59  |
-
-|    Bewaffnung    |
-| :--------------: |
-| (Kampfstab WB+1) |
-
-|   Panzerung   |
-| :-----------: |
-| Schutzring +2 |
-
-**Zauberstab**: [Feuerstrahl](/grw/zauber/feuerstrahl.md) (+1)
-
-**Zielzauber**: [Blitz](/grw/zauber/blitz.md) (+3)
-
-Kardos benutzt den Zauberstab, wenn der Blitz abklingt
 
 ## ERFAHRUNGSPUNKTE
 > EP: Pro Raum 1EP  
