@@ -24,7 +24,7 @@ Nach Begegnungen/Hindernissen im Sumpf findet man auf einer felsigen Anhöhe ein
 
 ### 1. Wachraum
 
-An einem Tisch, auf dem 4 Weinflaschen stehen (nur 1 noch voll; 1GM) schnarchen zwei betrunkene Räuber auf ihren Stühlen.
+An einem Tisch, auf dem 4 Weinflaschen stehen (nur 1 noch voll; 1GM) schnarchen zwei betrunkene [Räuber](/fanwerk/bestiarium/raeuber.md) auf ihren Stühlen.
 
 ### 2. Leerer Raum
 
@@ -40,11 +40,11 @@ Hier stehen 4 Bier- (je 5GM) und 2 Weinfässer (je 10GM). Auf einem Fass liegt e
 
 ### 5. Hundekammer
 
-In dieser (von außen verriegelten) strohgefüllten Kammer halten die Räuber vier Bluthunde (wie Wölfe). Betreten SC den Gang vor der Tür, fangen die Tiere nach einer halben Minute (6Krd.) zu bellen an.
+In dieser (von außen verriegelten) strohgefüllten Kammer halten die Räuber vier Bluthunde (wie [Wölfe](/grw/bestiarium/wolf.md)). Betreten SC den Gang vor der Tür, fangen die Tiere nach einer halben Minute (6Krd.) zu bellen an.
 
 ### 6. Kartenspiel
 
-An fleckigen, wackeligen Holztisch sitzen Räuber (1/SC) und spielen Karten. Jeder hat W20KM, einer außerdem 2 sechsseitige Würfel.
+An fleckigen, wackeligen Holztisch sitzen [Räuber](/fanwerk/bestiarium/raeuber.md) (1/SC) und spielen Karten. Jeder hat W20KM, einer außerdem 2 sechsseitige Würfel.
 
 ### 7. Leerer Raum
 
@@ -52,7 +52,7 @@ Von Dieben nicht genutzt.
 
 ### 8. Vernagelte Tür
 
-(haben Räuber kürzlich gemacht), dahinter alter Schrein einer dunklen Gottheit (errichtet von den Erbauern des Turmes), flankiert von zwei Gargylen (greifen jeden im Raum an - nicht jedoch außerhalb), getrocknetes (Räuber) Blut am Boden.
+(haben Räuber kürzlich gemacht), dahinter alter Schrein einer dunklen Gottheit (errichtet von den Erbauern des Turmes), flankiert von zwei [Gargylen](/grw/bestiarium/gargyl.md) (greifen jeden im Raum an - nicht jedoch außerhalb), getrocknetes (Räuber) Blut am Boden.
 
 ### 9. Vorräte
 
@@ -60,7 +60,7 @@ Hier 6 Säcke Mehl, 2 Kisten (je W20 Äpfel), Sack Linsen, Sack Erbsen, an Decke
 
 ### 10. Belgors’s Kammer
 
-(verschlossen) Belgor schläft auf Decken, Eisentruhe (Belgor trägt Schlüssel) enthält 414KM, 313SM, 618GM, 2 Heiltränke, Kriegshorn.
+(verschlossen) [Belgor](belgor.md) schläft auf Decken, Eisentruhe (Belgor trägt Schlüssel) enthält 414KM, 313SM, 618GM, 2 Heiltränke, Kriegshorn.
 
 ### 11. Gefangene
 
@@ -80,7 +80,7 @@ Tisch mit staubigen Alchimistenwerkzeug (50GM), rußge- schwärzten Schutzring +
 
 ### 15. Schatzkammer
 
-In Truhe (Nadelfalle mit Gift 20) 2 Heiltränke, 1 Schwebetrank, mag. Krummdolch +1, 6 mag. Pfeilen (bei Aufprall Feuerball), 18 Goldbarren (je 20GM) und Schriftrolle mit Einschläfern, 2x Halt! und Schweben.
+In Truhe (Nadelfalle mit Gift 20) 2 Heiltränke, 1 Schwebetrank, mag. Krummdolch +1, 6 mag. Pfeilen (bei Aufprall [Feuerball](/grw/zauber/feuerball.md)), 18 Goldbarren (je 20GM) und Schriftrolle mit [Einschläfern](/grw/zauber/einschlaefern.md), 2x [Halt!](/grw/zauber/halt.md) und [Schweben](/grw/zauber/schweben.md).
 
 ### ERFAHRUNGSPUNKTE
 
@@ -89,34 +89,3 @@ In Truhe (Nadelfalle mit Gift 20) 2 Heiltränke, 1 Schwebetrank, mag. Krummdolch
 > Schrein vernichten 15EP  
 > pro heimgebrachte Frau 10EP  
 > Für das Abenteuer 25EP
-
-## Gegner
-
-### Belgor
-
-- Gruppe: Humanoide
-- Volk: Mensch
-- Klasse: [Krieger](/grw/charaktere-klasse-krieger.md)
-- Volksfähigkeiten: Talentiert
-
-| KÖR    |  8  | AGI      |  8  | GEI        |  2  |
-| :----- | :-: | :------- | :-: | :--------- | :-: |
-| ST     |  4  | BE       |  2  | VE         |  1  |
-| HÄ     |  2  | GE       |  2  | AU         |  0  |
-|        |     |          |     |            |     |
-| LK     | 26  | Abwehr   | 12  | Initiative | 10  |
-| Laufen |  5  | Schlagen | 14  | Schiessen  | 11  |
-|        |     |          |     |            |     |
-| GH     |  2  | GK       | no  | EP         | 63  |
-
-|                    Bewaffnung                    |
-| :----------------------------------------------: |
-| Langschwert (WB+2), Kurzbogen (2h) (WB+1, INI+1) |
-
-|     Panzerung      |
-| :----------------: |
-| Kettenpanzer(PA+2) |
-
-### Räuber
-
-[Räuber](/fanwerk/bestiarium/raeuber.md)
