@@ -17,7 +17,7 @@ Goblins, Orks und gar ein Oger machen die Gegend unsicher (Kopfgeld gar ein Oger
 In Wahrheit ist der alte Darbu längst verstorben und die gesuchten Monster und ihr gefährlicher Anführer lagern nun hier.
 
 ## DER TURM
-Man erreicht die Ruinen des einst stolzen Elfenturms zur Dämmerung, die oberen Stockwerke sind eingestürzt. Aus dem Inneren des Erdgeschosses dringt Feuerschein. Schleicht man an, kann man (Wahrnehmung) Gebrabbel (Goblins) hören, ansonsten könnten die Goblins (Wahrnehmung) die Charaktere hören.
+Man erreicht die Ruinen des einst stolzen Elfenturms zur Dämmerung, die oberen Stockwerke sind eingestürzt. Aus dem Inneren des Erdgeschosses dringt Feuerschein. Schleicht man an, kann man (Wahrnehmung) Gebrabbel (Goblins) hören, ansonsten könnten die [Goblins](/grw/bestiarium/goblin.md) (Wahrnehmung) die Charaktere hören.
 
 ## A. TRÜMMER
 Wer hier erfolgreich sucht, findet einen mag. Ring (Schießen/Zielzauber +1).
@@ -94,11 +94,11 @@ Neben 3 Bier- und 2 Weinfässern in Kisten und Truhen: 620GM, 827SM, 461KM, Lang
 Kardos benutzt den Zauberstab, wenn der Blitz abklingt
 
 ## ERFAHRUNGSPUNKTE
-EP: Pro Raum 1EP
-Pro Kampf (besiegte EP/SC)EP
-Abendsonnenrätsel 20EP
-Geheimtür zufällig finden 10EP
-“Herrin des Waldes” befreien 15EP
-Statue einen 15EP
-1. Kerze löschen 15EP
-Für das Abenteuer 25EP
+EP: Pro Raum 1EP  
+Pro Kampf (besiegte EP/SC)EP  
+Abendsonnenrätsel 20EP  
+Geheimtür zufällig finden 10EP  
+“Herrin des Waldes” befreien 15EP  
+Statue einen 15EP  
+Erste Kerze löschen 15EP  
+Für das Abenteuer 25EP  
