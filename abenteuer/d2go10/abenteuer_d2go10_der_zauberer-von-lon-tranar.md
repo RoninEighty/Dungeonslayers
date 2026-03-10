@@ -32,7 +32,8 @@ Von Westen Geplätscher, von Süden gedämpftes Goblingezeter.
 Trinken heilt 1x täglich pro SC W20LK. Abgefüllt W20h noch haltbar. Toter, verwesender Goblin (Schocktod) liegt vor 3, von wo Grabeskälte dringt.
 
 ## 3. DARBU’S KAMMER
-Hier entschlief vor Monaten der Zauberer Darbu, doch sein hier gebundener Geist wurde durch die Ankunft der räuberischen Bande geweckt. Seit er den Goblin tötete, meidet man den Trakt. Der Geist flüstert lediglich: “Befreit Lom-Tranar von seinem Übel, dem Schwarzmagier Kardos, der des Waldes Herrin gefangen hält. Das Wasser hat er zwar verdorben, doch im Schatten der Abendsonne wird es Euch helfen. Eint die Göttin, damit ich wieder Frieden finde.” Auf dem Schreibtisch liegen Gedichte von Darbu, in Truhe neben Kleidern eine blaue, runenverzierte Robe und Schriftrollen mit [Magie identifizieren](/grw/zauber/magie-identifizieren.md) und [Verlangsamen](/grw/zauber/verlangsamen.md).
+Hier entschlief vor Monaten der Zauberer Darbu, doch sein hier gebundener Geist wurde durch die Ankunft der räuberischen Bande geweckt. Seit er den Goblin tötete, meidet man den Trakt. Der Geist flüstert lediglich: *“Befreit Lom-Tranar von seinem Übel, dem Schwarzmagier Kardos, der des Waldes Herrin gefangen hält. Das Wasser hat er zwar verdorben, doch im Schatten der Abendsonne wird es Euch helfen. Eint die Göttin, damit ich wieder Frieden finde.”*   
+Auf dem Schreibtisch liegen Gedichte von Darbu, in Truhe neben Kleidern eine blaue, runenverzierte Robe und Schriftrollen mit [Magie identifizieren](/grw/zauber/magie-identifizieren.md) und [Verlangsamen](/grw/zauber/verlangsamen.md).
 
 ## 4. DARBU’S LABOR
 Auf Tisch zwischen Alchimiewerkzeug (ganzes Set +1 auf Alchimie) liegt Abklingring. In Regal 4 rote Heilttränke, 1 Stärketrank (STx2 für ST in Rd.), 1x Schlafstaub.
@@ -53,7 +54,7 @@ Hier lagert Kardos’ Bande ihre Vorräte: 7 Bierfässern, 2 Kisten Wegbrot (ins
 In diesem einstigen Schrein hausen [Wildorks](/grw/bestiarium/ork.md) (1/SC) auf Fellen neben einer Statue (Kopf fehlt). Schnur an Glocke verschwindet in Wand. In einem kleinen Käfig sitzt ein verängstigtes Eichhörnchen. Wird es (die “Herrin des Waldes”) befreit, zaubert es weiße Nüsse (1/SC; heilen W20 LK) und flieht hinaus in den Wald.
 
 ## 10. WACHKAMMER
-Weitere [Wildorks](/grw/bestiarium/ork.md) (1/SC) dösen hier (versuchen Glockenschnur zu betätigen, um Brüder bei 9. zu alarmieren). Kampflärm hört [Oger](/grw/bestiarium/oger.md) bei 11 und bei 1-9 auf W20/Rd. hört ihn auch Kardos bei 13.
+Weitere [Wildorks](/grw/bestiarium/ork.md) (1/SC) dösen hier (versuchen Glockenschnur zu betätigen, um Brüder bei 9. zu alarmieren). **Kampflärm** hört [Oger](/grw/bestiarium/oger.md) bei 11 und bei 1-9 auf W20/Rd. hört ihn auch Kardos bei 13.
 
 ## 11. OGER
 Hier haust der [Oger](/grw/bestiarium/oger.md) “Batsch” mit 12 Hühnern (um die er sich sogar rührend kümmert). Neben 4 Eiern kann man unter Fellen einen Smaragd (200GM) und den Kopf einer Elfenstatue (siehe 9) finden.
