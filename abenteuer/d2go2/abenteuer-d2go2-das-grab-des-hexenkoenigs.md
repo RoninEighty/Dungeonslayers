@@ -68,8 +68,8 @@ Hier 4 rote, 6 gelbe, 2 klare & 2 violette Tränke (alles Gift 20). 4 Langschwer
 Vier als Deckenschmuck getarnte [Gargyle](/grw/bestiarium/gargyl.md) greifen Eindringlinge an. Hier lagern in Kisten und Truhen 558GM, 227SM, 798KM, 6 Heiltränke, 2 Abklingtränke, 1 Fliegentrank, Schriftrollen Halt!, Inferno, Öffnen, Reinigen, Schutz, Elfenstiefel, Zauberstab “Feuerstrahl”, Langschwert mag. +1, mag. leichte Armbrust +1, Schutzring +1, Plattenhelm +1.
 
 ## Erfahrungspunkte
-> EP: Pro Raum 1EP
-> Pro Kampf (besiegte EP/SC)EP
-> Falle austricksen 10EP
-> Sterbl. Überr. Erstangreifer 15EP
-> Für das Abenteuer 50EP
+> EP: Pro Raum 1EP  
+> Pro Kampf (besiegte EP/SC)EP  
+> Falle austricksen 10EP  
+> Sterbl. Überr. Erstangreifer 15EP  
+> Für das Abenteuer 50EP  
