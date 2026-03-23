@@ -17,7 +17,7 @@ title: Vandruziels Schatten
 | ST     |  9  | BE       |  0  | VE         |  0  |
 | HÄ     |  9  | GE       |  2  | AU         |  0  |
 |        |     |          |     |            |     |
-| LK     | 40  | Abwehr   | 25  | Initiative | 11  |
+| LK     | 40  | Abwehr*  | 25  | Initiative | 11  |
 | Laufen | 6.5 | Schlagen | 20  | Schiessen  | 13  |
 |        |     |          |     |            |     |
 | GH     | 11  | GK       | no  | EP         | 193 |
