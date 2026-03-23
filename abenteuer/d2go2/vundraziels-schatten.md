@@ -21,6 +21,7 @@ title: Vandruziels Schatten
 | Laufen | 6.5 | Schlagen | 20  | Schiessen  | 13  |
 |        |     |          |     |            |     |
 | GH     | 11  | GK       | no  | EP         | 193 |
+
 Abwehr I: 25 (nur durch Magie verletzbar)
 Abwehr II: 8 (sterbliche Überreste normal verletzbar)
 
