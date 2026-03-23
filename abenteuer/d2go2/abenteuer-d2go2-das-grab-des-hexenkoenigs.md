@@ -44,7 +44,7 @@ Druckplatten im Gang lösen (einmalig) Fallen aus. D ist eine 6m Fallgrube, durc
 Die Kammer ist bis auf eine Steinschale voller Holzscheite aus Schwarzulme leer.
 
 ## 9. VUNDRAZIELS KAMMER 
-Auf (über Treppe erreichbar) 2m hohen Podest sitzt Vundraziels Skelett samt Leichentuch und staubiger Krone (60GM) auf einem Holzthron. Regungsloses Skelett angreifen ruft Vundraziels Schatten. Sobald man 9 betritt, hört man eine dunkle, hallende Stimme rufen:
+Auf (über Treppe erreichbar) 2m hohen Podest sitzt Vundraziels Skelett samt Leichentuch und staubiger Krone (60GM) auf einem Holzthron. Regungsloses Skelett angreifen ruft [Vundraziels Schatten](vundraziels-schatten). Sobald man 9 betritt, hört man eine dunkle, hallende Stimme rufen:
 
 *“Warum stört ihr mich in meinem Grab?“*
 
