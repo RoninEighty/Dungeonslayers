@@ -59,7 +59,7 @@ Es kommt zum Kampf mit Vundraziel, sollte man spätestens jetzt nicht ehrlich od
 Wenn die Charaktere ihre tödliche Belohnung holen, ruft Vundraziel seine Hexen und ist kampfbereit.
 
 ### KAMPF MIT VUNDRAZIEL
-> Vundraziels Schatten erscheint und greift an, gleichzeitig erheben sich - sofern nicht vernichtet - die Skelette bei 2 und rennen Vundraziel zu Hilfe (treffen bei 9 am Ende der 3. Kampfrunde ein). Um den Schatten zu vernichten, sollte man einfach die sterblichen Übereste zerhacken. Ist Vundraziel so oder so vernichtet, verfallen auch - wie er - die Hexenskelette zu Staub.
+Vundraziels Schatten erscheint und greift an, gleichzeitig erheben sich - sofern nicht vernichtet - die Skelette bei 2 und rennen Vundraziel zu Hilfe (treffen bei 9 am Ende der 3. Kampfrunde ein). Um den Schatten zu vernichten, sollte man einfach die sterblichen Übereste zerhacken. Ist Vundraziel so oder so vernichtet, verfallen auch - wie er - die Hexenskelette zu Staub.
 
 ## 10. FALSCHE SCHATZKAMMER
 Hier 4 rote, 6 gelbe, 2 klare & 2 violette Tränke (alles Gift 20). 4 Langschwerter (greifen bei Berührung fliegend an mit Schlagen 14, Abwehr 10, 15LK), ein Visierhelm (aufgesetzt zerdrückt er mit W20 abwehrlosen Schaden pro Rd. den Schädel) und ein Schild (Halteriemen ziehen so fest an, dass Arm/Rd. Schaden mit Schlagen 16 erleidet, KÖR+ST-4 zum Entfernen).
