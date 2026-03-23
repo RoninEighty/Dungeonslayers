@@ -22,9 +22,6 @@ title: Vandruziels Schatten
 |        |     |          |     |            |     |
 | GH     | 11  | GK       | no  | EP         | 193 |
 
-Abwehr I: 25 (nur durch Magie verletzbar)
-Abwehr II: 8 (sterbliche Überreste normal verletzbar)
-
 |        Bewaffnung         |
 | :-----------------------: |
 | Geisterklaue (WB+2, GA-2) |
@@ -32,6 +29,9 @@ Abwehr II: 8 (sterbliche Überreste normal verletzbar)
 |    Panzerung     |
 | :--------------: |
 | Körperlos (PA+8) |
+
+**Abwehr I:** 25 (nur durch Magie verletzbar)
+**Abwehr II:** 8 (sterbliche Überreste normal verletzbar)
 
 **Alterung:** Bei einem Treffer altert das Ziel um 1 Jahr.
 
