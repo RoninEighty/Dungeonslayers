@@ -18,6 +18,7 @@ title: Übersicht über alle Abenteuer
 ## Dungeons 2 GO
 
 - [D2GO1 - Die Räuber vom Lyrkenfenn](/abenteuer/d2go1/abenteuer_d2go1_die_raeuber_vom_lyrkenfenn.md)
+- [D2GO2 - Das Grab des Hexenkönigs](/abenteuer/d2go2/abenteuer-d2go2-das-grab-des-hexenkoenigs.md)
 
 ## Fanwerke
 
