@@ -30,8 +30,8 @@ title: Vandruziels Schatten
 | :--------------: |
 | Körperlos (PA+8) |
 
-**Abwehr I:** 25 (nur durch Magie verletzbar)
-**Abwehr II:** 8 (sterbliche Überreste normal verletzbar)
+**Abwehr (Schatten):** 25 (nur durch Magie verletzbar)  
+**Abwehr (Sterbliche Überreste):** 8 (sterbliche Überreste normal verletzbar)
 
 **Alterung:** Bei einem Treffer altert das Ziel um 1 Jahr.
 
