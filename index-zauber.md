@@ -165,8 +165,8 @@ title: Übersicht über alle Zaubersprüche
 | [Aura der Vergeltung](zauber/aura-der-vergeltung.md)                    |  4  |  -  |  -  |  Za  |        5 KR         |
 | [Ballistischer Flug](zauber/ballistischer-flug.md)                      | 13  |  7  |  7  |  Za  |     24 Stunden      |
 | [Bannsphäre](zauber/bannsphaere.md)                                     | 13  |  8  | 14  |  Za  |       100 KR        |
-| [Besessenheit 1/2](fanwerk/zauber/besessenheit-1.md)                    |  -  | 16  | 13  | G[!] |     24 Stunden      |
-| [Besessenheit 2/2](fanwerk/zauber/besessenheit-2.md)                    |  -  | 16  | 13  | G[!] |     24 Stunden      |
+| [Besessenheit 1/2](zauber/besessenheit-1.md)                            |  -  | 16  | 13  | G[!] |     24 Stunden      |
+| [Besessenheit 2/2](zauber/besessenheit-2.md)                            |  -  | 16  | 13  | G[!] |     24 Stunden      |
 | [Beulenpest](zauber/beulenpest.md)                                      |  -  | 13  | 11  |  ZZ  |       100 KR        |
 | [Blitzschild](zauber/blitzschild.md)                                    |  7  |  8  | 10  |  Za  |     24 Stunden      |
 | [Blutentzug](zauber/blutentzug.md)                                      |  -  |  4  |  4  |  ZZ  |        0 KR         |
@@ -178,8 +178,8 @@ title: Übersicht über alle Zaubersprüche
 | [Brimborium](zauber/brimborium.md)                                      |  -  |  5  |  -  | G[!] |       100 KR        |
 | [Chaoszauber](zauber/chaoszauber.md)                                    |  -  | 13  | 11  |  ZZ  |     24 Stunden      |
 | [De-Evolution](zauber/de-evolution.md)                                  |  -  | 20  | 17  |  Za  | 1 Tag oder W20 Tage |
-| [Doppelgänger 1/2](fanwerk/zauber/doppelgaenger-1.md)                   | 18  | 20  | 19  |  Za  |      W20 Tage       |
-| [Doppelgänger 2/2](fanwerk/zauber/doppelgaenger-2.md)                   | 18  | 20  | 19  |  Za  |      W20 Tage       |
+| [Doppelgänger 1/2](zauber/doppelgaenger-1.md)                           | 18  | 20  | 19  |  Za  |      W20 Tage       |
+| [Doppelgänger 2/2](zauber/doppelgaenger-2.md)                           | 18  | 20  | 19  |  Za  |      W20 Tage       |
 | [Dornenwuchs](zauber/dornenwuchs.md)                                    |  5  |  -  |  8  |  Za  |        10 KR        |
 | [Dunkelheit spüren](zauber/dunkelheit-spueren.md)                       |  8  |  -  |  -  |  Za  |        10 KR        |
 | [Dunkle Segnung](zauber/dunkle-segnung.md)                              |  -  |  -  |  3  |  Za  |     24 Stunden      |
