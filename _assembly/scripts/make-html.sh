@@ -13,9 +13,12 @@ cp -r _assembly/fonts _site/
 cp *.md _site/
 cp -r grw _site/
 cp -r abenteuer _site/
+cp -r bestiarium _site/
 cp -r fanwerk _site/
 cp -r spielwiese _site/
 cp -r images _site/
+cp -r talente _site/
+cp -r zauber _site/
 
 # _site will be our working directory
 cd _site
