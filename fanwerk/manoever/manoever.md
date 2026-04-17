@@ -9,7 +9,7 @@ title: Schmutzige Tricks - Manöver für den Einsatz im Kampf
 ---
 
 # Schmutzige Tricks
-Manöver für den Einsatz im Kampf
+**Manöver für den Einsatz im Kampf**
 
 Der Kampf in Dungeonslayers ist einfach gehalten und das hat seine Gründe. Manche Spieler mögen es dennoch, wenn die Auswirkungen der Handlungen ihrer Charaktere, wie das Wegziehen eines Teppichs, das Schleudern von Sand in die Augen des Gegners und dergleichen, nicht jedes Mal neu verhandelt oder vom SL beschlossen werden müssen; oder sie lassen sich einfach gerne von weiteren Kampfoptionen inspirieren. Mit dem Einsatz von Manövern kannst du deine Kämpfe variabler gestalten, indem statt eines Angriffs weitere nützliche Handlungsptionen hinzukommen. Oder nutze die Manöver als Ideensteinbruch und Beispiel für eigene Aktionen.
 
