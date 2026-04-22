@@ -32,8 +32,8 @@ title: Talente
 
 | Talent                                                        | Krieger  |  Späher  | Zauberwirker |
 | ------------------------------------------------------------- | :------: | :------: | :----------: |
-| [Abklingen](talente/abklingen.md)                             |          |          |    4 (V)     |
-| [Aderschlitzer](talente/aderschlitzer.md)                     | 12 (III) | 8 (III)  |              |
+| [Abklingen](/talente/abklingen.md)                            |          |          |    4 (V)     |
+| [Aderschlitzer](/talente/aderschlitzer.md)                    | 12 (III) | 8 (III)  |              |
 | [Akrobat](talente/akrobat.md)                                 | 4 (III)  | 1 (III)  |   4 (III)    |
 | [Alchemie](talente/alchemie.md)                               |          |          |    1 (V)     |
 | [Ausweichen](talente/ausweichen.md)                           | 1 (III)  | 1 (III)  |   1 (III)    |
