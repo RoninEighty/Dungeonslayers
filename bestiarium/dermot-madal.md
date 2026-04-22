@@ -1,0 +1,48 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Die Goblinarena
+title: Dermot Madal
+---
+
+### Dermot Madal
+
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: [Nekromant](../../grw/charaktere-heldenklassen-nekromant.md) 12
+- Volksfähigkeiten: Talentiert
+
+| KÖR     |  7  | AGI        |  5  | GEI        |  8  |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
+| ST      |  1  | BE         |  0  | VE         |  7  |
+| HÄ      |  0  | GE         |  3  | AU         |  9  |
+|         |     |            |     |            |     |
+| LK      | 17  | Abwehr     |  7  | Initiative |  9  |
+| Laufen  | 3.5 | Schlagen   | 11  | Schiessen  |     |
+| Zaubern | 17  | Zielzauber | 11  |            |     |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 84  |
+
+|        Bewaffnung         |
+| :-----------------------: |
+| Dolch (WB+3, INI+4, GA-3) |
+
+| Panzerung |
+| :-------: |
+|           |
+
+**Beschwörer II:** +2 Bonus auf [Dämonen beschwören](zauber/daemonen-beschwoeren.md) & kontrollieren
+
+**Diener der Dunkelheit V:** Angriff +1 pro Talentrang gegen [Diener des Lichts](talente/diener-des-lichts.md). Abwehr +1 pro Talentrang gegen Lichtzauber.
+
+**Feuermagier I:** Feuerzauber +1 pro Talentrang.
+
+**Genesung II:** KÖR +1 nach Tod einmalig wiederherstellen pro Talentrang.
+
+**Zauber:** [Fluch](zauber/fluch.md) (-(GEI+AU)/2), [Kontrollieren](zauber/kontrollieren.md) (-(GEI+AU)/2), [Skelette erwecken](zauber/skelette-erwecken.md), [Tarnender Nebel](zauber/tarnender-nebel.md) (-2), [Terror](zauber/terror.md) [!] (-(GEI+VE)/2), [Totengespräch](zauber/totengespraech.md), [Verteidigung](zauber/verteidigung.md), [Verwirren](zauber/verwirren.md) [!] (-(GEI+AU)/2), [Öffnen](zauber/oeffnen.md) (-SW)
+
+**Zielzauber:** [Feuerball](zauber/feuerball.md) (+4), [Flammenklinge](zauber/flammenklinge.md) (+1), [Netz](zauber/netz.md) (-(AGI+ST)/2), [Schattenpfeil](zauber/schattenpfeil.md) (+2)
+

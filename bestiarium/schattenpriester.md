@@ -1,0 +1,40 @@
+---
+project: DS4 SRD+
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references: 
+  - Fanwerk for Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: Die Kinder der Schatten
+title: Schattenpriester
+---
+
+### Schattenpriester
+
+- Gruppe: Humanoide
+- Volk: Mensch
+- Klasse: [Schwarzmagier](../../grw/charaktere-klasse-schwarzmagier.md) 5
+- Volksfähigkeiten: Talentiert
+
+| KÖR     |  5  | AGI        |  8  | GEI        |  7  |
+| :------ | :-: | :--------- | :-: | :--------- | :-: |
+| ST      |  0  | BE         |  0  | VE         |  5  |
+| HÄ      |  0  | GE         |  6  | AU         |  2  |
+|         |     |            |     |            |     |
+| LK      | 15  | Abwehr     |  5  | Initiative |  9  |
+| Laufen  |  5  | Schlagen   |  5  | Schiessen  |     |
+| Zaubern |  9  | Zielzauber | 13  |            |     |
+|         |     |            |     |            |     |
+| GH      |  1  | GK         | no  | EP         | 62  |
+
+|  Bewaffnung   |
+| :-----------: |
+| Dolch (INI+1) |
+
+|           Panzerung            |
+| :----------------------------: |
+| Robe (runenbestickt) (Aura +1) |
+
+**Zauber:** [Skelette erwecken](zauber/skelette-erwecken.md), [Verwirren](zauber/verwirren.md) [!] (-(GEI+AU)/2)
+
+**Zielzauber:** [Niesanfall](zauber/niesanfall.md) (-(KÖR+AU)/2), [Schatten](zauber/schatten.md) (-(AGI+AU)/2), [Schattenpfeil](zauber/schattenpfeil.md) (+2)
+
