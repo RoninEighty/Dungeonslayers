@@ -100,14 +100,15 @@ title: Bestiarium
 
 ### Charaktere & Archetypen
 
-| Name                                               |  Volk, Klasse  |   GK   | GH  | EP  | Quelle |
-| -------------------------------------------------- | :------------: | :----: | :-: | :-: | :----: |
+| Name                                            |  Volk, Klasse  |   GK   | GH  | EP  | Quelle |
+| ----------------------------------------------- | :------------: | :----: | :-: | :-: | :----: |
 | [Ankmatur](/bestiarium/ankmatur.md)             | Mensch, NEK 10 | normal |  1  | 83  |  GRW   |
 | [Emrich](/bestiarium/emrich.md)                 | Mensch, KRI 3  | normal |  2  | 61  |  GRW   |
 | [Harringer](/bestiarium/harringer.md)           | Mensch, KRI 4  | normal |  2  | 58  |  GRW   |
 | [Kamp](/bestiarium/kamp.md)                     | Mensch, KRI 3  | normal |  2  | 61  |  GRW   |
 | [Ritter Wilbert](/bestiarium/ritter-wilbert.md) | Mensch, KRI 3  | normal |  8  | 103 |  GRW   |
-| [Wegelagerer](/bestiarium/wegelagerer.md)       | Mensch, KRI 2  | normal |  2  | 55  |  GRW   |
+| [Strauchdieb](/bestiarium/strauchdieb.md)       | Mensch, KRI 1  | normal |  2  | 56  |  RvC   |
+| [Wegelagerer](/bestiarium/wegelagerer.md)       | Mensch, KRI 2  | normal |  2  | 55  |  RvC   |
 
 ## Fanwerk
 

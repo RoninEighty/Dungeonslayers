@@ -13,12 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fanwerk/zufallsbegegnungen/zufallsbegegnungen.md",
+                "file": "bestiarium/strauchdieb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zufallsbegegnungen"
+              "title": "strauchdieb"
+            }
+          },
+          {
+            "id": "dc2cc7996942ab1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bestiarium/wegelagerer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wegelagerer"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0a69632d7f279cb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da5febf0636fdbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index-bestiarium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index-bestiarium"
             }
           }
         ]
@@ -53,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Heimlichkeit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fanwerk/zufallsbegegnungen/zufallsbegegnungen.md",
+                "file": "index-bestiarium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf zufallsbegegnungen"
+              "title": "Rückverweise auf index-bestiarium"
             }
           },
           {
@@ -113,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fanwerk/zufallsbegegnungen/zufallsbegegnungen.md",
+                "file": "index-bestiarium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von zufallsbegegnungen öffnen"
+              "title": "Ausgehende Links von index-bestiarium öffnen"
             }
           },
           {
@@ -165,11 +200,13 @@
               "title": "Gliederung von abenteuer_d2go1_die_raeuber_vom_lyrkenfenn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 434.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,35 +219,35 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "33e93b72e4923310",
+  "active": "2da5febf0636fdbe",
   "lastOpenFiles": [
+    "bestiarium/strauchdieb.md",
+    "index-bestiarium.md",
+    "bestiarium/wegelagerer.md",
+    "grw/bestiarium.md",
+    "fanwerk/zufallsbegegnungen/zufallsbegegnungen.md",
+    "bestiarium/grossmutter-gorla.md",
+    "talente/heimlichkeit.md",
+    "bestiarium/hilanischer-peltast.md",
+    "bestiarium/strauchdieb-1.md",
+    "bestiarium/dunkler-krieger.md",
+    "talente/einstecker.md",
+    "grw/abenteuer.md",
+    "bestiarium/aensteiner-soldat.md",
+    "grw/index.md",
+    "grw/charaktere-attribute-eigenschaften.md",
     "grw/abenteuer-herr-der-ratten.md",
     "bestiarium/lehmgolem.md",
     "bestiarium/golem-lehm-.md",
     "bestiarium/golem-eisen-.md",
     "bestiarium/lehrling-in-aenkmator.md",
-    "fanwerk/zufallsbegegnungen/zufallsbegegnungen.md",
-    "grw/abenteuer.md",
     "fanwerk/manoever/manoever.md",
     "fanwerk/schiff-ahoi/schiff-ahoi.md",
     "grw/regeln-kampfdetails.md",
-    "grw/bestiarium.md",
     "grw/regeln-kampf.md",
     "grw/caera.md",
-    "grw/index.md",
     "grw/charaktere-charaktererschaffung.md",
-    "grw/charaktere-attribute-eigenschaften.md",
-    "grw/anhang-voelkerbaukasten.md",
-    "grw/anhang-miniaturen-bodenplaene.md",
-    "grw/anhang-feuerwaffen.md",
-    "grw/anhang-beutetabellen.md",
-    "README.md",
     "_site/alle-seiten.md.tmp",
-    "_site/alle-seiten.md",
-    "_site/zauber/zwergensicht.md",
-    "_site/zauber/zweites-leben.md",
-    "_site/zauber/zuflucht.md",
-    "_site/zauber/zorn-des-lichts.md",
     "_site/zauber",
     "_site/talente",
     "_site/bestiarium",
