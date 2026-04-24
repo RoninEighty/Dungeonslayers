@@ -27,22 +27,22 @@ Kommt es zu einer Begegnung, wird die Art ausgewürfelt.
 | 4      | Gebirge            |
 
 ## Art der Begegnung
-| W20     | Handelsweg                                                               |
-| ------- | ------------------------------------------------------------------------ |
-| 1-5     | [Wetter](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Wetter)       |
-| 6       | [Tiere](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Tiere)         |
-| 7-9     | [Räuber](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Räuber)       |
-| 10-15   | [Reisende](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Reisende)   |
-| 16-18   | Miliz (kein Wurf mehr)                                                   |
-| 19-20   | [Monster](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Monster)     |
-| **W20** | **In der Wildnis**                                                       |
-| 1-5     | [Wetter](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Wetter)       |
-| 6-7     | [Tiere](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Tiere)         |
-| 8-10    | [Räuber](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Räuber)       |
-| 11-12   | [Reisende](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Reisende)   |
-| 13      | [Wundersam](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Wundersam) |
-| 14-16   | [Ruine](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Ruine)         |
-| 17-20   | [Monster](/fanwerk/zufallsbegegnungen/zufallsbegegnungen.md#Monster)     |
+| W20     | Handelsweg             |
+| ------- | ---------------------- |
+| 1-5     | Wetter                 |
+| 6       | Tiere                  |
+| 7-9     | Räuber                 |
+| 10-15   | Reisende               |
+| 16-18   | Miliz (kein Wurf mehr) |
+| 19-20   | Monster                |
+| **W20** | **In der Wildnis**     |
+| 1-5     | Wetter                 |
+| 6-7     | Tiere                  |
+| 8-10    | Räuber                 |
+| 11-12   | Reisende               |
+| 13      | Wundersam              |
+| 14-16   | Ruine                  |
+| 17-20   | Monster                |
 
 ## Wetter
 | W20   | Wetter                 |
@@ -81,14 +81,15 @@ Kommt es zu einer Begegnung, wird die Art ausgewürfelt.
 
 ## Räuber
 
-| W20   | Räuber (LE=Leder-, KE=Kettenpanzer)                    |
-| ----- | ------------------------------------------------------ |
-| 1-5   | 1 Strauchdieb/SC (Stufe 1, Keule)                      |
-| 6-10  | 2 [Goblins](/bestiarium/goblin.md)/SC                  |
-| 11-14 | 1 Wegelagerer/SC (Stufe 2, LE, Schwert, Bogen)         |
-| 15-17 | 1 [Ork](/bestiarium/ork.md)/SC                         |
-| 18-19 | 1 Plünderer/SC (Stufe 3, KE, Schwert, Bogen)           |
-| 20    | 1 [Hobgoblin](/bestiarium/hobgoblin.md)/SC (KE, Bogen) |
+| W20   | Räuber (LE=Leder-, KE=Kettenpanzer)                                          |
+| ----- | ---------------------------------------------------------------------------- |
+| 1-5   | 1 [Strauchdieb](/bestiarium/strauchdieb.md)/SC (Stufe 1, Keule)              |
+| 6-10  | 2 [Goblins](/bestiarium/goblin.md)/SC                                        |
+| 11-14 | 1 [Wegelagerer](/bestiarium/wegelagerer.md)/SC (Stufe 2, LE, Schwert, Bogen) |
+| 15-17 | 1 [Ork](/bestiarium/ork.md)/SC                                               |
+| 18-19 | 1 Plünderer/SC (Stufe 3, KE, Schwert, Bogen)                                 |
+| 20    | 1 [Hobgoblin](/bestiarium/hobgoblin.md)/SC (KE, Bogen)                       |
+
 
 ## Reisende
 | 2W20  | Reisende                                             |
