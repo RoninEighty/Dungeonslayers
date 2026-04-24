@@ -17,16 +17,16 @@ Man folgt einer gefundenen Karte oder entdeckt zufällig in einer Höhle das mit
 (© Christian Kennig / [Das Grab des Hexenkönigs]((https://dungeonslayers.net/download/Dungeon2Go2.pdf)) / angepasst von Ronin)
 
 ## Die Höhlen
-Vor Regen Schutz suchend oder auf gezielter Grabsuche endet man in einem kleinen Höhlenkomplex, es riecht muffig. In der ersten Kammer liegen zwei Zwergenskelette mit Spitzhacken & W20 SM. In der zweiten Höhle ist ein (nun wütender) [Bär](bestiarium/baer.md), eine zugemauerte Öffnung (freilegen dauert 20 Mannsstunden; ohne Werkzeug x3) ist an einer Wand deutlich erkennbar.
+Vor Regen Schutz suchend oder auf gezielter Grabsuche endet man in einem kleinen Höhlenkomplex, es riecht muffig. In der ersten Kammer liegen zwei Zwergenskelette mit Spitzhacken & W20 SM. In der zweiten Höhle ist ein (nun wütender) [Bär](/bestiarium/baer.md), eine zugemauerte Öffnung (freilegen dauert 20 Mannsstunden; ohne Werkzeug x3) ist an einer Wand deutlich erkennbar.
 
 ## 1. Eingangshalle
-Zwei staubige, schwarze, magische [Ritterrüstungen](bestiarium/lebende-ruestung.md) mit Langschwert und Schild wachen hier stumm. Beide greifen an, sobald man sie berührt oder 2 SC gleichzeitig in Bereich A stehen. Besiegt, erlischt ihre Magie, Waffen und Rüstungen sind aber normal trag- & verkaufbar.
+Zwei staubige, schwarze, magische [Ritterrüstungen](/bestiarium/lebende-ruestung.md) mit Langschwert und Schild wachen hier stumm. Beide greifen an, sobald man sie berührt oder 2 SC gleichzeitig in Bereich A stehen. Besiegt, erlischt ihre Magie, Waffen und Rüstungen sind aber normal trag- & verkaufbar.
 
 ## 2. Hexengrüfte
-In a-d liegen jeweils fünf langhaarige [Frauenskelette](bestiarium/skelett.md) in grauen Leichenhemden. Greifen gemeinsam an, wenn man ihnen Schaden zufügt oder Vundraziel sie ruft (siehe 9).
+In a-d liegen jeweils fünf langhaarige [Frauenskelette](/bestiarium/skelett.md) in grauen Leichenhemden. Greifen gemeinsam an, wenn man ihnen Schaden zufügt oder Vundraziel sie ruft (siehe 9).
 
 ## 3. Halle
-[Rüstungen](bestiarium/lebende-ruestung.md) greifen an, sobald man sie berührt oder 2 SC gleichzeitig in Bereich B stehen. Sobald 1 SC Bereich C betritt öffnet sich hier eine Falltür (3m; Sturzschaden 9; vier Speere mit Schlagen 9).
+[Rüstungen](/bestiarium/lebende-ruestung.md) greifen an, sobald man sie berührt oder 2 SC gleichzeitig in Bereich B stehen. Sobald 1 SC Bereich C betritt öffnet sich hier eine Falltür (3m; Sturzschaden 9; vier Speere mit Schlagen 9).
 
 ## 4. Vorhalle
 Runenverzierte Messingtür zu 9. ist magisch und lässt sich nicht öffnen. Weiße und schwarze Brennschale hier. Verbrennt man in ihnen gleichzeitig einen Scheit Weißfichte bzw. Schwarzulme öffnen sich knirschend die Doppelflügel zu 9.
@@ -65,7 +65,7 @@ Vundraziels Schatten erscheint und greift an, gleichzeitig erheben sich - sofern
 Hier 4 rote, 6 gelbe, 2 klare & 2 violette Tränke (alles Gift 20). 4 Langschwerter (greifen bei Berührung fliegend an mit Schlagen 14, Abwehr 10, 15LK), ein Visierhelm (aufgesetzt zerdrückt er mit W20 abwehrlosen Schaden pro Rd. den Schädel) und ein Schild (Halteriemen ziehen so fest an, dass Arm/Rd. Schaden mit Schlagen 16 erleidet, KÖR+ST-4 zum Entfernen).
 
 ## 11. Schatzkammer
-Vier als Deckenschmuck getarnte [Gargyle](bestiarium/gargyl.md) greifen Eindringlinge an. Hier lagern in Kisten und Truhen 558GM, 227SM, 798KM, 6 Heiltränke, 2 Abklingtränke, 1 Fliegentrank, Schriftrollen Halt!, Inferno, Öffnen, Reinigen, Schutz, Elfenstiefel, Zauberstab “Feuerstrahl”, Langschwert mag. +1, mag. leichte Armbrust +1, Schutzring +1, Plattenhelm +1.
+Vier als Deckenschmuck getarnte [Gargyle](/bestiarium/gargyl.md) greifen Eindringlinge an. Hier lagern in Kisten und Truhen 558GM, 227SM, 798KM, 6 Heiltränke, 2 Abklingtränke, 1 Fliegentrank, Schriftrollen Halt!, Inferno, Öffnen, Reinigen, Schutz, Elfenstiefel, Zauberstab “Feuerstrahl”, Langschwert mag. +1, mag. leichte Armbrust +1, Schutzring +1, Plattenhelm +1.
 
 ## Erfahrungspunkte
 > EP: Pro Raum 1EP  

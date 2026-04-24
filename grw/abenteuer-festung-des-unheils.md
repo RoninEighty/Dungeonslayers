@@ -244,13 +244,13 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 | :----------: |
 | Felle (PA+1) |
 
-**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](zauber/licht.md) noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](/zauber/licht.md) noch sehen wie am helllichten Tag.
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 
 **Zauber:** _Einschläfern [!] (-(KÖR+VE)/2)_
 
-**Zielzauber:** [Feuerstrahl](zauber/feuerstrahl.md) (+1)
+**Zielzauber:** [Feuerstrahl](/zauber/feuerstrahl.md) (+1)
 
 ### Faulbauch
 
@@ -276,7 +276,7 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](zauber/zauber.md), die mit [!] gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](/zauber/zauber.md), die mit [!] gekennzeichnet sind.
 
 **Schleudern:** Schlagen-Immersieg schleudert das Ziel (sofern 1+ Größenkategorie kleiner) Schaden/3 m fort. Das Ziel erleidet für die Distanz Sturzschaden, gegen den es normal Abwehr würfelt, und liegt am Boden.
 
@@ -306,7 +306,7 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 
 **Dunkelsicht:** Kann selbst in völliger Dunkelheit noch sehen.
 
-**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](zauber/zauber.md), die mit [!] gekennzeichnet sind.
+**Geistesimmun:** Immun gegen geistesbeeinflussende Effekte (Bezauberungen, Einschläferung, Hypnose usw.) und [Zauber](/zauber/zauber.md), die mit [!] gekennzeichnet sind.
 
 **Natürliche Waffen:** Bei einem Schlagen-Patzer gegen einen Bewaffneten wird dessen Waffe getroffen. Der Angegriffene würfelt augenblicklich & aktionsfrei einen Angriff mit seiner Waffe gegen die patzende Kreatur.
 
@@ -338,6 +338,6 @@ Hier hält sich Ankmatur zur Zeit auf, sollte er nicht bereits durch die **Gehei
 | :---------: |
 | Robe (PA+2) |
 
-**Zauber:** [Kontrollieren](zauber/kontrollieren.md) (-(GEI+AU)/2), [Skelette erwecken](zauber/skelette-erwecken.md), [Terror](zauber/terror.md) [!] (-(GEI+VE)/2), [Totengespräch](zauber/totengespraech.md), [Verwirren](zauber/verwirren.md) [!] (-(GEI+AU)/2), [Zombies erwecken](zauber/zombies-erwecken.md), [Öffnen](zauber/oeffnen.md) (-SW)
+**Zauber:** [Kontrollieren](/zauber/kontrollieren.md) (-(GEI+AU)/2), [Skelette erwecken](/zauber/skelette-erwecken.md), [Terror](/zauber/terror.md) [!] (-(GEI+VE)/2), [Totengespräch](/zauber/totengespraech.md), [Verwirren](/zauber/verwirren.md) [!] (-(GEI+AU)/2), [Zombies erwecken](/zauber/zombies-erwecken.md), [Öffnen](/zauber/oeffnen.md) (-SW)
 
-**Zielzauber:** [Feuerball](zauber/feuerball.md) (+3), [Schattenpfeil](zauber/schattenpfeil.md) (+2)
+**Zielzauber:** [Feuerball](/zauber/feuerball.md) (+3), [Schattenpfeil](/zauber/schattenpfeil.md) (+2)

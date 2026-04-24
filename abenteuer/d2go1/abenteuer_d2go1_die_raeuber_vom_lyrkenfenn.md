@@ -24,7 +24,7 @@ Nach Begegnungen/Hindernissen im Sumpf findet man auf einer felsigen Anhöhe ein
 
 ### 1. Wachraum
 
-An einem Tisch, auf dem 4 Weinflaschen stehen (nur 1 noch voll; 1GM) schnarchen zwei betrunkene [Räuber](bestiarium/raeuber.md) auf ihren Stühlen.
+An einem Tisch, auf dem 4 Weinflaschen stehen (nur 1 noch voll; 1GM) schnarchen zwei betrunkene [Räuber](/bestiarium/raeuber.md) auf ihren Stühlen.
 
 ### 2. Leerer Raum
 
@@ -40,11 +40,11 @@ Hier stehen 4 Bier- (je 5GM) und 2 Weinfässer (je 10GM). Auf einem Fass liegt e
 
 ### 5. Hundekammer
 
-In dieser (von außen verriegelten) strohgefüllten Kammer halten die Räuber vier Bluthunde (wie [Wölfe](bestiarium/wolf.md)). Betreten SC den Gang vor der Tür, fangen die Tiere nach einer halben Minute (6Krd.) zu bellen an.
+In dieser (von außen verriegelten) strohgefüllten Kammer halten die Räuber vier Bluthunde (wie [Wölfe](/bestiarium/wolf.md)). Betreten SC den Gang vor der Tür, fangen die Tiere nach einer halben Minute (6Krd.) zu bellen an.
 
 ### 6. Kartenspiel
 
-An fleckigen, wackeligen Holztisch sitzen [Räuber](bestiarium/raeuber.md) (1/SC) und spielen Karten. Jeder hat W20KM, einer außerdem 2 sechsseitige Würfel.
+An fleckigen, wackeligen Holztisch sitzen [Räuber](/bestiarium/raeuber.md) (1/SC) und spielen Karten. Jeder hat W20KM, einer außerdem 2 sechsseitige Würfel.
 
 ### 7. Leerer Raum
 
@@ -52,7 +52,7 @@ Von Dieben nicht genutzt.
 
 ### 8. Vernagelte Tür
 
-(haben Räuber kürzlich gemacht), dahinter alter Schrein einer dunklen Gottheit (errichtet von den Erbauern des Turmes), flankiert von zwei [Gargylen](bestiarium/gargyl.md) (greifen jeden im Raum an - nicht jedoch außerhalb), getrocknetes (Räuber) Blut am Boden.
+(haben Räuber kürzlich gemacht), dahinter alter Schrein einer dunklen Gottheit (errichtet von den Erbauern des Turmes), flankiert von zwei [Gargylen](/bestiarium/gargyl.md) (greifen jeden im Raum an - nicht jedoch außerhalb), getrocknetes (Räuber) Blut am Boden.
 
 ### 9. Vorräte
 
@@ -80,7 +80,7 @@ Tisch mit staubigen Alchimistenwerkzeug (50GM), rußge- schwärzten Schutzring +
 
 ### 15. Schatzkammer
 
-In Truhe (Nadelfalle mit Gift 20) 2 Heiltränke, 1 Schwebetrank, mag. Krummdolch +1, 6 mag. Pfeilen (bei Aufprall [Feuerball](zauber/feuerball.md)), 18 Goldbarren (je 20GM) und Schriftrolle mit [Einschläfern](zauber/einschlaefern.md), 2x [Halt!](zauber/halt.md) und [Schweben](zauber/schweben.md).
+In Truhe (Nadelfalle mit Gift 20) 2 Heiltränke, 1 Schwebetrank, mag. Krummdolch +1, 6 mag. Pfeilen (bei Aufprall [Feuerball](/zauber/feuerball.md)), 18 Goldbarren (je 20GM) und Schriftrolle mit [Einschläfern](/zauber/einschlaefern.md), 2x [Halt!](/zauber/halt.md) und [Schweben](/zauber/schweben.md).
 
 ### ERFAHRUNGSPUNKTE
 

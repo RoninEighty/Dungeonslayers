@@ -181,7 +181,7 @@ Wollen Charaktere ohne das Talent Reiten vom Pferderücken aus einen Angriff mac
 
 ¹: KÖR des Reittieres
 
-Wer von seinem Pferd einen unberittenen Gegner schlägt, erhält einen Bonus von +1 auf Schlagen durch die erhöhte Position. Mit zweihändigen Waffen kann man beritten überhaupt nicht angreifen. Einzig und allein Charaktere, die das Talent **[Sattelschütze](talente/sattelschuetze.md)** beherrschen, können Fernkampfwaffen einsetzen, die man beidhändig (beispielsweise Bögen) benutzt.
+Wer von seinem Pferd einen unberittenen Gegner schlägt, erhält einen Bonus von +1 auf Schlagen durch die erhöhte Position. Mit zweihändigen Waffen kann man beritten überhaupt nicht angreifen. Einzig und allein Charaktere, die das Talent **[Sattelschütze](/talente/sattelschuetze.md)** beherrschen, können Fernkampfwaffen einsetzen, die man beidhändig (beispielsweise Bögen) benutzt.
 
 ### Schätzen (GEI+VE)
 

@@ -145,7 +145,7 @@ Sobald man den Zielort erreicht hat, bittet Harringer die Charaktere, ihn am fr�
 | :-----------------------------------: |
 | Lederpanzer (PA+1), Holzschild (PA+1) |
 
-**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](zauber/licht.md) noch sehen wie am helllichten Tag.
+**Nachtsicht:** Kann bei einem Mindestmaß an [Licht](/zauber/licht.md) noch sehen wie am helllichten Tag.
 
 **Wesen der Dunkelheit (Settingoption):** Gilt in den meisten Settings als ein Wesen der Dunkelheit. Angewendete Regeln für Wesen der Dunkelheit gelten für diese Kreatur.
 

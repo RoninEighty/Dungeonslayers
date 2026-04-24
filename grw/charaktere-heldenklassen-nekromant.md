@@ -10,7 +10,7 @@ title: Nekromant
 
 ## Nekromant
 
-Spezialisiert auf das Erwecken und [Kontrollieren](zauber/kontrollieren.md) von Untoten.
+Spezialisiert auf das Erwecken und [Kontrollieren](/zauber/kontrollieren.md) von Untoten.
 
 ### Voraussetzungen
 
@@ -20,11 +20,11 @@ Spezialisiert auf das Erwecken und [Kontrollieren](zauber/kontrollieren.md) von 
 
 | TALENTE                                                       |
 | ------------------------------------------------------------- |
-| [Mächtige Erweckung](talente/maechtige-erweckung.md) 16 (III) |
-| [Nekromantie](talente/nekromantie.md) 10 (V)                  |
-| [Ritual der Narben](talente/ritual-der-narben.md) 14 (III)    |
-| [Sensenspötter](talente/sensenspoetter.md) 16 (III)           |
-| [Todeskraft](talente/todeskraft.md) 10 (V)                    |
-| [Totenrufer](talente/totenrufer.md) 12 (V)                    |
-| [Untote Horden](talente/untote-horden.md) 10 (X)              |
+| [Mächtige Erweckung](/talente/maechtige-erweckung.md) 16 (III) |
+| [Nekromantie](/talente/nekromantie.md) 10 (V)                  |
+| [Ritual der Narben](/talente/ritual-der-narben.md) 14 (III)    |
+| [Sensenspötter](/talente/sensenspoetter.md) 16 (III)           |
+| [Todeskraft](/talente/todeskraft.md) 10 (V)                    |
+| [Totenrufer](/talente/totenrufer.md) 12 (V)                    |
+| [Untote Horden](/talente/untote-horden.md) 10 (X)              |
 

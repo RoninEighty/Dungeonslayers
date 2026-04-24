@@ -123,17 +123,17 @@ Jeder Charakter erhält, abhängig von Volk und Klasse, zwei Gratispunkte auf se
 
 #### Heilersprüche der 1. Stufe
 
-[Blenden](zauber/blenden.md), [Giftschutz](zauber/giftschutz.md), [Heilbeeren](zauber/heilbeeren.md), [Heilende Aura](zauber/heilende-aura.md), [Heilende Hand](zauber/heilende-hand.md), [Licht](zauber/licht.md), [Magie entdecken](zauber/magie-entdecken.md), [Magische Waffe](zauber/magische-waffe.md), [Niesanfall](zauber/niesanfall.md), [Tiere besänftigen](zauber/tiere-besaenftigen.md), [Verteidigung](zauber/verteidigung.md), [Vertreiben](zauber/vertreiben.md), [Wasser weihen](zauber/wasser-weihen.md)
+[Blenden](/zauber/blenden.md), [Giftschutz](/zauber/giftschutz.md), [Heilbeeren](/zauber/heilbeeren.md), [Heilende Aura](/zauber/heilende-aura.md), [Heilende Hand](/zauber/heilende-hand.md), [Licht](/zauber/licht.md), [Magie entdecken](/zauber/magie-entdecken.md), [Magische Waffe](/zauber/magische-waffe.md), [Niesanfall](/zauber/niesanfall.md), [Tiere besänftigen](/zauber/tiere-besaenftigen.md), [Verteidigung](/zauber/verteidigung.md), [Vertreiben](/zauber/vertreiben.md), [Wasser weihen](/zauber/wasser-weihen.md)
 
 #### Zauberersprüche der 1. Stufe
 
-[Duftnote](zauber/duftnote.md), [Feuerstrahl](zauber/feuerstrahl.md), [Licht](zauber/licht.md), Magie entdecken/identifizieren, [Magische Waffe](zauber/magische-waffe.md), [Magisches Schloss](zauber/magisches-schloss.md), [Öffnen](zauber/oeffnen.md), [Zaubertrick](zauber/zaubertrick.md)
+[Duftnote](/zauber/duftnote.md), [Feuerstrahl](/zauber/feuerstrahl.md), [Licht](/zauber/licht.md), Magie entdecken/identifizieren, [Magische Waffe](/zauber/magische-waffe.md), [Magisches Schloss](/zauber/magisches-schloss.md), [Öffnen](/zauber/oeffnen.md), [Zaubertrick](/zauber/zaubertrick.md)
 
 #### Schwarzmagiersprüche der 1. Stufe
 
-[Feuerstrahl](zauber/feuerstrahl.md), Magie entdecken/identifizieren, [Magische Waffe](zauber/magische-waffe.md), [Magisches Schloss](zauber/magisches-schloss.md), [Öffnen](zauber/oeffnen.md), [Zaubertrick](zauber/zaubertrick.md)
+[Feuerstrahl](/zauber/feuerstrahl.md), Magie entdecken/identifizieren, [Magische Waffe](/zauber/magische-waffe.md), [Magisches Schloss](/zauber/magisches-schloss.md), [Öffnen](/zauber/oeffnen.md), [Zaubertrick](/zauber/zaubertrick.md)
 
-**Beispiel**: _Unser Elfenzauberer erlernt den Zauberspruch [Feuerstrahl](zauber/feuerstrahl.md), der für [Zauberer](charaktere-klasse-zauberer.md) ab der ersten Stufe zugänglich ist._
+**Beispiel**: _Unser Elfenzauberer erlernt den Zauberspruch [Feuerstrahl](/zauber/feuerstrahl.md), der für [Zauberer](charaktere-klasse-zauberer.md) ab der ersten Stufe zugänglich ist._
 
 ### 7. Ausrüstung
 
@@ -168,63 +168,63 @@ _Eine detaillierte Aufschlüsselung der Werte des Beispielcharakters findest Du 
 
 Jeder Charakter erhält jetzt einen Talentpunkt (TP), Menschen verfügen somit also schon über 2TP. TP werden gespart oder in [Talente](talente.md) investiert, sofern der Charaktere die jeweiligen Voraussetzungen an Klasse und Stufe erfüllt, die das Talent vorgibt. Jedes der [Talente](talente.md) kostet 1TP.
 
-**Beispiel**: Für einen Talentpunkt erwirbt unser Elfenzauberer das Talent [Bildung](talente/bildung.md), das jeder Charakter ab der 1. Stufe erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig, was noch fehlt, ist etwas Persönlichkeit.
+**Beispiel**: Für einen Talentpunkt erwirbt unser Elfenzauberer das Talent [Bildung](/talente/bildung.md), das jeder Charakter ab der 1. Stufe erlernen kann. Rein von den Spielwerten ist der Charakter nun fertig, was noch fehlt, ist etwas Persönlichkeit.
 
 #### Talente in der ersten Stufe
 
 ##### Für alle Klassen
 
-- [Ausweichen](talente/ausweichen.md)
-- [Bildung](talente/bildung.md)
-- [Charmant](talente/charmant.md)
-- [Diener der Dunkelheit](talente/diener-der-dunkelheit.md)
-- [Diener des Lichts](talente/diener-des-lichts.md)
-- [Einstecker](talente/einstecker.md)
-- [Genesung](talente/genesung.md)
-- [Glückspilz](talente/glueckspilz.md)
-- [Handwerk](talente/handwerk.md)
-- [Instrument](talente/instrument.md)
-- [Magieresistent](talente/magieresistent.md)
-- [Reiten](talente/reiten.md)
-- [Schlitzohr](talente/schlitzohr.md)
-- [Schnelle Reflexe](talente/schnelle-reflexe.md)
-- [Schwimmen](talente/schwimmen.md)
-- [Wahrnehmung](talente/wahrnehmung.md)
-- [Wissensgebiet](talente/wissensgebiet.md)
+- [Ausweichen](/talente/ausweichen.md)
+- [Bildung](/talente/bildung.md)
+- [Charmant](/talente/charmant.md)
+- [Diener der Dunkelheit](/talente/diener-der-dunkelheit.md)
+- [Diener des Lichts](/talente/diener-des-lichts.md)
+- [Einstecker](/talente/einstecker.md)
+- [Genesung](/talente/genesung.md)
+- [Glückspilz](/talente/glueckspilz.md)
+- [Handwerk](/talente/handwerk.md)
+- [Instrument](/talente/instrument.md)
+- [Magieresistent](/talente/magieresistent.md)
+- [Reiten](/talente/reiten.md)
+- [Schlitzohr](/talente/schlitzohr.md)
+- [Schnelle Reflexe](/talente/schnelle-reflexe.md)
+- [Schwimmen](/talente/schwimmen.md)
+- [Wahrnehmung](/talente/wahrnehmung.md)
+- [Wissensgebiet](/talente/wissensgebiet.md)
 
 ##### Für Krieger
 
-- [Blocker](talente/blocker.md)
-- [Kämpfer](talente/kaempfer.md)
-- [Parade](talente/parade.md)
-- [Standhaft](talente/standhaft.md)
-- [Zwei Waffen](talente/zwei-waffen.md)
+- [Blocker](/talente/blocker.md)
+- [Kämpfer](/talente/kaempfer.md)
+- [Parade](/talente/parade.md)
+- [Standhaft](/talente/standhaft.md)
+- [Zwei Waffen](/talente/zwei-waffen.md)
 
 ##### Für Späher
 
-- [Akrobat](talente/akrobat.md)
-- [Diebeskunst](talente/diebeskunst.md)
-- [Flink](talente/flink.md)
-- [Heimlichkeit](talente/heimlichkeit.md)
-- [Jäger](talente/jaeger.md)
-- [Schütze](talente/schuetze.md)
+- [Akrobat](/talente/akrobat.md)
+- [Diebeskunst](/talente/diebeskunst.md)
+- [Flink](/talente/flink.md)
+- [Heimlichkeit](/talente/heimlichkeit.md)
+- [Jäger](/talente/jaeger.md)
+- [Schütze](/talente/schuetze.md)
 
 ##### Für alle Zauberwirker
 
-- [Alchemie](talente/alchemie.md)
-- [Runenkunde](talente/runenkunde.md)
-- [Umdenken](talente/umdenken.md)
-- [Wechsler](talente/wechsler.md)
+- [Alchemie](/talente/alchemie.md)
+- [Runenkunde](/talente/runenkunde.md)
+- [Umdenken](/talente/umdenken.md)
+- [Wechsler](/talente/wechsler.md)
 
 ##### Für Heiler
 
-- [Fürsorger](talente/fuersorger.md)
-- [Manipulator](talente/manipulator.md)
-- [Rüstzauberer](talente/ruestzauberer.md)
+- [Fürsorger](/talente/fuersorger.md)
+- [Manipulator](/talente/manipulator.md)
+- [Rüstzauberer](/talente/ruestzauberer.md)
 
 ##### Für Schwarzmagier
 
-- [Feuermagier](talente/feuermagier.md)
+- [Feuermagier](/talente/feuermagier.md)
 
 ### 10. Letzte Schliffe
 

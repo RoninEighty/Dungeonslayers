@@ -23,7 +23,7 @@ Für 1 Lernpunkt kann man eine neue Sprache oder neue Schriftzeichen erlernen
 
 ## Waren herstellen
 
-Charaktere mit dem Talent **Handwerk** sind in der Lage, Gegenstände zu reparieren und herzustellen, sofern sie von der erlernten Handwerksart (siehe [Handwerk](talente/handwerk.md)) abgedeckt werden (beispielsweise Bögen und Pfeile bei Bogenbau). Die Herstellung kostet genau die Hälfte vom handelsüblichen Preis des Gegenstandes und dauert
+Charaktere mit dem Talent **Handwerk** sind in der Lage, Gegenstände zu reparieren und herzustellen, sofern sie von der erlernten Handwerksart (siehe [Handwerk](/talente/handwerk.md)) abgedeckt werden (beispielsweise Bögen und Pfeile bei Bogenbau). Die Herstellung kostet genau die Hälfte vom handelsüblichen Preis des Gegenstandes und dauert
 
     Herstellungskosten in Gold x 10
     ------------------------------- Stunden.

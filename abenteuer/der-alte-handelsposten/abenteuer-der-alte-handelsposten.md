@@ -32,7 +32,7 @@ Der einzige Zugang in den Hof des befestigten Handelspostens ist das offen stehe
 
 ### 2. Hof
 
-Auf dem Hof konnten reisende Händler ihre Waren feilbieten, erwerben oder warteten, bis die Betreiber des Handelspostens ihnen einen Platz zugewiesen hatten. Zerstörte Karren und Überreste von Kisten erinnern an einen hastigen Aufbruch der letzten Gäste. Ein provisorischer Galgen neueren Datums mit einem daran hängenden Toten weist darauf hin, dass der Handelsposten zwischenzeitlich weitere Bewohner fand. Eine Probe (Bemerken) offenbart eine Halskette („Schmugglerkette“) um den Hals des Gehängten. Haben die SC das Tor nicht verschlossen, treffen die SC hier auf ein Rudel von acht [Wölfen](bestiarium/wolf.md), die im Handelsposten Unterschlupf suchen wollen, wenn sie bei der Erkundung eines der anderen Gebäude verlassen. Während die Weibchen mit den Jungen Reißaus nehmen, werden SC Wölfe zurückbleiben um die SC zu bekämpfen. Die Wölfe versuchen dabei die ganze Zeit, sich den Fluchtweg aus dem Tor heraus offen zu halten. Stirbt ein Wolf, wird der Rest der Wölfe die Flucht antreten (Dennoch volle EP für die Wölfe verteilen!). Der Wolf bleibt jedoch nicht tot, sondern wird sich zum Schrecken der SC in einen [Unwolf](bestiarium/wolf.md) verwandeln und sich an den SC rächen.
+Auf dem Hof konnten reisende Händler ihre Waren feilbieten, erwerben oder warteten, bis die Betreiber des Handelspostens ihnen einen Platz zugewiesen hatten. Zerstörte Karren und Überreste von Kisten erinnern an einen hastigen Aufbruch der letzten Gäste. Ein provisorischer Galgen neueren Datums mit einem daran hängenden Toten weist darauf hin, dass der Handelsposten zwischenzeitlich weitere Bewohner fand. Eine Probe (Bemerken) offenbart eine Halskette („Schmugglerkette“) um den Hals des Gehängten. Haben die SC das Tor nicht verschlossen, treffen die SC hier auf ein Rudel von acht [Wölfen](/bestiarium/wolf.md), die im Handelsposten Unterschlupf suchen wollen, wenn sie bei der Erkundung eines der anderen Gebäude verlassen. Während die Weibchen mit den Jungen Reißaus nehmen, werden SC Wölfe zurückbleiben um die SC zu bekämpfen. Die Wölfe versuchen dabei die ganze Zeit, sich den Fluchtweg aus dem Tor heraus offen zu halten. Stirbt ein Wolf, wird der Rest der Wölfe die Flucht antreten (Dennoch volle EP für die Wölfe verteilen!). Der Wolf bleibt jedoch nicht tot, sondern wird sich zum Schrecken der SC in einen [Unwolf](/bestiarium/wolf.md) verwandeln und sich an den SC rächen.
 
 ### 3. Scheune
 
@@ -56,12 +56,12 @@ In der Herberge wurden die Reisenden zur Übernachtung untergebracht. Sie besteh
 ### 7. Heuboden
 
 Über eine Leiter von der Scheune aus ist der Heuboden erreichbar. Unter dem Dach wurde das trockene Heu zwischengelagert, bis es von hungrigen Nutztieren verspeist wurde. Das zurückgebliebene Heu ist nun faulig und klumpig geworden und selbst die anspruchslosesten Tiere würden es verschmähen.
-Ein Schwarm von [Vampirfledermäusen](bestiarium/vampirfledermaus.md) hat sich in der Zwischenzeit hier eingenistet. Der Großteil wird die Flucht durch das große Fenster zum Hof ergreifen, wenn die SC den Heuboden betreten. Vier besonders kämpferische Exemplare werden die SC jedoch angreifen.
+Ein Schwarm von [Vampirfledermäusen](/bestiarium/vampirfledermaus.md) hat sich in der Zwischenzeit hier eingenistet. Der Großteil wird die Flucht durch das große Fenster zum Hof ergreifen, wenn die SC den Heuboden betreten. Vier besonders kämpferische Exemplare werden die SC jedoch angreifen.
 
 ### 8. Herberge - Obergeschoss
 
 Das Obergeschoss des Handelspostens ist ein großer Gemeinschaftsschlafsaal. Reisende, die nicht die Münzen für Einzelzimmer besitzen oder zu spät kommen und auf ausgebuchte Einzelzimmer stoßen, übernachten hier. Die Überreste von Strohmatratzen und dreistöckigen Betten sind noch in der geräumigen Kammer verstreut.
-Ein Schwarm von [Vampirfledermäusen](bestiarium/vampirfledermaus.md) haust nun unter dem Gebälk. Der Großteil wird aufgeschreckt die Flucht durch das löchrige Dach antreten. Vier aggressive Exemplare werden die SC jedoch angreifen.
+Ein Schwarm von [Vampirfledermäusen](/bestiarium/vampirfledermaus.md) haust nun unter dem Gebälk. Der Großteil wird aufgeschreckt die Flucht durch das löchrige Dach antreten. Vier aggressive Exemplare werden die SC jedoch angreifen.
 
 ![Karte vom Keller](handelsposten-map-keller.png)  
 (von Sintholos)

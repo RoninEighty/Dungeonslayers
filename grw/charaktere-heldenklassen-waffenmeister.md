@@ -20,14 +20,14 @@ title: Waffenmeister
 
 | TALENTE                                                |
 | ------------------------------------------------------ |
-| [Kämpfer](talente/kaempfer.md) 10 (V)                  |
-| [Parade](talente/parade.md) 10 (V)                     |
-| [Perfektion](talente/perfektion.md) 10 (V)             |
-| [Salve](talente/salve.md) 16 (III)                     |
-| [Scharfschütze](talente/scharfschuetze.md) 14 (V)      |
-| [Schnelle Reflexe](talente/schnelle-reflexe.md) 10 (V) |
-| [Schütze](talente/schuetze.md) 12 (V)                  |
-| [Sehnenschneider](talente/sehnenschneider.md) 16 (III) |
-| [Verletzen](talente/verletzen.md) 14 (V)               |
-| [Waffenkenner](talente/waffenkenner.md) 10 (V)         |
+| [Kämpfer](/talente/kaempfer.md) 10 (V)                  |
+| [Parade](/talente/parade.md) 10 (V)                     |
+| [Perfektion](/talente/perfektion.md) 10 (V)             |
+| [Salve](/talente/salve.md) 16 (III)                     |
+| [Scharfschütze](/talente/scharfschuetze.md) 14 (V)      |
+| [Schnelle Reflexe](/talente/schnelle-reflexe.md) 10 (V) |
+| [Schütze](/talente/schuetze.md) 12 (V)                  |
+| [Sehnenschneider](/talente/sehnenschneider.md) 16 (III) |
+| [Verletzen](/talente/verletzen.md) 14 (V)               |
+| [Waffenkenner](/talente/waffenkenner.md) 10 (V)         |
 
