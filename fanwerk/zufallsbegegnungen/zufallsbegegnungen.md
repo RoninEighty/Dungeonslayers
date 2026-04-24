@@ -1,3 +1,13 @@
+---
+project: Immersieg
+license: CC BY-NC-SA 4.0
+licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
+references:
+  - Fanwerk für Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
+source: <a href="https://dungeonslayers.net/download/DSZufallsbegegnungenFL.pdf>Zufallsbegegnungen</a> © Christian Kennig
+title: Zufallsbegegnungen
+---
+
 ## Zufallsbegegnungen in den Freien Landen
 Bei Reisen durch die Freien Lande kann es immer wieder zu Begegnungen kommen.
 Daher würfelt alle 4 Stunden auf der Tabelle, ob eine Begegnung stattfindet.
