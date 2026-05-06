@@ -13,6 +13,7 @@ Hier findet ihr Fanwerke und Zusatzinhalte für Dungeonslayers. Die Fanwerke wer
 
 Für die Veröffentlichung von Fanwerken gibt es die [Fanwerk-Richtlinien](https://www.dungeonslayers.net/fanwerk-richtlinien/).
 
+- [Pfeffersack Pradnek](/fanwerk/pradnek/pradnek.md)
 - [Schiff Ahoi!](schiff-ahoi/schiff-ahoi.md)
 - [Schmutzige Tricks - Manöver für den Einsatz im Kampf](manoever/manoever.md)
 - [Zufallsbegegnungen](zufallsbegegnungen/zufallsbegegnungen.md)
