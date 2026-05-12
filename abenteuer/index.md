@@ -19,6 +19,8 @@ title: Übersicht über alle Abenteuer
 
 - [D2GO1 - Die Räuber vom Lyrkenfenn](/abenteuer/d2go1/abenteuer_d2go1_die_raeuber_vom_lyrkenfenn.md)
 - [D2GO2 - Das Grab des Hexenkönigs](/abenteuer/d2go2/abenteuer-d2go2-das-grab-des-hexenkoenigs.md)
+- [D2GO4 - Die Fracht der Banterra](/abenteuer/d2go4/abenteuer-d2go4-die-fracht-der-bannterra.md)
+- [D2GO12 - Der Schatz der Banterra](/abenteuer/d2go12/abenteuer-d2go12-der-schatz-der-banterra.md)
 
 ## Fanwerke
 

@@ -9,7 +9,7 @@ title: Das Grab des Hexenkönigs
 ---
 
 ## Das Grab des Hexenkönigs
-EIN DS-ABENTEUER VON C. KENNIG FÜR DIE STUFEN 5-8
+Ein DS-Abenteuer von C. Kennig für die Stufen 5-8
 
 Man folgt einer gefundenen Karte oder entdeckt zufällig in einer Höhle das mit Fallen gespickte Grab des Hexenkönigs Vundraziel, dem seine Getreuen ins gemauerte Grab folgten.
 
