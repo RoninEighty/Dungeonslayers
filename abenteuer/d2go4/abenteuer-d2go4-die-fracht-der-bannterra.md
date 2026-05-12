@@ -4,7 +4,7 @@ license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references:
   - Fanwerk für Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
-source: <a href="https://dungeonslayers.net/download/Dungeon2Go4.pdf">D2GO1 - Die Fracht der Banterra</a> © Christian Kennig
+source: <a href="https://dungeonslayers.net/download/Dungeon2Go4.pdf">D2GO4 - Die Fracht der Banterra</a> © Christian Kennig
 title: Die Fracht der Banterra
 ---
 ## Die Fracht der Banterra
