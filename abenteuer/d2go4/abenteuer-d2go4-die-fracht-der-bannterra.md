@@ -40,8 +40,8 @@ Der Riesenaffe sollte nicht gleich entdeckt werden - da er schnell klettert und 
 > Die Stadt beansprucht 90% <u>der</u> Fracht für sich.
 
 ### Erfahrung
-> EP: Pro Raum 1EP
-> Pro Kampf (besiegte EP/SC)EP
-> Fracht bergen 20EP
-> Fracht erfolgreich unterschlagen 1EP/20GM
-> Für Abenteuer 15EP
+> EP: Pro Raum 1EP  
+> Pro Kampf (besiegte EP/SC)EP  
+> Fracht bergen 20EP  
+> Fracht erfolgreich unterschlagen 1EP/20GM  
+> Für Abenteuer 15EP  
