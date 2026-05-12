@@ -78,7 +78,7 @@ Wird eine Begegnung abermals gewürfelt, entfällt sie und nichts geschieht.
 **Piranha:** 1EP pro erhaltenen Schaden  
 **Riesenschlange:** Biss: KÖR+HÄ sonst W20 Rd. 1 Schaden  
 
-### Erfahrung
+### Erfahrungspunkte
 > EP: Pro Hex 5EP  
 > Pro Kampf (besiegte EP/SC)EP  
 > Reimrätsel persönlich lösen 15EP  
