@@ -22,7 +22,7 @@ Ein Pergament mit den Koordinaten einer Insel und einem Reim soll zum Schatz der
 >
 > Doch nur ein Sklave kann bergen den Schatz, sonst wütet die Katz
 
-**Hinweis:** Wird zuvor *[Die Fracht der Bannterra (D2G4)](/abenteuer/d2go4/abenteuer-d2go4-die-fracht-der-bannterra.md) gespielt, kann das Pergament beispielsweise aus der Hutkrempe des Kapitäns ragen.
+**Hinweis:** Wird zuvor [Die Fracht der Bannterra (D2G4)](/abenteuer/d2go4/abenteuer-d2go4-die-fracht-der-bannterra.md) gespielt, kann das Pergament beispielsweise aus der Hutkrempe des Kapitäns ragen.
 
 ### Bedeutung des Reims
 Der Reim besagt, man soll vom See im Norden (Nördlich finde den süssen Wein...) stromaufwärts (...kehre zurück zu seinem Heim...) ziehen. Bei der schiffsheckähnlichen Felsformation im Zentrum der Insel (Beim gesunkenen Schiff im grünen Meer...), wartet in einer Höhle im Osten (...am Morgen...) hinter Felsen der Redsame. Danach geht es zu den gewellten Bergen im Süden (...Wellen aus Stein...), zum Ostrand, nicht über den Fluß (...halte trocken Deine Bein).
