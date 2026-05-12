@@ -12,6 +12,8 @@ Ein DS-Abenteuer von C. Kennig für die Stufen 1-4
 
 Das Schiff wurde im nächtlichen Sturm gegen ein Riff bei der Leuchtturminsel geschmettert, doch gerade als im Morgengrauen die Rettungsboote auslaufen wollen, hört man einen unnatürlichen Schrei vom Wrack (SC mit Jäger I+ und Dschungelerfahrung vermuten einen Riesenaffen). Mutige Helden sind gefragt, dem unheimlichen Gebrüll nachzugehen.
 
+![](d2go4-map-fracht-der-banterra.jpeg)
+
 > ### Tauchen
 > SC kann KÖR+HÄ Runden die Luft anhalten ([Schwimmen](/grw/spielleitung-erweiterte-proben.md#schwimmen): Laufen/2), danach jede Runden eine KÖR+HÄ Probe, sonst jede Runde Angriff (zu Beginn mit 6; +2/weiterer Runden; Abwehr ohne PA).
 
@@ -36,8 +38,6 @@ Der aus dem Schiffskäfig entflohene [Riesenaffe](/bestiarium/riesenaffe.md) sch
 Der Riesenaffe sollte nicht gleich entdeckt werden - da er schnell klettert und das Fenster offen ist, kann kurz etwas Katz-und-Maus gespielt werden, bevor er dann plötzlich angreift.
 
 > Die Stadt beansprucht 90% <u>der</u> Fracht für sich.
-
-![](d2go4-map-fracht-der-banterra.jpeg)
 
 ### Erfahrung
 > EP: Pro Raum 1EP
