@@ -78,8 +78,8 @@ Nur wer gebückt - stets in Richtung des (heroischen) Steinpanthers blickend - d
 Wird eine Begegnung abermals gewürfelt, entfällt sie und nichts geschieht.
 
 ### Erfahrung
-> EP: Pro Hex 5EP
-> Pro Kampf (besiegte EP/SC)EP
-> Reimrätsel persönlich lösen 15EP
-> Sklavenrätsellöser 100EP
-> Für Abenteuer 100EP
+> EP: Pro Hex 5EP  
+> Pro Kampf (besiegte EP/SC)EP  
+> Reimrätsel persönlich lösen 15EP  
+> Sklavenrätsellöser 100EP  
+> Für Abenteuer 100EP  
