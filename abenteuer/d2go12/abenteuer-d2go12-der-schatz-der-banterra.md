@@ -54,6 +54,15 @@ Nur wer gebückt - stets in Richtung des (heroischen) Steinpanthers blickend - d
 > ## Der Schatz der Banterra
 > 2000GM/SC, 3000SM/SC, 4000KM/SC, W20 Edelsteine/SC im Wert von je W20x20GM, mag. Krummsäbel +2, mag. Dolch +3, mag. Lederpanzer +3, schwarze Stiefel (permanent Wasser wandeln), mag. Goldohrring (akustische Wahrnehmung +2), 1 Wiederbelebungstrank, 14 Heiltränke, 10 Abklingtränke, 1 Miniaturkanonenkugel/SC (Werfen: Feuerball), Silberring (VE+1), Opalring (Abklingen-1), mag. Augenklappe (gleicht Malus durch Einäugigkeit aus), mag. Piratenhut (Schiff lenken +2), magisch sich füllende Rumbuddel (Abkling 1 Tag)
 
+| W20   | Eingeborene                | Tiere (Ufer/Fluß)                                           | Tiere (Dschungel)                                  |
+| ----- | -------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
+| 1-5   | Spuren von Eingeborenen    | 1 hungriger [Alligator](/bestiarium/alligator.md)/SC        | 2 Panther/SC                                       |
+| 6-10  | 1 Eingeborener verfolgt SC | 1 [Riesenschlange](/bestiarium/riesenschlange.md) im Wasser | 1 aggressiver Gorilla                              |
+| 11-15 | 2 Eingeborene/SC           | 1 Kokosnüsse werfender Affe                                 | 1 Riesenschlange auf Baum                          |
+| 16-20 | 3 Eingeborene/SC           | 1 Piranjaschwarm                                            | 1 [Monsterspinne](/Bestiarium/Monsterspinne.md)/SC |
+
+Wird eine Begegnung abermals gewürfelt, entfällt sie und nichts geschieht.
+
 | NSC                                             | LK                        | Abwehr | Angriff      | EP  |
 | ----------------------------------------------- | ------------------------- | ------ | ------------ | --- |
 | Affe                                            | 6                         | 2      | 11 Nuss      | 23  |
@@ -68,15 +77,6 @@ Nur wer gebückt - stets in Richtung des (heroischen) Steinpanthers blickend - d
 **Speer:** Bei 1. Treffer, falls dieser Schaden versusacht, KÖR+HÄ, sonst eingeschläfert  
 **Piranha:** 1EP pro erhaltenen Schaden  
 **Riesenschlange:** Biss: KÖR+HÄ sonst W20 Rd. 1 Schaden  
-
-| W20   | Eingeborene                | Tiere (Ufer/Fluß)                                           | Tiere (Dschungel)                                  |
-| ----- | -------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
-| 1-5   | Spuren von Eingeborenen    | 1 hungriger [Alligator](/bestiarium/alligator.md)/SC        | 2 Panther/SC                                       |
-| 6-10  | 1 Eingeborener verfolgt SC | 1 [Riesenschlange](/bestiarium/riesenschlange.md) im Wasser | 1 aggressiver Gorilla                              |
-| 11-15 | 2 Eingeborene/SC           | 1 Kokosnüsse werfender Affe                                 | 1 Riesenschlange auf Baum                          |
-| 16-20 | 3 Eingeborene/SC           | 1 Piranjaschwarm                                            | 1 [Monsterspinne](/Bestiarium/Monsterspinne.md)/SC |
-
-Wird eine Begegnung abermals gewürfelt, entfällt sie und nichts geschieht.
 
 ### Erfahrung
 > EP: Pro Hex 5EP  
