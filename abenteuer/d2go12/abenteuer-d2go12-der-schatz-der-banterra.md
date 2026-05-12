@@ -64,6 +64,7 @@ Nur wer gebückt - stets in Richtung des (heroischen) Steinpanthers blickend - d
 | Pantherstatue                                   | 163                       | 20     | 19           | 413 |
 | Piranjas                                        | abwehrlos Schlagen 20/Rd. |        |              | **  |
 | [Riesenschlange](/bestiarium/riesenschlange.md) | 46                        | 14     | 16***        | 101 |
+
 **Speer:** Bei 1. Treffer, falls dieser Schaden versusacht, KÖR+HÄ, sonst eingeschläfert  
 **Piranha:** 1EP pro erhaltenen Schaden  
 **Riesenschlange:** Biss: KÖR+HÄ sonst W20 Rd. 1 Schaden  
