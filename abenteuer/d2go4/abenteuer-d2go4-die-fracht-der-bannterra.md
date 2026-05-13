@@ -4,10 +4,10 @@ license: CC BY-NC-SA 4.0
 licence-ref: https://creativecommons.org/licenses/by-nc-sa/4.0/
 references:
   - Fanwerk für Dungeonslayers © Christian Kennig (https://www.dungeonslayers.net/)
-source: <a href="https://dungeonslayers.net/download/Dungeon2Go4.pdf">D2GO4 - Die Fracht der Banterra</a> © Christian Kennig
-title: Die Fracht der Banterra
+source: <a href="https://dungeonslayers.net/download/Dungeon2Go4.pdf">D2GO4 - Die Fracht der Bannterra</a> © Christian Kennig
+title: Die Fracht der Bannterra
 ---
-## Die Fracht der Banterra
+## Die Fracht der Bannterra
 Ein DS-Abenteuer von C. Kennig für die Stufen 1-4
 
 Das Schiff wurde im nächtlichen Sturm gegen ein Riff bei der Leuchtturminsel geschmettert, doch gerade als im Morgengrauen die Rettungsboote auslaufen wollen, hört man einen unnatürlichen Schrei vom Wrack (SC mit Jäger I+ und Dschungelerfahrung vermuten einen Riesenaffen). Mutige Helden sind gefragt, dem unheimlichen Gebrüll nachzugehen.
@@ -37,7 +37,7 @@ Der aus dem Schiffskäfig entflohene [Riesenaffe](/bestiarium/riesenaffe.md) sch
 
 Der Riesenaffe sollte nicht gleich entdeckt werden - da er schnell klettert und das Fenster offen ist, kann kurz etwas Katz-und-Maus gespielt werden, bevor er dann plötzlich angreift.
 
-> Die Stadt beansprucht 90% <u>der</u> Fracht für sich.
+> Die Stadt beansprucht 90% der Fracht für sich.
 
 ### Erfahrungspunkte
 > EP: Pro Raum 1EP  
