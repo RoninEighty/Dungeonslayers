@@ -13,6 +13,8 @@ Ein DS-Abenteuer von C. Kennig für die Stufen 9-12
 
 In der Nacht der Verdammten, in der angeblich den bösen Göttern geopfert und gehuldigt wird, erreicht man ein einsames Waldgasthaus. Zunächst von den abergläubischen Insassen eingelassen nicht (man könnte ein Ungeheuer sein), erfährt man unter Tränen, dass die Wirtstochter Dama nicht vom Kräutersammeln heimkehrte. Man vermutet dahinter die nördlich der stromaufwärts liegenden Wasserfälle lebenden Orks, welche man von den Spinnen vom Westufer des Sees ausgerottet glaubte, die dem geheimnisvollen Druiden dienen, der irgendwo im Wald lebt. Hilfsbereite erhalten Blendlaterne und Aussicht auf die 118 vom Wirt ersparten GM.
 
+![](d2go6-map-die-nacht-der-verdammten.jpeg)
+
 ### 1. Kräuterwiese
 Erfolgreiches Suchen führt zu einem leeren (!) Kräuterbeutel, der ordentlich verstaut (!) am Ufer liegt, weibliche Fußspuren daneben führen (nicht wieder findbar) in den Fluß.
 
