@@ -48,8 +48,8 @@ Hier kreuzen sich die gezeigten Richtungen der Statuen von 4&7. [Arken Beijl](ar
 Die flugfähigen Dämonen benötigen 2 Minuten dorthin, wüten dort weitere 2 Minuten und verschwinden. Arken kann sie bis dahin jederzeit wieder zu Hilfe holen oder Alternativ seine 40m entfernt im Dickicht lauernden [Monsterspinnen](/bestiarium/monsterspinne.md) (2 pro SC) rufen, während Dama (Schlagen 7, Abwehr 8, LK 18, EP 47) ihn wie eine verrückte Furie mit ihrem Kräutermesser verteidigen wird.
 
 ## Erfahrungspunkte
-> Pro Kampf (besiegte EP/SC)EP
-> Götze vernichten je 25 EP
-> Gasthaus retten 100EP
-> Pro befreiten Ork 50/SC EP
-> Für Abenteuer 100EP
+> Pro Kampf (besiegte EP/SC)EP  
+> Götze vernichten je 25 EP  
+> Gasthaus retten 100EP  
+> Pro befreiten Ork 50/SC EP  
+> Für Abenteuer 100EP  
