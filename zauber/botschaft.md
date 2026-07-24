@@ -14,6 +14,10 @@ title: Botschaft
   - Heiler: 8
   - Zauberer: 6
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 8
+  - Zauberer: 7
+  - Schwarzmagier: 8
 - Preis: 510GM
 - ZB: +0
 - Dauer: Bis ausformuliert

@@ -14,6 +14,10 @@ title: Zauber einfangen
   - Heiler: 18
   - Zauberer: 10
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: 16
+  - Zauberer: 10
+  - Schwarzmagier: 15
 - Preis: 920GM
 - ZB: -Zauberzugang zu fangender Zauber
 - Dauer: VE Tage

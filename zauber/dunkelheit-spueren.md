@@ -14,6 +14,10 @@ title: Dunkelheit spüren
   - Heiler: 8
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 7
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 255GM
 - ZB: +0
 - Dauer: Konzentration

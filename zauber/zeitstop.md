@@ -14,6 +14,10 @@ title: Zeitstop
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: -
+  - Zauberer: 15
+  - Schwarzmagier: 18
 - Preis: 2130GM
 - ZB: -5
 - Dauer: Probenergebnis in KR

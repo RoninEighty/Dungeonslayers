@@ -14,6 +14,10 @@ title: Zone des Friedens
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 11
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 395GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

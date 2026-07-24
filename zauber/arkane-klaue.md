@@ -14,6 +14,10 @@ title: Arkane Klaue
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 12
+  - Schwarzmagier: 10
 - Preis: 1190GM
 - ZB: +0
 - Dauer: VE x 2 KR

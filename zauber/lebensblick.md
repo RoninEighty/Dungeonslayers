@@ -14,6 +14,10 @@ title: Lebensblick
   - Heiler: 3
   - Zauberer: -
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 3
+  - Zauberer: -
+  - Schwarzmagier: 5
 - Preis: 80GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

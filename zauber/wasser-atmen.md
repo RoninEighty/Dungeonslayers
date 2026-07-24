@@ -14,6 +14,10 @@ title: Wasser atmen
   - Heiler: 3
   - Zauberer: 4
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 2
+  - Zauberer: 3
+  - Schwarzmagier: -
 - Preis: 80GM
 - ZB: +0
 - Dauer: VE Stunden

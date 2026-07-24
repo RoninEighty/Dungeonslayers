@@ -14,6 +14,10 @@ title: Verbergende Aura
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 15
 - Preis: 1420GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

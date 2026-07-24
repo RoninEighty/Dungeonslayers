@@ -14,6 +14,10 @@ title: Frostschock
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 13
 - Preis: 560GM
 - ZB: +3
 - Dauer: Augenblicklich

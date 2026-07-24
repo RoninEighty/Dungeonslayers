@@ -14,6 +14,10 @@ title: Zauberleiter
   - Heiler: 8
   - Zauberer: 4
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: 8
+  - Zauberer: 6
+  - Schwarzmagier: 6
 - Preis: 320GM
 - ZB: +0
 - Dauer: Konzentration

@@ -14,6 +14,10 @@ title: Heilende Strahlen
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 9
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 395GM
 - ZB: +0
 - Dauer: Augenblicklich

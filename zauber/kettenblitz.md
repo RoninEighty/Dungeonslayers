@@ -14,6 +14,10 @@ title: Kettenblitz
   - Heiler: 16
   - Zauberer: 10
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 12
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 460GM
 - ZB: +3
 - Dauer: Augenblicklich

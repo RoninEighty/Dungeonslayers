@@ -14,6 +14,10 @@ title: Kadaverexplosion
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 11
 - Preis: 790GM
 - ZB: +0
 - Dauer: s.u.

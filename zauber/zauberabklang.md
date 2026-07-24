@@ -14,6 +14,10 @@ title: Zauberabklang
   - Heiler: 10
   - Zauberer: 5
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 10
+  - Zauberer: 7
+  - Schwarzmagier: 9
 - Preis: 420GM
 - ZB: -eigene Zugangsstufe für den Spruch
 - Dauer: Augenblicklich

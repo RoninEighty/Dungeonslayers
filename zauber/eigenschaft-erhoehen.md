@@ -14,6 +14,10 @@ title: Eigenschaft erhöhen
   - Heiler: 4
   - Zauberer: 6
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: 6
+  - Schwarzmagier: -
 - Preis: 115GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

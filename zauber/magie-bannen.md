@@ -14,6 +14,10 @@ title: Magie bannen
   - Heiler: 12
   - Zauberer: 7
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 11
+  - Zauberer: 8
+  - Schwarzmagier: 11
 - Preis: 620GM
 - ZB: -Wirkerstufe bzw. -LK/2
 - Dauer: Augenblicklich

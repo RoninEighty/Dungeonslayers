@@ -14,6 +14,10 @@ title: Lokalisieren
   - Heiler: 17
   - Zauberer: 16
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: 16
+  - Zauberer: 15
+  - Schwarzmagier: 16
 - Preis: 1140GM
 - ZB: -2
 - Dauer: Augenblicklich

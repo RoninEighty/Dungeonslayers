@@ -14,6 +14,10 @@ title: Schwerkraftfeld
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: -
 - Preis: 210GM
 - ZB: -2
 - Dauer: Probenergebnis in KR

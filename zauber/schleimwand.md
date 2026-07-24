@@ -14,6 +14,10 @@ title: Schleimwand
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 15
 - Preis: 1120GM
 - ZB: -2
 - Dauer: Augenblicklich

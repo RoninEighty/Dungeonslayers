@@ -14,6 +14,10 @@ title: Enthüllende Aura
   - Heiler: 13
   - Zauberer: 14
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: 12
+  - Zauberer: 13
+  - Schwarzmagier: 13
 - Preis: 430GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

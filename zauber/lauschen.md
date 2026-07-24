@@ -14,6 +14,10 @@ title: Lauschen
   - Heiler: 6
   - Zauberer: 2
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: 7
+  - Zauberer: 3
+  - Schwarzmagier: 3
 - Preis: 60GM
 - ZB: -1 pro 10 m Entfernung
 - Dauer: VE x 2 KR

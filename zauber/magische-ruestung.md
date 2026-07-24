@@ -14,6 +14,10 @@ title: Magische Rüstung
   - Heiler: 4
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 6
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 230GM
 - ZB: +0
 - Dauer: Augenblicklich

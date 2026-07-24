@@ -14,6 +14,10 @@ title: Eigenschaft stärken
   - Heiler: 9
   - Zauberer: 11
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 8
+  - Zauberer: 9
+  - Schwarzmagier: -
 - Preis: 290GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

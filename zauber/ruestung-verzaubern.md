@@ -14,6 +14,10 @@ title: Rüstung verzaubern
   - Heiler: 1
   - Zauberer: 4
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 4
+  - Zauberer: 6
+  - Schwarzmagier: 7
 - Preis: 20GM
 - ZB: +0
 - Dauer: VE Stunden

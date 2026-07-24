@@ -14,6 +14,10 @@ title: Treibsand
   - Heiler: 16
   - Zauberer: 14
   - Schwarzmagier: 18
+- Mana:
+  - Heiler: 15
+  - Zauberer: 13
+  - Schwarzmagier: 16
 - Preis: 1070GM
 - ZB: -2
 - Dauer: VE Stunden

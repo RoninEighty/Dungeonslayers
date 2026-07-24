@@ -14,6 +14,10 @@ title: Schutz vor Licht
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 3
 - Preis: 75GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

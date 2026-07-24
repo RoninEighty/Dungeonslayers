@@ -14,6 +14,10 @@ title: Letzter Stand
   - Heiler: 3
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 5
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 160GM
 - ZB: +0
 - Dauer: Probenergebnis x 2 KR

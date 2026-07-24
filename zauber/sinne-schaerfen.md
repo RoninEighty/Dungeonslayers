@@ -14,6 +14,10 @@ title: Sinne schärfen
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 3
+  - Zauberer: 5
+  - Schwarzmagier: 6
 - Preis: 45GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Lichtsäule
   - Heiler: 16
   - Zauberer: 19
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 12
+  - Zauberer: 15
+  - Schwarzmagier: -
 - Preis: 535GM
 - ZB: +8
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Heranziehen
   - Heiler: 3
   - Zauberer: 1
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: 2
+  - Zauberer: 2
+  - Schwarzmagier: 2
 - Preis: 10GM
 - ZB: +0
 - Dauer: Augenblicklich

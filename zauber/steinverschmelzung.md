@@ -14,6 +14,10 @@ title: Steinverschmelzung
   - Heiler: 8
   - Zauberer: 10
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 7
+  - Zauberer: 9
+  - Schwarzmagier: 10
 - Preis: 255GM
 - ZB: +0
 - Dauer: Konzentration

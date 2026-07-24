@@ -14,6 +14,10 @@ title: Talente erkennen
   - Heiler: 2
   - Zauberer: 1
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 1
+  - Zauberer: 1
+  - Schwarzmagier: 2
 - Preis: 10GM
 - ZB: -(GEI+AU)/2 des Ziel
 - Dauer: Augenblicklich

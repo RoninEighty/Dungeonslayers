@@ -14,6 +14,10 @@ title: Sichtverbindung
   - Heiler: 4
   - Zauberer: 8
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 5
+  - Zauberer: 8
+  - Schwarzmagier: 7
 - Preis: 115GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

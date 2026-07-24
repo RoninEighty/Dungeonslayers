@@ -14,6 +14,10 @@ title: Vergiss
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 530GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Augenblicklich

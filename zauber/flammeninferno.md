@@ -14,6 +14,10 @@ title: Flammeninferno
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 14
 - Preis: 1420GM
 - ZB: +5
 - Dauer: VE KR

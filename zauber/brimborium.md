@@ -14,6 +14,10 @@ title: Brimborium
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: -
 - Preis: 210GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE Minuten

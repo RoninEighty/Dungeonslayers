@@ -14,6 +14,10 @@ title: Heilung stoppen
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 4
 - Preis: 205GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE KR

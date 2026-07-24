@@ -14,6 +14,10 @@ title: Geisterpfeil
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 4
 - Preis: 205GM
 - ZB: +2
 - Dauer: Augenblicklich

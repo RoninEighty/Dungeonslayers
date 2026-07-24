@@ -14,6 +14,10 @@ title: Verteidigung
   - Heiler: 1
   - Zauberer: 4
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: 1
+  - Zauberer: 3
+  - Schwarzmagier: 3
 - Preis: 10GM
 - ZB: +0
 - Dauer: 1 KR

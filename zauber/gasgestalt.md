@@ -14,6 +14,10 @@ title: Gasgestalt
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 18
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 16
 - Preis: 1420GM
 - ZB: +0
 - Dauer: Probenergebnis x 5 KR

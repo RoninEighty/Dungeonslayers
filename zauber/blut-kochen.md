@@ -14,6 +14,10 @@ title: Blut kochen
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: 16
+  - Schwarzmagier: 12
 - Preis: 1580GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich

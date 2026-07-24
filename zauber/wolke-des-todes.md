@@ -14,6 +14,10 @@ title: Wolke des Todes
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 12
 - Preis: 790GM
 - ZB: -4
 - Dauer: Probenergebnis x 2 KR

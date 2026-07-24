@@ -14,6 +14,10 @@ title: Stolpern
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: 4
 - Preis: 140GM
 - ZB: -(AGI+AU)/2 des Ziels
 - Dauer: Augenblicklich

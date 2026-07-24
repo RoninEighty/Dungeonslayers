@@ -14,6 +14,10 @@ title: Balancieren
   - Heiler: 2
   - Zauberer: 3
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 3
+  - Zauberer: 3
+  - Schwarzmagier: 6
 - Preis: 45GM
 - ZB: -2
 - Dauer: Bis Strecke zurückgelegt

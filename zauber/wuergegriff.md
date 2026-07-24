@@ -14,6 +14,10 @@ title: Würgegriff
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 10
 - Preis: 660GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Konzentration

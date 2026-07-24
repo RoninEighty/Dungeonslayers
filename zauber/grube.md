@@ -14,6 +14,10 @@ title: Grube
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 15
+  - Schwarzmagier: 15
 - Preis: 1520GM
 - ZB: -4
 - Dauer: VE x 2 Stunden

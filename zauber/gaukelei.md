@@ -14,6 +14,10 @@ title: Gaukelei
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 6
 - Preis: 160GM
 - ZB: +0
 - Dauer: Konzentration

@@ -14,6 +14,10 @@ title: Gedankenleere
   - Heiler: 11
   - Zauberer: 12
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 10
+  - Zauberer: 11
+  - Schwarzmagier: 11
 - Preis: 360GM
 - ZB: +0
 - Dauer: VE KR

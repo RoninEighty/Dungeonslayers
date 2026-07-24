@@ -14,6 +14,10 @@ title: Wind kontrollieren
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 13
 - Preis: 1120GM
 - ZB: +0
 - Dauer: Konzentration

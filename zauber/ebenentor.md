@@ -14,6 +14,10 @@ title: Ebenentor
   - Heiler: -
   - Zauberer: 18
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 17
+  - Schwarzmagier: 15
 - Preis: 2580GM
 - ZB: -8
 - Dauer: VE Minuten

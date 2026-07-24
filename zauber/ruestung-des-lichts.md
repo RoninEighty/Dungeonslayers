@@ -14,6 +14,10 @@ title: Rüstung des Lichts
   - Heiler: 9
   - Zauberer: 10
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 8
+  - Zauberer: 9
+  - Schwarzmagier: -
 - Preis: 290GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

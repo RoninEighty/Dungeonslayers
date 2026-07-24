@@ -14,6 +14,10 @@ title: Terror
   - Heiler: 5
   - Zauberer: 9
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 7
+  - Zauberer: 9
+  - Schwarzmagier: 8
 - Preis: 300GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE Minuten

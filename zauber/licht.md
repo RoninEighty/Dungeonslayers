@@ -14,6 +14,10 @@ title: Licht
   - Heiler: 1
   - Zauberer: 1
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 2
+  - Zauberer: 2
+  - Schwarzmagier: 5
 - Preis: 10GM
 - ZB: +5
 - Dauer: Probenergebnis in Minuten

@@ -14,6 +14,10 @@ title: Slayerwaffe
   - Heiler: 2
   - Zauberer: 2
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: 3
+  - Zauberer: 3
+  - Schwarzmagier: 3
 - Preis: 45GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

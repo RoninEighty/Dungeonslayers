@@ -14,6 +14,10 @@ title: Tiere fernhalten
   - Heiler: 2
   - Zauberer: 6
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 3
+  - Zauberer: 7
+  - Schwarzmagier: 8
 - Preis: 45GM
 - ZB: -Gesamt-LK/5 der Ziele
 - Dauer: Konzentration

@@ -14,6 +14,10 @@ title: Zielmarkierung
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: -
 - Preis: 160GM
 - ZB: -(AGI+BE)/2 des Ziels
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Rätselstimme
   - Heiler: -
   - Zauberer: 3
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: 7
 - Preis: 220GM
 - ZB: +0
 - Dauer: s.u.

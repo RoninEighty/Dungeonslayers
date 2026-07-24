@@ -14,6 +14,10 @@ title: Flammenaura
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 14
 - Preis: 660GM
 - ZB: +0
 - Dauer: VE KR

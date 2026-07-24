@@ -14,6 +14,10 @@ title: Aderplatzer
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 4
 - Preis: 270GM
 - ZB: +2
 - Dauer: Augenblicklich

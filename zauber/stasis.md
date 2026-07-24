@@ -14,6 +14,10 @@ title: Stasis
   - Heiler: 19
   - Zauberer: 18
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: 17
+  - Zauberer: 17
+  - Schwarzmagier: 18
 - Preis: 1920GM
 - ZB: -1 pro 5 Kilogramm
 - Dauer: Permanent

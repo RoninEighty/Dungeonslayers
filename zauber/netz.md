@@ -14,6 +14,10 @@ title: Netz
   - Heiler: 4
   - Zauberer: 9
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 4
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 115GM
 - ZB: -(AGI+ST)/2 des Ziels
 - Dauer: Probenergebnis/2 KR

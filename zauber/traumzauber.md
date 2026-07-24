@@ -14,6 +14,10 @@ title: Traumzauber
   - Heiler: 15
   - Zauberer: 13
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: 14
+  - Zauberer: 12
+  - Schwarzmagier: 12
 - Preis: 1000GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE Minuten

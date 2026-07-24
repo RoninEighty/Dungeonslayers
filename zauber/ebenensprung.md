@@ -14,6 +14,10 @@ title: Ebenensprung
   - Heiler: 18
   - Zauberer: 16
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: 16
+  - Zauberer: 15
+  - Schwarzmagier: 17
 - Preis: 1210GM
 - ZB: -2 pro Begleiter
 - Dauer: Augenblicklich

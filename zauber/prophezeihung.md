@@ -14,6 +14,10 @@ title: Prophezeihung
   - Heiler: 10
   - Zauberer: 14
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: 11
+  - Zauberer: 14
+  - Schwarzmagier: 15
 - Preis: 975GM
 - ZB: -4
 - Dauer: VE Minuten

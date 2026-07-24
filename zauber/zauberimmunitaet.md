@@ -14,6 +14,10 @@ title: Zauberimmunität
   - Heiler: 8
   - Zauberer: 4
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 8
+  - Zauberer: 5
+  - Schwarzmagier: 7
 - Preis: 160GM
 - ZB: +0
 - Dauer: VE Minuten

@@ -14,6 +14,10 @@ title: Wasser teilen
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 12
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 1185GM
 - ZB: +0
 - Dauer: Konzentration

@@ -14,6 +14,10 @@ title: Mächtiges Schwächen
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 7
 - Preis: 510GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR

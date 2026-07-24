@@ -14,6 +14,10 @@ title: Botenteufel
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 8
 - Preis: 800GM
 - ZB: +0
 - Dauer: bis zu VE/2 Stunden

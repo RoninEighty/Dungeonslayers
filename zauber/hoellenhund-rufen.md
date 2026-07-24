@@ -14,6 +14,10 @@ title: Höllenhund rufen
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 7
 - Preis: 670GM
 - ZB: -5
 - Dauer: Probenergebnis in KR

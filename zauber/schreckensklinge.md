@@ -14,6 +14,10 @@ title: Schreckensklinge
   - Heiler: -
   - Zauberer: 7
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 6
 - Preis: 270GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

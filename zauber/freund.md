@@ -14,6 +14,10 @@ title: Freund
   - Heiler: 6
   - Zauberer: 7
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 7
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 370GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE Minuten

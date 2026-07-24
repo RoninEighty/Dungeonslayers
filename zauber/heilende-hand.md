@@ -14,6 +14,10 @@ title: Heilende Hand
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 1
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: +1
 - Dauer: Augenblicklich

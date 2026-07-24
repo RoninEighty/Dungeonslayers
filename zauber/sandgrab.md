@@ -14,6 +14,10 @@ title: Sandgrab
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 9
 - Preis: 210GM
 - ZB: +0
 - Dauer: Probenergebnis x 2 KR

@@ -14,6 +14,10 @@ title: Feuerschutz
   - Heiler: 3
   - Zauberer: 6
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 2
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 80GM
 - ZB: -2
 - Dauer: Probenergebnis x 2 KR

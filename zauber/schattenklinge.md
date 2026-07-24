@@ -14,6 +14,10 @@ title: Schattenklinge
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 7
 - Preis: 360GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Totengespräch
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 10
 - Preis: 1590GM
 - ZB: +0
 - Dauer: VE Fragen bzw. VE Minuten

@@ -14,6 +14,10 @@ title: Lichtpfeil
   - Heiler: 2
   - Zauberer: 5
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 2
+  - Zauberer: 4
+  - Schwarzmagier: -
 - Preis: 45GM
 - ZB: +2
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Faulbauchmaden erwecken
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 4
 - Preis: 20GM
 - ZB: +0
 - Dauer: Augenblicklich

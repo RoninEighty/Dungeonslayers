@@ -14,6 +14,10 @@ title: Lügen spüren
   - Heiler: 3
   - Zauberer: 8
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 80GM
 - ZB: +0
 - Dauer: VE Minuten

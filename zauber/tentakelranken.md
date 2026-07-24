@@ -14,6 +14,10 @@ title: Tentakelranken
   - Heiler: 13
   - Zauberer: 12
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 12
+  - Zauberer: 11
+  - Schwarzmagier: 10
 - Preis: 860GM
 - ZB: +0
 - Dauer: VE x 2 KR

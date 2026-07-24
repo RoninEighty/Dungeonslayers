@@ -14,6 +14,10 @@ title: Verkrüppeln 1
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 12
 - Preis: 810GM
 - ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Augenblicklich

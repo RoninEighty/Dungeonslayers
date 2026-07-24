@@ -14,6 +14,10 @@ title: Geist leeren
   - Heiler: 6
   - Zauberer: 4
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 5
+  - Zauberer: 3
+  - Schwarzmagier: -
 - Preis: 160GM
 - ZB: -Stufe des zu bannenden Zaubers
 - Dauer: Augenblicklich

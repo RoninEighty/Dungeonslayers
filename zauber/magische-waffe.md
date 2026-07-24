@@ -14,6 +14,10 @@ title: Magische Waffe
   - Heiler: 1
   - Zauberer: 1
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: 2
+  - Zauberer: 2
+  - Schwarzmagier: 2
 - Preis: 10GM
 - ZB: +0
 - Dauer: VE Minuten

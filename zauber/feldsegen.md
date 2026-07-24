@@ -14,6 +14,10 @@ title: Feldsegen
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 12
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 1185GM
 - ZB: -4
 - Dauer: 1 Jahr

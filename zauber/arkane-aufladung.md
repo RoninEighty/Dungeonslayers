@@ -14,6 +14,10 @@ title: Arkane Aufladung
   - Heiler: 6
   - Zauberer: 4
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 7
+  - Zauberer: 5
+  - Schwarzmagier: 7
 - Preis: 160GM
 - ZB: +0
 - Dauer: 1 KR

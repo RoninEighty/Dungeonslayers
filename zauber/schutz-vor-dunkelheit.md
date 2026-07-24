@@ -14,6 +14,10 @@ title: Schutz vor Dunkelheit
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: 4
+  - Schwarzmagier: -
 - Preis: 45GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

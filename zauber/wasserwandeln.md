@@ -14,6 +14,10 @@ title: Wasserwandeln
   - Heiler: 5
   - Zauberer: 9
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 4
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 150GM
 - ZB: +0
 - Dauer: VE Stunden

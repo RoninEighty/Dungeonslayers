@@ -14,6 +14,10 @@ title: Magische Wand
   - Heiler: 14
   - Zauberer: 10
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 13
+  - Zauberer: 10
+  - Schwarzmagier: 11
 - Preis: 920GM
 - ZB: +0
 - Dauer: VE x 2 KR

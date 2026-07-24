@@ -14,6 +14,10 @@ title: Säurelanze
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 6
 - Preis: 410GM
 - ZB: +2
 - Dauer: Augenblicklich

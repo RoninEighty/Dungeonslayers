@@ -14,6 +14,10 @@ title: Telekinetischer Wurf
   - Heiler: -
   - Zauberer: 7
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 7
 - Preis: 310GM
 - ZB: +0 (s.u.)
 - Dauer: Augenblicklich

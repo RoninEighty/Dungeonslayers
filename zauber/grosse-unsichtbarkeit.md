@@ -14,6 +14,10 @@ title: Grosse Unsichtbarkeit
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 18
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 15
 - Preis: 760GM
 - ZB: -4
 - Dauer: VE KR

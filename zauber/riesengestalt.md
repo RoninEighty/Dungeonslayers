@@ -14,6 +14,10 @@ title: Riesengestalt
   - Heiler: -
   - Zauberer: 18
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: -
+  - Zauberer: 16
+  - Schwarzmagier: 17
 - Preis: 1720GM
 - ZB: -2
 - Dauer: Probenergebnis in KR

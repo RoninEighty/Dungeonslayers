@@ -14,6 +14,10 @@ title: Verschicken
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 10
 - Preis: 410GM
 - ZB: -1 pro (Stufe x Kilogramm)
 - Dauer: Augenblicklich

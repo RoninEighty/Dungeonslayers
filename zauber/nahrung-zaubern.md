@@ -14,6 +14,10 @@ title: Nahrung zaubern
   - Heiler: 2
   - Zauberer: 7
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 90GM
 - ZB: +0
 - Dauer: Augenblicklich

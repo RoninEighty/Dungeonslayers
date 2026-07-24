@@ -14,6 +14,10 @@ title: Versteinern
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 11
 - Preis: 1320GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich

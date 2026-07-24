@@ -14,6 +14,10 @@ title: Verzweiflung
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 16
+  - Schwarzmagier: 10
 - Preis: 1190GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE Stunden

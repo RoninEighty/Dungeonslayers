@@ -14,6 +14,10 @@ title: Tierbeherrschung
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 410GM
 - ZB: -LK/2 des Ziels
 - Dauer: VE Stunden

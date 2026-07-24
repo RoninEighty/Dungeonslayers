@@ -14,6 +14,10 @@ title: Langer Feueratem
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 13
 - Preis: 1320GM
 - ZB: +5
 - Dauer: VE KR

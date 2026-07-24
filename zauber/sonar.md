@@ -14,6 +14,10 @@ title: Sonar
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 13
 - Preis: 660GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

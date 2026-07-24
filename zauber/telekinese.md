@@ -14,6 +14,10 @@ title: Telekinese
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 260GM
 - ZB: -1 pro (Stufe x 5) kg Gewicht
 - Dauer: Konzentration

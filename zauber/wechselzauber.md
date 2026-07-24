@@ -14,6 +14,10 @@ title: Wechselzauber
   - Heiler: 12
   - Zauberer: 10
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 11
+  - Zauberer: 10
+  - Schwarzmagier: 11
 - Preis: 790GM
 - ZB: +0
 - Dauer: Augenblicklich

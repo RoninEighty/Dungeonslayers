@@ -14,6 +14,10 @@ title: Edelsteinbombe
   - Heiler: 16
   - Zauberer: 13
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: 14
+  - Zauberer: 12
+  - Schwarzmagier: 13
 - Preis: 535GM
 - ZB: +1 pro 10 GM
 - Dauer: Augenblicklich

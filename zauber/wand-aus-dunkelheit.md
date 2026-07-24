@@ -14,6 +14,10 @@ title: Wand aus Dunkelheit
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 8
 - Preis: 930GM
 - ZB: +0
 - Dauer: VE x 2 Stunden

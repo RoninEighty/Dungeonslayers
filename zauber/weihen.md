@@ -14,6 +14,10 @@ title: Weihen
   - Heiler: 7
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 8
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 440GM
 - ZB: -2
 - Dauer: 24 Stunden

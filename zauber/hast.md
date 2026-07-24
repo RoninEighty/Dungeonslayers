@@ -14,6 +14,10 @@ title: Hast
   - Heiler: 10
   - Zauberer: 9
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: 9
+  - Zauberer: 8
+  - Schwarzmagier: 10
 - Preis: 325GM
 - ZB: -2
 - Dauer: VE KR

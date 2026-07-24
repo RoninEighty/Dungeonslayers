@@ -14,6 +14,10 @@ title: Geistige Verbindung
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: -
 - Preis: 510GM
 - ZB: +0
 - Dauer: VE Minuten

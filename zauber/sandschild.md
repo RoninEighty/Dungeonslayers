@@ -14,6 +14,10 @@ title: Sandschild
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: 8
 - Preis: 160GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

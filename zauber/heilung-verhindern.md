@@ -14,6 +14,10 @@ title: Heilung verhindern
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 930GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE Stunden

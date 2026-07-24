@@ -14,6 +14,10 @@ title: Erzwungenes Vergrössern
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 13
 - Preis: 1120GM
 - ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Probenergebnis/2 KR

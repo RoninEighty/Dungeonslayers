@@ -14,6 +14,10 @@ title: Todesklinge
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 11
 - Preis: 660GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

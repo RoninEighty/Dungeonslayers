@@ -14,6 +14,10 @@ title: Versetzte Stimme
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: -
+  - Zauberer: 3
+  - Schwarzmagier: 4
 - Preis: 60GM
 - ZB: -1 pro 10 Meter Entfernung
 - Dauer: VE x 2 KR

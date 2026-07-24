@@ -14,6 +14,10 @@ title: Spähposten
   - Heiler: 12
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 11
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 720GM
 - ZB: +0
 - Dauer: VE Tage

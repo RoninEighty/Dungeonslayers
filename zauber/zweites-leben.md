@@ -14,6 +14,10 @@ title: Zweites Leben
   - Heiler: 14
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 13
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 930GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

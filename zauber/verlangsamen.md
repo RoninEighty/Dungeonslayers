@@ -14,6 +14,10 @@ title: Verlangsamen
   - Heiler: 3
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 3
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 80GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE KR

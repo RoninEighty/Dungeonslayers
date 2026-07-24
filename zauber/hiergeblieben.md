@@ -14,6 +14,10 @@ title: Hiergeblieben
   - Heiler: 8
   - Zauberer: 10
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: 7
+  - Zauberer: 9
+  - Schwarzmagier: 9
 - Preis: 255GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE KR

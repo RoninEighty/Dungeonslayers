@@ -14,6 +14,10 @@ title: Erholsames Nickerchen
   - Heiler: -
   - Zauberer: 3
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: -
 - Preis: 220GM
 - ZB: +0
 - Dauer: 1 Stunde

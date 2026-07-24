@@ -14,6 +14,10 @@ title: Verdorren
   - Heiler: 11
   - Zauberer: 8
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 9
+  - Zauberer: 7
+  - Schwarzmagier: 6
 - Preis: 335GM
 - ZB: +3
 - Dauer: Augenblicklich

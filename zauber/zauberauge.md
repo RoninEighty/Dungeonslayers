@@ -14,6 +14,10 @@ title: Zauberauge
   - Heiler: 12
   - Zauberer: 10
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: 11
+  - Zauberer: 10
+  - Schwarzmagier: 10
 - Preis: 790GM
 - ZB: sh. unten
 - Dauer: Probeergebnis/2 in KR

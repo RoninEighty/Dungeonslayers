@@ -14,6 +14,10 @@ title: Wolkenreise
   - Heiler: 17
   - Zauberer: 18
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 16
+  - Zauberer: 16
+  - Schwarzmagier: -
 - Preis: 1140GM
 - ZB: +0
 - Dauer: VE Stunden

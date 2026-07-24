@@ -16,4 +16,5 @@ Für die Veröffentlichung von Fanwerken gibt es die [Fanwerk-Richtlinien](https
 - [Pfeffersack Pradnek](/fanwerk/pradnek/pradnek.md)
 - [Schiff Ahoi!](schiff-ahoi/schiff-ahoi.md)
 - [Schmutzige Tricks - Manöver für den Einsatz im Kampf](manoever/manoever.md)
+- [Zauberwerk](zauberwerk/zauberwerk.md)
 - [Zufallsbegegnungen](zufallsbegegnungen/zufallsbegegnungen.md)

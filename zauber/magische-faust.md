@@ -14,6 +14,10 @@ title: Magische Faust
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 2
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: +0
 - Dauer: Probenergebnis x 2 KR

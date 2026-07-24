@@ -14,6 +14,10 @@ title: Dunkle Segnung
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 5
 - Preis: 280GM
 - ZB: +0
 - Dauer: VE Stunden

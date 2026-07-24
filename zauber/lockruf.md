@@ -14,6 +14,10 @@ title: Lockruf
   - Heiler: 10
   - Zauberer: 10
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 9
+  - Zauberer: 9
+  - Schwarzmagier: 8
 - Preis: 325GM
 - ZB: -(GEI+AU)/2 des Ziel
 - Dauer: Konzentration

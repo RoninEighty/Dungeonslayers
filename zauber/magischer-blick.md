@@ -14,6 +14,10 @@ title: Magischer Blick
   - Heiler: 11
   - Zauberer: 9
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 10
+  - Zauberer: 8
+  - Schwarzmagier: 7
 - Preis: 360GM
 - ZB: +0 oder -(GEI+VE)/2 des Ziels
 - Dauer: Konzentration, bis zu VE Minuten

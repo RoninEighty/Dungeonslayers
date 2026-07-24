@@ -14,6 +14,10 @@ title: Schmierfleck
   - Heiler: 7
   - Zauberer: 5
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 7
+  - Zauberer: 6
+  - Schwarzmagier: 7
 - Preis: 210GM
 - ZB: +0
 - Dauer: VE KR

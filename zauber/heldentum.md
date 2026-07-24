@@ -14,6 +14,10 @@ title: Heldentum
   - Heiler: 10
   - Zauberer: 17
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 10
+  - Zauberer: 16
+  - Schwarzmagier: -
 - Preis: 650GM
 - ZB: +0
 - Dauer: VE Stunden

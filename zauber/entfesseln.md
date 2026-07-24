@@ -14,6 +14,10 @@ title: Entfesseln
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 8
 - Preis: 465GM
 - ZB: -Wirkerstufe des Beschwörers
 - Dauer: Augenblicklich

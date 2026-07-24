@@ -14,6 +14,10 @@ title: Wiederbelebung
   - Heiler: 10
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 10
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 650GM
 - ZB: +0
 - Dauer: Augenblicklich

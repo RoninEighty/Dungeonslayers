@@ -14,6 +14,10 @@ title: Steingestalt
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 360GM
 - ZB: -2
 - Dauer: Probenergebnis in KR (speziell)

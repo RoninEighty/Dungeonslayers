@@ -14,6 +14,10 @@ title: Säurenebel
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 10
 - Preis: 460GM
 - ZB: -2
 - Dauer: VE x 2 KR

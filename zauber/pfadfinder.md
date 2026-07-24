@@ -14,6 +14,10 @@ title: Pfadfinder
   - Heiler: 11
   - Zauberer: 13
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 10
+  - Zauberer: 12
+  - Schwarzmagier: -
 - Preis: 720GM
 - ZB: +0
 - Dauer: VE Stunden

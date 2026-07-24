@@ -14,6 +14,10 @@ title: Bannen
   - Heiler: 8
   - Zauberer: 18
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: 8
+  - Zauberer: 15
+  - Schwarzmagier: 13
 - Preis: 255GM
 - ZB: -(KÖR+AU)/2 der Wesenheit
 - Dauer: Augenblicklich

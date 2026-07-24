@@ -14,6 +14,10 @@ title: Zauber aufheben
   - Heiler: 11
   - Zauberer: 6
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 9
+  - Zauberer: 6
+  - Schwarzmagier: 9
 - Preis: 260GM
 - ZB: -Wirkerstufe
 - Dauer: Augenblicklich

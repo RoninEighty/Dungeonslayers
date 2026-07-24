@@ -14,6 +14,10 @@ title: Zaubertrick
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: 2
+  - Schwarzmagier: 2
 - Preis: 10GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

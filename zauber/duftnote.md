@@ -14,6 +14,10 @@ title: Duftnote
   - Heiler: 1
   - Zauberer: 1
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: 3
+  - Zauberer: 3
+  - Schwarzmagier: 3
 - Preis: 10GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

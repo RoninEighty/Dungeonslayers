@@ -14,6 +14,10 @@ title: Fluch
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 4
 - Preis: 150GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Probenergebnis Tage

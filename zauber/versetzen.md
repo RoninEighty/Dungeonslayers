@@ -14,6 +14,10 @@ title: Versetzen
   - Heiler: 10
   - Zauberer: 6
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 9
+  - Zauberer: 6
+  - Schwarzmagier: 6
 - Preis: 260GM
 - ZB: +0
 - Dauer: Augenblicklich

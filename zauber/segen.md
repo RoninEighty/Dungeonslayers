@@ -14,6 +14,10 @@ title: Segen
   - Heiler: 2
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 90GM
 - ZB: +0
 - Dauer: VE Stunden

@@ -14,6 +14,10 @@ title: Kleiner Terror
   - Heiler: 2
   - Zauberer: 6
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: 3
+  - Zauberer: 7
+  - Schwarzmagier: 5
 - Preis: 45GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE KR

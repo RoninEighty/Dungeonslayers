@@ -14,6 +14,10 @@ title: Schock
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 1
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: +0
 - Dauer: Augenblicklich

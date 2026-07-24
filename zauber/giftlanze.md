@@ -14,6 +14,10 @@ title: Giftlanze
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 5
 - Preis: 260GM
 - ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Probenergebnis in KR

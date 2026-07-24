@@ -14,6 +14,10 @@ title: Schattenexplosion
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 12
 - Preis: 920GM
 - ZB: +5
 - Dauer: Augenblicklich

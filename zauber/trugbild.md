@@ -14,6 +14,10 @@ title: Trugbild
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 7
 - Preis: 210GM
 - ZB: -2
 - Dauer: VE/2 Stunden

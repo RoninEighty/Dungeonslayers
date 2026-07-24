@@ -14,6 +14,10 @@ title: Stein formen
   - Heiler: 9
   - Zauberer: 10
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: 9
+  - Zauberer: 10
+  - Schwarzmagier: 10
 - Preis: 580GM
 - ZB: -1 pro Kilogramm
 - Dauer: Permanent

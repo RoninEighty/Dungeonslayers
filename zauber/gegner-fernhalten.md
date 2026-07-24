@@ -14,6 +14,10 @@ title: Gegner fernhalten
   - Heiler: 6
   - Zauberer: 9
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: 6
+  - Zauberer: 8
+  - Schwarzmagier: 11
 - Preis: 185GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE KR

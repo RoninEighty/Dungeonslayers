@@ -14,6 +14,10 @@ title: Meteor
   - Heiler: -
   - Zauberer: 18
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: -
+  - Zauberer: 15
+  - Schwarzmagier: 16
 - Preis: 860GM
 - ZB: +10
 - Dauer: Augenblicklich

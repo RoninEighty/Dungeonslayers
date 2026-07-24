@@ -14,6 +14,10 @@ title: Kleine Unsichtbarkeit
   - Heiler: -
   - Zauberer: 3
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 5
 - Preis: 110GM
 - ZB: +0
 - Dauer: VE x 2 KR

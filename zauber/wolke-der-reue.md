@@ -14,6 +14,10 @@ title: Wolke der Reue
   - Heiler: 1
   - Zauberer: 6
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: 7
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: -2
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Zombies erwecken
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 930GM
 - ZB: +0
 - Dauer: Augenblicklich

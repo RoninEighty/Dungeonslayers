@@ -14,6 +14,10 @@ title: Schockwaffe
   - Heiler: 5
   - Zauberer: 4
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 6
+  - Zauberer: 5
+  - Schwarzmagier: -
 - Preis: 150GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

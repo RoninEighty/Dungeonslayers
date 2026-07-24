@@ -14,6 +14,10 @@ title: Verlangen
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 8
 - Preis: 460GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Probenergebnis in KR

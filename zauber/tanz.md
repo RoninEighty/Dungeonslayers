@@ -14,6 +14,10 @@ title: Tanz
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 9
 - Preis: 360GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE/2 Minuten

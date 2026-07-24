@@ -14,6 +14,10 @@ title: Gestrüpp
   - Heiler: 3
   - Zauberer: 9
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 80GM
 - ZB: +0
 - Dauer: Augenblicklich

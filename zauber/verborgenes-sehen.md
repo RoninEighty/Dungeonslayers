@@ -14,6 +14,10 @@ title: Verborgenes sehen
   - Heiler: 8
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 8
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 510GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

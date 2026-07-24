@@ -14,6 +14,10 @@ title: Privatgespräch
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 10
 - Preis: 410GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

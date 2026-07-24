@@ -14,6 +14,10 @@ title: Hungriger Schatten
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 530GM
 - ZB: -(AGI+AU)/2 des Ziels
 - Dauer: Probenergebnis/2 KR

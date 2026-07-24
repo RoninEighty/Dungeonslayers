@@ -14,6 +14,10 @@ title: Lichtexplosion
   - Heiler: 15
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 12
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 500GM
 - ZB: +5
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Seuchenschneide
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: 5
 - Preis: 160GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

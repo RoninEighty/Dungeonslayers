@@ -14,6 +14,10 @@ title: Harpunieren
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 7
 - Preis: 410GM
 - ZB: +3
 - Dauer: VE/2 KR (s.u.)

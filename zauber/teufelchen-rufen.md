@@ -14,6 +14,10 @@ title: Teufelchen rufen
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 20GM
 - ZB: -3
 - Dauer: Probenergebnis in KR

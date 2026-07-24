@@ -14,6 +14,10 @@ title: Verbesserte Magische Waffe
   - Heiler: 7
   - Zauberer: 5
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 6
+  - Zauberer: 4
+  - Schwarzmagier: 6
 - Preis: 210GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

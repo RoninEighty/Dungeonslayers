@@ -14,6 +14,10 @@ title: Objekt der Begierde
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 11
 - Preis: 1320GM
 - ZB: +0
 - Dauer: VE x 2 Minuten

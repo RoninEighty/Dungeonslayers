@@ -14,6 +14,10 @@ title: Giftgasgestalt
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: -
+  - Zauberer: 17
+  - Schwarzmagier: 17
 - Preis: 1920GM
 - ZB: +0
 - Dauer: Probenergebnis x 2 KR

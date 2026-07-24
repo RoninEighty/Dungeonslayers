@@ -14,6 +14,10 @@ title: Wildwuchs
   - Heiler: 9
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 9
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 580GM
 - ZB: +0
 - Dauer: Augenblicklich

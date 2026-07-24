@@ -14,6 +14,10 @@ title: Schimmerross rufen
   - Heiler: 5
   - Zauberer: 7
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 7
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 300GM
 - ZB: -4
 - Dauer: VE x 2 Stunden

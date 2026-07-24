@@ -14,6 +14,10 @@ title: Blutige Berührung
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: 1
+  - Schwarzmagier: 1
 - Preis: 10GM
 - ZB: +3
 - Dauer: Augenblicklich

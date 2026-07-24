@@ -14,6 +14,10 @@ title: Schutzkreis gegen Tiere
   - Heiler: 1
   - Zauberer: 8
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 4
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 20GM
 - ZB: +0
 - Dauer: VE x 2 Stunden

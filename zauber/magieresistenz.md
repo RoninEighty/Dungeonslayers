@@ -14,6 +14,10 @@ title: Magieresistenz
   - Heiler: 8
   - Zauberer: 7
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 7
+  - Zauberer: 7
+  - Schwarzmagier: 8
 - Preis: 255GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

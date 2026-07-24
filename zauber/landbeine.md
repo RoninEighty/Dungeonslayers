@@ -14,6 +14,10 @@ title: Landbeine
   - Heiler: 3
   - Zauberer: 2
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 3
+  - Zauberer: 3
+  - Schwarzmagier: 3
 - Preis: 60GM
 - ZB: +0
 - Dauer: VE Stunden

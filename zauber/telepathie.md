@@ -14,6 +14,10 @@ title: Telepathie
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 3
+  - Schwarzmagier: -
 - Preis: 60GM
 - ZB: +0
 - Dauer: VE x 2 Minuten

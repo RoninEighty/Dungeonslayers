@@ -14,6 +14,10 @@ title: Heilendes Gift
   - Heiler: 8
   - Zauberer: -
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 8
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 255GM
 - ZB: +0
 - Dauer: Permanent

@@ -14,6 +14,10 @@ title: Atemfrei
   - Heiler: 1
   - Zauberer: 3
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: 4
+  - Zauberer: 5
+  - Schwarzmagier: 4
 - Preis: 20GM
 - ZB: -1 pro Begleiter
 - Dauer: KÖR des Ziels in Stunden

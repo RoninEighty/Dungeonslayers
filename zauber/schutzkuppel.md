@@ -14,6 +14,10 @@ title: Schutzkuppel
   - Heiler: 8
   - Zauberer: 12
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 9
+  - Zauberer: 12
+  - Schwarzmagier: 12
 - Preis: 765GM
 - ZB: +0
 - Dauer: Konzentration

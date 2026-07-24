@@ -14,6 +14,10 @@ title: Blitzschild
   - Heiler: 7
   - Zauberer: 8
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 8
+  - Zauberer: 8
+  - Schwarzmagier: 10
 - Preis: 440GM
 - ZB: +0
 - Dauer: VE x 2 KR

@@ -14,6 +14,10 @@ title: Chaoszauber
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: 12
+  - Schwarzmagier: 10
 - Preis: 1220GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: s.u.

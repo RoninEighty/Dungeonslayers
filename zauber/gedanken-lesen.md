@@ -14,6 +14,10 @@ title: Gedanken lesen
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 360GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE KR

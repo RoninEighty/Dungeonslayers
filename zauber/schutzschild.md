@@ -14,6 +14,10 @@ title: Schutzschild
   - Heiler: 4
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 5
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 115GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

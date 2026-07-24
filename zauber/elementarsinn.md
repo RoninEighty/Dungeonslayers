@@ -14,6 +14,10 @@ title: Elementarsinn
   - Heiler: 3
   - Zauberer: 2
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: 3
+  - Schwarzmagier: -
 - Preis: 60GM
 - ZB: +0
 - Dauer: Konzentration

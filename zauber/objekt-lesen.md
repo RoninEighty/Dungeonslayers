@@ -14,6 +14,10 @@ title: Objekt lesen
   - Heiler: 5
   - Zauberer: 3
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 5
+  - Zauberer: 3
+  - Schwarzmagier: 6
 - Preis: 110GM
 - ZB: +0
 - Dauer: Augenblicklich

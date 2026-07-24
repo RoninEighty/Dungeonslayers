@@ -14,6 +14,10 @@ title: Labyrinth
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 19
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 15
 - Preis: 760GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE KR

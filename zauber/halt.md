@@ -14,6 +14,10 @@ title: Halt
   - Heiler: 2
   - Zauberer: 6
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 3
+  - Zauberer: 6
+  - Schwarzmagier: 6
 - Preis: 45GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE KR

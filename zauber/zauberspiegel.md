@@ -14,6 +14,10 @@ title: Zauberspiegel
   - Heiler: 14
   - Zauberer: 12
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 13
+  - Zauberer: 11
+  - Schwarzmagier: 11
 - Preis: 465GM
 - ZB: +0
 - Dauer: VE KR

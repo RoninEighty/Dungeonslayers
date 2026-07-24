@@ -14,6 +14,10 @@ title: Zwergensicht
   - Heiler: 6
   - Zauberer: 5
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 6
+  - Zauberer: 5
+  - Schwarzmagier: 3
 - Preis: 140GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

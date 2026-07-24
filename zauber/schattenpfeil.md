@@ -14,6 +14,10 @@ title: Schattenpfeil
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 1
 - Preis: 75GM
 - ZB: +2
 - Dauer: Augenblicklich

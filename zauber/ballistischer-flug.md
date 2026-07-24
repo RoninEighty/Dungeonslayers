@@ -14,6 +14,10 @@ title: Ballistischer Flug
   - Heiler: 13
   - Zauberer: 7
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 12
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 620GM
 - ZB: +0
 - Dauer: VE Stunden

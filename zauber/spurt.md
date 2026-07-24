@@ -14,6 +14,10 @@ title: Spurt
   - Heiler: 7
   - Zauberer: 7
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 7
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 220GM
 - ZB: -2
 - Dauer: Probenergebnis in KR

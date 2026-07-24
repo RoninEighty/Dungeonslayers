@@ -14,6 +14,10 @@ title: Altern
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 16
 - Preis: 3150GM
 - ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Augenblicklich

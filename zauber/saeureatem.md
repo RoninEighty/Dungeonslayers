@@ -14,6 +14,10 @@ title: Säureatem
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: 12
+  - Schwarzmagier: 11
 - Preis: 660GM
 - ZB: +3
 - Dauer: Augenblicklich

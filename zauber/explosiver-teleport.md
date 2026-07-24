@@ -14,6 +14,10 @@ title: Explosiver Teleport
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 15
+  - Schwarzmagier: 13
 - Preis: 1520GM
 - ZB: +3
 - Dauer: Augenblicklich

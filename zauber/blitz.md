@@ -14,6 +14,10 @@ title: Blitz
   - Heiler: 10
   - Zauberer: 7
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 8
+  - Zauberer: 6
+  - Schwarzmagier: 6
 - Preis: 310GM
 - ZB: +3
 - Dauer: Augenblicklich

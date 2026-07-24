@@ -14,6 +14,10 @@ title: Heilende Sphäre
   - Heiler: 5
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 6
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 150GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

@@ -14,6 +14,10 @@ title: Blutraub
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 460GM
 - ZB: +3
 - Dauer: Augenblicklich

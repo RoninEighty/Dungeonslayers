@@ -14,6 +14,10 @@ title: Edelsteinfalle
   - Heiler: 17
   - Zauberer: 14
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: 16
+  - Zauberer: 13
+  - Schwarzmagier: 15
 - Preis: 1140GM
 - ZB: +1 pro 10 GM
 - Dauer: Augenblicklich

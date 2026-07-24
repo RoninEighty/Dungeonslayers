@@ -14,6 +14,10 @@ title: Arkane Faust
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 10
 - Preis: 1320GM
 - ZB: +0
 - Dauer: VE x 2 KR

@@ -14,6 +14,10 @@ title: Verbesserte Selbstheilung
   - Heiler: 5
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 150GM
 - ZB: +5
 - Dauer: Augenblicklich

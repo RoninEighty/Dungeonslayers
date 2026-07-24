@@ -14,6 +14,10 @@ title: Vampirklinge
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: -
+  - Zauberer: 12
+  - Schwarzmagier: 7
 - Preis: 335GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Falsche Magie
   - Heiler: 5
   - Zauberer: 2
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 6
+  - Zauberer: 3
+  - Schwarzmagier: 4
 - Preis: 60GM
 - ZB: +0
 - Dauer: VE Tage

@@ -14,6 +14,10 @@ title: Glücksschild
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: -
 - Preis: 460GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

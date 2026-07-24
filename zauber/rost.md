@@ -14,6 +14,10 @@ title: Rost
   - Heiler: 5
   - Zauberer: 7
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 5
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 150GM
 - ZB: -WB der Waffe bzw. -PA der Rüstung
 - Dauer: Augenblicklich

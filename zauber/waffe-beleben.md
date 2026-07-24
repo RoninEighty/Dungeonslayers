@@ -14,6 +14,10 @@ title: Waffe beleben
   - Heiler: 10
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 10
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 650GM
 - ZB: -WB
 - Dauer: VE x 2 KR

@@ -14,6 +14,10 @@ title: Zauberkäfig
   - Heiler: 8
   - Zauberer: 12
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 9
+  - Zauberer: 12
+  - Schwarzmagier: 12
 - Preis: 255GM
 - ZB: -(AGI+BE)/2, -1 pro GK über normal
 - Dauer: Konzentration

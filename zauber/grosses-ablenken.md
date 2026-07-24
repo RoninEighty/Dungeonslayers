@@ -14,6 +14,10 @@ title: Grosses Ablenken
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 15
+  - Schwarzmagier: 13
 - Preis: 810GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Probenergebnis in KR

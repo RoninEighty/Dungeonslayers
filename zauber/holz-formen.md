@@ -14,6 +14,10 @@ title: Holz formen
   - Heiler: 5
   - Zauberer: 7
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 7
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 300GM
 - ZB: -1 pro Kilogramm
 - Dauer: Permanent

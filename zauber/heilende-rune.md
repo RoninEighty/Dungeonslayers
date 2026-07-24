@@ -14,6 +14,10 @@ title: Heilende Rune
   - Heiler: 7
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 7
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 220GM
 - ZB: +4
 - Dauer: Permanent, bis ausgelöst

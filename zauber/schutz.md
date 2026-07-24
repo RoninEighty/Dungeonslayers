@@ -14,6 +14,10 @@ title: Schutz
   - Heiler: 3
   - Zauberer: 5
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 2
+  - Zauberer: 4
+  - Schwarzmagier: -
 - Preis: 80GM
 - ZB: +0
 - Dauer: Probenergebnis in KR
