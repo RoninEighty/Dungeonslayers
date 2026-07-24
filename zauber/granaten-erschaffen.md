@@ -14,6 +14,10 @@ title: Granaten erschaffen
   - Heiler: 12
   - Zauberer: 17
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 11
+  - Zauberer: 16
+  - Schwarzmagier: -
 - Preis: 790GM
 - ZB: +0
 - Dauer: Augenblicklich

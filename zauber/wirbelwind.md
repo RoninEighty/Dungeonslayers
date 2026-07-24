@@ -14,6 +14,10 @@ title: Wirbelwind
   - Heiler: 17
   - Zauberer: 16
   - Schwarzmagier: 18
+- Mana:
+  - Heiler: 16
+  - Zauberer: 15
+  - Schwarzmagier: 16
 - Preis: 1140GM
 - ZB: +5
 - Dauer: VE KR

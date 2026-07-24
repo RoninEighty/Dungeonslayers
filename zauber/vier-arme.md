@@ -14,6 +14,10 @@ title: Vier Arme
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 720GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

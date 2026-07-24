@@ -14,6 +14,10 @@ title: Zorn des Lichts
   - Heiler: 3
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 80GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

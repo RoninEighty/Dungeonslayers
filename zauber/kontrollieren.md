@@ -14,6 +14,10 @@ title: Kontrollieren
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 4
 - Preis: 205GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Bis erlöst

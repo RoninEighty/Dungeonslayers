@@ -14,6 +14,10 @@ title: Ogergestalt
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 9
 - Preis: 720GM
 - ZB: -2
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Giftbann
   - Heiler: 3
   - Zauberer: 6
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 3
+  - Zauberer: 6
+  - Schwarzmagier: 10
 - Preis: 80GM
 - ZB: +0
 - Dauer: Augenblicklich

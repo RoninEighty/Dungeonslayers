@@ -14,6 +14,10 @@ title: Totenwache
   - Heiler: 2
   - Zauberer: 9
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 4
+  - Zauberer: 9
+  - Schwarzmagier: 7
 - Preis: 90GM
 - ZB: +0
 - Dauer: Probenergebnis in Tagen

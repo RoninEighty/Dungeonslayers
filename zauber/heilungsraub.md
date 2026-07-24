@@ -14,6 +14,10 @@ title: Heilungsraub
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 530GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

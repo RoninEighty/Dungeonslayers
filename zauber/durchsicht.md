@@ -14,6 +14,10 @@ title: Durchsicht
   - Heiler: 7
   - Zauberer: 3
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 8
+  - Zauberer: 5
+  - Schwarzmagier: 5
 - Preis: 220GM
 - ZB: -2
 - Dauer: VE KR

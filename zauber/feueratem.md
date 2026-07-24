@@ -14,6 +14,10 @@ title: Feueratem
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 9
 - Preis: 460GM
 - ZB: +3
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Beulenpest
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: 12
+  - Schwarzmagier: 10
 - Preis: 610GM
 - ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Probenergebnis in KR

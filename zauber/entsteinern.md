@@ -14,6 +14,10 @@ title: Entsteinern
   - Heiler: 7
   - Zauberer: 10
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: 8
+  - Zauberer: 10
+  - Schwarzmagier: 13
 - Preis: 440GM
 - ZB: +0
 - Dauer: Augenblicklich

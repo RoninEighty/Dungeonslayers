@@ -14,6 +14,10 @@ title: Eiswand
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 13
 - Preis: 510GM
 - ZB: +0
 - Dauer: Augenblicklich

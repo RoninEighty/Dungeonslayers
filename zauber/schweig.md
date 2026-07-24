@@ -14,6 +14,10 @@ title: Schweig
   - Heiler: 12
   - Zauberer: 10
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 11
+  - Zauberer: 9
+  - Schwarzmagier: 8
 - Preis: 395GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE/2 KR

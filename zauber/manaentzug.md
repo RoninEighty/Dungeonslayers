@@ -14,6 +14,10 @@ title: Manaentzug
   - Heiler: 5
   - Zauberer: 2
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 5
+  - Zauberer: 2
+  - Schwarzmagier: 3
 - Preis: 60GM
 - ZB: +0
 - Dauer: Augenblicklich

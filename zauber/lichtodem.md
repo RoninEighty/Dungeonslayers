@@ -14,6 +14,10 @@ title: Lichtodem
   - Heiler: 12
   - Zauberer: 14
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 10
+  - Zauberer: 12
+  - Schwarzmagier: -
 - Preis: 395GM
 - ZB: +5
 - Dauer: Augenblicklich

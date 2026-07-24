@@ -14,6 +14,10 @@ title: Vor Tieren verstecken
   - Heiler: 6
   - Zauberer: 12
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 7
+  - Zauberer: 11
+  - Schwarzmagier: -
 - Preis: 370GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

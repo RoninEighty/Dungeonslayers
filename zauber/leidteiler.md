@@ -14,6 +14,10 @@ title: Leidteiler
   - Heiler: 10
   - Zauberer: -
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 8
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 325GM
 - ZB: -5
 - Dauer: Augenblicklich

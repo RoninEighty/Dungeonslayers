@@ -14,6 +14,10 @@ title: Dornenwuchs
   - Heiler: 5
   - Zauberer: -
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 5
+  - Zauberer: -
+  - Schwarzmagier: 7
 - Preis: 150GM
 - ZB: +0
 - Dauer: Augenblicklich

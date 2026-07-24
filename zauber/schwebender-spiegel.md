@@ -14,6 +14,10 @@ title: Schwebender Spiegel
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: -
+  - Zauberer: 3
+  - Schwarzmagier: 3
 - Preis: 60GM
 - ZB: +0
 - Dauer: VE Minuten

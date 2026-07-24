@@ -14,6 +14,10 @@ title: Flackern
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: 3
+  - Zauberer: 5
+  - Schwarzmagier: 5
 - Preis: 45GM
 - ZB: -2
 - Dauer: Probenergebnis x 2 KR

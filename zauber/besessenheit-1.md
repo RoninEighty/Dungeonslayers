@@ -14,6 +14,10 @@ title: Besessenheit 1
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: 15
+  - Schwarzmagier: 12
 - Preis: 1520GM
 - ZB: +0
 - Dauer: VE x 2 KR

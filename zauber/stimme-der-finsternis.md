@@ -14,6 +14,10 @@ title: Stimme der Finsternis
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 12
 - Preis: 1580GM
 - ZB: -(GEI+AU)/2 + (Rang DdD) x 2
 - Dauer: Augenblicklich

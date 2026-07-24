@@ -14,6 +14,10 @@ title: Waffe des Lichts
   - Heiler: 7
   - Zauberer: 8
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 7
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 220GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

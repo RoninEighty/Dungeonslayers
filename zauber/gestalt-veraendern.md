@@ -14,6 +14,10 @@ title: Gestalt verändern
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 14
 - Preis: 920GM
 - ZB: -4
 - Dauer: Probenergebnis/2 Stunden

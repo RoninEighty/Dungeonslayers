@@ -14,6 +14,10 @@ title: Vertreiben
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Probenergebnis/2 Minuten

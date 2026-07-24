@@ -14,6 +14,10 @@ title: Durchlässig
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 11
 - Preis: 920GM
 - ZB: -4
 - Dauer: VE/2 KR

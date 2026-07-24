@@ -14,6 +14,10 @@ title: Doppelgänger 1
   - Heiler: 18
   - Zauberer: 20
   - Schwarzmagier: 19
+- Mana:
+  - Heiler: 17
+  - Zauberer: 18
+  - Schwarzmagier: 17
 - Preis: 1815GM
 - ZB: -Stufe oder GH der Zielkreatur
 - Dauer: bis Tod Zielkreatur/Doppelgänger

@@ -14,6 +14,10 @@ title: Gedankenzehrerstrahl
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 360GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Augenblicklich

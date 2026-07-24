@@ -14,6 +14,10 @@ title: Schweben
   - Heiler: 7
   - Zauberer: 5
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 5
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 210GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

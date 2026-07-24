@@ -14,6 +14,10 @@ title: Entweihen
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 800GM
 - ZB: -2
 - Dauer: 24 Stunden

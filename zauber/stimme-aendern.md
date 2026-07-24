@@ -14,6 +14,10 @@ title: Stimme ändern
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: -
+  - Zauberer: 3
+  - Schwarzmagier: 6
 - Preis: 60GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Probenergebnis in Minuten

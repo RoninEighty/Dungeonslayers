@@ -14,6 +14,10 @@ title: Totemtier
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 11
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 395GM
 - ZB: -GH des Tieres
 - Dauer: Probenergebnis in KR

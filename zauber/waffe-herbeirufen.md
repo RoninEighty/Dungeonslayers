@@ -14,6 +14,10 @@ title: Waffe herbeirufen
   - Heiler: -
   - Zauberer: 7
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 8
 - Preis: 310GM
 - ZB: +0
 - Dauer: Probenergebnis x 2 KR

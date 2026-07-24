@@ -14,6 +14,10 @@ title: Heimvorteil
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 15
 - Preis: 1530GM
 - ZB: +0
 - Dauer: VE x 2 Tage

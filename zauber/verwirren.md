@@ -14,6 +14,10 @@ title: Verwirren
   - Heiler: 8
   - Zauberer: 5
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 7
+  - Zauberer: 5
+  - Schwarzmagier: 5
 - Preis: 210GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR

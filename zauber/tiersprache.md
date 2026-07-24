@@ -14,6 +14,10 @@ title: Tiersprache
   - Heiler: 1
   - Zauberer: 7
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: 7
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: -GH/2 des Ziels
 - Dauer: VE Minuten

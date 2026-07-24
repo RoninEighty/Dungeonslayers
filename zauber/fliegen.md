@@ -14,6 +14,10 @@ title: Fliegen
   - Heiler: 20
   - Zauberer: 10
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 16
+  - Zauberer: 9
+  - Schwarzmagier: 9
 - Preis: 460GM
 - ZB: +0
 - Dauer: Probenergebnis x 5 KR

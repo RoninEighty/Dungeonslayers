@@ -14,6 +14,10 @@ title: Unverwundbarkeit
   - Heiler: 8
   - Zauberer: 14
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: 8
+  - Zauberer: 13
+  - Schwarzmagier: 13
 - Preis: 255GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

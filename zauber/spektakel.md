@@ -14,6 +14,10 @@ title: Spektakel
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 13
 - Preis: 560GM
 - ZB: -(GEI+VE)/2 (max. Wert aller Ziele)
 - Dauer: VE/2 KR

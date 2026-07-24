@@ -14,6 +14,10 @@ title: Heilbeeren
   - Heiler: 1
   - Zauberer: 10
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: 10
+  - Schwarzmagier: -
 - Preis: 20GM
 - ZB: +0
 - Dauer: Augenblicklich

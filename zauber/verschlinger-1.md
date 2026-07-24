@@ -14,6 +14,10 @@ title: Verschlinger 1
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 10
 - Preis: 660GM
 - ZB: +0
 - Dauer: VE Minuten

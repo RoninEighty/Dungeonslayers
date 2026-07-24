@@ -14,6 +14,10 @@ title: Höheren Dämon rufen
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 6
 - Preis: 410GM
 - ZB: -5 (-8 für fliegenden Dämon)
 - Dauer: Probenergebnis in KR

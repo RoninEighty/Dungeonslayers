@@ -14,6 +14,10 @@ title: Lavawand
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: -
+  - Zauberer: 12
+  - Schwarzmagier: 16
 - Preis: 1220GM
 - ZB: -2
 - Dauer: Augenblicklich

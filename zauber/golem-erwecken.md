@@ -14,6 +14,10 @@ title: Golem erwecken
   - Heiler: 10
   - Zauberer: 15
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 10
+  - Zauberer: 14
+  - Schwarzmagier: -
 - Preis: 650GM
 - ZB: -(KÖR+HÄ)/2 des Golems
 - Dauer: Augenblicklich

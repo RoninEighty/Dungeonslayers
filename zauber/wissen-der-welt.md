@@ -14,6 +14,10 @@ title: Wissen der Welt
   - Heiler: 5
   - Zauberer: 2
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 7
+  - Zauberer: 4
+  - Schwarzmagier: 5
 - Preis: 120GM
 - ZB: +0
 - Dauer: 1 KR

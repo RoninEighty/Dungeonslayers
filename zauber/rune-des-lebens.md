@@ -14,6 +14,10 @@ title: Rune des Lebens
   - Heiler: 3
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 5
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 160GM
 - ZB: +0
 - Dauer: Bis ausgelöst, dann PE x 2 KR

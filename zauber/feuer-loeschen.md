@@ -14,6 +14,10 @@ title: Feuer löschen
   - Heiler: 9
   - Zauberer: 10
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 8
+  - Zauberer: 9
+  - Schwarzmagier: 10
 - Preis: 290GM
 - ZB: +0 / -Wirkerstufe / -(KÖR+AU)/2
 - Dauer: Augenblicklich

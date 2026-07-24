@@ -14,6 +14,10 @@ title: Entkörpern
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 15
 - Preis: 1320GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: VE KR

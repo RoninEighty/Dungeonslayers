@@ -14,6 +14,10 @@ title: Kauderwelsch
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: 6
+  - Schwarzmagier: -
 - Preis: 90GM
 - ZB: +0
 - Dauer: VE Minuten

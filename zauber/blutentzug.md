@@ -14,6 +14,10 @@ title: Blutentzug
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: 3
+  - Schwarzmagier: 3
 - Preis: 160GM
 - ZB: +3
 - Dauer: Augenblicklich

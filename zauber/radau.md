@@ -14,6 +14,10 @@ title: Radau
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 7
 - Preis: 210GM
 - ZB: +0
 - Dauer: VE Minuten oder Konzentration

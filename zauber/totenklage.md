@@ -14,6 +14,10 @@ title: Totenklage
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 13
 - Preis: 985GM
 - ZB: max. -(KÖR+AU)/2 aller Ziele
 - Dauer: Augenblicklich

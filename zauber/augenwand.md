@@ -14,6 +14,10 @@ title: Augenwand
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 16
 - Preis: 1320GM
 - ZB: -2
 - Dauer: Augenblicklich

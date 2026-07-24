@@ -14,6 +14,10 @@ title: Wunde übertragen
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 1
 - Preis: 10GM
 - ZB: +0
 - Dauer: Augenblicklich

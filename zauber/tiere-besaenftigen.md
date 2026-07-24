@@ -14,6 +14,10 @@ title: Tiere besänftigen
   - Heiler: 1
   - Zauberer: 7
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 20GM
 - ZB: -LK/5 des Ziels
 - Dauer: VE Stunden

@@ -14,6 +14,10 @@ title: Fähigkeiten erkennen
   - Heiler: 3
   - Zauberer: 2
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 2
+  - Zauberer: 1
+  - Schwarzmagier: 2
 - Preis: 60GM
 - ZB: -(GEI+AU)/2 des Ziel
 - Dauer: Augenblicklich

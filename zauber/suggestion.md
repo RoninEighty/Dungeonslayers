@@ -14,6 +14,10 @@ title: Suggestion
   - Heiler: 4
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 3
+  - Zauberer: 6
+  - Schwarzmagier: 6
 - Preis: 115GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: 1 KR

@@ -14,6 +14,10 @@ title: Verschwinde
   - Heiler: 7
   - Zauberer: 12
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: 7
+  - Zauberer: 11
+  - Schwarzmagier: 13
 - Preis: 220GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Augenblicklich

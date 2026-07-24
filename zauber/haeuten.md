@@ -14,6 +14,10 @@ title: Häuten
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 7
 - Preis: 595GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich

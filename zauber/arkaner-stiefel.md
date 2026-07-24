@@ -14,6 +14,10 @@ title: Arkaner Stiefel
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 15
 - Preis: 1420GM
 - ZB: +0
 - Dauer: VE x 2 KR

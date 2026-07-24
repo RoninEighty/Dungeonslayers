@@ -14,6 +14,10 @@ title: Inquisition
   - Heiler: 9
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 9
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 580GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE Minuten

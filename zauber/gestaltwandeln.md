@@ -14,6 +14,10 @@ title: Gestaltwandeln
   - Heiler: 15
   - Zauberer: 12
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 14
+  - Zauberer: 11
+  - Schwarzmagier: -
 - Preis: 1000GM
 - ZB: -4
 - Dauer: Probenergebnis/2 KR

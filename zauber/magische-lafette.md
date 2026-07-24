@@ -14,6 +14,10 @@ title: Magische Lafette
   - Heiler: -
   - Zauberer: 16
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 15
 - Preis: 760GM
 - ZB: -4
 - Dauer: Probenergebnis in KR

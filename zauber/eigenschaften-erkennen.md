@@ -14,6 +14,10 @@ title: Eigenschaften erkennen
   - Heiler: 5
   - Zauberer: 3
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 4
+  - Zauberer: 2
+  - Schwarzmagier: 4
 - Preis: 110GM
 - ZB: -(GEI+AU)/2 des Ziel
 - Dauer: Augenblicklich

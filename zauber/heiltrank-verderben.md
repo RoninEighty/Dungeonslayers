@@ -14,6 +14,10 @@ title: Heiltrank verderben
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 8
 - Preis: 465GM
 - ZB: +0
 - Dauer: Permanent

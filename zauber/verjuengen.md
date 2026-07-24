@@ -14,6 +14,10 @@ title: Verjüngen
   - Heiler: 15
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 15
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 1500GM
 - ZB: +0
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Geheimtür
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 13
 - Preis: 1530GM
 - ZB: +0
 - Dauer: Permanent

@@ -14,6 +14,10 @@ title: Stossgebet
   - Heiler: 5
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 6
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 150GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich

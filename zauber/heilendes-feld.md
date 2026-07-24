@@ -14,6 +14,10 @@ title: Heilendes Feld
   - Heiler: 18
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 16
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 1210GM
 - ZB: +2
 - Dauer: Augenblicklich

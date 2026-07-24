@@ -14,6 +14,10 @@ title: Regeneration
   - Heiler: 15
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 13
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 500GM
 - ZB: +0
 - Dauer: VE KR

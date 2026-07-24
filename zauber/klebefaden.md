@@ -14,6 +14,10 @@ title: Klebefaden
   - Heiler: 4
   - Zauberer: 6
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 3
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 115GM
 - ZB: -(AGI+AU)/2 des Ziels oder +0
 - Dauer: Probenergebnis/2 KR

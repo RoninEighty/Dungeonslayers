@@ -14,6 +14,10 @@ title: Elementar herbeirufen
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 15
 - Preis: 920GM
 - ZB: -Elementarstufe x 5
 - Dauer: VE Stunden

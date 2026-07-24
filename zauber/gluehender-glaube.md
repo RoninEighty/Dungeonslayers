@@ -14,6 +14,10 @@ title: Glühender Glaube
   - Heiler: 6
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 7
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 185GM
 - ZB: -2
 - Dauer: Probenergebnis in KR

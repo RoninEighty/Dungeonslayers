@@ -14,6 +14,10 @@ title: Schleudern
   - Heiler: 16
   - Zauberer: 12
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 13
+  - Zauberer: 10
+  - Schwarzmagier: 9
 - Preis: 535GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich

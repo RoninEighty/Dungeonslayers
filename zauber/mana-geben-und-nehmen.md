@@ -14,6 +14,10 @@ title: Mana geben und Nehmen
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 360GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

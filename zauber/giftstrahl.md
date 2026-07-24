@@ -14,6 +14,10 @@ title: Giftstrahl
   - Heiler: -
   - Zauberer: 2
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: 2
+  - Schwarzmagier: 2
 - Preis: 10GM
 - ZB: -(KÖR+HÄ)/2 des Ziels
 - Dauer: Probenergebnis in KR

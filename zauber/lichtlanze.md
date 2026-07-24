@@ -14,6 +14,10 @@ title: Lichtlanze
   - Heiler: 10
   - Zauberer: 12
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 8
+  - Zauberer: 9
+  - Schwarzmagier: -
 - Preis: 325GM
 - ZB: +5
 - Dauer: Augenblicklich

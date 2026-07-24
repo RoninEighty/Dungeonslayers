@@ -14,6 +14,10 @@ title: Sandlanze
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 210GM
 - ZB: +1
 - Dauer: Augenblicklich

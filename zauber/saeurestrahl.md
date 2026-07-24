@@ -14,6 +14,10 @@ title: Säurestrahl
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 3
 - Preis: 205GM
 - ZB: +1
 - Dauer: Augenblicklich

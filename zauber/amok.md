@@ -14,6 +14,10 @@ title: Amok
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 7
 - Preis: 360GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR

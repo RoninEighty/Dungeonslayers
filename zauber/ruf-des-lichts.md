@@ -14,6 +14,10 @@ title: Ruf des Lichts
   - Heiler: 13
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 12
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 860GM
 - ZB: -(GEI+AU)/2 + (Rang DdL) x 2
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Tarnung
   - Heiler: 4
   - Zauberer: 2
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: 5
+  - Zauberer: 3
+  - Schwarzmagier: 3
 - Preis: 60GM
 - ZB: -2
 - Dauer: Probenergebnis in Minuten

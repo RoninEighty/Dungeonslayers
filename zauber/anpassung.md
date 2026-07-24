@@ -14,6 +14,10 @@ title: Anpassung
   - Heiler: 10
   - Zauberer: 10
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 10
+  - Zauberer: 10
+  - Schwarzmagier: 11
 - Preis: 650GM
 - ZB: +0
 - Dauer: VE x 2 Stunden

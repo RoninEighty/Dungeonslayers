@@ -14,6 +14,10 @@ title: Schwerkraft umkehren
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 16
 - Preis: 1980GM
 - ZB: -2
 - Dauer: Probenergebnis x 2 KR

@@ -14,6 +14,10 @@ title: Antimagie
   - Heiler: 16
   - Zauberer: 11
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: 15
+  - Zauberer: 10
+  - Schwarzmagier: 14
 - Preis: 1020GM
 - ZB: -2
 - Dauer: Probenergebnis in Stunden

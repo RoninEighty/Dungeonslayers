@@ -14,6 +14,10 @@ title: Gedächtnislöschung
   - Heiler: 12
   - Zauberer: 10
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 12
+  - Zauberer: 11
+  - Schwarzmagier: 12
 - Preis: 1185GM
 - ZB: -Stufe des zu löschenden Zaubers
 - Dauer: Augenblicklich

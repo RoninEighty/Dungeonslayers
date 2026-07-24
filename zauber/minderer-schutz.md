@@ -14,6 +14,10 @@ title: Minderer Schutz
   - Heiler: 1
   - Zauberer: 2
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 2
+  - Zauberer: 2
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

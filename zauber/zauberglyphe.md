@@ -14,6 +14,10 @@ title: Zauberglyphe
   - Heiler: 6
   - Zauberer: 6
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 7
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 185GM
 - ZB: +0
 - Dauer: Permanent, bis ausgelöst

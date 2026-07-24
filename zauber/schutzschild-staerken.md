@@ -14,6 +14,10 @@ title: Schutzschild stärken
   - Heiler: 4
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 6
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 230GM
 - ZB: +0
 - Dauer: Augenblicklich

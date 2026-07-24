@@ -14,6 +14,10 @@ title: Verarbeiten
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: -
 - Preis: 1020GM
 - ZB: +0
 - Dauer: Augenblicklich

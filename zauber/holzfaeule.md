@@ -14,6 +14,10 @@ title: Holzfäule
   - Heiler: 3
   - Zauberer: 7
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 3
+  - Zauberer: 7
+  - Schwarzmagier: 8
 - Preis: 80GM
 - ZB: -1 pro WB/PA/Kilogramm
 - Dauer: Augenblicklich

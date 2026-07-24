@@ -14,6 +14,10 @@ title: Blutnebel
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 14
 - Preis: 1840GM
 - ZB: +5
 - Dauer: VE KR

@@ -14,6 +14,10 @@ title: Reinigen
   - Heiler: 3
   - Zauberer: 7
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 2
+  - Zauberer: 5
+  - Schwarzmagier: -
 - Preis: 80GM
 - ZB: +0
 - Dauer: Augenblicklich

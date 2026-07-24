@@ -14,6 +14,10 @@ title: Furcht bannen
   - Heiler: 2
   - Zauberer: 6
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 1
+  - Zauberer: 4
+  - Schwarzmagier: -
 - Preis: 45GM
 - ZB: +0
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Ebene erschaffen
   - Heiler: 20
   - Zauberer: 20
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: 18
+  - Zauberer: 18
+  - Schwarzmagier: 18
 - Preis: 2025GM
 - ZB: +0
 - Dauer: Permanent

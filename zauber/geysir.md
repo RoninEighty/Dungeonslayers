@@ -14,6 +14,10 @@ title: Geysir
   - Heiler: 11
   - Zauberer: 11
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: 10
+  - Zauberer: 10
+  - Schwarzmagier: 13
 - Preis: 360GM
 - ZB: -4
 - Dauer: VE KR

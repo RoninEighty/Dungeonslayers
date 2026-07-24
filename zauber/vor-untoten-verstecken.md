@@ -14,6 +14,10 @@ title: Vor Untoten verstecken
   - Heiler: 6
   - Zauberer: 11
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 7
+  - Zauberer: 10
+  - Schwarzmagier: 8
 - Preis: 370GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

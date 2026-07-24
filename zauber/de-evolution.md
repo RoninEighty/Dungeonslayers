@@ -14,6 +14,10 @@ title: De-Evolution
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: -
+  - Zauberer: 18
+  - Schwarzmagier: 16
 - Preis: 960GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: PE in KR oder permanent (s.u.)

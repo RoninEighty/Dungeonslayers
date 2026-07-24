@@ -14,6 +14,10 @@ title: Zauber erkennen
   - Heiler: 5
   - Zauberer: 2
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 4
+  - Zauberer: 1
+  - Schwarzmagier: 2
 - Preis: 60GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Augenblicklich

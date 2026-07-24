@@ -14,6 +14,10 @@ title: Erzwungenes Versetzen
   - Heiler: 14
   - Zauberer: 11
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 13
+  - Zauberer: 10
+  - Schwarzmagier: 11
 - Preis: 465GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich

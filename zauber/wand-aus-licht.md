@@ -14,6 +14,10 @@ title: Wand aus Licht
   - Heiler: 8
   - Zauberer: 14
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 8
+  - Zauberer: 13
+  - Schwarzmagier: -
 - Preis: 510GM
 - ZB: +0
 - Dauer: VE x 2 Stunden

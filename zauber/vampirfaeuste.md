@@ -14,6 +14,10 @@ title: Vampirfäuste
   - Heiler: 2
   - Zauberer: 4
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: 2
+  - Zauberer: 3
+  - Schwarzmagier: 2
 - Preis: 50GM
 - ZB: +ST
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Unsichtbarkeit
   - Heiler: 20
   - Zauberer: 12
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 17
+  - Zauberer: 11
+  - Schwarzmagier: 11
 - Preis: 1120GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

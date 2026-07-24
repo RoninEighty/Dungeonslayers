@@ -14,6 +14,10 @@ title: Vor Konstrukten verstecken
   - Heiler: 12
   - Zauberer: 6
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 11
+  - Zauberer: 7
+  - Schwarzmagier: 9
 - Preis: 520GM
 - ZB: +0
 - Dauer: Probenergebnis in Minuten

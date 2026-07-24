@@ -14,6 +14,10 @@ title: Spionage
   - Heiler: 8
   - Zauberer: 6
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: 8
+  - Zauberer: 7
+  - Schwarzmagier: 5
 - Preis: 205GM
 - ZB: +0
 - Dauer: VE x 2 Kampfrunden

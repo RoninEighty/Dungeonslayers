@@ -14,6 +14,10 @@ title: Blenden
   - Heiler: 1
   - Zauberer: 5
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 2
+  - Zauberer: 5
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: -(AGI+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR

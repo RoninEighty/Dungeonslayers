@@ -14,6 +14,10 @@ title: Wolke der Störung
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 3
 - Preis: 75GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Probenergebnis in KR

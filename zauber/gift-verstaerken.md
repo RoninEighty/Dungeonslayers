@@ -14,6 +14,10 @@ title: Gift verstärken
   - Heiler: 12
   - Zauberer: -
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 11
+  - Zauberer: -
+  - Schwarzmagier: 7
 - Preis: 395GM
 - ZB: +0
 - Dauer: VE x 2 Minuten

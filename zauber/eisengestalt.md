@@ -14,6 +14,10 @@ title: Eisengestalt
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: -
 - Preis: 510GM
 - ZB: -2
 - Dauer: Probenergebnis in KR (speziell)

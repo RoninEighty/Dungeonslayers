@@ -14,6 +14,10 @@ title: Verbesserte Magische Faust
   - Heiler: 5
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 150GM
 - ZB: +0
 - Dauer: Probenergebnis x 2 KR

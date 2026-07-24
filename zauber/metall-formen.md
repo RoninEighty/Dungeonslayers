@@ -14,6 +14,10 @@ title: Metall formen
   - Heiler: 15
   - Zauberer: 13
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: 14
+  - Zauberer: 12
+  - Schwarzmagier: 15
 - Preis: 1000GM
 - ZB: -1 pro Kilogramm
 - Dauer: Permanent

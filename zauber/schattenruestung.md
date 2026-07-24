@@ -14,6 +14,10 @@ title: Schattenrüstung
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 8
 - Preis: 460GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

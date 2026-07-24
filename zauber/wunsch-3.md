@@ -14,6 +14,10 @@ title: Wunsch 3
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 18
+  - Schwarzmagier: -
 - Preis: 2880GM
 - ZB: +0
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Arkanes Schwert
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 8
 - Preis: 920GM
 - ZB: +0
 - Dauer: VE x 2 KR

@@ -14,6 +14,10 @@ title: Illusionswand
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 9
 - Preis: 520GM
 - ZB: +0
 - Dauer: Permanent

@@ -14,6 +14,10 @@ title: Freizauber
   - Heiler: 19
   - Zauberer: 19
   - Schwarzmagier: 19
+- Mana:
+  - Heiler: 16
+  - Zauberer: 16
+  - Schwarzmagier: 16
 - Preis: 1280GM
 - ZB: -4
 - Dauer: Probenergebnis in KR

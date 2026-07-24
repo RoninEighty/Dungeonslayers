@@ -14,6 +14,10 @@ title: Schatten
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 2
 - Preis: 75GM
 - ZB: -(AGI+AU)/2 des Ziels
 - Dauer: Probenergebnis/2 KR

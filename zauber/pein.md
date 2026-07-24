@@ -14,6 +14,10 @@ title: Pein
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 5
 - Preis: 280GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: VE Stunden

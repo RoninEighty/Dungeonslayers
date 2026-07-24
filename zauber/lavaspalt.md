@@ -14,6 +14,10 @@ title: Lavaspalt
   - Heiler: 20
   - Zauberer: 18
   - Schwarzmagier: 19
+- Mana:
+  - Heiler: 16
+  - Zauberer: 15
+  - Schwarzmagier: 15
 - Preis: 675GM
 - ZB: -4
 - Dauer: VE KR

@@ -14,6 +14,10 @@ title: Geisterlanze
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 7
 - Preis: 465GM
 - ZB: +3
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Magisches leuchten
   - Heiler: -
   - Zauberer: 3
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: -
 - Preis: 220GM
 - ZB: -2
 - Dauer: VE Minuten

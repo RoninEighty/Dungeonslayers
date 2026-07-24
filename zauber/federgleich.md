@@ -14,6 +14,10 @@ title: Federgleich
   - Heiler: 5
   - Zauberer: 3
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 4
+  - Zauberer: 2
+  - Schwarzmagier: 2
 - Preis: 110GM
 - ZB: +0
 - Dauer: 1 Minute und bis Distanz gefallen

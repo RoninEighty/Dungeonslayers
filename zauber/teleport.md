@@ -14,6 +14,10 @@ title: Teleport
   - Heiler: 20
   - Zauberer: 10
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 17
+  - Zauberer: 10
+  - Schwarzmagier: 10
 - Preis: 920GM
 - ZB: -1 pro Begleiter
 - Dauer: Augenblicklich

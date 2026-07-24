@@ -14,6 +14,10 @@ title: Verbessertes Ablenken
   - Heiler: -
   - Zauberer: 7
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 3
 - Preis: 205GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Probenergebnis in KR

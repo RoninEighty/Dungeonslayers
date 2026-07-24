@@ -14,6 +14,10 @@ title: Verkleinern
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 8
 - Preis: 920GM
 - ZB: -4
 - Dauer: Probenergebnis in Minuten

@@ -14,6 +14,10 @@ title: Schützende Schatten
   - Heiler: 3
   - Zauberer: 5
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: 4
+  - Zauberer: 6
+  - Schwarzmagier: 5
 - Preis: 80GM
 - ZB: +0
 - Dauer: VE Stunden

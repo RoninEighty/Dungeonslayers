@@ -14,6 +14,10 @@ title: Phantom
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 9
 - Preis: 360GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

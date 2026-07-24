@@ -14,6 +14,10 @@ title: Zeitinterferenz
   - Heiler: 10
   - Zauberer: 5
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 9
+  - Zauberer: 6
+  - Schwarzmagier: 8
 - Preis: 210GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: Augenblicklich

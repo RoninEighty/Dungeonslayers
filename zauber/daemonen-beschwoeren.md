@@ -14,6 +14,10 @@ title: Dämonen beschwören
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 16
+  - Schwarzmagier: 10
 - Preis: 1190GM
 - ZB: -(KÖR+AU) des Dämonen und +BB
 - Dauer: VE x 2 Stunden

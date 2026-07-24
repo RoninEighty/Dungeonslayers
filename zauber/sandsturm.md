@@ -14,6 +14,10 @@ title: Sandsturm
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: 12
+  - Schwarzmagier: 12
 - Preis: 710GM
 - ZB: +4
 - Dauer: Probenergebnis in KR

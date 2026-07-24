@@ -14,6 +14,10 @@ title: Wand der Enthüllung
   - Heiler: 16
   - Zauberer: 13
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: 15
+  - Zauberer: 12
+  - Schwarzmagier: 13
 - Preis: 1070GM
 - ZB: -2
 - Dauer: VE Stunden

@@ -14,6 +14,10 @@ title: Gegenstand entdecken
   - Heiler: 6
   - Zauberer: 4
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 7
+  - Zauberer: 6
+  - Schwarzmagier: 7
 - Preis: 320GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

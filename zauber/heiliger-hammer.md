@@ -14,6 +14,10 @@ title: Heiliger Hammer
   - Heiler: 10
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 9
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 325GM
 - ZB: +0
 - Dauer: VE KR

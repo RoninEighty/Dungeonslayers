@@ -14,6 +14,10 @@ title: Lebensspende
   - Heiler: -
   - Zauberer: 11
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 9
 - Preis: 510GM
 - ZB: +2
 - Dauer: Augenblicklich

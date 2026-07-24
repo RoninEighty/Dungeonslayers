@@ -14,6 +14,10 @@ title: Schatten erwecken
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 12
 - Preis: 1580GM
 - ZB: +0
 - Dauer: Augenblicklich

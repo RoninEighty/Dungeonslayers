@@ -14,6 +14,10 @@ title: Manakratzer
   - Heiler: 4
   - Zauberer: 4
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: 4
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 115GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

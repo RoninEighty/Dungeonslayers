@@ -14,6 +14,10 @@ title: Bodenstacheln
   - Heiler: 7
   - Zauberer: 11
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 7
+  - Zauberer: 10
+  - Schwarzmagier: 8
 - Preis: 220GM
 - ZB: +0
 - Dauer: VE KR

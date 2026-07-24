@@ -14,6 +14,10 @@ title: Konstrukt kapern
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 360GM
 - ZB: -(KÖR+BE)/2 des Konstrukts
 - Dauer: Konzentration

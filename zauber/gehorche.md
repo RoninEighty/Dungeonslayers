@@ -14,6 +14,10 @@ title: Gehorche
   - Heiler: -
   - Zauberer: 12
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 10
 - Preis: 1120GM
 - ZB: -(GEI+VE)/2 des Ziels
 - Dauer: VE/2 KR

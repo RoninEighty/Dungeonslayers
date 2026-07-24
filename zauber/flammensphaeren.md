@@ -14,6 +14,10 @@ title: Flammensphären
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 13
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 12
 - Preis: 820GM
 - ZB: +0
 - Dauer: VE Stunden

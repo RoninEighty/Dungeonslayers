@@ -14,6 +14,10 @@ title: Gerinnsel
   - Heiler: -
   - Zauberer: 3
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: 2
+  - Schwarzmagier: 1
 - Preis: 10GM
 - ZB: +1
 - Dauer: Augenblicklich

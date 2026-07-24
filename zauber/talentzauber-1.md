@@ -14,6 +14,10 @@ title: Talentzauber 1
   - Heiler: 9
   - Zauberer: 5
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: 8
+  - Zauberer: 6
+  - Schwarzmagier: 10
 - Preis: 210GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

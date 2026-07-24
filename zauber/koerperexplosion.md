@@ -14,6 +14,10 @@ title: Körperexplosion
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 18
 - Preis: 3735GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: Augenblicklich

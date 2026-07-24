@@ -14,6 +14,10 @@ title: Metall erhitzen oder abkühlen
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 9
 - Preis: 360GM
 - ZB: +0
 - Dauer: VE KR

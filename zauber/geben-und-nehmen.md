@@ -14,6 +14,10 @@ title: Geben und Nehmen
   - Heiler: 4
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 115GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

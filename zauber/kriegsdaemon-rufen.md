@@ -14,6 +14,10 @@ title: Kriegsdämon rufen
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 18
+- Mana:
+  - Heiler: -
+  - Zauberer: 17
+  - Schwarzmagier: 16
 - Preis: 1920GM
 - ZB: -10 (-17 für fliegenden Dämon)
 - Dauer: Probenergebnis in KR

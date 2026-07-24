@@ -14,6 +14,10 @@ title: Todesschutz
   - Heiler: 9
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 8
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 290GM
 - ZB: +0
 - Dauer: VE KR

@@ -14,6 +14,10 @@ title: Magnetischer Schild
   - Heiler: 5
   - Zauberer: 4
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 6
+  - Zauberer: 5
+  - Schwarzmagier: 6
 - Preis: 150GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

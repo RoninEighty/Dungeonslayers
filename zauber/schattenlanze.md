@@ -14,6 +14,10 @@ title: Schattenlanze
   - Heiler: -
   - Zauberer: 15
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 11
+  - Schwarzmagier: 7
 - Preis: 595GM
 - ZB: +5
 - Dauer: Augenblicklich

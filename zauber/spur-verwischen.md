@@ -14,6 +14,10 @@ title: Spur verwischen
   - Heiler: 2
   - Zauberer: 3
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 3
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 45GM
 - ZB: +0
 - Dauer: Augenblicklich

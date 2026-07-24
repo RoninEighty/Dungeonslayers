@@ -14,6 +14,10 @@ title: Entzaubern
   - Heiler: 20
   - Zauberer: 18
   - Schwarzmagier: 20
+- Mana:
+  - Heiler: 18
+  - Zauberer: 17
+  - Schwarzmagier: 18
 - Preis: 2025GM
 - ZB: -Wirkerstufe des Erschaffers
 - Dauer: Augenblicklich

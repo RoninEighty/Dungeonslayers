@@ -14,6 +14,10 @@ title: Wahnsinn
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 15
 - Preis: 2760GM
 - ZB: -(GEI+AU)/2 des Ziels
 - Dauer: Augenblicklich

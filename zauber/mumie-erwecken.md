@@ -14,6 +14,10 @@ title: Mumie erwecken
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 15
 - Preis: 2955GM
 - ZB: -7
 - Dauer: Augenblicklich

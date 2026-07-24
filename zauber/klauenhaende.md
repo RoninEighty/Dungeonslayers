@@ -14,6 +14,10 @@ title: Klauenhände
   - Heiler: 8
   - Zauberer: 11
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 8
+  - Zauberer: 10
+  - Schwarzmagier: 7
 - Preis: 255GM
 - ZB: -2
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Schattensäule
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 15
+- Mana:
+  - Heiler: -
+  - Zauberer: 15
+  - Schwarzmagier: 12
 - Preis: 920GM
 - ZB: +8
 - Dauer: Augenblicklich

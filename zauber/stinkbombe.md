@@ -14,6 +14,10 @@ title: Stinkbombe
   - Heiler: 3
   - Zauberer: 5
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 2
+  - Zauberer: 4
+  - Schwarzmagier: 4
 - Preis: 80GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: 1 KR

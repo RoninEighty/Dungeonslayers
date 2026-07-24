@@ -14,6 +14,10 @@ title: Unsichtbares Sehen
   - Heiler: 10
   - Zauberer: 12
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 9
+  - Zauberer: 11
+  - Schwarzmagier: 11
 - Preis: 325GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Selbstheilung
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 1
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 10GM
 - ZB: +3
 - Dauer: Augenblicklich

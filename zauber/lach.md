@@ -14,6 +14,10 @@ title: Lach
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: 7
 - Preis: 210GM
 - ZB: -(GEI+AU)/2 des Ziel
 - Dauer: VE KR

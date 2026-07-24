@@ -14,6 +14,10 @@ title: Thema finden
   - Heiler: 3
   - Zauberer: 1
   - Schwarzmagier: 2
+- Mana:
+  - Heiler: 3
+  - Zauberer: 2
+  - Schwarzmagier: 3
 - Preis: 10GM
 - ZB: +0
 - Dauer: Konzentration

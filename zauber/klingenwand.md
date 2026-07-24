@@ -14,6 +14,10 @@ title: Klingenwand
   - Heiler: 11
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 10
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 360GM
 - ZB: -2
 - Dauer: VE KR

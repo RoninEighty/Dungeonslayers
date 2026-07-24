@@ -14,6 +14,10 @@ title: Elementarschutz
   - Heiler: 6
   - Zauberer: 8
   - Schwarzmagier: 9
+- Mana:
+  - Heiler: 7
+  - Zauberer: 8
+  - Schwarzmagier: 8
 - Preis: 185GM
 - ZB: +0
 - Dauer: VE x 2 Minuten

@@ -14,6 +14,10 @@ title: Auferstehung
   - Heiler: 20
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 18
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 2025GM
 - ZB: -4
 - Dauer: Augenblicklich

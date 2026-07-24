@@ -14,6 +14,10 @@ title: Frostwaffe
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 5
+  - Schwarzmagier: -
 - Preis: 160GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

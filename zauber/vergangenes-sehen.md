@@ -14,6 +14,10 @@ title: Vergangenes sehen
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: -
 - Preis: 920GM
 - ZB: -2
 - Dauer: Probenergebnis in KR

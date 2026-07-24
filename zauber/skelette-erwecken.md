@@ -14,6 +14,10 @@ title: Skelette erwecken
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 7
 - Preis: 670GM
 - ZB: +0
 - Dauer: Augenblicklich

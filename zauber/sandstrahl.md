@@ -14,6 +14,10 @@ title: Sandstrahl
   - Heiler: -
   - Zauberer: 1
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: 1
+  - Schwarzmagier: 1
 - Preis: 10GM
 - ZB: +0
 - Dauer: Augenblicklich

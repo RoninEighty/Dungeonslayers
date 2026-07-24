@@ -14,6 +14,10 @@ title: Zementieren
   - Heiler: -
   - Zauberer: 9
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: 10
 - Preis: 410GM
 - ZB: +0
 - Dauer: VE Tage

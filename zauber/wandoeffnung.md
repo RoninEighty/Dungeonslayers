@@ -14,6 +14,10 @@ title: Wandöffnung
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 13
 - Preis: 260GM
 - ZB: +0
 - Dauer: Probenergebnis/2 KR

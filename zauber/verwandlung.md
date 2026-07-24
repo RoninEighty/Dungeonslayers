@@ -14,6 +14,10 @@ title: Verwandlung
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 10
 - Preis: 420GM
 - ZB: -2
 - Dauer: Probenergebnis/2 in Stunden

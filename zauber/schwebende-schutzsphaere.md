@@ -14,6 +14,10 @@ title: Schwebende Schutzsphäre
   - Heiler: 20
   - Zauberer: 15
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: 18
+  - Zauberer: 15
+  - Schwarzmagier: 16
 - Preis: 2025GM
 - ZB: -4
 - Dauer: Konzentration, bis zu VE x 2 KR

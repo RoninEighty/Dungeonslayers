@@ -14,6 +14,10 @@ title: Niesanfall
   - Heiler: 1
   - Zauberer: 3
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: 1
+  - Zauberer: 2
+  - Schwarzmagier: 2
 - Preis: 10GM
 - ZB: -(KÖR+AU)/2 des Ziels
 - Dauer: 1 KR

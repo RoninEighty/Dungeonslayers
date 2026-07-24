@@ -14,6 +14,10 @@ title: Klettern
   - Heiler: 6
   - Zauberer: 4
   - Schwarzmagier: 7
+- Mana:
+  - Heiler: 6
+  - Zauberer: 4
+  - Schwarzmagier: 7
 - Preis: 160GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

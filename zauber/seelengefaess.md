@@ -14,6 +14,10 @@ title: Seelengefäss
   - Heiler: -
   - Zauberer: 20
   - Schwarzmagier: 11
+- Mana:
+  - Heiler: -
+  - Zauberer: 17
+  - Schwarzmagier: 10
 - Preis: 1320GM
 - ZB: +0
 - Dauer: Augenblicklich

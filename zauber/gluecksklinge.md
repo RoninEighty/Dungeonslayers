@@ -14,6 +14,10 @@ title: Glücksklinge
   - Heiler: -
   - Zauberer: 8
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 360GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

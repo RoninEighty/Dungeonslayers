@@ -14,6 +14,10 @@ title: Steinwaffe
   - Heiler: 4
   - Zauberer: 4
   - Schwarzmagier: 4
+- Mana:
+  - Heiler: 5
+  - Zauberer: 5
+  - Schwarzmagier: 5
 - Preis: 115GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Gefahrensinn
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: -
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: -
 - Preis: 210GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

@@ -14,6 +14,10 @@ title: Wasser weihen
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 20GM
 - ZB: +0
 - Dauer: VE Stunden

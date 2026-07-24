@@ -14,6 +14,10 @@ title: Woge der Zerstörung
   - Heiler: 20
   - Zauberer: 16
   - Schwarzmagier: 18
+- Mana:
+  - Heiler: 16
+  - Zauberer: 14
+  - Schwarzmagier: 15
 - Preis: 675GM
 - ZB: +8
 - Dauer: Augenblicklich

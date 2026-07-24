@@ -14,6 +14,10 @@ title: Magie identifizieren
   - Heiler: 5
   - Zauberer: 1
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: 4
+  - Zauberer: 2
+  - Schwarzmagier: 2
 - Preis: 10GM
 - ZB: +0
 - Dauer: Augenblicklich

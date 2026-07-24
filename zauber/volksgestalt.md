@@ -14,6 +14,10 @@ title: Volksgestalt
   - Heiler: -
   - Zauberer: 5
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 420GM
 - ZB: -4
 - Dauer: Probenergebnis in Stunden

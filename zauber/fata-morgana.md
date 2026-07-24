@@ -14,6 +14,10 @@ title: Fata Morgana
   - Heiler: -
   - Zauberer: 13
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: 12
+  - Schwarzmagier: 15
 - Preis: 1220GM
 - ZB: -4
 - Dauer: VE Stunden

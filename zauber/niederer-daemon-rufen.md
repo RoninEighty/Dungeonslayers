@@ -14,6 +14,10 @@ title: Niederer Dämon rufen
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 1
+- Mana:
+  - Heiler: -
+  - Zauberer: 6
+  - Schwarzmagier: 4
 - Preis: 20GM
 - ZB: -3 (-6 für fliegenden Dämon)
 - Dauer: Probenergebnis in KR

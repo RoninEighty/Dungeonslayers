@@ -14,6 +14,10 @@ title: Giftschutz
   - Heiler: 1
   - Zauberer: 2
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: 2
+  - Zauberer: 3
+  - Schwarzmagier: 7
 - Preis: 10GM
 - ZB: +0
 - Dauer: VE Stunden

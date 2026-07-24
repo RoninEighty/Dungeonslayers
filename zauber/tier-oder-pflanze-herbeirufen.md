@@ -14,6 +14,10 @@ title: Tier oder Pflanze herbeirufen
   - Heiler: 1
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 4
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 20GM
 - ZB: -(KÖR+VE)/2 des Ziels
 - Dauer: Probenergebnis in Stunden

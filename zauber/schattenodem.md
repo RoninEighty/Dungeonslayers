@@ -14,6 +14,10 @@ title: Schattenodem
   - Heiler: -
   - Zauberer: 17
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: -
+  - Zauberer: 14
+  - Schwarzmagier: 10
 - Preis: 725GM
 - ZB: +5
 - Dauer: Augenblicklich

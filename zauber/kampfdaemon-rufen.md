@@ -14,6 +14,10 @@ title: Kampfdämon rufen
   - Heiler: -
   - Zauberer: 14
   - Schwarzmagier: 8
+- Mana:
+  - Heiler: -
+  - Zauberer: 13
+  - Schwarzmagier: 8
 - Preis: 930GM
 - ZB: -7 (-11 für fliegenden Dämon)
 - Dauer: Probenergebnis in KR

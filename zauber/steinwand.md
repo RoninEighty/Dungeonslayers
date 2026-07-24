@@ -14,6 +14,10 @@ title: Steinwand
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: -
+  - Zauberer: 10
+  - Schwarzmagier: 13
 - Preis: 920GM
 - ZB: -2
 - Dauer: Augenblicklich

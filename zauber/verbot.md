@@ -14,6 +14,10 @@ title: Verbot
   - Heiler: 7
   - Zauberer: 9
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 7
+  - Zauberer: 8
+  - Schwarzmagier: -
 - Preis: 220GM
 - ZB: -(GEI+AU)/2 des Ziel
 - Dauer: VE Stunden

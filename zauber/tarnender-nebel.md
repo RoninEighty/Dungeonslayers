@@ -14,6 +14,10 @@ title: Tarnender Nebel
   - Heiler: -
   - Zauberer: 4
   - Schwarzmagier: 3
+- Mana:
+  - Heiler: -
+  - Zauberer: 4
+  - Schwarzmagier: 3
 - Preis: 140GM
 - ZB: -2
 - Dauer: VE x 2 KR

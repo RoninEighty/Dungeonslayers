@@ -14,6 +14,10 @@ title: Lebensfeuer
   - Heiler: 2
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 45GM
 - ZB: +Rang in Diener des Lichts
 - Dauer: Probenergebnis in KR

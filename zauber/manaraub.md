@@ -14,6 +14,10 @@ title: Manaraub
   - Heiler: 8
   - Zauberer: 6
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: 7
+  - Zauberer: 6
+  - Schwarzmagier: 6
 - Preis: 255GM
 - ZB: +0
 - Dauer: Augenblicklich

@@ -14,6 +14,10 @@ title: Vision
   - Heiler: 1
   - Zauberer: 4
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: 4
+  - Zauberer: 6
+  - Schwarzmagier: 11
 - Preis: 20GM
 - ZB: +0
 - Dauer: bis nächste Probe, max. PE in KR

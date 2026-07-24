@@ -14,6 +14,10 @@ title: Erdspalt
   - Heiler: 10
   - Zauberer: 10
   - Schwarzmagier: 14
+- Mana:
+  - Heiler: 9
+  - Zauberer: 9
+  - Schwarzmagier: 13
 - Preis: 325GM
 - ZB: -4
 - Dauer: VE KR

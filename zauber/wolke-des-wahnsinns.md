@@ -14,6 +14,10 @@ title: Wolke des Wahnsinns
   - Heiler: -
   - Zauberer: -
   - Schwarzmagier: 16
+- Mana:
+  - Heiler: -
+  - Zauberer: -
+  - Schwarzmagier: 14
 - Preis: 985GM
 - ZB: -4
 - Dauer: Probenergebnis in KR

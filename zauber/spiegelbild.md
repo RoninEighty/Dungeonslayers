@@ -14,6 +14,10 @@ title: Spiegelbild
   - Heiler: -
   - Zauberer: 10
   - Schwarzmagier: 12
+- Mana:
+  - Heiler: -
+  - Zauberer: 9
+  - Schwarzmagier: 10
 - Preis: 460GM
 - ZB: +0
 - Dauer: Probenergebnis x 2 KR (oder bis verbraucht)

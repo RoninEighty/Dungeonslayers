@@ -14,6 +14,10 @@ title: Geisterklinge
   - Heiler: -
   - Zauberer: 6
   - Schwarzmagier: 6
+- Mana:
+  - Heiler: -
+  - Zauberer: 7
+  - Schwarzmagier: 7
 - Preis: 260GM
 - ZB: +0
 - Dauer: Probenergebnis in KR

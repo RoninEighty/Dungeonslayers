@@ -14,6 +14,10 @@ title: Heilendes Licht
   - Heiler: 4
   - Zauberer: -
   - Schwarzmagier: -
+- Mana:
+  - Heiler: 3
+  - Zauberer: -
+  - Schwarzmagier: -
 - Preis: 115GM
 - ZB: +2
 - Dauer: Augenblicklich

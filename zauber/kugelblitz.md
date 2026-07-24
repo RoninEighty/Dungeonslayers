@@ -14,6 +14,10 @@ title: Kugelblitz
   - Heiler: 19
   - Zauberer: 14
   - Schwarzmagier: 17
+- Mana:
+  - Heiler: 15
+  - Zauberer: 13
+  - Schwarzmagier: 15
 - Preis: 640GM
 - ZB: +5
 - Dauer: VE Minuten

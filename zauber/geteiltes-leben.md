@@ -14,6 +14,10 @@ title: Geteiltes Leben
   - Heiler: 6
   - Zauberer: 10
   - Schwarzmagier: 10
+- Mana:
+  - Heiler: 7
+  - Zauberer: 10
+  - Schwarzmagier: 10
 - Preis: 370GM
 - ZB: +2
 - Dauer: Augenblicklich

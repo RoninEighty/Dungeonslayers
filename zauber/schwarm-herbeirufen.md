@@ -14,6 +14,10 @@ title: Schwarm herbeirufen
   - Heiler: 5
   - Zauberer: 8
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 6
+  - Zauberer: 8
+  - Schwarzmagier: 6
 - Preis: 150GM
 - ZB: +0 (-4 fliegend, -2 schwimmend)
 - Dauer: Probenergebnis in KR

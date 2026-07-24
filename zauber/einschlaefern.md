@@ -14,6 +14,10 @@ title: Einschläfern
   - Heiler: 2
   - Zauberer: 5
   - Schwarzmagier: 5
+- Mana:
+  - Heiler: 3
+  - Zauberer: 5
+  - Schwarzmagier: 5
 - Preis: 45GM
 - ZB: -(KÖR+VE)/2 des jeweiligen Ziels
 - Dauer: Augenblicklich
